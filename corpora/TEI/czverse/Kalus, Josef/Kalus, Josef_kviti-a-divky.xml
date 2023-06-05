@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kvítí a dívky.</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_kviti-a-divky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kvítí a dívky.</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kvítí a dívky.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" line_length="6">Na dolích to kvítí</l>
+     <l n="2" met="001010" rhyme="1" line_length="6">víc by vůně lilo,</l>
+     <l n="3" met="100010" line_length="6">kdyby se to nebe</l>
+     <l n="4" met="101000" rhyme="1" line_length="6">nad ním nemračilo;</l>
+     <l n="5" met="100010" line_length="6">děvčátka by naše</l>
+     <l n="6" met="100010" rhyme="2" line_length="6">spanileji kvetla,</l>
+     <l n="7" met="10101010" rhyme="1" line_length="8">kdyby dole v chatkách bylo</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">vzduchu víc a světla.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

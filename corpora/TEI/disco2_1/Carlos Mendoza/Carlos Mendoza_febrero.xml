@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Febrero</title>
+    <author>Carlos Mendoza</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Carlos Mendoza_febrero</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Febrero</title>
+     <author>Carlos Mendoza</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Febrero</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">Mes con careta, tornadizo y loco,</l>
+     <l n="2" met="-+-----+-+-">en que hacen su agosto cierta damas,</l>
+     <l n="3" met="+--+-+---+-">Piscis preside, símbolo de escamas</l>
+     <l n="4" met="---+---+-+-">en que la gente reflexiona poco.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">Allá en el baile, con disfraz barroco</l>
+     <l n="6" met="-+---+-+-+-">y echando por los ojos vivas llamas,</l>
+     <l n="7" met="-+---++--+-">la chica, sin andarse por las ramas,</l>
+     <l n="8" met="+--+-+---+-">ir a cenar exige con descoco.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">Mezclado el rufián con el mendigo,</l>
+     <l n="10" met="-+---+---+-">esperan del sarao la salida</l>
+     <l n="11" met="-+-+---+-+-">hambrientos ambos, sin hogar ni abrigo.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+-+-+-">Ya vanidosa, ya de envidia roída,</l>
+     <l n="13" met="+--+-+---+-">brinca también la infancia, y en castigo</l>
+     <l n="14" met="--+--+-+-+-">de danzantes la fosa queda henchida.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

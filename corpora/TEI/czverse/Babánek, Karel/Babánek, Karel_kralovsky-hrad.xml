@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Královský hrad.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_kralovsky-hrad</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Královský hrad.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Královský hrad.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010" line_length="8">Kalné je, šedivé nebe.</l>
+     <l n="2" met="1001001" rhyme="1" line_length="7">Na hradě mrtvo a klid.</l>
+     <l n="3" met="10010010" line_length="8">Pod hradem, za řekou v městě</l>
+     <l n="4" met="1001" rhyme="1" line_length="4">mrzutý lid.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010010" line_length="8">Nádvoří zarůstá travou.</l>
+     <l n="6" met="1011001" rhyme="2" line_length="7">Smutně krok stráže v něm zní.</l>
+     <l n="7" met="10010010" line_length="8">Bez vzruchu ubíhá život,</l>
+     <l n="8" met="1001001" rhyme="2" line_length="7">ospale v mrtvu všech dní.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010010" line_length="8">Cize jak zkalené zraky,</l>
+     <l n="10" met="1011001" rhyme="3" line_length="7">oken zří do mlhy řad;</l>
+     <l n="11" met="10111000" line_length="8">z dávných dob zjev zkamenělý</l>
+     <l n="12" met="1001" rhyme="3" line_length="4">utkvěl tam hrad.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10010010" line_length="8">Kalné je, šedivé nebe.</l>
+     <l n="14" met="1011010" rhyme="4" line_length="7">Temně zvon z mlhy zní kdes.</l>
+     <l n="15" met="10010010" line_length="8">Ubíhá řeka a smutnou</l>
+     <l n="16" met="1001001" rhyme="4" line_length="7">zpívá si písničku jez.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

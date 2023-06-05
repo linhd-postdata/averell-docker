@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vítězné smrti.</title>
+    <author>Rožek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Rožek, Karel_vitezne-smrti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vítězné smrti.</title>
+     <author>Rožek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vítězné smrti.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010010010" rhyme="1" line_length="11">Jak průvod chorobných, zpoutaných dětí,</l>
+     <l n="2" met="010001010010010" rhyme="2" line_length="15">když zvony již „Te Deum“ hlásají s chrámových věží,</l>
+     <l n="3" met="01010010010" rhyme="1" line_length="11">a bubny nepřátel s výkřiky letí</l>
+     <l n="4" met="010010010010010" rhyme="2" line_length="15">juž posledním požárem, poslední divokou řeží,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11010010010" rhyme="3" line_length="11">jdou moje vzpomínky z dobyté brány,</l>
+     <l n="6" met="110010001010010" rhyme="4" line_length="15">jdou tiché a poddané. – Juž provaz nejbližší škrtí...</l>
+     <l n="7" met="1101001010010" rhyme="3" line_length="13">– Kraj celý krví, jež řine z nesmírné rány...</l>
+    </lg>
+    <lg n="3">
+     <l n="8" met="010010010010010" rhyme="4" line_length="15">Já nesmím již zpomínat, oddán jsa Vítězné Smrti.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

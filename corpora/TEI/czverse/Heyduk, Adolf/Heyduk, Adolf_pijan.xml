@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pijan.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_pijan</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pijan.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pijan.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100101010" rhyme="1" line_length="10">Sem a tam si pijan plete cestu,</l>
+     <l n="2" met="1010101010" rhyme="2" line_length="10">propilť ječmen s kopou kloubů lenu:</l>
+     <l n="3" met="1010011000" rhyme="1" line_length="10">„Koho vyhlídnout mám za nevěstu?</l>
+     <l n="4" met="1010011010" rhyme="2" line_length="10">koho vyhlídnout mám za svou ženu?“</l>
+     <l n="5" met="1010101010" rhyme="3" line_length="10">dí sám k sobě, klopě zpitou hlavu.</l>
+     <l n="6" met="1001100010" rhyme="3" line_length="10">„O květu vím u mlýnského splavu;</l>
+     <l n="7" met="1010100010" rhyme="4" line_length="10">ej, jak bílá kytička ta voní!</l>
+     <l n="8" met="1010001010" rhyme="4" line_length="10">Vejdu k mlynářovi, řeknu o ni.“</l>
+     <l n="9" met="1010001010" rhyme="4" line_length="10">Nechce kytička však, hlavu kloní,</l>
+     <l n="10" met="1010101010" rhyme="4" line_length="10">z mladých ňader zlatým srdcem zvoní:</l>
+     <l n="11" met="0010001010" rhyme="5" line_length="10">„Než bych pijanovou ženou byla,</l>
+     <l n="12" met="1010001000" rhyme="5" line_length="10">raděj v splavu bych se utopila.“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

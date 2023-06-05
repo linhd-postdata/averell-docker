@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Bajo tu influjo</title>
+    <author>Francisco Lles</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco Lles_bajo-tu-influjo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Bajo tu influjo</title>
+     <author>Francisco Lles</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Bajo tu influjo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+-++--+-">Qué bueno estar aquí, siempre a tu lado,</l>
+     <l n="2" met="-+-+-+---+-">en un estrecho abrazo confundidos,</l>
+     <l n="3" met="-+---+---+-">sintiendo de tu sangre los latidos</l>
+     <l n="4" met="-----+---+-">junto a mi corazón enamorado.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">Gustar la gloria de tu cuerpo amado,</l>
+     <l n="6" met="--+--+---+-">al temblor de tus senos oprimidos,</l>
+     <l n="7" met="--++-+---+-">y tenerte con todos los sentidos</l>
+     <l n="8" met="---+-++--+-">en inmortal amor, nunca gozado.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">Morder el fruto de tus labios rojos;</l>
+     <l n="10" met="+++--+---+-">irme hundiendo en las sombras de tus ojos;</l>
+     <l n="11" met="+-++-+-+-+-">ver cual te vas quedando exangüe y yerta;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+-+-+-">ir bebiendo tu vida, gota a gota;</l>
+     <l n="13" met="--++-++--+-">y al quebrarse del vals la última nota,</l>
+     <l n="14" met="+-+--+-+++-">de ese abrazo de amor, dejarte muerta.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

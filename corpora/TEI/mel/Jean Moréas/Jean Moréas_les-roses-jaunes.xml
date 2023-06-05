@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LES ROSES JAUNES</title>
+    <author>Jean Moréas</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jean Moréas_les-roses-jaunes</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LES ROSES JAUNES</title>
+     <author>Jean Moréas</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LES ROSES JAUNES</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4−5">Les roses jaunes ceignent les troncs</l>
+     <l n="2" rhyme="b" line_length="4−5">Des grands platanes, dans le jardin</l>
+     <l n="3" rhyme="b" line_length="4−5">Où c'est comme un tintement soudain</l>
+     <l n="4" rhyme="a" line_length="4+5">D'eau qui s'égoutte en les bassins ronds.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="b" line_length="4+5">Nul battement d'ailes, au matin ;</l>
+     <l n="6" rhyme="a" line_length="4−5">Au soir, nul souffle couchant les fronts</l>
+     <l n="7" rhyme="a" line_length="4+5">Des lis pâlis, et des liserons</l>
+     <l n="8" rhyme="b" line_length="4+5">Pâlis au clair de lune incertain.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="4+5">Et dans ce calme où la fraîcheur tombe,</l>
+     <l n="10" rhyme="c" line_length="9">C'est comme un apaisement de tombe,</l>
+     <l n="11" rhyme="d" line_length="4+5">Comme une mort qui lente viendrait</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="4+5">Sceller nos yeux de sa main clémente,</l>
+     <l n="13" rhyme="e" line_length="4+5">Dans ce calme où rien ne se lamente</l>
+     <l n="14" rhyme="d" line_length="4+5">Ou par l'espace, ou par la forêt.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

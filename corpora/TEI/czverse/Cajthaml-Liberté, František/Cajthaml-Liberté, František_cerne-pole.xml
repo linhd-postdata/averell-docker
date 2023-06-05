@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Černé pole.</title>
+    <author>Cajthaml-Liberté, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cajthaml-Liberté, František_cerne-pole</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Černé pole.</title>
+     <author>Cajthaml-Liberté, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Černé pole.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="001000101010" rhyme="1" line_length="12">Co to po kraji tam, co to pole plní</l>
+     <l n="2" met="010101100010" rhyme="1" line_length="12">a jako černý les za vichru se vlní?</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="100100100100" rhyme="2" line_length="12">„Z podzemí ubledlí fárali havíři,</l>
+     <l n="4" met="110100101010" rhyme="2" line_length="12">chtí dětem chleba víc – k pánům krok svůj míří.“</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="000100100010" rhyme="3" line_length="12">Co to tam v pozdálí na slunci se třpytí</l>
+     <l n="6" met="010100100010" rhyme="3" line_length="12">a v řadě dvojité proti nim se řítí?</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="010100100100" rhyme="4" line_length="12">„To páni na šachtě lekli se velice –</l>
+     <l n="8" met="100100100100" rhyme="4" line_length="12">k útěše přišly jim bodáky, ručnice.“</l>
+    </lg>
+    <lg n="5">
+     <l n="9" met="010100010100" rhyme="5" line_length="12">Co v kouři zahřmělo a šlehlo plamenem,</l>
+     <l n="10" met="010100100100" rhyme="5" line_length="12">co sténá, že by to hnulo i kamenem?</l>
+    </lg>
+    <lg n="6">
+     <l n="11" met="010100100100" rhyme="6" line_length="12">„To pušky mluvily, mluvily poprvé –</l>
+     <l n="12" met="010100110010" rhyme="6" line_length="12">to bude sirotků lkát kolem té krve...“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

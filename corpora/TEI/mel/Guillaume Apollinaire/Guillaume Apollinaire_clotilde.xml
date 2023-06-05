@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Clotilde</title>
+    <author>Guillaume Apollinaire</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Guillaume Apollinaire_clotilde</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Clotilde</title>
+     <author>Guillaume Apollinaire</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Clotilde</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="7">L'anémone et l'ancolie</l>
+     <l n="2" rhyme="b" line_length="7">Ont poussé dans le jardin</l>
+     <l n="3" rhyme="a" line_length="7">Où dort la mélancolie</l>
+     <l n="4" rhyme="b" line_length="8">Entre l'amour et le dédain</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="7">Il y vient aussi nos ombres</l>
+     <l n="6" rhyme="b" line_length="7">Que la nuit dissipera</l>
+     <l n="7" rhyme="a" line_length="7">Le soleil qui les rend sombres</l>
+     <l n="8" rhyme="b" line_length="8">Avec elles disparaîtra</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="7">Les déités des eaux vives</l>
+     <l n="10" rhyme="b" line_length="7">Laissent couler leurs cheveux</l>
+     <l n="11" rhyme="a" line_length="7">Passe il faut que tu poursuives</l>
+     <l n="12" rhyme="b" line_length="8">Cette belle ombre que tu veux</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

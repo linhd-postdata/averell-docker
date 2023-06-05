@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Naděje.</title>
+    <author>Crha, Václav Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Crha, Václav Antonín_nadeje</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Naděje.</title>
+     <author>Crha, Václav Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Naděje.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001000" line_length="8">Modrají se poměnečky,</l>
+     <l n="2" met="1000100" rhyme="1" line_length="7">zelená se klokočí:</l>
+     <l n="3" met="00001000" line_length="8">kdo tě as, má Anduličko,</l>
+     <l n="4" met="1000100" rhyme="1" line_length="7">ku srdéčku přitočí!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" line_length="8">Tomu zkvětou lásky růže,</l>
+     <l n="6" met="0010100" rhyme="2" line_length="7">kdo tě k srdci přivine:</l>
+     <l n="7" met="01001000" line_length="8">mně zbudou jen poměnečky,</l>
+     <l n="8" met="1000100" rhyme="2" line_length="7">klokočí mi pohyne!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

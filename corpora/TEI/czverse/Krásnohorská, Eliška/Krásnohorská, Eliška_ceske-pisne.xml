@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>České písně.</title>
+    <author>Krásnohorská, Eliška</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">7</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Krásnohorská, Eliška_ceske-pisne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>České písně.</title>
+     <author>Krásnohorská, Eliška</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>České písně.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1101010100" rhyme="1" line_length="10">Ó zlaté písně české dědiny!</l>
+     <l n="2" met="0101010100" rhyme="1" line_length="10">Vy živé báje, živé dějiny!</l>
+     <l n="3" met="01010101010" rhyme="2" line_length="11">Vy kvítka plná vůně, plná něhy,</l>
+     <l n="4" met="11000100010" rhyme="2" line_length="11">ach, nezhynulá pod ledy a sněhy!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010001" line_length="10">vy z lůna země pěly jste: Již taj!</l>
+     <l n="6" met="01010101000" rhyme="3" line_length="11">My chceme žít, my kvítka poesie,</l>
+     <l n="7" met="01010101010" rhyme="3" line_length="11">a národ, jenž nás pěje, žije, žije!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

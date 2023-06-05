@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jarní vánek.</title>
+    <author>Ambrož, Vilém</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ambrož, Vilém_jarni-vanek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jarní vánek.</title>
+     <author>Ambrož, Vilém</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jarní vánek.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010" line_length="6">Věje teplý vánek,</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">věje z jižní strany –</l>
+     <l n="3" met="101010" line_length="6">a to trudné zimě</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">zvoní vesna hrany.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101010" line_length="6">Slunce milá záře</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">opět zemi vroubí –</l>
+     <l n="7" met="101010" line_length="6">a to jasné nebe</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">se zemí se snoubí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100010" line_length="6">Na lučinách pučí</l>
+     <l n="10" met="101010" rhyme="3" line_length="6">steré, pestré kvítky –</l>
+     <l n="11" met="101010" line_length="6">a to vesna snáší</l>
+     <l n="12" met="101010" rhyme="3" line_length="6">na zem nebes dítky. –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

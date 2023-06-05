@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ČESKÁ MODLITBA</title>
+    <author>Havlíček Borovský, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Havlíček Borovský, Karel_ceska-modlitba</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ČESKÁ MODLITBA</title>
+     <author>Havlíček Borovský, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ČESKÁ MODLITBA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" rhyme="1" line_length="8">Svatý Jene z Nepomuku,</l>
+     <l n="2" met="11001010" rhyme="1" line_length="8">drž nad námi svoji ruku,</l>
+     <l n="3" met="00110110" rhyme="2" line_length="8">ať nám Bůh dá, co dal tobě,</l>
+     <l n="4" met="00101010" rhyme="2" line_length="8">by náš jazyk nezhnil v hrobě!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ŽÍT!</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_zit</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ŽÍT!</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ŽÍT!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100000101" rhyme="1" line_length="10">Tak jednou řek’ jsem si: Já budu žít!</l>
+     <l n="2" met="1001001011" rhyme="1" line_length="10">Z poháru radosti Věčnost chci pít,</l>
+     <l n="3" met="0100101001" rhyme="2" line_length="10">neb Radost a Věčnost jedna jest věc,</l>
+     <l n="4" met="010110001001" rhyme="2" line_length="12">a Duše chce svobodu, a Život jich klec.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0100101000" rhyme="3" line_length="10">Nuž, rozbíti klec – v tom záhada jest,</l>
+     <l n="6" met="01001001001" rhyme="3" line_length="11">a vězeň jak dívám se v bezedna hvězd,</l>
+     <l n="7" met="0100100100" rhyme="4" line_length="10">jak mřížemi řinčím, dál odtud, pryč!</l>
+     <l n="8" met="11001001001" rhyme="4" line_length="11">má chábne vždy síla a vzrůstá jen chtíč!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001000101" rhyme="5" line_length="11">A nechť se i utluku, nechť ztracen cíl,</l>
+     <l n="10" met="0101001001" rhyme="5" line_length="10">i v tomto zápasu přece jsem žil!</l>
+     <l n="11" met="01010001000" rhyme="6" line_length="11">Nechť klec jsem nerozbil, nechť tluku se v ní,</l>
+     <l n="12" met="1001011001" rhyme="6" line_length="10">vždycky se v záři hvězd bezpečně sní...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

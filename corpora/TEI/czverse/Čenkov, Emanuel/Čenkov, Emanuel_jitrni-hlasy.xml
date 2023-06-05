@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jitřní hlasy.</title>
+    <author>Čenkov, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čenkov, Emanuel_jitrni-hlasy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jitřní hlasy.</title>
+     <author>Čenkov, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jitřní hlasy.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010011010" rhyme="1" line_length="11">Po noci probdělé sen oči klíží</l>
+     <l n="2" met="010100100100" rhyme="2" line_length="12">a mdlobou jímá tě na loži s nebesy,</l>
+     <l n="3" met="01010001010" rhyme="1" line_length="11">ač zlatá záře již se jizbou plíží</l>
+     <l n="4" met="0101010100" rhyme="2" line_length="10">a s krajkou záclon v okně hraje si.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010001010" rhyme="3" line_length="11">V své tušíš mrákotě, jak Paříž vstává,</l>
+     <l n="6" met="010100010101" rhyme="4" line_length="12">kýs příliv bouřlivý tak temně slyšíš hřmít,</l>
+     <l n="7" met="01010010010" rhyme="3" line_length="11">jak boj by vzplanul zas za lidská práva,</l>
+     <l n="8" met="1001000101" rhyme="4" line_length="10">do tvrdých bastil jak by chtěli bít.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="11001101010" rhyme="5" line_length="11">Z vln šumivých zní vážný chorál hlasů</l>
+     <l n="10" met="010101010101" rhyme="6" line_length="12">„Vlasť!“ „Volnosť!“ „Světlo!“, hesla slyšíš, chvílí zpěv,</l>
+     <l n="11" met="11001101010" rhyme="5" line_length="11">v snů přeludu zříš zoru svatých časů</l>
+     <l n="12" met="0100010001" rhyme="6" line_length="10">a nevíš – že to dryáčníků řev!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

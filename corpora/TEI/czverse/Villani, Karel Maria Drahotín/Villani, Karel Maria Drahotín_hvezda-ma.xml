@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hvězda má.</title>
+    <author>Villani, Karel Maria Drahotín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Villani, Karel Maria Drahotín_hvezda-ma</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hvězda má.</title>
+     <author>Villani, Karel Maria Drahotín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hvězda má.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" rhyme="1" line_length="8">Obklopen jsem tmavou nocí,</l>
+     <l n="2" met="10101010" rhyme="2" line_length="8">Vůkol pusto na mne zírá;</l>
+     <l n="3" met="10001010" rhyme="1" line_length="8">Podivnou jen jakous mocí</l>
+     <l n="4" met="10001010" rhyme="2" line_length="8">Jediná mi hvězda kývá.</l>
+     <l n="5" met="10001010" rhyme="3" line_length="8">Zachvěju se – zírám na ni –</l>
+     <l n="6" met="10001010" rhyme="4" line_length="8">Smělost se mi v srdce vhostí:</l>
+     <l n="7" met="00101010" rhyme="3" line_length="8">Jest to hvězda moje ranní,</l>
+     <l n="8" met="00101000" rhyme="4" line_length="8">Jenž mi kyne ku činnosti!!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

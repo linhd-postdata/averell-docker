@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Básníku protiformalistovi.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_basniku-protiformalistovi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Básníku protiformalistovi.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Básníku protiformalistovi.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" rhyme="1" line_length="6">Leháš s tím a vstáváš,</l>
+     <l n="2" met="00101" rhyme="2" line_length="5">že je forma střep.</l>
+     <l n="3" met="010010100" rhyme="2" line_length="9">Ba, Tvá jest; však ona na pohřeb</l>
+     <l n="4" met="0010100010" rhyme="1" line_length="10">víc než stačí toho, co v ni dáváš.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

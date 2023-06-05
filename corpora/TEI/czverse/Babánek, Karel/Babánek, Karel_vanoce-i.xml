@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VÁNOCE. (I.)</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_vanoce-i</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VÁNOCE. (I.)</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VÁNOCE. (I.)</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010010" line_length="8">Sníh padá tiše, tak tiše,</l>
+     <l n="2" met="010100" rhyme="1" line_length="6">a ticho v ulicích,</l>
+     <l n="3" met="010010010" line_length="9">a podivné tajemné kouzlo</l>
+     <l n="4" met="110000" rhyme="1" line_length="6">chvil štědrovečerních.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010010" line_length="8">Naproti vánoční stromek</l>
+     <l n="6" met="010100" rhyme="2" line_length="6">se v okně rozhoří –</l>
+     <l n="7" met="110010010" line_length="9">hlas milý tak dávnou zas řečí</l>
+     <l n="8" met="010100" rhyme="2" line_length="6">to ke mně hovoří.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010010010" line_length="9">Tou řečí tak drahou a tesknou,</l>
+     <l n="10" met="110100" rhyme="3" line_length="6">snem zase mámivým –</l>
+     <l n="11" met="10001010" line_length="8">zadumán sám doma sedím</l>
+     <l n="12" met="010001" rhyme="3" line_length="6">já v podvečer a sním.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

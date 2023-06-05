@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V soumraku.</title>
+    <author>Květ, Bohuslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Květ, Bohuslav_v-soumraku</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V soumraku.</title>
+     <author>Květ, Bohuslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V soumraku.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" rhyme="1" line_length="8">Na šedá lada soumrak pad’,</l>
+     <l n="2" met="01000100" line_length="8">i v duši mou se tiše vkrad’.</l>
+     <l n="3" met="01010100" rhyme="2" line_length="8">Jen jedna hvězda nad hlavou</l>
+     <l n="4" met="01010100" line_length="8">svůj odlesk vrhá v duši mou.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01001100" rhyme="3" line_length="8">A v temno jak zrak upírám,</l>
+     <l n="6" met="01010100" line_length="8">jen jedna cesta bělá se,</l>
+     <l n="7" met="10010100" rhyme="3" line_length="8">po níž se zvolna ubírám,</l>
+     <l n="8" met="01011000" line_length="8">kde černý hrob otvírá se...</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" rhyme="4" line_length="8">A hvězda září do temna,</l>
+     <l n="10" met="01010100" line_length="8">že hrůzy žádné necítím,</l>
+     <l n="11" met="01010100" rhyme="4" line_length="8">neb vím, že ve tmě Tajemna</l>
+     <l n="12" met="01010100" line_length="8">se shledám s drahým synkem svým.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

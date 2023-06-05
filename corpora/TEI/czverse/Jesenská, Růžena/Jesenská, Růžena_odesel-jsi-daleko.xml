@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Odešel jsi daleko...</title>
+    <author>Jesenská, Růžena</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jesenská, Růžena_odesel-jsi-daleko</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Odešel jsi daleko...</title>
+     <author>Jesenská, Růžena</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Odešel jsi daleko...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000100" line_length="7">Odešel jsi daleko,</l>
+     <l n="2" met="1010100" rhyme="1" line_length="7">loďka má se potácí,</l>
+     <l n="3" met="00101010" line_length="8">však z té tvojí těžké dálky</l>
+     <l n="4" met="1000100" rhyme="1" line_length="7">nikdo se víc nevrací.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010101" line_length="7">Kdybys měl tu velkou moc,</l>
+     <l n="6" met="0010101" rhyme="2" line_length="7">ty bys tušil hrůzu chvil,</l>
+     <l n="7" met="00101010" line_length="8">ty bys přišel ke mně zpátky,</l>
+     <l n="8" met="0110100" rhyme="2" line_length="7">a vím, co bys učinil!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1000100" line_length="7">Přišel bys a v cesty mé</l>
+     <l n="10" met="1010100" rhyme="3" line_length="7">květy květů nasypal –</l>
+     <l n="11" met="10101010" line_length="8">a zas šel bys tiše, smutně</l>
+     <l n="12" met="1000100" rhyme="3" line_length="7">v nekonečnou šerou dál.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

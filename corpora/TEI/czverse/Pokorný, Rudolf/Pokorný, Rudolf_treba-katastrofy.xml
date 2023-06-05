@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Třeba katastrofy!</title>
+    <author>Pokorný, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný, Rudolf_treba-katastrofy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Třeba katastrofy!</title>
+     <author>Pokorný, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Třeba katastrofy!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101000" line_length="10">Bez srpnové naší katastrofy</l>
+     <l n="2" met="100010100" line_length="9">nebyl by se nadchnul národ náš;</l>
+     <l n="3" met="1010101010" line_length="10">třeba ještě, aby naše knihy</l>
+     <l n="4" met="101010100" line_length="9">spálil nový otec Koniáš!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

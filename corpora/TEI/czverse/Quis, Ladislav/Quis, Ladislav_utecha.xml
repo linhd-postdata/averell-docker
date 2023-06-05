@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Útěcha.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_utecha</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Útěcha.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Útěcha.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10100010100" line_length="11">A. Ten šerednosti kultus v umění</l>
+     <l n="2" met="01000100010" rhyme="1" line_length="11">již přestává jen vybízeti k žertu,</l>
+     <l n="3" met="01000" line_length="5">zde nebezpečí.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="10100" line_length="5">B. To se promění;</l>
+     <l n="5" met="11000101010" rhyme="1" line_length="11">lid musí též se druhdy modlit k čertu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

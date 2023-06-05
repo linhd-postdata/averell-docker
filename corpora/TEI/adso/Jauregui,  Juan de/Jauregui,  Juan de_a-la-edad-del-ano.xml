@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A la edad del año </title>
+    <author>Jauregui,  Juan de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jauregui,  Juan de_a-la-edad-del-ano</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A la edad del año </title>
+     <author>Jauregui,  Juan de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A la edad del año </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">De verdes ramas y de frescas flores</l>
+     <l n="2" met="-+-+---+-+-">vistió la Tierra, en su niñez infante,</l>
+     <l n="3" met="-+-+---+-+-">el virgen seno, y su vivaz semblante</l>
+     <l n="4" met="-+-+-+---+-">ornó de mil guirnaldas de colores.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">Joven después, en plácidos amores</l>
+     <l n="6" met="-+-+---+-+-">gozando, al cielo, su amador constante,</l>
+     <l n="7" met="---+---+-+-">de las entrañas, como tierna amante,</l>
+     <l n="8" met="--+--+-+-+-">de suspiros en vez, lanzó vapores.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++---+-+-+-">Mil frutos de sazón, el vientre abierto,</l>
+     <l n="10" met="+--+-+-+-+-">luego produjo, al puro viento ufana,</l>
+     <l n="11" met="+----+-+-+-">broca pero la faz mostrando y ruda.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+---+-+-">Hoy, arrugado, en su vejez, el yerto</l>
+     <l n="13" met="+--+---+-+-">rostro la vemos, y de nieves cana:</l>
+     <l n="14" met="+--+---+-+-">todo la edad lo descompone y muda.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

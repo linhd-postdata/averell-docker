@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jirásek.</title>
+    <author>Pokorný, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný, Rudolf_jirasek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jirásek.</title>
+     <author>Pokorný, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jirásek.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010101010" rhyme="1" line_length="12">Jaká by to, můj ty bože, byla díra,</l>
+     <l n="2" met="101010001010" rhyme="1" line_length="12">kdyby u nás při muzice scházel Jíra?</l>
+     <l n="3" met="10101000" rhyme="2" line_length="8">Chytne k tanci pohoračku,</l>
+     <l n="4" met="10001000" rhyme="2" line_length="8">skočí s ní si rejdovačku;</l>
+     <l n="5" met="1010101010" rhyme="1" line_length="10">někdy Jíra chytne taky – štíra...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

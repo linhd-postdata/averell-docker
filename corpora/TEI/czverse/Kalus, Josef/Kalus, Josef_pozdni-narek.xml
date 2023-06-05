@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pozdní nářek.</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_pozdni-narek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pozdní nářek.</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pozdní nářek.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000100" rhyme="1" line_length="7">Naříká si Pochyla,</l>
+     <l n="2" met="0010100" rhyme="1" line_length="7">že mu padla kobyla,</l>
+     <l n="3" met="0010100" rhyme="1" line_length="7">co ho světem vozila.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="0110100" rhyme="2" line_length="7">Však má pro co naříkat!</l>
+     <l n="5" met="1010101" rhyme="2" line_length="7">Býval na ni jako kat,</l>
+     <l n="6" met="1010001" rhyme="2" line_length="7">bitím zaháněl jí hlad.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="1000100" rhyme="3" line_length="7">Hryzala jen křoviska,</l>
+     <l n="8" met="0100100" rhyme="3" line_length="7">víc užila bičiska</l>
+     <l n="9" met="0100100" rhyme="3" line_length="7">než zlatého ovíska.</l>
+    </lg>
+    <lg n="4">
+     <l n="10" met="0100100" rhyme="4" line_length="7">A kobylka nedbala,</l>
+     <l n="11" met="1000100" rhyme="4" line_length="7">žrala-li či nežrala,</l>
+     <l n="12" met="1001100" rhyme="4" line_length="7">poslušně vůz tahala.</l>
+    </lg>
+    <lg n="5">
+     <l n="13" met="1010100" rhyme="5" line_length="7">Bil ji hlava nehlava,</l>
+     <l n="14" met="0100100" rhyme="5" line_length="7">až kobylka belhavá</l>
+     <l n="15" met="1010100" rhyme="5" line_length="7">padla k zemi krvavá.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

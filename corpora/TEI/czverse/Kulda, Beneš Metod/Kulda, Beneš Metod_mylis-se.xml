@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mýlíš se!</title>
+    <author>Kulda, Beneš Metod</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kulda, Beneš Metod_mylis-se</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mýlíš se!</title>
+     <author>Kulda, Beneš Metod</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mýlíš se!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010001010" rhyme="1" line_length="9">Že bez základů víry svaté</l>
+     <l n="2" met="110101010" rhyme="1" line_length="9">máš srdce láskou k vlasti jaté?</l>
+     <l n="3" met="11010100" rhyme="2" line_length="8">Máš srdce chabé, nestálé!</l>
+     <l n="4" met="010001010" rhyme="3" line_length="9">Kdo pro Boha svůj národ drahý</l>
+     <l n="5" met="110100010" rhyme="3" line_length="9">chce hájit před škůdci a vrahy,</l>
+     <l n="6" met="01000100" rhyme="2" line_length="8">ten nepůsobí nedbale.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

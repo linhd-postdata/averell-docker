@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>BYL VEČER Z TĚCH...</title>
+    <author>Opolský, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Opolský, Jan_byl-vecer-z-tech</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>BYL VEČER Z TĚCH...</title>
+     <author>Opolský, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>BYL VEČER Z TĚCH...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100010" rhyme="1" line_length="11">Byl večer z těch, jež balsamují mžikem,</l>
+     <l n="2" met="0100010100" rhyme="2" line_length="10">a večer z těch, jež blahem poraní,</l>
+     <l n="3" met="01010101000" rhyme="1" line_length="11">to bude sen dnes širým panovníkem</l>
+     <l n="4" met="0100010100" rhyme="2" line_length="10">a panovníci jeho poddaní.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101010" rhyme="3" line_length="11">A všechen ruch se v hluchém lese ztají,</l>
+     <l n="6" met="1100010100" rhyme="4" line_length="10">hlas bažantů se z hlubin vytratí,</l>
+     <l n="7" met="01010100010" rhyme="3" line_length="11">než vzejde srp, by sesinavěl v kraji</l>
+     <l n="8" met="0101010100" rhyme="4" line_length="10">a v smutku počne pleso líbati.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

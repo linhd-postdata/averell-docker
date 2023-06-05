@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Villanelle</title>
+    <author>Charles-Marie Leconte de Lisle</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Charles-Marie Leconte de Lisle_villanelle</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Villanelle</title>
+     <author>Charles-Marie Leconte de Lisle</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Villanelle</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Le Temps, l'Étendue et le Nombre</l>
+     <l n="2" rhyme="b" line_length="8">Sont tombés du noir firmament</l>
+     <l n="3" rhyme="a" line_length="8">Dans la mer immobile et sombre.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="a" line_length="8">Suaire de silence et d'ombre,</l>
+     <l n="5" rhyme="b" line_length="8">La nuit efface absolument</l>
+     <l n="6" rhyme="a" line_length="8">Le Temps, l'Étendue et le Nombre.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="a" line_length="8">Tel qu'un lourd et muet décombre,</l>
+     <l n="8" rhyme="b" line_length="8">L'Esprit plonge au vide dormant,</l>
+     <l n="9" rhyme="a" line_length="8">Dans la mer immobile et sombre.</l>
+    </lg>
+    <lg n="4">
+     <l n="10" rhyme="a" line_length="8">En lui-même, avec lui, tout sombre,</l>
+     <l n="11" rhyme="b" line_length="8">Souvenir, rêve, sentiment,</l>
+     <l n="12" rhyme="a" line_length="8">Le Temps, l'Étendue et le Nombre,</l>
+     <l n="13" rhyme="a" line_length="8">Dans la mer immobile et sombre.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

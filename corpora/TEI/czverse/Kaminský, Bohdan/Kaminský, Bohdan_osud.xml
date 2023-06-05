@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>OSUD.</title>
+    <author>Kaminský, Bohdan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kaminský, Bohdan_osud</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>OSUD.</title>
+     <author>Kaminský, Bohdan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>OSUD.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101010" rhyme="1" line_length="9">Básnickou vydal sbírku jednu,</l>
+     <l n="2" met="010001010" rhyme="1" line_length="9">žel, vyčerpal se při tom ke dnu,</l>
+     <l n="3" met="01000100" rhyme="2" line_length="8">pak zachvátil jej slavomam –</l>
+     <l n="4" met="010001010" rhyme="3" line_length="9">však se slávou je někdy svízel,</l>
+     <l n="5" met="110001010" rhyme="3" line_length="9">pan autor kdes i s knížkou zmizel:</l>
+     <l n="6" met="11000100" rhyme="2" line_length="8">šel do sebe a – zůstal tam...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_v</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000101010" rhyme="1" line_length="11">Až za noci mne sen v svůj závoj skryje,</l>
+     <l n="2" met="01001001010" rhyme="2" line_length="11">já uzřím ji v zářícím slunce plání</l>
+     <l n="3" met="11001001000" rhyme="1" line_length="11">jít záhonem bělejší nad lilie</l>
+     <l n="4" met="01010101000" rhyme="2" line_length="11">tak mezi květy v sladkém usmívání.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01001001010" rhyme="3" line_length="11">A pohledem rozjasní chmury temné,</l>
+     <l n="6" met="01000101000" rhyme="4" line_length="11">to hvězdy jak když blesknou ve hlubiny,</l>
+     <l n="7" met="10010101010" rhyme="3" line_length="11">dotekem vlídným bílé ruky jemné</l>
+     <l n="8" met="10010100010" rhyme="4" line_length="11">zaplaší s čela bledého mi stíny.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000101000" rhyme="5" line_length="11">A v utěšivém, lehkém naklonění</l>
+     <l n="10" met="01000101010" rhyme="3" line_length="11">se rozplynou mé strasti všecky bědné,</l>
+     <l n="11" met="01001001010" rhyme="5" line_length="11">a ráno než zaplane v moje snění,</l>
+     <l n="12" met="01010100010" rhyme="3" line_length="11">snad úsměv tiše na rety mi slétne.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

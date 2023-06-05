@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Paon</title>
+    <author>Guillaume Apollinaire</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Guillaume Apollinaire_le-paon</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Paon</title>
+     <author>Guillaume Apollinaire</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Paon</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">En faisant la roue, cet oiseau,</l>
+     <l n="2" rhyme="b" line_length="8">Dont le pennage traîne à terre,</l>
+     <l n="3" rhyme="a" line_length="8">Apparaît encore plus beau,</l>
+     <l n="4" rhyme="b" line_length="8">Mais se découvre le derrière.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

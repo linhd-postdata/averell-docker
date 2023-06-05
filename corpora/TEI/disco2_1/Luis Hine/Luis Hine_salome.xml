@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Salomé</title>
+    <author>Luis Hine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Luis Hine_salome</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Salomé</title>
+     <author>Luis Hine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Salomé</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+-+--+-+-">Dicen que fuiste mala, dicen que fuiste impía,</l>
+     <l n="2" met="+-+--+--+--+-">que una noche abrileña de azahar perfumada,</l>
+     <l n="3" met="-+-+-+---+--+-">a Herodes le pediste la cabeza sagrada</l>
+     <l n="4" met="----+---++-+-">de San Juan el Bautista, porque no te quería.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+++++--+-">La verdad no fue así. Una noche de orgía,</l>
+     <l n="6" met="--+--+--++-+-">el Tetrarca de oriente al mirarte embriagada,</l>
+     <l n="7" met="-++--+-+-+--+-">robó un beso a tu boca, roja flor de granada,</l>
+     <l n="8" met="--+--+---+--+-">y olvidó su corona, por tu danza judía.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+-++---+--+-">En las redes ya presto de tu carne dorada,</l>
+     <l n="10" met="--++-+--+--+-">escuchó aquella voz que su amor maldecía</l>
+     <l n="11" met="--++-+---+--+-">y ordenó le llevaran la cabeza cortada</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+--+-">del Profeta importuno que turbó su alegría.</l>
+     <l n="13" met="+-+--+---+--+-">Le cerraste los ojos y en su barba rizada,</l>
+     <l n="14" met="+-+--+---+--+-">una hilera de perlas, con tu llanto se hacía.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

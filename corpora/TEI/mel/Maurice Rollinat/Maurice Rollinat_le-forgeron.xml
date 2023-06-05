@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Forgeron</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_le-forgeron</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Forgeron</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Forgeron</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Dans sa forge aux murs bas d'où le jour va s'enfuir,</l>
+     <l n="2" rhyme="b" line_length="6+6">Haut, roide, et sec du cou, des jambes et du buste,</l>
+     <l n="3" rhyme="a" line_length="6+6">Il tire, mécanique, en tablier de cuir,</l>
+     <l n="4" rhyme="b" line_length="6+6">La chaîne d'acier clair du grand soufflet robuste.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Il regarde fourcher, rougeoyer et bleuir</l>
+     <l n="6" rhyme="b" line_length="6+6">Les langues de la flamme en leur fourneau tout fruste,</l>
+     <l n="7" rhyme="b" line_length="6+6">Et voici que des glas tintent sinistres… juste :</l>
+     <l n="8" rhyme="a" line_length="6+6">Le crépuscule alors vient de s'évanouir.</l>
+    </lg>
+    <lg n="3" />
+    <lg n="4" />
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Martha</title>
+    <author>Alexandre Ducros</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alexandre Ducros_martha</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Martha</title>
+     <author>Alexandre Ducros</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Martha</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Faut-il toujours, pensif et sombre,</l>
+     <l n="2" rhyme="b" line_length="8">Marcher à la clarté des cieux,</l>
+     <l n="3" rhyme="a" line_length="8">Et de nos jours compter le nombre</l>
+     <l n="4" rhyme="b" line_length="8">Par les soucis, les soins fâcheux ?</l>
+     <l n="5" rhyme="c" line_length="8">La mort vient qui nous en délie.</l>
+     <l n="6" rhyme="d" line_length="8">Trop courts sont les heureux moments !</l>
+     <l n="7" rhyme="d" line_length="8">Ne connaissons que les tourments</l>
+     <l n="8" rhyme="c" line_length="8">De l'amour et de sa folie !</l>
+    </lg>
+    <lg n="2" />
+   </lg>
+  </body>
+ </text>
+</TEI>

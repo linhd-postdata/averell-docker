@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Ruisseau</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_le-ruisseau</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Ruisseau</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Ruisseau</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Mère, tenant de toi l'orgueil essentiel,</l>
+     <l n="2" rhyme="b" line_length="6+6">Ta fille, (tu l'aurais entre toutes choisie !)</l>
+     <l n="3" rhyme="b" line_length="6+6">Belle enfant dont le cœur ingénu s'extasie,</l>
+     <l n="4" rhyme="a" line_length="6+6">N'aime rien de vulgaire et d'artificiel.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Moi, je dédaignerai tout art matériel,</l>
+     <l n="6" rhyme="b" line_length="6+6">Car de toi j'ai reçu l'ardente poésie</l>
+     <l n="7" rhyme="b" line_length="6+6">De ton esprit subtil que le beau rassasie,</l>
+     <l n="8" rhyme="a" line_length="6+6">Comme tu m'as donné tes yeux emplis de ciel.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Et c'est toi que tu sens en moi lutter, poursuivre</l>
+     <l n="10" rhyme="c" line_length="6+6">Le but, toi dont la voix charmante qui m'enivre</l>
+     <l n="11" rhyme="d" line_length="6+6">Murmurait comme un Ange auprès de mon berceau !</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Telle, aux humides prés, la Naïade ravie,</l>
+     <l n="13" rhyme="d" line_length="6+6">Dont le sort incertain est celui du ruisseau,</l>
+     <l n="14" rhyme="e" line_length="6+6">Rêveuse, en flots d'argent voit s'écouler sa vie.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

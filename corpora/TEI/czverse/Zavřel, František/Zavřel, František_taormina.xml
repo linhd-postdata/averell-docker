@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>TAORMINA</title>
+    <author>Zavřel, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Zavřel, František_taormina</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>TAORMINA</title>
+     <author>Zavřel, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>TAORMINA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="000101000" rhyme="1" line_length="9">Kde je ten kraj, kde zapomíná</l>
+     <l n="2" met="01010100" rhyme="2" line_length="8">tvé srdce kletbu někdejší</l>
+     <l n="3" met="100101010100" rhyme="2" line_length="12">a kde je moře, sněhy, slunce konejší,</l>
+     <l n="4" met="01000101010" rhyme="1" line_length="11">že na konec je jako srdce jiná?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00010101" rhyme="3" line_length="8">Kde je ten kraj, kde moře dech</l>
+     <l n="6" met="100101010" rhyme="4" line_length="9">pod hrozbou Etny tiše vlaje,</l>
+     <l n="7" met="010101000" rhyme="4" line_length="9">tak jako člověk unikaje</l>
+     <l n="8" met="11000100" rhyme="3" line_length="8">zří po umlklých demonech?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="00010101" rhyme="5" line_length="8">Kde je ten kraj, kde mlčí sníh</l>
+     <l n="10" met="01010101000" rhyme="1" line_length="11">a moře v loktech nebes uhasíná,</l>
+     <l n="11" met="01010100" rhyme="5" line_length="8">že ve tvých zracích užaslých</l>
+     <l n="12" met="010100001000" rhyme="1" line_length="12">je dík a jiného už nic? Taormina!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

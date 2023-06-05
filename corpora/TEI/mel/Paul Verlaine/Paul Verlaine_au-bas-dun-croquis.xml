@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>AU BAS D’UN CROQUIS</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_au-bas-dun-croquis</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>AU BAS D’UN CROQUIS</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>AU BAS D’UN CROQUIS</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Paul Verlaine (Félix Régamey pingebat)</l>
+     <l n="2" rhyme="b" line_length="6+6">Muet, inattentif aux choses de la rue,</l>
+     <l n="3" rhyme="a" line_length="6+6">Digère, cependant qu’au lointain on se bat,</l>
+     <l n="4" rhyme="b" line_length="6+6">Sa ration de lard et son quart de morue.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

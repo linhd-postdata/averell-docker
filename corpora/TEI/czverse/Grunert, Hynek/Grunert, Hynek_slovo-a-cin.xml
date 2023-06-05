@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Slovo a čin.</title>
+    <author>Grunert, Hynek</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Grunert, Hynek_slovo-a-cin</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Slovo a čin.</title>
+     <author>Grunert, Hynek</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Slovo a čin.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Jeť žena pouze slovem jen</l>
+     <l n="2" met="010001" rhyme="1" line_length="6">a činem pak je muž –</l>
+     <l n="3" met="11010100" line_length="8">ach, kdepak najdem párek ten</l>
+     <l n="4" met="010000" rhyme="1" line_length="6">teď pohromadě už? –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

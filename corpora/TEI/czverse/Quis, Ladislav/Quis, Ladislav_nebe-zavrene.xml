@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nebe zavřené.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_nebe-zavrene</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nebe zavřené.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nebe zavřené.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00010100" rhyme="1" line_length="8">Vy jste mi nebe zavřeli,</l>
+     <l n="2" met="0101010" rhyme="2" line_length="7">kam s touhou hled můj těkal,</l>
+     <l n="3" met="01000100" rhyme="1" line_length="8">by věčností jsa navřelý</l>
+     <l n="4" met="0101010" rhyme="2" line_length="7">se k těmto krajům smekal.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000100" line_length="8">Tam jasně se mu jevilo,</l>
+     <l n="6" met="0101010" rhyme="3" line_length="7">co mysl sotva tuší;</l>
+     <l n="7" met="01010101" line_length="8">teď před mým oknem vaše zeď</l>
+     <l n="8" met="0101010" rhyme="3" line_length="7">a soumrak v mojí duši.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

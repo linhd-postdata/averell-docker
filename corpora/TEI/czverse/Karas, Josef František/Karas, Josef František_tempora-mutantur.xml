@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Tempora mutantur.</title>
+    <author>Karas, Josef František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Karas, Josef František_tempora-mutantur</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Tempora mutantur.</title>
+     <author>Karas, Josef František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Tempora mutantur.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000100110" line_length="10">Ve vojnách kdys spálili sta vesnic,</l>
+     <l n="2" met="101010001" rhyme="1" line_length="9">hradů, zámků, roztodivných měst.</l>
+     <l n="3" met="1010101010" line_length="10">Tehda nářky. Dnes by každý smál se,</l>
+     <l n="4" met="001010000" rhyme="1" line_length="9">jen když dobře pojištěný jest.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

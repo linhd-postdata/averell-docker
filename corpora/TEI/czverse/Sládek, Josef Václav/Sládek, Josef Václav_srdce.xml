@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SRDCE.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_srdce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SRDCE.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SRDCE.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" rhyme="1" line_length="8">Za horami jiné hory,</l>
+     <l n="2" met="10011000" rhyme="1" line_length="8">obzory jdou za obzory,</l>
+     <l n="3" met="10101010" rhyme="2" line_length="8">jedno slunce různým časem</l>
+     <l n="4" met="10101010" rhyme="2" line_length="8">svítí na ně stejným jasem.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" rhyme="3" line_length="8">Za věky se věky šinou,</l>
+     <l n="6" met="10101010" rhyme="3" line_length="8">rody jdou, jak rody hynou,</l>
+     <l n="7" met="10101010" rhyme="4" line_length="8">hlubší snahy, vyšší cíle</l>
+     <l n="8" met="10001010" rhyme="4" line_length="8">v bořící a tvorné síle.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" rhyme="5" line_length="8">Každým věkem o krok dále;</l>
+     <l n="10" met="00101010" rhyme="5" line_length="8">jen to lidské srdce stále</l>
+     <l n="11" met="10101010" rhyme="6" line_length="8">v slasti bolu, klidu, zmatku</l>
+     <l n="12" met="10101000" rhyme="6" line_length="8">bije jako na počátku.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10001010" rhyme="7" line_length="8">Přes pochyb a vášní spory</l>
+     <l n="14" met="10101000" rhyme="7" line_length="8">tuší v dálkách za obzory</l>
+     <l n="15" met="10101000" rhyme="8" line_length="8">břehy země zaslíbené</l>
+     <l n="16" met="00101010" rhyme="8" line_length="8">a k nim duhu smíru klene.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

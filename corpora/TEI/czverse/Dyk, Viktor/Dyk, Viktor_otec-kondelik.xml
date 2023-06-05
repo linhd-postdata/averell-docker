@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>„OTEC KONDELÍK.“</title>
+    <author>Dyk, Viktor</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dyk, Viktor_otec-kondelik</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>„OTEC KONDELÍK.“</title>
+     <author>Dyk, Viktor</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>„OTEC KONDELÍK.“</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010100" line_length="9">Národní se bytost vtělila,</l>
+     <l n="2" met="1000101000" rhyme="1" line_length="10">výhoda v tom pro nás převeliká.</l>
+     <l n="3" met="10101010100" line_length="11">Němec Fausta má a Španěl Quijota,</l>
+     <l n="4" met="1010101000" rhyme="1" line_length="10">a my máme otce Kondelíka.</l>
+     <l n="5" met="100010011" rhyme="2" line_length="9">Politika, umění, mrav, zvyk:</l>
+     <l n="6" met="100010100" rhyme="2" line_length="9">– Zatracený otec Kondelík! –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

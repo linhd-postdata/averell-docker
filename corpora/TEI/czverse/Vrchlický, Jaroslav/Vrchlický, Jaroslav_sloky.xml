@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sloky.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_sloky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sloky.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sloky.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0001001001001000" rhyme="1" line_length="16">Zda si to povíme jednou tak prostě a otevřeně,</l>
+     <l n="2" met="0100100110010010" rhyme="1" line_length="16">jak mluvit můž’ uzrálý muž ku prosté, upřímné ženě:</l>
+     <l n="3" met="01001011010010010" rhyme="2" line_length="17">Jsme oba jen lidé, má drahá, nelze nám nad to se vznésti,</l>
+     <l n="4" met="01010010010010010" rhyme="2" line_length="17">a pokud nechápem toto, jest hádankou lidské nám štěstí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101001001001000" rhyme="3" line_length="16">A právě, že my jsme lidmi, to říci si nemůžeme,</l>
+     <l n="6" met="0100100100101010" rhyme="3" line_length="16">neb každý z nás jiný svůj fantom svým božstvím tady zveme,</l>
+     <l n="7" met="01001001001010010" rhyme="4" line_length="17">to prostě si přiznati, drahá, i v štěstí opojné chvíli,</l>
+     <l n="8" met="01001001001010010" rhyme="4" line_length="17">ne lidmi víc v strasti a touze – my bychom bohy již byli!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

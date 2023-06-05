@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Epitafio acróstico</title>
+    <author>Jusepa Luisa de Chaves</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jusepa Luisa de Chaves_epitafio-acrostico</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Epitafio acróstico</title>
+     <author>Jusepa Luisa de Chaves</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Epitafio acróstico</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+---+-">Feliz en culto, en nombre esclarecido,</l>
+     <l n="2" met="+-+--+---+-">raro asunto a las lenguas de la fama</l>
+     <l n="3" met="+--+-+-+-+-">es quien, depuesta ya la docta rama,</l>
+     <l n="4" met="-++--+-+-+-">ilustra esta inscripción de luz ceñido.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-++--+-">La envidia yace aquí, yace el olvido</l>
+     <l n="6" met="-+---+--++-">opuestos al aplauso que le aclama</l>
+     <l n="7" met="-+-+---+++-">pues ellos faltan cuando en él nos llama</l>
+     <l n="8" met="--+--+--++-">el heroico ejemplar de lo que ha sido.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+-+-+-">Digno varón capaz de la alta gloria,</l>
+     <l n="10" met="--+-++---+-">en que él a sí mismo se consulta</l>
+     <l n="11" met="--+--+---+-">victorioso del tiempo y de la muerte.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+---+-">En quien mayor se empeña la memoria,</l>
+     <l n="13" met="+----+-+-+-">grande en la imitación que de él resulta,</l>
+     <l n="14" met="+--+-+-+-+-">aun al que atento más su ejemplo advierte.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

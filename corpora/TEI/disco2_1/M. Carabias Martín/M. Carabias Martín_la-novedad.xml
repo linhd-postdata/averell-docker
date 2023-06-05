@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La novedad</title>
+    <author>M. Carabias Martín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>M. Carabias Martín_la-novedad</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La novedad</title>
+     <author>M. Carabias Martín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La novedad</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+-+-+-">Comprad sin dilación y no esperéis</l>
+     <l n="2" met="--+--+-+-+-">a que elijan el género este día;</l>
+     <l n="3" met="--+--++--+-">recordad que con tiempo os advertía,</l>
+     <l n="4" met="--+--+---+-">anunciando el surtido que sabéis.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+---+-+-">Buenas Alfombras, superior tenéis</l>
+     <l n="6" met="--+--+---+-">y completo surtido en Lanería,</l>
+     <l n="7" met="--+--+---+-">Abacás, Gutapercha, Lencería,</l>
+     <l n="8" met="--+--+---+-">Sofocantes... manguitos si queréis:</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+---+-">Mantas, Toquillas, Sayas y Sombreros,</l>
+     <l n="10" met="--+--+-+-+-">Agremanes, Botones, Cintas, Panas,</l>
+     <l n="11" met="+--+-+---+-">Rasos, Crepés... Y Flecos y Plumeros,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+-+-+-">Tapetes y Franelas pura lana;</l>
+     <l n="13" met="-+-+-+---+-">y anhelo seáis vosotros los primeros,</l>
+     <l n="14" met="++-+-+---+-">no os quedéis sin géneros mañana.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

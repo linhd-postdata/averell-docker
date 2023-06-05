@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Belisario </title>
+    <author>Quevedo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quevedo_a-belisario</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Belisario </title>
+     <author>Quevedo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Belisario </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+----+---+-">Viéndote sobre el cerco de la luna</l>
+     <l n="2" met="-+-+-+---+-">triunfar de tanto bárbaro contrario,</l>
+     <l n="3" met="++-+-+---+-">¿quién no temiera, ¡oh noble Belisario!,</l>
+     <l n="4" met="-+-+-+---+-">que habías de dar envidia a la Fortuna?</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+-+-+-">Estas lágrimas tristes, una a una,</l>
+     <l n="6" met="+-+--+---+-">bien las debo al valor extraordinario</l>
+     <l n="7" met="---+-+-+-+-">Conque escondiste en alto olvido a Mario,</l>
+     <l n="8" met="--+--+---+-">que mandando nació desde la cuna.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">Y ahora, entre los míseros mendigos,</l>
+     <l n="10" met="---+-+---+-">te tiraniza el tiempo y el sosiego</l>
+     <l n="11" met="--+--+---+-">la memoria de altísimos despojos.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">Quisiéronte cegar tus enemigos,</l>
+     <l n="13" met="---+-++-++-">sin advertir que mal puede ser ciego</l>
+     <l n="14" met="-+-+-+-+-+-">quien tiene en tanta fama tantos ojos.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

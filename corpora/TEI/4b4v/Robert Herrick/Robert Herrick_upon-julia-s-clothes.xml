@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Upon Julia's Clothes</title>
+    <author>Robert Herrick</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Robert Herrick_upon-julia-s-clothes</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>For Better For Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Upon Julia's Clothes</title>
+     <author>Robert Herrick</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Upon Julia's Clothes</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="tercet">
+     <l n="1" met="-+-+-+-+">Whenas in silks my Julia goes,</l>
+     <l n="2" met="++-+-+-+">Then, then (methinks) how sweetly flows</l>
+     <l n="3" met="-+-+-+-+">That liquefaction of her clothes.</l>
+    </lg>
+    <lg n="2" stanza_type="tercet">
+     <l n="4" met="+--+-+-+">Next, when I cast mine eyes and see </l>
+     <l n="5" met="-+-+-+++">That brave vibration each way free,</l>
+     <l n="6" met="+--+--+-+">O how that glittering taketh me!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

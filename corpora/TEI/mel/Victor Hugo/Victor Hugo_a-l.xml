@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A. L.</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_a-l</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A. L.</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A. L.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+6">Toute espérance, enfant, est un roseau.</l>
+     <l n="2" rhyme="b" line_length="4+6">Dieu dans ses mains tient nos jours, ma colombe ;</l>
+     <l n="3" rhyme="a" line_length="4+6">Il les dévide à son fatal fuseau,</l>
+     <l n="4" rhyme="b" line_length="4+6">Puis le fil casse et notre joie en tombe ;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="4+6">Jadis, vois-tu, l'avenir, pur rayon,</l>
+     <l n="6" rhyme="b" line_length="4+6">Apparaissait à mon âme éblouie,</l>
+     <l n="7" rhyme="a" line_length="4+6">Ciel avec l'astre, onde avec l'alcyon,</l>
+     <l n="8" rhyme="b" line_length="4+6">Fleur lumineuse à l'ombre épanouie.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="4+6">Si, près de toi, quelqu'un pleure en rêvant,</l>
+     <l n="10" rhyme="b" line_length="4+6">Laisse pleurer sans en chercher la cause.</l>
+     <l n="11" rhyme="a" line_length="4+6">Pleurer est doux, pleurer est bon souvent</l>
+     <l n="12" rhyme="b" line_length="4+6">Pour l'homme, hélas ! sur qui le sort se pose.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

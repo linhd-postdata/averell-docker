@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Chanson de ma Mie</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_la-chanson-de-ma-mie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Chanson de ma Mie</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Chanson de ma Mie</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6">L'eau dans les grands lacs bleus</l>
+     <l n="2" rhyme="b" line_length="3">Est le miroir des cieux :</l>
+     <l n="3" rhyme="a" line_length="6">Mais j'aime mieux les yeux</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="a" line_length="6">Pour que l'ombre parfois</l>
+     <l n="5" rhyme="b" line_length="3">Un oiseau chante au bois :</l>
+     <l n="6" rhyme="a" line_length="6">Mais j'aime mieux la voix</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="a" line_length="6">La rosée à la fleur</l>
+     <l n="8" rhyme="b" line_length="3">Sait rendre sa couleur :</l>
+     <l n="9" rhyme="a" line_length="6">Mais j'aime mieux un pleur</l>
+    </lg>
+    <lg n="4">
+     <l n="10" rhyme="a" line_length="6">Le temps vient tout briser.</l>
+     <l n="11" rhyme="b" line_length="3">Moi, pour le mépriser,</l>
+     <l n="12" rhyme="a" line_length="6">Je ne veux qu'un baiser</l>
+    </lg>
+    <lg n="5">
+     <l n="13" rhyme="a" line_length="6">La rose sur le lin</l>
+     <l n="14" rhyme="b" line_length="3">J'aime mieux pour coussin</l>
+     <l n="15" rhyme="a" line_length="6">Les lèvres et le sein</l>
+    </lg>
+    <lg n="6">
+     <l n="16" rhyme="a" line_length="6">On change tour à tour</l>
+     <l n="17" rhyme="b" line_length="3">Moi, jusqu'au dernier jour,</l>
+     <l n="18" rhyme="a" line_length="6">Je m'en tiens à l'amour</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

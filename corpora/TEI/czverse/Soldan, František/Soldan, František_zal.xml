@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ŽAL.</title>
+    <author>Soldan, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Soldan, František_zal</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ŽAL.</title>
+     <author>Soldan, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ŽAL.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101" line_length="8">Vztekem jsem kousnul ve své rty,</l>
+     <l n="2" met="01010100" rhyme="1" line_length="8">ty’s byla vzteku příčinou.</l>
+     <l n="3" met="10010101" line_length="8">Jedová slova stihla rty,</l>
+     <l n="4" met="100100" rhyme="1" line_length="6">zjitřené rty mé jsou.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010101" line_length="8">Nemohu líbat, ni se smát,</l>
+     <l n="6" met="10010100" rhyme="2" line_length="8">do světa hledím zamračen.</l>
+     <l n="7" met="10010101" line_length="8">Bolí mne, když se zkusím smát –</l>
+     <l n="8" met="100100" rhyme="2" line_length="6">Zbývá mi zloba jen.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101" line_length="8">A přece v duši není msty.</l>
+     <l n="10" met="10010101" rhyme="3" line_length="8">Nemohu chtít se tobě mstít.</l>
+     <l n="11" met="10110101" line_length="8">Ani rty choré nechtí msty,</l>
+     <l n="12" met="100101" rhyme="3" line_length="6">s úsměvem chtěl bych jít.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10010100" line_length="8">Není už vzteku v srdci mém,</l>
+     <l n="14" met="10010100" rhyme="4" line_length="8">není už jedu v slovech mých –</l>
+     <l n="15" met="10010100" line_length="8">Radost jen není v srdci mém,</l>
+     <l n="16" met="10010101" rhyme="4" line_length="8">radost a smích a smích a smích.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

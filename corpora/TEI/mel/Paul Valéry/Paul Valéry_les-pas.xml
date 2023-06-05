@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les Pas</title>
+    <author>Paul Valéry</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Valéry_les-pas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Les Pas</title>
+     <author>Paul Valéry</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Les Pas</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Tes pas, enfants de mon silence,</l>
+     <l n="2" rhyme="b" line_length="8">Saintement, lentement placés,</l>
+     <l n="3" rhyme="a" line_length="8">Vers le lit de ma vigilance</l>
+     <l n="4" rhyme="b" line_length="8">Procèdent muets et glacés.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Personne pure, ombre divine,</l>
+     <l n="6" rhyme="b" line_length="8">Qu’ils sont doux, tes pas retenus !</l>
+     <l n="7" rhyme="a" line_length="8">Dieux !… tous les dons que je devine</l>
+     <l n="8" rhyme="b" line_length="8">Viennent à moi sur ces pieds nus !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Si, de tes lèvres avancées,</l>
+     <l n="10" rhyme="b" line_length="8">Tu prépares pour l’apaiser,</l>
+     <l n="11" rhyme="a" line_length="8">À l'habitant de mes pensées</l>
+     <l n="12" rhyme="b" line_length="8">La nourriture d’un baiser,</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">Ne hâte pas cet acte tendre,</l>
+     <l n="14" rhyme="b" line_length="8">Douceur d’être et de n’être pas,</l>
+     <l n="15" rhyme="a" line_length="8">Car j’ai vécu de vous attendre,</l>
+     <l n="16" rhyme="b" line_length="8">Et mon cœur n’était que vos pas.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

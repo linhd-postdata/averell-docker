@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NALADĚNÍ.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_naladeni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NALADĚNÍ.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NALADĚNÍ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010101000" rhyme="1" line_length="11">Spěl teplý větřík rychle přes záhony.</l>
+     <l n="2" met="01010101010" rhyme="1" line_length="11">Kdes v sadě housle zněly, v městě zvony.</l>
+     <l n="3" met="11010100010" rhyme="2" line_length="11">Kol pažit, větve po dešti se leskly.</l>
+     <l n="4" met="01010001010" rhyme="2" line_length="11">Jak zvony jásaly a housle steskly,</l>
+     <l n="5" met="10010001010" rhyme="3" line_length="11">u okna podivný mne pocit schvátil;</l>
+     <l n="6" met="01010100010" rhyme="3" line_length="11">ne nad tím, co jsem oplakal a ztratil,</l>
+     <l n="7" met="01010001000" rhyme="4" line_length="11">však nad tím, čeho se mi nedostane,</l>
+     <l n="8" met="01010101010" rhyme="4" line_length="11">až jako nyní teplý vítr svane</l>
+     <l n="9" met="01010101010" rhyme="5" line_length="11">mi z jara na hrob tóny, květy, listí...</l>
+    </lg>
+    <lg n="2">
+     <l n="10" met="11010010010" rhyme="5" line_length="11">Ó hudbo veršů, jichž nebudu čísti!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

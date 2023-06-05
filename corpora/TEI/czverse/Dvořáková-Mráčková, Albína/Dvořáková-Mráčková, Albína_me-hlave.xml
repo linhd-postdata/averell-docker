@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mé hlavě.</title>
+    <author>Dvořáková-Mráčková, Albína</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořáková-Mráčková, Albína_me-hlave</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mé hlavě.</title>
+     <author>Dvořáková-Mráčková, Albína</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mé hlavě.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100" line_length="8">Tak rozpálená horečně</l>
+     <l n="2" met="0101010" rhyme="1" line_length="7">jsi, těžká moje hlavo –</l>
+     <l n="3" met="00010101" line_length="8">tak se mi často, často zdá,</l>
+     <l n="4" met="0101010" rhyme="1" line_length="7">že v tobě není zdrávo.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00010101" line_length="8">Jak kdy v ni vráží žhavý hřeb,</l>
+     <l n="6" met="0100010" rhyme="2" line_length="7">tak bodá v mé to skráni,</l>
+     <l n="7" met="10010100" line_length="8">náhle kdy krev se zastaví</l>
+     <l n="8" met="1001000" rhyme="2" line_length="7">ve bouřném kolotání.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010100" line_length="8">Myšlenek divných míhá mi</l>
+     <l n="10" met="0100100" rhyme="3" line_length="7">tak zmatená se vřava,</l>
+     <l n="11" met="10100100" line_length="8">bledě – ve světle mlhavém,</l>
+     <l n="12" met="0101010" rhyme="3" line_length="7">a ani jedna zdravá.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01010100" line_length="8">Jak děcko stíny chytám je</l>
+     <l n="14" met="0100010" rhyme="4" line_length="7">a nezadržím žádné –</l>
+     <l n="15" met="10110100" line_length="8">bůh sám ví, zdaž to život můj</l>
+     <l n="16" met="0101010" rhyme="4" line_length="7">neb rozum v oběť padne! –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

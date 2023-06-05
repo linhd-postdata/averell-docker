@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L’Orgueil</title>
+    <author>Catulle Mendès</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Catulle Mendès_lorgueil</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L’Orgueil</title>
+     <author>Catulle Mendès</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L’Orgueil</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">La matière et la forme étaient encor futures.</l>
+    </lg>
+    <lg n="2">
+     <l n="2" rhyme="a" line_length="6+6">Le Seigneur désira l'amour des créatures ;</l>
+     <l n="3" rhyme="b" line_length="6+6">Il fit l'Éden, le lieu magnifique et charmant,</l>
+     <l n="4" rhyme="b" line_length="6+6">Disant : « L'Homme y vivra dans le contentement</l>
+     <l n="5" rhyme="a" line_length="6+6">De respirer mon souffle et de voir ma lumière. »</l>
+     <l n="6" rhyme="a" line_length="6+6">Et, du pied, le Seigneur fit rouler une pierre,</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="b" line_length="6+6">Et la pierre prit vie, et ce fut l'homme. Dieu</l>
+     <l n="8" rhyme="b" line_length="6+6">Dit à l'homme : « Ton nom est Adam. Le ciel bleu</l>
+     <l n="9" rhyme="a" line_length="6+6">Et ses astres, la terre et ses bêtes sans haine,</l>
+     <l n="10" rhyme="a" line_length="6+6">Celles des monts, des bois, et celles de la plaine,</l>
+     <l n="11" rhyme="b" line_length="6+6">Et les fleuves, et l'air sacré qui t'investit,</l>
+     <l n="12" rhyme="b" line_length="6+6">Et la femme dont l'œil est un ciel plus petit</l>
+     <l n="13" rhyme="a" line_length="6+6">Mais aux rayons plus doux que ceux des astres mêmes,</l>
+     <l n="14" rhyme="a" line_length="6+6">Afin qu'humble et ravi, tu m'adores et m'aimes,</l>
+     <l n="15" rhyme="b" line_length="6+6">Je te les donne, ainsi que le nom qui te sied. »</l>
+    </lg>
+    <lg n="4">
+     <l n="16" rhyme="b" line_length="6+6">L'homme cria : « Pourquoi m'as-tu poussé du pied ? »</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A une Dame</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_a-une-dame</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A une Dame</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A une Dame</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Petit Noël passant, du haut des toits, les jette</l>
+     <l n="2" rhyme="b" line_length="6+6">Pour le petit enfant qui dans cinq mois naîtra ;</l>
+     <l n="3" rhyme="a" line_length="6+6">Mais afin qu'il les mange il faut qu'on les émiette.</l>
+     <l n="4" rhyme="b" line_length="6+6">Donc, petite maman d'abord les mangera.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

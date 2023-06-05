@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vidrio de rosas</title>
+    <author>Eugenio Salazar y Alarcón</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Eugenio Salazar y Alarcón_vidrio-de-rosas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vidrio de rosas</title>
+     <author>Eugenio Salazar y Alarcón</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vidrio de rosas</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+---+-">¡Oh lozanico vaso vidrioso!</l>
+     <l n="2" met="+-+-+-+--+-">¡Oh agua clara, fresca, dulce y pura!</l>
+     <l n="3" met="-+---+---+-">¡Oh rosas delicadas, en quien dura</l>
+     <l n="4" met="+++-+----+-">un ser suave, lindo y oloroso!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+---+-">El claro cielo, empíreo, glorioso,</l>
+     <l n="6" met="-+-+-+-+-+-">¡oh limpio vidrio!, en ti se me figura,</l>
+     <l n="7" met="-+-+-+---+-">y en esa tu agua dulce la dulzura</l>
+     <l n="8" met="+--+-++--+-">que hinche aquel lugar tan deleitoso.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-+--++-">Las coloradas rosa que en ti veo</l>
+     <l n="10" met="---+-+---+-">las gloriosas almas representan</l>
+     <l n="11" met="-+--++---+-">que gozan del bien sumo y la alegría.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+-+-+-">Divinas esperanzas me sustentan:</l>
+     <l n="13" met="+--+-+---+-">Padre del cielo, ¡cumple mi deseo!</l>
+     <l n="14" met="-+-+-+-+-+-">Que sea rosa tal el alma mía.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

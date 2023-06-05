@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L'ENCLOS</title>
+    <author>Émile Verhaeren</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Émile Verhaeren_l-enclos</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L'ENCLOS</title>
+     <author>Émile Verhaeren</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L'ENCLOS</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Quatre fossés couraient autour de l'enclos. Or,</l>
+     <l n="2" rhyme="b" line_length="6+6">Quand le soleil de Mai, brûlant l'air de ses flammes,</l>
+     <l n="3" rhyme="b" line_length="6+6">Sabrait leur eau dormante avec toutes ses lames,</l>
+     <l n="4" rhyme="a" line_length="6+6">La ferme s'allumait d'un encadrement d'or.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">Ils s'étendaient, plaqués au bord de mousse verte</l>
+     <l n="6" rhyme="d" line_length="6+6">Et de lourds nénuphars étoilant le flot noir.</l>
+     <l n="7" rhyme="d" line_length="6+6">Les grenouilles venaient y coasser, le soir,</l>
+     <l n="8" rhyme="c" line_length="6+6">L'œil large ouvert, le dos enflé, le corps inerte.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="6+6">Des canards pavoisés y nageaient fiers et lents,</l>
+     <l n="10" rhyme="e" line_length="6+6">Des canards bleus, verts, gris, pourpres, des canards blancs,</l>
+     <l n="11" rhyme="f" line_length="6+6">Des canards clairs et blancs, avec un grand bec jaune ;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="6+6">Ils y plongeaient leur aile et leur ventre lustré,</l>
+     <l n="13" rhyme="g" line_length="6+6">Et les pattes battant les eaux, le col doré,</l>
+     <l n="14" rhyme="f" line_length="6+6">Cassaient rageusement des iris longs d'une aune.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

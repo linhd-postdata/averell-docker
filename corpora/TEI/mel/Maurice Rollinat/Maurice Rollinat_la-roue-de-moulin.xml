@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Roue de moulin</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">2</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_la-roue-de-moulin</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Roue de moulin</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Roue de moulin</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" />
+    <lg n="2" />
+    <lg n="3">
+     <l n="1" rhyme="e" line_length="8">Un rosâtre glacis carmine son ébène.</l>
+    </lg>
+    <lg n="4">
+     <l n="2" rhyme="g" line_length="8">Ayant l'air de brasser une hécatombe humaine !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

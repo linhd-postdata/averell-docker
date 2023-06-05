@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SRDCE</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_srdce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SRDCE</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SRDCE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000010" rhyme="1" line_length="7">Na srdci tvém, jež hoří,</l>
+     <l n="2" met="000101" rhyme="2" line_length="6">kéž své bych vznítit směl,</l>
+     <l n="3" met="0100010" rhyme="1" line_length="7">jak v červánkové zoři</l>
+     <l n="4" met="110100" rhyme="2" line_length="6">kraj, kéž bych zahořel!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010" rhyme="3" line_length="7">Ten odlesk jeho jasu</l>
+     <l n="6" met="110100" rhyme="4" line_length="6">nést v srdci jedině,</l>
+     <l n="7" met="0101010" rhyme="3" line_length="7">jak slunce svojí krásu</l>
+     <l n="8" met="100100" rhyme="4" line_length="6">obráží v hlubině!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101010" rhyme="5" line_length="7">Vše hraje jeho zlatem,</l>
+     <l n="10" met="100100" rhyme="6" line_length="6">poseto perlami,</l>
+     <l n="11" met="0101010" rhyme="5" line_length="7">jak teprv v nitru vzňatém</l>
+     <l n="12" met="010100" rhyme="6" line_length="6">tím Srdcem na zemi!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1001010" rhyme="7" line_length="7">Snem je, co bylo žitím</l>
+     <l n="14" met="010100" rhyme="8" line_length="6">v té záře plameni;</l>
+     <l n="15" met="0101010" rhyme="7" line_length="7">jak dotek stigmat cítím,</l>
+     <l n="16" met="010100" rhyme="8" line_length="6">zkad žár ten pramení,</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="1001000" rhyme="9" line_length="7">a jak mne odlučuje</l>
+     <l n="18" met="010001" rhyme="10" line_length="6">tvé vinice jak plot</l>
+     <l n="19" met="1000100" rhyme="9" line_length="7">od zemského, co tu je,</l>
+     <l n="20" met="010101" rhyme="10" line_length="6">bych zrál tvé révy plod!...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

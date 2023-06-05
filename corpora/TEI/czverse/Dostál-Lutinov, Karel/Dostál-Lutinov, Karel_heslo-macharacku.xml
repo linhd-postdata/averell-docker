@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>HESLO MACHARÁČKŮ.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_heslo-macharacku</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>HESLO MACHARÁČKŮ.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>HESLO MACHARÁČKŮ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101010" line_length="8">Kdo je s námi, to je rytíř</l>
+     <l n="2" met="100010" rhyme="1" line_length="6">bez bázně a hany;</l>
+     <l n="3" met="00100010" line_length="8">kdo je proti nám – toť lotr</l>
+     <l n="4" met="10101000" rhyme="1" line_length="8">všemi mastmi vymazaný.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CONFINS</title>
+    <author>Albert Samain</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Albert Samain_confins</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CONFINS</title>
+     <author>Albert Samain</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CONFINS</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Dans l'ombre tiède où toute emphase s'atténue,</l>
+     <l n="2" rhyme="b" line_length="6+6">Sur les coussins, parmi la flore des lampas,</l>
+     <l n="3" rhyme="b" line_length="4+4+4">L'effeuillement des heures d'or qu'on n'entend pas.</l>
+     <l n="4" rhyme="a" line_length="6+6">Vibrer ainsi qu'un son d'archet qui diminue.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6−6">S'affiner l'âme en une extase si ténue ;</l>
+     <l n="6" rhyme="b" line_length="4+4+4">Jouir son cœur sur une pointe de compas ;</l>
+     <l n="7" rhyme="b" line_length="4+4+4">Tenter parmi des flacons d'or d'exquis trépas ;</l>
+     <l n="8" rhyme="a" line_length="6+6">Ne plus savoir ce que sa vie est devenue…</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Se retrouver, et puis se perdre en des pays,</l>
+     <l n="10" rhyme="c" line_length="6−6">Et des heures, en des pianos inouïs</l>
+     <l n="11" rhyme="d" line_length="4+8">Faire flotter comme du silence en arpèges ;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="d" line_length="6−6">Dans les parfums et la fumée aux lents manèges</l>
+     <l n="13" rhyme="c" line_length="6−6">Jusqu'à son cœur et par ses yeux évanouis</l>
+     <l n="14" rhyme="d" line_length="4+4+4">Sentir tomber des baisers doux comme des neiges.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

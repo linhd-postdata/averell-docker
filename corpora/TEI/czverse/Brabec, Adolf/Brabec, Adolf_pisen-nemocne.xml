@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Píseň nemocné.</title>
+    <author>Brabec, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">11</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Brabec, Adolf_pisen-nemocne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Píseň nemocné.</title>
+     <author>Brabec, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Píseň nemocné.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" rhyme="1" line_length="9">Až nové jaro květnou skrání</l>
+     <l n="2" met="10010101" rhyme="2" line_length="8">ku žití zlíbá holou zem</l>
+     <l n="3" met="010001010" rhyme="1" line_length="9">a vlaštovičky písní raní</l>
+     <l n="4" met="01010000" rhyme="2" line_length="8">zas v letu zakrouží si sem,</l>
+     <l n="5" met="010100010" rhyme="3" line_length="9">zas půjdu veselá a zmladlá</l>
+     <l n="6" met="10010100" rhyme="4" line_length="8">na stráně trhat petrklíč.</l>
+     <l n="7" met="10010101" rhyme="4" line_length="8">po louce bude házet míč.</l>
+     <l n="8" met="010101010" rhyme="3" line_length="9">Ta místa, která mám tak ráda,</l>
+     <l n="9" met="010010110" rhyme="5" line_length="9">teď opustím, na jih jet musím</l>
+     <l n="10" met="010101010" rhyme="5" line_length="9">a slzu sotva v sobě dusím,</l>
+     <l n="11" met="010100010" rhyme="3" line_length="9">jež v teskné líce se mě vkrádá...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

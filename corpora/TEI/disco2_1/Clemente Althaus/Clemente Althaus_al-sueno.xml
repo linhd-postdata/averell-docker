@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Al sueño</title>
+    <author>Clemente Althaus</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Clemente Althaus_al-sueno</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Al sueño</title>
+     <author>Clemente Althaus</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Al sueño</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="+--+---+-+-">Ven: de la odiada realidad amarga</l>
+     <l n="2" met="+-+--+---+-">róbame el doloroso sentimiento,</l>
+     <l n="3" met="---+---+-+-">y de mi vida la insufrible carga</l>
+     <l n="4" met="+-+--+-+-+-">ten, oh Sueño, en tus brazos un momento.</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="--+-++--++-">¡Ay! que en senda tan áspera y tan larga</l>
+     <l n="6" met="++-+-+-+++-">más grave al hombro cada vez la siento,</l>
+     <l n="7" met="-+++---+-+-">y más la cuesta la subida embarga</l>
+     <l n="8" met="-+-+-+-+++-">al pie cansado, cada vez más lento.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">El peso horrible de la vida humana</l>
+     <l n="10" met="-+-+-+---+-">alíviame esta noche fugitiva,</l>
+     <l n="11" met="---++--+-+-">y a recibirle tornaré mañana;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+---+-">hasta que al fin, doliente y compasiva,</l>
+     <l n="13" met="+--+---+-+-">venga, implorada, tu inmortal hermana</l>
+     <l n="14" met="--+--+-+-+-">y en su seno piadoso me reciba.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

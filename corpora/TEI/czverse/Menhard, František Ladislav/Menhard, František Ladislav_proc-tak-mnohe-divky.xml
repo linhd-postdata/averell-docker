@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Proč tak mnohé dívky,</title>
+    <author>Menhard, František Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Menhard, František Ladislav_proc-tak-mnohe-divky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Proč tak mnohé dívky,</title>
+     <author>Menhard, František Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Proč tak mnohé dívky,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="001010" line_length="6">Proč tak mnohé dívky, </l>
+     <l n="2" met="010010" rhyme="1" line_length="6">když k oltáři kráčí</l>
+     <l n="3" met="100010" line_length="6">ve svatebním rouchu,</l>
+     <l n="4" met="010010" rhyme="1" line_length="6">tak lítostně pláčí?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="011010" line_length="6">Když kněz ruce váže,</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">plačky klečí před ním? –</l>
+     <l n="7" met="001010" line_length="6">Že se budou muset</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">spokojit teď – s jedním!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

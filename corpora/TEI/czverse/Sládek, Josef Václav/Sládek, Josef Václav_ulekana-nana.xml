@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ULEKANÁ NÁNA.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_ulekana-nana</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ULEKANÁ NÁNA.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ULEKANÁ NÁNA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" line_length="8">SPADLA moucha do komína,</l>
+     <l n="2" met="001010" rhyme="1" line_length="6">to vám byla rána!</l>
+     <l n="3" met="10101010" rhyme="2" line_length="8">v kamnech právě topit chtěla</l>
+     <l n="4" met="100010" rhyme="1" line_length="6">ulekaná Nána.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00101000" rhyme="2" line_length="8">Jak tu ránu uslyšela,</l>
+     <l n="6" met="101010" rhyme="3" line_length="6">vzkřikla: „Už je amen!“</l>
+     <l n="7" met="00101010" line_length="8">Kde se vzala, tu se vzala,</l>
+     <l n="8" met="101010" rhyme="3" line_length="6">muška lezla z kamen.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" line_length="8">,To jsem ráda,’ řekla Nána,</l>
+     <l n="10" met="101000" rhyme="4" line_length="6">,že jsem neutekla!’ –</l>
+     <l n="11" met="00101010" line_length="8">„To jsem ráda,“ – řekla muška,</l>
+     <l n="12" met="001000" rhyme="4" line_length="6">„že’s mne neupekla!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poemas del mar -- I</title>
+    <author>Tomás Morales</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tomás Morales_poemas-del-mar-i</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Poemas del mar -- I</title>
+     <author>Tomás Morales</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Poemas del mar -- I</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+---+++-">Esta noche, la lluvia, pertinaz ha caído,</l>
+     <l n="2" met="--+--+----+-+-">desgranando en el muelle su crepitar eterno,</l>
+     <l n="3" met="---+-+----+-+-">y el encharcado puerto se sumergió aterido</l>
+     <l n="4" met="--+--+---+--+-">en la intensa negrura de las noches de invierno.</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="--+--+--+---+-">En la playa, confusa, rezonga la marea,</l>
+     <l n="6" met="-+---+----+-+-">las olas acrecientan en el turbión su brío,</l>
+     <l n="7" met="---+-+--+---+-">y hasta el medroso faro que lejos parpadea,</l>
+     <l n="8" met="--+--+---+--+-">se acurruca en la niebla tiritando de frío...</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+---+--+-">Noche en que nos asaltan pavorosos presagios</l>
+     <l n="10" met="--+--+---+--+-">y tememos por todos los posibles naufragios,</l>
+     <l n="11" met="--++-+-----+-+">al brillar un relámpago tras la extensión sombría,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+---+--+-">y en que, al través del viento, clamoroso resuena</l>
+     <l n="13" met="-+---+--++--+-">ahogada por la bruma, la voz de una sirena,</l>
+     <l n="14" met="-+---+--+---+-">como un desesperado lamento de agonía...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

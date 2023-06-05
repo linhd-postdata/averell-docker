@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sur un Tombeau</title>
+    <author>François Coppée</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>François Coppée_sur-un-tombeau</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sur un Tombeau</title>
+     <author>François Coppée</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sur un Tombeau</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Dans ce tombeau silencieux,</l>
+     <l n="2" rhyme="b" line_length="8">Il n'est rien que nuit et poussière.</l>
+     <l n="3" rhyme="a" line_length="8">Levons nos fronts, levons nos yeux.</l>
+     <l n="4" rhyme="b" line_length="8">L'âme est au ciel dans la lumière.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

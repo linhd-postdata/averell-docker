@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- CIX - </title>
+    <author>Lope de Vega</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lope de Vega_cix</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- CIX - </title>
+     <author>Lope de Vega</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- CIX - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Con lágrimas escucha Masinisa</l>
+     <l n="2" met="-+--+--+-+-">al grave Scipión, y ardiendo en saña</l>
+     <l n="3" met="-+---++--+-">maldice la amistad hecha en España</l>
+     <l n="4" met="---+---+-+-">y de Numidia los laureles pisa.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">Arde el amor, y la virtud remisa</l>
+     <l n="6" met="+--+-+-+-+-">no se resuelve a tan heroica hazaña</l>
+     <l n="7" met="---+-+---+-">mas, cuando el justo honor le desengaña,</l>
+     <l n="8" met="---+---+-+-">a Sofonisba de su muerte avisa.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+---+-">Un veneno le envía que formalle</l>
+     <l n="10" met="-+-+-+---+-">pudiera bien del agua que lloraba;</l>
+     <l n="11" met="++---++--+-">no sé que corazón pudo bastalle.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--++-+-+-+-">Pero, ¿cuál hizo más, el rey que amaba</l>
+     <l n="13" met="-+-+-+---+-">en darle aquel veneno, o en tomalle</l>
+     <l n="14" met="-+-+-+-+-+-">la que era reina y vino a ser su esclava?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

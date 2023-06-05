@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Gumersindo Laverde Ruiz</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Gumersindo Laverde Ruiz_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Gumersindo Laverde Ruiz</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+---+-+-">Cuando gimiendo por el sol que espira,</l>
+     <l n="2" met="-+---+-+-+-">su torre gigantesca lanza al viento</l>
+     <l n="3" met="-+--+--+-+-">grandioso clamor que en ondas lento</l>
+     <l n="4" met="---+---+-+-">hasta el confín del horizonte gira;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+-+-+-">y en sus calladas naves do respira</l>
+     <l n="6" met="+-+--+---+-">de otros siglos el alto pensamiento,</l>
+     <l n="7" met="-+-+---+++-">la tierra olvido, y penetrar me siento</l>
+     <l n="8" met="---+---+-+-">del Infinito a quien el alma aspira;</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">la quietud, las tinieblas, el misterio,</l>
+     <l n="10" met="--+--+---+-">de los santos inmobles la mirada,</l>
+     <l n="11" met="-+---+---+-">la antorcha del sagrario veladora...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-++-+-+-+-">todo me dice allí con vago imperio,</l>
+     <l n="13" met="+----+---+-">plácido al corazón que se anonada...</l>
+     <l n="14" met="-++---++-+-">¡Aquí habita el Señor! ¡Póstrate y ora!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

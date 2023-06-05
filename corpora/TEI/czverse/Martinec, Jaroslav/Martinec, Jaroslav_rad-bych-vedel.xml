@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Rád bych věděl.</title>
+    <author>Martinec, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Martinec, Jaroslav_rad-bych-vedel</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Rád bych věděl.</title>
+     <author>Martinec, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Rád bych věděl.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000100010" line_length="10">Nerozum se s nerozumem pojí</l>
+     <l n="2" met="100010100" rhyme="1" line_length="9">bezpříkladnou věru svorností.</l>
+     <l n="3" met="1010101010" line_length="10">Rád bych věděl, je-li u nás možno</l>
+     <l n="4" met="100010100" rhyme="1" line_length="9">svornými být také v moudrosti!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

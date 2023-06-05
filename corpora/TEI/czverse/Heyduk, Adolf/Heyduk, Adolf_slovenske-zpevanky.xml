@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Slovenské zpěvánky.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_slovenske-zpevanky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Slovenské zpěvánky.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Slovenské zpěvánky.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" line_length="6">Slovenské zpěvánky,</l>
+     <l n="2" met="10000" rhyme="1" line_length="5">jaká jste vy ptáč?</l>
+     <l n="3" met="001000" line_length="6">když se ozýváte,</l>
+     <l n="4" met="10001" rhyme="1" line_length="5">nutí mne to v pláč;</l>
+     <l n="5" met="100010" line_length="6">zalejí se oči,</l>
+     <l n="6" met="10101" rhyme="2" line_length="5">srdce prorve ston,</l>
+     <l n="7" met="001010" line_length="6">až ty slzy stekou</l>
+     <l n="8" met="10100" rhyme="2" line_length="5">v líce na pokon.</l>
+    </lg>
+    <lg n="2">
+     <l n="9" met="110010" line_length="6">Aj, kdože to zrobil?</l>
+     <l n="10" met="10100" rhyme="3" line_length="5">mluvte, prosím vás,</l>
+     <l n="11" met="010010" line_length="6">kdo do tolik smutku</l>
+     <l n="12" met="10101" rhyme="3" line_length="5">tolik vložil krás?</l>
+     <l n="13" met="001010" line_length="6">kdo ten čistý jarček</l>
+     <l n="14" met="10100" rhyme="4" line_length="5">žalem ukálel,</l>
+     <l n="15" met="001010" line_length="6">kdo ten jedný beljan</l>
+     <l n="16" met="10101" rhyme="4" line_length="5">mezi kvítka sel?</l>
+    </lg>
+    <lg n="3">
+     <l n="17" met="101010" line_length="6">Aj, kdo jiný, bračok?...</l>
+     <l n="18" met="00101" rhyme="5" line_length="5">však ty také víš!</l>
+     <l n="19" met="001000" line_length="6">Ten, co utulil se</l>
+     <l n="20" met="10101" rhyme="5" line_length="5">v naši rodnou chýš,</l>
+     <l n="21" met="010010" line_length="6">ten studénku zpěvu</l>
+     <l n="22" met="10100" rhyme="6" line_length="5">hněvem zakalil</l>
+     <l n="23" met="010010" line_length="6">a tisavé hlávky</l>
+     <l n="24" met="10101" rhyme="6" line_length="5">v bědnou červeň zbil!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

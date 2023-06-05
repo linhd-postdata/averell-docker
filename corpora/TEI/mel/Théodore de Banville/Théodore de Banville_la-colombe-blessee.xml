@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Colombe Blessée</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_la-colombe-blessee</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Colombe Blessée</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Colombe Blessée</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">O colombe qui meurs dans le ciel azuré,</l>
+     <l n="2" rhyme="b" line_length="6+6">Rouvre un instant les yeux, mourante aux blanches ailes !</l>
+     <l n="3" rhyme="a" line_length="6+6">Le vautour qui te tue expire, déchiré</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="a" line_length="6+6">Va, tu tombes vengée, ô victime, et ta sœur</l>
+     <l n="5" rhyme="b" line_length="6+6">Peut voir, en traversant la forêt d'ombre pleine,</l>
+     <l n="6" rhyme="a" line_length="6+6">L'oiseau tout sanglant pendre au carquois d'un chasseur</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="a" line_length="6+6">Le jeune archer, folâtre et chantant des chansons,</l>
+     <l n="8" rhyme="b" line_length="6+6">Passe, sa proie au dos, par les herbes fleuries,</l>
+     <l n="9" rhyme="a" line_length="6+6">Laissant déchiqueter par les dents des buissons</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

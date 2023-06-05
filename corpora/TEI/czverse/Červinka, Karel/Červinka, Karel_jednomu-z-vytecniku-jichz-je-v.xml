@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jednomu z výtečníků (jichž je v Čechách dosti).</title>
+    <author>Červinka, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červinka, Karel_jednomu-z-vytecniku-jichz-je-v</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jednomu z výtečníků (jichž je v Čechách dosti).</title>
+     <author>Červinka, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jednomu z výtečníků (jichž je v Čechách dosti).</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" rhyme="1" line_length="8">Na nynější tvoje činy</l>
+     <l n="2" met="100010100" rhyme="2" line_length="9">památka se nikdy neztratí.</l>
+     <l n="3" met="10011010" rhyme="1" line_length="8">Řádné-li mít budeš syny,</l>
+     <l n="4" met="100010100" rhyme="2" line_length="9">musejí tě za to spráskati.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

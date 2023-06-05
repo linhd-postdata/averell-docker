@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Je noc...</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_je-noc</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Je noc...</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Je noc...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01110100010" rhyme="1" line_length="11">Je noc, ach, noc tak pochmurná a čirá;</l>
+     <l n="2" met="01010101010" rhyme="1" line_length="11">kam oko tesknou bázní jato zírá,</l>
+     <l n="3" met="11010001010" rhyme="2" line_length="11">stín roste hluboký, a temno vlaje</l>
+     <l n="4" met="01000101010" rhyme="2" line_length="11">a ztrnule se dívá v spící kraje.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010001000" rhyme="1" line_length="11">I klenbu nebes jak když suzavírá,</l>
+     <l n="6" met="01000101010" rhyme="1" line_length="11">je bez záře a svitu, pustá, sirá;</l>
+     <l n="7" met="01001101000" rhyme="2" line_length="11">jen bludiček roj vstal, kdes plápolaje;</l>
+     <l n="8" met="01010100010" rhyme="2" line_length="11">teď zhasnul náhle, kolem zas jen tma je.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101010" rhyme="3" line_length="11">Je ticho mrtvé! Sotva větev chvílí</l>
+     <l n="10" met="01010101010" rhyme="3" line_length="11">se větrem pohne a se k zemi schýlí,</l>
+     <l n="11" met="11010001010" rhyme="4" line_length="11">pták ze sna zastená, a vlna vzdychne</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="01000101010" rhyme="4" line_length="11">tak z hluboka, a zase všechno stichne:</l>
+     <l n="13" met="01010101010" rhyme="5" line_length="11">to lidstva velký bol teď kolem kráčí,</l>
+     <l n="14" met="01001101010" rhyme="5" line_length="11">a srdce mé jde za ním v hořkém pláči.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

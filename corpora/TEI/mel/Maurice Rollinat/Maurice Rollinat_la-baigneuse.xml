@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Baigneuse</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_la-baigneuse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Baigneuse</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Baigneuse</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Si bien que la bergère a confié son rôle</l>
+    </lg>
+    <lg n="2">
+     <l n="2" rhyme="c" line_length="8">Tout d'abord, devant l'onde aux chatoiements vitreux</l>
+     <l n="3" rhyme="a" line_length="8">Allait soudainement lui dépasser l'épaule ?</l>
+     <l n="4" rhyme="a" line_length="8">Mieux vaut se rhabiller ! mais avant, sous un saule,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

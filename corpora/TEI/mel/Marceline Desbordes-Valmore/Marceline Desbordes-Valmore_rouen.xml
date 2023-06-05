@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ROUEN</title>
+    <author>Marceline Desbordes-Valmore</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">10</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Marceline Desbordes-Valmore_rouen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ROUEN</title>
+     <author>Marceline Desbordes-Valmore</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ROUEN</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" />
+    <lg n="2" />
+    <lg n="3" />
+    <lg n="4" />
+    <lg n="5" />
+    <lg n="6" />
+    <lg n="7" />
+    <lg n="8" />
+    <lg n="9" />
+    <lg n="10">
+     <l n="1" rhyme="a" line_length="6+6">Dans ce pays aimé qui me fut trop barbare,</l>
+     <l n="2" rhyme="b" line_length="6+6">Donnez à mon image un coin rêveur et doux ;</l>
+     <l n="3" rhyme="a" line_length="6+6">J'ai bien assez pleuré l'arrêt qui nous sépare,</l>
+     <l n="4" rhyme="b" line_length="6+6">Pour que mon ombre au moins soit heureuse avec vous !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

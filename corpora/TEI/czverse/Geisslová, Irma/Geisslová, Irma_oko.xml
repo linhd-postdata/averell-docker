@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>OKO.</title>
+    <author>Geisslová, Irma</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Geisslová, Irma_oko</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>OKO.</title>
+     <author>Geisslová, Irma</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>OKO.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" line_length="6">Ráda já se dívám</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">v pěkné lidské oko,</l>
+     <l n="3" met="101010" line_length="6">do té studně jasné</l>
+     <l n="4" met="101000" rhyme="1" line_length="6">dolů přehluboko.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="001010" line_length="6">Když z té hloubi zírá</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">duše přímá, prostá,</l>
+     <l n="7" met="101000" line_length="6">ó jak takového</l>
+     <l n="8" met="101010" rhyme="2" line_length="6">ráda vítám hosta!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="101010" line_length="6">A přec často s námi</l>
+     <l n="10" met="101010" rhyme="3" line_length="6">divná hra se tropí,</l>
+     <l n="11" met="001010" line_length="6">že i před tím pěkným</l>
+     <l n="12" met="101010" rhyme="3" line_length="6">naše v zem se klopí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

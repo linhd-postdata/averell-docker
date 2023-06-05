@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Komár.</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_komar</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Komár.</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Komár.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" rhyme="1" line_length="6">Komára vážili –</l>
+     <l n="2" met="01010" rhyme="2" line_length="5">to byla mela!</l>
+     <l n="3" met="100100" line_length="6">Vybraná společnost</l>
+     <l n="4" met="10010" rhyme="2" line_length="5">sešla se, sjela.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100" rhyme="1" line_length="6">Komára vážili,</l>
+     <l n="6" met="01010" rhyme="3" line_length="5">byl tuze těžký,</l>
+     <l n="7" met="100100" line_length="6">vůz se s ním polámal –</l>
+     <l n="8" met="10110" rhyme="3" line_length="5">musil jít pěšky.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100100" rhyme="1" line_length="6">Komára vážili</l>
+     <l n="10" met="10000" rhyme="4" line_length="5">na decimálce,</l>
+     <l n="11" met="110100" line_length="6">z děl při tom stříleli</l>
+     <l n="12" met="01010" rhyme="4" line_length="5">jak v pravé válce.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100100" rhyme="1" line_length="6">Komára vážili,</l>
+     <l n="14" met="11010" rhyme="5" line_length="5">zrak všechněm svítí,</l>
+     <l n="15" met="100100" line_length="6">mušky naň s pavlačí</l>
+     <l n="16" met="10010" rhyme="5" line_length="5">házely kvítí.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="100100" rhyme="1" line_length="6">Komára vážili</l>
+     <l n="18" met="11010" rhyme="6" line_length="5">čmel bručel zlostí:</l>
+     <l n="19" met="100101" line_length="6">„Kolik pak může mít?</l>
+     <l n="20" met="01010" rhyme="6" line_length="5">Je samé kosti!“</l>
+    </lg>
+    <lg n="6">
+     <l n="21" met="100100" rhyme="1" line_length="6">Komára zvážili:</l>
+     <l n="22" met="10010" rhyme="7" line_length="5">zazněla chvála.</l>
+     <l n="23" met="100100" line_length="6">„Sláva mu!“ křičeli,</l>
+     <l n="24" met="10010" rhyme="7" line_length="5">muzika hrála.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ne otcem stává se syn,</title>
+    <author>Racek, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">3</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Racek, Adolf_ne-otcem-stava-se-syn</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ne otcem stává se syn,</title>
+     <author>Racek, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ne otcem stává se syn,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101001" line_length="7">Ne otcem stává se syn, </l>
+     <l n="2" met="101010010" line_length="9">ale synem stává se otec,</l>
+     <l n="3" met="01010100" line_length="8">tak syn jest otcem praotce.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

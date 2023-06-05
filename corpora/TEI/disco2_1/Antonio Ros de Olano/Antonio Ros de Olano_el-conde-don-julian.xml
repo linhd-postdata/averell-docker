@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El conde don Julián</title>
+    <author>Antonio Ros de Olano</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Antonio Ros de Olano_el-conde-don-julian</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El conde don Julián</title>
+     <author>Antonio Ros de Olano</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El conde don Julián</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">Dentro el alcázar de doblado muro,</l>
+     <l n="2" met="-+-+---+-+-">frontero al campo de Tarik, leía</l>
+     <l n="3" met="-+---+---+-">en letra de Florinda, y repetía,</l>
+     <l n="4" met="+--+-+-+-+-">aún de sus mismos ojos mal seguro:</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">«Cerró mi boca con su labio impuro...</l>
+     <l n="6" met="+-+--+-+-+-">¡Hembra débil, su fuerza me oprimía!</l>
+     <l n="7" met="-++---+-++-">Por vos fiada a quien su guarda os fía,</l>
+     <l n="8" met="-+-+---+-+-">mi afrenta acusa al forjador perjuro...»</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-+---+-">Y, al salir la gótica melena,</l>
+     <l n="10" met="+-+--+---+-">león, que yerra el salto carnicero,</l>
+     <l n="11" met="-+-+---+-+-">subió al adarbe, descolló en la almena;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+---+-+-">Padre ofendido, desciñó el acero;</l>
+     <l n="13" met="-+-+---+-+-">tendió la puente, y la cristiana arena</l>
+     <l n="14" met="-+-+---+-+-">manchó la planta del traidor primero.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

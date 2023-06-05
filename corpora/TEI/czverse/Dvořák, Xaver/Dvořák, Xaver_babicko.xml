@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Babičko!</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_babicko</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Babičko!</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Babičko!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001011010" rhyme="1" line_length="10">Babičko drahá, hle, jak se točí</l>
+     <l n="2" met="100101000" rhyme="2" line_length="9">kolovrat tiše, sotva se kmit’;</l>
+     <l n="3" met="1001010010" rhyme="1" line_length="10">spánek nám padá s umdlených očí,</l>
+     <l n="4" met="100101001" rhyme="2" line_length="9">předeš-li bájí stříbrnou niť,</l>
+     <l n="5" met="1001010010" rhyme="1" line_length="10">v mládí-li zašlé pověsť tvá sbočí.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="010101011" rhyme="2" line_length="9">Proč v řasách bílých slzí máš třpyt,</l>
+     <l n="7" met="1001010010" rhyme="1" line_length="10">jako když v mráčky hvězdička skočí?</l>
+     <l n="8" met="010101001" rhyme="3" line_length="9">proč mlčíš náhle? chce se ti snít,</l>
+     <l n="9" met="100" line_length="3">babičko?</l>
+    </lg>
+    <lg n="3">
+     <l n="10" met="0001010010" rhyme="1" line_length="10">„Dřív než si myslíš, pohled tvůj zočí,</l>
+     <l n="11" met="100101001" rhyme="2" line_length="9">– marně se zdráhat, marně se krýt –</l>
+     <l n="12" met="1001010010" rhyme="1" line_length="10">tesklivý kraj ten, život kam vkročí,</l>
+     <l n="13" met="100101001" rhyme="3" line_length="9">mládí kde snové budou ti znít</l>
+     <l n="14" met="1001010010" rhyme="1" line_length="10">v refrain, jenž slzou líc ti též smočí:</l>
+     <l n="15" met="100" line_length="3">babičko!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ty horká slzo!</title>
+    <author>Tůma, Jan Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tůma, Jan Václav_ty-horka-slzo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ty horká slzo!</title>
+     <author>Tůma, Jan Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ty horká slzo!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101000" line_length="11">Ty horká slzo v oku rozplakaném,</l>
+     <l n="2" met="0100010101" rhyme="1" line_length="10">proč pálíš tak, proč trápíš vetchou líc?</l>
+     <l n="3" met="0100010001000" line_length="13">Já neprosil jsem za tě; proč jsi nespadla mi,</l>
+     <l n="4" met="0100010100" rhyme="1" line_length="10">kdy ještě byl jsem, doufal, stratil víc? –</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00100101010" line_length="11">Já byl, – ach byl – ba dávné tomu časy,</l>
+     <l n="6" met="01001001000" rhyme="2" line_length="11">já doufal jsem, než teď vše v umírání,</l>
+     <l n="7" met="01010010010" line_length="11">teď nejsem, nedoufám, už vše jsem stratil,</l>
+     <l n="8" met="10010101000" rhyme="2" line_length="11">a co mi zbylo? jenom vzpomínání!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101000" line_length="11">A smutné blaho, stokrát oplakané,</l>
+     <l n="10" met="0101010000" rhyme="3" line_length="10">a těžká slza, roní-li se v nic!</l>
+     <l n="11" met="01010101000" line_length="11">Ty horká slzo v oku rozplakaném,</l>
+     <l n="12" met="0100010101" rhyme="3" line_length="10">proč pálíš tak, proč trápíš vetchou líc?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

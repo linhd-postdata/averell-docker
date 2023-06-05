@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ta noc je báseň...</title>
+    <author>Rypáček, František Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Rypáček, František Jaroslav_ta-noc-je-basen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ta noc je báseň...</title>
+     <author>Rypáček, František Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ta noc je báseň...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Ta noc je báseň vznešená</l>
+     <l n="2" met="01000101" rhyme="1" line_length="8">a démonický její ráz,</l>
+     <l n="3" met="01010100" line_length="8">v ní krásy hrůzně velebné</l>
+     <l n="4" met="01010000" rhyme="1" line_length="8">vždy kouzlem dojímají nás.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">Jest plna mocí tajemných</l>
+     <l n="6" met="01010100" rhyme="2" line_length="8">a plna mluvy důvěrné –</l>
+     <l n="7" met="01010101" line_length="8">ji básnil jistě Boží duch;</l>
+     <l n="8" met="01010100" rhyme="2" line_length="8">jeť velké dílo, nádherné.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" line_length="8">Má duše ráda ponoří</l>
+     <l n="10" met="01010100" rhyme="3" line_length="8">se v krásy její planoucí,</l>
+     <l n="11" met="01010100" line_length="8">z nich slzné perly vybírá –</l>
+     <l n="12" met="01010100" rhyme="3" line_length="8">mé písně, perly kanoucí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

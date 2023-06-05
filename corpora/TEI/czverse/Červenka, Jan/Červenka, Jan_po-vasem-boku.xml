@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PO VAŠEM BOKU.</title>
+    <author>Červenka, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červenka, Jan_po-vasem-boku</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PO VAŠEM BOKU.</title>
+     <author>Červenka, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PO VAŠEM BOKU.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010101" rhyme="1" line_length="10">Po vašem boku jako v slunci květ</l>
+     <l n="2" met="01000101010" rhyme="2" line_length="11">se otevřelo vetché srdce moje.</l>
+     <l n="3" met="01010100010" rhyme="2" line_length="11">Já hleděl na vás promluvit se boje</l>
+     <l n="4" met="0101010101" rhyme="1" line_length="10">a cítil pouze rty jak list se chvět.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0100010001" rhyme="3" line_length="10">Sám nevím proč, však v zraku mém, jenž plál,</l>
+     <l n="6" met="01010101010" rhyme="4" line_length="11">se všecka touha v jeden paprsk slila,</l>
+     <l n="7" met="01010001000" rhyme="4" line_length="11">a duši, která v nic již nevěřila,</l>
+     <l n="8" met="1101010001" rhyme="3" line_length="10">ráj vámi nový otvírat se zdál.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101000100" rhyme="5" line_length="10">Mé srdce s úzkostí vám bylo vstříc,</l>
+     <l n="10" met="01010101010" rhyme="6" line_length="11">mé skráně vřely a já, beze slova,</l>
+     <l n="11" met="11000101010" rhyme="6" line_length="11">v sny ztracené jsem počal doufat znova –</l>
+     <l n="12" met="0101010100" rhyme="5" line_length="10">však zrak váš chladný pravil: Nikdy víc!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La gran mentira</title>
+    <author>Félix Valencia</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Félix Valencia_la-gran-mentira</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La gran mentira</title>
+     <author>Félix Valencia</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La gran mentira</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+-++---+-">Cristo y Judas son flores de heroísmo</l>
+     <l n="2" met="-+-+-+-+-+-">y la una sombra agranda la otra lumbre;</l>
+     <l n="3" met="-+++---+-+-">si Cristo es grande como toda cumbre,</l>
+     <l n="4" met="+-++---+-+-">Judas es negro como toso abismo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">Mas los dos, por extraño fatalismo,</l>
+     <l n="6" met="---+-+---+-">al predicar amor y mansedumbre,</l>
+     <l n="7" met="-+++-+---+-">el uno es presa de ebria muchedumbre</l>
+     <l n="8" met="-+++-+--++-">el otro es un verdugo de sí mismo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+-++---+-">Mientras tanto el Dios hombre y el suicida,</l>
+     <l n="10" met="-+++---+-+-">hasta hoy no pueden con sus muertes rudas</l>
+     <l n="11" met="--+--+---+-">disminuir las miserias de la vida.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+-+++-">¡Y entre tantos horrores no se ha visto</l>
+     <l n="13" met="++-+-+---+-">un acto más infame que el de Judas,</l>
+     <l n="14" met="+-++-+---+-">ni un morir más inútil que el de Cristo!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

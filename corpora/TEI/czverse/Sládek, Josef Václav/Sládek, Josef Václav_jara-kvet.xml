@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JARA KVĚT.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_jara-kvet</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JARA KVĚT.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JARA KVĚT.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101" rhyme="1" line_length="7">JARA květ a léta vděk,</l>
+     <l n="2" met="1001100" rhyme="2" line_length="7">povězte, ach, co je z nich,</l>
+     <l n="3" met="1010100" rhyme="1" line_length="7">s hor když zadul podzimek,</l>
+     <l n="4" met="0010101" rhyme="2" line_length="7">vše když pokryl zimní sníh?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010101" rhyme="3" line_length="7">Mladé štěstí, mužný vznět,</l>
+     <l n="6" met="1000100" rhyme="4" line_length="7">povězte, co ještě dál,</l>
+     <l n="7" met="0010101" rhyme="3" line_length="7">když to srdce sevře led,</l>
+     <l n="8" met="0010101" rhyme="4" line_length="7">a v něm zbude žal, jen žal! –</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010100" rhyme="5" line_length="7">Toho ticha velkého</l>
+     <l n="10" met="1000100" rhyme="6" line_length="7">po lesích a na poli! –</l>
+     <l n="11" met="1000100" rhyme="5" line_length="7">Dobolelo každého,</l>
+     <l n="12" met="1010100" rhyme="6" line_length="7">a nás také dobolí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

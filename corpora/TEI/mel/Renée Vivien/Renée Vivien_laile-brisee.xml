@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L’AILE BRISÉE</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_laile-brisee</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L’AILE BRISÉE</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L’AILE BRISÉE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Elle est venue avec ses cheveux et sa robe,</l>
+     <l n="2" rhyme="b" line_length="6+6">Sa robe de beau pourpre et ses beaux cheveux d’or !</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="b" line_length="6+6">Et mon âme aussitôt a pris un prompt essor</l>
+     <l n="4" rhyme="a" line_length="6+6">Dans l’ivresse du cher instant que l’on dérobe !…</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="6+6">Mon cœur lourd est léger comme une bulle d’or,</l>
+     <l n="6" rhyme="b" line_length="6+6">Puisque je la revois près de moi revenue !</l>
+    </lg>
+    <lg n="4">
+     <l n="7" rhyme="b" line_length="6+6">Et comme en un miracle, apparue, advenue,</l>
+     <l n="8" rhyme="a" line_length="6+6">Une aile de chimère a repris son essor !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

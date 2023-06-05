@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hóry.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_hory</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hóry.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hóry.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010001010" rhyme="1" line_length="11">Vždy v tanci ubíháme s jarým plesem,</l>
+     <l n="2" met="01010100010" rhyme="1" line_length="11">a jaký div, my nevíme, co nesem;</l>
+     <l n="3" met="10010001010" rhyme="2" line_length="11">přes kmeta šediny a děcka vlásky,</l>
+     <l n="4" met="01010001010" rhyme="2" line_length="11">skrz hněvu výkřiky a píseň lásky,</l>
+     <l n="5" met="11010100010" rhyme="3" line_length="11">jdem stejně růže na hlavách – a hloží,</l>
+     <l n="6" met="01010100010" rhyme="3" line_length="11">to jistě vždycky člověk sám tam vloží.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

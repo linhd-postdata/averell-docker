@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Třetí jaro...</title>
+    <author>Jesenská, Růžena</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jesenská, Růžena_treti-jaro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Třetí jaro...</title>
+     <author>Jesenská, Růžena</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Třetí jaro...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" line_length="8">Jedno jaro pod vavříny,</l>
+     <l n="2" met="10101000" rhyme="1" line_length="8">druhé doma pod jabloní,</l>
+     <l n="3" met="11001010" line_length="8">pojď a zas mi líbej oči,</l>
+     <l n="4" met="00001010" rhyme="1" line_length="8">když jsi je již zlíbal v loni.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" line_length="8">Pod vavříny bylo smutno,</l>
+     <l n="6" met="00101000" rhyme="2" line_length="8">ať je doma veseleji,</l>
+     <l n="7" met="00101010" line_length="8">tam jen moře písně zpívá,</l>
+     <l n="8" met="10101010" rhyme="2" line_length="8">u nás hory, doly pějí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" line_length="8">Půjdem spolu v moře květů,</l>
+     <l n="10" met="10001010" rhyme="3" line_length="8">vlaštovky tam také letí,</l>
+     <l n="11" met="00101010" line_length="8">ať je v duši zase nebe,</l>
+     <l n="12" met="00101010" rhyme="3" line_length="8">ať je v srdci jaro třetí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

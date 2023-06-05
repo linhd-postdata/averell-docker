@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pěvcovo žití.</title>
+    <author>Picek, Václav Jaromír</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Picek, Václav Jaromír_pevcovo-ziti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pěvcovo žití.</title>
+     <author>Picek, Václav Jaromír</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pěvcovo žití.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010" line_length="5">Víte, jak pěvci</l>
+     <l n="2" met="10100" rhyme="1" line_length="5">Žití zavítá,</l>
+     <l n="3" met="01010" line_length="5">Když světy pýchou</l>
+     <l n="4" met="10100" rhyme="1" line_length="5">Mužně pomítá?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00100" line_length="5">Jak se kolíbá</l>
+     <l n="6" met="10100" rhyme="2" line_length="5">Včelka na kvítí,</l>
+     <l n="7" met="00100" line_length="5">Tak je lahodné</l>
+     <l n="8" met="10010" rhyme="2" line_length="5">Pěvcovo žití.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010" line_length="5">Přírodě věnčí</l>
+     <l n="10" met="10010" rhyme="3" line_length="5">V rozkoši skráně,</l>
+     <l n="11" met="10100" line_length="5">V slunci, v rosince</l>
+     <l n="12" met="11010" rhyme="3" line_length="5">Zří divy Páně.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10010" line_length="5">V zápalu chválí</l>
+     <l n="14" met="10100" rhyme="4" line_length="5">Tvorce milého,</l>
+     <l n="15" met="00100" line_length="5">Až mu zakrývá</l>
+     <l n="16" met="10010" rhyme="4" line_length="5">Do stanu svého.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10010" line_length="5">Do stanu svého,</l>
+     <l n="18" met="10010" rhyme="5" line_length="5">Věčně kde září</l>
+     <l n="19" met="10010" line_length="5">Pravda i krása</l>
+     <l n="20" met="10010" rhyme="5" line_length="5">S Tvorcových tváří.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

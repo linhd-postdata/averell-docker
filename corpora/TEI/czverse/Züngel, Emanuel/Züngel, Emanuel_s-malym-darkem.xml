@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>(S malým dárkem)</title>
+    <author>Züngel, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Züngel, Emanuel_s-malym-darkem</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>(S malým dárkem)</title>
+     <author>Züngel, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>(S malým dárkem)</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010001" rhyme="1" line_length="7">Vezmi v novoroční den</l>
+     <l n="2" met="1010100" rhyme="1" line_length="7">malý od mne dárek ten:</l>
+     <l n="3" met="1010001" rhyme="2" line_length="7">míjej svízel Tě i žal,</l>
+     <l n="4" met="1000100" rhyme="2" line_length="7">radost jen Ti zkvítej dál,</l>
+     <l n="5" met="10101000" rhyme="3" line_length="8">ve všem štěstí opravdovém</l>
+     <l n="6" met="10001010" rhyme="3" line_length="8">kochej se v tom roce novém.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

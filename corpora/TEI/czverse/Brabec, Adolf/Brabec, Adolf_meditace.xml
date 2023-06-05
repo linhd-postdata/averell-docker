@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MEDITACE.</title>
+    <author>Brabec, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Brabec, Adolf_meditace</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MEDITACE.</title>
+     <author>Brabec, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MEDITACE.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010101" rhyme="1" line_length="10">a tváře mrtvých přátel krouží kol,</l>
+     <l n="2" met="010010100" line_length="9">ten život můj divý tanec byl</l>
+     <l n="3" met="0100010101" rhyme="1" line_length="10">a upomínkou zbyl naň krutý bol.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="010100100" rhyme="2" line_length="9">Má duše bědná tak smutna jest</l>
+     <l n="5" met="0101000101" rhyme="3" line_length="10">a teskná, smutnější je den co den,</l>
+     <l n="6" met="0101010001" rhyme="2" line_length="10">vždyť snů mých růže nemohou již kvést,</l>
+     <l n="7" met="0101010000" rhyme="3" line_length="10">co zbývá, chudou vzpomínkou je jen.</l>
+    </lg>
+    <lg n="3">
+     <l n="8" met="01010001" rhyme="4" line_length="8">Jsa dítě, líbával jsem kříž,</l>
+     <l n="9" met="0100010101" rhyme="5" line_length="10">ten rozmetán mně bídně do všech stran,</l>
+     <l n="10" met="01000100" rhyme="4" line_length="8">když naslouchám, tu slyším již</l>
+     <l n="11" met="10010101" rhyme="5" line_length="8">ve dáli mroucí zvuky hran.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="0101010100" rhyme="6" line_length="10">Pak zmlkne smutek, zmlkne, zmlkne vše</l>
+     <l n="13" met="0101010101" rhyme="7" line_length="10">a mlčky děsná propasť zeje kol,</l>
+     <l n="14" met="01010011" rhyme="6" line_length="8">jež květný nadějí luh zře –</l>
+     <l n="15" met="01010001" rhyme="7" line_length="8">a v srdci zanechá jen bol...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

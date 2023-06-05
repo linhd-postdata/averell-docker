@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Žnečka.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_znecka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Žnečka.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Žnečka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" rhyme="1" line_length="6">Vlaštovička lítá</l>
+     <l n="2" met="100010" rhyme="1" line_length="6">u panského žita,</l>
+     <l n="3" met="100010" line_length="6">nebudeš-li žati,</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">budeš, holka, bita.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100010" rhyme="2" line_length="6">Vlaštovička němá,</l>
+     <l n="6" met="010010" rhyme="2" line_length="6">však sukničky nemá, –</l>
+     <l n="7" met="101010" line_length="6">může sobě lítat</l>
+     <l n="8" met="101000" rhyme="2" line_length="6">třeba nad polema.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100010" rhyme="3" line_length="6">Vlaštovička v poli</l>
+     <l n="10" met="101010" rhyme="3" line_length="6">lítá, kam si volí,</l>
+     <l n="11" met="100010" line_length="6">ona si v tom letu</l>
+     <l n="12" met="101000" rhyme="3" line_length="6">s druhou zašveholí.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="010010" rhyme="4" line_length="6">A kdybych já byla</l>
+     <l n="14" met="001010" rhyme="5" line_length="6">jak ta ryba v moři,</l>
+     <l n="15" met="001010" rhyme="4" line_length="6">jsem-li komu milá,</l>
+     <l n="16" met="101000" rhyme="5" line_length="6">na mne zahovoří.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

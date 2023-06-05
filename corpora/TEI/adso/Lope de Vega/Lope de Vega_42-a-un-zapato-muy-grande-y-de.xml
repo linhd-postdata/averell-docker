@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- 42 - A un zapato muy grande y desaseado de una dama </title>
+    <author>Lope de Vega</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lope de Vega_42-a-un-zapato-muy-grande-y-de</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- 42 - A un zapato muy grande y desaseado de una dama </title>
+     <author>Lope de Vega</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- 42 - A un zapato muy grande y desaseado de una dama </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++---+++-+-">¿Quién eres, Celemín? ¿quién eres, fiera?</l>
+     <l n="2" met="++---+---+-">¿qué pino te bastó de Guadarrama?</l>
+     <l n="3" met="++---+-+-+-">¿qué buey, que a Medellín pació la grama,</l>
+     <l n="4" met="-+-+-+---+-">te dio la suela en toda su ribera?</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">¿Eres ramplón de Polifemo cuera,</l>
+     <l n="6" met="+--+-+-+-+-">bolsa de arzón, alcoba, o media cama.</l>
+     <l n="7" met="-+---+---+-">Aquí de los zapatos de mi dama</l>
+     <l n="8" met="--+--+---+-">que me suelen servir de bigotera.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+-++-+-+-">¡O zapato cruel! ¿cuál será el anca</l>
+     <l n="10" met="-+---++--+-">de mula que tiró tal zapateta?</l>
+     <l n="11" met="+--+---+-+-">y aun me aseguran que el talón le manca.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">Pues no te iguala bota de vaqueta,</l>
+     <l n="13" met="+--+-+---+-">este verano voy a Salamanca,</l>
+     <l n="14" met="--+--+---+-">y te pienso llevar para maleta.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Juan Bautista Arriaza</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Bautista Arriaza_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Juan Bautista Arriaza</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+-+-+-">Católico monarca, que has vencido,</l>
+     <l n="2" met="+-+--+---+-">siendo escudo a la fe de tus mayores,</l>
+     <l n="3" met="+--+-+---+-">más que del fiero Marte los rigores,</l>
+     <l n="4" met="--+-++---+-">las perfidias de un siglo corrompido.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">Tú, que Fernando y español nacido,</l>
+     <l n="6" met="-+---+---+-">colmaste nuestros votos y clamores,</l>
+     <l n="7" met="-+-+-+---+-">doblando a sí la afrenta a los traidores</l>
+     <l n="8" met="-++--+-+-+-">con dos títulos más de ser querido;</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+-+-+-">Hoy renueva, Señor, Madrid el gusto</l>
+     <l n="10" met="-+++---+-+-">de haberte visto regresar triunfante</l>
+     <l n="11" met="---++--+-+-">de la opresión de un invasor injusto.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+-++++-+-">Cuánta gloria no encierra un solo instante,</l>
+     <l n="13" met="-+-+-++-++-">pues da a tu sacra sien lauro el más justo,</l>
+     <l n="14" met="-+-+-+---+-">y al pueblo libre palma de constante!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

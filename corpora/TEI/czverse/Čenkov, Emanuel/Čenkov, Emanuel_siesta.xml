@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Siesta.</title>
+    <author>Čenkov, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čenkov, Emanuel_siesta</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Siesta.</title>
+     <author>Čenkov, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Siesta.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101000" rhyme="1" line_length="11">V ty žhavé dny, když parno na výsluní,</l>
+     <l n="2" met="01010101010" rhyme="1" line_length="11">kde rybník dýchá chlad svou tmavou tůní</l>
+     <l n="3" met="0101010100" rhyme="2" line_length="10">a lípy stín svůj kladou na cestu,</l>
+     <l n="4" met="01010100010" rhyme="1" line_length="11">tam vrchnosť spita jasmínovou vůní</l>
+     <l n="5" met="1001010100" rhyme="2" line_length="10">obvyklým spánkem tráví siestu.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="10010001010" rhyme="3" line_length="11">Bezdětní manželé tak stále sami</l>
+     <l n="7" met="0100010101" rhyme="4" line_length="10">tu jednotvárně žijí letní dny,</l>
+     <l n="8" met="11010101000" rhyme="3" line_length="11">smích dětí kolem nezní rolničkami,</l>
+     <l n="9" met="11010001000" rhyme="3" line_length="11">roj nožek nehoní se pěšinami –</l>
+     <l n="10" met="0100010101" rhyme="4" line_length="10">nic nezbývá než dlouhé, nudné sny.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="01000101000" rhyme="5" line_length="11">Když jeden z nich se zbudí, rozmrzelý</l>
+     <l n="12" met="1101010100" rhyme="2" line_length="10">mdlým zrakem v dumách patří na cestu,</l>
+     <l n="13" met="01000101010" rhyme="5" line_length="11">jak pomýšlel by na svůj život celý,</l>
+     <l n="14" met="01010001000" rhyme="5" line_length="11">ten líný, zdlouhavý a neveselý,</l>
+     <l n="15" met="0100010100" rhyme="2" line_length="10">jak na prospanou jenom siestu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

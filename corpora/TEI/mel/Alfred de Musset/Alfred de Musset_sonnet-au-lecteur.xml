@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SONNET AU LECTEUR</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_sonnet-au-lecteur</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SONNET AU LECTEUR</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SONNET AU LECTEUR</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Jusqu'à présent, lecteur, suivant l'antique usage,</l>
+     <l n="2" rhyme="a" line_length="6+6">Je le disais bonjour à la première page.</l>
+     <l n="3" rhyme="b" line_length="6+6">Mon livre cette fois se ferme moins gaîment ;</l>
+     <l n="4" rhyme="b" line_length="6+6">En vérité ce siècle est un mauvais moment.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Tout s'en va, les plaisirs et les mœurs d'un autre âge,</l>
+     <l n="6" rhyme="b" line_length="6+6">Les Rois, les Dieux vaincus, le hasard triomphant,</l>
+     <l n="7" rhyme="a" line_length="6+6">Rosalinde et Suzon qui me trouvent trop sage,</l>
+     <l n="8" rhyme="b" line_length="6+6">Lamartine vieilli qui me traite en enfant…</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">La politique, hélas ! voilà notre misère.</l>
+     <l n="10" rhyme="c" line_length="6+6">Mes meilleurs ennemis me conseillent d'en faire.</l>
+     <l n="11" rhyme="d" line_length="6+6">Être rouge ce soir, blanc demain, ma foi, non.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Je veux, quand on m'a lu, qu'on puisse me retire.</l>
+     <l n="13" rhyme="e" line_length="6+6">Si deux noms, par hasard, s'embrouillent sur ma lyre</l>
+     <l n="14" rhyme="d" line_length="6+6">Ce ne sera jamais que Ninette ou Ninon.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

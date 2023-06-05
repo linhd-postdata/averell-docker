@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NAD RUMIŠTĚ...</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_nad-rumiste</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NAD RUMIŠTĚ...</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NAD RUMIŠTĚ...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10000100010" rhyme="1" line_length="11">Nad rumiště a nepotřebné věci</l>
+     <l n="2" met="01000101" rhyme="2" line_length="8">jak zanes je sem času tok</l>
+     <l n="3" met="10010100010" rhyme="3" line_length="11">z příbytku lidí, v zátoku jak tichou,</l>
+     <l n="4" met="01010101" rhyme="4" line_length="8">svou křehkou krásu zvedá květ.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010010" rhyme="4" line_length="8">Pro radost ničí rost a kvet...</l>
+     <l n="6" met="01000101010" rhyme="3" line_length="11">Ač osamělý se svou hrdou pýchou,</l>
+     <l n="7" met="01000101" rhyme="2" line_length="8">přec písní byl tu teskných slok</l>
+     <l n="8" met="10010100010" rhyme="1" line_length="11">v rumišti, v smutku nepotřebných věcí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

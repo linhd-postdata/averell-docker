@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VODA.</title>
+    <author>Mužík, Augustin Eugen</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mužík, Augustin Eugen_voda</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VODA.</title>
+     <author>Mužík, Augustin Eugen</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VODA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">Vodo, vodo, černá vodo,</l>
+     <l n="2" met="10001010" rhyme="1" line_length="8">ubíháš tak letmo, hluše,</l>
+     <l n="3" met="10101010" line_length="8">jako moje mladá léta,</l>
+     <l n="4" met="00101010" rhyme="1" line_length="8">v nichž se trudí moje duše.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" line_length="8">Zůstaň státi, vodo chladná,</l>
+     <l n="6" met="10101010" rhyme="2" line_length="8">nebo dej se ke mně zpátky,</l>
+     <l n="7" met="10101010" line_length="8">vrať mi aspoň hrstku kvítků,</l>
+     <l n="8" met="10101010" rhyme="2" line_length="8">trochu lásky v život krátký!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Aquí yace un capellán</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_aqui-yace-un-capellan</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Aquí yace un capellán</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Aquí yace un capellán</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="-+++--+-" line_length="8">Aquí yace un capellán</l>
+     <l n="2" met="--+---+-" line_length="8">que, de puro majadero,</l>
+     <l n="3" met="-+---+-" line_length="7">dejó por su heredero</l>
+     <l n="4" met="--+-+-" line_length="6">al cabildo y al deán.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

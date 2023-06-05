@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Jeunesse</title>
+    <author>Louise-Victorine Ackermann</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Louise-Victorine Ackermann_la-jeunesse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Jeunesse</title>
+     <author>Louise-Victorine Ackermann</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Jeunesse</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Prodigue de trésors et d’ivresse idolâtre,</l>
+     <l n="2" rhyme="a" line_length="6+6">La Jeunesse a toujours fait comme Cléopâtre :</l>
+     <l n="3" rhyme="b" line_length="6+6">Un pur et simple vin est trop froid pour son cœur ;</l>
+     <l n="4" rhyme="c" line_length="6+6">Elle y jette un joyau, dans sa fougue imprudente.</l>
+     <l n="5" rhyme="c" line_length="6+6">À peine a-t-elle, hélas ! touché la coupe ardente,</l>
+     <l n="6" rhyme="b" line_length="6+6">Qu’il n’y reste plus rien, ni perle, ni liqueur.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

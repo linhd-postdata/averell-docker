@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A una dama de singular gracia y hermosura, que estuvo en Francia, y hablaba la lengua francesa con mucho donaire.</title>
+    <author>Quevedo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quevedo_a-una-dama-de-singular-gracia</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>ADSO 100 poems corpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A una dama de singular gracia y hermosura, que estuvo en Francia, y hablaba la lengua francesa con mucho donaire.</title>
+     <author>Quevedo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A una dama de singular gracia y hermosura, que estuvo en Francia, y hablaba la lengua francesa con mucho donaire.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Si en Francia, tan preciada de sus Pares,</l>
+     <l n="2" met="+--+-+---+-">no hallo, Manuela, par vuestra hermosura,</l>
+     <l n="3" met="-+-+---+-+-">la ardiente rosa en vuestra nieve pura</l>
+     <l n="4" met="-+-+-+---+-">blasones sean de España singulares.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">De Orlando las hazañas militares,</l>
+     <l n="6" met="---+-+---+-">si a vuestra luz probaran aventura,</l>
+     <l n="7" met="-+---+---+-">mejor calificaran su locura,</l>
+     <l n="8" met="---+---+-+-">cuando el vencido os dedicara altares.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+-+-+-">Vuestra boca, riéndose, es aurora;</l>
+     <l n="10" met="+-+--+-+-+-">es francesa, si habla; y es Oriente</l>
+     <l n="11" met="--+--+---+-">que con todas las Indias enamora.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">Por vos la rosa castellana ardiente</l>
+     <l n="13" met="--++-+---+-">en París fue gloriosa vencedora</l>
+     <l n="14" met="-+-+-+-+-+-">del lirio de oro, que hoy la envidia ausente.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

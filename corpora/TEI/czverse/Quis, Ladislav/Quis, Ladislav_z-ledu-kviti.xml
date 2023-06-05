@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Z ledu kvítí.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_z-ledu-kviti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Z ledu kvítí.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Z ledu kvítí.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" line_length="8">Po sklech si luny paprsky</l>
+     <l n="2" met="0101010" rhyme="1" line_length="7">zas v květech ledných hrají,</l>
+     <l n="3" met="01000100" line_length="8">a ony tam i ve srdci</l>
+     <l n="4" met="0101000" rhyme="1" line_length="7">jak jarem rozkvetají.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00010100" line_length="8">Kdy však se slunce navrátí,</l>
+     <l n="6" met="0101010" rhyme="2" line_length="7">tu zmar se loudí květem;</l>
+     <l n="7" met="01010100" line_length="8">jen slza po něm zatřpitne,</l>
+     <l n="8" met="0101010" rhyme="2" line_length="7">a bolest chvěje retem.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

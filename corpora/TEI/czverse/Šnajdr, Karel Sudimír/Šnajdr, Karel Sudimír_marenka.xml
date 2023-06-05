@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mařenka.</title>
+    <author>Šnajdr, Karel Sudimír</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Šnajdr, Karel Sudimír_marenka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mařenka.</title>
+     <author>Šnajdr, Karel Sudimír</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mařenka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" line_length="8">Byťby sy mne tisýc krásných</l>
+     <l n="2" met="10100" rhyme="1" line_length="5">Děvčat vábilo,</l>
+     <l n="3" met="10001010" line_length="8">Předcby se mi ani jedno</l>
+     <l n="4" met="10000" rhyme="1" line_length="5">Nezalíbilo;</l>
+     <l n="5" met="00101010" line_length="8">Neb když jedno v srdcy příliš</l>
+     <l n="6" met="10010" rhyme="2" line_length="5">Hluboko sedí,</l>
+     <l n="7" met="10100010" line_length="8">Oko na všecky pak jiné</l>
+     <l n="8" met="10010" rhyme="2" line_length="5">Studeně hledí.</l>
+    </lg>
+    <lg n="2">
+     <l n="9" met="01101010" line_length="8">Já mám děvče, že mu rovné</l>
+     <l n="10" met="10010" rhyme="3" line_length="5">Pod nebem není!</l>
+     <l n="11" met="10101000" line_length="8">Hlásek jeho nad slavíčka</l>
+     <l n="12" met="10001" rhyme="3" line_length="5">V jedlovině zní;</l>
+     <l n="13" met="10100010" line_length="8">Jeho nožičky jak srnčí</l>
+     <l n="14" met="10010" rhyme="4" line_length="5">Křepčíce hrají,</l>
+     <l n="15" met="10101010" line_length="8">Tváře jeho jako východ</l>
+     <l n="16" met="10000" rhyme="4" line_length="5">Zavykvítají.</l>
+    </lg>
+    <lg n="3">
+     <l n="17" met="10100010" line_length="8">Rtové jeho se jak poupě</l>
+     <l n="18" met="10010" rhyme="5" line_length="5">Růžové stkvějí,</l>
+     <l n="19" met="10001000" line_length="8">Očka se jak na obloze</l>
+     <l n="20" met="10100" rhyme="5" line_length="5">Hvězdy blíštějí.</l>
+     <l n="21" met="11001000" line_length="8">Ach! Což jest to přemilostná,</l>
+     <l n="22" met="10100" rhyme="6" line_length="5">Krásná panenka – –</l>
+     <l n="23" met="01001010" line_length="8">A ke všemu tomu ještě</l>
+     <l n="24" met="10100" rhyme="6" line_length="5">Sluje – Mařenka!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

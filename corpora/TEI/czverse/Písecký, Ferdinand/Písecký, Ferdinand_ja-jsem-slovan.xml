@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Já jsem Slovan.</title>
+    <author>Písecký, Ferdinand</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Písecký, Ferdinand_ja-jsem-slovan</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Já jsem Slovan.</title>
+     <author>Písecký, Ferdinand</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Já jsem Slovan.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101010" rhyme="1" line_length="8">„Já jsem Slovan duší, tělem!“</l>
+     <l n="2" met="10101010" rhyme="1" line_length="8">rád bych vyznal v světě celém.</l>
+     <l n="3" met="1010100" rhyme="2" line_length="7">Ale nesmím křičet moc.</l>
+     <l n="4" met="1010101" rhyme="2" line_length="7">Berlín, Vídeň! – Dobrou noc.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

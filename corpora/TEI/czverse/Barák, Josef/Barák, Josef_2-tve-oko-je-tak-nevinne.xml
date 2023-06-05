@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>2 Tvé oko je tak nevinné</title>
+    <author>Barák, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Barák, Josef_2-tve-oko-je-tak-nevinne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>2 Tvé oko je tak nevinné</title>
+     <author>Barák, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>2 Tvé oko je tak nevinné</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100" line_length="8">Tvé oko je tak nevinné </l>
+     <l n="2" met="0101010" rhyme="1" line_length="7">jak první v ráji chvíle –</l>
+     <l n="3" met="10110101" line_length="8">svět už má málo takých chvil –</l>
+     <l n="4" met="1101010" rhyme="1" line_length="7">Bůh chraň tě, dítě milé!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11000100" line_length="8">Svět obrazy své vábivé</l>
+     <l n="6" met="1001010" rhyme="2" line_length="7">ve modrost oka kreslí –</l>
+     <l n="7" met="11010100" line_length="8">Bůh chraň tě! – mnoho dobrého</l>
+     <l n="8" met="0101010" rhyme="2" line_length="7">už v světě k hrobu nesli.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

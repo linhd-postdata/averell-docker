@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NOČNÍ ZPĚVÁK.</title>
+    <author>Hašek, Roman</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hašek, Roman_nocni-zpevak</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NOČNÍ ZPĚVÁK.</title>
+     <author>Hašek, Roman</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NOČNÍ ZPĚVÁK.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101000101010" rhyme="1" line_length="13">Když všecko umlklo a měsíc v kraj se díval,</l>
+     <l n="2" met="010001010100" rhyme="2" line_length="12">svým domýšlivým krokem vyšel v podvečer,</l>
+     <l n="3" met="0101000100010" rhyme="1" line_length="13">a fádní serenadu pod okny jí zpíval:</l>
+     <l n="4" met="1001000" rhyme="2" line_length="7">O ma chère, o ma très chère...</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101001100010" rhyme="3" line_length="13">To bylo pozdě juž. Stín po obzoru vzrůstal</l>
+     <l n="6" met="010100100101" rhyme="4" line_length="12">a tenor falešný pod okny toužně lkal.</l>
+     <l n="7" met="0101000101010" rhyme="3" line_length="13">Leč ona nevyšla... Dál balkon prázdný zůstal.</l>
+     <l n="8" met="010000010001" rhyme="4" line_length="12">Jen za záclonou kdos se jedovatě smál.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101000101010" rhyme="1" line_length="13">Pak všecko umlklo a měsíc nudou zíval.</l>
+     <l n="10" met="010001010101" rhyme="2" line_length="12">Tu kytaru svou vzal a kráčel zpátky v šer.</l>
+     <l n="11" met="0100100100010" rhyme="1" line_length="13">Však druhého dne zas zde serenadu zpíval:</l>
+     <l n="12" met="1001000" rhyme="2" line_length="7">O ma chère, o ma très chère...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

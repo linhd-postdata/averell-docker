@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LE SONNET</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_le-sonnet</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LE SONNET</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LE SONNET</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Les quatrains du Sonnet sont de bons chevaliers</l>
+     <l n="2" rhyme="b" line_length="6+6">Crêtés de lambrequins, plastronés d'armoiries,</l>
+     <l n="3" rhyme="b" line_length="6+6">Marchant à pas égaux le long des galeries</l>
+     <l n="4" rhyme="a" line_length="6+6">Ou veillant, lance au poing, droits contre les piliers.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Mais une dame attend au bas des escaliers ;</l>
+     <l n="6" rhyme="b" line_length="6+6">Sous son capuchon brun, comme dans les féeries,</l>
+     <l n="7" rhyme="b" line_length="6+6">On voit confusément luire les pierreries,</l>
+     <l n="8" rhyme="a" line_length="6+6">Ils la vont recevoir, graves et réguliers.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Pages de satin blanc, à la housse bouffante,</l>
+     <l n="10" rhyme="d" line_length="6+6">Les tercets, plus légers, la prennent à leur tour</l>
+     <l n="11" rhyme="c" line_length="6+6">Et jusqu'aux pieds du Roi conduisent cette infante.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="c" line_length="6+6">Là, relevant son voile, apparaît triomphante</l>
+     <l n="13" rhyme="d" line_length="6+6">La Belle, la Diva, digne qu'avec amour</l>
+     <l n="14" rhyme="d" line_length="6+6">Claudius, sur l'émail, en trace le contour.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

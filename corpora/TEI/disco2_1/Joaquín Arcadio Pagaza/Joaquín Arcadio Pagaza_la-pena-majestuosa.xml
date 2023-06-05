@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La peña majestuosa</title>
+    <author>Joaquín Arcadio Pagaza</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Joaquín Arcadio Pagaza_la-pena-majestuosa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La peña majestuosa</title>
+     <author>Joaquín Arcadio Pagaza</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La peña majestuosa</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+-+---+-">De un monte el dorso ríspido y serrado</l>
+     <l n="2" met="+--+---+-+-">tiene por trono, y la escarpada cumbre;</l>
+     <l n="3" met="--+--+---+-">se corona en laurel, y su techumbre</l>
+     <l n="4" met="-+-+-+---+-">las nubes son y el éter azulado.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+---+-">Por cetro empuña verde y arriscado</l>
+     <l n="6" met="--+--+---+-">monolito de enorme pesadumbre;</l>
+     <l n="7" met="--+--+---+-">las colinas su regia servidumbre</l>
+     <l n="8" met="+--+-+---+-">son, y su imperio el valle dilatado.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Se embebece mirando en el bruñido</l>
+     <l n="10" met="-+---+-+-+-">y líquido cristal su faz severa,</l>
+     <l n="11" met="-+-+---+-+-">su airoso porte y ademán temido.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">Y su música dulce y placentera</l>
+     <l n="13" met="+-+--+---+-">son el trueno del rayo y el graznido</l>
+     <l n="14" met="-+---+---+-">del águila salvaje y altanera.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

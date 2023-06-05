@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Al sepulcro de Juan Pérez de Montalbán</title>
+    <author>Francisco García de Arroyo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco García de Arroyo_al-sepulcro-de-juan-perez-de-m</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Al sepulcro de Juan Pérez de Montalbán</title>
+     <author>Francisco García de Arroyo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Al sepulcro de Juan Pérez de Montalbán</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+---+-">Esta pompa fatal, ¡o Peregrino!</l>
+     <l n="2" met="-++--+---+-">corona es temporal del nacimiento,</l>
+     <l n="3" met="--+--+---+-">que en las sienes del tiempo al llamamiento</l>
+     <l n="4" met="-+---+-+-+-">los triunfos de la vida le previno.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+---+-">Esta ya entre sus páramos, el lino.</l>
+     <l n="6" met="+-+--+---+-">rasga de una mortaja, y ceniciento</l>
+     <l n="7" met="--+--++--+-">del Cadáver que incluye, es monumento,</l>
+     <l n="8" met="+-++-+-+-+-">y hado al fin es vulgar, común destino:</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+-++---+-">Yace en ella, no yace, que en desvelo</l>
+     <l n="10" met="--+--+--++-">de perpetuos aplausos está vivo,</l>
+     <l n="11" met="-+--++---+-">Montano, feliz siempre en la memoria.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">Montano, que en la Tierra, y en el Cielo,</l>
+     <l n="13" met="-+-+-+-+-+-">humilde en ella, cuanto en él altivo,</l>
+     <l n="14" met="+-+-++-+-+-">dignamente le ilustra eterna Gloria.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

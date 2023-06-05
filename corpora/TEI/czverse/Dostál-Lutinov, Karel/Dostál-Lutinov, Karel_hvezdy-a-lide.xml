@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>HVĚZDY A LIDÉ.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_hvezdy-a-lide</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>HVĚZDY A LIDÉ.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>HVĚZDY A LIDÉ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Ty hvězdy jako kuřátka</l>
+     <l n="2" met="01001010" rhyme="1" line_length="8">jsou blizounko, blízko sebe –</l>
+     <l n="3" met="100100100" line_length="9">a přec je od hvězdy ku hvězdě</l>
+     <l n="4" met="1001010" rhyme="1" line_length="7">dále než z pekla v nebe.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000100" line_length="8">My lidé jak ta kuřátka</l>
+     <l n="6" met="11001010" rhyme="2" line_length="8">jdem životem – staří známí –</l>
+     <l n="7" met="110010100" line_length="9">dlaň ve dlani, ústa na ústech –</l>
+     <l n="8" met="01001010" rhyme="2" line_length="8">a propasti mezi námi...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

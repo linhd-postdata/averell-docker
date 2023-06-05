@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Obsequio</title>
+    <author>Juan Vallejo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Vallejo_obsequio</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Obsequio</title>
+     <author>Juan Vallejo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Obsequio</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---+-">Una canal sobre una cobertera</l>
+     <l n="2" met="-+-+-+---+-">tapando de un melón la raspadura;</l>
+     <l n="3" met="-+-+-+--++-">bajo un morrillo digno de un Miura</l>
+     <l n="4" met="+--+-----+-">un aparato a modo de collera;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++---+---+-">un odre colosal en que cupiera</l>
+     <l n="6" met="--+-++---+-">la vendimia de un año con holgura,</l>
+     <l n="7" met="-++--+---+-">y encima una grasienta vestidura</l>
+     <l n="8" met="-+---+-+-+-">manchada de tabaco, vino y cera;</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+-+---+-">ahí tienes, buen católico, el objeto</l>
+     <l n="10" met="---+-++-++-">a que, probando así que eres un zote,</l>
+     <l n="11" met="+--+-+---+-">das a la par tu bolsa y tu respeto.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+++---+-+-">Mas yo te quiero, aunque tus faltas note,</l>
+     <l n="13" met="--+-+++--+-">y gustoso le brindo este soneto,</l>
+     <l n="14" met="-+---+++-+-">receta para hacer un ¡sa! cerdote.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

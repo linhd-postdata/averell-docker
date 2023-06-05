@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nadpis</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_nadpis</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nadpis</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nadpis</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1100010001" rhyme="1" line_length="10">Žít, jako by to poslední byl rok!</l>
+     <l n="2" met="01000101000" rhyme="2" line_length="11">Hned pod okny je hřbitov zasněžený;</l>
+     <l n="3" met="0001010101" rhyme="1" line_length="10">vždy sám se vracím, ale v náruč slok</l>
+     <l n="4" met="01010101010" rhyme="2" line_length="11">tím žhavěj svírám slunce, modř i ženy.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1100010100" rhyme="3" line_length="10">V den, od stolu až budu odvolán,</l>
+     <l n="6" met="11000101000" rhyme="4" line_length="11">číš rozkoše tam zbude, nedopita,</l>
+     <l n="7" met="0101010101" rhyme="3" line_length="10">a bílý list, kde pouze nadpis psán</l>
+     <l n="8" met="01000101000" rhyme="4" line_length="11">je o cestě i práci... Nedosyta.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1100010001" rhyme="5" line_length="10">Snít ve verších až po nejzazší dech</l>
+     <l n="10" met="01000101000" rhyme="6" line_length="11">a za bdění se hroužit v pilování!</l>
+     <l n="11" met="0100010101" rhyme="5" line_length="10">Kdož uctít mne kdy chcete po mých dnech,</l>
+     <l n="12" met="01011100000" rhyme="6" line_length="11">mnou ctěte svět, svět k nedomilování!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

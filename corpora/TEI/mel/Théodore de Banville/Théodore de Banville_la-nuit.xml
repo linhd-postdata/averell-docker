@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Nuit</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_la-nuit</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Nuit</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Nuit</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">A cette heure où les cœurs, d'amour rassasiés,</l>
+     <l n="2" rhyme="b" line_length="6+6">Flottent dans le sommeil comme de blanches voiles,</l>
+     <l n="3" rhyme="b" line_length="6+6">Entends-tu sur les bords de ce lac plein d'étoiles</l>
+     <l n="4" rhyme="a" line_length="6+6">Chanter les rossignols aux suaves gosiers ?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Sans doute, soulevant les flots extasiés</l>
+     <l n="6" rhyme="b" line_length="6+6">De tes cheveux touffus et de tes derniers voiles,</l>
+     <l n="7" rhyme="b" line_length="6+6">Les coussins attiédis, les draps aux fines toiles</l>
+     <l n="8" rhyme="a" line_length="6+6">Baisent ton sein, fleuri comme un bois de rosiers ?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Vois-tu, du fond de l'ombre où pleurent tes pensées,</l>
+     <l n="10" rhyme="c" line_length="6+6">Fuir les fantômes blancs des pâles délaissées,</l>
+     <l n="11" rhyme="d" line_length="6+6">Moins pâles de la mort que de leur désespoir ?</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Ou, peut-être, énervée, amoureuse et farouche,</l>
+     <l n="13" rhyme="d" line_length="6+6">Pieds nus sur le tapis, tu cours à ton miroir</l>
+     <l n="14" rhyme="e" line_length="6+6">Et des ruisseaux de pleurs coulent jusqu'à ta bouche.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

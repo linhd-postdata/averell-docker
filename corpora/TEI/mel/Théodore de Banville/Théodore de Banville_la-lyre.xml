@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Lyre</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_la-lyre</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Lyre</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Lyre</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Les Dieux, pour lui laisser le vin, buvaient du fiel.</l>
+     <l n="2" rhyme="b" line_length="6+6">L'aigle à ses pieds veillait, ayant quitté son aire ;</l>
+     <l n="3" rhyme="b" line_length="6+6">Le lion devant lui se couchait, débonnaire,</l>
+     <l n="4" rhyme="a" line_length="6+6">L'abeille était joyeuse et lui donnait son miel.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Il avait sur son front le signe essentiel,</l>
+     <l n="6" rhyme="b" line_length="6+6">Et du rouge vêtu, comme un tortionnaire,</l>
+     <l n="7" rhyme="b" line_length="6+6">Dans sa droite féroce il portait le tonnerre,</l>
+     <l n="8" rhyme="a" line_length="6+6">Étant celui qui fait la clarté dans le ciel.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Pourtant, sans être ému de sa terrible approche,</l>
+     <l n="10" rhyme="c" line_length="6+6">Moi, je chantais mon ode et j'emplissais la roche,</l>
+     <l n="11" rhyme="d" line_length="6+6">La caverne et le bois de cris mélodieux.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Enfin je m'avançai, pris du sacré délire,</l>
+     <l n="13" rhyme="d" line_length="6+6">Vers celui qui soumet les tigres et les Dieux,</l>
+     <l n="14" rhyme="e" line_length="6+6">Et je lui dis : Amour, obéis ; j'ai la Lyre !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Písně.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_pisne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Písně.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Písně.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010101010" rhyme="1" line_length="12">Vypravuj mi, pověz, švarné děvče moje,</l>
+     <l n="2" met="001010101010" rhyme="1" line_length="12">kde jsi v srdce chytlo zlatých písní roje,</l>
+     <l n="3" met="101010101010" rhyme="2" line_length="12">roje zlatých písní, jež kam křídla skloní,</l>
+     <l n="4" met="010010101010" rhyme="2" line_length="12">tam ze slunných očí rázem slzy sroní.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100010101010" rhyme="3" line_length="12">Vypravuj mi, pověz, moje duše zlatá,</l>
+     <l n="6" met="001010001010" rhyme="3" line_length="12">proč, kam roj ten letí, proč, kam roj ten chvátá,</l>
+     <l n="7" met="010010101010" rhyme="4" line_length="12">jak pod vzdechem vánků rudá vrbka v lese</l>
+     <l n="8" met="100010100010" rhyme="4" line_length="12">rozželené srdce chvěje se a třese?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="001000101010" rhyme="5" line_length="12">já jich nechytala, v hruď ty v čely v letu</l>
+     <l n="10" met="100010100010" rhyme="5" line_length="12">padly mi jak rosa do kalicha květu,</l>
+     <l n="11" met="010010101010" rhyme="6" line_length="12">jak do květu rosa, v které západ hoří,</l>
+     <l n="12" met="101010100010" rhyme="6" line_length="12">západ lásky, z ňader lastury jež tvoří.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="001000101010" rhyme="7" line_length="12">Já jich nechytala; v stínu plané hruše,</l>
+     <l n="14" met="101010100010" rhyme="7" line_length="12">v širém poli rostly z bolesti mé duše,</l>
+     <l n="15" met="101010101010" rhyme="8" line_length="12">rostly jako perly v řeky horském ronu,</l>
+     <l n="16" met="001000100010" rhyme="8" line_length="12">já jen řadila je na hedvábí tónů.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="101010101010" rhyme="9" line_length="12">Rostly z chorých ňader, rostly v širém poli;</l>
+     <l n="18" met="101010100010" rhyme="9" line_length="12">drobné perly zpívám, srdce mě však bolí,</l>
+     <l n="19" met="101010100010" rhyme="10" line_length="12">a když nejvíc bolí, nejvíc se to blýská,</l>
+     <l n="20" met="101000101010" rhyme="10" line_length="12">div, že nezatone v perlách naše víska. –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

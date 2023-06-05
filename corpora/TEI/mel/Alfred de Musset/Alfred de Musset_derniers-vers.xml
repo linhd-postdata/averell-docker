@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Derniers Vers</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_derniers-vers</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Derniers Vers</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Derniers Vers</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="5+5">L’heure de ma mort, depuis dix-huit mois,</l>
+     <l n="2" rhyme="b" line_length="5+5">De tous les côtés sonne à mes oreilles,</l>
+     <l n="3" rhyme="b" line_length="5+5">Depuis dix-huit mois d’ennuis et de veilles,</l>
+     <l n="4" rhyme="a" line_length="5+5">Partout je la sens, partout je la vois.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="5+5">Plus je me débats contre ma misère,</l>
+     <l n="6" rhyme="b" line_length="5+5">Plus s’éveille en moi l’instinct du malheur ;</l>
+     <l n="7" rhyme="a" line_length="5+5">Et, dès que je veux faire un pas sur terre,</l>
+     <l n="8" rhyme="b" line_length="5+5">Je sens tout à coup s’arrêter mon cœur.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="5+5">Ma force à lutter s’use et se prodigue.</l>
+     <l n="10" rhyme="b" line_length="5+5">Jusqu’à mon repos, tout est un combat ;</l>
+     <l n="11" rhyme="a" line_length="5+5">Et, comme un coursier brisé de fatigue,</l>
+     <l n="12" rhyme="b" line_length="5+5">Mon courage éteint chancelle et s’abat.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

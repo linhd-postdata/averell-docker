@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Suum cuique</title>
+    <author>Juan A. de Torre</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan A. de Torre_suum-cuique</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Suum cuique</title>
+     <author>Juan A. de Torre</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Suum cuique</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+---+-+-">No, no maldigas tu infelice suerte</l>
+     <l n="2" met="--++-+-+-+-">porque al fin nos separen, alma mía;</l>
+     <l n="3" met="--++-+-+-+-">merecido es el mal que Dios envía,</l>
+     <l n="4" met="-++--+---+-">y yo sé que merezco el de perderte.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-++--+-+++-">Buscando una razón a mal tan fuerte</l>
+     <l n="6" met="-++--++--+-">así, loco de amor, yo discurría</l>
+     <l n="7" met="--+--+---+-">y encontrar en mis culpas pretendía</l>
+     <l n="8" met="-+-+---+-+-">la triste causa de mi triste suerte.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+++-+---+-">Mas no le queda al mísero consuelo</l>
+     <l n="10" met="--+--+---+-">de encontrar en las faltas del pasado</l>
+     <l n="11" met="+--+---+-+-">una razón en su presente duelo.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+---+-">Yo seré con justicia condenado:</l>
+     <l n="13" met="--++-+-+-+-">¿pero no sabe al fin, el justo cielo,</l>
+     <l n="14" met="-++--+-+-+-">que tú sufres también y no has pecado?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

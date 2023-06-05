@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A la Eucaristía</title>
+    <author>Narciso Campillo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Narciso Campillo_a-la-eucaristia</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A la Eucaristía</title>
+     <author>Narciso Campillo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A la Eucaristía</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Por más que se levanta el pensamiento</l>
+     <l n="2" met="-+---+---+-">con vuelo desusado y peregrino,</l>
+     <l n="3" met="-+++---+-+-">hallar no puede en su ideal camino</l>
+     <l n="4" met="+-++---+-+-">otro tan alto y singular portento.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">Que baje Dios desde el sublime asiento</l>
+     <l n="6" met="---+-+-+-+-">que de su carne en pan, su sangre en vino,</l>
+     <l n="7" met="-+-+---+-+-">que habite el cuerpo del mortal mezquino</l>
+     <l n="8" met="---+-+---+-">y se confunda y viva con su aliento.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">Misterios son en que se abisma en vano</l>
+     <l n="10" met="+-+--+---+-">aun del ángel la clara inteligencia,</l>
+     <l n="11" met="++----+--+-">cual piedra en la extensión del océano.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+----+---+-">«¿Quién investigará la Eterna Esencia?»</l>
+     <l n="13" met="-+-+---+-+-">absorto y mudo ante el grandioso arcano</l>
+     <l n="14" met="-+-+-+-+-+-">invoco yo la fe, y ella es mi ciencia.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

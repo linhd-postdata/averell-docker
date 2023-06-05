@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Echo</title>
+    <author>Christina Rossetti</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Christina Rossetti_echo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>For Better For Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Echo</title>
+     <author>Christina Rossetti</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Echo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="stanza">
+     <l n="1" met="+--+-+-+-+">Come to me in the silence of the night;</l>
+     <l n="2" met="+--+-+-+-+">Come in the speaking silence of a dream;</l>
+     <l n="3" met="+-++-+-+-+">Come with soft rounded cheeks and eyes as bright</l>
+     <l n="4" met="-+-+-+">As sunlight on a stream;</l>
+     <l n="5" met="-+-+">Come back in tears,</l>
+     <l n="6" met="-+--+-+-+-+">O memory, hope and love of finished years.</l>
+    </lg>
+    <lg n="2" stanza_type="stanza">
+     <l n="7" met="-+-+++-+-+">O dream how sweet, too sweet, too bitter-sweet,</l>
+     <l n="8" met="-+--+-+-+-+">Whose wakening should have been in Paradise,</l>
+     <l n="9" met="-+++-+-+-+">Where souls brim-full of love abide and meet;</l>
+     <l n="10" met="-+-+-+">Where thirsting longing eyes</l>
+     <l n="11" met="+-++">Watch the slow door</l>
+     <l n="12" met="-+--+-+-+++">That opening, letting in, lets out no more.</l>
+    </lg>
+    <lg n="3" stanza_type="stanza">
+     <l n="13" met="-+-+-+-+-+">Yet come to me in dreams, that I may live</l>
+     <l n="14" met="-+-+-+-+-+">My very life again though cold in death;</l>
+     <l n="15" met="-+-+-+-+-+">Come back to me in dreams, that I may give</l>
+     <l n="16" met="+-++-+">Pulse for pulse, breath for breath:</l>
+     <l n="17" met="++++">Speak low, lean low,</l>
+     <l n="18" met="-+-+-+-+-+">As long ago, my love, how long ago.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

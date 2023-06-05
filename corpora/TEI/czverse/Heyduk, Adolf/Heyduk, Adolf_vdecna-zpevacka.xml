@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vděčná zpěvačka.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_vdecna-zpevacka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vděčná zpěvačka.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vděčná zpěvačka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0010100010" rhyme="1" line_length="10">Proč vám asi podivným je zjevem,</l>
+     <l n="2" met="1000100100" rhyme="1" line_length="10">při práci že veselím se zpěvem?</l>
+     <l n="3" met="1000100010" rhyme="2" line_length="10">Matička, když v kolébce jsem byla,</l>
+     <l n="4" met="1000101000" rhyme="2" line_length="10">slavíka mi k hlavám pověsila.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0010101010" rhyme="3" line_length="10">Ten mě pojil ze svých zpěvů zřídla,</l>
+     <l n="6" met="1010011010" rhyme="3" line_length="10">slunná ze zvuků dal duši křídla,</l>
+     <l n="7" met="0010101010" rhyme="4" line_length="10">teď se vděčné srdce k němu hlásí;</l>
+     <l n="8" met="1000101010" rhyme="4" line_length="10">proto je to nejspíš, proto asi.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

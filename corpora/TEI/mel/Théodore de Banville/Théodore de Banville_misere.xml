@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Misère</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_misere</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Misère</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Misère</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Hommes, femmes, vieillards enfin,</l>
+     <l n="2" rhyme="b" line_length="8">Tous ces vains chercheurs de problèmes</l>
+     <l n="3" rhyme="a" line_length="8">Souffrent du froid et de la faim ;</l>
+     <l n="4" rhyme="b" line_length="8">Aussi les petits enfants blêmes.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Le désespoir vient les saisir ;</l>
+     <l n="6" rhyme="b" line_length="8">C'est lui tout seul qui les enseigne,</l>
+     <l n="7" rhyme="a" line_length="8">Et toujours le cruel Désir</l>
+     <l n="8" rhyme="b" line_length="8">Mord leur chair qui pleure et qui saigne.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Ils vivent dans l'oubli hideux,</l>
+     <l n="10" rhyme="b" line_length="8">Sans que jamais rien y fleurisse.</l>
+     <l n="11" rhyme="a" line_length="8">Mais qui donc aura pitié d'eux ?</l>
+     <l n="12" rhyme="b" line_length="8">Misère, la bonne nourrice.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">Cet Ange au gosier enroué,</l>
+     <l n="14" rhyme="b" line_length="8">Réchauffant leur lèvre livide,</l>
+     <l n="15" rhyme="a" line_length="8">Met sur eux son châle troué</l>
+     <l n="16" rhyme="b" line_length="8">Et leur tend sa mamelle vide.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

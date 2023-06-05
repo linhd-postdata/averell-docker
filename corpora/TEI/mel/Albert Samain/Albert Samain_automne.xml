@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>AUTOMNE</title>
+    <author>Albert Samain</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Albert Samain_automne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>AUTOMNE</title>
+     <author>Albert Samain</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>AUTOMNE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">A pas lents, et suivis du chien de la maison,</l>
+     <l n="2" rhyme="b" line_length="6+6">Nous refaisons la route à présent trop connue.</l>
+     <l n="3" rhyme="b" line_length="6+6">Un pâle automne saigne au fond de l'avenue,</l>
+     <l n="4" rhyme="a" line_length="6+6">Et des femmes en deuil passent à l'horizon.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Comme dans un préau d'hospice ou de prison,</l>
+     <l n="6" rhyme="b" line_length="4+4+4">L'air est calme et d'une tristesse contenue ;</l>
+     <l n="7" rhyme="b" line_length="6+6">Et chaque feuille d'or tombe, l'heure venue,</l>
+     <l n="8" rhyme="a" line_length="6+6">Ainsi qu'un souvenir, lente, sur le gazon.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Le Silence entre nous marche… Cœurs de mensonges,</l>
+     <l n="10" rhyme="a" line_length="6+6">Chacun, las du voyage, et mûr pour d'autres songes,</l>
+     <l n="11" rhyme="b" line_length="6+6">Rêve égoïstement de retourner au port.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="c" line_length="6+6">Mais let bois ont, ce soir, tant de mélancolie</l>
+     <l n="13" rhyme="c" line_length="6+6">Que noire cœur s'émeut à son tour et s'oublie</l>
+     <l n="14" rhyme="b" line_length="6+6">A parler du passé, sous le ciel qui s'endort,</l>
+    </lg>
+    <lg n="5">
+     <l n="15" rhyme="b" line_length="6+6">Doucement, à mi-voix, comme d'un enfant mort.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

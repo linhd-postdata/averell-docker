@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LE CHIEN ENRAGÉ</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_le-chien-enrage</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LE CHIEN ENRAGÉ</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LE CHIEN ENRAGÉ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="0" line_length="3+6">Le chien noir me poursuit dans l'orage</l>
+     <l n="2" rhyme="1" line_length="3+6">A travers de hideux pays plats,</l>
+     <l n="3" rhyme="2" line_length="3+6">Et tous deux, tristes comme des glas,</l>
+     <l n="4" rhyme="0" line_length="3+6">Nous passons labour et pâturage.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="0" line_length="3+6">Il franchit buisson, mur et barrage…</l>
+     <l n="6" rhyme="2" line_length="3+6">Et je n'ai pas même un échalas !</l>
+     <l n="7" rhyme="0" line_length="3+6">Le chien noir me poursuit dans l'orage</l>
+     <l n="8" rhyme="1" line_length="3+6">A travers de hideux pays plats.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="0" line_length="3+6">Et, songeant aux martyrs de la rage</l>
+     <l n="10" rhyme="2" line_length="3+6">Qu'on étouffe entre deux matelas,</l>
+     <l n="11" rhyme="2" line_length="3+6">Je chemine, effroyablement las,</l>
+     <l n="12" rhyme="0" line_length="3+6">Presqu'à bout de force et de courage…</l>
+     <l n="13" rhyme="0" line_length="3+6">Le chien noir me poursuit dans l'orage !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

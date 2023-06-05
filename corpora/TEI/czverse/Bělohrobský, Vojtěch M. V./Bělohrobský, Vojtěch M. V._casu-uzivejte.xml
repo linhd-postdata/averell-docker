@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Času užívejte!</title>
+    <author>Bělohrobský, Vojtěch M. V.</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Bělohrobský, Vojtěch M. V._casu-uzivejte</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Času užívejte!</title>
+     <author>Bělohrobský, Vojtěch M. V.</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Času užívejte!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" rhyme="1" line_length="8">„Časem marně neplýtvejte,</l>
+     <l n="2" met="10101000" rhyme="1" line_length="8">každé chvilky užívejte!“</l>
+     <l n="3" met="1010101" rhyme="2" line_length="7">Takto pravil moudrý Vít,</l>
+     <l n="4" met="1000101" rhyme="2" line_length="7">při veselce jda hned křtít.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

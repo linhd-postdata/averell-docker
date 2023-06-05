@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A don Juan Noriega</title>
+    <author>Juan Lorenzo Jesús Vila</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Lorenzo Jesús Vila_a-don-juan-noriega</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A don Juan Noriega</title>
+     <author>Juan Lorenzo Jesús Vila</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A don Juan Noriega</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+---+-+-">Ya el sol vibraba sobre el claro Oriente</l>
+     <l n="2" met="-+-+---+-+-">y en carro de oro entre la mar salía,</l>
+     <l n="3" met="--++---+-+-">cuando ya Euterpe en mi interior decía:</l>
+     <l n="4" met="+-+-++---+-">canta el día de Juan, gloria eminente.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+-+-+-">Holgábase con esto ya la mente</l>
+     <l n="6" met="---+-+--++-">en obsequiar tu alegre y feliz día;</l>
+     <l n="7" met="-+---+-+-+-">de intérpretes sirvió la pluma mía</l>
+     <l n="8" met="-+-+-+--++-">y el pecho aquí grabó lo que en sí siente.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+-+-">Huye las penas, que el vivir penando</l>
+     <l n="10" met="++-+---+-+-">es muerte doble a tu orfandad injusta</l>
+     <l n="11" met="-+-+---+-+-">que acero impío de asesino bando,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">labró malvado... y en tu edad adusta,</l>
+     <l n="13" met="-+-+--++-+-">recuerda siempre que nos son prestados,</l>
+     <l n="14" met="-+-+---+-+-">el oro, hacienda, y el vivir amados.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

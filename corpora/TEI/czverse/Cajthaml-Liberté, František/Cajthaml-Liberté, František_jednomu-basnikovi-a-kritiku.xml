@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jednomu básníkovi a kritiku.</title>
+    <author>Cajthaml-Liberté, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cajthaml-Liberté, František_jednomu-basnikovi-a-kritiku</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jednomu básníkovi a kritiku.</title>
+     <author>Cajthaml-Liberté, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jednomu básníkovi a kritiku.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" rhyme="1" line_length="11">Sám se svou Musou zástup zmetků zplodil,</l>
+     <l n="2" met="0100100100" rhyme="2" line_length="10">až čtenář se nad nimi zajiká.</l>
+     <l n="3" met="01001001010" rhyme="1" line_length="11">Však písně mé dostaly od něj podíl,</l>
+     <l n="4" met="0101010100" rhyme="2" line_length="10">když na ně zvedl klacek kritika.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

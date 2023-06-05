@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Anjel s jasnou perutí</title>
+    <author>Züngel, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Züngel, Emanuel_anjel-s-jasnou-peruti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Anjel s jasnou perutí</title>
+     <author>Züngel, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Anjel s jasnou perutí</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100" rhyme="1" line_length="7">Anjel s jasnou perutí </l>
+     <l n="2" met="0010100" rhyme="1" line_length="7">se mi v blesku mihnutí</l>
+     <l n="3" met="10100" rhyme="2" line_length="5">zjevil ve snu dnes;</l>
+     <l n="4" met="00101010" rhyme="3" line_length="8">kéž by blaha květ Ti jarý,</l>
+     <l n="5" met="10101010" rhyme="3" line_length="8">ano, všechny nebes dary</l>
+     <l n="6" met="10101" rhyme="2" line_length="5">dolů k zemi snes!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

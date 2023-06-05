@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VOUS ÊTES LA REINE AU PAYS DU TENDRE</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">3</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_vous-etes-la-reine-au-pays-du</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VOUS ÊTES LA REINE AU PAYS DU TENDRE</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VOUS ÊTES LA REINE AU PAYS DU TENDRE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Vous êtes la reine au pays du tendre</l>
+     <l n="2" rhyme="b" line_length="6+6">Que vous régentez à loisir</l>
+     <l n="3" rhyme="a" line_length="8">Et ce, pendant que moi, comme la salamandre</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

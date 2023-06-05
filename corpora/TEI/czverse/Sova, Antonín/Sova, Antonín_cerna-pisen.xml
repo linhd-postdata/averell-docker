@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Černá píseň.</title>
+    <author>Sova, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sova, Antonín_cerna-pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Černá píseň.</title>
+     <author>Sova, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Černá píseň.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101000" line_length="9">Nač ještě čekat? Nad troskami,</l>
+     <l n="2" met="10000101" rhyme="1" line_length="8">nad nevtěleným každým snem?</l>
+     <l n="3" met="01010101000" line_length="11">Jen oné černé písni důvěřuji,</l>
+     <l n="4" met="0100010100" rhyme="1" line_length="10">jež zoufaleji roste v nitru mém,</l>
+     <l n="5" met="01001101000" rhyme="2" line_length="11">v něm výčitky zní lásky nezkojené,</l>
+     <l n="6" met="10010101000" rhyme="2" line_length="11">marného snění bouře neztišené,</l>
+     <l n="7" met="11010100" rhyme="3" line_length="8">hřmí mužství mocně dojaté,</l>
+     <l n="8" met="1001010100" rhyme="3" line_length="10">perutě jeho marně rozpjaté!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

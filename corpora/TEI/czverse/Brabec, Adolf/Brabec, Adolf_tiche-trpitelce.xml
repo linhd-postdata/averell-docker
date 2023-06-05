@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>TICHÉ TRPITELCE.</title>
+    <author>Brabec, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Brabec, Adolf_tiche-trpitelce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>TICHÉ TRPITELCE.</title>
+     <author>Brabec, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>TICHÉ TRPITELCE.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100" rhyme="1" line_length="8">Ty’s trpitelkou v bolesti,</l>
+     <l n="2" met="0101010" rhyme="2" line_length="7">tvůj zrak tak tichý, bdělý,</l>
+     <l n="3" met="01010100" rhyme="1" line_length="8">zde samé růže rozkvésti</l>
+     <l n="4" met="1000010" rhyme="2" line_length="7">u nohou tvých by měly.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000100" rhyme="3" line_length="8">Proč osud tvůj ti nevlídný</l>
+     <l n="6" met="1001010" rhyme="4" line_length="7">ze číše svojí klaté</l>
+     <l n="7" met="11010100" rhyme="3" line_length="8">dal píti život neklidný,</l>
+     <l n="8" met="0100010" rhyme="4" line_length="7">ač srdce tvé je zlaté?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

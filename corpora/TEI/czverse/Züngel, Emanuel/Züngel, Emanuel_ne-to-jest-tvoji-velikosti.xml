@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ne to jest tvojí velikostí,</title>
+    <author>Züngel, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Züngel, Emanuel_ne-to-jest-tvoji-velikosti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ne to jest tvojí velikostí,</title>
+     <author>Züngel, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ne to jest tvojí velikostí,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="000101000" line_length="9">Ne to jest tvojí velikostí, </l>
+     <l n="2" met="00010101" rhyme="1" line_length="8">že zde svůj život v rukou máš;</l>
+     <l n="3" met="01010100" line_length="8">však bude teprv zásluhou,</l>
+     <l n="4" met="00010100" rhyme="1" line_length="8">co sám si z něho uděláš.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>En la arcada</title>
+    <author>Carlos Póo Urbach</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Carlos Póo Urbach_en-la-arcada</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>En la arcada</title>
+     <author>Carlos Póo Urbach</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>En la arcada</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+---+-+-">Bajo el dosal de la esculpida arcada</l>
+     <l n="2" met="+--+-+---+-">eres visión de blanca vestidura,</l>
+     <l n="3" met="-+-+-+---+-">que de una estrofa esquiva la clausura</l>
+     <l n="4" met="---+-+---+-">por suplicantes ritos evocada.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">Por locas inquietudes agitada,</l>
+     <l n="6" met="-+---+---+-">tus ojos, que abrillantan la ternura,</l>
+     <l n="7" met="+----+---+-">fíjanse, escrutadores, en la oscura</l>
+     <l n="8" met="+----+---+-">sombra de la avenida enarenada.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+---+-+-">En la tiniebla nocturnal imitas,</l>
+     <l n="10" met="-+---+---+-">inmóvil en el rico barandaje,</l>
+     <l n="11" met="+--+---+-+-">virgen enferma o moribundo nardo...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+----+---+-">Viendo en el horizonte de tus cuitas</l>
+     <l n="13" met="-+---+---+-">cruzar con resplandores de celaje</l>
+     <l n="14" met="+--+---+-+-">la última rima del ausente bardo!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

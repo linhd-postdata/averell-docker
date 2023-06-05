@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LETNÍ NOC</title>
+    <author>Dyk, Viktor</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dyk, Viktor_letni-noc</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LETNÍ NOC</title>
+     <author>Dyk, Viktor</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LETNÍ NOC</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101010" rhyme="1" line_length="9">Na okna, zdá se, někdo ťuká.</l>
+     <l n="2" met="01010100" rhyme="2" line_length="8">A myslím, kdosi odpoví.</l>
+     <l n="3" met="110100010" rhyme="1" line_length="9">Má šepot zahrada a luka,</l>
+     <l n="4" met="11000100" rhyme="2" line_length="8">má šepot svůj i vrboví.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100101000" rhyme="3" line_length="9">Pod mocí očí uhrančivých</l>
+     <l n="6" met="01010100" rhyme="4" line_length="8">je těžko večer odříci.</l>
+     <l n="7" met="100101000" rhyme="3" line_length="9">V hospodě sedí u Šedivých</l>
+     <l n="8" met="10000100" rhyme="4" line_length="8">tatíkové a staříci.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100101010" rhyme="5" line_length="9">Hovor se nese jedním směrem,</l>
+     <l n="10" met="10010101" rhyme="6" line_length="8">hovor je stejný za všech dob.</l>
+     <l n="11" met="110101010" rhyme="5" line_length="9">Měj pozor, kdo sám kráčíš šerem,</l>
+     <l n="12" met="01000100" rhyme="6" line_length="8">bys o milence nezakop’.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Orion.</title>
+    <author>Květ, Bohuslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Květ, Bohuslav_orion</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Orion.</title>
+     <author>Květ, Bohuslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Orion.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010100010100010" rhyme="1" line_length="15">To krásné souhvězdí už staří Egypťané znali,</l>
+     <l n="2" met="0100010001010101" rhyme="2" line_length="16">ba zářilo již ve pravěku v skalní prvních lidí byt,</l>
+     <l n="3" met="100101000101000" rhyme="1" line_length="15">pod jeho třpytem národové kvetli, umírali,</l>
+     <l n="4" met="1001010000110001" rhyme="2" line_length="16">nad jejich slávou, tragediemi plál Oriona svit.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010000101101010" rhyme="3" line_length="15">A za miliony let až zem naše chladem zhyne,</l>
+     <l n="6" met="0101010001010100" rhyme="4" line_length="16">až konec lidstva, květeny a všeho tvorstva nastane,</l>
+     <l n="7" met="010010010001010" rhyme="3" line_length="15">až vynoří se z bezdna Nekonečna světy jiné,</l>
+     <l n="8" met="0100010101000100" rhyme="4" line_length="16">i nad vychladlou zemí krása Oriona zaplane.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

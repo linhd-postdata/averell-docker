@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>En un hospital</title>
+    <author>Julián del Casal</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Julián del Casal_en-un-hospital</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>En un hospital</title>
+     <author>Julián del Casal</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>En un hospital</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">Tabernáculo abierto de dolores</l>
+     <l n="2" met="-+-+-+---+-">que ansía echar el mundo de su seno,</l>
+     <l n="3" met="---+---+-+-">como la nube el estruendoso trueno</l>
+     <l n="4" met="--+--+---+-">que la puebla de lóbregos rumores.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+----+---+-">Plácenme tus sombríos corredores</l>
+     <l n="6" met="--+--+---+-">con su ambiente impregnado de veneno</l>
+     <l n="7" met="--+--+---+-">que dilatan en su ámbito sereno</l>
+     <l n="8" met="-+---+---+-">los males de tus tristes moradores.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+-+-">Hoy que el dolor mi juventud agosta</l>
+     <l n="10" met="---+-+---+-">y que mi enfermo espíritu tranquilo</l>
+     <l n="11" met="+-+--++--+-">ve su sueño trocarse en hojarasca,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+-+-+-">pienso que tú serás la firme costa</l>
+     <l n="13" met="---+-+-+-+-">donde podré encontrar seguro asilo</l>
+     <l n="14" met="--+--+---+-">en la hora fatal de la borrasca.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

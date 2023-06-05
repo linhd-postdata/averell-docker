@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SEMINÁŘSKÁ</title>
+    <author>Šimeček, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Šimeček, František_seminarska</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SEMINÁŘSKÁ</title>
+     <author>Šimeček, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SEMINÁŘSKÁ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11000101" line_length="8">Ach, netlačte mi v ruku kříž,</l>
+     <l n="2" met="0101010" rhyme="1" line_length="7">já k zemi přilnul duší</l>
+     <l n="3" met="01010100" line_length="8">a dlouhý oděv páterský</l>
+     <l n="4" met="0100010" rhyme="1" line_length="7">tak podivně mi sluší.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">Já neznám svaté modlitby,</l>
+     <l n="6" met="0101000" rhyme="2" line_length="7">mé víře odzpívali</l>
+     <l n="7" met="01010101" line_length="8">a naděj jenom světskou mám</l>
+     <l n="8" met="0101010" rhyme="2" line_length="7">a světskou lásku v dáli.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000100" line_length="8">Já obrázky jen miluju,</l>
+     <l n="10" met="0101010" rhyme="3" line_length="7">co růžné mají tváře</l>
+     <l n="11" met="01010100" line_length="8">a v srdci vřelý plamínek</l>
+     <l n="12" met="0101010" rhyme="3" line_length="7">a v oku lásky záře.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01000101" line_length="8">Již netlačte mi v ruku kříž,</l>
+     <l n="14" met="0101010" rhyme="4" line_length="7">já k zemi přilnul duší</l>
+     <l n="15" met="01010100" line_length="8">a dlouhý oděv páterský</l>
+     <l n="16" met="0100010" rhyme="4" line_length="7">mně podivně tak sluší.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

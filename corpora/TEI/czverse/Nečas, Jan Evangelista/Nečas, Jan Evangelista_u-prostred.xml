@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>U prostřed.</title>
+    <author>Nečas, Jan Evangelista</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nečas, Jan Evangelista_u-prostred</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>U prostřed.</title>
+     <author>Nečas, Jan Evangelista</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>U prostřed.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100110" rhyme="1" line_length="9">S mlynářem sešli se dva páni,</l>
+     <l n="2" met="10010001000" rhyme="1" line_length="11">vzali jej do prostřed, a v rozmlouvání</l>
+     <l n="3" met="100100010" rhyme="2" line_length="9">jeden z nich uštěpačně řekl:</l>
+     <l n="4" met="11010100010" rhyme="2" line_length="11">„Pes aby nyní životem se vlekl!</l>
+     <l n="5" met="01000101000" rhyme="3" line_length="11">Kdo poctivcem, ten špatně hospodaří,</l>
+     <l n="6" met="0100010001010" rhyme="3" line_length="13">jen zlodějům a šejdířům se dobře daří.</l>
+     <l n="7" met="0100000100" rhyme="4" line_length="10">Čím z obojího jste vy, mlynáři?“</l>
+     <l n="8" met="10010100" rhyme="4" line_length="8">Mlynář se změnil ve tváři,</l>
+     <l n="9" met="01000101" rhyme="5" line_length="8">pak rozesmál se jeho hled:</l>
+     <l n="10" met="00010100" rhyme="5" line_length="8">„Já jsem teď, páni, uprostřed.“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

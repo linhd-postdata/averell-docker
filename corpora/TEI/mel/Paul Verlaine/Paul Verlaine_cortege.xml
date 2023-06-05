@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Cortège</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_cortege</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Cortège</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Cortège</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Un singe en veste de brocart</l>
+     <l n="2" rhyme="b" line_length="8">Trotte et gambade devant elle</l>
+     <l n="3" rhyme="b" line_length="8">Qui froisse un mouchoir de dentelle</l>
+     <l n="4" rhyme="a" line_length="8">Dans sa main gantée avec art,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Tandis qu’un négrillon tout rouge</l>
+     <l n="6" rhyme="b" line_length="8">Maintient à tour de bras les pans</l>
+     <l n="7" rhyme="b" line_length="8">De sa lourde robe en suspens,</l>
+     <l n="8" rhyme="a" line_length="8">Attentif à tout pli qui bouge ;</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Le singe ne perd pas des yeux</l>
+     <l n="10" rhyme="b" line_length="8">La gorge blanche de la dame,</l>
+     <l n="11" rhyme="b" line_length="8">Opulent trésor que réclame</l>
+     <l n="12" rhyme="a" line_length="8">Le torse nu de l’un des dieux ;</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">Le négrillon parfois soulève</l>
+     <l n="14" rhyme="b" line_length="8">Plus haut qu’il ne faut, l’aigrefin,</l>
+     <l n="15" rhyme="b" line_length="8">Son fardeau somptueux, afin</l>
+     <l n="16" rhyme="a" line_length="8">De voir ce dont la nuit il rêve ;</l>
+    </lg>
+    <lg n="5">
+     <l n="17" rhyme="a" line_length="8">Elle va par les escaliers</l>
+     <l n="18" rhyme="b" line_length="8">Et ne paraît pas davantage</l>
+     <l n="19" rhyme="b" line_length="8">Sensible à l’insolent suffrage</l>
+     <l n="20" rhyme="a" line_length="8">De ses animaux familiers.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Madrigal</title>
+    <author>Henri Beauclair</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Henri Beauclair_madrigal</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Madrigal</title>
+     <author>Henri Beauclair</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Madrigal</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="7">Mon cœur tarabiscoté</l>
+     <l n="2" rhyme="a" line_length="7">A pris un point de côté.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="7">Tes effluves le font battre</l>
+     <l n="4" rhyme="a" line_length="7">Comme trois. Que dis-je ? Quatre.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="7">Ce n'est point un cœur de rien,</l>
+     <l n="6" rhyme="a" line_length="7">Un noctambule vaurien,</l>
+    </lg>
+    <lg n="4">
+     <l n="7" rhyme="a" line_length="7">Il ne fait de politesses</l>
+     <l n="8" rhyme="a" line_length="7">Qu'aux baronnes, aux comtesses.</l>
+    </lg>
+    <lg n="5">
+     <l n="9" rhyme="a" line_length="7">Et, ce bel entretenu,</l>
+     <l n="10" rhyme="a" line_length="7">Regarde, il est devenu,</l>
+    </lg>
+    <lg n="6">
+     <l n="11" rhyme="a" line_length="7">Grâce au sucre où tu t'enlises,</l>
+     <l n="12" rhyme="a" line_length="7">Confiture de Merises.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A HENRI MERCIER</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_a-henri-mercier</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A HENRI MERCIER</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A HENRI MERCIER</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">IL nous sied de remercier</l>
+     <l n="2" rhyme="b" line_length="8">Sur tous les tons de tous les modes</l>
+     <l n="3" rhyme="b" line_length="8">Ballades, sonnets, stances, odes,</l>
+     <l n="4" rhyme="a" line_length="8">Le sage, le juste Mercier.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Car quelle guerre à l’Épicier</l>
+     <l n="6" rhyme="b" line_length="8">Qui trouve ses us incommodes,</l>
+     <l n="7" rhyme="b" line_length="8">Et les truculentes méthodes,</l>
+     <l n="8" rhyme="a" line_length="8">En l’honneur de quels besaciers ?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="8">Puis il va, doux Porthos physique</l>
+     <l n="10" rhyme="d" line_length="8">Et subtil Aramis moral,</l>
+     <l n="11" rhyme="c" line_length="8">De la peinture à la musique,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="d" line_length="8">Noctambule mais auroral,</l>
+     <l n="13" rhyme="e" line_length="8">Prince des vers et de la prose</l>
+     <l n="14" rhyme="e" line_length="8">Et bath ami sur toute chose.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Después de una lectura</title>
+    <author>Federico Balart</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Federico Balart_despues-de-una-lectura</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Después de una lectura</title>
+     <author>Federico Balart</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Después de una lectura</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+---+-">Ciencia estéril, que triunfas satisfecha</l>
+     <l n="2" met="--+--+---+-">rechazando evidentes realidades,</l>
+     <l n="3" met="-+---+---+-">tu vista, -¡vanidad de vanidades!-</l>
+     <l n="4" met="--+--+-+-+-">desaciertos de Dios, sin fruto acecha.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">Tu soberbia satánica desecha</l>
+     <l n="6" met="---+-++--+-">lo que esperanza fue de otras edades,</l>
+     <l n="7" met="--+--+---+-">y mentiras parecen las verdades</l>
+     <l n="8" met="---+-+-+-+-">a tu confusa luz, de sombras hecha.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--++--+-">la mirada jamás alzas al cielo;</l>
+     <l n="10" met="--+--+---+-">las conciencias recusas por testigo;</l>
+     <l n="11" met="-+---+---+-">y llevas, con amargo desconsuelo,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">en tu propia sospecha tu enemigo,</l>
+     <l n="13" met="-+---+---+-">tu propio torcedor en tu recelo,</l>
+     <l n="14" met="--+--+---+-">y en tu propia victoria tu castigo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

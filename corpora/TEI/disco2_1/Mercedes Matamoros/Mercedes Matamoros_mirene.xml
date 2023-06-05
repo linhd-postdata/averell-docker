@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mirene</title>
+    <author>Mercedes Matamoros</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mercedes Matamoros_mirene</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mirene</title>
+     <author>Mercedes Matamoros</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mirene</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">¡Sé que Mirene, la gentil romana,</l>
+     <l n="2" met="-+-+-+-+-+-">conmigo tan rebelde, tan esquiva,</l>
+     <l n="3" met="-+-+-+---+-">anoche te entregó la siempreviva</l>
+     <l n="4" met="---+-+---+-">con que su seno espléndido engalana!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--++---+-+-">Pero más frágil que la flor lozana</l>
+     <l n="6" met="+-+--+-+-+-">es la regia beldad que te cautiva!</l>
+     <l n="7" met="-+--+++--+-">En Glauco y Antenor yo sé que activa</l>
+     <l n="8" met="-+-+---+-+-">el fuego impuro de pasión temprana!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">¡Y qué insensato en tu inconstancia eres!</l>
+     <l n="10" met="+--+---+-+-">¡Cómo sin tino y sin razón prefieres</l>
+     <l n="11" met="-+-+---+-+-">la cruel romana a la sensible griega!</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-++---+++-">Ella te ordena cuando yo me rindo;</l>
+     <l n="13" met="--+--+--++-">y el amor verdadero -el que te brindo-</l>
+     <l n="14" met="+--+---+-+-">no es el que manda, sino aquel que ruega!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

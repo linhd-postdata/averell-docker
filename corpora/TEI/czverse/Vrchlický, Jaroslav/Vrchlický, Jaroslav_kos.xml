@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KOS.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_kos</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KOS.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KOS.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110001010" rhyme="1" line_length="9">Kos nad slavíka pták je lásky,</l>
+     <l n="2" met="11010101" rhyme="2" line_length="8">slyš, jak je sladký jeho hvizd!</l>
+     <l n="3" met="110100010" rhyme="1" line_length="9">Zem ztrácí sněhové své vrásky,</l>
+     <l n="4" met="11000101" rhyme="2" line_length="8">slyš, na buku se chvěje list,</l>
+     <l n="5" met="010101000" rhyme="1" line_length="9">i v luhu kvítek sedmikrásky!</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="110101010" rhyme="1" line_length="9">Kos král je zpěvné ptačí chásky,</l>
+     <l n="7" met="01010100" rhyme="2" line_length="8">když kolem zeje prázdno hnizd,</l>
+     <l n="8" met="010101010" rhyme="1" line_length="9">tu zpívá sladké jara zkazky</l>
+     <l n="9" met="1" line_length="1">kos.</l>
+    </lg>
+    <lg n="3">
+     <l n="10" met="010101010" rhyme="1" line_length="9">Já hladě hnědé tvoje vlásky,</l>
+     <l n="11" met="01010100" rhyme="2" line_length="8">v tvých zraků patře amethyst,</l>
+     <l n="12" met="01000101" rhyme="2" line_length="8">jsem spokojen a šťasten, jist,</l>
+     <l n="13" met="010101010" rhyme="1" line_length="9">že vyjdu vítěz z žití sázky,</l>
+     <l n="14" met="010101000" rhyme="1" line_length="9">jsemť v písni, v lásce bez otázky</l>
+     <l n="15" met="1" line_length="1">kos!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

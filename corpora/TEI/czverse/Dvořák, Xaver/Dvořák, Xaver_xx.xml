@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XX.</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_xx</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XX.</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XX.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010001010" rhyme="1" line_length="11">Zde v stínu tajemného Svého stanu</l>
+     <l n="2" met="1101" rhyme="2" line_length="4">ó snít mne nech!</l>
+     <l n="3" met="0100010" rhyme="1" line_length="7">Nic nechci juž a planu</l>
+     <l n="4" met="010100" rhyme="2" line_length="6">jen po Tvých pohledech.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010101010" rhyme="1" line_length="11">Jíst se Tvých dlaní božskou Tvoji mannu,</l>
+     <l n="6" met="0101" rhyme="2" line_length="4">jež na mých rtech</l>
+     <l n="7" met="01010011000" rhyme="1" line_length="11">Tvou sládne bytostí, mřít neustanu,</l>
+     <l n="8" met="110100" rhyme="2" line_length="6">ach, po Tvých pocelech.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010001010" rhyme="3" line_length="11">Zde v míru zátoce, kam v ticho její</l>
+     <l n="10" met="11010101000" rhyme="3" line_length="11">mdlým echem vlny žití burácejí,</l>
+     <l n="11" met="01010101" rhyme="4" line_length="8">mne sníti nech až k Svému dni:</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="01010101010" rhyme="5" line_length="11">kdy vyjdeš Ženich duší prost Své clony</l>
+     <l n="13" met="01010100010" rhyme="5" line_length="11">a city srdcí rozzvučíš jak zvony</l>
+     <l n="14" met="10010100" rhyme="4" line_length="8">v mystickou „slavnost svatební“.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

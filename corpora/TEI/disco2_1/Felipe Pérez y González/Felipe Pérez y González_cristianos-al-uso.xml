@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Cristianos al uso</title>
+    <author>Felipe Pérez y González</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Felipe Pérez y González_cristianos-al-uso</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Cristianos al uso</title>
+     <author>Felipe Pérez y González</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Cristianos al uso</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+-+---+-">-Yo soy cristiano... -Y ¿ama la pobreza?</l>
+     <l n="2" met="++---+-+-+-">-Tonto es quien la riqueza no prefiere.</l>
+     <l n="3" met="++-+---+-+-">Yo soy cristiano... -¿A su enemigo quiere?</l>
+     <l n="4" met="+--+++---+-">-Dar, como prueba, un palo en la cabeza.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++-+----+-+-">Yo soy cristiano... -¿Y por las calles reza?</l>
+     <l n="6" met="--++---+-+-">-El que lo ve mi santidad infiere.</l>
+     <l n="7" met="++-+-+-+-+-">Yo soy cristiano... -Y ¿odia, injuria, hiere?...</l>
+     <l n="8" met="+--+++++-+-">-Si es por mi bien, no hacerlo es gran simpleza.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+-+++-+-">Yo soy cristiano... -Entiendo; es caso llano.</l>
+     <l n="10" met="+++--+---+-">Tal nombre es para muchos, por lo visto,</l>
+     <l n="11" met="+----+-+-+-">muestra de mercader o apodo vano.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++-+---+++-">-Yo soy cristiano... En preguntar no insisto.</l>
+     <l n="13" met="+-+--+-+-+-">Es la moda del día: ser cristiano,</l>
+     <l n="14" met="--+--+---+-">despreciando las máximas de Cristo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

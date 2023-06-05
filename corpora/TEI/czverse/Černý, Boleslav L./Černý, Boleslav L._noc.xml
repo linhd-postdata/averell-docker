@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Noc.</title>
+    <author>Černý, Boleslav L.</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Černý, Boleslav L._noc</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Noc.</title>
+     <author>Černý, Boleslav L.</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Noc.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101010" rhyme="1" line_length="9">Za okny černé stíny vstaly,</l>
+     <l n="2" met="110101010" rhyme="2" line_length="9">mdlé světlo hvězd se k zemi dívá,</l>
+     <l n="3" met="110101000" rhyme="2" line_length="9">noc chladná, smutná, zádumčivá</l>
+     <l n="4" met="010001010" rhyme="1" line_length="9">se připlížila z mlžné dáli....</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101010" rhyme="1" line_length="9">Je ticho ve vsi – tma vše halí –</l>
+     <l n="6" met="100101000" rhyme="2" line_length="9">jediná lampa dohořívá....</l>
+     <l n="7" met="100101010" rhyme="1" line_length="9">Za okny černé stíny vstaly,</l>
+     <l n="8" met="110101010" rhyme="2" line_length="9">mdlé světlo hvězd se k zemi dívá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101010" rhyme="1" line_length="9">Teď měsíc zbarvil okraj skály,</l>
+     <l n="10" met="100101010" rhyme="2" line_length="9">za chvíli vzejde – hlava snivá....</l>
+     <l n="11" met="110101000" rhyme="2" line_length="9">Slyš! – kroky?... Nic se neozývá –</l>
+     <l n="12" met="010101000" rhyme="1" line_length="9">jen ve vsi feny zaštěkaly....</l>
+     <l n="13" met="100101010" rhyme="1" line_length="9">Za okny černé stíny vstaly....</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>TULÁCI. (I.)</title>
+    <author>Červinka, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červinka, Karel_tulaci-i</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>TULÁCI. (I.)</title>
+     <author>Červinka, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>TULÁCI. (I.)</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000100" rhyme="1" line_length="7">Kvete vše a jaro jest.</l>
+     <l n="2" met="1010101" rhyme="1" line_length="7">Noci plné bílých hvězd,</l>
+     <l n="3" met="1010100" rhyme="2" line_length="7">šeřík šíří vůni svou</l>
+     <l n="4" met="1000100" rhyme="2" line_length="7">zbělavělou krajinou,</l>
+     <l n="5" met="1010100" rhyme="3" line_length="7">hlína voní z polí sem,</l>
+     <l n="6" met="1010100" rhyme="3" line_length="7">pole voní nánosem,</l>
+     <l n="7" met="10010000" rhyme="4" line_length="8">řeky už opadávají,</l>
+     <l n="8" met="1000100" rhyme="5" line_length="7">v stromech co je šelestu!</l>
+     <l n="9" met="10001000" rhyme="4" line_length="8">Tuláci se vydávají</l>
+     <l n="10" met="1010100" rhyme="5" line_length="7">v bělost silnic na cestu...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

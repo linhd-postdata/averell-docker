@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KONEC!</title>
+    <author>Zavřel, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Zavřel, František_konec</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KONEC!</title>
+     <author>Zavřel, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KONEC!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101000" rhyme="1" line_length="6">Milí vrtichvosti,</l>
+     <l n="2" met="10101010" rhyme="2" line_length="8">svěste ocas mezi nohy!</l>
+     <l n="3" met="101010" rhyme="1" line_length="6">Osud praví: Dosti!</l>
+     <l n="4" met="10011010" rhyme="2" line_length="8">Halali – zní naše rohy.</l>
+     <l n="5" met="10101010" rhyme="2" line_length="8">Chcete vzývat staré bohy?</l>
+     <l n="6" met="10101010" rhyme="3" line_length="8">Běda, pošli. Těžká zkouška!</l>
+     <l n="7" met="10001010" rhyme="3" line_length="8">Nastavte svá tlustá ouška:</l>
+     <l n="8" met="10001000" rhyme="3" line_length="8">Posíláme pro antouška.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

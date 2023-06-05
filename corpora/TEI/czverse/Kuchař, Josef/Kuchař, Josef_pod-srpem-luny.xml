@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pod srpem luny.</title>
+    <author>Kuchař, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kuchař, Josef_pod-srpem-luny</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pod srpem luny.</title>
+     <author>Kuchař, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pod srpem luny.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010010" rhyme="1" line_length="11">Opustil jsem domov, za štěstím šel v dál; –</l>
+     <l n="2" met="10001010101" rhyme="1" line_length="11">nad rozkvetlou zemí luny srpek stál.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="10101010101" rhyme="2" line_length="11">Mnohý kraj jsem prošel, mnoho prožil dob; –</l>
+     <l n="4" met="10101010001" rhyme="2" line_length="11">nad vším drahým dávno uzavřel se hrob.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="10001010101" rhyme="3" line_length="11">Marně jsem se snažil, – štěstí rosný dech</l>
+     <l n="6" met="10101010100" rhyme="3" line_length="11">jenom sen mi kreslil v luzných obrazech.</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="10001010001" rhyme="4" line_length="11">Náruči mé, srdci uzamkl se svět,</l>
+     <l n="8" met="10001010010" rhyme="4" line_length="11">v domov svůj jsem neměl ke komu jít zpět.</l>
+    </lg>
+    <lg n="5">
+     <l n="9" met="10001010100" rhyme="1" line_length="11">Zem kol mne se stměla, sny mé táhly v dál, –</l>
+     <l n="10" met="10101010101" rhyme="1" line_length="11">nad mým mrtvým žitím luny srpek stál.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Marnost nad marnost.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_marnost-nad-marnost</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Marnost nad marnost.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Marnost nad marnost.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010100" rhyme="1" line_length="11">Baron celý v zbroji v plátech železných,</l>
+     <l n="2" met="10001010100" rhyme="1" line_length="11">po mnohých zde klečí bojích vítězných,</l>
+     <l n="3" met="10011010001" rhyme="1" line_length="11">růženec pěst svírá, krotký jest a tich.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="10101010011" rhyme="2" line_length="11">Z druhé strany biskup, jako by jel v seč,</l>
+     <l n="5" met="10100010101" rhyme="2" line_length="11">kříž a škapulíř mu skrývá nahý meč.</l>
+     <l n="6" met="10001010101" rhyme="2" line_length="11">„Ecclesiae miles“ splývá z úst mu řeč.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="10101010100" rhyme="3" line_length="11">V středu této divné dvojí skupiny</l>
+     <l n="8" met="10001010100" rhyme="3" line_length="11">na lebce si hoví hošík, ze třtiny</l>
+     <l n="9" met="10001010100" rhyme="3" line_length="11">do větrů si pouští pestré bubliny.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

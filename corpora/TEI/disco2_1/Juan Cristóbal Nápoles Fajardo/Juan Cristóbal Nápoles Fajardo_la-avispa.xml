@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La avispa</title>
+    <author>Juan Cristóbal Nápoles Fajardo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Cristóbal Nápoles Fajardo_la-avispa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La avispa</title>
+     <author>Juan Cristóbal Nápoles Fajardo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La avispa</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Batiendo alegre sus hermosas alas</l>
+     <l n="2" met="+--+-+---+-">este pequeño insecto americano</l>
+     <l n="3" met="+--+---+-+-">sube a los montes y atraviesa el llano</l>
+     <l n="4" met="---+---+-+-">y se remonta a las etéreas salas.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-----+-+-">Del rubio Abril las primorosas galas</l>
+     <l n="6" met="++---+---+-">le brindan el sustento cotidiano,</l>
+     <l n="7" met="--++---+-+-">y si le ofende destructora mano</l>
+     <l n="8" met="+--+---+-+-">suele zumbar con intenciones malas.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+-+-">Bella y brillante como ardiente chispa</l>
+     <l n="10" met="---+-+---+-">por agradable céfiro arrullada,</l>
+     <l n="11" met="++-----+-+-">forma un run-run que mi semblante crispa.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+---+++-">Busca la flor, porque la miel le agrada,</l>
+     <l n="13" met="---+--++-+-">y ¡ay! del zanguango a quien le da la avispa</l>
+     <l n="14" met="+--+---+-+-">un picotazo cuando zumba airada.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

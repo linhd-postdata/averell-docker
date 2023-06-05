@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JAVOR.</title>
+    <author>Holý, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Holý, Josef_javor</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JAVOR.</title>
+     <author>Holý, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JAVOR.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010100" line_length="9">Javor měkký tiché srdce mé,</l>
+     <l n="2" met="1000100010" rhyme="1" line_length="10">na samotě o nebi si pěje,</l>
+     <l n="3" met="101010100" line_length="9">rosa padne, vítr zakývá,</l>
+     <l n="4" met="1010100010" rhyme="1" line_length="10">javor pláče, milostí se chvěje.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101000100" line_length="9">Touží po hvězdě tam na nebi,</l>
+     <l n="6" met="1000100010" rhyme="2" line_length="10">vysoko je, vysoko je v dáli.</l>
+     <l n="7" met="101010100" line_length="9">Přišli milí hodní mládenci,</l>
+     <l n="8" met="1010101000" rhyme="2" line_length="10">oni měkký javor zutínali.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

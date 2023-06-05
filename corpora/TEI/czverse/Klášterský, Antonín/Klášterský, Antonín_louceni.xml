@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Loučení.</title>
+    <author>Klášterský, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Klášterský, Antonín_louceni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Loučení.</title>
+     <author>Klášterský, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Loučení.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010010" line_length="6">Ty luženský hory,</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">nad ty v sjetě není –</l>
+     <l n="3" met="001010" line_length="6">huž se s tebou loučím,</l>
+     <l n="4" met="101000" rhyme="1" line_length="6">moje potěšení.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100110" line_length="6">Do sjeta jít muším,</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">cizím buru sloužit,</l>
+     <l n="7" met="100100" line_length="6">hale v mý domovo</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">po tobě jen toužit.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100010" line_length="6">Hudělám se větrem</l>
+     <l n="10" met="110010" rhyme="3" line_length="6">ha buru tě líbat,</l>
+     <l n="11" met="010100" line_length="6">až bureš vokýnko</l>
+     <l n="12" met="101000" rhyme="3" line_length="6">ráno vorevírat.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

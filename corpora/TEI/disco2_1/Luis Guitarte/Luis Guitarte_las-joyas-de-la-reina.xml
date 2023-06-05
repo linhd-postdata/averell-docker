@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Las joyas de la reina</title>
+    <author>Luis Guitarte</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Luis Guitarte_las-joyas-de-la-reina</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Las joyas de la reina</title>
+     <author>Luis Guitarte</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Las joyas de la reina</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="-+---+---+-">Rebosan de las arcas de cristales</l>
+     <l n="2" met="-+---+---+-">las gemas de la reina de Castilla,</l>
+     <l n="3" met="--+--+---+-">e irradiando fulgores ideales</l>
+     <l n="4" met="+-++---+-+-">todo en un sueño deslumbrante brilla.</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="-+---+---+-">Las góticas vidrieras de la estancia</l>
+     <l n="6" met="+----+---+-">tienden sobre las losas sus colores,</l>
+     <l n="7" met="---+-+---+-">y en el jardín, borrachos de fragancia,</l>
+     <l n="8" met="-+---+---+-">desbordan su canción los ruiseñores.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">La reina viste traje de brocado;</l>
+     <l n="10" met="--+--+---+-">a sus plantas, Colón, arrodillado,</l>
+     <l n="11" met="-+-+---+-+-">sus albas manos conmovido besa,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+-+-+-">que, el alma llena de un fervor profundo,</l>
+     <l n="13" met="-----+++-+-">para que se descubra un nuevo mundo</l>
+     <l n="14" met="+-+--++--+-">da sus joyas en venta una princesa.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

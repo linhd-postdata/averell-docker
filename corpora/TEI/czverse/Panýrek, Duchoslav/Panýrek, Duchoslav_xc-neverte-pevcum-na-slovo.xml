@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XC. Nevěřte pěvcům na slovo</title>
+    <author>Panýrek, Duchoslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Panýrek, Duchoslav_xc-neverte-pevcum-na-slovo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XC. Nevěřte pěvcům na slovo</title>
+     <author>Panýrek, Duchoslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XC. Nevěřte pěvcům na slovo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" line_length="8">Nevěřte pěvcům na slovo </l>
+     <l n="2" met="100101010" rhyme="1" line_length="9">a co vám praví jejich zpěvy;</l>
+     <l n="3" met="11010100" line_length="8">lžeť někdy pěvec vědomě</l>
+     <l n="4" met="010100010" rhyme="1" line_length="9">a někdy ani sám to neví.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">Ba někdy rýmů potřeba</l>
+     <l n="6" met="010001010" rhyme="2" line_length="9">jej k takovému svede hříchu,</l>
+     <l n="7" met="01010100" line_length="8">a někdy – někdy – – honorár,</l>
+     <l n="8" met="100101010" rhyme="2" line_length="9">maličkosť – haha – věru k smíchu!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ah Sun-flower</title>
+    <author>William Blake</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>William Blake_ah-sun-flower</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>For Better For Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ah Sun-flower</title>
+     <author>William Blake</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ah Sun-flower</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="quatrain">
+     <l n="1" met="-+--+--+">Ah Sun-flower, weary of time,</l>
+     <l n="2" met="-+--+--+">Who countest the steps of the Sun,</l>
+     <l n="3" met="--+--+--+|+-+--+--+">Seeking after that sweet golden clime</l>
+     <l n="4" met="--+--+--+">Where the traveller's journey is done;</l>
+    </lg>
+    <lg n="2" stanza_type="quatrain">
+     <l n="5" met="--+--+--+(-)|--++-+--+(-)">Where the Youth pined away with desire,</l>
+     <l n="6" met="--+--+--+|--++-+--+">And the pale Virgin shrouded in snow,</l>
+     <l n="7" met="-+--+--+(-)">Arise from their graves and aspire,</l>
+     <l n="8" met="--+--+--+">Where my Sun-flower wishes to go.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SMUTEČNÍ</title>
+    <author>Gellner, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Gellner, František_smutecni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SMUTEČNÍ</title>
+     <author>Gellner, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SMUTEČNÍ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" rhyme="1" line_length="8">Zbyla mně veteš vzpomínek,</l>
+     <l n="2" met="10010100" rhyme="1" line_length="8">zástavní list z mých hodinek</l>
+     <l n="3" met="010001000" rhyme="2" line_length="9">a zablácená promenáda</l>
+     <l n="4" met="110101010" rhyme="2" line_length="9">z dob, kdy’s mne ještě měla ráda.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" rhyme="3" line_length="8">V městě teď bouří karneval,</l>
+     <l n="6" met="10010100" rhyme="3" line_length="8">a já bych slzy proléval.</l>
+     <l n="7" met="100101010" rhyme="4" line_length="9">K úpadku spěje moje firma.</l>
+     <l n="8" met="100101010" rhyme="4" line_length="9">Pánbu mne pere všema čtyrma.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

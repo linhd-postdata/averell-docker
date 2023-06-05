@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>-CLXX-</title>
+    <author>Fernando de Herrera</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fernando de Herrera_clxx</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>ADSO 100 poems corpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>-CLXX-</title>
+     <author>Fernando de Herrera</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>-CLXX-</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-++--+---+-">¿Nací yo por ventura destinado</l>
+     <l n="2" met="---+-+---+-">al amoroso engaño, y ofrecido</l>
+     <l n="3" met="--+--+-+-+-">en mi ofensa a desdén, a ingrato olvido,</l>
+     <l n="4" met="-+-+---+-+-">sujeto siempre a miserable estado?</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">Rompa la aguda espada el implicado</l>
+     <l n="6" met="+----+-+++-">nudo, pues de mi industria nunca ha sido</l>
+     <l n="7" met="+----+-+-+-">suelto por mi dolor, que en mal perdido</l>
+     <l n="8" met="-+-+-++--+-">el más cruel dolor es acertado.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-++-+---+-">Cuelguen de este alto roble los despojos</l>
+     <l n="10" met="---+-+---+-">de mi penoso error, y la que incierto</l>
+     <l n="11" met="--+--+++-+-">me sostuvo esperanza a un tiempo, muera;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+++-+-+-+-">que ya no doy lugar a bellos ojos</l>
+     <l n="13" met="-+-+-+---+-">ni a dulce risa y habla lisonjera;</l>
+     <l n="14" met="-+-+-+-+++-">y en él se escriba: «Amor quedó aquí muerto».</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

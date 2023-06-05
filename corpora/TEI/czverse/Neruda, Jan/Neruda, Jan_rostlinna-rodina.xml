@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ROSTLINNÁ RODINA</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_rostlinna-rodina</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ROSTLINNÁ RODINA</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ROSTLINNÁ RODINA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" line_length="6">Matka jak pivoňka,</l>
+     <l n="2" met="1001" rhyme="1" line_length="4">otec jak suk,</l>
+     <l n="3" met="100100" line_length="6">dcerka jak růžička,</l>
+     <l n="4" met="1101" rhyme="1" line_length="4">kluk jako buk;</l>
+     <l n="5" met="10101010" rhyme="2" line_length="8">babka jako lístek suchý,</l>
+     <l n="6" met="10101010" rhyme="2" line_length="8">dědek jako pařez hluchý.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

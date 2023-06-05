@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Plaché písně.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_plache-pisne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Plaché písně.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Plaché písně.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110101000" rhyme="1" line_length="9">Mráz prstem klepe na okence,</l>
+     <l n="2" met="010100010" rhyme="2" line_length="9">a zimy chvějící se paže</l>
+     <l n="3" met="100100010" rhyme="1" line_length="9">hebounké kytice a věnce</l>
+     <l n="4" met="100101010" rhyme="2" line_length="9">na mlžná skla mé síňky váže.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="110101010" rhyme="3" line_length="9">Zřím v dálku; sluncem pláň se nítí,</l>
+     <l n="6" met="010001000" rhyme="4" line_length="9">v ní myšlénky mé poletají,</l>
+     <l n="7" met="110100010" rhyme="3" line_length="9">z čel sněžné hvězdičky jim svítí,</l>
+     <l n="8" met="010101010" rhyme="4" line_length="9">jichž září písně v srdci zrají.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101010" rhyme="5" line_length="9">Leč náhle chomol vrabčích hlasů</l>
+     <l n="10" met="100001010" rhyme="6" line_length="9">zpod okna v můj se úkryt vznáší –</l>
+     <l n="11" met="110101010" rhyme="5" line_length="9">hle, smělce, válčí o půl klasu,</l>
+     <l n="12" met="010101010" rhyme="6" line_length="9">a všecku žeň mých písní plaší!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

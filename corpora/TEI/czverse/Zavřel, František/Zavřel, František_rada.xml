@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>RADA.</title>
+    <author>Zavřel, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Zavřel, František_rada</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>RADA.</title>
+     <author>Zavřel, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>RADA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010000" rhyme="1" line_length="7">Páni socialisté,</l>
+     <l n="2" met="1000101010010" rhyme="2" line_length="13">řídíte se vždycky podle soudruhů v říši.</l>
+     <l n="3" met="1010101010" rhyme="2" line_length="10">Nuže, buďte jako oni tiši</l>
+     <l n="4" met="010" rhyme="1" line_length="3">a zmizte!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

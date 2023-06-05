@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>En elogio del Siglo de Oro en las selvas de Erifile, Madrid, 1607</title>
+    <author>Quevedo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quevedo_en-elogio-del-siglo-de-oro-en</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>En elogio del Siglo de Oro en las selvas de Erifile, Madrid, 1607</title>
+     <author>Quevedo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>En elogio del Siglo de Oro en las selvas de Erifile, Madrid, 1607</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+-+---+-">Es una dulce voz tan poderosa,</l>
+     <l n="2" met="-++--+-+-+-">que fue artífice en Tebas de alto muro,</l>
+     <l n="3" met="-+-+-+-+-+-">y en un delfín sacó del mar seguro</l>
+     <l n="4" met="---+-+---+-">al que venció su fuerza rigurosa.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+-+-+-">Compró con versos mal lograda esposa</l>
+     <l n="6" met="--+--+-+-+-">el amante de Tracia, al reino oscuro;</l>
+     <l n="7" met="-+---+-+-+-">a Sísifo quitó el peñasco duro,</l>
+     <l n="8" met="-+---+-+-+-">y a Tántalo la eterna sed rabiosa.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+++---+-+-">De vos no menos que de Orfeo esperara,</l>
+     <l n="10" met="-+---+---+-">si el pueblo de las sombras mereciera</l>
+     <l n="11" met="---+-+-+-+-">que, cual su voz, la vuestra en él sonara.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+--+--+-+-">Por oíros, de Tántalo no huyera</l>
+     <l n="13" met="-+-+-+---+-">el agua, y él de suerte os escuchara,</l>
+     <l n="14" met="--+--+-+-+-">que, por no divertirse, no bebiera.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

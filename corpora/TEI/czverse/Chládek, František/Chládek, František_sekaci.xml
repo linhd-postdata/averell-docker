@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sekáči.</title>
+    <author>Chládek, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Chládek, František_sekaci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sekáči.</title>
+     <author>Chládek, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sekáči.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000100" line_length="7">Pod večer se rozléhá</l>
+     <l n="2" met="1000100" rhyme="1" line_length="7">po dědině klepání,</l>
+     <l n="3" met="1000100" line_length="7">ostřejí se kosinky,</l>
+     <l n="4" met="0010100" rhyme="1" line_length="7">je to sena sekání.</l>
+     <l n="5" met="1010100" rhyme="2" line_length="7">Časně ráno sekáči</l>
+     <l n="6" met="1000110" rhyme="2" line_length="7">do kvetoucích luk kráčí,</l>
+     <l n="7" met="1000100" rhyme="3" line_length="7">za chládku a za noci –</l>
+     <l n="8" met="0001010" rhyme="3" line_length="7">to se to nejlíp kosí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

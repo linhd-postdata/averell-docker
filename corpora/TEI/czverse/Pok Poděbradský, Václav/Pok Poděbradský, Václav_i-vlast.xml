@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>I. Vlast.</title>
+    <author>Pok Poděbradský, Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pok Poděbradský, Václav_i-vlast</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>I. Vlast.</title>
+     <author>Pok Poděbradský, Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>I. Vlast.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010100" rhyme="1" line_length="11">V zemi, kde se síla snoubí s věrností,</l>
+     <l n="2" met="10001010100" rhyme="1" line_length="11">Lahoda kde splývá s hojnou jarostí,</l>
+     <l n="3" met="10101010100" rhyme="2" line_length="11">A kde každý statný rodu zplozenec</l>
+     <l n="4" met="10101000100" rhyme="2" line_length="11">Slávu vine člověčenstvu u věnec:</l>
+     <l n="5" met="0100" line_length="4">Tamť vlast je má!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

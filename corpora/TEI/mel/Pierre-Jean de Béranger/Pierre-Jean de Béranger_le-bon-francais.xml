@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LE BON FRANÇAIS</title>
+    <author>Pierre-Jean de Béranger</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">7</measure>
+    <measure unit="line">7</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pierre-Jean de Béranger_le-bon-francais</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LE BON FRANÇAIS</title>
+     <author>Pierre-Jean de Béranger</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LE BON FRANÇAIS</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" />
+    <lg n="2">
+     <l n="1" rhyme="a" line_length="7">Oui, soyons de notre pays.</l>
+    </lg>
+    <lg n="3">
+     <l n="2" rhyme="a" line_length="7">Oui, soyons de notre pays.</l>
+     <l n="3" rhyme="a" line_length="7">Oui, soyons de notre pays.</l>
+    </lg>
+    <lg n="4">
+     <l n="4" rhyme="a" line_length="7">Oui, soyons de notre pays.</l>
+    </lg>
+    <lg n="5">
+     <l n="5" rhyme="a" line_length="7">Oui, soyons de notre pays.</l>
+    </lg>
+    <lg n="6">
+     <l n="6" rhyme="a" line_length="7">Oui, soyons de notre pays.</l>
+    </lg>
+    <lg n="7">
+     <l n="7" rhyme="a" line_length="7">Oui, soyons de notre pays.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

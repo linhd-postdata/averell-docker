@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La confesión</title>
+    <author>José de Diego</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José de Diego_la-confesion</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La confesión</title>
+     <author>José de Diego</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La confesión</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+--++-+-">Llegó Purita, y al mirarse ufana</l>
+     <l n="2" met="-----+---+-">junto al confesionario de rodillas,</l>
+     <l n="3" met="-+---+---+-">besó del armatoste la rejillas</l>
+     <l n="4" met="--+--++--+-">y los pliegues también de una sotana.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">Aunque el frío tenaz de la mañana</l>
+     <l n="6" met="+-+--+---+-">le dejó las mejillas amarillas,</l>
+     <l n="7" met="-+---+---+-">subieron, poco a poco, a sus mejillas</l>
+     <l n="8" met="-+-+---+-+-">candentes olas de color de grana.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">Alguna cosa por demás oscura</l>
+     <l n="10" met="-+-+---+-+-">debió mediar en el sagrado nido</l>
+     <l n="11" met="---+---+-+-">entre el ministro y la inocente Pura,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">pues gritaron con tono enfurecido:</l>
+     <l n="13" met="-+-+-+--++-">-«¡Se lo diré al obispo, señor cura!»-</l>
+     <l n="14" met="-+-+-++--+-">-«¡También se lo diré yo a su marido!»-</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

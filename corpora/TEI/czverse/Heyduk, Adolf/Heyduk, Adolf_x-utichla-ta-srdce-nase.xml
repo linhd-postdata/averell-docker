@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>X. Utichla ta srdce naše,</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_x-utichla-ta-srdce-nase</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>X. Utichla ta srdce naše,</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>X. Utichla ta srdce naše,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" line_length="8">Utichla ta srdce naše, </l>
+     <l n="2" met="10001010" rhyme="1" line_length="8">utichla, můj bože milý,</l>
+     <l n="3" met="10101000" line_length="8">aby o tom přemýšlela,</l>
+     <l n="4" met="00101010" rhyme="1" line_length="8">co jsme sobě jindy byli.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" line_length="8">Rozbouří se srdce naše,</l>
+     <l n="6" met="00101000" rhyme="2" line_length="8">až si na to vzpomeneme,</l>
+     <l n="7" met="00101010" line_length="8">co jsme sobě býti měli</l>
+     <l n="8" met="10101000" rhyme="2" line_length="8">a co sobě nebudeme.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

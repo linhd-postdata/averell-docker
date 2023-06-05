@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JEZERO.</title>
+    <author>Opolský, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Opolský, Jan_jezero</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JEZERO.</title>
+     <author>Opolský, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JEZERO.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101000" rhyme="1" line_length="11">Klekání víry sláblo nad jezerem</l>
+     <l n="2" met="10000100" rhyme="2" line_length="8">ve tmavoprázdné hodince,</l>
+     <l n="3" met="110001000" rhyme="1" line_length="9">šlo v rozechvění tisícerém</l>
+     <l n="4" met="01000100" rhyme="2" line_length="8">zpět k vyloupené dědince.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11000100010" rhyme="3" line_length="11">Duch bahen stoup’ a v sítinách se skryly</l>
+     <l n="6" met="1001010100" rhyme="4" line_length="10">rosolů žabích kluzké zornice</l>
+     <l n="7" met="01010101010" rhyme="3" line_length="11">a lunné šípy černou vodu pily,</l>
+     <l n="8" met="1001010100" rhyme="4" line_length="10">všecky se tichým hořem chvějíce.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="11010101010" rhyme="5" line_length="11">Snil rybák sen a chatrč hnila v křoví</l>
+     <l n="10" met="0100010100" rhyme="6" line_length="10">i uprchlíkům sotva patrná</l>
+     <l n="11" met="01010101010" rhyme="5" line_length="11">a v hloubi tůně, kde se marně loví,</l>
+     <l n="12" met="1001010100" rhyme="6" line_length="10">vyplula mrtvá ryba stříbrná...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

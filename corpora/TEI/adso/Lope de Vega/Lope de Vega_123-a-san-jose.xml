@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- 123 - A San José </title>
+    <author>Lope de Vega</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lope de Vega_123-a-san-jose</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- 123 - A San José </title>
+     <author>Lope de Vega</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- 123 - A San José </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+---+-">Perdiose el hijo eterno de María,</l>
+     <l n="2" met="-++--+---+-">si Dios pudo perderse, que en la tierra</l>
+     <l n="3" met="+--+++--++-">es menester ser Dios, el que no yerra,</l>
+     <l n="4" met="-++--+--++-">buscó, hallole José al tercer día.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+--++-">O a la tercera noche, que no hay día,</l>
+     <l n="6" met="-+-+---+-+-">ausente Dios, en quien la luz se encierra</l>
+     <l n="7" met="--+--+---+-">¡o dichoso cuidado, cuya guerra</l>
+     <l n="8" met="+--+-+-+-+-">paz en buscar y hallar a Dios tenía!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+-+++-">Luz de la luz mayor José ha sido,</l>
+     <l n="10" met="-+---+---+-">o ya porque consigo al llevaba,</l>
+     <l n="11" met="-+---+---+-">o ya porque la halló cuando escondida.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+-+-+-">Y si es que pudo Dios estar perdido,</l>
+     <l n="13" met="-+---+---+-">José a descubrírnosle bastaba</l>
+     <l n="14" met="--+--+---+-">con su fe, con su amor, o con su vida.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

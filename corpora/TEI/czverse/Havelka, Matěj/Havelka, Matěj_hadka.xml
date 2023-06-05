@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hádka.</title>
+    <author>Havelka, Matěj</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Havelka, Matěj_hadka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hádka.</title>
+     <author>Havelka, Matěj</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hádka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001000" rhyme="1" line_length="8">Ušlechtilá rozmilátka</l>
+     <l n="2" met="1010100" rhyme="2" line_length="7">V jarním sadě na Labi</l>
+     <l n="3" met="10001010" rhyme="1" line_length="8">Rozpálila čestná hádka</l>
+     <l n="4" met="1000100" rhyme="2" line_length="7">O vnady a půvaby.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="3" line_length="8">Vůně dechem, barev skvěním</l>
+     <l n="6" met="1010100" rhyme="4" line_length="7">Vyhrát chtěly květiny,</l>
+     <l n="7" met="10100010" rhyme="3" line_length="8">Slavík srdcejemným pěním</l>
+     <l n="8" met="1001100" rhyme="4" line_length="7">Vítězit chtěl z křoviny.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101000" rhyme="5" line_length="8">Blaho lásky podávala</l>
+     <l n="10" met="1000100" rhyme="6" line_length="7">Besídka v svém prostoru,</l>
+     <l n="11" met="10001010" rhyme="5" line_length="8">Do skromného ticha zvala</l>
+     <l n="12" met="1000100" rhyme="6" line_length="7">K srdečnému hovoru.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101000" rhyme="7" line_length="8">Ajta! Labe zahučelo</l>
+     <l n="14" met="1010100" rhyme="8" line_length="7">Slavně tokem zpěněným –</l>
+     <l n="15" met="10101000" rhyme="7" line_length="8">Ajta! v sadě oněmělo</l>
+     <l n="16" met="0100100" rhyme="8" line_length="7">Vše před šumem vznešeným!</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10101000" rhyme="9" line_length="8">S Bohem buďte, rozmilátka!</l>
+     <l n="18" met="1000101" rhyme="10" line_length="7">Umlkl v mém srdci soud,</l>
+     <l n="19" met="10001010" rhyme="9" line_length="8">Ukončena jesti hádka,</l>
+     <l n="20" met="1001001" rhyme="10" line_length="7">Srovnal vás vlastenský proud.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

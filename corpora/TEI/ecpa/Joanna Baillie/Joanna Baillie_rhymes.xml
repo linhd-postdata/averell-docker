@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>RHYMES.</title>
+    <author>Joanna Baillie</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Joanna Baillie_rhymes</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Eighteenth Century Poetry Archive</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>RHYMES.</title>
+     <author>Joanna Baillie</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>RHYMES.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="quatrain">
+     <l n="1" met="-+|-+|-+|-+" line_length="8">work brings after ease;</l>
+     <l n="2" met="-+|-+|-+|-+" line_length="8">Ease brings sport and sport brings rest;</l>
+     <l n="3" met="-+|-+|-+|-+" line_length="8">For young and old of all degrees,</l>
+     <l n="4" met="-+|-+|-+" line_length="6">The mingled lot is best.</l>
+    </lg>
+    <lg n="2" stanza_type="quatrain">
+     <l n="5" met="-+|-+|-+|-+" line_length="8">And pain brings pity; then I hear</l>
+     <l n="6" met="-+|-+|-+|-+" line_length="8">My mother's sweet and gentle voice,</l>
+     <l n="7" met="-+|-+|-+|-+" line_length="8">She strokes my cheek, the touch is dear,</l>
+     <l n="8" met="-+|-+|-+" line_length="6">And makes my heart rejoice.</l>
+    </lg>
+    <lg n="3" stanza_type="quatrain">
+     <l n="9" met="-+|-+|-+|-+" line_length="8">Then welcome work and pain and play</l>
+     <l n="10" met="-+|-+|-+|-+" line_length="8">When all is o'er, like bird in nest</l>
+     <l n="11" met="-+|-+|-+|-+" line_length="8">We soundly sleep; — well says our lay,</l>
+     <l n="12" met="-+|-+|-+" line_length="6">The mingled lot is best.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>U jiného mlýna.</title>
+    <author>Miřiovský, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Miřiovský, Emanuel_u-jineho-mlyna</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>U jiného mlýna.</title>
+     <author>Miřiovský, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>U jiného mlýna.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" line_length="8">Taky zde je potok zpěvný,</l>
+     <l n="2" met="10101000" rhyme="1" line_length="8">na něm kola vrkající,</l>
+     <l n="3" met="10101000" line_length="8">vedle bílé staveníčko,</l>
+     <l n="4" met="00101000" rhyme="1" line_length="8">snad že také s krasavicí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" line_length="8">Jinak ten můj potok zpíval,</l>
+     <l n="6" met="10100010" rhyme="2" line_length="8">jinak vrkla ta má kola,</l>
+     <l n="7" met="10101010" line_length="8">a těm mojim očím v dálce</l>
+     <l n="8" met="10101000" rhyme="2" line_length="8">nikdo, nikdo neodolá!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

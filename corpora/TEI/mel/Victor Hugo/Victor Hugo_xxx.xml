@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XXX</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_xxx</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XXX</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XXX</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Mer pareille à la destinée !</l>
+     <l n="2" rhyme="b" line_length="8">Mer triste au chant mystérieux !</l>
+     <l n="3" rhyme="a" line_length="8">Dis-nous quelle force obstinée,</l>
+     <l n="4" rhyme="b" line_length="8">Quel vent de la terre ou 'des cieux</l>
+     <l n="5" rhyme="c" line_length="8">Sur tes bords que ta vague broie,</l>
+     <l n="6" rhyme="c" line_length="8">Te prend, te jette et te renvoie</l>
+     <l n="7" rhyme="d" line_length="8">Et te précipite toujours,</l>
+     <l n="8" rhyme="e" line_length="8">Et par moments, joyeux ou sombre</l>
+     <l n="9" rhyme="e" line_length="8">Peint de rayons ou couvre d'ombre</l>
+     <l n="10" rhyme="d" line_length="8">Tes flots mêlés comme nos jours !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

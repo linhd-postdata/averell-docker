@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Zvíčera.</title>
+    <author>Klášterský, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Klášterský, Antonín_zvicera</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Zvíčera.</title>
+     <author>Klášterský, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Zvíčera.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="001010100100" rhyme="1" line_length="12">Huž se zlatý slunce za hory hukládá,</l>
+     <l n="2" met="100010101100" rhyme="2" line_length="12">červený je nebe celý vod zápaly,</l>
+     <l n="3" met="101000101010" rhyme="1" line_length="12">ptáci hutichají, cvrčků zvoní sváda,</l>
+     <l n="4" met="101000100010" rhyme="2" line_length="12">hory hustupujou do takuvý dáli.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100110101010" rhyme="3" line_length="12">Pomálu kraj celyj husne v tmavý noci,</l>
+     <l n="6" met="101010101000" rhyme="4" line_length="12">šudýš spánek příde tiše ke člověku,</l>
+     <l n="7" met="000110100010" rhyme="3" line_length="12">jen ti, co krev naši prolili v svý moci,</l>
+     <l n="8" met="101010101010" rhyme="4" line_length="12">nespí, hale bloudit muší věčně věku.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100010100010" rhyme="5" line_length="12">Jako mhly se táhnou po mokřišťát půdě,</l>
+     <l n="10" met="100010101010" rhyme="6" line_length="12">v behniskach se plouží něhde v noční chvíli.</l>
+     <l n="11" met="100010100010" rhyme="5" line_length="12">Postřekovskyj rymík zahoříl, hleč, rudě,</l>
+     <l n="12" met="100010100010" rhyme="6" line_length="12">jako by v ňom ruce krvavý se myjly.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

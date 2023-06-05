@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pocel.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_pocel</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pocel.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pocel.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000101010" rhyme="1" line_length="11">Jsem s tebou zas, mých zpěvů štědrá knění,</l>
+     <l n="2" met="01000101010" rhyme="1" line_length="11">zas z jezer tvých se moje nebe dení,</l>
+     <l n="3" met="01001101010" rhyme="2" line_length="11">zas v noci tvé sta zlatých snů mi vzrůstá,</l>
+     <l n="4" met="01010101010" rhyme="2" line_length="11">zas vnadu pije zrak a svěžesť ústa.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100010" rhyme="3" line_length="11">Zas ke mně mluvíš šumotem svých hvozdů</l>
+     <l n="6" met="01010001010" rhyme="3" line_length="11">a hořců lazurem a steskem drozdů</l>
+     <l n="7" met="01010001010" rhyme="4" line_length="11">a bystřin rokotem a sítí chvěním</l>
+     <l n="8" met="01000101000" rhyme="4" line_length="11">a padajících listů ševelením.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010101010" rhyme="5" line_length="11">Ó jak jsem bohat zase – pěvec chudý,</l>
+     <l n="10" met="01000101010" rhyme="5" line_length="11">kam kročím jen, tam krása se mnou všudy,</l>
+     <l n="11" met="00010101010" rhyme="6" line_length="11">zas jak by srdce orlí peruť mělo</l>
+     <l n="12" met="10010101010" rhyme="6" line_length="11">a vše, co zřím, mně písní líbá čelo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

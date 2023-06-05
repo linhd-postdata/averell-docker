@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Což divné ony perly jsou...</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_coz-divne-ony-perly-jsou</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Což divné ony perly jsou...</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Což divné ony perly jsou...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Což divné ony perly jsou,</l>
+     <l n="2" met="0100010" rhyme="1" line_length="7">jež v očích se nám tvoří,</l>
+     <l n="3" met="01000100" line_length="8">což čarodějný plamen ten,</l>
+     <l n="4" met="0101010" rhyme="1" line_length="7">jenž tajně v srdci hoří.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000100" line_length="8">Což tajeplná hvězda jest,</l>
+     <l n="6" met="0101010" rhyme="2" line_length="7">jež nocí ňader svítá,</l>
+     <l n="7" met="01000101" line_length="8">což zázračný to věru květ,</l>
+     <l n="8" met="0101010" rhyme="2" line_length="7">jenž náhle z citu zkvítá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000101" line_length="8">Což lahodný to věru trn,</l>
+     <l n="10" met="0100010" rhyme="3" line_length="7">jenž stolistkami pučí,</l>
+     <l n="11" met="10010101" line_length="8">a což to sladký věru žal,</l>
+     <l n="12" met="0101010" rhyme="3" line_length="7">jenž z ňader písní zvučí!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

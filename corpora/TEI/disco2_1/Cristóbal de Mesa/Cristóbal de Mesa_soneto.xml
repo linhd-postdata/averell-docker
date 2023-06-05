@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Cristóbal de Mesa</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cristóbal de Mesa_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Cristóbal de Mesa</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">El que alaba la vida de la Corte</l>
+     <l n="2" met="++-+-+---+-">no goce el bien del campo solitario,</l>
+     <l n="3" met="---+---+-+-">y su ambicioso pensamiento vario,</l>
+     <l n="4" met="+-+--+-+-+-">nunca sepa regir por firme norte.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+--++-">Con despachos y cartas de gran porte,</l>
+     <l n="6" met="---+-+---+-">desesperado espere al ordinario,</l>
+     <l n="7" met="+----+---+-">y ande de secretario en secretario,</l>
+     <l n="8" met="+-+--+-+-+-">dando en varios negocios vario corte.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+--+-">Procure ser privado del privado,</l>
+     <l n="10" met="-+---+---+-">adule por diversas pretensiones,</l>
+     <l n="11" met="-+---+---+-">a todos los que gozan el gobierno.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---++--+-">Afane por saber cosas de estado,</l>
+     <l n="13" met="--+--+---+-">de las llaves doradas y bastones,</l>
+     <l n="14" met="-+-+-+-+-+-">y tengan mal verano y mal invierno.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

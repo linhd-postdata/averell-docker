@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VZPOMÍNKA.</title>
+    <author>Klášterský, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Klášterský, Antonín_vzpominka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VZPOMÍNKA.</title>
+     <author>Klášterský, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VZPOMÍNKA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1110101000" rhyme="1" line_length="10">Ťuk! ťuk! Kdo to? Klepe Upomínka.</l>
+     <l n="2" met="1000101010" rhyme="2" line_length="10">Otevřte jí, pojďte, kam vám kývá.</l>
+     <l n="3" met="1000101010" rhyme="2" line_length="10">Vede vás, kde les i řeka zpívá,</l>
+     <l n="4" met="1000101000" rhyme="1" line_length="10">na pěšinu luční „u Martínka“.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0010100010" rhyme="3" line_length="10">Kam jste ráda chodívala časem,</l>
+     <l n="6" met="1000101010" rhyme="4" line_length="10">paprsky kdy třpytné v řece hrály,</l>
+     <l n="7" met="1000100010" rhyme="4" line_length="10">na zářící dívala se skály,</l>
+     <l n="8" met="1010101000" rhyme="3" line_length="10">píseň bez slov pějíc polohlasem.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010100010" rhyme="5" line_length="10">Vaše dcerka běhala tu ráda</l>
+     <l n="10" met="1000101000" rhyme="6" line_length="10">za motýli v rejích skotačivých.</l>
+     <l n="11" met="1010100010" rhyme="6" line_length="10">Les i řeka za večerů snivých</l>
+     <l n="12" met="1000101010" rhyme="5" line_length="10">pohádku si nyní o tom spřádá...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Un creso</title>
+    <author>José Selgas y Carrasco</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Selgas y Carrasco_un-creso</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Un creso</title>
+     <author>José Selgas y Carrasco</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Un creso</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">De la plebe en los últimos barrancos</l>
+     <l n="2" met="-+---+-+-+-">al aire se meció mi humilde cuna;</l>
+     <l n="3" met="--++-+-+-+-">pero tuve una idea, sólo una,</l>
+     <l n="4" met="-++----+-+-">la que hay en todos, la de andar en zancos.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+++-+-">Pronto supe que aquí no somos mancos,</l>
+     <l n="6" met="--+-++---+-">y guiñándole el ojo a la fortuna,</l>
+     <l n="7" met="+--+-+---+-">me encaramé en los cuernos de la luna,</l>
+     <l n="8" met="-+-+---+-+-">vendiendo negros y comprando blancos.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+---+-">Búsquele a mi tesoro el abolengo</l>
+     <l n="10" met="-+---+-+++-">la envidia suspicaz, que yo me río;</l>
+     <l n="11" met="-+-+---+-+-">conozco al hombre, y con dinero vengo.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---++-++-">¡Dinero! A tu poder todo lo fío;</l>
+     <l n="13" met="---+-+--++-">y pues el mundo sabe que le tengo,</l>
+     <l n="14" met="++---+-+++-">bien puedo asegurar que el mundo es mío.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

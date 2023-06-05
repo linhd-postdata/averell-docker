@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Rosas rojas</title>
+    <author>Rafael Verson Brunet</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Rafael Verson Brunet_rosas-rojas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Rosas rojas</title>
+     <author>Rafael Verson Brunet</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Rosas rojas</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="+-+--+----+--+">Estas rosas, pletóricas de escarlata violenta,</l>
+     <l n="2" met="+-+-++-+-+-">rojas, cual el deseo, cual la venganza y cual</l>
+     <l n="3" met="-+---+-+-+--+-">las púrpuras intensas de una herida sangrienta,</l>
+     <l n="4" met="--+--+-+-+--+-">y que dan sensaciones de un veneno mortal,</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+-+-+--+-">semejan, entreabiertas, crueles bocas malignas,</l>
+     <l n="6" met="-+---+--+---+-">espléndidas en hondas lujurias venenosas.</l>
+     <l n="7" met="+-+--+-+-+-++-">Estas rosas extrañas, estas rosas son dignas</l>
+     <l n="8" met="--+--+---+--+-">de los vasos de nieve de tus manos nerviosas.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+--+--+---+-">Porque ellas florecen en raros maleficios,</l>
+     <l n="10" met="--+--+---+--+-">y tus manos florecen en ofrendas al vicio</l>
+     <l n="11" met="--+-+---+--+-">como ideas gemelas, como sueños que rimen.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+--+-">A veces he sentido que se crispan mis nervios,</l>
+     <l n="13" met="-++--++-+--+-">pues he visto asomarse a tus ojos soberbios</l>
+     <l n="14" met="--+--+---+--+-">el fantasma silente del pecado y del crimen.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

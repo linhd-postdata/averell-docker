@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Srdci.</title>
+    <author>Ježek, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ježek, Jan_srdci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Srdci.</title>
+     <author>Ježek, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Srdci.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010100" rhyme="1" line_length="10">Mé srdce ztiš se! K čemu nepokoj</l>
+     <l n="2" met="0101010100" rhyme="2" line_length="10">tvou hloubí zmitá z jitra do noci</l>
+     <l n="3" met="0101010101" rhyme="1" line_length="10">a nocí celou? – Což tu krutou znoj</l>
+     <l n="4" met="1100010100" rhyme="2" line_length="10">lék neztiší, což nikde pomoci? –</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101001001" rhyme="3" line_length="10">Mé srdce ztiš se! Vždyť ve bouři vln</l>
+     <l n="6" met="0101010001" rhyme="4" line_length="10">se rodí perel nejvzácnější druh.</l>
+     <l n="7" met="1100010101" rhyme="3" line_length="10">Trp maličko, tvůj život, strastí pln</l>
+     <l n="8" met="0101010101" rhyme="4" line_length="10">již brzy v květný éden změní Bůh.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101010100" rhyme="5" line_length="10">Mé srdce ztiš se! „Hrob co uchvátí,</l>
+     <l n="10" met="0100010101" rhyme="6" line_length="10">to nevydá“ jest lidská jenom báj;</l>
+     <l n="11" met="0101000100" rhyme="5" line_length="10">vímť, že mi kdysi vše zas navrátí,</l>
+     <l n="12" met="0101010101" rhyme="6" line_length="10">až smrti branou vkročím nebes v ráj!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

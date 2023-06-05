@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Daphné</title>
+    <author>Louise-Victorine Ackermann</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Louise-Victorine Ackermann_daphne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Daphné</title>
+     <author>Louise-Victorine Ackermann</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Daphné</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Lorsque le dieu du jour, plein d’amoureuse audace,</l>
+     <l n="2" rhyme="b" line_length="6+6">Dédaignant tout à coup l’Olympe et ses plaisirs,</l>
+     <l n="3" rhyme="a" line_length="6+6">Sans char, la lyre en main, s’élançait sur la trace</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="a" line_length="6+6">Celle-ci, jusqu’au bout insensible et rétive,</l>
+     <l n="5" rhyme="b" line_length="6+6">Le laissa s’égarer en des sentiers ingrats ;</l>
+     <l n="6" rhyme="a" line_length="6+6">Puis, quand il la saisit, la jeune fugitive</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="a" line_length="6+6">Un sort pareil attend ici-bas le génie :</l>
+     <l n="8" rhyme="b" line_length="6+6">En l’Idéal qui fuit l’artiste a mis sa foi.</l>
+     <l n="9" rhyme="a" line_length="6+6">Heureux qui voit de loin, dans l’arène infinie,</l>
+    </lg>
+    <lg n="4">
+     <l n="10" rhyme="a" line_length="6+6">Car il faut, d’un élan qu’aucun refus n’arrête,</l>
+     <l n="11" rhyme="b" line_length="6+6">Poursuivre aussi Daphné, quand ce serait en vain,</l>
+     <l n="12" rhyme="a" line_length="6+6">Pour sentir à son tour s’agiter sur sa tête</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A ellas</title>
+    <author>Antonio Alcalde Valladares</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Antonio Alcalde Valladares_a-ellas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A ellas</title>
+     <author>Antonio Alcalde Valladares</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A ellas</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+---+-+-">Como se ven por el cristal del río</l>
+     <l n="2" met="-+---+---+-">los granos de sus límpidas arenas,</l>
+     <l n="3" met="---+-+---+-">como se ven también las azucenas</l>
+     <l n="4" met="-----+---+-">a través de las gotas de rocío;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+---+-+-">como en las noches del quemado estío</l>
+     <l n="6" met="---+-+---+-">tras de las nubes blancas y serenas</l>
+     <l n="7" met="-+-+---+-+-">se ve la luna, ¡cual las almas buenas</l>
+     <l n="8" met="-+-----+-+-">se ven detrás de su dolor impío!;</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+---+-+-">como por medio a la verdad se mira</l>
+     <l n="10" met="-+---+---+-">la fe del corazón, que sin enojos</l>
+     <l n="11" met="---+---+-+-">en el fulgor de la virtud se inspira,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">así quisiera en mi aparente calma,</l>
+     <l n="13" met="-----+---+-">a través de las niñas de tus ojos</l>
+     <l n="14" met="-+---+---+-">mirar los sentimientos de tu alma.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

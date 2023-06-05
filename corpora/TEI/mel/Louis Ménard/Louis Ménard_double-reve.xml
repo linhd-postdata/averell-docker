@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Double Rêve</title>
+    <author>Louis Ménard</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Louis Ménard_double-reve</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Double Rêve</title>
+     <author>Louis Ménard</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Double Rêve</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">J'ai cru qu'on m'enfermait au couvent : c'est un rêve !</l>
+     <l n="2" rhyme="b" line_length="6+6">Je suis morte, il est mort aussi : je bénis Dieu !</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="6+6">— J'ai cru qu'on m'enchaînait dans la tour, sur la pierre,</l>
+     <l n="4" rhyme="b" line_length="6+6">Seul, loin d'elle et du jour ; mais non, ce cachot noir,</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="6+6">— C'est toi ! Je savais bien que tu m'aurais suivie,</l>
+     <l n="6" rhyme="b" line_length="6+6">Tu me l'avais promis. Cette félicité</l>
+    </lg>
+    <lg n="4">
+     <l n="7" rhyme="a" line_length="6+6">— Je rêvais de prison, et toi de monastère :</l>
+     <l n="8" rhyme="b" line_length="6+6">Un baiser ! oublions et mon rêve et le tien.</l>
+    </lg>
+    <lg n="5">
+     <l n="9" rhyme="a" line_length="6+6">— Écoute ! un son de cloche a retenti : c'est l'heure</l>
+     <l n="10" rhyme="b" line_length="6+6">Du dernier jugement pour tous les trépassés ;</l>
+    </lg>
+    <lg n="6">
+     <l n="11" rhyme="a" line_length="6+6">La cloche du matin sonne pour la prière ;</l>
+     <l n="12" rhyme="b" line_length="6+6">A travers les barreaux glisse un rayon du jour,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

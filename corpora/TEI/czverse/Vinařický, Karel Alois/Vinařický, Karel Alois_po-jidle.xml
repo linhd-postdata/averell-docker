@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Po jídle.</title>
+    <author>Vinařický, Karel Alois</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vinařický, Karel Alois_po-jidle</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Po jídle.</title>
+     <author>Vinařický, Karel Alois</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Po jídle.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100" rhyme="1" line_length="7">Dobrý Bože, ty jsi nás</l>
+     <l n="2" met="10001" rhyme="1" line_length="5">Nasytil v ten čas.</l>
+     <l n="3" met="00101000" rhyme="2" line_length="8">Zač mi tobě děkujeme.</l>
+     <l n="4" met="00101010" rhyme="3" line_length="8">Co nám zbylo, co nám zbude,</l>
+     <l n="5" met="0100" rhyme="3" line_length="4">Tím na chudé</l>
+     <l n="6" met="1000" rhyme="2" line_length="4">Zpomeneme.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Busto de Dante</title>
+    <author>Ricardo Rodríguez Cáceres</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ricardo Rodríguez Cáceres_busto-de-dante</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Busto de Dante</title>
+     <author>Ricardo Rodríguez Cáceres</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Busto de Dante</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Tu busto, Dante, que extasiado miro,</l>
+     <l n="2" met="-+-+---+-+-">la dulce imagen de Beatriz amada</l>
+     <l n="3" met="+--+---+-+-">trae a mi recuerdo, para ser cantada</l>
+     <l n="4" met="-+-+---+-+-">de amor envuelta en caprichoso giro.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--++--+-">Yo también por tu dama amo y suspiro,</l>
+     <l n="6" met="-+-+-+---+-">en ella está mi esposa retratada,</l>
+     <l n="7" met="+--+---+-+-">y ambas, cual tú, en la celestial morada</l>
+     <l n="8" met="--+-++---+-">encontraron ya juntas su retiro.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+-+---+-">Vuela un gentil espíritu a mi lado</l>
+     <l n="10" met="---+---+++-">que de invisible claridad me llena</l>
+     <l n="11" met="--+--+---+-">y se queda en mi pecho sepultado.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">Y tú supiste reflejar tu pena,</l>
+     <l n="13" met="--+--+---+-">y en la redes de amor aprisionado</l>
+     <l n="14" met="-+++---+-+-">dejar un himno que perdura y suena.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

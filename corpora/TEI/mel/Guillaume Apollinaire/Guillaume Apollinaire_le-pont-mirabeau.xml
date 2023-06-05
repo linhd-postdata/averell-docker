@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le pont Mirabeau</title>
+    <author>Guillaume Apollinaire</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">7</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Guillaume Apollinaire_le-pont-mirabeau</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le pont Mirabeau</title>
+     <author>Guillaume Apollinaire</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le pont Mirabeau</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+4">Sous le pont Mirabeau coule la Seine</l>
+     <l n="2" line_length="4">La joie venait toujours après la peine.</l>
+    </lg>
+    <lg n="2" />
+    <lg n="3">
+     <l n="3" rhyme="a" line_length="4−6">Les mains dans les mains restons face à face</l>
+     <l n="4" line_length="4">Des éternels regards l'onde si lasse</l>
+    </lg>
+    <lg n="4" />
+    <lg n="5">
+     <l n="5" rhyme="a" line_length="4+6">L'amour s'en va comme cette eau courante</l>
+     <l n="6" line_length="4">Et comme l'Espérance est violente</l>
+    </lg>
+    <lg n="6" />
+    <lg n="7">
+     <l n="7" rhyme="a" line_length="4+6">Passent les jours et passent les semaines</l>
+     <l n="8" line_length="4">Sous le pont Mirabeau coule la Seine</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

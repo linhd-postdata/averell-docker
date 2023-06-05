@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ella</title>
+    <author>Ramón López Velarde</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ramón López Velarde_ella</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ella</title>
+     <author>Ramón López Velarde</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ella</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+----++-">Esta novia del alma con quien soñé un día</l>
+     <l n="2" met="-+--+-+-+--+-">fundar el paraíso de una casa risueña</l>
+     <l n="3" met="-+-+-+---+--+-">y echar, pescando amores, en el mar de la vida</l>
+     <l n="4" met="-+-------+--+-">mis redes, a la usanza de la edad evangélica.</l>
+    </lg>
+    <lg n="2" stanza_type="unknown">
+     <l n="5" met="++---+----+-+-">Es blanca como la hostia de la primera misa</l>
+     <l n="6" met="-+-+-+--+-+-+-">que en una azul mañana miró decir la tierra</l>
+     <l n="7" met="+-+--+--+---+-">luce negros los ojos, la túnica sombría</l>
+     <l n="8" met="-+-+-+--+---+-">y en un ungir heridas las manos beneméritas.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+----+-+-">Dormir en paz se puede sobre sus castos senos</l>
+     <l n="10" met="-+--+-+---+-">de nieve, que beatos se hinchan como frutas</l>
+     <l n="11" met="---+-+--+---+-">en la heredad de Cristo, celeste jardinero;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+---+--+-">Con propiedades hondas y los labios de azúcar,</l>
+     <l n="13" met="---+-+---+--+-">y por su grave porte se asemeja al excelso</l>
+     <l n="14" met="-+---+--+---+-">retrato de la Virgen pintado por San Lucas.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

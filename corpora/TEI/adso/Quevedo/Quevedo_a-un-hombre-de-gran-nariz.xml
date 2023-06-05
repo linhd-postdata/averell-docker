@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A un hombre de gran nariz  </title>
+    <author>Quevedo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quevedo_a-un-hombre-de-gran-nariz</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A un hombre de gran nariz  </title>
+     <author>Quevedo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A un hombre de gran nariz  </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+++--+-+-">Érase un hombre a una nariz pegado,</l>
+     <l n="2" met="+-+--+---+-">érase una nariz superlativa,</l>
+     <l n="3" met="+-+--+-+-+-">érase una alquitara medio viva,</l>
+     <l n="4" met="+-++-+-+-+-">érase un peje espada mal barbado;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++-+-++--+-">era un reloj de sol mal encarado,</l>
+     <l n="6" met="+-+--+-+-+-">érase un elefante boca arriba,</l>
+     <l n="7" met="+-+--+-+-+-">érase una nariz sayón y escriba,</l>
+     <l n="8" met="+-+--++--+-">un Ovidio Nasón mal narigado.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+----++--+-">Érase el espolón de una galera,</l>
+     <l n="10" met="+-+--+---+-">érase una pirámide de Egipto,</l>
+     <l n="11" met="-+-+---+-+-">las doce tribus de narices era;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+---+-">érase un naricísimo infinito,</l>
+     <l n="13" met="-+---+---+-">frisón archinariz, caratulera,</l>
+     <l n="14" met="--+--+-+-+-">sabañón garrafal, morado y frito.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

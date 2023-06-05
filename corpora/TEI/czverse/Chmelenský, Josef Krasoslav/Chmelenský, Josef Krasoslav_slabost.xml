@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Slabost.</title>
+    <author>Chmelenský, Josef Krasoslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">2</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Chmelenský, Josef Krasoslav_slabost</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Slabost.</title>
+     <author>Chmelenský, Josef Krasoslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Slabost.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010100010010100" line_length="15">Kdo sebe zavraždí, že jeví, mníš, srdce hrdinské?</l>
+     <l n="2" met="00101001101010" line_length="14">Ten mi slove přeslabým, an nesa břímě klesá.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

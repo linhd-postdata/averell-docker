@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dvojí písmo.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_dvoji-pismo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dvojí písmo.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dvojí písmo.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100010001" rhyme="1" line_length="10">Sám za odlivu u moře jsem stál</l>
+     <l n="2" met="0100010101" rhyme="1" line_length="10">a do písku Tvé milé jméno psal,</l>
+     <l n="3" met="0101010001" rhyme="2" line_length="10">leč příboj náhlý na písek se vlil</l>
+     <l n="4" met="0100010100" rhyme="2" line_length="10">a rázem mi Tvé jméno odplavil.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010001" rhyme="1" line_length="10">Pak příboj žití Tebe též mi vzal,</l>
+     <l n="6" met="0101010101" rhyme="1" line_length="10">a rudý výkřik v hruď mi napsal žal,</l>
+     <l n="7" met="0101010100" rhyme="3" line_length="10">a třeba příboj žití na mne pad’,</l>
+     <l n="8" met="0101000100" rhyme="3" line_length="10">ten výkřik nevymizel posavad.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101010100" rhyme="4" line_length="10">I hoří v hloubce tajných srdce ryh</l>
+     <l n="10" met="0101010100" rhyme="4" line_length="10">jak hvězda v moře pouštích zapadlých,</l>
+     <l n="11" met="0001000100" rhyme="5" line_length="10">a v ty když ponořím se duchem svým,</l>
+     <l n="12" met="0101000100" rhyme="5" line_length="10">vstříc rudě šlehne mi, až zaslzím!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

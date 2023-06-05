@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dedikace</title>
+    <author>Neumann, Stanislav Kostka</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neumann, Stanislav Kostka_dedikace</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dedikace</title>
+     <author>Neumann, Stanislav Kostka</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dedikace</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010110010" line_length="11">Jahody první, hle, nesu ti, ženo,</l>
+     <l n="2" met="10010010010" rhyme="1" line_length="11">z bukové paseky, z vysoké trávy,</l>
+     <l n="3" met="10010010010" line_length="11">pozdravy slunce a jižního větru,</l>
+     <l n="4" met="10010010010" rhyme="1" line_length="11">zakleté v šarlat a ve sladké šťávy.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010010010" line_length="11">Pomalu nes je k svým hedbávným retům,</l>
+     <l n="6" met="01010010010" rhyme="2" line_length="11">ať jejich sladkost až k srdci ti vzrůstá.</l>
+     <l n="7" met="10010010010" line_length="11">Pomni, že políbíš červnové slunce</l>
+     <l n="8" met="01010010010" rhyme="2" line_length="11">a krví země si potřísníš ústa.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010110010" line_length="11">Jahody první, hle, nesu ti z lesů,</l>
+     <l n="10" met="10010010010" rhyme="3" line_length="11">vyhřátých paprsků úrodou zlatou.</l>
+     <l n="11" met="00110010010" line_length="11">Jak ten plod rudý buď krystalem vonným,</l>
+     <l n="12" met="10010010010" rhyme="3" line_length="11">slunce a země buď pohodou jatou.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

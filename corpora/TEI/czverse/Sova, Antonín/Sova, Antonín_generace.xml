@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>GENERACE.</title>
+    <author>Sova, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sova, Antonín_generace</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>GENERACE.</title>
+     <author>Sova, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>GENERACE.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100100" rhyme="1" line_length="7">A doba, ta umírá,</l>
+     <l n="2" met="0100010" rhyme="2" line_length="7">že promrhány síly.</l>
+     <l n="3" met="1001100" rhyme="1" line_length="7">Na prsou má upíra,</l>
+     <l n="4" met="01001010" rhyme="2" line_length="8">jenž bezkrevné vyssál žíly.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001010" rhyme="3" line_length="7">Pohasly krásné sliby.</l>
+     <l n="6" met="1001000" rhyme="4" line_length="7">A nic již nevykvětlo.</l>
+     <l n="7" met="01001010" rhyme="3" line_length="8">Kdys děsily mládí chyby.</l>
+     <l n="8" met="010010010" rhyme="4" line_length="9">Teď střízlivé, korrektní světlo...</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01001010" rhyme="5" line_length="8">Té chásce, jež tenkrát spala,</l>
+     <l n="10" met="0100010" rhyme="6" line_length="7">jsme učinili zadost.</l>
+     <l n="11" met="010010010" rhyme="5" line_length="9">V své celé dnes chudobě vstala...</l>
+     <l n="12" met="01010010" rhyme="6" line_length="8">Toť naše vítězná radost...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Buffon</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">7</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_a-buffon</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Buffon</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Buffon</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">D’ajouter une fleur à la double couronne</l>
+     <l n="2" rhyme="b" line_length="6+6">De chanter un talent dont s’honore la France,</l>
+     <l n="3" rhyme="a" line_length="4+6">Elle peut être au moins l’écho de la science,</l>
+     <l n="4" rhyme="b" line_length="6+6">En disant qu’Aristote avait moins de savoir,</l>
+     <l n="5" rhyme="a" line_length="8">Ces arbres, ces jardins, cette tour, ce beffroi</l>
+     <l n="6" rhyme="b" line_length="6+6">Rappellent à l’esprit ton génie admirable,</l>
+     <l n="7" rhyme="a" line_length="6+6">Ici j’aurai du moins laissé mon grain de sable</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Z ulice.</title>
+    <author>Červenka, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červenka, Jan_z-ulice</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Z ulice.</title>
+     <author>Červenka, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Z ulice.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11001010" line_length="8">Jdu ulicí, kde jsem denně,</l>
+     <l n="2" met="110100" rhyme="1" line_length="6">má paní, vídal Vás,</l>
+     <l n="3" met="010010010" line_length="9">a srdce mi hlasitě bije</l>
+     <l n="4" met="0100101" rhyme="1" line_length="7">a v duši se dere mráz.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01001010" line_length="8">A jako v těch sladkých časech</l>
+     <l n="6" met="010101" rhyme="2" line_length="6">zde všady známé zřím,</l>
+     <l n="7" met="010010010" line_length="9">ty domy i stromy i lidi,</l>
+     <l n="8" met="0010100" rhyme="2" line_length="7">jen Vás nikde nevidím.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="11000010" line_length="8">Hle, nahoře tam ta okna,</l>
+     <l n="10" met="110101" line_length="6">oh, jak jsem rád je měl!</l>
+     <l n="11" met="010010010" line_length="9">Já v slunci i dešti sem chodil.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="01001010" line_length="8">A pod těmi okny dole</l>
+     <l n="13" met="010100" rhyme="3" line_length="6">jsem blouznil o štěstí, –</l>
+     <l n="14" met="010000010" line_length="9">teď, nahoru jak se tak dívám,</l>
+     <l n="15" met="0100100" rhyme="3" line_length="7">div nepláči bolestí!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

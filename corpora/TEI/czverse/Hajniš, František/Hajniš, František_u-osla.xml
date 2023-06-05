@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>U osla.</title>
+    <author>Hajniš, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hajniš, František_u-osla</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>U osla.</title>
+     <author>Hajniš, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>U osla.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" rhyme="1" line_length="8">Za osla se každý stydí,</l>
+     <l n="2" met="10001010" rhyme="1" line_length="8">Po nádherném štítu slídí;</l>
+     <l n="3" met="10101010" rhyme="2" line_length="8">Tuto máme důkaz pravý,</l>
+     <l n="4" met="00101010" rhyme="3" line_length="8">Že i mnohdy osel hloupý</l>
+     <l n="5" met="10010010" rhyme="3" line_length="8">Štěstí své na pevné sloupy</l>
+     <l n="6" met="10001010" rhyme="2" line_length="8">Na vejnosné domy staví.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

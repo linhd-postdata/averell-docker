@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pozdní litování.</title>
+    <author>Čelakovský, František Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čelakovský, František Ladislav_pozdni-litovani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pozdní litování.</title>
+     <author>Čelakovský, František Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pozdní litování.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0001001000" rhyme="1" line_length="10">Když jsem já sloužila v pivováře,</l>
+     <l n="2" met="1001001000" rhyme="1" line_length="10">Měla jsem milého z kanceláře;</l>
+     <l n="3" met="100100" rhyme="2" line_length="6">Teta mne trápila,</l>
+     <l n="4" met="110100" rhyme="2" line_length="6">Dnem nocí soužila,</l>
+     <l n="5" met="0001000" rhyme="2" line_length="7">Bych jí ho přepustila,</l>
+     <l n="6" met="1101000" rhyme="2" line_length="7">Ach, co jsem učinila!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

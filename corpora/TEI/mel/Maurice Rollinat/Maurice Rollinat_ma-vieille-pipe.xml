@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MA VIEILLE PIPE</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_ma-vieille-pipe</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MA VIEILLE PIPE</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MA VIEILLE PIPE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Quand j'ai ma pipe en merisier,</l>
+     <l n="2" rhyme="b" line_length="8">Toute mon âme se parfume ;</l>
+     <l n="3" rhyme="b" line_length="8">Et je la fume et la refume,</l>
+     <l n="4" rhyme="a" line_length="8">Sans pouvoir me rassasier.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Cet automne, à son cher brasier,</l>
+     <l n="6" rhyme="b" line_length="8">J'ai nargué le vent et la brume.</l>
+     <l n="7" rhyme="a" line_length="8">Quand j'ai ma pipe en merisier</l>
+     <l n="8" rhyme="b" line_length="8">Toute mon âme se parfume.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Elle n'a qu'un tuyau d'osier ;</l>
+     <l n="10" rhyme="b" line_length="8">Mais les vers coulent de ma plume,</l>
+     <l n="11" rhyme="b" line_length="8">Toutes les fois que je l'allume,</l>
+     <l n="12" rhyme="a" line_length="8">Et j'ai de quoi m'extasier,</l>
+     <l n="13" rhyme="a" line_length="8">Quand j'ai ma pipe en merisier.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

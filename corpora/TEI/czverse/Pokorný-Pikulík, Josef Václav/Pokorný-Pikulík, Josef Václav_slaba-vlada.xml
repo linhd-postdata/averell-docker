@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Slabá vláda.</title>
+    <author>Pokorný-Pikulík, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný-Pikulík, Josef Václav_slaba-vlada</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Slabá vláda.</title>
+     <author>Pokorný-Pikulík, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Slabá vláda.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000100" rhyme="1" line_length="11">„Slabá vláda!“ dokazují proroci,</l>
+     <l n="2" met="1010101010" rhyme="2" line_length="10">kteří sami sebe brání špatně –</l>
+     <l n="3" met="1010100010" rhyme="2" line_length="10">třeba, že jí pomáhají platně,</l>
+     <l n="4" met="10100010100" rhyme="1" line_length="11">ona nemůže jím přece pomoci – –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

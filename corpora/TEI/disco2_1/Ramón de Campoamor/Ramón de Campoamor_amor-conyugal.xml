@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Amor conyugal</title>
+    <author>Ramón de Campoamor</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ramón de Campoamor_amor-conyugal</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Amor conyugal</title>
+     <author>Ramón de Campoamor</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Amor conyugal</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+-+-++-+-">Caer al río el viento un nido deja,</l>
+     <l n="2" met="-+++--++-+-">y al verlo un ave, en pos vuela piando,</l>
+     <l n="3" met="--+--+---+-">porque dentro, sus huevos empollando,</l>
+     <l n="4" met="+--+---+-+-">flota embarcada su infeliz pareja.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+-+-+-">Con el nido que, hundiéndose, se aleja,</l>
+     <l n="6" met="-+--+-+-++-">naufraga el ave fiel que va criando,</l>
+     <l n="7" met="--+--++--+-">y el esposo, después, vaga exhalando</l>
+     <l n="8" met="+--+-+---+-">de árbol en árbol, queja tras de queja.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+---+-++-">Creciendo sin cesar su pío, pío,</l>
+     <l n="10" met="--+--+-+-+-">donde el nido se hundió sus ojos clava,</l>
+     <l n="11" met="---+-++-++-">como diciendo así:- ¡Pobre amor mío!-</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+++---+--+-">Y un día, al fin, que su dolor se agrava,</l>
+     <l n="13" met="-+-+-+-+-+-">se esfuerza, vuela, muere, cae al río,</l>
+     <l n="14" met="--+-++--+-+-">se sumerge, suena algo... y todo acaba.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

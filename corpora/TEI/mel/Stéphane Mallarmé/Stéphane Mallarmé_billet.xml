@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>BILLET</title>
+    <author>Stéphane Mallarmé</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Stéphane Mallarmé_billet</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>BILLET</title>
+     <author>Stéphane Mallarmé</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>BILLET</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Pas les rafales à propos</l>
+     <l n="2" rhyme="b" line_length="8">De rien comme occuper la rue</l>
+     <l n="3" rhyme="a" line_length="8">Sujette au noir vol de chapeaux ;</l>
+     <l n="4" rhyme="b" line_length="8">Mais une danseuse apparue</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="8">Tourbillon de mousseline ou</l>
+     <l n="6" rhyme="d" line_length="8">Fureur éparses en écumes</l>
+     <l n="7" rhyme="c" line_length="8">Que soulève par son genou</l>
+     <l n="8" rhyme="d" line_length="8">Celle même dont nous vécûmes</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="8">Pour tout, hormis lui, rebattu</l>
+     <l n="10" rhyme="f" line_length="8">Spirituelle, ivre, immobile</l>
+     <l n="11" rhyme="e" line_length="8">Foudroyer avec le tutu,</l>
+     <l n="12" rhyme="f" line_length="8">sans se faire autrement de bile</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="g" line_length="8">Sinon rieur que puisse l'air</l>
+     <l n="14" rhyme="g" line_length="8">De sa jupe éventer Whistler.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

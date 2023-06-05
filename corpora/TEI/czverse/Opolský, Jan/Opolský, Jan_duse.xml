@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>DUŠE</title>
+    <author>Opolský, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Opolský, Jan_duse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>DUŠE</title>
+     <author>Opolský, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>DUŠE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101000101010" rhyme="1" line_length="15">Tak hyne duše v neklidu a pátrá kolem sebe,</l>
+     <l n="2" met="010101000101010" rhyme="1" line_length="15">zda mezi mračny prozírá a hýří cípek nebe;</l>
+     <l n="3" met="010101000101010" rhyme="2" line_length="15">jen jeden bledý paprsek, jenž vlažnou záři plodí,</l>
+     <l n="4" met="010101001101000" rhyme="2" line_length="15">a z rysů masky sevřené mdlý úsměv vysvobodí.</l>
+     <l n="5" met="010101000100010" rhyme="3" line_length="15">Své chabé paže vztahuje, leč fantómy jen svírá</l>
+     <l n="6" met="010001001101000" rhyme="3" line_length="15">a v neslyšených výkřicích ret suchý otevírá,</l>
+     <l n="7" met="110101000100010" rhyme="4" line_length="15">zrak cloní, v dálky vysílá své bolestivé touhy,</l>
+     <l n="8" met="000101000101010" rhyme="4" line_length="15">však to, co dálka navrací, je z prázdna závan pouhý,</l>
+     <l n="9" met="010101000101010" rhyme="5" line_length="15">jenž jako břímě uléhá a křehký život drtí...</l>
+     <l n="10" met="010101000100010" rhyme="5" line_length="15">Tak chví se duše neklidem i v okamžiku smrti.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

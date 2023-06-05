@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VI. Ty vzore krásy dívčiny!</title>
+    <author>Uhlíř, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Uhlíř, Josef_vi-ty-vzore-krasy-divciny</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VI. Ty vzore krásy dívčiny!</title>
+     <author>Uhlíř, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VI. Ty vzore krásy dívčiny!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Ty vzore krásy dívčiny! </l>
+     <l n="2" met="010101010" rhyme="1" line_length="9">Jak mezi kvítím k lesku růže,</l>
+     <l n="3" met="010101010" rhyme="1" line_length="9">Tak nejvíc k tobě, děvo, může</l>
+     <l n="4" met="1001010" rhyme="2" line_length="7">Z celičké ženské pleti</l>
+     <l n="5" met="1101000" rhyme="2" line_length="7">Hoch láskou zahořeti.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="10010001" line_length="8">A když tak krásná – ty se ptáš –</l>
+     <l n="7" met="010100010" rhyme="3" line_length="9">Proč pláči, uhlídám-li tebe?</l>
+     <l n="8" met="100001010" rhyme="3" line_length="9">O ukrutnice, ptej se nebe,</l>
+     <l n="9" met="0101010" rhyme="4" line_length="7">Proč tolik rosy padne</l>
+     <l n="10" met="1001010" rhyme="4" line_length="7">Za noci krásné – chladné?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

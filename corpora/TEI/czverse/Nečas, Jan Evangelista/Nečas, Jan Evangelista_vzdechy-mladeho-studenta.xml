@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vzdechy mladého studenta.</title>
+    <author>Nečas, Jan Evangelista</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nečas, Jan Evangelista_vzdechy-mladeho-studenta</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vzdechy mladého studenta.</title>
+     <author>Nečas, Jan Evangelista</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vzdechy mladého studenta.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010" line_length="6">Ach! to nejsou oči,</l>
+     <l n="2" met="100010" rhyme="1" line_length="6">ale jsou to oka,</l>
+     <l n="3" met="101010" line_length="6">děvče svodné děvče,</l>
+     <l n="4" met="001000" rhyme="1" line_length="6">ty tam u potoka! –</l>
+     <l n="5" met="101010" line_length="6">Ach! to nejsou uši,</l>
+     <l n="6" met="100010" rhyme="2" line_length="6">ale jsou to ucha,</l>
+     <l n="7" met="100010" line_length="6">pro toužení srdce</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">netečná a hluchá! –</l>
+     <l n="9" met="101010" line_length="6">Ach! to nejsou líčka,</l>
+     <l n="10" met="100010" rhyme="3" line_length="6">ale jsou to líčky,</l>
+     <l n="11" met="101000" line_length="6">chytře nastrojené</l>
+     <l n="12" met="101000" rhyme="3" line_length="6">na mé desetníčky!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

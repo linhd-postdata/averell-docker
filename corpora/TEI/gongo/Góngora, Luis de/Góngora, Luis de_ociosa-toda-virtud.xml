@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ociosa toda virtud,</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_ociosa-toda-virtud</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ociosa toda virtud,</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ociosa toda virtud,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="-+-+--+-" line_length="8">Ociosa toda virtud,</l>
+     <l n="2" met="+---+-+-" line_length="8">muerto su ejercicio llora</l>
+     <l n="3" met="-+--+-+-" line_length="8">la perla que engasta ahora</l>
+     <l n="4" met="-+-+-+-" line_length="7">el plomo deste ataúd:</l>
+     <l n="5" met="+--+--+-" line_length="8">reina que en muda quietud</l>
+     <l n="6" met="+--+-+-" line_length="7">duerme, y en silencio santo,</l>
+     <l n="7" met="-++--++-" line_length="8">a dos mundos, y aunque es tanto,</l>
+     <l n="8" met="++--+-+-" line_length="8">es mucho que no lo rompa,</l>
+     <l n="9" met="---+--+-" line_length="8">o de su fama la trompa,</l>
+     <l n="10" met="---+--+-" line_length="8">o de sus reinos el llanto.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

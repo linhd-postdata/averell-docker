@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Venuše.</title>
+    <author>Čenkov, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čenkov, Emanuel_venuse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Venuše.</title>
+     <author>Čenkov, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Venuše.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100110" rhyme="1" line_length="11">Kdo z pěvců viděl lákavý zjev ženy,</l>
+     <l n="2" met="0101010100" rhyme="2" line_length="10">jejž dávné báje zovou Venuší,</l>
+     <l n="3" met="01010101010" rhyme="1" line_length="11">jíž formy těla bílé z lehké pěny</l>
+     <l n="4" met="10010101000" rhyme="1" line_length="11">na moři šírém byly vykouzleny</l>
+     <l n="5" met="1001010100" rhyme="2" line_length="10">v Zefyrů vlažných jarním ovzduší?...</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="10010101010" rhyme="3" line_length="11">Nejkrasší ženu zřel jsem v noci divé</l>
+     <l n="7" met="1001000100" rhyme="4" line_length="10">– po cizích krajinách se toulaje –</l>
+     <l n="8" met="01000101010" rhyme="3" line_length="11">kdes v restauraci ruchem víru hřmivé,</l>
+     <l n="9" met="10010001000" rhyme="3" line_length="11">při hudbě smyčcové a skotačivé,</l>
+     <l n="10" met="1001000100" rhyme="4" line_length="10">ve městě Faiakův blíž Dunaje.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="01000101010" rhyme="5" line_length="11">A v myšlének svých tajném, skrytém světu</l>
+     <l n="12" met="0101000100" rhyme="2" line_length="10">jsem nazval moderní ji Venuší,</l>
+     <l n="13" met="01010011010" rhyme="5" line_length="11">jí valčík chvílemi zněl s kyprých retů,</l>
+     <l n="14" met="11010001000" rhyme="5" line_length="11">v dvou prstech držela si cigarettu</l>
+     <l n="15" met="0101001100" rhyme="2" line_length="10">a zrakem bloudila kol v ovzduší.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Rosa</title>
+    <author>Manuel María Flores</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel María Flores_a-rosa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Rosa</title>
+     <author>Manuel María Flores</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Rosa</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+++----+++-">¡Qué! ¿por qué nada el porvenir me guarde</l>
+     <l n="2" met="--+--+---+-">buscaré, luchador desfallecido,</l>
+     <l n="3" met="--+--+---+-">el rincón solitario del olvido</l>
+     <l n="4" met="---+-++--+-">para morir allí triste y cobarde?</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+-++-">¡Jamás, mi corazón, jamás! Aun arde</l>
+     <l n="6" met="---+-+---+-">bajo tu dura nieve comprimido</l>
+     <l n="7" met="-+-+-+-+-+-">el fuego de un volcán. No estás vencido,</l>
+     <l n="8" met="-----+-+++-">y para combatir jamás es tarde.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+---+--+-">Lucharé y venceré. Todo se inmola</l>
+     <l n="10" met="-+---+---+-">de amor ante el esfuerzo, temerario;</l>
+     <l n="11" met="-+---+---+-">y en mi alma, del amor bajo la aureola,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">como Dios en el alma del santuario,</l>
+     <l n="13" met="+--+---+-+-">bella, serena, indestructible y sola</l>
+     <l n="14" met="--+--+---+-">resplandece la imagen de Rosario.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

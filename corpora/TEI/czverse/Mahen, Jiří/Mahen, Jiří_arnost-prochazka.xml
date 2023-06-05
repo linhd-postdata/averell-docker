@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ARNOŠT PROCHÁZKA.</title>
+    <author>Mahen, Jiří</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mahen, Jiří_arnost-prochazka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ARNOŠT PROCHÁZKA.</title>
+     <author>Mahen, Jiří</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ARNOŠT PROCHÁZKA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" line_length="9">To vím, že lev jsi, dobře řval jsi,</l>
+     <l n="2" met="01010100" rhyme="1" line_length="8">když všichni byli potichu,</l>
+     <l n="3" met="010100010" line_length="9">a dobře ocasem jsi mrskal,</l>
+     <l n="4" met="01010100" rhyme="1" line_length="8">když byli všichni na břichu –</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101000" line_length="9">však pověz, lve můj hustohřivý,</l>
+     <l n="6" met="00010100" rhyme="2" line_length="8">(to vždy mi hlavou proletí),</l>
+     <l n="7" met="010101000" line_length="9">proč vlastně nelví nepořádek</l>
+     <l n="8" met="01010100" rhyme="2" line_length="8">ty trpíš ve svém doupěti?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010001010" line_length="9">Což před myší vždy vskutku musíš</l>
+     <l n="10" met="11010100" rhyme="3" line_length="8">mít bázeň skoro nezemskou?</l>
+     <l n="11" met="000101010" line_length="9">Jak to, že Šaldu schramstneš s chutí</l>
+     <l n="12" met="01000100" rhyme="3" line_length="8">a šanuješ jen Jesenskou?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

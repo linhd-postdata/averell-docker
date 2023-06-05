@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Václav a Radislav.</title>
+    <author>Nečas, Jan Evangelista</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">7</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nečas, Jan Evangelista_vaclav-a-radislav</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Václav a Radislav.</title>
+     <author>Nečas, Jan Evangelista</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Václav a Radislav.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010101010" rhyme="1" line_length="11">Dvě česká vojska proti sobě stojí</l>
+     <l n="2" met="01000100010" rhyme="1" line_length="11">a čekají jen na velení k boji.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="10010100010" rhyme="2" line_length="11">Dech svůj si vítr na praporcích zkouší. –</l>
+     <l n="4" met="01010101000" rhyme="2" line_length="11">V tom kníže Václav vyjel na bělouši.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="11010001010" rhyme="3" line_length="11">„Aj, kníže Radislave, slyš má slova:</l>
+     <l n="6" met="01010100010" rhyme="3" line_length="11">Nač krví českou plýtvati zde znova?</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="11010100010" rhyme="4" line_length="11">Pojď v souboj se mnou!“ – Radislav již jede,</l>
+     <l n="8" met="11010100010" rhyme="4" line_length="11">kůň černý pod ním divoce si vede.</l>
+    </lg>
+    <lg n="5">
+     <l n="9" met="00110101010" rhyme="5" line_length="11">Však co pán vidí, že hned kleká žasna?</l>
+     <l n="10" met="11000001010" rhyme="5" line_length="11">Tvář Václavova je jak slunce jasna.</l>
+    </lg>
+    <lg n="6">
+     <l n="11" met="11010100010" rhyme="6" line_length="11">„Smír, milosť! – volá – Václave, můj kníže!“</l>
+    </lg>
+    <lg n="7">
+     <l n="12" met="01010100010" rhyme="6" line_length="11">A kníže Václav přistoupivší blíže</l>
+     <l n="13" met="01010101000" rhyme="7" line_length="11">mu vlídně podal ruku smiřovací.</l>
+     <l n="14" met="11010100010" rhyme="7" line_length="11">„Mír!“ – volá vojsko – ke krbům se vrací.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

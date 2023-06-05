@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Un soir</title>
+    <author>Guillaume Apollinaire</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Guillaume Apollinaire_un-soir</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Un soir</title>
+     <author>Guillaume Apollinaire</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Un soir</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="6+6">Un aigle descendit de ce ciel blanc d'archanges</l>
+     <l n="2" line_length="6">Laisserez-vous trembler longtemps toutes ces lampes</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="6+6">La ville est métallique et c'est la seule étoile</l>
+     <l n="4" rhyme="b" line_length="6">Quand les tramways roulaient jaillissaient des feux pâles</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="6+6">Et tout ce qui tremblait dans tes yeux de mes songes</l>
+     <l n="6" rhyme="b" line_length="6">Sous les feux de gaz roux comme la fausse oronge</l>
+    </lg>
+    <lg n="4">
+     <l n="7" rhyme="a" line_length="4+4+4">Vois l'histrion tire la langue aux attentives</l>
+     <l n="8" rhyme="b" line_length="8">L'apôtre au figuier pend et lentement salive</l>
+    </lg>
+    <lg n="5">
+     <l n="9" rhyme="a" line_length="6+6">Des cloches aux sons clairs annonçaient ta naissance</l>
+     <l n="10" rhyme="b" line_length="6+6">Les chemins sont fleuris et les palmes s'avancent</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

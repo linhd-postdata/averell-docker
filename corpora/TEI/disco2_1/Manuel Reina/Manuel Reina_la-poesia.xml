@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La poesía</title>
+    <author>Manuel Reina</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel Reina_la-poesia</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La poesía</title>
+     <author>Manuel Reina</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La poesía</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+---+-">Como el raudal que corre en la pradera</l>
+     <l n="2" met="+--+-+---+-">copia en su espejo pájaros y flores,</l>
+     <l n="3" met="-+---+---+-">la alada mariposa de colores,</l>
+     <l n="4" met="-+-+---+-+-">el verde arbusto y la radiante esfera,</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">la sublime poesía reverbera</l>
+     <l n="6" met="-+-+-+---+-">combates, glorias, risas y dolores,</l>
+     <l n="7" met="+-+-+----+-">odio y amor, tinieblas y esplendores,</l>
+     <l n="8" met="-+-+-+-+-+-">el cielo, el campo, el mar... ¡la vida entera!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+++-+-+-+-">¡Así Homero es la lid; Virgilio, el día;</l>
+     <l n="10" met="-+---+---+-">Esquilo, la tormenta bramadora;</l>
+     <l n="11" met="--+-+----+-">Anacreonte, el vino y la alegría;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+---+-+-">Dante, la noche con su negro arcano;</l>
+     <l n="13" met="--+--+-+-+-">Calderón, el honor; Miltón la aurora;</l>
+     <l n="14" met="--+-+---+-+-">Shakespeare, el triste corazón humano!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

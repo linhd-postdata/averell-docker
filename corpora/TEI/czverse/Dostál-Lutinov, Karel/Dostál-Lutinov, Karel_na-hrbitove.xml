@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NA HŘBITOVĚ.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_na-hrbitove</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NA HŘBITOVĚ.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NA HŘBITOVĚ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" line_length="8">Na hřbitově kvetou lípy.</l>
+     <l n="2" met="10101010" rhyme="1" line_length="8">Svaté ticho. – Vzduch tak vonný.</l>
+     <l n="3" met="10001010" line_length="8">V korunách je plno včelek.</l>
+     <l n="4" met="10101010" rhyme="1" line_length="8">Zní ti jako dálné zvony.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" line_length="8">A ti mrtví dřímou klidně.</l>
+     <l n="6" met="10100010" rhyme="2" line_length="8">Přítel nepřítel tu leží.</l>
+     <l n="7" met="00101000" line_length="8">Že se kdysi poráželi,</l>
+     <l n="8" met="10001010" rhyme="2" line_length="8">vzpomínají sobě stěží.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" line_length="8">Všecko vidí v jiném světle.</l>
+     <l n="10" met="10101010" rhyme="3" line_length="8">Těla není, boje není –</l>
+     <l n="11" met="00101010" line_length="8">jest jen silná vroucí touha</l>
+     <l n="12" met="10001000" rhyme="3" line_length="8">po smíru a po vzkříšení.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

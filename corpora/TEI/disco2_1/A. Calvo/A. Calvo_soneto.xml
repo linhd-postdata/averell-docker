@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>A. Calvo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>A. Calvo_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>A. Calvo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+-++-+-+-">Un soneto me manda hacer Elvira</l>
+     <l n="2" met="--+-++-+-+-">sin saber si soy buen o mal poeta,</l>
+     <l n="3" met="-++-+-+--+-">porque es niña, inter nos, algo coqueta,</l>
+     <l n="4" met="--+--+-+-+-">y por tal pequeñeces nunca mira.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+-+-+-">Ella sabe que yo, su amigo, lira</l>
+     <l n="6" met="+-+-+--+++-">taño o rasco, y al punto así le peta,</l>
+     <l n="7" met="-----++--+-">y en lugar de pedirme una cuarteta</l>
+     <l n="8" met="+-+-++-+-+-">un soneto me pide. ¡Qué me admira!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+-++-+-+-">Un soneto, Dios mío, lance duro.</l>
+     <l n="10" met="+-+--+---+-">¿Qué diré que me saque del apuro?</l>
+     <l n="11" met="+-+--+---+-">¿Qué diré que me libre del aprieto?</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-++-+---+-">Le diré que es hermosa y hechicera,</l>
+     <l n="13" met="--+--+---+-">y divina y graciosa, y... lo que quiera</l>
+     <l n="14" met="-+++-+-+-+-">que ya no cabe más en un soneto.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

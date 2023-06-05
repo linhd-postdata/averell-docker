@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VEČER.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_vecer</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VEČER.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VEČER.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010010" line_length="11">Loučíc se s příbytky lidí, k jich oknům</l>
+     <l n="2" met="1001001001" rhyme="1" line_length="10">přitisklo slunce svou zlatistou tvář,</l>
+     <l n="3" met="10010010010" line_length="11">aby si, umdleni, odnesli do snů</l>
+     <l n="4" met="1001001001" rhyme="1" line_length="10">úsměvnou jeho a tichoučkou zář.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010010010" rhyme="2" line_length="11">Loučíc se, odchází za štíty domů,</l>
+     <l n="6" met="10010010010" rhyme="2" line_length="11">polibky dotklo se vrcholků stromů,</l>
+     <l n="7" met="10010100010" rhyme="3" line_length="11">šumění jejich ve večerním vání</l>
+     <l n="8" met="10010011000" rhyme="3" line_length="11">pozdrav je na dobrou noc, na shledání.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

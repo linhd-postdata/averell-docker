@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Slova lásky psal jsem pro Vás</title>
+    <author>Nečas, Jan Evangelista</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nečas, Jan Evangelista_slova-lasky-psal-jsem-pro-vas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Slova lásky psal jsem pro Vás</title>
+     <author>Nečas, Jan Evangelista</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Slova lásky psal jsem pro Vás</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">Slova lásky psal jsem pro Vás </l>
+     <l n="2" met="1010101" rhyme="1" line_length="7">horká jako v srdci krev;</l>
+     <l n="3" met="10001000" line_length="8">do nadšení uváděl mne</l>
+     <l n="4" met="10001" rhyme="1" line_length="5">líbezný Váš zjev.</l>
+     <l n="5" met="10001010" line_length="8">Nestal jsem se mocným pánem</l>
+     <l n="6" met="100010" rhyme="2" line_length="6">pevniny a moří,</l>
+     <l n="7" met="10101010" line_length="8">mám jen srdce, které pro Vás</l>
+     <l n="8" met="1010" rhyme="2" line_length="4">láskou hoří!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

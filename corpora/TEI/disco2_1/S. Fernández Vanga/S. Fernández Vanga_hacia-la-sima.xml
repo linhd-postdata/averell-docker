@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hacia la sima</title>
+    <author>S. Fernández Vanga</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>S. Fernández Vanga_hacia-la-sima</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hacia la sima</title>
+     <author>S. Fernández Vanga</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hacia la sima</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++--+---+-">¡Treinta años!... Las nubes en el cielo</l>
+     <l n="2" met="-+-+-+---+-">se espesan más; los seres y las cosas</l>
+     <l n="3" met="+-++-+---+-">van tomando ese tinte de las rosas</l>
+     <l n="4" met="---+-+-+-+-">cuando, marchitas, las reclama el suelo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--++--+-">Cuanto diera placer, causa develo;</l>
+     <l n="6" met="-++--+---+-">y se han vuelto -por arte misteriosas-</l>
+     <l n="7" met="--+--+---+-">moscardones las áureas mariposas;</l>
+     <l n="8" met="+--+---+-+-">cardo la flor, y el entusiasmo, hielo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">Y el mundo sigue su correr, en tanto;</l>
+     <l n="10" met="-+-+---+-+-">ni amor, ni risa, ni dolor, ni llanto</l>
+     <l n="11" met="---+---+-+-">obstaculizan su fatal jornada.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+---+++-">¡Ay!... Si posible al corazón le fuera</l>
+     <l n="13" met="--+--+---+-">detener, en su espléndida carrera</l>
+     <l n="14" met="-+--++---+-">al Tiempo, que nos lleva hacia la Nada!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

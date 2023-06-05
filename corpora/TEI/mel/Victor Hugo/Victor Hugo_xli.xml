@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XLI</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">7</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_xli</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XLI</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XLI</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="6+6">Au fond du ciel serein, âmes supérieures,</l>
+     <l n="2" rhyme="a" line_length="6+6">Les astres vivent seuls ; quant aux âmes d'en bas,</l>
+     <l n="3" rhyme="a" line_length="6+6">Ces grands isolements ne leur conviennent pas.</l>
+     <l n="4" rhyme="b" line_length="6+6">Il leur faut l'air, la foule et les branches voisines,</l>
+     <l n="5" rhyme="b" line_length="6+6">Et le croisement souple et profond des racines,</l>
+     <l n="6" rhyme="c" line_length="6+6">Les réponses, les bruits, les yeux, les pas mouvants,</l>
+     <l n="7" rhyme="c" line_length="6+6">Et la rumeur des voix dans la rumeur des vents.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

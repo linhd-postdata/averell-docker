@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>En una conversación hicimos los dos el soneto siguiente, en cláusulas amabeas o alternadas.</title>
+    <author>Quevedo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quevedo_en-una-conversacion-hicimos-lo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>ADSO 100 poems corpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>En una conversación hicimos los dos el soneto siguiente, en cláusulas amabeas o alternadas.</title>
+     <author>Quevedo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>En una conversación hicimos los dos el soneto siguiente, en cláusulas amabeas o alternadas.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-++--+---+-">Cornudo eres, Fulano, hasta los codos,</l>
+     <l n="2" met="-+---+--++-">y puedes rastillar con las dos sienes;</l>
+     <l n="3" met="-+---+-+-+-">tan largos y tendidos cuernos tienes,</l>
+     <l n="4" met="--+--+--++-">que, si no los enfaldas, harás lodos.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+-+-+-">Tienes el talle tú que tienen todos,</l>
+     <l n="6" met="-+---+-+-+-">pues justo a los vestidos todos vienes;</l>
+     <l n="7" met="--+--+---+-">del sudor de tu frente te mantienes:</l>
+     <l n="8" met="+--+-+-+-+-">Dios lo mandó, mas no por tales modos.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+-+-+-+-">Taba es tu hacienda; pan y carne sacas</l>
+     <l n="10" met="-+---+---+-">del hueso que te sirve de cabello;</l>
+     <l n="11" met="-+-+---+-+-">marido en nombre, y en acción difunto,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">mas con palma o cabestro de las vacas:</l>
+     <l n="13" met="-+-+-+-+-+-">que al otro mundo te hacen ir doncello</l>
+     <l n="14" met="--++---+++-">los que no dejan tu mujer un punto.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

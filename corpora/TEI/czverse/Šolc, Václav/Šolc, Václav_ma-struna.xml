@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MÁ STRUNA.</title>
+    <author>Šolc, Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Šolc, Václav_ma-struna</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MÁ STRUNA.</title>
+     <author>Šolc, Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MÁ STRUNA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010100" rhyme="1" line_length="8">Z běd lidu strunu spletl jsem,</l>
+     <l n="2" met="01010001" rhyme="2" line_length="8">bych lidem k soustrasti zas hnul,</l>
+     <l n="3" met="01010100" rhyme="1" line_length="8">a mezi smrtí, životem</l>
+     <l n="4" met="10000100" rhyme="2" line_length="8">nad zemí jsem ji rozepnul.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10100101" line_length="8">A když zavane věku dech,</l>
+     <l n="6" met="10100101" rhyme="1" line_length="8">a dál dohání k cíli zem,</l>
+     <l n="7" met="01000100" line_length="8">tu rozhoupá se struna má</l>
+     <l n="8" met="01101100" rhyme="1" line_length="8">a zpěv její hřmí nad světem.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101" line_length="8">Až zvětří ale věku dech,</l>
+     <l n="10" met="01010101" rhyme="3" line_length="8">a svět se vzejmout bude chtít –</l>
+     <l n="11" met="01010100" line_length="8">tu struna má buď udeří –</l>
+     <l n="12" met="01010001" rhyme="3" line_length="8">buď praskne napnutím – a lid?!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

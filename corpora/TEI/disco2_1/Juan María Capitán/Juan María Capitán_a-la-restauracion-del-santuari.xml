@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A la restauración del Santuario de Regla</title>
+    <author>Juan María Capitán</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan María Capitán_a-la-restauracion-del-santuari</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A la restauración del Santuario de Regla</title>
+     <author>Juan María Capitán</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A la restauración del Santuario de Regla</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---+-">Vuelva a su templo el busto, que preciado</l>
+     <l n="2" met="--+-++---+-">en Hipona lo fue por Agustino,</l>
+     <l n="3" met="---+-+--++-">y a las orillas béticas nos vino</l>
+     <l n="4" met="-+---+---+-">de vándalos furores escapado.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+---+-">Aquí ofreció sus armas el soldado,</l>
+     <l n="6" met="-+---+---+-">su tabla en los naufragios el marino,</l>
+     <l n="7" met="-+---+---+-">sus conchas y bordón el peregrino,</l>
+     <l n="8" met="-+---+---+-">sus votos el cautivo, el desahuciado.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+-+-+-">No mas las aras rompa mano impía,</l>
+     <l n="10" met="+--+-+---+-">do la benigna estrella de los mares</l>
+     <l n="11" met="--+--+---+-">sobre montes de espuma se levanta:</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+---+-">Y este suelo, dichoso por María,</l>
+     <l n="13" met="---+-+---+-">entre los ricos dones populares</l>
+     <l n="14" met="+----+---+-">cante los de Isabel y de la Infanta.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

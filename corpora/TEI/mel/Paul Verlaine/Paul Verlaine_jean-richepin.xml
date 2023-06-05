@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JEAN RICHEPIN</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_jean-richepin</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JEAN RICHEPIN</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JEAN RICHEPIN</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="0" line_length="3">Ni d’un marchand de poudre de perlinpinpin</l>
+     <l n="2" rhyme="0" line_length="8">C’est le nom d’un bon bougre et d’un gentil copain.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="1" line_length="3">Au Bourgeois même il dit de sales vérités,</l>
+     <l n="4" rhyme="2" line_length="8">Ses marins à l’Opér’Com’ seraient peu cotés.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="3" line_length="3">Et c’est, à dire vrai, le plus pire animal.</l>
+    </lg>
+    <lg n="4">
+     <l n="6" rhyme="4" line_length="3">Il les aime de quel amour, noble et fougueux !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

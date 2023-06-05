@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Velikomyslnosť.</title>
+    <author>Wenzig, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Wenzig, Josef_velikomyslnost</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Velikomyslnosť.</title>
+     <author>Wenzig, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Velikomyslnosť.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010100" line_length="9">Těšíš mě tím, že je národ tvůj</l>
+     <l n="2" met="01000001" line_length="8">Co velikomyslný znám.</l>
+     <l n="3" met="010010100" rhyme="1" line_length="9">To věděl jsem dávno bez tebe:</l>
+     <l n="4" met="00010100" line_length="8">Vždyť jest až příliš veliký,</l>
+     <l n="5" met="01000100" rhyme="1" line_length="8">A myslí vždy jen na sebe.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

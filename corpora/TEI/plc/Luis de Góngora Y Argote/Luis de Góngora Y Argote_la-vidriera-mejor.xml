@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La vidrïera mejor</title>
+    <author>Luis de Góngora Y Argote</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">7</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Luis de Góngora Y Argote_la-vidriera-mejor</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Poesía Lírica Castellana Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La vidrïera mejor</title>
+     <author>Luis de Góngora Y Argote</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La vidrïera mejor</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="Madrigal">
+     <l n="1" met="--+--+-">La vidrïera mejor</l>
+     <l n="2" met="--+---+-">en sus brazos de cristal</l>
+     <l n="3" met="+-+--+-">entra al Sol hoy celestial</l>
+     <l n="4" met="---+--+-">en la capilla mayor;</l>
+     <l n="5" met="-----+-">a cuyo resplandor,</l>
+     <l n="6" met="--+-+-">sin que más luz espere,</l>
+     <l n="7" met="--+-+-+-+-">Simeón fénix arde y cisne muere.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

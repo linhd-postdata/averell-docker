@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La felicidad</title>
+    <author>Augusto Yanguas Alcayde</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Augusto Yanguas Alcayde_la-felicidad</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La felicidad</title>
+     <author>Augusto Yanguas Alcayde</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La felicidad</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="unknown">
+     <l n="1" met="+-+--+---+-">Me arrulló como madre cariñosa;</l>
+     <l n="2" met="+--+-+---+-">me acarició sencilla y complaciente;</l>
+     <l n="3" met="+--+-+---+-">y hasta sentí en los rizos de mi frente</l>
+     <l n="4" met="-+-+---+-+-">sus labios hechos de jazmín y rosas.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+---+-+-">De mi existencia en la mañana hermosa</l>
+     <l n="6" met="--+--+-+-+-">aspiramos los dos el mismo ambiente,</l>
+     <l n="7" met="+--+---+-+-">y ambos bebimos en la misma fuente</l>
+     <l n="8" met="---+-+---+-">de la inocencia el agua deleitosa.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">Mas una vez, en su amoroso exceso,</l>
+     <l n="10" met="-+-+---+-+-">corrió a mi cuna, la encontró vacía,</l>
+     <l n="11" met="-+-+-+---+-">lloró su amor perdido y su embeleso,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---++--+-+-">y al sorprenderla, por desdicha mía,</l>
+     <l n="13" met="++---+-+++-">ya casi avergonzada, me dio un beso,</l>
+     <l n="14" met="-+++-+--++-">y no la he vuelto a ver desde aquel día.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

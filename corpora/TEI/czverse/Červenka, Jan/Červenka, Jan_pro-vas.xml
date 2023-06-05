@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pro Vás!</title>
+    <author>Červenka, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červenka, Jan_pro-vas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pro Vás!</title>
+     <author>Červenka, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pro Vás!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101" line_length="6">Já pro Vás, paní má,</l>
+     <l n="2" met="010100" rhyme="1" line_length="6">bych všecko opustil,</l>
+     <l n="3" met="010101" line_length="6">vše, co kdy rád jsem měl,</l>
+     <l n="4" met="010101" rhyme="1" line_length="6">vše, proč jsem dosud žil.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101" line_length="6">A kdyby celý svět</l>
+     <l n="6" met="010100" rhyme="2" line_length="6">byl krasší tisíckrát,</l>
+     <l n="7" met="010101" line_length="6">já pro Vás, paní má,</l>
+     <l n="8" met="010001" rhyme="2" line_length="6">bych opustil ho rád!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010100" line_length="6">Jak rytíř z pohádky</l>
+     <l n="10" met="010101" rhyme="3" line_length="6">bych pro Vás na smrt šel,</l>
+     <l n="11" met="010100" line_length="6">ne bázní, – radostí</l>
+     <l n="12" met="010001" rhyme="3" line_length="6">a díkem bych se chvěl.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="010101" line_length="6">A kdyby celý svět</l>
+     <l n="14" met="010100" rhyme="4" line_length="6">mi navždy peklem byl,</l>
+     <l n="15" met="010101" line_length="6">i nebe, paní má,</l>
+     <l n="16" met="010100" rhyme="4" line_length="6">bych pro Vás opustil!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

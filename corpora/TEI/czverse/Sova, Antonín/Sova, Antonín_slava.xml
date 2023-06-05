@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SLÁVA.</title>
+    <author>Sova, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sova, Antonín_slava</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SLÁVA.</title>
+     <author>Sova, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SLÁVA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010101000" rhyme="1" line_length="13">Ta sláva a ten triumf těžce zasloužený,</l>
+     <l n="2" met="010100010101" rhyme="2" line_length="12">to mělké lichocení dosud v uších zní...</l>
+     <l n="3" met="1001010101010" rhyme="1" line_length="13">Nějaké kvítí v krok vám stlaly krásné ženy...</l>
+     <l n="4" met="010101010100" rhyme="2" line_length="12">Táh’ průvod kolem oken hlučný, groteskní...</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1000010101010" rhyme="3" line_length="13">Do výše byl jste vznesen... Hlasy davů řvaly,</l>
+     <l n="6" met="110101010101" rhyme="4" line_length="12">svět příliš v ostrých světlech zdvižen zdál se plát...</l>
+     <l n="7" met="1101000101000" rhyme="3" line_length="13">Sny něčí odlehlé se o vás obávaly...</l>
+     <l n="8" met="110000000101" rhyme="4" line_length="12">Druh zapomenutý to byl, jenž měl vás rád...</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0001010101010" rhyme="5" line_length="13">Vždy sám a ruku vrytou na šeď ostré brady,</l>
+     <l n="10" met="100101010101" rhyme="6" line_length="12">zdá se, že kdysi stejným trpět musil zlem...</l>
+     <l n="11" met="0100010001000" rhyme="5" line_length="13">Ať pochlebné vás neopustí maškarády</l>
+     <l n="12" met="1001000100" rhyme="6" line_length="10">na místě popraviště odlehlém...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

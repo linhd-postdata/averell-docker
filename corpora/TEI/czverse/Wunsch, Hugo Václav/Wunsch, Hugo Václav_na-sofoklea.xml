@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Na Sofoklea.</title>
+    <author>Wunsch, Hugo Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Wunsch, Hugo Václav_na-sofoklea</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Na Sofoklea.</title>
+     <author>Wunsch, Hugo Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Na Sofoklea.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100000100" line_length="10">Že „Elektra“ Tvá již se nehraje,</l>
+     <l n="2" met="010101010" rhyme="1" line_length="9">to přece zřejmo, čí to vina:</l>
+     <l n="3" met="01010100" line_length="8">vždyť přišla za ni na svět nám</l>
+     <l n="4" met="110101000" rhyme="1" line_length="9">hrát hlavní roli – elektřina.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

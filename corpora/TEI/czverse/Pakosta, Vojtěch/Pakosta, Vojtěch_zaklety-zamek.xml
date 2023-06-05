@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Zakletý zámek.</title>
+    <author>Pakosta, Vojtěch</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pakosta, Vojtěch_zaklety-zamek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Zakletý zámek.</title>
+     <author>Pakosta, Vojtěch</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Zakletý zámek.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100010" rhyme="1" line_length="11">Zas nový lístek v památník si kladu:</l>
+     <l n="2" met="1001010100" rhyme="2" line_length="10">Divokým vínem všecek obetkán,</l>
+     <l n="3" met="1001010100" rhyme="2" line_length="10">v zátiší lesa, ukryt za parkán,</l>
+     <l n="4" met="10010101010" rhyme="1" line_length="11">zámeček tichý jako ptáče v chladu.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000100010" rhyme="1" line_length="11">A v milodechém květinovém sadu,</l>
+     <l n="6" met="0100010100" rhyme="2" line_length="10">jenž cestičkami písku obetkán,</l>
+     <l n="7" met="1001010100" rhyme="2" line_length="10">šplounala voda tiše do fontan,</l>
+     <l n="8" met="01010101010" rhyme="1" line_length="11">a listí krylo lepých bohyň vnadu.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010100010" rhyme="3" line_length="11">V zakletí všecko. – Na basénu předním,</l>
+     <l n="10" met="11010101000" rhyme="3" line_length="11">tlum ryb se nehnul v horku odpoledním,</l>
+     <l n="11" met="01010101000" rhyme="4" line_length="11">i labuť zdřímla v stínu u šeříku.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="1001010101" rhyme="5" line_length="10">Jdu dál a myslím, zda to báj, neb sen...</l>
+     <l n="13" met="01000011000" rhyme="4" line_length="11">Leč těšil jsem se, že mám v památníku</l>
+     <l n="14" met="1001010100" rhyme="5" line_length="10">zakletých zámku obraz princezen.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

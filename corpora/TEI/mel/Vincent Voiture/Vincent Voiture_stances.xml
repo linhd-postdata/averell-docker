@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>STANCES</title>
+    <author>Vincent Voiture</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vincent Voiture_stances</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>STANCES</title>
+     <author>Vincent Voiture</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>STANCES</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Quand je me plaindrois nuit et jour</l>
+     <l n="2" rhyme="b" line_length="8">De la cruauté de mes peines,</l>
+     <l n="3" rhyme="b" line_length="8">Et quand du pur sang de mes veines</l>
+     <l n="4" rhyme="a" line_length="8">je vous escrirois mon amour :</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Si vous ne voyez, à l'instant,</l>
+     <l n="6" rhyme="b" line_length="8">Le bel objet qui l'a fait naistre,</l>
+     <l n="7" rhyme="b" line_length="8">Vous ne le pourrez reconnoistre,</l>
+     <l n="8" rhyme="a" line_length="8">Ni croire que je souffre tant.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">En vos yeux, mieux qu'en mes escris</l>
+     <l n="10" rhyme="b" line_length="8">Vous verrez l'ardeur de mon ame,</l>
+     <l n="11" rhyme="b" line_length="8">Et les rayons de cette flame</l>
+     <l n="12" rhyme="a" line_length="8">Dont pour vous je me trouve espris.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">Vos beautez vous le feront voir,</l>
+     <l n="14" rhyme="b" line_length="8">Bien mieux que je ne le puis dire :</l>
+     <l n="15" rhyme="b" line_length="8">Et vous ne le sçauriez bien lire,</l>
+     <l n="16" rhyme="a" line_length="8">Que dans la glace d'un miroir.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

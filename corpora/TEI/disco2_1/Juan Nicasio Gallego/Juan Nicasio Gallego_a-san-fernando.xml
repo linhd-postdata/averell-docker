@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A San Fernando</title>
+    <author>Juan Nicasio Gallego</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Nicasio Gallego_a-san-fernando</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A San Fernando</title>
+     <author>Juan Nicasio Gallego</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A San Fernando</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Desciende de las fúlgidas mansiones,</l>
+     <l n="2" met="-+---++--+-">ilustre leonés, santo guerrero;</l>
+     <l n="3" met="+-+--+-+-+-">muévate a compasión el trono ibero</l>
+     <l n="4" met="--+--+---+-">que en el Betis plantaron tus legiones.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++-+-+---+-">No tiene ya Corteses ni Colones</l>
+     <l n="6" met="-+---++--+-">que rindan a sus pies otro hemisferio:</l>
+     <l n="7" met="-+-+-+-+-+-">el que era envidia ayer del orbe entero</l>
+     <l n="8" met="-+++-+---+-">ludibrio es hoy de reyes y naciones.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+---+-">Mira a tu nieta, cándida, inocente,</l>
+     <l n="10" met="---+-+---+-">que en infantiles juegos divertida</l>
+     <l n="11" met="+--+---+-+-">ni aun el rumor de la borrasca siente.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+---+-+-">Guarda y protege su preciosa vida,</l>
+     <l n="13" met="+--+-+---+-">y esa corona trémula en su frente</l>
+     <l n="14" met="---+-+---+-">de mi contrarios vientos combatida.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

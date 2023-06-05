@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>POUR UN ALBUM</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_pour-un-album</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>POUR UN ALBUM</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>POUR UN ALBUM</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Je n’ai jamais été dans la Bretagne, mais</l>
+     <l n="2" rhyme="b" line_length="6+6">J’en rêve toutes nuits, et tout le jour j’y pense</l>
+     <l n="3" rhyme="a" line_length="6−6">Comme aux choses de mon enfance que j’aimais,</l>
+     <l n="4" rhyme="b" line_length="6−6">Tant qu’à la fin, et sous forme de récompense,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Je revois le clocher que je n’ai vu jamais.</l>
+     <l n="6" rhyme="b" line_length="6−6">Ô la Bretagne et ses clochers à jour, où danse,</l>
+     <l n="7" rhyme="a" line_length="6+6">À travers ce brouillard épais où je trimais,</l>
+     <l n="8" rhyme="b" line_length="6+6">La cloche pour bercer un peu ma vieille enfance!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6−6">Car j’ai rêvé que je trimais : bête et malin.</l>
+     <l n="10" rhyme="c" line_length="6+6">Tel, innocent, le long du parc de Josselin,</l>
+     <l n="11" rhyme="d" line_length="6+6">Un berger, contemplant la nuit long-étoilée,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Et, de plus, ignorant qu’Olivier de Clisson</l>
+     <l n="13" rhyme="d" line_length="6+6">Fut autrefois maître et seigneur de la vallée,</l>
+     <l n="14" rhyme="e" line_length="6+6">Rôde parmi les bois en sifflant la chanson.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

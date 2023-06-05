@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vlaštovinka.</title>
+    <author>Trnka, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Trnka, František_vlastovinka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vlaštovinka.</title>
+     <author>Trnka, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vlaštovinka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00100010" line_length="8">Kde jsi vlaštovinko byla?</l>
+     <l n="2" met="0010100" rhyme="1" line_length="7">Kde tak dlouho létala?</l>
+     <l n="3" met="10001010" line_length="8">O, jak jsem tě smutná holka</l>
+     <l n="4" met="1010000" rhyme="1" line_length="7">Pořád očekávala!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001000" line_length="8">„Zalítla jsem na stavení,</l>
+     <l n="6" met="0100100" rhyme="2" line_length="7">Kde milý tvůj bytuje;</l>
+     <l n="7" met="10001000" line_length="8">Žalostně jsem opěvala,</l>
+     <l n="8" met="0010100" rhyme="2" line_length="7">Co tvé srdce sužuje!“</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101000" line_length="8">Řekni, řekni vlaštovinko!</l>
+     <l n="10" met="0100010" rhyme="3" line_length="7">Co miláček můj pravil?</l>
+     <l n="11" met="10001010" line_length="8">Kéžby mne tvůj sladký hlásek</l>
+     <l n="12" met="1100100" rhyme="3" line_length="7">Zlých doměnek pozbavil.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101000" rhyme="4" line_length="8">„Vzdechna sobě hořekoval:</l>
+     <l n="14" met="1011001" rhyme="5" line_length="7">O, jak rád Bělinku mám!</l>
+     <l n="15" met="10001000" rhyme="4" line_length="8">Pro ni bych vše obětoval,</l>
+     <l n="16" met="1010100" rhyme="5" line_length="7">Pro ni chtěl bych umřít sám!“ –</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="00101000" line_length="8">Jak jsem šťastná, vlaštovinko!</l>
+     <l n="18" met="0010100" rhyme="6" line_length="7">Jak se v duchu raduji!</l>
+     <l n="19" met="11101010" line_length="8">Leť, ó leť a zapěj jemu:</l>
+     <l n="20" met="0010100" rhyme="6" line_length="7">Že ho věrně miluji!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

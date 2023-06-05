@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mravokárce.</title>
+    <author>Cajthaml-Liberté, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cajthaml-Liberté, František_mravokarce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mravokárce.</title>
+     <author>Cajthaml-Liberté, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mravokárce.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100000" line_length="10">„Volné lásce u socialistů</l>
+     <l n="2" met="100100010" rhyme="1" line_length="9">bude se převýborně dařit –“</l>
+     <l n="3" met="1011010100" line_length="10">kázal pan farář, a svou kuchařku</l>
+     <l n="4" met="100101010" rhyme="1" line_length="9">do Prahy poslal učit „vařit“.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

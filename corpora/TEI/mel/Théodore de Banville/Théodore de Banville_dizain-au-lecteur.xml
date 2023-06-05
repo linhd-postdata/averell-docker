@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dizain au lecteur</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_dizain-au-lecteur</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dizain au lecteur</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dizain au lecteur</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+6">Ami lecteur, donne-moi l'accolade,</l>
+     <l n="2" rhyme="b" line_length="4+6">Car j'ai pour toi besogné, Dieu merci.</l>
+     <l n="3" rhyme="a" line_length="4+6">Comme Villon qui polit sa Ballade</l>
+     <l n="4" rhyme="b" line_length="4+6">Au temps jadis, pour charmer ton souci</l>
+     <l n="5" rhyme="b" line_length="4+6">J'ai façonné la mienne, — la voici.</l>
+     <l n="6" rhyme="c" line_length="4+6">Je ne dis pas que les deux font la paire,</l>
+     <l n="7" rhyme="c" line_length="4+6">Et contenter tout son monde — son père</l>
+     <l n="8" rhyme="d" line_length="4+6">Est malaisé, chacun garde son rang !</l>
+     <l n="9" rhyme="c" line_length="4+6">Mais voire ! avec ces rimes, je l'espère,</l>
+     <l n="10" rhyme="d" line_length="4+6">Tu peux aussi te faire du bon sang.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

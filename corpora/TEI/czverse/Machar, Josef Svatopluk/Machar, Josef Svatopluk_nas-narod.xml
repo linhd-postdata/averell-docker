@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NÁŠ NÁROD</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_nas-narod</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NÁŠ NÁROD</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NÁŠ NÁROD</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" rhyme="1" line_length="9">Je možno svést jej, klamat, znavit,</l>
+     <l n="2" met="100101000" rhyme="1" line_length="9">pobláznit, zhlupit, přiotrávit –</l>
+     <l n="3" met="01010100" rhyme="2" line_length="8">leč promne oči zmámené</l>
+     <l n="4" met="01010110" rhyme="2" line_length="8">a zdráv zas křikne: Ne a ne!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

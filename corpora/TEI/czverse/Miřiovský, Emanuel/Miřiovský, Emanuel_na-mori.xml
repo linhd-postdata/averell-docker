@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Na moři.</title>
+    <author>Miřiovský, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Miřiovský, Emanuel_na-mori</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Na moři.</title>
+     <author>Miřiovský, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Na moři.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010100" line_length="8">Loď šplíchá mořem vesele,</l>
+     <l n="2" met="010101010" rhyme="1" line_length="9">se stěžně zvučí píseň plavce –</l>
+     <l n="3" met="01010100" rhyme="2" line_length="8">dnes umřel jeden v zoufání</l>
+     <l n="4" met="011001000" rhyme="1" line_length="9">a kvas vystrojen pro krkavce.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" rhyme="2" line_length="8">Kol lodi letí havrani</l>
+     <l n="6" met="010101000" rhyme="3" line_length="9">a klovou chutě do mrtvoly –</l>
+     <l n="7" met="10010100" line_length="8">vesele táhne loď zas dál –</l>
+     <l n="8" met="010101000" rhyme="3" line_length="9">a plavec v písni nepovolí!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

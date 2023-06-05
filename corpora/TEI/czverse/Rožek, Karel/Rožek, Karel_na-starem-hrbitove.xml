@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Na starém hřbitově.</title>
+    <author>Rožek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Rožek, Karel_na-starem-hrbitove</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Na starém hřbitově.</title>
+     <author>Rožek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Na starém hřbitově.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0110010100010" rhyme="1" line_length="13">Sem, v kout věčného spánku, zbloudila má noha.</l>
+     <l n="2" met="110100010100010" rhyme="2" line_length="15">Kol nízká, oprýskalá zeď, jež rozpadá jak hroby,</l>
+     <l n="3" met="0101000101010" rhyme="1" line_length="13">a kříže rezavé a na nich obraz Boha,</l>
+     <l n="4" met="010100010100010" rhyme="2" line_length="15">a sochy kamenné, jež s bohy pozvolna se drobí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11110010100010" rhyme="3" line_length="14">Žár dne v zem prahne a kosti pohozené bělí,</l>
+     <l n="6" met="010100010101010" rhyme="4" line_length="15">a mrtvá fadesa své údy klade v hřbitov líně.</l>
+     <l n="7" met="1100000101010" rhyme="3" line_length="13">Slz vyplakaných zde, však vyschlých, Smutek želí.</l>
+     <l n="8" met="010001010101010" rhyme="4" line_length="15">Vše zapoměno. Konec bolu, ctnosti jako vině.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010001000100010" rhyme="3" line_length="17">Lhostejnost na hrobech a lhostejnost v nich o všecko se dělí!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

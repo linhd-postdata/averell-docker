@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>umřel sen</title>
+    <author>Neumann, Stanislav Kostka</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neumann, Stanislav Kostka_umrel-sen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>umřel sen</title>
+     <author>Neumann, Stanislav Kostka</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>umřel sen</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101" rhyme="1" line_length="6">Když chlap je samý pláč, </l>
+     <l n="2" met="1010" line_length="4">strojte pohřeb.</l>
+     <l n="3" met="100001" rhyme="1" line_length="6">Nebude-li to spáč,</l>
+     <l n="4" met="101" rhyme="2" line_length="3">umřel sen.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010100" rhyme="2" line_length="6">Když chlap vám umře jen,</l>
+     <l n="6" met="1010" line_length="4">pokoj jemu;</l>
+     <l n="7" met="100001" rhyme="2" line_length="6">umře-li ti však sen,</l>
+     <l n="8" met="101" line_length="3">zbledne svět.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100101" line_length="6">V květinách leží spáč,</l>
+     <l n="10" met="1010" line_length="4">pokoj jemu.</l>
+     <l n="11" met="100101" rhyme="2" line_length="6">Zrazený bloudí sen,</l>
+     <l n="12" met="100100" rhyme="2" line_length="6">nepohřben, nepohřben,</l>
+     <l n="13" met="100" line_length="3">pustinou.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A la Virgen Santísima</title>
+    <author>Antonio Arnao</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Antonio Arnao_a-la-virgen-santisima</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A la Virgen Santísima</title>
+     <author>Antonio Arnao</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A la Virgen Santísima</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---+-">Madre inmortal, emblema de hermosura,</l>
+     <l n="2" met="-+-+---+-+-">amable faro al navegante incierto,</l>
+     <l n="3" met="+--+---+-+-">rico tesoro al corazón abierto,</l>
+     <l n="4" met="-+-+-+---+-">inmenso mar de angélica ternura.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">Alba que siempre celestial fulgura,</l>
+     <l n="6" met="+--+-+---+-">sol que en Edén transformas el desierto,</l>
+     <l n="7" met="-+++---+-+-">inspira a un labio, para el mundo muerto,</l>
+     <l n="8" met="+--+---+++-">nuevos cantares, oración más pura.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-++--+---+-">Por ti suenan los cielos vencedores:</l>
+     <l n="10" met="-+-+---+-+-">En ti su amparo el universo fía:</l>
+     <l n="11" met="+--+++---+-">¿cómo invocarte, amor de los amores?</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+++-+-+-+-">Aquí me tienes: mueve el arpa mía:</l>
+     <l n="13" met="++-+-+---+-">dale que siempre vibre en tus loores,</l>
+     <l n="14" met="--+--++--+-">o enmudezca si en ti no se gloría.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

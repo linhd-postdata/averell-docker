@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jablíčka.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_jablicka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jablíčka.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jablíčka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" line_length="8">Jablíčka zrajou na stromech,</l>
+     <l n="2" met="1001010" rhyme="1" line_length="7">slunéčko do nich pálí –</l>
+     <l n="3" met="01010100" line_length="8">až jedno spadne, chytnu je,</l>
+     <l n="4" met="1001000" rhyme="1" line_length="7">nežli se zakutálí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10100100" line_length="8">Spadlo jablíčko červené,</l>
+     <l n="6" met="1010010" rhyme="2" line_length="7">jedno, druhé a třetí,</l>
+     <l n="7" met="10010100" line_length="8">všecky jsem chytla, jako když</l>
+     <l n="8" met="10010010" rhyme="2" line_length="8">kocourek za myškou letí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" line_length="8">To jedno sobě uschovám:</l>
+     <l n="10" met="10010010" rhyme="3" line_length="8">hladu se nemusím báti!</l>
+     <l n="11" met="10010100" line_length="8">s jablíčkem druhým bratříček</l>
+     <l n="12" met="10010010" rhyme="3" line_length="8">v kolébce bude si hráti.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="010100100" line_length="9">A třetí? – S bleďoučkým děťátkem</l>
+     <l n="14" met="01010010" rhyme="4" line_length="8">k nám bledá chodívá žena:</l>
+     <l n="15" met="100100100" line_length="9">dám-li mu jablíčko, snad se též</l>
+     <l n="16" met="1001000" rhyme="4" line_length="7">robátko začervená.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

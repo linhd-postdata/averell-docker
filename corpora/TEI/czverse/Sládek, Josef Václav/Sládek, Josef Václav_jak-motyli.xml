@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jak motýli. </title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_jak-motyli</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jak motýli. </title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jak motýli. </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" rhyme="1" line_length="11">Jsme jako mouchy, jako motýl denní,</l>
+     <l n="2" met="01010001010" rhyme="2" line_length="11">jenž na mžik zatřepotá křídly z nachu,</l>
+     <l n="3" met="10000101010" rhyme="2" line_length="11">a vše, s co jsme, se skončí v hrstce prachu,</l>
+     <l n="4" met="01010101000" rhyme="1" line_length="11">náš smích i vzlet i naše utrpení. –</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101010" rhyme="3" line_length="11">Jest pravdou, jak to v písmě stojí psáno:</l>
+     <l n="6" met="01010001010" rhyme="4" line_length="11">jsme mouchy, motýli, – snad ještě méně –</l>
+     <l n="7" met="11010101000" rhyme="4" line_length="11">a i ten stesk náš dozní neslyšeně,</l>
+     <l n="8" met="01000011000" rhyme="3" line_length="11">když nejlepší co v nás, – v prach zašlapáno.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000100010" rhyme="5" line_length="11">Leč po křídlech když sáhají ti dravě</l>
+     <l n="10" met="01000101010" rhyme="6" line_length="11">a otravují žití květnou číši, –</l>
+     <l n="11" met="01001001010" rhyme="6" line_length="11">buď, příteli, motýlům ještě bližší,</l>
+     <l n="12" met="01000110010" rhyme="5" line_length="11">– i aspoň ten svůj den prolétni smavě.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

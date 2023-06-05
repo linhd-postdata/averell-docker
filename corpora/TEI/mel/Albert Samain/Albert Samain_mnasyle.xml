@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MNASYLE</title>
+    <author>Albert Samain</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">11</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Albert Samain_mnasyle</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MNASYLE</title>
+     <author>Albert Samain</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MNASYLE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Le troupeau maigre épars aux roches du rivage</l>
+     <l n="2" rhyme="a" line_length="6+6">Broute le noir genièvre et la menthe sauvage…</l>
+     <l n="3" rhyme="b" line_length="6+6">Au large la mer luit comme un métal ardent.</l>
+     <l n="4" rhyme="b" line_length="6+6">Soudain le bouc lascif se dresse et, titubant,</l>
+     <l n="5" rhyme="a" line_length="6+6">Sur la chèvre efflanquée à l’échiné rugueuse</l>
+     <l n="6" rhyme="a" line_length="6+6">Satisfait au soleil sa luxure fougueuse.</l>
+     <l n="7" rhyme="b" line_length="6+6">Et Mnasyle, l’éphèbe en fleur de Scyoné,</l>
+     <l n="8" rhyme="b" line_length="6+6">Aussi beau qu’une vierge et d’iris couronné,</l>
+     <l n="9" rhyme="a" line_length="6+6">De ses longs yeux d’or noir le regarde étonné ;</l>
+     <l n="10" rhyme="a" line_length="6+6">Et, pris de langueur vague en l’exil de la grève,</l>
+     <l n="11" rhyme="a" line_length="6+6">Laisse flotter sa main sur sa chair nue, et rêve…</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

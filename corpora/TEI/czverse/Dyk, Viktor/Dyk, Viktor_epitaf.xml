@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>EPITAF</title>
+    <author>Dyk, Viktor</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dyk, Viktor_epitaf</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>EPITAF</title>
+     <author>Dyk, Viktor</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>EPITAF</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100010" rhyme="1" line_length="11">Epitaf ještě, epitaf, jenž značí</l>
+     <l n="2" met="1001010100" rhyme="2" line_length="10">úlevu v světě, radost pro všecky.</l>
+     <l n="3" met="10010101010" rhyme="1" line_length="11">Vesele poutník mimo hrob ten kráčí:</l>
+     <l n="4" met="0100010100" rhyme="2" line_length="10">Zde odpočívá Pámbu německý!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

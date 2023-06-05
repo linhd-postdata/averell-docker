@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jen v lásce!</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_jen-v-lasce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jen v lásce!</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jen v lásce!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1011010010" rhyme="1" line_length="10">Staré sny vidím v krůpějích trávy,</l>
+     <l n="2" met="10100010" rhyme="2" line_length="8">písně na květoucí sněti;</l>
+     <l n="3" met="1001001010" rhyme="1" line_length="10">s květy, jenž spějí kol mojí hlavy,</l>
+     <l n="4" met="10010010" rhyme="2" line_length="8">v dálku mé myšlenky letí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1011010010" rhyme="3" line_length="10">Radost čtu v lesklém bystřice toku,</l>
+     <l n="6" met="01010010" rhyme="4" line_length="8">když do tmy olšin se ztrácí,</l>
+     <l n="7" met="0101010010" rhyme="3" line_length="10">i v plaché laně důvěrném oku,</l>
+     <l n="8" met="01010010" rhyme="4" line_length="8">jež z toulky noční se vrací.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1001001010" rhyme="5" line_length="10">V doupnáka písni, jež se skal volá,</l>
+     <l n="10" met="11010010" rhyme="6" line_length="8">v sny dětství zalétám s chvatem,</l>
+     <l n="11" met="1101110010" rhyme="5" line_length="10">tmu lesa rád mám, na vodě kola,</l>
+     <l n="12" met="01010010" rhyme="6" line_length="8">i západ hořící zlatem;</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="0101001010" rhyme="7" line_length="10">jak ale v snění Tvé jméno, drahá,</l>
+     <l n="14" met="10010010" rhyme="8" line_length="8">náhle mi zachvěje rtoma,</l>
+     <l n="15" met="0011010010" rhyme="7" line_length="10">hned se duch vrací k pramenu blaha,</l>
+     <l n="16" met="11010010" rhyme="8" line_length="8">ví, že jest v lásce jen doma!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

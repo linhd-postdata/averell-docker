@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PORTRAIT ACADÉMIQUE</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_portrait-academique</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PORTRAIT ACADÉMIQUE</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PORTRAIT ACADÉMIQUE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="5+6">FLEUR de cuistrerie et de méchanceté</l>
+     <l n="2" rhyme="a" line_length="5+6">Au parfum de lucre et de servilité,</l>
+     <l n="3" rhyme="b" line_length="5+6">Et poussée en plein terrain d’hypocrisie,</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="b" line_length="5+6">Cet individu fait de la poésie</l>
+     <l n="5" rhyme="a" line_length="5+6">(Qu’il émet d’ailleurs sous un faux nom « pompeux »</l>
+     <l n="6" rhyme="a" line_length="5+8">Comme dit Molière à propos d’un fossé bourbeux*)</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="b" line_length="11">Sous l’empire il émargea tout comme un autre,</l>
+     <l n="8" rhyme="b" line_length="6+5">Mais en catimini, car le bon apôtre</l>
+     <l n="9" rhyme="a" line_length="5+8">Se donnait des airs de farouche républicain :</l>
+    </lg>
+    <lg n="4">
+     <l n="10" rhyme="a" line_length="11">Depuis il a retourné son casaquin</l>
+     <l n="11" rhyme="b" line_length="5+6">Et le voici plus et moins qu’opportuniste.</l>
+    </lg>
+    <lg n="5">
+     <l n="12" rhyme="b" line_length="5+6">Mais de ses hauts faits j’arrête ici la liste</l>
+     <l n="13" rhyme="a" line_length="11">Dont Vadius et Trissotin seraient jaloux.</l>
+    </lg>
+    <lg n="6">
+     <l n="14" rhyme="a" line_length="5+6">Pour conclure, un chien couchant aux airs de loups.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

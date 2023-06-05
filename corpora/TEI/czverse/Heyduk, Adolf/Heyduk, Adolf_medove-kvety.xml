@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MEDOVÉ KVĚTY.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_medove-kvety</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MEDOVÉ KVĚTY.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MEDOVÉ KVĚTY.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010100" rhyme="1" line_length="9">Jara úsměv hruď mi rozežeh,</l>
+     <l n="2" met="100010001" rhyme="1" line_length="9">myšlenky mé na tvých jsou dnes rtech,</l>
+     <l n="3" met="1010101010" rhyme="2" line_length="10">sladký med z jich květů vyssát chtěly</l>
+     <l n="4" met="1010101000" rhyme="2" line_length="10">jako včely rudém na jeteli.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0010101010" rhyme="3" line_length="10">Když je k tobě snesla lásky vlna,</l>
+     <l n="6" met="1000101010" rhyme="3" line_length="10">poznaly, žes sladkých květů plna,</l>
+     <l n="7" met="0110001010" rhyme="4" line_length="10">že skvost přelíbezný nad med chová</l>
+     <l n="8" met="1000101000" rhyme="4" line_length="10">ústa tvá i líčka malinová</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

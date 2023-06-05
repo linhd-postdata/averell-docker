@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kovářovic Andula.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_kovarovic-andula</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kovářovic Andula.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kovářovic Andula.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000100" line_length="7">Kovářovic Andula,</l>
+     <l n="2" met="001110" rhyme="1" line_length="6">– ať nás pán Bůh chrání! –</l>
+     <l n="3" met="0010100" line_length="7">to je holka stvořená</l>
+     <l n="4" met="101000" rhyme="1" line_length="6">zrovna k čarování.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010100" line_length="7">Vlasy hrubé, havraní,</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">z očí jenom srší,</l>
+     <l n="7" met="1010100" line_length="7">jako jiskry tátovi</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">s kovadliny prší.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010100" line_length="7">A jak táta perlíkem</l>
+     <l n="10" met="100010" rhyme="3" line_length="6">do železa buší,</l>
+     <l n="11" met="1010100" line_length="7">hochům buší Andula</l>
+     <l n="12" met="100010" rhyme="3" line_length="6">do srdcí a duší.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1000100" line_length="7">Kovářovic Andula</l>
+     <l n="14" met="001010" rhyme="4" line_length="6">ta by byla pro mě, –</l>
+     <l n="15" met="0010100" line_length="7">to by láskou lítaly</l>
+     <l n="16" met="101010" rhyme="4" line_length="6">jiskry v celém domě!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

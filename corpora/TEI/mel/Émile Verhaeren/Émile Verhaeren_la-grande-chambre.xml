@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LA GRANDE CHAMBRE</title>
+    <author>Émile Verhaeren</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Émile Verhaeren_la-grande-chambre</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LA GRANDE CHAMBRE</title>
+     <author>Émile Verhaeren</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LA GRANDE CHAMBRE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Et voici quelle était la chambre hospitalière</l>
+     <l n="2" rhyme="b" line_length="6+6">Où l'étranger trouvait bon gîte et réconfort,</l>
+     <l n="3" rhyme="b" line_length="6+6">Où les fils étaient nés, où l'aïeul était mort,</l>
+     <l n="4" rhyme="a" line_length="6+6">Où l'on avait tassé ce grand corps dans sa bière.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="b" line_length="6+6">Aux kermesses, aux jours de foire et de décor,</l>
+     <l n="6" rhyme="a" line_length="6+6">La ferme y célébrait la fête coutumière,</l>
+     <l n="7" rhyme="a" line_length="6+6">Et jadis, quand vivait encore la fermière,</l>
+     <l n="8" rhyme="b" line_length="6+6">Elle y trônait, au centre, avec ses pendants d'or.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Les murs étaient crépis ; deux massives armoires</l>
+     <l n="10" rhyme="c" line_length="6+6">Étalaient dans les coins leur bois zébré de moires ;</l>
+     <l n="11" rhyme="d" line_length="6+6">Au fond, un christ en plâtre expirait sous un dais,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Le front troué, les yeux ouverts sur les ivresses ;</l>
+     <l n="13" rhyme="e" line_length="6+6">Et le parfum des lards et la senteur des graisses</l>
+     <l n="14" rhyme="d" line_length="6+6">Montaient vers son cœur nu, comme un encens mauvais.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

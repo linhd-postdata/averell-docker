@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V bílém dvoře.</title>
+    <author>Crha, Václav Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Crha, Václav Antonín_v-bilem-dvore</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V bílém dvoře.</title>
+     <author>Crha, Václav Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V bílém dvoře.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101000" line_length="8">Když má hvězda zapadala</l>
+     <l n="2" met="010010" rhyme="1" line_length="6">tam za modrou horu,</l>
+     <l n="3" met="10001010" line_length="8">chodíval jsem k tobě děvče</l>
+     <l n="4" met="100010" rhyme="1" line_length="6">do bílého dvoru.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" line_length="8">Do bílého dvoru cesta,</l>
+     <l n="6" met="101100" rhyme="2" line_length="6">jdou tam dvě cestičky,</l>
+     <l n="7" met="10001010" line_length="8">střílíval tam také jiný</l>
+     <l n="8" met="101000" rhyme="2" line_length="6">bílé holubičky.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001010" line_length="8">Nepůjdu víc, děvče, k Tobě,</l>
+     <l n="10" met="001000" rhyme="3" line_length="6">bych vše nepostřílel,</l>
+     <l n="11" met="10001000" line_length="8">holoubka i holubičku,</l>
+     <l n="12" met="100010" rhyme="3" line_length="6">pro kterou bych kvílel.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

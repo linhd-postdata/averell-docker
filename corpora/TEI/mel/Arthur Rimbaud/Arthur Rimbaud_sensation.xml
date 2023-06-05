@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sensation</title>
+    <author>Arthur Rimbaud</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Arthur Rimbaud_sensation</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sensation</title>
+     <author>Arthur Rimbaud</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sensation</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Par les soirs bleus d’été, j’irai dans les sentiers,</l>
+     <l n="2" rhyme="b" line_length="6+6">Picoté par les blés, fouler l’herbe menue :</l>
+     <l n="3" rhyme="a" line_length="6+6">Rêveur, j’en sentirai la fraîcheur à mes pieds.</l>
+     <l n="4" rhyme="b" line_length="6+6">Je laisserai le vent baigner ma tête nue !</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Je ne parlerai pas, je ne penserai rien :</l>
+     <l n="6" rhyme="b" line_length="6+6">Mais l’amour infini me montera dans l’âme,</l>
+     <l n="7" rhyme="a" line_length="6+6">Et j’irai loin, bien loin, comme un bohémien</l>
+     <l n="8" rhyme="b" line_length="6+6">Par la Nature, — heureux comme avec une femme.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vidím táhnout...</title>
+    <author>Nečas, Jan Evangelista</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nečas, Jan Evangelista_vidim-tahnout</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vidím táhnout...</title>
+     <author>Nečas, Jan Evangelista</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vidím táhnout...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" line_length="8">Vidím táhnout nad bojiště</l>
+     <l n="2" met="1010100" rhyme="1" line_length="7">černý mrak jak obludu,</l>
+     <l n="3" met="10001010" line_length="8">na hrabivé, dlouhé ruce</l>
+     <l n="4" met="1001100" rhyme="1" line_length="7">hrozivou pěst osudu.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101001" line_length="8">Bit se budou armády dvě</l>
+     <l n="6" met="1000100" rhyme="2" line_length="7">v hrůzostrašném závodě –</l>
+     <l n="7" met="10001010" line_length="8">Vítězství se skloní štědře</l>
+     <l n="8" met="1010100" rhyme="2" line_length="7">k síle, lsti neb náhodě.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101000" line_length="8">Vidím táhnout nad bojištěm</l>
+     <l n="10" met="1010100" rhyme="1" line_length="7">černý mrak jak obludu –</l>
+     <l n="11" met="10101010" line_length="8">Koho srazí, zničí, zkazí</l>
+     <l n="12" met="1001100" rhyme="1" line_length="7">obrovská pěst osudu?!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

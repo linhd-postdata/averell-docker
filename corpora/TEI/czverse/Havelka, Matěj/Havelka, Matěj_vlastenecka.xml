@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vlastenecká.</title>
+    <author>Havelka, Matěj</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Havelka, Matěj_vlastenecka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vlastenecká.</title>
+     <author>Havelka, Matěj</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vlastenecká.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00100010" line_length="8">Hned jak za outlého věku</l>
+     <l n="2" met="1001000" rhyme="1" line_length="7">Matka mne kolíbala</l>
+     <l n="3" met="10101010" line_length="8">A ty sladké zvuky české</l>
+     <l n="4" met="0100100" rhyme="1" line_length="7">Mně kochavě vlíbala:</l>
+     <l n="5" met="0100010010" rhyme="2" line_length="10">Již plápolalo srdce mé pro vlasť;</l>
+     <l n="6" met="0100100100" rhyme="2" line_length="10">Vždyť cítilo českého zvuku slasť.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="00101000" line_length="8">Když pak jinoch pružnověký</l>
+     <l n="8" met="1001000" rhyme="3" line_length="7">Seznal jsem ušlechtilosť</l>
+     <l n="9" met="10100100" line_length="8">Českých panen a jedné jsem</l>
+     <l n="10" met="0100100" rhyme="3" line_length="7">Si zakochal spanilosť:</l>
+     <l n="11" met="0100010010" rhyme="2" line_length="10">Tu plápolalo srdce mé pro vlasť,</l>
+     <l n="12" met="0101001000" rhyme="2" line_length="10">Vždyť znalo českého polibku slasť.</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="10101010" line_length="8">Tebe tedy, vlasti drahá,</l>
+     <l n="14" met="1010001" rhyme="4" line_length="7">Budu milovat a ctít,</l>
+     <l n="15" met="10001000" line_length="8">Dokavad mi nepřestane</l>
+     <l n="16" met="1000101" rhyme="4" line_length="7">Pod žebrami srdce bít,</l>
+     <l n="17" met="0100010100" rhyme="2" line_length="10">A poslední mé slovo bude: Vlasť!</l>
+     <l n="18" met="0101010100" rhyme="2" line_length="10">Vždyť, vlasti milá, ty jsi moje slasť!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

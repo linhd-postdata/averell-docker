@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El encuentro</title>
+    <author>Alfredo Cazabán y Laguna</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfredo Cazabán y Laguna_el-encuentro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El encuentro</title>
+     <author>Alfredo Cazabán y Laguna</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El encuentro</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Despunta el alba del postrero día...</l>
+     <l n="2" met="+--+---+-+-">Lleno de angustia, con dolor pasea</l>
+     <l n="3" met="-----++--+-">la Cruz del Redentor; grita, vocea</l>
+     <l n="4" met="-+-+---+-+-">con sed de sangre la canalla impía.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-++--+---+-">A aquel cuadro de horror y de agonía</l>
+     <l n="6" met="-++--+-+-+-">que alumbra un centurión de roja tea,</l>
+     <l n="7" met="-+-+--+--+-">flotante el mando que en aire ondea,</l>
+     <l n="8" met="+----++--+-">víctima del dolor, llega María.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+--+-+-">Ambos se ven. Antes filiales lazos</l>
+     <l n="10" met="+++--+---+-">ya no hieren a Cristo los abrojos,</l>
+     <l n="11" met="-+++---+-+-">ni ya le abruma de la cruz el peso.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">Y forman fuerte nudo con sus brazos,</l>
+     <l n="13" met="--++-+---+-">y al mirarse con lágrimas sus ojos</l>
+     <l n="14" met="-++--+--++-">sus dos almas se funden en un beso.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

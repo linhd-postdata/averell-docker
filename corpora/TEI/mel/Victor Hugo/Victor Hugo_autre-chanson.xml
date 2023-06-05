@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>AUTRE CHANSON</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_autre-chanson</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>AUTRE CHANSON</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>AUTRE CHANSON</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">L'aube naît et ta porte est close !</l>
+     <l n="2" rhyme="b" line_length="8">Ma belle, pourquoi sommeiller ?</l>
+     <l n="3" rhyme="a" line_length="8">A l'heure où s'éveille la rose</l>
+     <l n="4" rhyme="b" line_length="8">Ne vas-tu pas te réveiller ?</l>
+    </lg>
+    <lg n="2" />
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="8">Tout frappe à ta porte bénie ;</l>
+     <l n="6" rhyme="b" line_length="8">L'aurore dit : Je suis le jour !</l>
+     <l n="7" rhyme="a" line_length="8">L'oiseau dit : Je suis l'harmonie !</l>
+     <l n="8" rhyme="b" line_length="8">Et mon cœur dit : Je suis l'amour!</l>
+    </lg>
+    <lg n="4" />
+    <lg n="5">
+     <l n="9" rhyme="a" line_length="8">Je t'adore ange et t'aime femme.</l>
+     <l n="10" rhyme="b" line_length="8">Dieu qui par toi m'a complété</l>
+     <l n="11" rhyme="a" line_length="8">A fait mon amour pour ton âme</l>
+     <l n="12" rhyme="b" line_length="8">Et mon regard pour ta beauté !</l>
+    </lg>
+    <lg n="6" />
+   </lg>
+  </body>
+ </text>
+</TEI>

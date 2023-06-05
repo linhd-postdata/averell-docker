@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LE CÉLIBATAIRE</title>
+    <author>Pierre-Jean de Béranger</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pierre-Jean de Béranger_le-celibataire</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LE CÉLIBATAIRE</title>
+     <author>Pierre-Jean de Béranger</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LE CÉLIBATAIRE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Du célibat fidèle appui,</l>
+     <l n="2" rhyme="b" line_length="6">L'amour essuyer aujourd'hui</l>
+     <l n="3" rhyme="a" line_length="8">Ne peut chanter des nœuds si doux :</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="a" line_length="8">Monsieur prend femme, c'est fort bien,</l>
+     <l n="5" rhyme="b" line_length="6">Mais, comptant ses amis pour rien,</l>
+     <l n="6" rhyme="a" line_length="8">Ne peut chanter des nœuds si doux :</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="a" line_length="8">Morbleu ! Qui n'aurait de l'humeur</l>
+     <l n="8" rhyme="b" line_length="6">De monsieur fera le bonheur,</l>
+     <l n="9" rhyme="a" line_length="8">Ne peut chanter des nœuds si doux :</l>
+    </lg>
+    <lg n="4">
+     <l n="10" rhyme="a" line_length="8">Encor si l'amour avait pris</l>
+     <l n="11" rhyme="b" line_length="6">Mais le plus heureux des maris,</l>
+     <l n="12" rhyme="a" line_length="8">Ne peut chanter des nœuds si doux :</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

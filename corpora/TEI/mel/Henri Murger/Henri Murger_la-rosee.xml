@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LA ROSÉE</title>
+    <author>Henri Murger</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Henri Murger_la-rosee</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LA ROSÉE</title>
+     <author>Henri Murger</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LA ROSÉE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Le sylphe matinal qui verse la rosée,</l>
+     <l n="2" rhyme="b" line_length="6+6">Trop amoureux du lîs, oublia ce matin</l>
+     <l n="3" rhyme="a" line_length="6+6">De baigner l'humble fleur demi-morte et brisée</l>
+     <l n="4" rhyme="b" line_length="6+6">Qu'une larme du ciel ranimerait soudain.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Comme fait un amant avec sa fiancée,</l>
+     <l n="6" rhyme="b" line_length="6+6">À quelque muse triste ayant donné la main,</l>
+     <l n="7" rhyme="a" line_length="6+6">Cherchant l'ombre et la paix, pied lent, tête baissée,</l>
+     <l n="8" rhyme="b" line_length="6+6">Un poëte le soir traversa le chemin.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Soit amour mal éteint, soit douleur mal fermée,</l>
+     <l n="10" rhyme="c" line_length="6+6">Il pleurait en marchant sous l'ombreuse ramée ;</l>
+     <l n="11" rhyme="d" line_length="6+6">Une larme tomba de ses yeux sur la fleur,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Sur la fleur demi-morte au pied du lis superbe,</l>
+     <l n="13" rhyme="e" line_length="6+6">Et qui reprit bientôt, parmi ses sœurs de l'herbe</l>
+     <l n="14" rhyme="d" line_length="6+6">Son arome champêtre et ses vives couleurs.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

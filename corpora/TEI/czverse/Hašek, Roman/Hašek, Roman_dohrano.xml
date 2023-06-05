@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>DOHRÁNO.</title>
+    <author>Hašek, Roman</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hašek, Roman_dohrano</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>DOHRÁNO.</title>
+     <author>Hašek, Roman</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>DOHRÁNO.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100" rhyme="1" line_length="8">Je komedie dohrána. –</l>
+     <l n="2" met="01001100" rhyme="1" line_length="8">Teď přemýšlet lze do rána,</l>
+     <l n="3" met="10000101" rhyme="2" line_length="8">uvolnit vše, co plakat chce,</l>
+     <l n="4" met="01010100" rhyme="2" line_length="8">a sčítat smutné billance.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000100" rhyme="3" line_length="8">Je po divadle, a co víc?</l>
+     <l n="6" met="01000100" rhyme="3" line_length="8">Já neřek’ vše, co chtěl jsem říc! –</l>
+     <l n="7" met="10010101" rhyme="4" line_length="8">Autora chyba! Špatný um! –</l>
+     <l n="8" met="00010100" rhyme="4" line_length="8">Jen když se smálo publikum!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000101" rhyme="5" line_length="8">A odměna? – Ten dobrý smích</l>
+     <l n="10" met="10010100" rhyme="5" line_length="8">rozhřátých očí veselých,</l>
+     <l n="11" met="01010100" rhyme="6" line_length="8">leč nejvíc jedněch očí snad –</l>
+     <l n="12" met="01010101" rhyme="6" line_length="8">těch, jež jsem mohl mít kdys rád!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01010100" rhyme="7" line_length="8">A lampa tiše zhasíná...</l>
+     <l n="14" met="01010100" rhyme="7" line_length="8">Kdos bdí tu, který vzpomíná:</l>
+     <l n="15" met="11010100" rhyme="6" line_length="8">má duše... lká tu v tichu snad</l>
+     <l n="16" met="10010101" rhyme="6" line_length="8">po všech, jež měl jsem kdysi rád...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

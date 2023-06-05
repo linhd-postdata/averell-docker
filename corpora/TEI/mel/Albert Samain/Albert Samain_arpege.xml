@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ARPÈGE</title>
+    <author>Albert Samain</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Albert Samain_arpege</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ARPÈGE</title>
+     <author>Albert Samain</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ARPÈGE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">L'âme d'une flûte soupire</l>
+     <l n="2" rhyme="b" line_length="8">Au fond du pare mélodieux ;</l>
+     <l n="3" rhyme="a" line_length="8">Limpide est l'ombre où l'on respire</l>
+     <l n="4" rhyme="b" line_length="8">Ton poème silencieux,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Nuit de langueur, nuit de mensonge,</l>
+     <l n="6" rhyme="b" line_length="8">Qui poses d'un geste ondoyant</l>
+     <l n="7" rhyme="a" line_length="8">Dans ta chevelure de songe</l>
+     <l n="8" rhyme="b" line_length="8">La lune, bijou d'Orient.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Sylva, Sylvie et Sylvanire,</l>
+     <l n="10" rhyme="b" line_length="8">Belles au regard bleu changeant,</l>
+     <l n="11" rhyme="a" line_length="8">L'étoile aux fontaines se mire,</l>
+     <l n="12" rhyme="b" line_length="8">Allez par les sentiers d'argent,</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">Allez vite — l'heure est si brève !</l>
+     <l n="14" rhyme="b" line_length="8">Cueillir au jardin des aveux</l>
+     <l n="15" rhyme="a" line_length="8">Les cœurs qui se meurent du rêve</l>
+     <l n="16" rhyme="b" line_length="8">De mourir parmi vos cheveux…</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

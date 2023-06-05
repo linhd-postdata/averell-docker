@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V POLI</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_v-poli</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V POLI</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V POLI</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010010" rhyme="1" line_length="6">Je mrtev. – A siný.</l>
+     <l n="2" met="110010010010" rhyme="1" line_length="12">Sta tisíců vedle. A jiný a jiný.</l>
+     <l n="3" met="010010110" rhyme="2" line_length="9">A každý jen masa tříšť, kostí,</l>
+     <l n="4" met="01001000" rhyme="3" line_length="8">tak člověku nepodoben</l>
+     <l n="5" met="01000" rhyme="3" line_length="5">a nepohroben,</l>
+     <l n="6" met="0100101000" rhyme="2" line_length="10">jak v křečích se válel v zoufalosti</l>
+     <l n="7" met="10" rhyme="4" line_length="2">a tuh’ – –</l>
+     <l n="8" met="01011001" rhyme="4" line_length="8">Kdo bude mstít krvavý dluh?!</l>
+    </lg>
+    <lg n="2">
+     <l n="9" met="010010" rhyme="5" line_length="6">A cosi v té líci,</l>
+     <l n="10" met="110010010010" rhyme="5" line_length="12">stín úsměvu jako by vytékal snící</l>
+     <l n="11" met="100010010" rhyme="6" line_length="9">zpod zamčených očí mu zřídla.</l>
+     <l n="12" met="11001000" rhyme="7" line_length="8">Kříž na srdce mroucí mu kles’,</l>
+     <l n="13" met="01000" rhyme="7" line_length="5">než ke rtům jej vznes’.</l>
+     <l n="14" met="010010010" rhyme="6" line_length="9">S tou vírou mu ruka už stydla</l>
+     <l n="15" met="10" rhyme="8" line_length="2">a ztuh’,</l>
+     <l n="16" met="01001001" rhyme="8" line_length="8">kdo mstitelem bude. Sám Bůh! – –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

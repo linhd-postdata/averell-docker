@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Juan de Castellanos</title>
+    <author>Lázaro Luis Iranzo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lázaro Luis Iranzo_a-juan-de-castellanos</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Juan de Castellanos</title>
+     <author>Lázaro Luis Iranzo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Juan de Castellanos</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">Hechos heroicos de cenizas frías,</l>
+     <l n="2" met="---+-+---+-">que en el olvido fueron sepultados,</l>
+     <l n="3" met="-+-+-+---+-">en esta historia están resucitados</l>
+     <l n="4" met="-+-+-----+-">con gloria eterna de sus bizarrías.</l>
+    </lg>
+    <lg n="2" stanza_type="unknown">
+     <l n="5" met="--+--+---+-">Las batallas, contiendas y porfías,</l>
+     <l n="6" met="+--+-+---+-">reinos en nuevo mundo conquistados</l>
+     <l n="7" met="---+---+-+-">por españoles, cuyo triunfo y hado</l>
+     <l n="8" met="-+---+---+-">se vino a celebrar en nuestros días.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-++--+-">Levántase el que está más escondido,</l>
+     <l n="10" met="-+-+-+---+-">y toma nuevo espíritu viviente;</l>
+     <l n="11" met="---+---+++-">que Castellanos con su voz lo llama.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+-+-+-">Sus nombres sonarán de gente en gente</l>
+     <l n="13" met="--+--+---+-">sin temer las tinieblas del olvido.</l>
+     <l n="14" met="++-+-+---+-">siendo este Apolo trompa de su fama.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

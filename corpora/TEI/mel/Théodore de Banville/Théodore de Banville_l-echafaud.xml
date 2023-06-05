@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L'Échafaud</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_l-echafaud</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L'Échafaud</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L'Échafaud</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Horreur ! à l'heure même où, du poteau qui bouge</l>
+     <l n="2" rhyme="b" line_length="6+6">Rajustant les étais avec un soin jaloux,</l>
+     <l n="3" rhyme="b" line_length="6+6">Ces êtres, dans le bruit des marteaux et des clous,</l>
+     <l n="4" rhyme="a" line_length="6+6">Dressent sinistrement cette machine rouge ;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">A l'heure où de Charonne et du Petit-Montrouge</l>
+     <l n="6" rhyme="b" line_length="6+6">Viennent ces curieux, bohèmes et filous,</l>
+     <l n="7" rhyme="b" line_length="6+6">Qui se repaissent, plus féroces que des loups,</l>
+     <l n="8" rhyme="a" line_length="6+6">Du festin qu'a voulu l'insatiable gouge ;</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">A l'heure où, devançant le matin hasardeux,</l>
+     <l n="10" rhyme="c" line_length="6+6">Ils se sont réunis pour ce complot hideux,</l>
+     <l n="11" rhyme="d" line_length="6+6">Des mères, sous les yeux de cette même aurore,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Mettent dans cette vie, hélas ! pleine de fiel,</l>
+     <l n="13" rhyme="d" line_length="6+6">De beaux petits enfants sur lesquels brille encore</l>
+     <l n="14" rhyme="e" line_length="6+6">La majesté de l'Ange et le reflet du ciel !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

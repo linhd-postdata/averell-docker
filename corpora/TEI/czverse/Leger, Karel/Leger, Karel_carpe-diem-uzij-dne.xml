@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Carpe diem! Užij dne,</title>
+    <author>Leger, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Leger, Karel_carpe-diem-uzij-dne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Carpe diem! Užij dne,</title>
+     <author>Leger, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Carpe diem! Užij dne,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101" rhyme="1" line_length="7">Carpe diem! Užij dne, </l>
+     <l n="2" met="1010100" line_length="7">nežli v bezdno zapadne!</l>
+     <l n="3" met="1000100" rhyme="1" line_length="7">Dobře-li ho užiješ,</l>
+     <l n="4" met="1000101" rhyme="1" line_length="7">vzpomínkou se milou těš!</l>
+     <l n="5" met="1000001" rhyme="2" line_length="7">Špatně-li – to tvá je věc,</l>
+     <l n="6" met="1000100" rhyme="2" line_length="7">polituj, však užij přec!</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="1010101" rhyme="1" line_length="7">Carpe diem! Užij dne,</l>
+     <l n="8" met="1010100" line_length="7">nežli v bezdno zapadne!</l>
+     <l n="9" met="1000101" rhyme="3" line_length="7">Litoval bys jednou chvil,</l>
+     <l n="10" met="1010100" rhyme="3" line_length="7">kterých’s nijak neužil!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

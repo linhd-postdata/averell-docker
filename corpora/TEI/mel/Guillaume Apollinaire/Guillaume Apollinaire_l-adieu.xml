@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L'Adieu</title>
+    <author>Guillaume Apollinaire</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Guillaume Apollinaire_l-adieu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L'Adieu</title>
+     <author>Guillaume Apollinaire</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L'Adieu</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">J'ai cueilli ce brin de bruyère</l>
+     <l n="2" rhyme="b" line_length="8">L'automne est morte souviens-t'en</l>
+     <l n="3" rhyme="a" line_length="8">Nous ne nous verrons plus sur terre</l>
+     <l n="4" rhyme="a" line_length="8">Odeur du temps brin de bruyère</l>
+     <l n="5" rhyme="b" line_length="8">Et souviens-toi que je t'attends</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

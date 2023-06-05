@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ZIMA</title>
+    <author>Toman, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Toman, Karel_zima</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ZIMA</title>
+     <author>Toman, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ZIMA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100001000" rhyme="1" line_length="9">Nad přátelstvími, nad láskami</l>
+     <l n="2" met="10010100010" rhyme="2" line_length="11">břečťany temné hrobkami se klenou,</l>
+     <l n="3" met="010101010" rhyme="1" line_length="9">až přijde večer a jsme sami.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="10010100100" rhyme="2" line_length="11">K dalekým hrobům vzpomínky se ženou</l>
+     <l n="5" met="10010100010" rhyme="3" line_length="11">z prochladlé jizby zavátými poli,</l>
+     <l n="6" met="010101010" rhyme="3" line_length="9">však srdce mlčí, srdce bolí.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="10010101000" rhyme="4" line_length="11">Samota zná jen jednu melodii,</l>
+     <l n="8" met="10010100010" rhyme="5" line_length="11">jediná píseň osiřele padá</l>
+     <l n="9" met="110101010" rhyme="4" line_length="9">v šum větrů, které v okna bijí.</l>
+    </lg>
+    <lg n="4">
+     <l n="10" met="01010100" rhyme="6" line_length="8">Tvé jaro? Léto? Zkřehlá snět</l>
+     <l n="11" met="10010101010" rhyme="5" line_length="11">na okno ťuká, plachá snítka mladá.</l>
+     <l n="12" met="1001000100" rhyme="6" line_length="10">A ty ji poceluješ v odpověď.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

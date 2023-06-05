@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A la quina</title>
+    <author>Clemente Althaus</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Clemente Althaus_a-la-quina</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A la quina</title>
+     <author>Clemente Althaus</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A la quina</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Febrífuga corteza, de la humana</l>
+     <l n="2" met="-+-+---+-+-">enferma gente celestial tesoro,</l>
+     <l n="3" met="---+---+-+-">por el que más que por su plata y oro</l>
+     <l n="4" met="-+-+---+-+-">el mundo debe a la región peruana:</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+-++-+-+-">¡Cuántas gracias te rinde el alma ufana!</l>
+     <l n="6" met="-+-+---+-+-">Por ti se enjuga mi encendido lloro;</l>
+     <l n="7" met="++---+---+-">tú vuelves la salud a la que adoro,</l>
+     <l n="8" met="---+---+-+-">y a su semblante la nativa grana.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+-+-+-">Por ti de nuevo blancos velos viste,</l>
+     <l n="10" met="---+---+-+-">y sus divinas perfecciones muestra</l>
+     <l n="11" met="-+---+-+-+-">a Lima, con su ausencia sola y triste;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">por ti en el baile alegre con su diestra</l>
+     <l n="13" met="-+-+---+-+-">mi diestra junto, y venturoso enlazo</l>
+     <l n="14" met="-+-+-+-+-+-">dejándome llevar en leve abrazo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

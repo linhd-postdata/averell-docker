@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A L’AIMÉE</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_a-laimee</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A L’AIMÉE</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A L’AIMÉE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">VOICI des cheveux gris et de la barbe grise.</l>
+     <l n="2" rhyme="b" line_length="6+6">Tu me les demandas en un jour d’enjouement</l>
+     <l n="3" rhyme="b" line_length="4+4+4">Pour, disais-tu, les encadrer bien gentiment</l>
+     <l n="4" rhyme="a" line_length="6+6">Autour de ce portrait ou ma « grâce » agonise.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Pauvre photo ! Mais j’y pense, il sera de mise,</l>
+     <l n="6" rhyme="b" line_length="6+6">Quand mes yeux fatigués se seront clos dûment</l>
+     <l n="7" rhyme="b" line_length="4+4+4">Et que la terre bercera son fils dormant,</l>
+     <l n="8" rhyme="a" line_length="6+6">Il sera de saison alors, chérie – exquise</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Attention ! – de faire avec ces cheveux, teints</l>
+     <l n="10" rhyme="d" line_length="6+6">A cette barbe, teinte en boucles blondes, brunes</l>
+     <l n="11" rhyme="d" line_length="6+6">Ou telle autre nuance entre tant d’opportunes,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="c" line_length="6+6">Faire, par un coiffeur de choix, sur des fonds peints</l>
+     <l n="13" rhyme="e" line_length="6+6">D’avance, le tombeau, lors pleuré sans astuce</l>
+     <l n="14" rhyme="e" line_length="12">Du jeune homme qu’il aurait fallu que je fusse.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

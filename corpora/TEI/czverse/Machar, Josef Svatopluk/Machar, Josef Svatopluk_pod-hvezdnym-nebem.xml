@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>POD HVĚZDNÝM NEBEM.</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_pod-hvezdnym-nebem</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>POD HVĚZDNÝM NEBEM.</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>POD HVĚZDNÝM NEBEM.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010100" line_length="8">Ach, člověk... lidé... národy...</l>
+     <l n="2" met="0101010" rhyme="1" line_length="7">a lidstvo... a tak dále –</l>
+     <l n="3" met="000100100" line_length="9">jak je to všecko tak nicotné,</l>
+     <l n="4" met="0001010" rhyme="1" line_length="7">jak je to všecko malé!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100100" line_length="9">V nezměrném prostoru drahou svou</l>
+     <l n="6" met="10010010" rhyme="2" line_length="8">ohromní světové letí,</l>
+     <l n="7" met="100100100" line_length="9">zemička plete se v závod ten –</l>
+     <l n="8" met="01010010" rhyme="2" line_length="8">a na ní troufalé smetí...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PODZIM.</title>
+    <author>Ráž, Arnošt</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ráž, Arnošt_podzim</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PODZIM.</title>
+     <author>Ráž, Arnošt</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PODZIM.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101001" line_length="9">To podzim kráčel pomalu z hor,</l>
+     <l n="2" met="0101010010" rhyme="1" line_length="10">svou berlou listí pobledlé střásal,</l>
+     <l n="3" met="100101001" line_length="9">v pastevců písních tajil se stesk –</l>
+     <l n="4" met="0101010010" rhyme="1" line_length="10">on stády mlh svých pažity spásal. –</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100101001" line_length="9">Vzpomínek těžké balvany klad</l>
+     <l n="6" met="1000010010" rhyme="2" line_length="10">do stezek mých, kde bloudil jsem němě,</l>
+     <l n="7" met="100101000" line_length="9">chechtal se v roklích bezlistých pak,</l>
+     <l n="8" met="0101010010" rhyme="2" line_length="10">až děsem celá vychladla země.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1001010010" line_length="10">Cítil jsem v srdci prázdnotu mrtvou,</l>
+     <l n="10" met="110001001" rhyme="3" line_length="9">ach, tenkrát jsem se samoty bál,</l>
+     <l n="11" met="1001010010" line_length="10">do roklí před ní v zmatku jsem prchal</l>
+     <l n="12" met="010001001" rhyme="3" line_length="9">a v slzách jsem se s podzimem smál. –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

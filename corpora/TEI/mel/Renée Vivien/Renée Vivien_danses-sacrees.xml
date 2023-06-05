@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>DANSES SACRÉES</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_danses-sacrees</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>DANSES SACRÉES</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>DANSES SACRÉES</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="5+6">De leurs pieds fleuris les femmes de la Crète</l>
+     <l n="2" rhyme="b" line_length="5+6">Pressent le duvet de l’herbe du printemps :</l>
+     <l n="3" rhyme="a" line_length="5+6">Je les vois livrer à la brise inquiète</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="a" line_length="5+6">Leur robe a les plis ondoyants des marées…</l>
+     <l n="5" rhyme="b" line_length="5+6">Je les entends rire avec de clairs appels,</l>
+     <l n="6" rhyme="a" line_length="5+6">En rythmant les chants et les danses sacrées</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

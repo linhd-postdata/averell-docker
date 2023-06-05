@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El mejor sermón</title>
+    <author>Francisco Javier Ugarte y Pages</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco Javier Ugarte y Pages_el-mejor-sermon</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El mejor sermón</title>
+     <author>Francisco Javier Ugarte y Pages</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El mejor sermón</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-----++-+-">Martes de Carnaval. A paso lento</l>
+     <l n="2" met="--+--+---+-">recorrió la ciudad, entre el ruido</l>
+     <l n="3" met="--+--+---+-">de la turba y con ella confundido</l>
+     <l n="4" met="++---+---+-">un fraile demacrado y harapiento.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--++-+---+-">Al volver, mudo y grave, a su convento,</l>
+     <l n="6" met="-+---+---+-">el lego preguntóle sorprendido:</l>
+     <l n="7" met="++---++--+-">-¿No dijo su merced que hemos salido</l>
+     <l n="8" met="---+---+-+-">a predicar? -Y consumé el intento.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+-+---+-">¡Vaya un sermón el que hemos publicado!,</l>
+     <l n="10" met="-+---+---+-">el fraile replicó: -Nuestra presencia</l>
+     <l n="11" met="-+---+-+-+-">¡a cuánto pecador habrá angustiado!...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+++--+---+-">¿Quién no escucha la voz de la conciencia,</l>
+     <l n="13" met="--+--+---+-">cuando llama a la puerta del pecado,</l>
+     <l n="14" met="-----+---+-">en medio del placer, la penitencia?...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A ŽIVOT ZPÍVAL...</title>
+    <author>Hašek, Roman</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hašek, Roman_a-zivot-zpival</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A ŽIVOT ZPÍVAL...</title>
+     <author>Hašek, Roman</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A ŽIVOT ZPÍVAL...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1100010010001" rhyme="1" line_length="13">Žár vášnivý to nebyl, jenž životem mne hnal –</l>
+     <l n="2" met="00101000101" rhyme="1" line_length="11">jen té všední lásky jsem se vždycky bál.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="001010010001" rhyme="2" line_length="12">Jen té všední lásky a idyllických snů</l>
+     <l n="4" met="010101010001" rhyme="2" line_length="12">a celé řady tichých jednotvárných dnů.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="101010010001" rhyme="3" line_length="12">Mohou něco dáti, snad relativní klid.</l>
+     <l n="6" met="101000010000" rhyme="3" line_length="12">Ale nehřeje to. A nemusí to být. –</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="101000010001" rhyme="4" line_length="12">Touha bez definic, jež vyslovit se chce,</l>
+     <l n="8" met="1001010010100" rhyme="4" line_length="13">jásavým horkým proudem mně tekla do srdce.</l>
+    </lg>
+    <lg n="5">
+     <l n="9" met="0101010100100" rhyme="5" line_length="13">A život v dálce zpíval jedinou arii,</l>
+     <l n="10" met="1001010010100" rhyme="5" line_length="13">život, jenž nezná idyll a který zabíjí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

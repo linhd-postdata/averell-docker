@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Baltasar de Estazo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Baltasar de Estazo_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Baltasar de Estazo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---++-">Quiso el eterno Padre por poderos</l>
+     <l n="2" met="+-+---+-++-">dar el loor de cuanto quiso daros,</l>
+     <l n="3" met="-+---+---++-">que pueda el pensamiento imaginaros,</l>
+     <l n="4" met="-++--+---++-">y no pueda la lengua engrandeceros.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---++-">Fuera perfecto el bien de conoceros;</l>
+     <l n="6" met="---+++-+-+-">si conociéndoos yo supiera amaros;</l>
+     <l n="7" met="---+-+---++-">porque pudiera amando contemplaros;</l>
+     <l n="8" met="--+--+---++-">contemplando pudiera comprenderos.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">Mas sólo Dios, vuestro Hijo, conociendo</l>
+     <l n="10" met="-+-+-+-+-+-">vuestro alto ser divino, puede amando</l>
+     <l n="11" met="--++-++--+-">contemplaros, el fin de él comprendiendo.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-++-+-+-+-">Este sólo os alabe, y va subiendo,</l>
+     <l n="13" met="-++--++--+-">porque él sólo llegar puede alabando</l>
+     <l n="14" met="-+-+-+---+-">de vos llegar pudiste mereciendo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

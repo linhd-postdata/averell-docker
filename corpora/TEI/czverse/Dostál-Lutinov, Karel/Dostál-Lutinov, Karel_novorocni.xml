@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NOVOROČNÍ.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_novorocni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NOVOROČNÍ.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NOVOROČNÍ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010011010" line_length="10">„Pozor“ v programu má blaho lidu! –</l>
+     <l n="2" met="101010100" rhyme="1" line_length="9">který Čech by mohl nejásat? –</l>
+     <l n="3" met="0010101000" line_length="10">On je listem zcela neodvislým,</l>
+     <l n="4" met="101000100" rhyme="1" line_length="9">zvláště od pravdy a od zásad.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

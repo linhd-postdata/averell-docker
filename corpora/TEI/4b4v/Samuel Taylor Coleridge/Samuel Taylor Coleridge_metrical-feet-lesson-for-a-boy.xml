@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Metrical Feet: Lesson for a Boy</title>
+    <author>Samuel Taylor Coleridge</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Samuel Taylor Coleridge_metrical-feet-lesson-for-a-boy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>For Better For Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Metrical Feet: Lesson for a Boy</title>
+     <author>Samuel Taylor Coleridge</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Metrical Feet: Lesson for a Boy</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="sestet">
+     <l n="1" met="+-+-+-+">Trochee trips from long to short.</l>
+    </lg>
+    <lg n="2" stanza_type="sestet">
+     <l n="2" met="-+-+-+-+">From long to long in solemn sort.</l>
+    </lg>
+    <lg n="3" stanza_type="sestet">
+     <l n="3" met="++-+++-+--">Slow Spondee stalks; strong foot! yet ill able</l>
+    </lg>
+    <lg n="4" stanza_type="sestet">
+     <l n="4" met="+--+--+--+--">Ever to come up with Dactyl trisyllable.</l>
+    </lg>
+    <lg n="5" stanza_type="sestet">
+     <l n="5" met="-+-+-+-+">Iambics march from short to long.</l>
+    </lg>
+    <lg n="6" stanza_type="sestet">
+     <l n="6" met="--+--+--+--+">With a leap and a bound the swift Anapests throng.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

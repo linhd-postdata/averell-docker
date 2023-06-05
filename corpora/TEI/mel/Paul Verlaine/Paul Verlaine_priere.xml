@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PRIÈRE</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_priere</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PRIÈRE</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PRIÈRE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Me voici devant Vous, contrit comme il le faut.</l>
+     <l n="2" rhyme="b" line_length="6+6">Je sais tout le malheur d’avoir perdu la voie</l>
+     <l n="3" rhyme="b" line_length="6+6">Et je n’ai plus d’espoir, et je n’ai plus de joie</l>
+     <l n="4" rhyme="a" line_length="6+6">Qu’en une en qui je crois chastement, et qui vaut</l>
+     <l n="5" rhyme="b" line_length="6+6">À mes yeux mieux que tout, et l’espoir et la joie.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" rhyme="a" line_length="6−6">Elle est bonne, elle me connaît depuis des ans.</l>
+     <l n="7" rhyme="b" line_length="6+6">Nous eûmes des jours noirs, amers, jaloux, coupables,</l>
+     <l n="8" rhyme="b" line_length="6+6">Mais nous allions sans trêve aux fins inéluctables,</l>
+     <l n="9" rhyme="a" line_length="6+6">Balancés, ballottés, en proie à tous jusants</l>
+     <l n="10" rhyme="b" line_length="6+6">Sur la mer où luisaient les astres favorables :</l>
+    </lg>
+    <lg n="3">
+     <l n="11" rhyme="a" line_length="6+6">Franchise, lassitude affreuse du péché</l>
+     <l n="12" rhyme="b" line_length="6+6">Sans esprit de retour, et pardons l’un à l’autre…</l>
+     <l n="13" rhyme="b" line_length="6+6">Or, ce commencement de paix n’est-il point vôtre,</l>
+     <l n="14" rhyme="a" line_length="6+6">Jésus, qui vous plaisez au repentir caché ?</l>
+     <l n="15" rhyme="b" line_length="6+6">Exaucez notre vœu qui n’est plus que le vôtre.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XXXIX</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_xxxix</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XXXIX</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XXXIX</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">À travers ce qu'on sent confusément bruire,</l>
+     <l n="2" rhyme="a" line_length="6+6">C'est lui qui fait trembler, c'est lui qui fait reluire</l>
+     <l n="3" rhyme="b" line_length="6+6">L'œil sous le cil baissé, l'eau sous la berge en fleurs ;</l>
+     <l n="4" rhyme="c" line_length="6+6">Le rayon de la lune au bas des monts paisibles</l>
+     <l n="5" rhyme="c" line_length="6+6">Et le vague reflet des choses invisibles</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

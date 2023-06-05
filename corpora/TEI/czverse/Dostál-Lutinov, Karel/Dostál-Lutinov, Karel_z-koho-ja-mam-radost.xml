@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Z koho já mám radost,</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_z-koho-ja-mam-radost</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Z koho já mám radost,</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Z koho já mám radost,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100110" line_length="6">Z koho já mám radost, </l>
+     <l n="2" met="10011" rhyme="1" line_length="5">na koho mám zlost,</l>
+     <l n="3" met="100010" line_length="6">epigram mu vlepím,</l>
+     <l n="4" met="10110" rhyme="1" line_length="5">na sto let má dost.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

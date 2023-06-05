@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Z POSLEDNÍCH RŮŽÍ...</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_z-poslednich-ruzi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Z POSLEDNÍCH RŮŽÍ...</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Z POSLEDNÍCH RŮŽÍ...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010110110" rhyme="1" line_length="11">Z posledních růží vlát cítím dech léta,</l>
+     <l n="2" met="10010010010" rhyme="1" line_length="11">vzpomínkou záhon můj chudičký zkvétá.</l>
+     <l n="3" met="10010111010" rhyme="2" line_length="11">Zoraná pole, tmy, déšť padá na ně.</l>
+     <l n="4" met="10010010010" rhyme="2" line_length="11">Smutná jsou pole a prázdné jak dlaně.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010110110" rhyme="1" line_length="11">Z posledních růží vlát cítím dech léta.</l>
+     <l n="6" met="10010010010" rhyme="1" line_length="11">Vzpomínkou záhon můj chudičký zkvétá.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>TRISTESSE</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_tristesse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>TRISTESSE</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>TRISTESSE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">J'ai perdu, ma force et ma vie,</l>
+     <l n="2" rhyme="b" line_length="8">Et mes amis, et ma gaîté ;</l>
+     <l n="3" rhyme="b" line_length="8">J'ai perdu jusqu'à la fierté</l>
+     <l n="4" rhyme="a" line_length="8">Qui faisait croire à mon génie.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="b" line_length="8">Quand j'ai connu la vérité,</l>
+     <l n="6" rhyme="a" line_length="8">J'ai cru que c'était une amie.</l>
+     <l n="7" rhyme="a" line_length="8">Quand je l'ai comprise et sentie,</l>
+     <l n="8" rhyme="b" line_length="8">J'en étais déjà dégoûté.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="8">Et pourtant elle est éternelle,</l>
+     <l n="10" rhyme="c" line_length="8">Et ceux qui se sont passés d'elle</l>
+     <l n="11" rhyme="d" line_length="8">Ici-bas ont tout ignoré.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="8">Dieu parle, il faut qu'on lui réponde.</l>
+     <l n="13" rhyme="e" line_length="8">Le seul bien qui me reste au monde</l>
+     <l n="14" rhyme="d" line_length="8">Est d'avoir quelquefois pleuré.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

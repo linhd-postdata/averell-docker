@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SOMMEIL</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_sommeil</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SOMMEIL</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SOMMEIL</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Ô Sommeil, ô Mort tiède, ô musique muette !</l>
+     <l n="2" rhyme="b" line_length="6+6">Ton visage s’incline, éternellement las,</l>
+     <l n="3" rhyme="b" line_length="6+6">Et le songe fleurit à l’ombre de tes pas,</l>
+     <l n="4" rhyme="a" line_length="6+6">Ainsi qu’une nocturne et sombre violette.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Les parfums affaiblis et les astres décrus</l>
+     <l n="6" rhyme="b" line_length="6+6">Revivent dans tes mains aux pâles transparences,</l>
+     <l n="7" rhyme="b" line_length="6+6">Évocateur d’espoirs et vainqueur de souffrances</l>
+     <l n="8" rhyme="a" line_length="6+6">Qui nous rends la beauté des êtres disparus.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

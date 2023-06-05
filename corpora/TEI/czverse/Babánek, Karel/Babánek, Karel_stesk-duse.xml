@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>STESK DUŠE.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_stesk-duse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>STESK DUŠE.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>STESK DUŠE.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000101010" rhyme="1" line_length="11">To na podzim již bylo, mlhy v horách</l>
+     <l n="2" met="10010011010" line_length="11">se střely po lesích, vzduch jimi vlhký</l>
+     <l n="3" met="01000100010" rhyme="1" line_length="11">byl studený – jak musselínem potáh’</l>
+     <l n="4" met="01010100010" line_length="11">by celý kraj, v dál stajený se ztrácel.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10000100110" rhyme="2" line_length="11">Na zvráceným jsem obrazem stál břehu,</l>
+     <l n="6" met="10010001010" line_length="11">ve vodě zvlněně se stromy chvěly,</l>
+     <l n="7" met="01001001010" rhyme="2" line_length="11">a oblaka s předtuchou blízkých sněhů</l>
+     <l n="8" met="10010010010" line_length="11">nad zemí propadlá nehybně stála.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="11000101010" rhyme="3" line_length="11">Klid opuštěných míst se vlekl kolem,</l>
+     <l n="10" met="11001100010" line_length="11">stesk zašlého, chvil důvěrných kdys dávno –</l>
+     <l n="11" met="11010100010" rhyme="3" line_length="11">dech květů svadlých s pokoseným stvolem,</l>
+     <l n="12" met="11000010010" line_length="11">trav posečených již na loukách duše.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

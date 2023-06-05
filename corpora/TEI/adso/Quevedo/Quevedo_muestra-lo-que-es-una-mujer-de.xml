@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Muestra lo que es una mujer despreciada </title>
+    <author>Quevedo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quevedo_muestra-lo-que-es-una-mujer-de</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Muestra lo que es una mujer despreciada </title>
+     <author>Quevedo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Muestra lo que es una mujer despreciada </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--++--+-">Disparado esmeril, toro herido;</l>
+     <l n="2" met="+--+-+-+-+-">fuego que libremente se ha soltado,</l>
+     <l n="3" met="+----+-+-+-">osa que los hijuelos le han robado,</l>
+     <l n="4" met="+--+-+---+-">rayo de pardas nubes escupido;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">serpiente o áspid con el pie oprimido,</l>
+     <l n="6" met="-+---+-+-+-">león que las prisiones ha quebrado,</l>
+     <l n="7" met="-+---+---+-">caballo volador desenfrenado,</l>
+     <l n="8" met="+----+---+-">águila que le tocan a su nido;</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+-+-+-">espada que la rige loca mano,</l>
+     <l n="10" met="--+--+---+-">pedernal sacudido del acero,</l>
+     <l n="11" met="+-+--+-+-+-">pólvora ha quien llegó encendida mecha;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">villano rico con poder tirano,</l>
+     <l n="13" met="+----+--++-">víbora, cocodrilo, caimán fiero</l>
+     <l n="14" met="+--+-+---+-">es la mujer si el hombre la desecha.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

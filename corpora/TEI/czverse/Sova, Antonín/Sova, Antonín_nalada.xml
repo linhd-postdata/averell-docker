@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NÁLADA</title>
+    <author>Sova, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sova, Antonín_nalada</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NÁLADA</title>
+     <author>Sova, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NÁLADA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101000" line_length="7">A nikdy podivně tak</l>
+     <l n="2" met="11001000" rhyme="1" line_length="8">les rodný se nerozšumněl.</l>
+     <l n="3" met="01001" line_length="5">Já plakal bych rád,</l>
+     <l n="4" met="01010" rhyme="1" line_length="5">jen kdybych uměl.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0100010" line_length="7">Ten ironický přísvit</l>
+     <l n="6" met="1000100" rhyme="2" line_length="7">pod těžkými větvemi.</l>
+     <l n="7" met="01001010010" line_length="11">Ten večer jak vleče rozbitá křídla</l>
+     <l n="8" met="0100" rhyme="2" line_length="4">dnes po zemi.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001010" line_length="8">A co se to listí směje</l>
+     <l n="10" met="10010010" rhyme="3" line_length="8">a co se chechtá tak suše?</l>
+     <l n="11" met="1000010" line_length="7">Stomílovými kroky</l>
+     <l n="12" met="010110" rhyme="3" line_length="6">kam chtěla’s, ó duše?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

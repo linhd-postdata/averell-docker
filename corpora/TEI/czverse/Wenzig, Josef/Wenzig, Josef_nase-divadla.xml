@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Naše divadla.</title>
+    <author>Wenzig, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Wenzig, Josef_nase-divadla</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Naše divadla.</title>
+     <author>Wenzig, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Naše divadla.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10100101000" line_length="11">Staří Řekové zvykli divadla svá</l>
+     <l n="2" met="10000100100" rhyme="1" line_length="11">Modlitbami a oběťmi počíti.</l>
+     <l n="3" met="10010010000" line_length="11">Měli-li bychom tak učiniti též,</l>
+     <l n="4" met="0100100100" rhyme="1" line_length="10">Jak bychom se musili zardíti!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

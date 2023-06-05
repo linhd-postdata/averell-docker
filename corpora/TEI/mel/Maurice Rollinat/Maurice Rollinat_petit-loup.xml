@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Petit-Loup</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_petit-loup</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Petit-Loup</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Petit-Loup</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="0" line_length="8">Lorsque, soudain, il est attaqué par deux hommes.</l>
+     <l n="2" rhyme="1" line_length="8">D'un coup de voix stridente il appelle son chien :</l>
+     <l n="3" rhyme="0" line_length="6+6">Et la lutte s'acharne, affreuse, on n'y voit goutte.</l>
+     <l n="4" rhyme="2" line_length="6+6">Un dernier appel rauque : — et le marchand de bœufs</l>
+     <l n="5" rhyme="2" line_length="8">Tombe et trépasse au fond du grand chemin bourbeux.</l>
+     <l n="6" rhyme="3" line_length="8">Mais, d'un train haleté que le silence écoute,</l>
+     <l n="7" rhyme="4" line_length="6+6">Le dogue accourt, se rue, étrangle un assassin ;</l>
+     <l n="8" rhyme="5" line_length="6+6">L'autre a juste le temps de grimper dans un arbre.</l>
+     <l n="9" rhyme="6" line_length="6+6">Et, stupéfaits d'horreur, les gens du bourg voisin</l>
+     <l n="10" rhyme="3" line_length="6+6">Trouvaient, le lendemain, un chien entre deux morts,</l>
+     <l n="11" rhyme="2" line_length="6+6">Surveillant, crocs baveux, sur un vieux chêne tors</l>
+     <l n="12" rhyme="7" line_length="6+6">Quelqu'un juché livide et roide comme un marbre.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

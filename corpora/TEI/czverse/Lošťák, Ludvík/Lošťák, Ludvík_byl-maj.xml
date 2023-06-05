@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Byl máj...</title>
+    <author>Lošťák, Ludvík</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lošťák, Ludvík_byl-maj</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Byl máj...</title>
+     <author>Lošťák, Ludvík</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Byl máj...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" line_length="9">Byl máj a láska všude kvetla,</l>
+     <l n="2" met="010101" rhyme="1" line_length="6">a slavík písně pěl,</l>
+     <l n="3" met="010101010" line_length="9">a mladým listím, květy, travou</l>
+     <l n="4" met="110101" rhyme="1" line_length="6">dech jarní lehce chvěl.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101010" line_length="9">A z duše lidské zněly zpěvy</l>
+     <l n="6" met="010101" rhyme="2" line_length="6">jak jásot mořských vln,</l>
+     <l n="7" met="010101010" line_length="9">a celý svět byl s nebem hvězdným</l>
+     <l n="8" met="010101" rhyme="2" line_length="6">jen samou láskou pln.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="101101010" line_length="9">A se rtů lidských k bohu znělo,</l>
+     <l n="10" met="010101" rhyme="3" line_length="6">by dal jim v písních žít,</l>
+     <l n="11" met="010101010" line_length="9">a květům nedal vadnout nikdy,</l>
+     <l n="12" met="000101" rhyme="4" line_length="6">by laur z nich mohli vít;</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="010101010" line_length="9">By nedal slunci nikdy zajít,</l>
+     <l n="14" met="010101" rhyme="3" line_length="6">a mořím nedal hřmít,</l>
+     <l n="15" met="010101010" line_length="9">a nechal duši lidskou v jaře</l>
+     <l n="16" met="010001" rhyme="4" line_length="6">se nekonečném stkvít!</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="010101010" line_length="9">Než místo jara přišla zima,</l>
+     <l n="18" met="010101" rhyme="5" line_length="6">a každý v pláč se dal,</l>
+     <l n="19" met="010101010" line_length="9">neb vichr květy, lásku, písně</l>
+     <l n="20" met="100101" rhyme="5" line_length="6">pod bílé sněhy svál!...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

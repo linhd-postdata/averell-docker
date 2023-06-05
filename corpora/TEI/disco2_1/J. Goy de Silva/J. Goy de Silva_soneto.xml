@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>J. Goy de Silva</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>J. Goy de Silva_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>J. Goy de Silva</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-++-+-++-+-">Todo el cielo una brasa. Todo el viento un lamento.</l>
+     <l n="2" met="-+---+--++--+-">Las arpas de los bosques, en un largo clamor,</l>
+     <l n="3" met="+----+------+-">lloran el sacrificio de Cristo Redentor,</l>
+     <l n="4" met="--+--+---+--+-">cuya cruz se destaca sobre el cielo sangriento.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+------+-">Judas, en tanto, presa de su remordimiento,</l>
+     <l n="6" met="--+--+---++-+-">interroga al Enigma: «¿Para qué fui traidor?»</l>
+     <l n="7" met="++-+-+-+-++-+-">Él era sabio y justo, ¡todo fe, todo amor!</l>
+     <l n="8" met="++-+-+-+----+-">¿Quién dio codicia a mi alma y odio a mi pensamiento?</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+-+---+--+-">¿Quién dio veneno al áspid, mansedumbre al cordero,</l>
+     <l n="10" met="+----+--+---+-">bálsamo a las Virtudes, ponzoña a los pecados?</l>
+     <l n="11" met="+-+-++---+--+-">¿Quién trazó fatalmente mi siniestro sendero...?</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++-++------+-">¿No habrá piedad, ¡Maestro!, para mi desventura...?</l>
+     <l n="13" met="+-++-+----+-+-">Y una voz le responde desde la augusta altura:</l>
+     <l n="14" met="-+++-+-----+-">«¡Mi amor es sol que alumbra hasta los condenados!»</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

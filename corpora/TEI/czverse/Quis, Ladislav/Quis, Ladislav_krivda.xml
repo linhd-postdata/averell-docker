@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Křivda.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_krivda</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Křivda.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Křivda.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101010" rhyme="1" line_length="10">Mamlásek se přidal k sboru štvanců,</l>
+     <l n="2" met="1010101010" rhyme="2" line_length="10">který hází po všem starém bláto;</l>
+     <l n="3" met="1000101000" rhyme="1" line_length="10">nadali mu proto usmrkanců.</l>
+     <l n="4" met="1010001010" rhyme="3" line_length="10">Myslím, že se mu tím křivda dělá:</l>
+     <l n="5" met="0010100010" rhyme="2" line_length="10">Co pak může, nebožáček, za to,</l>
+     <l n="6" met="1000101000" rhyme="3" line_length="10">maminka že nos mu neutřela?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

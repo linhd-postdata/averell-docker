@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El Desdichado</title>
+    <author>Gérard de Nerval</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Gérard de Nerval_el-desdichado</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El Desdichado</title>
+     <author>Gérard de Nerval</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El Desdichado</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Je suis le ténébreux, — le veuf, — l'inconsolé,</l>
+     <l n="2" rhyme="b" line_length="6+6">Le prince d'Aquitaine à la tour abolie :</l>
+     <l n="3" rhyme="a" line_length="6+6">Ma seule étoile est morte, — et mon luth constellé</l>
+     <l n="4" rhyme="b" line_length="6+6">Porte le Soleil noir de la Mélancolie.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Dans la nuit du tombeau, toi qui m'as consolé,</l>
+     <l n="6" rhyme="b" line_length="6+6">Rends-moi le Pausilippe et la mer d'Italie,</l>
+     <l n="7" rhyme="a" line_length="6+6">La fleur qui plaisait tant à mon cœur désolé,</l>
+     <l n="8" rhyme="b" line_length="6+6">Et la treille où le pampre à la rose s'allie.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Suis-je Amour ou Phébus ?… Lusignan ou Biron ?</l>
+     <l n="10" rhyme="d" line_length="6+6">Mon front est rouge encor du baiser de la reine;</l>
+     <l n="11" rhyme="d" line_length="6+6">J'ai rêvé dans la grotte où nage la syrène…</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="c" line_length="6+6">Et j'ai deux fois vainqueur traversé l'Achéron :</l>
+     <l n="13" rhyme="e" line_length="6+6">Modulant tour à tour sur la lyre d'Orphée</l>
+     <l n="14" rhyme="e" line_length="6+6">Les soupirs de la sainte et les cris de la fée.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

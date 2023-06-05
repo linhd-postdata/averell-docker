@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Na cukráře.</title>
+    <author>Wunsch, Hugo Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Wunsch, Hugo Václav_na-cukrare</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Na cukráře.</title>
+     <author>Wunsch, Hugo Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Na cukráře.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100000100" line_length="10">Tvé cukrovinky že jsou nejsladší,</l>
+     <l n="2" met="10000100" rhyme="1" line_length="8">nejsladší že tvé pečivo?</l>
+     <l n="3" met="1101010100" line_length="10">Hoj, ty se mýlíš; chci-li nejsladší,</l>
+     <l n="4" met="11010100" rhyme="1" line_length="8">jdu hodně hořké na pivo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

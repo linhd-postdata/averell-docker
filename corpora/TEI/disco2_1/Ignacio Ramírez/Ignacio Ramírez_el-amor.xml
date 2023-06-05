@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El amor</title>
+    <author>Ignacio Ramírez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ignacio Ramírez_el-amor</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El amor</title>
+     <author>Ignacio Ramírez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El amor</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-++--+---+-">¿Por qué, Amor, cuando expiro desarmado,</l>
+     <l n="2" met="-+++-++--+-">de mí te burlas? Llévate esa hermosa,</l>
+     <l n="3" met="-+-+-+-+-+-">doncella tan ardiente y tan graciosa</l>
+     <l n="4" met="---+-++--+-">que por mi oscuro asilo has asomado.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+++-+-">En tiempo más feliz, yo supe osado</l>
+     <l n="6" met="--+--+---+-">extender mi palabra artificiosa</l>
+     <l n="7" met="-+-+-+---+-">como una red, y en ella, temblorosa,</l>
+     <l n="8" met="++---+-+-+-">más de una de tus aves he cazado.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+---+-+--+-">Hoy de mis rivales hacen juego,</l>
+     <l n="10" met="-+---+-+-+-">cobardes atacándome en gavilla,</l>
+     <l n="11" met="-+-+-+-+-+-">y libre yo mi presa al aire entrego;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+-+-+--+-">al inerme león el asno humilla...</l>
+     <l n="13" met="+-++---+-+-">Vuélveme, Amor, mi juventud, y luego</l>
+     <l n="14" met="++---+---+-">tú mismo a mis rivales acaudilla.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

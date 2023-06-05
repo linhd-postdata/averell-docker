@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vrchol léta.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_vrchol-leta</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vrchol léta.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vrchol léta.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Stráně, luhy samé kvítí,</l>
+     <l n="2" met="1011100" rhyme="2" line_length="7">zlatý klas má obilí,</l>
+     <l n="3" met="10010010" rhyme="1" line_length="8">rosou, jež se sluncem nítí,</l>
+     <l n="4" met="1000100" rhyme="2" line_length="7">motýli se opili.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101000" rhyme="3" line_length="8">Jako četa dobrodruhů</l>
+     <l n="6" met="1000010" rhyme="4" line_length="7">poletují sem a tam,</l>
+     <l n="7" met="10101010" rhyme="3" line_length="8">květné víno šlo jim k duhu,</l>
+     <l n="8" met="0010100" rhyme="4" line_length="7">však kam půjdou na noc, kam?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001010" rhyme="5" line_length="8">Dobrodruzi! Kamž by spěli,</l>
+     <l n="10" met="1010101" rhyme="6" line_length="7">kamo vítr, tamo plášť,</l>
+     <l n="11" met="10101000" rhyme="5" line_length="8">v celém hejnu vyletěli,</l>
+     <l n="12" met="1010100" rhyme="6" line_length="7">ráno zhyne každý zvlášť.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

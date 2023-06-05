@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Květ na skále.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_kvet-na-skale</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Květ na skále.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Květ na skále.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" rhyme="1" line_length="8">Stojím jako v čarokruhu;</l>
+     <l n="2" met="1010101" rhyme="2" line_length="7">přes noc zkvetl horský klín,</l>
+     <l n="3" met="10001010" rhyme="1" line_length="8">v zelenavý úsměv luhu</l>
+     <l n="4" met="1010100" rhyme="2" line_length="7">spadly hvězdy kopretin.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="3" line_length="8">Stromy pějí, vody šumí,</l>
+     <l n="6" met="1010101" rhyme="4" line_length="7">nebe vroucně líbá zem,</l>
+     <l n="7" met="00101010" rhyme="3" line_length="8">výš se týčí horské chlumy,</l>
+     <l n="8" met="1010101" rhyme="4" line_length="7">skála vzdychá němým rtem.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001010" rhyme="5" line_length="8">Na chvíli se jenom budí</l>
+     <l n="10" met="1010100" rhyme="6" line_length="7">snem, jejž pták jí v ňadra snes’,</l>
+     <l n="11" met="10101010" rhyme="5" line_length="8">a pak hvězdou zkvetlou v hrudi</l>
+     <l n="12" met="1010100" rhyme="6" line_length="7">zpívá vůní do nebes!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jaro bylo.</title>
+    <author>Škampa, Alois</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Škampa, Alois_jaro-bylo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jaro bylo.</title>
+     <author>Škampa, Alois</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jaro bylo.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Jaro bylo, v zlatých květech</l>
+     <l n="2" met="10101010" rhyme="2" line_length="8">snila tichá lípa v lese</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">a Ty’s řekla: „Po dvou létech,</l>
+     <l n="4" met="10001000" rhyme="2" line_length="8">miláčku můj, shledáme se!“ –</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10100010" rhyme="3" line_length="8">Po dvou létech – sám jsem v chatce,</l>
+     <l n="6" met="10101010" rhyme="4" line_length="8">venku jeseň listy láme...</l>
+     <l n="7" met="10101010" rhyme="3" line_length="8">Spi jen, dítě, spi jen sladce,</l>
+     <l n="8" met="00001000" rhyme="4" line_length="8">my se už víc neshledáme!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

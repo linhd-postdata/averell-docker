@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El bohío</title>
+    <author>José Santos Chocano</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Santos Chocano_el-bohio</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El bohío</title>
+     <author>José Santos Chocano</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El bohío</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="+-+--++-+--+-">¡Qué impresión de alegría da esta casa, a manera</l>
+     <l n="2" met="--+-+--++--+-">de canoa que duerme junto a un brazo de mar!...</l>
+     <l n="3" met="+-+--+---+--+-">Leve techo de pajas y armazón de madera,</l>
+     <l n="4" met="--+--+--++--+-">que recortan sus líneas entre un verde palmar.</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="--+-++---+--+-">Aunque el agua la acosa, se levanta ligera</l>
+     <l n="6" met="--+--+---+--+-">sobre estacas que préstanle expresión singular</l>
+     <l n="7" met="--+--+---+--+-">de mujer, en la blanda y arenosa ribera,</l>
+     <l n="8" met="--+--+---+--+-">aprendiendo, en las puntas de sus pies, a bailar...</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+---+--+-">Goza de una pureza de cristal en su ambiente.</l>
+     <l n="10" met="--+-+---+--+-">Coquetea en las linfas. Se enguirnalda la frente.</l>
+     <l n="11" met="--+--+-+-++-+-">el rumor de las fondas le regala un collar...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-++-+---+--+-">Y hasta aumenta esta dicha de sencillo donaire</l>
+     <l n="13" met="-++--+---+-+-">tal cual garza, que, a veces, zigzaguea en el aire,</l>
+     <l n="14" met="--+--+---+--+-">como copo de espuma que rompiese a volar...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

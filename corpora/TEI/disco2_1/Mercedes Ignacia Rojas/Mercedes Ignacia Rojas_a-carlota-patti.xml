@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Carlota Patti</title>
+    <author>Mercedes Ignacia Rojas</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mercedes Ignacia Rojas_a-carlota-patti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Carlota Patti</title>
+     <author>Mercedes Ignacia Rojas</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Carlota Patti</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++---++--+-">¿Qué grata melodía es la que siento,</l>
+     <l n="2" met="++---++--+-">qué voz angelical llega a mi oído?</l>
+     <l n="3" met="-+++-+---+-">¿De do emana ese mágico sonido</l>
+     <l n="4" met="--+--+---+-">que enloquece y embriaga de contento?</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-----+---+-">¿De más allá del alto firmamento</l>
+     <l n="6" met="++---++--+-">un ángel a la tierra ha descendido?</l>
+     <l n="7" met="+++--+---+-">¡Yo encuentro ese trinar desconocido</l>
+     <l n="8" met="--+--++--+-">y la voz de la gloria oigo en su acento!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+--+--+-+-">Y veo una mujer, y de ella brota</l>
+     <l n="10" met="+-+--+---+-">esa voz que al salir de su garganta</l>
+     <l n="11" met="+++--+-+-+-">vierte un nuevo prodigio en cada nota.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+--++-">¡Mas no es una mujer la que así encanta!</l>
+     <l n="13" met="++--+-+--+-">¡Hada huída del cielo eres, Carlota,</l>
+     <l n="14" met="--+--+-+-+-">pues que sólo en el cielo así se canta!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

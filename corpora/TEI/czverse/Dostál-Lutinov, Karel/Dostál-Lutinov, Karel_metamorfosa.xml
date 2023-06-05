@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>METAMORFOSA.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">7</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_metamorfosa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>METAMORFOSA.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>METAMORFOSA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100" line_length="7">Mnohý kozák tužený</l>
+     <l n="2" met="100010" rhyme="1" line_length="6">nelekal se rány,</l>
+     <l n="3" met="1010100" line_length="7">a přec také na konec</l>
+     <l n="4" met="100010" rhyme="1" line_length="6">sežraly jej vrány.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0001100" rhyme="2" line_length="7">Tak se ten svět obrací:</l>
+     <l n="6" met="10001010" rhyme="1" line_length="8">Z kozáků jsou časem vrány,</l>
+     <l n="7" met="1001100" rhyme="2" line_length="7">ale ne z vran kozáci.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

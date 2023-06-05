@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Al soneto</title>
+    <author>Miguel Antonio Caro</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Miguel Antonio Caro_al-soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Al soneto</title>
+     <author>Miguel Antonio Caro</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Al soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">¡Honor de los alados instrumentos!</l>
+     <l n="2" met="+-++---+-+-">¡Tú, lo más bello que de oriente a ocaso</l>
+     <l n="3" met="+--+---+-+-">vio el peregrino, suspendiendo el paso,</l>
+     <l n="4" met="-++----+-+-">nadar suave en los delgados vientos!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+---+-">¡Flor y luz de gallardos pensamientos!</l>
+     <l n="6" met="+-----++-">¡Cifra de la esbeltez! ¡Mágico vaso</l>
+     <l n="7" met="-+---+---+-">labrado por las diosas del Parnaso,</l>
+     <l n="8" met="-++--+---+-">y el más breve y feliz de los portentos!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+-+----+-">¡Tú, en edad de heroísmo y bizarría,</l>
+     <l n="10" met="+----+---+-">gloria de los errantes trovadores,</l>
+     <l n="11" met="-+---+-+-+-">delicia a la beldad que te acogía!</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+---+-">¡Copa gentil, permite que de flores</l>
+     <l n="13" met="+-+--+-+-+-">te corone también la diestra mía,</l>
+     <l n="14" met="-++--+-+-+-">y en ti el labio encendido libe amores!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

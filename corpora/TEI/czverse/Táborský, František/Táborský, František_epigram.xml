@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>EPIGRAM.</title>
+    <author>Táborský, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Táborský, František_epigram</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>EPIGRAM.</title>
+     <author>Táborský, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>EPIGRAM.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010001" rhyme="1" line_length="9">Epigram – to veselý je šíp,</l>
+     <l n="2" met="010010" rhyme="1" line_length="6">čím ostřejší, tím líp,</l>
+     <l n="3" met="11000101" rhyme="1" line_length="8">vřed prořízne a bouli chyb;</l>
+     <l n="4" met="010100010" rhyme="2" line_length="9">ne jedem napouštěn, než solí,</l>
+     <l n="5" met="010001010" rhyme="2" line_length="9">již sype tam, kde pálí, bolí.</l>
+     <l n="6" met="110100010" rhyme="2" line_length="9">Chce vtipem odpověď, ne holí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

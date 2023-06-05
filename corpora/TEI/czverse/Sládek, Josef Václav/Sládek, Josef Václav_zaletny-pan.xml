@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Záletný pán.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_zaletny-pan</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Záletný pán.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Záletný pán.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101010" rhyme="1" line_length="8">Co ty skáčeš, koni vraný,</l>
+     <l n="2" met="10101000" rhyme="1" line_length="8">přes ten úhor neoraný?</l>
+     <l n="3" met="10101000" line_length="8">„Za tou hnědou křepeličkou</l>
+     <l n="4" met="00101010" rhyme="1" line_length="8">já si skáču na vše strany.“</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="2" line_length="8">V hrdlo lžeš, ty vraný koni,</l>
+     <l n="6" met="11001000" rhyme="2" line_length="8">kůň křepelky neuhoní,</l>
+     <l n="7" met="10001000" line_length="8">pro koně jest jetelinka,</l>
+     <l n="8" met="10001010" rhyme="2" line_length="8">po křepelce, co mu po ní?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="00101010" rhyme="3" line_length="8">„Nač bych lhal, já koník černý</l>
+     <l n="10" met="00101010" rhyme="3" line_length="8">jsem jen svému pánu věrný,</l>
+     <l n="11" met="10001010" rhyme="4" line_length="8">pro tebe on hlavu věší,</l>
+     <l n="12" met="00101000" rhyme="4" line_length="8">nic ho v světě nepotěší.“</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101010" rhyme="5" line_length="8">Vyřiď svému pánu, v poli</l>
+     <l n="14" met="00100100" rhyme="5" line_length="8">mne že tady nic nebolí,</l>
+     <l n="15" met="01001000" rhyme="6" line_length="8">ať nejezdí po úhoru,</l>
+     <l n="16" met="10101010" rhyme="6" line_length="8">ale jede k zámku v boru.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10101010" rhyme="7" line_length="8">Na tom zámku bledá paní</l>
+     <l n="18" met="10001000" rhyme="7" line_length="8">čekala ho do svítání; –</l>
+     <l n="19" met="00101010" line_length="8">on jest její, ona jeho,</l>
+     <l n="20" met="10101000" rhyme="7" line_length="8">po tom božím přikázání.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>TICHÉ MĚSTO</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_tiche-mesto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>TICHÉ MĚSTO</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>TICHÉ MĚSTO</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1100010100" rhyme="1" line_length="10">Dvůr domečků jak svítí, mlčeliv!</l>
+     <l n="2" met="10010101010" rhyme="2" line_length="11">Krajkoví lip se němě do vod sklání.</l>
+     <l n="3" met="1100010100" rhyme="1" line_length="10">Šept průplavů, kde moře dulo dřív.</l>
+     <l n="4" met="1001000001" rhyme="1" line_length="10">Zákoutí vzkaz – – Což byl jsem tu kdy živ?</l>
+     <l n="5" met="1101001101000" rhyme="2" line_length="13">Hra zvonků v poledne zní jako vzpomínání.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="1101000100" rhyme="3" line_length="10">Má duše – bekyně sem zavátá</l>
+     <l n="7" met="01010101010" rhyme="4" line_length="11">v ten záliv času tichem příliš sladký –</l>
+     <l n="8" met="1101010100" rhyme="3" line_length="10">sní, čeká, mdlí a teskní, zajata,</l>
+     <l n="9" met="0100010100" rhyme="3" line_length="10">by do hříchu ji, s křikem „thalatta!“,</l>
+     <l n="10" met="10110" rhyme="4" line_length="5">vichr strh zpátky.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

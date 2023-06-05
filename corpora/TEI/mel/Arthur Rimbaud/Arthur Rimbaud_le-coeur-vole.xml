@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Cœur volé</title>
+    <author>Arthur Rimbaud</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Arthur Rimbaud_le-coeur-vole</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Cœur volé</title>
+     <author>Arthur Rimbaud</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Cœur volé</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Mon pauvre cœur bave à la poupe,</l>
+     <l n="2" rhyme="b" line_length="8">Mon cœur est plein de caporal ;</l>
+     <l n="3" rhyme="a" line_length="8">Ils lui lancent des jets de soupe,</l>
+     <l n="4" rhyme="a" line_length="8">Mon triste cœur bave à la poupe :</l>
+     <l n="5" rhyme="a" line_length="8">Sous les quolibets de la troupe</l>
+     <l n="6" rhyme="b" line_length="8">Qui pousse un rire général,</l>
+     <l n="7" rhyme="a" line_length="8">Mon triste cœur bave à la poupe</l>
+     <l n="8" rhyme="b" line_length="8">Mon cœur est plein de caporal !</l>
+    </lg>
+    <lg n="2">
+     <l n="9" rhyme="a" line_length="8">Ithyphalliques et pioupiesques,</l>
+     <l n="10" rhyme="b" line_length="8">Leurs insultes l’ont dépravé.</l>
+     <l n="11" rhyme="a" line_length="8">À la vesprée, ils font des fresques</l>
+     <l n="12" rhyme="a" line_length="8">Ithyphalliques et pioupiesques,</l>
+     <l n="13" rhyme="a" line_length="8">O flots abracadabrantesques</l>
+     <l n="14" rhyme="b" line_length="8">Prenez mon cœur, qu’il soit sauvé !</l>
+     <l n="15" rhyme="a" line_length="8">Ithyphalliques et pioupiesques</l>
+     <l n="16" rhyme="b" line_length="8">Leurs insultes l’ont dépravé !</l>
+    </lg>
+    <lg n="3">
+     <l n="17" rhyme="a" line_length="8">Quand ils auront tari leurs chiques,</l>
+     <l n="18" rhyme="b" line_length="8">Comment agir, ô cœur volé ?</l>
+     <l n="19" rhyme="a" line_length="8">Ce seront des refrains bachiques</l>
+     <l n="20" rhyme="a" line_length="8">Quand ils auront tari leurs chiques :</l>
+     <l n="21" rhyme="a" line_length="8">J’aurai des sursauts stomachiques</l>
+     <l n="22" rhyme="b" line_length="8">Si mon cœur triste est ravalé :</l>
+     <l n="23" rhyme="a" line_length="8">Quand ils auront tari leurs chiques,</l>
+     <l n="24" rhyme="b" line_length="8">Comment agir, ô cœur volé ?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

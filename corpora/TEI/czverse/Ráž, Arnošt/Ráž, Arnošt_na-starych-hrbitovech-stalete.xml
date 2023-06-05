@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>* * * Na starých hřbitovech staleté stromy rostou,</title>
+    <author>Ráž, Arnošt</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ráž, Arnošt_na-starych-hrbitovech-stalete</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>* * * Na starých hřbitovech staleté stromy rostou,</title>
+     <author>Ráž, Arnošt</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>* * * Na starých hřbitovech staleté stromy rostou,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001001001010" line_length="13">Na starých hřbitovech staleté stromy rostou, </l>
+     <l n="2" met="01010100" line_length="8">ty stromy mrtvým věrny jsou.</l>
+     <l n="3" met="1001001001010" line_length="13">Kořeny ve hrobech, větvemi vzpiaty k slunci,</l>
+     <l n="4" met="100100" line_length="6">pro koho pokvetou?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001010010" line_length="10">Z krve a slz jsme ulili zvony</l>
+     <l n="6" met="01010101010" rhyme="1" line_length="11">a jejich hlas jen jednou mluví řečí:</l>
+     <l n="7" met="100100" rhyme="2" line_length="6">Minulost mrtva je.</l>
+     <l n="8" met="10010101010" rhyme="1" line_length="11">Přes její rov, kde staré stromy klečí,</l>
+     <l n="9" met="110100" rhyme="2" line_length="6">jde cesta do ráje.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

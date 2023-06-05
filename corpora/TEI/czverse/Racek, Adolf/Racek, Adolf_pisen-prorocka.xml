@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PÍSEŇ PROROCKÁ.</title>
+    <author>Racek, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Racek, Adolf_pisen-prorocka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PÍSEŇ PROROCKÁ.</title>
+     <author>Racek, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PÍSEŇ PROROCKÁ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010" rhyme="1" line_length="7">Shasnula bílá světla,</l>
+     <l n="2" met="110101" line_length="6">tma byla, tma a tma,</l>
+     <l n="3" met="0101010" rhyme="1" line_length="7">a nová vzplála světla,</l>
+     <l n="4" met="010001" line_length="6">a nebyla tam tma.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010" rhyme="1" line_length="7">Ne klamná, plachá světla,</l>
+     <l n="6" met="010100" rhyme="2" line_length="6">ne v barvách unylá,</l>
+     <l n="7" met="0101010" rhyme="1" line_length="7">to byla jasná světla,</l>
+     <l n="8" met="010100" rhyme="2" line_length="6">ne smutná, unylá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101010" rhyme="1" line_length="7">A byla v dálích světla,</l>
+     <l n="10" met="010100" rhyme="2" line_length="6">a davy plynuly,</l>
+     <l n="11" met="0100110" rhyme="1" line_length="7">a splynula tma v světla,</l>
+     <l n="12" met="010100" rhyme="2" line_length="6">v něž davy splynuly.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

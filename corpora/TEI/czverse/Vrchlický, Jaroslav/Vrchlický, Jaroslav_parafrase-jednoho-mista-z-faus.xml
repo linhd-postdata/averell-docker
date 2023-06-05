@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Parafrase jednoho místa z Fausta.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_parafrase-jednoho-mista-z-faus</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Parafrase jednoho místa z Fausta.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Parafrase jednoho místa z Fausta.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11000101" rhyme="1" line_length="8">Ach, býti všech těch příšer prost!</l>
+     <l n="2" met="00010101" rhyme="1" line_length="8">Pak byl by život jeden skvost.</l>
+     <l n="3" met="010101010" rhyme="2" line_length="9">Co máš, to dáš, co nemáš, nedáš,</l>
+     <l n="4" met="010101010" rhyme="2" line_length="9">nechť stokrát za tím zrak svůj zvedáš –</l>
+     <l n="5" met="0001" rhyme="1" line_length="4">Jsi zde jen host.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="01010101" rhyme="3" line_length="8">Jen upři na vše jasný zrak</l>
+     <l n="7" met="01000101" rhyme="3" line_length="8">a neříkej: Můj život vrak!</l>
+     <l n="8" met="010101010" rhyme="4" line_length="9">Jen trochu braň se proti smutku,</l>
+     <l n="9" met="110101010" rhyme="4" line_length="9">měj radost z vůle, radost skutku,</l>
+     <l n="10" met="0001" rhyme="3" line_length="4">v tom buď jak pták!</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="01010000" rhyme="5" line_length="8">Chtěl’s mnoho – docílil jsi míň,</l>
+     <l n="12" met="01000101" rhyme="5" line_length="8">ti netřeba jest volat: Zhyň!</l>
+     <l n="13" met="100101010" rhyme="6" line_length="9">A jen když jedny vlídné oči</l>
+     <l n="14" met="010001010" rhyme="6" line_length="9">ten poslední svůj zápas zočí,</l>
+     <l n="15" met="0101" rhyme="5" line_length="4">pak s mořem splyň!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

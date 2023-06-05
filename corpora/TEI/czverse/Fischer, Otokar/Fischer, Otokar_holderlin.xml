@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hölderlin</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_holderlin</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hölderlin</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hölderlin</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Svaté listí luk a lesů,</l>
+     <l n="2" met="10101" rhyme="2" line_length="5">kudy průvod jel –</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">Hroty hrůz a běd i běsů,</l>
+     <l n="4" met="10100" rhyme="2" line_length="5">které nepřítel</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10100010" rhyme="3" line_length="8">zrádně do prsou nám nasil,</l>
+     <l n="6" met="10101" rhyme="4" line_length="5">kámen, drť a jed!</l>
+     <l n="7" met="00101010" rhyme="3" line_length="8">Kde je spánek? mír? kde asyl?</l>
+     <l n="8" met="10101" rhyme="4" line_length="5">Jede, jede svět,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" rhyme="5" line_length="8">trubka zní a trojka kluše</l>
+     <l n="10" met="01010" rhyme="6" line_length="5">a ví proč, ví kam,</l>
+     <l n="11" met="10100010" rhyme="5" line_length="8">a já o mříže své duše</l>
+     <l n="12" met="10100" rhyme="6" line_length="5">lebku utloukám.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

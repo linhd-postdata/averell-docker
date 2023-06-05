@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Andrés de Espinosa</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Andrés de Espinosa_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Andrés de Espinosa</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">El Orbe aplauda de la flor de Hungría,</l>
+     <l n="2" met="--+--+-+-+-">el heroico valor, el ser constante;</l>
+     <l n="3" met="--+--+-+-+-">pues al cierzo exponiendo lo fragante,</l>
+     <l n="4" met="+--+-+---+-">es por el cierzo más su lozanía.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+---+-">Aplauda a tan hermosa bizarría,</l>
+     <l n="6" met="-----+---+-">la Complutense Atenas vigilante,</l>
+     <l n="7" met="---+-+-+-+-">y cuando el riesgo llora, el triunfo cante</l>
+     <l n="8" met="-+-+-+---+-">sonoro Cisne, a tanta mejoría.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-++-+---+-">Que es ponerse la flor, y sus candores,</l>
+     <l n="10" met="---+-+---+-">del achacoso cierzo, a la aspereza,</l>
+     <l n="11" met="+--+-++--+-">dando sus hojas, a una y otra herida.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+----+-+-+-">Fue, para que supiesen otras flores,</l>
+     <l n="13" met="---+++---+-">que aventurarse al riesgo, de la vida,</l>
+     <l n="14" met="+-+--+---+-">es el triunfo mayor, de su Grandeza.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

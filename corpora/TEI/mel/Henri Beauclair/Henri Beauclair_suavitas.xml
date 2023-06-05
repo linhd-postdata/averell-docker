@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Suavitas</title>
+    <author>Henri Beauclair</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Henri Beauclair_suavitas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Suavitas</title>
+     <author>Henri Beauclair</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Suavitas</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="5+5">L'Adorable espoir de la Renoncule</l>
+     <l n="2" rhyme="b" line_length="5+5">A nimbé mon cœur d'une Hermine d'or.</l>
+     <l n="3" rhyme="b" line_length="5+5">Pour le Rossignol qui sommeille encor,</l>
+     <l n="4" rhyme="a" line_length="5+5">La candeur du Lys est un crépuscule.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="5+5">Feuilles d'ambre gris et jaune ! chemins</l>
+     <l n="6" rhyme="b" line_length="5+5">Qu'enlace une valse à peine entendue,</l>
+     <l n="7" rhyme="b" line_length="5+5">Horizons teintés de cire fondue,</l>
+     <l n="8" rhyme="a" line_length="5+5">N'odorez-vous pas la tiédeur des mains ?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="5+5">O Pleurs de la Nuit ! Étoiles moroses !</l>
+     <l n="10" rhyme="b" line_length="5+5">Votre aile mystique effleure nos fronts,</l>
+     <l n="11" rhyme="b" line_length="5+5">La vie agonise et nous expirons,</l>
+     <l n="12" rhyme="a" line_length="5+5">Dans la mort suave et pâle des Roses !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

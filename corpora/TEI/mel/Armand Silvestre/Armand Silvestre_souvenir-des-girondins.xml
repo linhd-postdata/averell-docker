@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Souvenir des Girondins</title>
+    <author>Armand Silvestre</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Armand Silvestre_souvenir-des-girondins</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Souvenir des Girondins</title>
+     <author>Armand Silvestre</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Souvenir des Girondins</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Les Titans sont tombés : — dans l'air silencieux</l>
+     <l n="2" rhyme="b" line_length="6+6">Leur sang pur monte encore, et, comme une fumée,</l>
+     <l n="3" rhyme="b" line_length="6+6">Emporte dans les cieux leur âme consumée</l>
+     <l n="4" rhyme="a" line_length="6+6">Des rêves éternels qu'ils avaient pris aux cieux.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">La terre, maternelle aux cœurs audacieux,</l>
+     <l n="6" rhyme="b" line_length="6+6">Sur ses enfants meurtris lentement s'est fermée ;</l>
+     <l n="7" rhyme="a" line_length="6+6">Mais, pour longtemps tari, son flanc capricieux</l>
+     <l n="8" rhyme="b" line_length="6+6">Tira de leur semence une race pygmée,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Du corps de ces lions un peuple de fourmis.</l>
+     <l n="10" rhyme="c" line_length="6+6">Et nous n'osons nommer nos pères endormis,</l>
+     <l n="11" rhyme="d" line_length="6+6">Plus près d'être des dieux que nous d'être des hommes !</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Et nous traînons si bas leur souvenir puissant,</l>
+     <l n="13" rhyme="d" line_length="6+6">Qu'à nous voir le porter, on ne sait si nous sommes</l>
+     <l n="14" rhyme="e" line_length="6+6">Les vers de leurs tombeaux ou les fils de leur sang.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

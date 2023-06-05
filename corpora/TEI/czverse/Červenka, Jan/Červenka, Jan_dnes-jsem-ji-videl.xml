@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dnes jsem ji viděl!</title>
+    <author>Červenka, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červenka, Jan_dnes-jsem-ji-videl</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dnes jsem ji viděl!</title>
+     <author>Červenka, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dnes jsem ji viděl!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0001010100" line_length="10">Dnes jsem ji viděl! Slunce paprslek</l>
+     <l n="2" met="01000101010" rhyme="1" line_length="11">tak nepronikne tmou, jak obraz její</l>
+     <l n="3" met="01010001000" line_length="11">mou duši naplnil v tom okamžiku,</l>
+     <l n="4" met="01010101000" rhyme="1" line_length="11">jak každý rys mi strnul v obličeji.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1100010100" line_length="10">Krev ustydla mi v žilách, plamenem</l>
+     <l n="6" met="01010101000" rhyme="2" line_length="11">v ně srdce šlehlo v náhlém zanícení,</l>
+     <l n="7" met="01010100010" line_length="11">že skráně žárem chvěly se i mrazem</l>
+     <l n="8" met="01000101010" rhyme="2" line_length="11">tak divokým, jak ledu s ohněm vření.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1001010100" line_length="10">A tu jsem poznal, jak je nicotnou</l>
+     <l n="10" met="01010101000" rhyme="3" line_length="11">a vetchou lidská vůle, na kolena</l>
+     <l n="11" met="01010100010" line_length="11">jak padá rozum, promluví-li srdce,</l>
+     <l n="12" met="01010101010" rhyme="3" line_length="11">a kterak srdce velkým činí žena!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

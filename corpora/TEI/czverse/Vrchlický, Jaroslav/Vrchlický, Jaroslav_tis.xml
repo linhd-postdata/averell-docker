@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>TIŠ.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_tis</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>TIŠ.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>TIŠ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" rhyme="1" line_length="8">Nu, tak se jednou zastavíš,</l>
+     <l n="2" met="010101" rhyme="2" line_length="6">vše projdeš kol a kol,</l>
+     <l n="3" met="01010101" rhyme="1" line_length="8">tu stejný ruch, jen v srdci tiš,</l>
+     <l n="4" met="110101" rhyme="2" line_length="6">spí i ten starý bol.</l>
+     <l n="5" met="01010100" line_length="8">Svou cestou jde vše klidně zde,</l>
+     <l n="6" met="110101" rhyme="2" line_length="6">žhne nebe, jásá dol.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="10010100" rhyme="3" line_length="8">Hodin se rafij nestaví,</l>
+     <l n="8" met="110100" rhyme="4" line_length="6">jde tichou drahou dál,</l>
+     <l n="9" met="01010101" rhyme="3" line_length="8">a orloj zní – co duše sní:</l>
+     <l n="10" met="000100" rhyme="4" line_length="6">je blíž tvůj ideál?</l>
+     <l n="11" met="01000100" line_length="8">Snad o píď přec? – jak vyhnanec</l>
+     <l n="12" met="010101" rhyme="4" line_length="6">tu sedíš – snů jen král.</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="01001100" rhyme="5" line_length="8">Mníš, spadne ti cos do klína?</l>
+     <l n="14" met="010101" rhyme="3" line_length="6">Nuž, mozkem jenom hni!</l>
+     <l n="15" met="01010100" rhyme="5" line_length="8">Co platno? Vůle usíná,</l>
+     <l n="16" met="010101" rhyme="3" line_length="6">a duše – dále sní!</l>
+     <l n="17" met="11011001" line_length="8">Ach, kde jest čin? Na zdi jen stín...</l>
+     <l n="18" met="010101" rhyme="3" line_length="6">a orloj duní... zní!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

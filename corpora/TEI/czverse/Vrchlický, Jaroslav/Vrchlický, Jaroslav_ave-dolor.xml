@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ave dolor!</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_ave-dolor</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ave dolor!</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ave dolor!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="001100010100" rhyme="1" line_length="12">To vše mám za sebou, já myslil dávno již,</l>
+     <l n="2" met="010100" rhyme="1" line_length="6">tu žití celou tíž,</l>
+     <l n="3" met="010100010101" rhyme="2" line_length="12">ty všecky otázky a spory mladých dob:</l>
+     <l n="4" met="010001" rhyme="2" line_length="6">co věčnost je a hrob;</l>
+     <l n="5" met="010100010100" rhyme="3" line_length="12">ty steré záchvaty i touhu slunci vstříc,</l>
+     <l n="6" met="010100" rhyme="3" line_length="6">ten cit již nechtít nic –</l>
+     <l n="7" met="01010101000" rhyme="4" line_length="11">a přece znova v nové beznaději</l>
+     <l n="8" met="01010" rhyme="4" line_length="5">se ptám a chvěji.</l>
+    </lg>
+    <lg n="2">
+     <l n="9" met="0101010100" rhyme="5" line_length="10">Kdys „Ave caesar!“ mroucí barbar řek’.</l>
+     <l n="10" met="010101" rhyme="5" line_length="6">Já cítím odboj, vztek,</l>
+     <l n="11" met="010100010100" rhyme="6" line_length="12">že takých po letech zas musím hledět zpět</l>
+     <l n="12" met="010011" rhyme="6" line_length="6">v ten ztracený snů svět,</l>
+     <l n="13" met="010100010101" rhyme="7" line_length="12">že takých po letech se musím znovu rvát</l>
+     <l n="14" met="100101" rhyme="7" line_length="6">o vše, co mělo spát,</l>
+     <l n="15" met="01000101010" rhyme="8" line_length="11">že v nepokoje bouři zlé a dravé</l>
+     <l n="16" met="0101010" rhyme="8" line_length="7">říc musím: Dolor ave!</l>
+    </lg>
+    <lg n="3">
+     <l n="17" met="010100010100" rhyme="9" line_length="12">Buď tedy, bolesti, buď zdráva, znám tě již</l>
+     <l n="18" met="010100" rhyme="9" line_length="6">a žití s tebou tíž,</l>
+     <l n="19" met="010100010001" rhyme="10" line_length="12">snad právě důkazem jest Medusin tvůj zjev,</l>
+     <l n="20" met="010101" rhyme="10" line_length="6">když mohu cítit hněv,</l>
+     <l n="21" met="010101010100" rhyme="11" line_length="12">když mohu soptit, lkát, se svíjet v mukách zas,</l>
+     <l n="22" met="010101" rhyme="11" line_length="6">že není na smrt čas,</l>
+     <l n="23" met="01010101000" rhyme="12" line_length="11">že nejsem ještě mrtvým v beznaději...</l>
+     <l n="24" met="01010" rhyme="12" line_length="5">Tož ptám se, chvěji!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Los criados del arzobispo </title>
+    <author>Quevedo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quevedo_los-criados-del-arzobispo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Los criados del arzobispo </title>
+     <author>Quevedo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Los criados del arzobispo </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-++--+---+-">Casó de un arzobispo el despensero,</l>
+     <l n="2" met="--+--+---+-">y la noche que el novio se acicala</l>
+     <l n="3" met="--+--+-+-+-">para hacer de la novia cata y cala</l>
+     <l n="4" met="---+---+-+-">y repicar el virginal pandero,</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+--++-">le dijo el mayordomo: «Por mí quiero</l>
+     <l n="6" met="+--+-++--+-">que un cañonazo más tire con bala»;</l>
+     <l n="7" met="+-+--+---+-">esto dijo el veedor, el maestresala,</l>
+     <l n="8" met="++---+---+-">un paje, el galopín y el cocinero.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+---+-">Fue a su casa, y el caso sucedido</l>
+     <l n="10" met="-+-+-+-+-+-">contó a la novia, y trece priscos diole,</l>
+     <l n="11" met="+----+---+-">siete por el, y siete encomendados.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-++--+-">Íbase ya a dormir tan de rendido...</l>
+     <l n="13" met="--+--+---+-">mas la novia le llama y preguntole:</l>
+     <l n="14" met="++----+-++-">«¿No tiene el arzobispo más criados?»</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Rêvé pour l'hiver</title>
+    <author>Arthur Rimbaud</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Arthur Rimbaud_reve-pour-l-hiver</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Rêvé pour l'hiver</title>
+     <author>Arthur Rimbaud</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Rêvé pour l'hiver</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6−6">L’hiver, nous irons dans un petit wagon rose</l>
+     <l n="2" rhyme="b" line_length="6">Nous serons bien. Un nid de baisers fous repose</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="c" line_length="6−6">Tu fermeras l’œil, pour ne point voir, par la glace,</l>
+     <l n="4" rhyme="d" line_length="8">Ces monstruosités hargneuses, populace</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="e" line_length="6+6">Puis tu te sentiras la joue égratignée…</l>
+     <l n="6" rhyme="e" line_length="6+6">Un petit baiser, comme une folle araignée,</l>
+    </lg>
+    <lg n="4">
+     <l n="7" rhyme="g" line_length="6+6">Et tu me diras : « Cherche ! », en inclinant la tête ;</l>
+     <l n="8" rhyme="g" line_length="6+6">— Et nous prendrons du temps, à trouver cette bête !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

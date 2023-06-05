@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MECH.</title>
+    <author>Rais, Karel V.</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Rais, Karel V._mech</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MECH.</title>
+     <author>Rais, Karel V.</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MECH.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Ty, hochu bledý, dumavý,</l>
+     <l n="2" met="100101" rhyme="1" line_length="6">marného snění nech</l>
+     <l n="3" met="01010100" line_length="8">a nechoď jenom do lesa,</l>
+     <l n="4" met="010001" rhyme="1" line_length="6">sic zavede tě mech.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101" line_length="8">Již v mechu leží – – letí duch</l>
+     <l n="6" met="100100" rhyme="2" line_length="6">ve prostor daleký,</l>
+     <l n="7" met="11010100" line_length="8">ó, kdo si s mechem začíná,</l>
+     <l n="8" met="010100" rhyme="2" line_length="6">je ztracen na věky.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="11000100" line_length="8">Mech šeptal mu to do uší,</l>
+     <l n="10" met="100100" rhyme="3" line_length="6">na papír psal to jen;</l>
+     <l n="11" met="11000100" line_length="8">mech kloudného nic nešeptá,</l>
+     <l n="12" met="010101" rhyme="3" line_length="6">jen báj a klam a sen – –</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01010101" line_length="8">On psal a psal a svět se smál:</l>
+     <l n="14" met="010001" rhyme="4" line_length="6">„Už bude jak ten mech,</l>
+     <l n="15" met="11010100" line_length="8">má sny a dumy na čele,</l>
+     <l n="16" met="100100" rhyme="4" line_length="6">na tváři, na retech.”</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="01010100" line_length="8">Ten mech ho zcela zavedl – –</l>
+     <l n="18" met="010101" rhyme="5" line_length="6">nuž, k čemu více slov,</l>
+     <l n="19" met="10010101" rhyme="4" line_length="8">z vděčnosti jenom suchý mech</l>
+     <l n="20" met="010101" rhyme="5" line_length="6">mu kryje spadlý rov...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

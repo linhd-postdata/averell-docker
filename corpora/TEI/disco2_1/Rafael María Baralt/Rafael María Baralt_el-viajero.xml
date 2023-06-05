@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El viajero</title>
+    <author>Rafael María Baralt</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Rafael María Baralt_el-viajero</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El viajero</title>
+     <author>Rafael María Baralt</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El viajero</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">Ave de paso que vagando gira</l>
+     <l n="2" met="--+--+-+-+-">de nación en nación, de gente en gente</l>
+     <l n="3" met="---+---+-+-">y de su amor y de su nido ausente</l>
+     <l n="4" met="++-+-+-+-+-">hoy llora aquí, mañana allí suspira.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">Rama infeliz que el ábrego en su ira</l>
+     <l n="6" met="-+-+---+-+-">del almo tronco desgajó inclemente;</l>
+     <l n="7" met="+--+---+-+-">pobre arroyuelo que de ignota fuente</l>
+     <l n="8" met="+--+---+-+-">fluye gimiendo y en la mar espira.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+-+-+-">Ausente así del caro patrio suelo,</l>
+     <l n="10" met="--+-+--+-+-">afanosa busco mi edad florida</l>
+     <l n="11" met="--++-+---+-">para el alma un amor y mis amores.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">Tormentas fueron y furor del cielo.</l>
+     <l n="13" met="+-+--+-+-+-">Gocen otros el bien: que yo en la vida,</l>
+     <l n="14" met="-+---++--+-">abeja de dolor, libo dolores.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

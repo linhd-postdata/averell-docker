@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ODE, Written in the same Year.</title>
+    <author>William Collins</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>William Collins_ode-written-in-the-same-year</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Eighteenth Century Poetry Archive</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ODE, Written in the same Year.</title>
+     <author>William Collins</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ODE, Written in the same Year.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="sestet">
+     <l n="1" met="-+|-+|-+|-+" line_length="8">HOW sleep the brave, who sink to rest,</l>
+     <l n="2" met="-+|-+|-+|-+" line_length="8">By all their country's wishes blest!</l>
+     <l n="3" met="-+|-+|-+|-+" line_length="8">When Spring with dewy fingers cold,</l>
+     <l n="4" met="-+|-+|-+|-+" line_length="8">Returns to deck their hallow'd mold,</l>
+     <l n="5" met="-+|-+|-+|-+" line_length="8">She there shall dress a sweeter sod,</l>
+     <l n="6" met="-+|-+|-+|-+" line_length="8">Than  feet have ever trod.</l>
+    </lg>
+    <lg n="2" stanza_type="sestet">
+     <l n="7" met="-+|-+|-+|-+" line_length="8">By fairy hands their knell is rung,</l>
+     <l n="8" met="-+|-+|-+|-+" line_length="8">By forms unseen their dirge is sung;</l>
+     <l n="9" met="-+|-+|-+|-+" line_length="8">There  comes, a  grey,</l>
+     <l n="10" met="-+|-+|-+|-+" line_length="8">To bless the turf that wraps their clay,</l>
+     <l n="11" met="-+|-+|-+|-+" line_length="8">And  shall awhile repair,</l>
+     <l n="12" met="-+|-+|-+|-+" line_length="8">To dwell a weeping  there!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vzpomínka.</title>
+    <author>Tůma, Jan Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tůma, Jan Václav_vzpominka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vzpomínka.</title>
+     <author>Tůma, Jan Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vzpomínka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000101" line_length="8">Ta vzpomínka, to luzný květ</l>
+     <l n="2" met="01010100" rhyme="1" line_length="8">je v ruce doby minulé!</l>
+     <l n="3" met="10001000" rhyme="2" line_length="8">Z dálí nám ji ukazuje,</l>
+     <l n="4" met="10001000" rhyme="2" line_length="8">z blízka nám ji oddaluje,</l>
+     <l n="5" met="10101010" line_length="8">jakby žertem vrátit chtěla</l>
+     <l n="6" met="1010100" rhyme="1" line_length="7">city dávno zhynulé!</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="01000100" line_length="8">Ta upomínka radostná</l>
+     <l n="8" met="01010100" rhyme="3" line_length="8">je kvítko jara zpozděné!</l>
+     <l n="9" met="10101000" rhyme="4" line_length="8">Jednou v ruce obrátíš ho,</l>
+     <l n="10" met="10111010" rhyme="4" line_length="8">a když ssát chceš vůni jeho,</l>
+     <l n="11" met="10001010" line_length="8">rozpadnou se lístky květu,</l>
+     <l n="12" met="1010100" rhyme="3" line_length="7">každý lístek – uvadne.</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="01000100" line_length="8">A na bolest-li vzpomeneš,</l>
+     <l n="14" met="01000100" rhyme="5" line_length="8">to skamenělá slzička!</l>
+     <l n="15" met="10101000" rhyme="6" line_length="8">Velká bolest v minulosti</l>
+     <l n="16" met="10001000" rhyme="6" line_length="8">utěšení v přítomnosti,</l>
+     <l n="17" met="10001000" line_length="8">upomínka na bolesti</l>
+     <l n="18" met="1000100" rhyme="5" line_length="7">zkušenosti matička.</l>
+    </lg>
+    <lg n="4">
+     <l n="19" met="01000101" line_length="8">Ba podivný to, pozdní květ</l>
+     <l n="20" met="01000100" rhyme="5" line_length="8">je z minulosti vzpomínka!</l>
+     <l n="21" met="00101000" rhyme="7" line_length="8">ať se z dálí ukazuje,</l>
+     <l n="22" met="00101000" rhyme="7" line_length="8">ať se z blízka oddaluje,</l>
+     <l n="23" met="10101000" rhyme="6" line_length="8">darmo hledáš skutečnosti,</l>
+     <l n="24" met="1010100" line_length="7">vždycky dýše z daleka.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SEN O JARU.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_sen-o-jaru</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SEN O JARU.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SEN O JARU.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010101" line_length="10">Nad mými dveřmi v zimě sedal kos,</l>
+     <l n="2" met="1001001001" rhyme="1" line_length="10">za nocí mrazivých, za nocí zlých,</l>
+     <l n="3" met="0100010101" line_length="10">snad o jaru a teplém hnízdě snil,</l>
+     <l n="4" met="0100010011" rhyme="1" line_length="10">když do zahrady ledový mráz dých.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101000101" line_length="10">Teď, z jara, pod okny mi zpívá kos,</l>
+     <l n="6" met="0100010011" rhyme="2" line_length="10">když stmívá se, a večerem den ztich,</l>
+     <l n="7" met="0101000101" line_length="10">je jaro, jaro je, a zpívá kos,</l>
+     <l n="8" met="0100010101" rhyme="2" line_length="10">a stmívá se, a v srdci led a sníh.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

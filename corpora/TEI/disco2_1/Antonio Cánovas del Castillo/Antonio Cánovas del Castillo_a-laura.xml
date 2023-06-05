@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Laura</title>
+    <author>Antonio Cánovas del Castillo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Antonio Cánovas del Castillo_a-laura</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Laura</title>
+     <author>Antonio Cánovas del Castillo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Laura</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+---+-">No pretendo que paguen el desvelo</l>
+     <l n="2" met="--+--+-+-+-">que tu infausta belleza en mí provoca,</l>
+     <l n="3" met="--+--+---+-">ni con besos dulcísimos tu boca,</l>
+     <l n="4" met="---+---+-+-">ni tus miradas con su luz de cielo;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--++-+---+-">ni causarte en ausencias desconsuelo,</l>
+     <l n="6" met="--+--+-+-+-">ni que sueñes conmigo en ansia loca,</l>
+     <l n="7" met="---+---+-+-">ni que te muestres a los otros roca</l>
+     <l n="8" met="-+-+---+-+-">como eres, Laura, para mí de hielo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+---+-+-">Pero a la luz del moribundo día</l>
+     <l n="10" met="---+-+---+-">cuando la brisa leve de la tarde</l>
+     <l n="11" met="+--+-+---+-">riza feliz tu negra cabellera;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+-+-+-">¿por qué no has de ofrecer, ingrata mía,</l>
+     <l n="13" met="-+-+---+-+-">al loco amor que en mis sentidos arde</l>
+     <l n="14" met="+-+--+---+-">un recuerdo benévolo siquiera?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

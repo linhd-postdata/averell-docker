@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Zvony.</title>
+    <author>Havelka, Matěj</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Havelka, Matěj_zvony</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Zvony.</title>
+     <author>Havelka, Matěj</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Zvony.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Naše zvony podle kroje</l>
+     <l n="2" met="10101010" rhyme="1" line_length="8">Řídí k hranám zvuky svoje.</l>
+     <l n="3" met="10010100" rhyme="2" line_length="8">Umře-li nuzák chudinka,</l>
+     <l n="4" met="10100010" rhyme="2" line_length="8">Slabě zvoneček jen cinká:</l>
+     <l n="5" met="100100" rhyme="3" line_length="6">Cinkyli! cinkyli!</l>
+     <l n="6" met="100100" rhyme="3" line_length="6">Bědy ho ztrápily.</l>
+     <l n="7" met="10101010" rhyme="4" line_length="8">Pakli umře boháč tučný,</l>
+     <l n="8" met="10001010" rhyme="4" line_length="8">Provolává zvonec hlučný:</l>
+     <l n="9" met="1111" rhyme="5" line_length="4">Bim! bam! bim! bam!</l>
+     <l n="10" met="0101" rhyme="5" line_length="4">Byl pán! byl pán!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Molière.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_moliere</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Molière.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Molière.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101010" rhyme="1" line_length="11">Theatrum mundi velké tvoje dílo,</l>
+     <l n="2" met="01000101010" rhyme="2" line_length="11">co hraje tam, to nejsou snů tvých stíny,</l>
+     <l n="3" met="01010101000" rhyme="2" line_length="11">jak jiným pěvcům duší ze hlubiny</l>
+     <l n="4" met="01010101000" rhyme="1" line_length="11">se derou, by je slunce osvítilo:</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100010" rhyme="2" line_length="11">To živí lidé, skutky jich a činy,</l>
+     <l n="6" met="11011001010" rhyme="1" line_length="11">krev, tuk i kost a vše, co vskutku bylo,</l>
+     <l n="7" met="01001001010" rhyme="1" line_length="11">se zhustilo, v cítící maso slilo,</l>
+     <l n="8" met="01001101010" rhyme="2" line_length="11">jen Shakespeare můž’ jít vedle – nikdo jiný.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000100110" rhyme="3" line_length="11">Snad právě že jste soudili svět oba</l>
+     <l n="10" met="01010100010" rhyme="4" line_length="11">z té dobou kleté Thespisovy káry,</l>
+     <l n="11" met="01010101010" rhyme="3" line_length="11">jste větší byli nežli vaše doba,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="01010101010" rhyme="3" line_length="11">že soucit, dobro, láska, hněv i zloba,</l>
+     <l n="13" met="11000100010" rhyme="4" line_length="11">klid mudrcký i fanatismu žáry</l>
+     <l n="14" met="01000101010" rhyme="3" line_length="11">jste vtělili i věčnou bolest Joba!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

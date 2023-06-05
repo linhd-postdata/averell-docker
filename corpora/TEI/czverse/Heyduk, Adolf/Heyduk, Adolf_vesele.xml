@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VESELE!</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">32</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_vesele</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VESELE!</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VESELE!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100110" line_length="6">Huslaře mám v předu,</l>
+     <l n="2" met="10100" rhyme="1" line_length="5">v zadu dudáka,</l>
+     <l n="3" met="101010" line_length="6">proto v smutnou krčmu</l>
+     <l n="4" met="00100" rhyme="1" line_length="5">nic mne neláká;</l>
+     <l n="5" met="100010" line_length="6">do pole se pustím,</l>
+     <l n="6" met="10100" rhyme="2" line_length="5">zajdu do boru,</l>
+     <l n="7" met="101010" line_length="6">číšku nosím v kapse,</l>
+     <l n="8" met="10100" rhyme="2" line_length="5">v torbě čutoru.</l>
+    </lg>
+    <lg n="2">
+     <l n="9" met="001010" line_length="6">Kdo se smutku poddá,</l>
+     <l n="10" met="00100" rhyme="3" line_length="5">sám se utýrá,</l>
+     <l n="11" met="100010" line_length="6">při hudbě a víně</l>
+     <l n="12" met="10100" rhyme="3" line_length="5">žalost umírá;</l>
+     <l n="13" met="101010" line_length="6">svět se divně motá,</l>
+     <l n="14" met="10100" rhyme="4" line_length="5">stár a sláb je snad,</l>
+     <l n="15" met="101000" line_length="6">kdybych nezpíval mu,</l>
+     <l n="16" met="00101" rhyme="4" line_length="5">byl by v bláto pad!</l>
+    </lg>
+    <lg n="3">
+     <l n="17" met="101010" line_length="6">Hrejte tedy, hoši,</l>
+     <l n="18" met="10001" rhyme="5" line_length="5">vesele nám v let,</l>
+     <l n="19" met="101000" line_length="6">nežli vrávoravý</l>
+     <l n="20" met="10001" rhyme="5" line_length="5">skutálí se svět;</l>
+     <l n="21" met="010010" line_length="6">než obruče puknou</l>
+     <l n="22" met="10100" rhyme="6" line_length="5">z jeho útoru,</l>
+     <l n="23" met="101010" line_length="6">číšku nosím v kapse,</l>
+     <l n="24" met="10100" rhyme="6" line_length="5">v torbě čutoru.</l>
+    </lg>
+    <lg n="4">
+     <l n="25" met="101000" line_length="6">Pijte, nalévejte,</l>
+     <l n="26" met="10010" rhyme="7" line_length="5">pijte zas a zas,</l>
+     <l n="27" met="101010" line_length="6">svět se divně vikle,</l>
+     <l n="28" met="10100" rhyme="7" line_length="5">hrozí zabít nás;</l>
+     <l n="29" met="100010" rhyme="8" line_length="6">chytněte jej v půli,</l>
+     <l n="30" met="10001" rhyme="9" line_length="5">mírněte ten rej,</l>
+     <l n="31" met="100010" rhyme="8" line_length="6">krčmářko, buď k vůli,</l>
+     <l n="32" met="10001" rhyme="9" line_length="5">hubičku mi dej!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

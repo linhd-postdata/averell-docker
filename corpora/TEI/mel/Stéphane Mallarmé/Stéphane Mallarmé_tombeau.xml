@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>TOMBEAU</title>
+    <author>Stéphane Mallarmé</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Stéphane Mallarmé_tombeau</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>TOMBEAU</title>
+     <author>Stéphane Mallarmé</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>TOMBEAU</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Le noir roc courroucé que la bise le roule</l>
+     <l n="2" rhyme="b" line_length="6+6">Ne s'arrêtera ni sous de pieuses mains</l>
+     <l n="3" rhyme="b" line_length="6+6">Tâtant sa ressemblance avec les maux humains</l>
+     <l n="4" rhyme="a" line_length="6+6">Comme pour en bénir quelque funeste moule.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Ici presque toujours si le ramier roucoule</l>
+     <l n="6" rhyme="b" line_length="6+6">Cet immatériel deuil opprime de maints</l>
+     <l n="7" rhyme="b" line_length="4+4+4">Nubiles plis l'astre mûri des lendemains</l>
+     <l n="8" rhyme="a" line_length="6+6">Dont un scintillement argentera la foule.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Qui cherche, parcourant le solitaire bond</l>
+     <l n="10" rhyme="c" line_length="6+6">Tantôt extérieur de notre vagabond —</l>
+     <l n="11" rhyme="d" line_length="6+6">Verlaine ? Il est caché parmi l'herbe, Verlaine</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">À ne surprendre que naïvement d'accord</l>
+     <l n="13" rhyme="d" line_length="6+6">La lèvre sans y boire ou tarir son haleine</l>
+     <l n="14" rhyme="e" line_length="6+6">Un peu profond ruisseau calomnié la mort.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

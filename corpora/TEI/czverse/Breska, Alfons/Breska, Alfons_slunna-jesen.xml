@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Slunná jeseň.</title>
+    <author>Breska, Alfons</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Breska, Alfons_slunna-jesen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Slunná jeseň.</title>
+     <author>Breska, Alfons</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Slunná jeseň.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101000" rhyme="1" line_length="9">Pod stromy bloudím na nábřeží,</l>
+     <l n="2" met="100101010" rhyme="1" line_length="9">hladina řeky dole leží</l>
+     <l n="3" met="10010101" rhyme="2" line_length="8">v jesenním slunci zpita snem –</l>
+     <l n="4" met="10010100" rhyme="2" line_length="8">holubi krouží nad městem.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100101010" rhyme="3" line_length="9">Ostrovy z hlubin vod se noří,</l>
+     <l n="6" met="100101010" rhyme="3" line_length="9">zahrady na nich nachem hoří</l>
+     <l n="7" met="01010101" rhyme="2" line_length="8">a zlatým listím břehů lem –</l>
+     <l n="8" met="10010100" rhyme="2" line_length="8">holubi krouží nad městem.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100101010" rhyme="4" line_length="9">Obloha modrá kyne s výše,</l>
+     <l n="10" met="100101010" rhyme="4" line_length="9">svadlého listí vůně dýše</l>
+     <l n="11" met="10010100" rhyme="2" line_length="8">přes řeku z dálných břehů sem –</l>
+     <l n="12" met="10010100" rhyme="2" line_length="8">holubi krouží nad městem.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100101010" rhyme="5" line_length="9">Dřímota sladká duši jímá,</l>
+     <l n="14" met="100101010" rhyme="5" line_length="9">umlká touha, bolest dřímá</l>
+     <l n="15" met="01010100" rhyme="2" line_length="8">a slunné ticho v nitru mém –</l>
+     <l n="16" met="10010100" rhyme="2" line_length="8">holubi krouží nad městem.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SMÍRNÉ SLOKY</title>
+    <author>Sova, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sova, Antonín_smirne-sloky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SMÍRNÉ SLOKY</title>
+     <author>Sova, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SMÍRNÉ SLOKY</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" rhyme="1" line_length="9">My oba příkrá slova měli,</l>
+     <l n="2" met="01010100" rhyme="2" line_length="8">a kdyby aspoň jeden z nás</l>
+     <l n="3" met="110100010" rhyme="1" line_length="9">strh masku jízlivou, jež dělí,</l>
+     <l n="4" met="01000101" rhyme="2" line_length="8">nám smírně byl by zjihnul hlas.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101000" rhyme="3" line_length="9">To žluč se střetla zatvrzelá,</l>
+     <l n="6" met="10010100" rhyme="4" line_length="8">kamínky, jež tě prohlodá,</l>
+     <l n="7" met="010001000" rhyme="3" line_length="9">s mou chorobou, jež omrzelá</l>
+     <l n="8" met="10010100" rhyme="4" line_length="8">v světnici jedné vysedá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101010" rhyme="5" line_length="9">Až v létě budem v trávě sedat,</l>
+     <l n="10" met="11001100" rhyme="6" line_length="8">zřít obláčky plout nebesy,</l>
+     <l n="11" met="100101010" rhyme="5" line_length="9">vůně se z hájů bude zvedat, –</l>
+     <l n="12" met="01010000" rhyme="6" line_length="8">my v duchu odpustíme si.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

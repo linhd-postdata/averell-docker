@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dni.</title>
+    <author>Černý, Boleslav L.</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Černý, Boleslav L._dni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dni.</title>
+     <author>Černý, Boleslav L.</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dni.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110111010" rhyme="1" line_length="9">Dni! Dlouhé dni jdou kolem čela.</l>
+     <l n="2" met="10010101010" rhyme="2" line_length="11">Pověstné babí léto v skráň se věsí</l>
+     <l n="3" met="0101010101010" rhyme="1" line_length="13">a duše, která kdysi byla také smělá,</l>
+     <l n="4" met="10010001010" rhyme="2" line_length="11">se stínu, prahloupého stínu děsí!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010001010" rhyme="3" line_length="9">A zleká se i vteřin letem</l>
+     <l n="6" met="01010001000" rhyme="4" line_length="11">a mnohdy zdrcena je maličkostí!</l>
+     <l n="7" met="100101000" rhyme="3" line_length="9">Přemýšlí chudým nad dítětem,</l>
+     <l n="8" met="10010101000" rhyme="4" line_length="11">nad lidskou dumá často ubohostí!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010001010" rhyme="5" line_length="9">A soucitu a lásky plna</l>
+     <l n="10" met="01010100010" rhyme="6" line_length="11">se v jiných bolest – utěšitel – noří!</l>
+     <l n="11" met="011001010" rhyme="5" line_length="9">Však dni – za vlnou jdoucí vlna –</l>
+     <l n="12" met="01000101010" rhyme="6" line_length="11">ji utápějí v lidské bídy moři....!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

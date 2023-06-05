@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Cuantas veces me brindan</title>
+    <author>Lope de Vega</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lope de Vega_cuantas-veces-me-brindan</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Poesía Lírica Castellana Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Cuantas veces me brindan</title>
+     <author>Lope de Vega</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Cuantas veces me brindan</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="...">
+     <l n="1" met="+-+--+-">Cuantas veces me brindan</l>
+     <l n="2" met="-+-+-">tus ojos bellos,</l>
+     <l n="3" met="--+--+-">como son de pimienta</l>
+     <l n="4" met="+--+-">bebo con ellos.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>FUMÉE</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_fumee</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>FUMÉE</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>FUMÉE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Là-bas, sous les arbres s'abrite</l>
+     <l n="2" rhyme="b" line_length="8">Une chaumière au dos bossu ;</l>
+     <l n="3" rhyme="a" line_length="8">Le toit penche, le mur s'effrite,</l>
+     <l n="4" rhyme="b" line_length="8">Le seuil de la porte est moussu.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">La fenêtre, un volet la bouche ;</l>
+     <l n="6" rhyme="b" line_length="8">Mais du taudis, comme au temps froid</l>
+     <l n="7" rhyme="a" line_length="8">La tiède haleine d'une bouche,</l>
+     <l n="8" rhyme="b" line_length="8">La respiration se voit.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Un tire-bouchon de fumée,</l>
+     <l n="10" rhyme="b" line_length="8">Tournant son mince filet bleu,</l>
+     <l n="11" rhyme="a" line_length="8">De l'âme en ce bouge enfermée</l>
+     <l n="12" rhyme="b" line_length="8">Porte des nouvelles à Dieu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

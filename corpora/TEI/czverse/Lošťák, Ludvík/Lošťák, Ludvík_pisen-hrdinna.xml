@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Píseň hrdinná.</title>
+    <author>Lošťák, Ludvík</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lošťák, Ludvík_pisen-hrdinna</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Píseň hrdinná.</title>
+     <author>Lošťák, Ludvík</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Píseň hrdinná.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010001010" rhyme="1" line_length="11">Bij, hrome, v ňádro mé, jak biješ v skály,</l>
+     <l n="2" met="11001001010" rhyme="1" line_length="11">cíl nezměním, neb jsem jak hora stálý!</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="10010101010" rhyme="2" line_length="11">O hřmi, jak často bouří v duši tóny,</l>
+     <l n="4" met="01010100010" rhyme="2" line_length="11">jak často bouří za vichřice zvony,</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="00010101010" rhyme="3" line_length="11">já vždy ti skytnu k ráně svoje čelo,</l>
+     <l n="6" met="01000101010" rhyme="3" line_length="11">neb na něm již se mnoho blesků chvělo,</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="01000101010" rhyme="4" line_length="11">a blesky ty zas prchly s mého čela,</l>
+     <l n="8" met="01000101010" rhyme="4" line_length="11">i mračna ta, jež moje cesty tměla.</l>
+    </lg>
+    <lg n="5">
+     <l n="9" met="01010001010" rhyme="5" line_length="11">A po všem víru vždy mi vzešla chvíle,</l>
+     <l n="10" met="01010100010" rhyme="5" line_length="11">kdy v náruč spěl jsem vytčeného cíle...</l>
+    </lg>
+    <lg n="6">
+     <l n="11" met="0101010001010" rhyme="6" line_length="13">Nuž bij jen, hrome, v ňádro mé, jak biješ v skály,</l>
+     <l n="12" met="11001001010" rhyme="6" line_length="11">cíl nezměním, neb jsem jak hora stálý!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

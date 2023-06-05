@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PROMĚNA</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_promena</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PROMĚNA</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PROMĚNA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0001010" rhyme="1" line_length="7">To je ta blahá chvíle,</l>
+     <l n="2" met="000100" rhyme="2" line_length="6">to je ta hodina,</l>
+     <l n="3" met="1001010" rhyme="1" line_length="7">duše je roucho bílé,</l>
+     <l n="4" met="101100" rhyme="2" line_length="6">celá zář jediná.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001010" rhyme="3" line_length="7">Všecka se změní, dive!</l>
+     <l n="6" met="100100" rhyme="4" line_length="6">jako by nebyla,</l>
+     <l n="7" met="0101010" rhyme="3" line_length="7">co byla posud, dříve,</l>
+     <l n="8" met="010100" rhyme="4" line_length="6">jak zázrak spanilá!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1001010" rhyme="5" line_length="7">Nad ní se nebe klene</l>
+     <l n="10" met="010100" rhyme="6" line_length="6">a hoří, skvěje se,</l>
+     <l n="11" met="0001000" rhyme="5" line_length="7">jak když je otevřené,</l>
+     <l n="12" met="001100" rhyme="6" line_length="6">že ho zrak nesnese.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1001110" rhyme="7" line_length="7">Oněměl svět kol v žasu,</l>
+     <l n="14" met="010101" rhyme="8" line_length="6">by v toho ticha klín</l>
+     <l n="15" met="1001110" rhyme="7" line_length="7">mocněji hřměl zvuk hlasu:</l>
+     <l n="16" met="000101" rhyme="8" line_length="6">„To je můj milý Syn!“ –</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="0101000" rhyme="9" line_length="7">Ta chvíle rozhřešení,</l>
+     <l n="18" met="100100" rhyme="10" line_length="6">hostina bez jména,</l>
+     <l n="19" met="0101010" rhyme="9" line_length="7">a které rovno není,</l>
+     <l n="20" met="000100" rhyme="10" line_length="6">to je tvá – proměna!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>OBRAT</title>
+    <author>Zavřel, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Zavřel, František_obrat</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>OBRAT</title>
+     <author>Zavřel, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>OBRAT</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010010" rhyme="1" line_length="7">Pravím, do stolu buše,</l>
+     <l n="2" met="1001010" rhyme="1" line_length="7">čtenáře milé kruše</l>
+     <l n="3" met="0100110" rhyme="1" line_length="7">a domácí mír ruše:</l>
+     <l n="4" met="10010" rhyme="1" line_length="5">K čemu je duše?</l>
+     <l n="5" met="1001010" rhyme="1" line_length="7">Duší jsou plné nůše!</l>
+     <l n="6" met="1101010" rhyme="1" line_length="7">Šíp nutno pustit z kuše:</l>
+     <l n="7" met="10000100" rhyme="2" line_length="8">Napoleonská společnost</l>
+     <l n="8" met="110000100" rhyme="2" line_length="9">má Napoleona zrovna dost</l>
+     <l n="9" met="0100110" rhyme="1" line_length="7">a do levých sfér kluše.</l>
+     <l n="10" met="101001010" rhyme="1" line_length="9">Jejím patronem stal se Fouché!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

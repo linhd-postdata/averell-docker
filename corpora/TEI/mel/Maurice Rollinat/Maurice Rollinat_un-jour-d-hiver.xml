@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Un Jour d'hiver</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_un-jour-d-hiver</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Un Jour d'hiver</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Un Jour d'hiver</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Arqué haut sur les monts et d'un bleu sans nuages</l>
+     <l n="2" rhyme="b" line_length="6+6">Qu'un triomphant soleil embrase éblouissant,</l>
+     <l n="3" rhyme="b" line_length="6+6">Le ciel, par la vallée où la chaleur descend,</l>
+     <l n="4" rhyme="a" line_length="6+6">Anime, en plein hiver, la mort des paysages.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">Il semble qu'ici, là, la mouche revoltige,</l>
+     <l n="6" rhyme="d" line_length="6+6">Tourne dans la poussière ardente du rayon ;</l>
+     <l n="7" rhyme="d" line_length="6−6">On va voir le martin-pêcheur, le papillon,</l>
+     <l n="8" rhyme="c" line_length="6+6">L'un raser le ruisseau, l'autre effleurer la tige !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="6+6">Le ravin clair bénit l'horizon rallumé ;</l>
+     <l n="10" rhyme="e" line_length="6+6">Du branchage et du tronc l'arbre désembrumé</l>
+     <l n="11" rhyme="f" line_length="6+6">Contemple, radieux, le luisant de la pierre.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="6+6">Et, dans l'espace, au loin, partout, les yeux surpris</l>
+     <l n="13" rhyme="g" line_length="6+6">Ont la sensation d'un été chauve et gris</l>
+     <l n="14" rhyme="f" line_length="6+6">Dont la stérilité rirait à la lumière.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

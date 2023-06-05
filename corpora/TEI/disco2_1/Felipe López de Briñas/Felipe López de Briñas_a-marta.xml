@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Marta</title>
+    <author>Felipe López de Briñas</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Felipe López de Briñas_a-marta</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Marta</title>
+     <author>Felipe López de Briñas</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Marta</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-++--++-+-">Crecen dos aves en un bosque unidas</l>
+     <l n="2" met="-+-+---+-+-">y entonan juntas su cantar sonoro,</l>
+     <l n="3" met="-+-+---+-+-">y en verdes valles y en florestas de oro</l>
+     <l n="4" met="+--+---+-+-">vuelan alegres y del pico asidas.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">Hermanas tiernas del amor queridas,</l>
+     <l n="6" met="+--+---+-+-">parten gozosas su feliz tesoro,</l>
+     <l n="7" met="---+---+-+-">y se confunde su amoroso lloro</l>
+     <l n="8" met="--++---+++-">como en un beso de placer dos vidas.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">Mas sientes ambas saciedad de amores</l>
+     <l n="10" met="--++-+-+-+-">y buscando otro bien con vago anhelo,</l>
+     <l n="11" met="-+-+---+-+-">las dos se apartan entre bellas flores.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">¡Ay! luz de mi alma, del amor recelo,</l>
+     <l n="13" met="+--+---+-+-">no con tus rayos mi esperanza dores,</l>
+     <l n="14" met="-+-+---+-+-">también se aleja el esplendor del cielo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jedinké slůvko...</title>
+    <author>Pachmayer, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pachmayer, Josef_jedinke-sluvko</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jedinké slůvko...</title>
+     <author>Pachmayer, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jedinké slůvko...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010100" rhyme="1" line_length="10">Jedinké slůvko – a co všechno v něm!</l>
+     <l n="2" met="100100100" rhyme="1" line_length="9">„Nemám Tě ráda již!“ polšeptem.</l>
+     <l n="3" met="10010100100" line_length="11">Člověk je slyší, – mlčí – ač žije dál,</l>
+     <l n="4" met="10010100" rhyme="1" line_length="8">umřelo na vždy všechno v něm,</l>
+     <l n="5" met="10010100" rhyme="1" line_length="8">jediným slova šepotem...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

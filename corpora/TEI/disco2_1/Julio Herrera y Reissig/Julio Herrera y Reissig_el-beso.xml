@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El beso</title>
+    <author>Julio Herrera y Reissig</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Julio Herrera y Reissig_el-beso</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El beso</title>
+     <author>Julio Herrera y Reissig</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El beso</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="--+--+---+-">Disonó tu alegría en el respeto</l>
+     <l n="2" met="-+--+-+--+-">de la hora, como una rima ingrata,</l>
+     <l n="3" met="--+-+---+-+-">en «toilette» cruda, tabletado peto</l>
+     <l n="4" met="-----+---+-">y pasamanerías de escarlata...</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+---+-+-">De tu peineta de bruñida plata</l>
+     <l n="6" met="---+-+---+-">se enamoró la tarde, y junto al seto,</l>
+     <l n="7" met="-+-+-+---+-">loqueando, me crispaban de secreto</l>
+     <l n="8" met="---+-+---+-">tus actitudes lúbricas de gata.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">De pronto, cuando en fútiles porfías</l>
+     <l n="10" met="++---+---+-">me ajaban tus nerviosas ironías,</l>
+     <l n="11" met="-+-+---+-+-">selló tu risa, de soprano alegro,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">con un deleite de alevoso alarde,</l>
+     <l n="13" met="++-+-++--+-">me beso, y fue a perderse con la tarde</l>
+     <l n="14" met="--+----+-+-">en el país de tu abanico negro.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

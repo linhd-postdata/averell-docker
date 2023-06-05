@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SMRT.</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_smrt</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SMRT.</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SMRT.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110101000" rhyme="1" line_length="9">Smrt není žádné rozluštění,</l>
+     <l n="2" met="10010100" rhyme="2" line_length="8">smrt jest jen nová otázka,</l>
+     <l n="3" met="010101000" rhyme="1" line_length="9">je těla nové proměnění,</l>
+     <l n="4" met="10010100" rhyme="2" line_length="8">na novou rakev zakázka,</l>
+     <l n="5" met="010101010" rhyme="3" line_length="9">je tatáž píseň v jiném šatu,</l>
+     <l n="6" met="01010101" rhyme="4" line_length="8">je jiný verš jen, jiný rým,</l>
+     <l n="7" met="01000100" rhyme="4" line_length="8">je odchodem jen tajemným</l>
+     <l n="8" met="100001000" rhyme="3" line_length="9">bez shledání a bez návratu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

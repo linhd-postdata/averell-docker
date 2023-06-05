@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Noc.</title>
+    <author>Jonáš, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jonáš, Karel_noc</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Noc.</title>
+     <author>Jonáš, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Noc.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101" line_length="6">Nad krajem dusný klid.</l>
+     <l n="2" met="010100" rhyme="1" line_length="6">Jen v temné dáli kdes</l>
+     <l n="3" met="010001" rhyme="1" line_length="6">teď od země se vznes</l>
+     <l n="4" met="100101" rhyme="2" line_length="6">neznámý, žalný hlas</l>
+     <l n="5" met="0101010" line_length="7">a letěl zvolna vzhůru;</l>
+     <l n="6" met="10001" rhyme="3" line_length="5">k výšinám se chvěl,</l>
+     <l n="7" met="10001" rhyme="3" line_length="5">zanikal a mřel, –</l>
+     <l n="8" met="010101" rhyme="2" line_length="6">až v těžkých mračnech zhas...</l>
+    </lg>
+    <lg n="2">
+     <l n="9" met="010010" rhyme="2" line_length="6">Pak ticho a klid zas...</l>
+     <l n="10" met="010100" rhyme="4" line_length="6">A marně čekáš teď,</l>
+     <l n="11" met="010100" line_length="6">že na ten výkřik snad</l>
+     <l n="12" met="110100" rhyme="4" line_length="6">dá nebe odpověď.</l>
+     <l n="13" met="1100010" line_length="7">Sta, tisíce těch hlasů</l>
+     <l n="14" met="010100" rhyme="5" line_length="6">a stejně žalných tak,</l>
+     <l n="15" met="0100010" line_length="7">již zarylo se mrtvě</l>
+     <l n="16" met="010101" rhyme="5" line_length="6">v ten těžký, černý mrak,</l>
+     <l n="17" met="0101010" line_length="7">neb lidstvo vzhůru volá</l>
+     <l n="18" met="10001" rhyme="4" line_length="5">přes tisíce let –</l>
+     <l n="19" met="0101010" line_length="7">a s hůry dosud nikdy</l>
+     <l n="20" met="10100" rhyme="4" line_length="5">žádná odpověď.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>BALLADA O SVÁTEČNÍM STŘELCI.</title>
+    <author>Kaminský, Bohdan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kaminský, Bohdan_ballada-o-svatecnim-strelci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>BALLADA O SVÁTEČNÍM STŘELCI.</title>
+     <author>Kaminský, Bohdan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>BALLADA O SVÁTEČNÍM STŘELCI.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" rhyme="1" line_length="8">Na krásný se chystal výlet,</l>
+     <l n="2" met="10001010" rhyme="1" line_length="8">zajíce prý půjde střílet:</l>
+     <l n="3" met="011" line_length="3">pif, paf, puf!</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="10010010" rhyme="2" line_length="8">Prší. A na kůži mokna,</l>
+     <l n="5" met="10101010" rhyme="2" line_length="8">Pánu Bohu střílí v okna:</l>
+     <l n="6" met="011" line_length="3">pif, paf, puf!</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="10101010" rhyme="3" line_length="8">S prázdnou domů měl se vracet –</l>
+     <l n="8" met="10101010" rhyme="3" line_length="8">na zlost vypil aspoň dvacet</l>
+     <l n="9" met="111" line_length="3">piv, paf, puf!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

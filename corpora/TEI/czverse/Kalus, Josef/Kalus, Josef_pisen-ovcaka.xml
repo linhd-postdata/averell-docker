@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Píseň ovčáka.</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_pisen-ovcaka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Píseň ovčáka.</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Píseň ovčáka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" line_length="6">U prostřed oveček</l>
+     <l n="2" met="10010" rhyme="1" line_length="5">bílého rouna</l>
+     <l n="3" met="100100" line_length="6">sedím a poslouchám,</l>
+     <l n="4" met="10010" rhyme="1" line_length="5">potok jak šplouná,</l>
+     <l n="5" met="010100" line_length="6">jak šumí jedloví,</l>
+     <l n="6" met="10010" rhyme="2" line_length="5">břízy a buky,</l>
+     <l n="7" met="010101" line_length="6">jak drozd svůj mísí zpěv</l>
+     <l n="8" met="10010" rhyme="2" line_length="5">v slavičí tluky.</l>
+    </lg>
+    <lg n="2">
+     <l n="9" met="100100" line_length="6">Pořád jsem na horách</l>
+     <l n="10" met="10010" rhyme="3" line_length="5">v noci i ve dne;</l>
+     <l n="11" met="100100" line_length="6">nade mnou červánek</l>
+     <l n="12" met="10010" rhyme="3" line_length="5">vzplane i zbledne,</l>
+     <l n="13" met="100100" line_length="6">oblaky letí v dál</l>
+     <l n="14" met="01010" rhyme="4" line_length="5">a měsíc snivý</l>
+     <l n="15" met="100100" line_length="6">s hvězdami prochází</l>
+     <l n="16" met="10010" rhyme="4" line_length="5">blankytné nivy.</l>
+    </lg>
+    <lg n="3">
+     <l n="17" met="010100" line_length="6">Když ráno slunéčko</l>
+     <l n="18" met="10010" rhyme="5" line_length="5">v plápol se nítí</l>
+     <l n="19" met="010101" line_length="6">a ptáci vzlétnou z hnízd,</l>
+     <l n="20" met="10010" rhyme="5" line_length="5">včeličky z kvítí:</l>
+     <l n="21" met="110100" line_length="6">k rtům kladu píšťalu</l>
+     <l n="22" met="10010" rhyme="6" line_length="5">jakoby maně</l>
+     <l n="23" met="010100" line_length="6">a slavím písněmi</l>
+     <l n="24" met="10010" rhyme="6" line_length="5">dobrotu Páně!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

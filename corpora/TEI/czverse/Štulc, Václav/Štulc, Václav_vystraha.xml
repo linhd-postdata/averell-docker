@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Výstraha.</title>
+    <author>Štulc, Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Štulc, Václav_vystraha</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Výstraha.</title>
+     <author>Štulc, Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Výstraha.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Dítě! nečiň, chraň se zlého,</l>
+     <l n="2" met="10110100" rhyme="2" line_length="8">Čiň co čiň, Bůh to zahledne;</l>
+     <l n="3" met="00101010" rhyme="1" line_length="8">On se dívá z nebe Svého</l>
+     <l n="4" met="10001000" rhyme="1" line_length="8">Na velkého na malého,</l>
+     <l n="5" met="10101010" rhyme="2" line_length="8">Vidí v noci jako ve dne.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="00101010" rhyme="3" line_length="8">Nechť tu otce, matky není,</l>
+     <l n="7" met="10100010" rhyme="4" line_length="8">Bůh jest u tě vždy a všude.</l>
+     <l n="8" met="10101000" rhyme="3" line_length="8">Chraň se zlého provinění,</l>
+     <l n="9" met="00100010" rhyme="3" line_length="8">Ať On smuten skrz tě není:</l>
+     <l n="10" met="10100010" rhyme="4" line_length="8">Sice jednou zle ti bude!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

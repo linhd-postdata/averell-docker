@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NÁVRAT Z LESŮ.</title>
+    <author>Mužík, Augustin Eugen</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mužík, Augustin Eugen_navrat-z-lesu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NÁVRAT Z LESŮ.</title>
+     <author>Mužík, Augustin Eugen</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NÁVRAT Z LESŮ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010" rhyme="1" line_length="8">Vracím se, vracím se z lesů,</l>
+     <l n="2" met="10010010" rhyme="1" line_length="8">každému kytičku nesu:</l>
+     <l n="3" met="10010010" rhyme="2" line_length="8">kytičku fial a jmelí,</l>
+     <l n="4" met="10010010" rhyme="2" line_length="8">aby mne mládenci chtěli.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010010" rhyme="1" line_length="8">Vracím se, vracím se z lesů,</l>
+     <l n="6" met="10010010" rhyme="1" line_length="8">každému kytičku nesu:</l>
+     <l n="7" met="100100100" rhyme="3" line_length="9">kytičku kopřiv a kapradí,</l>
+     <l n="8" met="010100100" rhyme="3" line_length="9">to dědky ode mne odradí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

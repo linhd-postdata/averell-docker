@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ÉPITAPHE SUR UNE PIERRE TOMBALE</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_epitaphe-sur-une-pierre-tombal</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ÉPITAPHE SUR UNE PIERRE TOMBALE</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ÉPITAPHE SUR UNE PIERRE TOMBALE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Voici la porte d’où je sors,…</l>
+     <l n="2" rhyme="b" line_length="8">Ô mes roses et mes épines !</l>
+     <l n="3" rhyme="a" line_length="8">Qu’importe l’autrefois ? Je dors</l>
+     <l n="4" rhyme="b" line_length="8">En songeant aux choses divines…</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Voici donc mon âme ravie,</l>
+     <l n="6" rhyme="b" line_length="8">Car elle s’apaise et s’endort</l>
+     <l n="7" rhyme="b" line_length="8">Ayant, pour l’amour de la Mort,</l>
+     <l n="8" rhyme="a" line_length="8">Pardonné ce crime : la Vie.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

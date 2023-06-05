@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto </title>
+    <author>Cervantes</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cervantes_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto </title>
+     <author>Cervantes</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">No ha menester el que tus hechos canta,</l>
+     <l n="2" met="-+-+---+-+-">¡Oh gran marqués!, el artificio humano,</l>
+     <l n="3" met="--+-++-+-+-">que a la más sutil pluma y docta mano</l>
+     <l n="4" met="+--+---+-+-">ellos le ofrecen al que el orbe espanta;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+----+---+-">y este que sobre el cielo se levanta,</l>
+     <l n="6" met="-+---+---+-">llevado de tu nombre soberano,</l>
+     <l n="7" met="-+-+---+-+-">a par del griego y escritor toscano,</l>
+     <l n="8" met="-+-+---+-+-">sus sienes ciñe con la verde planta;</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+++---+-+-">y fue muy justa prevención del cielo</l>
+     <l n="10" met="++---+-+-+-">que a un tiempo ejercitases tú la espada</l>
+     <l n="11" met="+--+---+-+-">y él su prudente y verdadera pluma,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+---+-+-">porque, rompiendo de la envidia el velo,</l>
+     <l n="13" met="-+---+---+-">tu fama, en sus escritos dilatada,</l>
+     <l n="14" met="-+-+-+---+-">ni olvido o tiempo o muerte la consuma.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LE POÈTE</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_le-poete</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LE POÈTE</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LE POÈTE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Il porte obscurément la pourpre du poète</l>
+     <l n="2" rhyme="b" line_length="6+6">Ce passant qu’on rencontre au détour du chemin,</l>
+     <l n="3" rhyme="b" line_length="6+6">Vers lequel nul ne tend sa secourable main</l>
+     <l n="4" rhyme="a" line_length="6+6">Et qui lève vers l’aube un front large d’ascète.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Mais sous le grand manteau percé de mille trous,</l>
+     <l n="6" rhyme="b" line_length="6+6">Si vieux qu’il est pareil aux innombrables toiles</l>
+     <l n="7" rhyme="b" line_length="6+6">Que l’araignée a su tramer sous les étoiles,</l>
+     <l n="8" rhyme="a" line_length="6+6">S’ouvrent ses yeux divins, prophétiques et fous.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6−6">Cet inconnu c’est le poète en son passage,</l>
+     <l n="10" rhyme="b" line_length="6+6">Et le vent du chemin lui dicte, ainsi qu’un dieu</l>
+     <l n="11" rhyme="b" line_length="6+6">Dicte un ordre divin, son chant impérieux…</l>
+     <l n="12" rhyme="a" line_length="6+6">… Mais hélas ! nul n’entend le merveilleux message.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="6+6">Toi, dont le vent clément rafraîchit le front nu,</l>
+     <l n="14" rhyme="b" line_length="6+6">Tu n’oses même pas solliciter l’Aumône !</l>
+     <l n="15" rhyme="b" line_length="6+6">Mais les siècles futurs te verront sur un trône,</l>
+     <l n="16" rhyme="a" line_length="6+6">Couronné de rayons, ô divin Inconnu !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

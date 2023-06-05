@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NAŠE SLOVO.</title>
+    <author>Šolc, Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Šolc, Václav_nase-slovo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NAŠE SLOVO.</title>
+     <author>Šolc, Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NAŠE SLOVO.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Až slovo naše vtělí se,</l>
+     <l n="2" met="01010100" rhyme="1" line_length="8">nám život bude narozen,</l>
+     <l n="3" met="01010100" rhyme="2" line_length="8">a v den se skutků promění</l>
+     <l n="4" met="01010101" rhyme="1" line_length="8">ten dlouhý prázdných tužeb sen:</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">Tuť doba slavná nastane,</l>
+     <l n="6" met="11000100" rhyme="2" line_length="8">den pohřbu to a vzkříšení,</l>
+     <l n="7" met="01000100" line_length="8">když nad mohylou nadějí</l>
+     <l n="8" met="10100100" rhyme="2" line_length="8">čin své postaví zrození.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="00010101" line_length="8">Však teď jen slovo máme, hlas,</l>
+     <l n="10" met="01001001" rhyme="3" line_length="8">než mocné jak Peruna řeč,</l>
+     <l n="11" met="01010100" line_length="8">a ostré naše myšlénky</l>
+     <l n="12" met="01010111" rhyme="3" line_length="8">jak ostrou boží blesk má seč.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10010100" line_length="8">A náš když vstane apoštol</l>
+     <l n="14" met="10100101" rhyme="4" line_length="8">a svůj pozvedne pravdy hlas,</l>
+     <l n="15" met="00010100" line_length="8">tu sám i mistr nevěry,</l>
+     <l n="16" met="01000101" rhyme="4" line_length="8">sám pekelný se třese ďas.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="01010100" line_length="8">A protož slova držme se,</l>
+     <l n="18" met="00010100" rhyme="5" line_length="8">vždyť přec se jednou vtělí nám,</l>
+     <l n="19" met="01010100" line_length="8">my slovem základ vykopem’,</l>
+     <l n="20" met="01010101" rhyme="5" line_length="8">náš čin pak stavět bude chrám.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

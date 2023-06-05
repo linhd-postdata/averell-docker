@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PYGMALION</title>
+    <author>Henri Murger</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Henri Murger_pygmalion</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PYGMALION</title>
+     <author>Henri Murger</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PYGMALION</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Les prêtres de Vénus attendent sa statue,</l>
+     <l n="2" rhyme="b" line_length="6+6">Mais l'artiste jaloux au temple athénien</l>
+     <l n="3" rhyme="a" line_length="6+6">Refuse d'exposer la figure attendue,</l>
+     <l n="4" rhyme="b" line_length="6+6">Car son cœur s'est épris de l'œuvre de sa main.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Devant lui la déesse étale toute nue</l>
+     <l n="6" rhyme="b" line_length="6+6">L'immobile splendeur de son beau corps divin ;</l>
+     <l n="7" rhyme="a" line_length="6+6">Et l'artiste à genoux caresse de la vue</l>
+     <l n="8" rhyme="b" line_length="6+6">Le marbre inanimé, qui s'anima soudain !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Poëte ! Le miracle eut lieu dans l'ère antique,</l>
+     <l n="10" rhyme="c" line_length="6+6">Et les dieux exilés de la sphère olympique</l>
+     <l n="11" rhyme="d" line_length="6+6">Comme l'artiste grec ne t'exauceront pas.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Épris de la beauté de ta propre chimère,</l>
+     <l n="13" rhyme="e" line_length="6+6">Comme Pygmalion son amante de pierre,</l>
+     <l n="14" rhyme="d" line_length="6+6">Tu ne la verras point s'animer dans tes bras.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Presentado es el menudo</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_presentado-es-el-menudo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Presentado es el menudo</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Presentado es el menudo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="--++--+-" line_length="8">Presentado es el menudo</l>
+     <l n="2" met="----+-+-" line_length="8">y de que sabrá mejor</l>
+     <l n="3" met="---+---+-" line_length="9">que los que el padre prïor</l>
+     <l n="4" met="+---+++-" line_length="8">trajo de París no dudo;</l>
+     <l n="5" met="++-+--+-" line_length="8">no va de flores desnudo,</l>
+     <l n="6" met="--+---+-" line_length="8">que censuras y rigores</l>
+     <l n="7" met="------+-" line_length="8">de vuestros superïores</l>
+     <l n="8" met="++--+---" line_length="8">nunca han permitido que entre</l>
+     <l n="9" met="-+-+-++-" line_length="8">con fruto allá ningún vientre,</l>
+     <l n="10" met="-++---+-" line_length="8">y así, es bien entre con flores.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

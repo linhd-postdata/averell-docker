@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Explosión</title>
+    <author>Delmira Agustini</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Delmira Agustini_explosion</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Explosión</title>
+     <author>Delmira Agustini</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Explosión</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="--++-+-+-+-">¡Si la vida es amor, bendita sea!</l>
+     <l n="2" met="+-++----++-">¡Quiero más vida para amar! Hoy siento</l>
+     <l n="3" met="-++-++---+-">que no valen mil años de la idea</l>
+     <l n="4" met="-+-+-+---+-">lo que un minuto azul del sentimiento.</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="---+-++--+-">Mi corazón moría triste y lento...</l>
+     <l n="6" met="+-+--+-+-+-">Hoy abre en luz como una flor febea;</l>
+     <l n="7" met="-+-+--++-+-">¡la vida brota como un mar violento</l>
+     <l n="8" met="---+---+-+-">donde la mano del amor golpea!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+-+-+-">Hoy, partió hacia la noche, triste, fría,</l>
+     <l n="10" met="+--+------+-">rotas las alas de mi melancolía;</l>
+     <l n="11" met="-+-+-+---+-">como una vieja mancha del dolor</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">en la sombra lejana se deslíe...</l>
+     <l n="13" met="-+-+-+-+-+-">¡Mi vida toda canta, besa, ríe!</l>
+     <l n="14" met="-+-+++-+-+-">¡Mi vida toda es una boca en flor!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

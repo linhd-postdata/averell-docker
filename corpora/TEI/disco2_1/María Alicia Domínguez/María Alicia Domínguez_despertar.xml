@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Despertar</title>
+    <author>María Alicia Domínguez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>María Alicia Domínguez_despertar</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Despertar</title>
+     <author>María Alicia Domínguez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Despertar</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--++-+---+-">En aquel bosque en flor junto a la fuete</l>
+     <l n="2" met="+--+--+--+-">yo era de bronce. Los ocasos de oro</l>
+     <l n="3" met="-+-+-+---+-">fulgiendo en mí, volcaban su tesoro</l>
+     <l n="4" met="---+--++-+-">sobre las aguas, en un fuego ardiente.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+-+-+-">Yo era insensible al aire azul y al coro</l>
+     <l n="6" met="--+--+---+-">de las ninfas del bosque y al silente</l>
+     <l n="7" met="-+---+---+-">espíritu nocturno que en mi frente</l>
+     <l n="8" met="-++---+--+-">prendía gemas de rocío y lloro.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">¿De dónde, en alas de la sombra, vino</l>
+     <l n="10" met="-+-+-+-+-+-">a mí, diciendo, aquella voz extraña:</l>
+     <l n="11" met="-+-+-+---+-">«¿Dormida está en el mundo floreciente?»,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">abierto el horizonte en mi destino</l>
+     <l n="13" met="---+---+-+-">se despertó mi endurecida entraña</l>
+     <l n="14" met="-++--+---+-">y me puse a llorar sobre la fuente...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

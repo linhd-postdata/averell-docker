@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Amor sádico</title>
+    <author>Julio Herrera y Reissig</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Julio Herrera y Reissig_amor-sadico</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Amor sádico</title>
+     <author>Julio Herrera y Reissig</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Amor sádico</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="++++---+-+-">Ya no te amaba, sin dejar por eso</l>
+     <l n="2" met="-+-+---+-+-">de amar la sombra de tu amor distante.</l>
+     <l n="3" met="++++---+-+-">Ya no te amaba, y sin embargo, el beso</l>
+     <l n="4" met="---+-+-+-+-">de la repulsa nos unió un instante...</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">Agrio placer y bárbaro embeleso</l>
+     <l n="6" met="-+-++--+-+-">crispó mi faz, me demudó el semblante;</l>
+     <l n="7" met="++++-+-+-+-">ya no te amaba, y me turbé no obstante,</l>
+     <l n="8" met="-+-+--++-+-">como una virgen en un bosque espeso.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">Y ya perdida para siempre, al verte</l>
+     <l n="10" met="---+---+-+-">anochecer en el eterno luto,</l>
+     <l n="11" met="+--+---+-+-">mudo el amor, el corazón inerte,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">huraño, atroz, inexorable, hirsuto,</l>
+     <l n="13" met="-+-+---+-+-">jamás viví como en aquella muerte,</l>
+     <l n="14" met="+-++---+-+-">¡nunca te amé como en aquel minuto!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

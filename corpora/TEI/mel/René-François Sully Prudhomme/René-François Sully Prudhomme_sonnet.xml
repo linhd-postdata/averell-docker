@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SONNET</title>
+    <author>René-François Sully Prudhomme</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>René-François Sully Prudhomme_sonnet</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SONNET</title>
+     <author>René-François Sully Prudhomme</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SONNET</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">À vingt ans on a l'œil difficile et très fier :</l>
+     <l n="2" rhyme="b" line_length="6+6">On ne regarde pas la première venue,</l>
+     <l n="3" rhyme="b" line_length="6+6">Mais la plus belle ! Et, plein d'une extase ingénue,</l>
+     <l n="4" rhyme="a" line_length="6+6">On prend pour de l'amour le désir né d'hier.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Plus tard, quand on a fait l'apprentissage amer,</l>
+     <l n="6" rhyme="b" line_length="6+6">Le prestige insolent des grands yeux diminue,</l>
+     <l n="7" rhyme="b" line_length="6+6">Et d'autres, d'une grâce autrefois méconnue,</l>
+     <l n="8" rhyme="a" line_length="6+6">Révèlent un trésor plus intime et plus cher.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Mais on ne fait jamais que changer d'infortune :</l>
+     <l n="10" rhyme="c" line_length="6+6">À l'âge où l'on croyait n'en pouvoir aimer qu'une,</l>
+     <l n="11" rhyme="d" line_length="6+6">C'est par elle déjà qu'on apprit à souffrir ;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Puis, quand on reconnaît que plus d'une est charmante,</l>
+     <l n="13" rhyme="e" line_length="6+6">On sent qu'il est trop tard pour choisir une amante</l>
+     <l n="14" rhyme="d" line_length="6+6">Et que le cœur n'a plus la force de s'ouvrir.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

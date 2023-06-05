@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LE PÂTRE</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_le-patre</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LE PÂTRE</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LE PÂTRE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Que ce pâtre à jambe de bois</l>
+     <l n="2" rhyme="b" line_length="8">Est donc vieux malgré son jeune âge !</l>
+     <l n="3" rhyme="b" line_length="8">— Il chante, comme c'est l'usage.</l>
+     <l n="4" rhyme="a" line_length="8">Mais quelle épouvantable voix !</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Jamais sourire plus narquois</l>
+     <l n="6" rhyme="b" line_length="8">N'a ridé plus hideux visage.</l>
+     <l n="7" rhyme="a" line_length="8">Que ce pâtre à jambe de bois</l>
+     <l n="8" rhyme="b" line_length="8">Est donc vieux malgré son jeune âge !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Voici que ma chienne aux abois</l>
+     <l n="10" rhyme="b" line_length="8">Flaire un calamiteux présage ;</l>
+     <l n="11" rhyme="b" line_length="8">Quant à moi, dans le paysage,</l>
+     <l n="12" rhyme="a" line_length="8">Je ne regarde et je ne vois</l>
+     <l n="13" rhyme="a" line_length="8">Que ce pâtre à jambe de bois.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

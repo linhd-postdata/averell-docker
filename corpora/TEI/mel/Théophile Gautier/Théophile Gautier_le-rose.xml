@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LE ROSE</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_le-rose</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LE ROSE</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LE ROSE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Je connais tous les tons de la gamme du rose,</l>
+     <l n="2" rhyme="b" line_length="6+6">Laque, pourpre, carmin, cinabre et vermillon.</l>
+     <l n="3" rhyme="b" line_length="6+6">Je sais ton incarnat, aile du papillon,</l>
+     <l n="4" rhyme="a" line_length="6+6">Et les teintes que prend la pudeur de la rose.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">A Grenade, des bords que le Xénil arrose</l>
+     <l n="6" rhyme="b" line_length="6+6">J'ai, sur le Mulhacen lamé de blanc paillon,</l>
+     <l n="7" rhyme="b" line_length="6+6">Vu la neige rosir sous le dernier rayon</l>
+     <l n="8" rhyme="a" line_length="6+6">Que l'astre, en se couchant, comme un baiser y pose.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">J'ai vu l'aurore mettre un doux reflet pourpré</l>
+     <l n="10" rhyme="d" line_length="6+6">Aux Vénus soulevant le voile qui leur pèse,</l>
+     <l n="11" rhyme="d" line_length="6+6">Et surpris dans les bois la rougeur de la fraise.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="c" line_length="6+6">Mais le rose qui monte à votre front nacré</l>
+     <l n="13" rhyme="e" line_length="6+6">Au moindre madrigal qu'on vous force d'entendre</l>
+     <l n="14" rhyme="e" line_length="6+6">De la fraîche palette est le ton le plus tendre.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

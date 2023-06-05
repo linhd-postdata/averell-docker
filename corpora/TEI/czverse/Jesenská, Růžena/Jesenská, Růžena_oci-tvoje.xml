@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Oči tvoje.</title>
+    <author>Jesenská, Růžena</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jesenská, Růžena_oci-tvoje</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Oči tvoje.</title>
+     <author>Jesenská, Růžena</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Oči tvoje.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101010" line_length="8">Čím to svítí oči tvoje,</l>
+     <l n="2" met="0010100" rhyme="1" line_length="7">když se na mne zahledí,</l>
+     <l n="3" met="00001010" line_length="8">že mi v nich ta světla více,</l>
+     <l n="4" met="0010100" rhyme="1" line_length="7">než-li slova povědí?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" line_length="8">Vidím stále oči tvoje,</l>
+     <l n="6" met="0010101" rhyme="2" line_length="7">jak v nich zaplál plamen hvězd,</l>
+     <l n="7" met="10101010" line_length="8">tvoje oči – moje oči,</l>
+     <l n="8" met="1010100" rhyme="2" line_length="7">u nich teplo v duši jest.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001010" line_length="8">Zlíbala bych oči tvoje</l>
+     <l n="10" met="1010101" rhyme="3" line_length="7">pro ten stesk a pro ten žal,</l>
+     <l n="11" met="00001000" line_length="8">jenž se mi hned po vzplanutí</l>
+     <l n="12" met="1010100" rhyme="3" line_length="7">na dně jejich ukázal. – – –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

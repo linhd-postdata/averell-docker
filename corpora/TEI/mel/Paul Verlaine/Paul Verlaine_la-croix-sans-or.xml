@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LA CROIX SANS OR…</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_la-croix-sans-or</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LA CROIX SANS OR…</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LA CROIX SANS OR…</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">La croix sans or du Panthéon</l>
+     <l n="2" rhyme="b" line_length="8">Apparaît par dessus les toits</l>
+     <l n="3" rhyme="b" line_length="8">D'un air plutôt fier et narquois</l>
+     <l n="4" rhyme="a" line_length="8">À mon humble compassion.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Hélas, voilà comme les hommes</l>
+     <l n="6" rhyme="b" line_length="8">Vont traitant ce signe adorable</l>
+     <l n="7" rhyme="a" line_length="8">Qui sur leurs Tyrs et leurs Sodomes</l>
+     <l n="8" rhyme="b" line_length="8">Pourfendait le Diable et son râble.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

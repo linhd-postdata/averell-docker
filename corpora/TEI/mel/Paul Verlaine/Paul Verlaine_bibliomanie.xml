@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>BIBLIOMANIE</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_bibliomanie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>BIBLIOMANIE</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>BIBLIOMANIE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+4+4">Lire n’est rien : faut avoir lu ; faut ; l'a fallu !</l>
+     <l n="2" rhyme="b" line_length="6+6">Pour que si vous lisez dans les livres, qu'honore</l>
+     <l n="3" rhyme="b" line_length="6+6">La Reliure gaie ou sombre, que décore</l>
+     <l n="4" rhyme="a" line_length="6+6">Encore un blason fier ou tendre au choix élu,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="4+4+4">Pourriez, hélas ! contaminer d’un doigt poilu</l>
+     <l n="6" rhyme="b" line_length="4+4+4">D’amateur brut le vélin noble que, sonore</l>
+     <l n="7" rhyme="b" line_length="6+6">Abstraitement, la gloire emplit, glaive ou mandore,</l>
+     <l n="8" rhyme="a" line_length="6+6">D’un grand héros ou d’un poète très… relu !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6−6">C’est vrai qu’étant à la fleur de votre bel âge,</l>
+     <l n="10" rhyme="d" line_length="4+8">Vous auriez tort — quand l’Amour vous laisserait cois</l>
+     <l n="11" rhyme="d" line_length="6+6">Un instant — de ne pas lire, — tels autrefois</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="c" line_length="6−6">Nous ! — les exploits et les beaux vers, quittes, hommage</l>
+     <l n="13" rhyme="e" line_length="6+6">Suprême, à vénérer, dès dûment reliés,</l>
+     <l n="14" rhyme="e" line_length="6+6">Leur majesté, leur force et… leurs dos repliés !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

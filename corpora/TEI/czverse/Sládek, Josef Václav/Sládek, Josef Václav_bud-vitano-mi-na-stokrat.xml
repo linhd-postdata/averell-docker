@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Buď vítáno mi na stokrát.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_bud-vitano-mi-na-stokrat</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Buď vítáno mi na stokrát.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Buď vítáno mi na stokrát.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100" line_length="8">Buď vítáno mi na stokrát,</l>
+     <l n="2" met="0101010" rhyme="1" line_length="7">ty, mojí duše jitro, –</l>
+     <l n="3" met="01000100" line_length="8">tak dlouho práh’ jsem po tobě,</l>
+     <l n="4" met="0100010" rhyme="1" line_length="7">až svitlo jsi v mé nitro!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">Mé hvězdy jedna po druhé</l>
+     <l n="6" met="0100010" rhyme="2" line_length="7">mi zacházely zvolna,</l>
+     <l n="7" met="01000100" line_length="8">a zbyla jen ta vzpomínka,</l>
+     <l n="8" met="0101010" rhyme="2" line_length="7">tak bolná, ach tak bolná!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" line_length="8">Já v žádný den už nevěřil,</l>
+     <l n="10" met="0101010" rhyme="3" line_length="7">tak nebe bylo stměno,</l>
+     <l n="11" met="01001100" line_length="8">tu vzešla’s ty, má dennice,</l>
+     <l n="12" met="1100010" rhyme="3" line_length="7">má duše ty, – má ženo!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

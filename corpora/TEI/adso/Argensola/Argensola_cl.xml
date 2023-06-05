@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- CL - </title>
+    <author>Argensola</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Argensola_cl</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- CL - </title>
+     <author>Argensola</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- CL - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---+-">Hoy que amontona fiestas y alegrías</l>
+     <l n="2" met="-+-+-+--++-">la madre más fecunda y la más santa,</l>
+     <l n="3" met="+--+-+-+-+-">dando a sus buenos hijos toda cuanta</l>
+     <l n="4" met="+--+-+-+-+-">honra les dio partida en muchos días,</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">subid, deseos y esperanzas mías,</l>
+     <l n="6" met="---+---+-+-">donde se goza lo que aquí se canta,</l>
+     <l n="7" met="--+--+---+-">sin temer la grandeza que os espanta</l>
+     <l n="8" met="-+---+---+-">de aquellas celestiales jerarquías.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Penetrad los palacios soberanos</l>
+     <l n="10" met="--+-++-+-+-">hasta el trono do asiste el Rey que juzga</l>
+     <l n="11" met="--+--+---+-">y gobierna y sustenta a los mortales;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">y ved si entre sus nobles cortesanos</l>
+     <l n="13" met="-+-+-+---+-">habrá por gran favor quien me introduzca</l>
+     <l n="14" met="-+---+---+-">siquiera en el zaguán o en sus umbrales.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jsou bolesti...</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_jsou-bolesti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jsou bolesti...</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jsou bolesti...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100010100" rhyme="1" line_length="10">Jsou bolesti, jichž nelze vyslovit,</l>
+     <l n="2" met="01000101000" rhyme="2" line_length="11">jsou zápasy, jichž nelze dobojovat,</l>
+     <l n="3" met="1101010001" rhyme="1" line_length="10">Lze v posled všecko trpěti a mřít,</l>
+     <l n="4" met="01010111000" rhyme="2" line_length="11">však nelze, koho rád máš – nemilovat.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0100010101" rhyme="3" line_length="10">Jsou naděje, jež vzplanou každým dnem</l>
+     <l n="6" met="01010100010" rhyme="4" line_length="11">a splasknou jako bubliny – co s nimi?</l>
+     <l n="7" met="1101000101" rhyme="3" line_length="10">Blah, kdo můž ukojit svou bolest snem,</l>
+     <l n="8" met="01010100010" rhyme="4" line_length="11">svou naděj splnit zbytečnými rýmy...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

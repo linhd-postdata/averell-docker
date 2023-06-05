@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pavučinka.</title>
+    <author>Mužík, Augustin Eugen</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mužík, Augustin Eugen_pavucinka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pavučinka.</title>
+     <author>Mužík, Augustin Eugen</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pavučinka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100010100" line_length="10">Jeť pavučinkou naděj lidská jen,</l>
+     <l n="2" met="01000101010" rhyme="1" line_length="11">již od mládí si tkáme v srdci skrytě.</l>
+     <l n="3" met="0101010101" line_length="10">Ty zlatá muško – štěstí, leť si, leť,</l>
+     <l n="4" met="00010100010" rhyme="1" line_length="11">my přec tě chytnem do hedvábné sítě!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1101010101" line_length="10">Ach, co tu bylo práce, trudů zlých,</l>
+     <l n="6" met="00010100010" rhyme="2" line_length="11">však teď nám kynou veselá již léta!</l>
+     <l n="7" met="1101010100" line_length="10">Bůh pošle náhle jednu bouři svou...</l>
+     <l n="8" met="01010101010" rhyme="2" line_length="11">Kde síť je naše? Po ní opět veta!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

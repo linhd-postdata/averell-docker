@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Den.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_den</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Den.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Den.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101010" rhyme="1" line_length="10">Den je dlouhý. Lze jím Věčnost řešit,</l>
+     <l n="2" met="1010001010" rhyme="1" line_length="10">dobro dělati a rovněž hřešit,</l>
+     <l n="3" met="1010101010" rhyme="2" line_length="10">den je krátký – lze zaň všecko snésti,</l>
+     <l n="4" met="1000101010" rhyme="2" line_length="10">nechápán být, ztratit svoje štěstí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

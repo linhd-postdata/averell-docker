@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Cuerdas heridas</title>
+    <author>Carlos Pezoa Véliz</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Carlos Pezoa Véliz_cuerdas-heridas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Cuerdas heridas</title>
+     <author>Carlos Pezoa Véliz</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Cuerdas heridas</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">Semejante al fulgor de la mañana,</l>
+     <l n="2" met="--+--+---+-">en las cimas nevadas del oriente,</l>
+     <l n="3" met="--+--+---+-">sobre el pálido tinte de tu frente</l>
+     <l n="4" met="-+-+-+---+-">destácase tu crencha soberana.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-++--+---+-">Al verte sonreír en la ventana</l>
+     <l n="6" met="+-+--+---+-">póstrase de rodillas el creyente</l>
+     <l n="7" met="--+--+-+-+-">porque cree mirar la faz sonriente</l>
+     <l n="8" met="-+-+---+-+-">de alguna blanca aparición cristiana.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+---+-+-">Sobre tu suelta cabellera rubia</l>
+     <l n="10" met="+--+---+-+-">cae la luz en ondulante lluvia.</l>
+     <l n="11" met="-+-+---+-+-">Igual al cisne que a lo lejos pierde</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">su busto en sueños de oriental pereza,</l>
+     <l n="13" met="-+---+---+-">mi espíritu que adora la tristeza</l>
+     <l n="14" met="+--+---+-+-">cruza soñando tu pupila verde.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

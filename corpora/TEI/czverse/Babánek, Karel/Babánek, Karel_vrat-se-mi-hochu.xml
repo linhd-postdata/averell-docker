@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VRAŤ SE MI, HOCHU...</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_vrat-se-mi-hochu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VRAŤ SE MI, HOCHU...</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VRAŤ SE MI, HOCHU...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1101000" line_length="7">Zem krví zbarvila se,</l>
+     <l n="2" met="100101" rhyme="1" line_length="6">horečně plane zrak,</l>
+     <l n="3" met="1001010" line_length="7">minulý život zdá se</l>
+     <l n="4" met="100100" rhyme="1" line_length="6">pohádka dávná jak.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001010" line_length="7">V světničce žena sedí</l>
+     <l n="6" met="010011" rhyme="2" line_length="6">a šedivý má vlas,</l>
+     <l n="7" met="1001010" line_length="7">žilnaté spiaty ruce:</l>
+     <l n="8" met="110100" rhyme="2" line_length="6">Vrať, hochu, se mi zas...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

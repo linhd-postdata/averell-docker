@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>IV.</title>
+    <author>Grünwald, Beneš</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Grünwald, Beneš_iv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>IV.</title>
+     <author>Grünwald, Beneš</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>IV.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010100" rhyme="1" line_length="10">Co den, to oddech mého štěstí jest,</l>
+     <l n="2" met="01010000010" rhyme="2" line_length="11">a slunné léto je teď vše mé žití.</l>
+     <l n="3" met="0101010101" rhyme="1" line_length="10">Jsem poutník, jenž se domů vrátil z cest,</l>
+     <l n="4" met="01001001010" rhyme="2" line_length="11">dál nemusí od krbu ráno jíti.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001010100" rhyme="3" line_length="10">Na dálný obzor nebes v zmatku všem</l>
+     <l n="6" met="1100010010" rhyme="3" line_length="10">zřít nemusím a ptát se vždy, kde jsem.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="0101010001" rhyme="4" line_length="10">Neb nebe samo přišlo jak v svůj cíl</l>
+     <l n="8" met="0101010100" rhyme="4" line_length="10">v mé srdce, když jsem lásku pochopil.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mrtev (4)</title>
+    <author>Barák, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Barák, Josef_mrtev-4</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mrtev (4)</title>
+     <author>Barák, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mrtev (4)</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00010100" line_length="8">Jak jsem se zasmál potají</l>
+     <l n="2" met="1000010" rhyme="1" line_length="7">při pohřebním svém zpěvu,</l>
+     <l n="3" met="01010100" line_length="8">když kolem všude lásky dost</l>
+     <l n="4" met="0101010" rhyme="1" line_length="7">a nikde – nikde hněvu!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">Když všichni jenom chválili</l>
+     <l n="6" met="0101010" rhyme="2" line_length="7">a nikde slova hany –</l>
+     <l n="7" met="01010100" line_length="8">jak se mnou světa skvosty už</l>
+     <l n="8" met="0101000" rhyme="2" line_length="7">by byly pochovány!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

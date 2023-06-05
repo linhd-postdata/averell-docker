@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CX</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_cx</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CX</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CX</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="6+6">L'œuvre humaine est l'écho de la chose divine.</l>
+     <l n="2" rhyme="a" line_length="6+6">Astre ou pensée, on sent errer le même mot</l>
+     <l n="3" rhyme="a" line_length="6+6">Du chef-d'œuvre d'en bas au chef-d'œuvre d'en haut.</l>
+     <l n="4" rhyme="b" line_length="6+6">Shakspeare, Dante, Job, Eschyle, vos génies</l>
+     <l n="5" rhyme="b" line_length="6+6">Sont eux-mêmes, devant l'azur, des harmonies ;</l>
+     <l n="6" rhyme="a" line_length="6+6">Ils contemplent le monde et l'ombre et le ciel bleu</l>
+     <l n="7" rhyme="a" line_length="6+6">Et l'être ; et ce qu'ils font est leur réponse à Dieu.</l>
+     <l n="8" rhyme="b" line_length="6+6">Ils prennent l'idéal dans leurs vastes poursuites.</l>
+     <l n="9" rhyme="b" line_length="6+6">Vois. Dieu fait l'Océan ; l'homme fait Hamlet. Quittes.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

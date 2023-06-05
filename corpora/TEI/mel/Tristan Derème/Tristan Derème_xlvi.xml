@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XLVI</title>
+    <author>Tristan Derème</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tristan Derème_xlvi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XLVI</title>
+     <author>Tristan Derème</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XLVI</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6">Pisistrate vêtu des royales étoffes,</l>
+     <l n="2" rhyme="b" line_length="6+6">Ou le berger Ronsard, couronné de laurier,</l>
+     <l n="3" rhyme="a" line_length="6+6">Conduisant le troupeau sublime de ses strophes !</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="a" line_length="6">À la gloire d'Achille ou de Platon le Sage,</l>
+     <l n="5" rhyme="b" line_length="6+6">Lorsque je puis sous la tonnelle du verger</l>
+     <l n="6" rhyme="a" line_length="6−6">Sourire à la beauté de ton jeune visage !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

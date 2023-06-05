@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ya, señoras de mi vida,</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_ya-senoras-de-mi-vida</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ya, señoras de mi vida,</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ya, señoras de mi vida,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="+-+---+-" line_length="8">Ya, señoras de mi vida,</l>
+     <l n="2" met="-+--+-+-" line_length="8">dejando el rascar sabroso,</l>
+     <l n="3" met="+-+---+-" line_length="8">salgo a misa de sarnoso,</l>
+     <l n="4" met="--+---+-" line_length="8">como a misa de parida.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="-+-+--+-" line_length="8">Iré esta tarde a completas</l>
+     <l n="6" met="+-+---+-" line_length="8">a ese templo de garduñas,</l>
+     <l n="7" met="----+-+-" line_length="8">donde colgaré las uñas,</l>
+     <l n="8" met="--+---+-" line_length="8">como el cojo las muletas.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

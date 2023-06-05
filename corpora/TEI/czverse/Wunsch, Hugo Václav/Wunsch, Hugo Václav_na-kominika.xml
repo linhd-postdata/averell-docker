@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Na kominíka.</title>
+    <author>Wunsch, Hugo Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Wunsch, Hugo Václav_na-kominika</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Na kominíka.</title>
+     <author>Wunsch, Hugo Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Na kominíka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010000" line_length="8">Zda otec, učitel neb ty,</l>
+     <l n="2" met="1011010" rhyme="1" line_length="7">rci, kdo má větší kázeň?</l>
+     <l n="3" met="10010100" line_length="8">Před tebou dítě každičké</l>
+     <l n="4" met="1100010" rhyme="1" line_length="7">má ukrutánskou bázeň,</l>
+     <l n="5" met="00101010" rhyme="2" line_length="8">neb-li ono doma kviká,</l>
+     <l n="6" met="10101000" rhyme="2" line_length="8">pošlou na ně kominíka.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

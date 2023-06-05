@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KRÁSA VADNUTÍ.</title>
+    <author>z Wojkowicz, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>z Wojkowicz, Jan_krasa-vadnuti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KRÁSA VADNUTÍ.</title>
+     <author>z Wojkowicz, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KRÁSA VADNUTÍ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" rhyme="1" line_length="8">Zřely se květy navadlé</l>
+     <l n="2" met="10010100" rhyme="1" line_length="8">v jezera čistém zrcadle –</l>
+     <l n="3" met="10010100" rhyme="2" line_length="8">zřely svůj smutek svadání,</l>
+     <l n="4" met="010100100" rhyme="2" line_length="9">jak něžně hlavy jim naklání:</l>
+     <l n="5" met="1001010101" rhyme="3" line_length="10">vznešenost stesku, krásu marných snů...</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="1001000100" rhyme="3" line_length="10">A čím víc pohlížely v hladinu,</l>
+     <l n="7" met="000101000" rhyme="4" line_length="9">tím víc svou krásou zaujaty,</l>
+     <l n="8" met="010101010" rhyme="4" line_length="9">víc byly k sobě láskou jaty –</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101010100" rhyme="5" line_length="10">tak vadly, vadly – svadly docela.</l>
+    </lg>
+    <lg n="4">
+     <l n="10" met="010100010100" rhyme="5" line_length="12">Tu nad jich krásou se i vlna zachvěla.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

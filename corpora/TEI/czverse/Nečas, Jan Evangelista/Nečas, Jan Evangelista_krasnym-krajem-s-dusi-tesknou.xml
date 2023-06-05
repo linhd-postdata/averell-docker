@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Krásným krajem s duší tesknou</title>
+    <author>Nečas, Jan Evangelista</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nečas, Jan Evangelista_krasnym-krajem-s-dusi-tesknou</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Krásným krajem s duší tesknou</title>
+     <author>Nečas, Jan Evangelista</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Krásným krajem s duší tesknou</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">Krásným krajem s duší tesknou </l>
+     <l n="2" met="10010" rhyme="1" line_length="5">chodím sám a sám,</l>
+     <l n="3" met="10101010" line_length="8">s hor i z dolin mysl moje</l>
+     <l n="4" met="10100" rhyme="1" line_length="5">vánkem vane k Vám.</l>
+     <l n="5" met="00101010" line_length="8">Když mně osud dálkou světa</l>
+     <l n="6" met="100010" rhyme="2" line_length="6">viděti Vás brání,</l>
+     <l n="7" met="10001010" line_length="8">otvírám své duši dvířka</l>
+     <l n="8" met="101000" rhyme="2" line_length="6">milých vzpomínání!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

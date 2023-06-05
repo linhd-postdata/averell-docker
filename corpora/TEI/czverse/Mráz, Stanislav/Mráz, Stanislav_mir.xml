@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mír.</title>
+    <author>Mráz, Stanislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mráz, Stanislav_mir</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mír.</title>
+     <author>Mráz, Stanislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mír.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010100" rhyme="1" line_length="12">Zač prosíš moře hvězd, zač dráhu sluneční:</l>
+     <l n="2" met="100100100001" rhyme="2" line_length="12">radostný paprsek nalezne ten tvůj znak</l>
+     <l n="3" met="100100010100" line_length="12">na cestě k vrcholu či v cestě s vrchu zpět</l>
+     <l n="4" met="010001" rhyme="2" line_length="6">a polibí tvůj zrak</l>
+     <l n="5" met="010100010101" rhyme="1" line_length="12">a čelo polibí a srdce, které sní.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="100101010101" rhyme="3" line_length="12">Nad nitrem, které ždá si přátel svatý kruh,</l>
+     <l n="7" met="100101010101" rhyme="4" line_length="12">bez přátel pustá zem a smutná jako hrob,</l>
+     <l n="8" met="010101010100" line_length="12">když končí hořký den i sladký okamžik</l>
+     <l n="9" met="010101" rhyme="4" line_length="6">a přísvit zlatých dob</l>
+     <l n="10" met="100100100101" rhyme="3" line_length="12">vzepne se, vzklene se nejkrasší květných duh.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="100100100100" rhyme="5" line_length="12">Vyvstane obloukem nad čerstvou mohylou</l>
+     <l n="12" met="010101010001" rhyme="6" line_length="12">a slaví lidskou pouť a srdce tvé a sen</l>
+     <l n="13" met="010101100101" line_length="12">a jako brána v ráj stoupne si u tvých hlav.</l>
+     <l n="14" met="010101" rhyme="6" line_length="6">Jak západ barví den,</l>
+     <l n="15" met="010100100100" rhyme="5" line_length="12">hned východ rozplane smíchem a slzou tvou!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

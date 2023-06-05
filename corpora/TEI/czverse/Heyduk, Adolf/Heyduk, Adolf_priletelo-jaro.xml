@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Přiletělo jaro...</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_priletelo-jaro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Přiletělo jaro...</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Přiletělo jaro...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" line_length="6">Přiletělo jaro,</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">poupě v slunko touží,</l>
+     <l n="3" met="101000" line_length="6">tiše nad vesničkou</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">čáp své kruhy krouží.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100010" line_length="6">Níží se a zvedá,</l>
+     <l n="6" met="001010" rhyme="2" line_length="6">kam pak asi chvátí?</l>
+     <l n="7" met="010010" line_length="6">Že některou chýšku</l>
+     <l n="8" met="101000" rhyme="2" line_length="6">zase obohatí! –</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="001010" line_length="6">Dost, můj milý čápe,</l>
+     <l n="10" met="001010" rhyme="3" line_length="6">juž jsi každé chatě</l>
+     <l n="11" met="101010" line_length="6">pěkných drobných dětí</l>
+     <l n="12" met="101000" rhyme="3" line_length="6">snesl vrchovatě.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100010" line_length="6">Nevidíš jich tamo,</l>
+     <l n="14" met="001010" rhyme="4" line_length="6">jak se k oknu tlačí,</l>
+     <l n="15" met="001010" line_length="6">že jim sotva malé</l>
+     <l n="16" met="100010" rhyme="4" line_length="6">tabulečky stačí?</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="100010" line_length="6">Dosti snad, jen jedno</l>
+     <l n="18" met="100010" rhyme="5" line_length="6">učiň nám, můj zlatý:</l>
+     <l n="19" met="101000" line_length="6">snes nám spasitele</l>
+     <l n="20" met="100010" rhyme="5" line_length="6">do některé chaty!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

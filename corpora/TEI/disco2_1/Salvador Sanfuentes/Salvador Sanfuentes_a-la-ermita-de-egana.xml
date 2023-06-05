@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A la ermita de Egaña</title>
+    <author>Salvador Sanfuentes</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Salvador Sanfuentes_a-la-ermita-de-egana</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A la ermita de Egaña</title>
+     <author>Salvador Sanfuentes</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A la ermita de Egaña</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">Grato respira el amoroso viento</l>
+     <l n="2" met="-+-+---+-+-">entre estas flores y hierbosos pardos,</l>
+     <l n="3" met="--+--+---+-">y las fuentes con ecos regalados</l>
+     <l n="4" met="+--+---+-+-">dan al inquieto corazón contento.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+-+-+-">Tiene la paz aquí su dulce asiento</l>
+     <l n="6" met="---+-+---+-">y los sentidos todos sosegados,</l>
+     <l n="7" met="-+---+---+-">a dulces ilusiones entregados</l>
+     <l n="8" met="+-++-+---+-">abren un campo hermoso al pensamiento.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+--++++-">¡Ah, quiera el cielo que yo logre un día</l>
+     <l n="10" met="-+-+-+-+-+-">al dulce lado de una tierna esposa</l>
+     <l n="11" met="-+-+-+-+-+-">tranquilo así pasar la vida mía!</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">Distante de la turba bulliciosa</l>
+     <l n="13" met="+-+--+-+-+-">un paraíso la tierra me sería,</l>
+     <l n="14" met="+--++--+-+-">viendo aumentarse nuestra llama hermosa.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

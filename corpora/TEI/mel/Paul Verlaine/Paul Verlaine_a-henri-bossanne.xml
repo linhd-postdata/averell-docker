@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A HENRI BOSSANNE</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_a-henri-bossanne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A HENRI BOSSANNE</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A HENRI BOSSANNE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6−6">BON imprimeur de la première édition</l>
+     <l n="2" rhyme="b" line_length="4">Vous vîntes à Paris dans une intention</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="c" line_length="6+6">S’agissait de me voir, de m’interviewer</l>
+     <l n="4" rhyme="d" line_length="4">Apprendre ce que pouvait agir et rêver</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="e" line_length="6+6">Or il advint qu’au jour où j’eus le cher plaisir</l>
+     <l n="6" rhyme="f" line_length="4">J’étais chez moi, rideaux tirés sur la fenêtre,</l>
+    </lg>
+    <lg n="4">
+     <l n="7" rhyme="e" line_length="6+6">En manches de chemise et chaussons de loisir,</l>
+     <l n="8" rhyme="g" line_length="4">Et vous : « Ce n’est donc pas CE prince des infâmes ! »</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

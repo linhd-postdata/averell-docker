@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Serenata</title>
+    <author>Manuel José Othón</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel José Othón_serenata</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Serenata</title>
+     <author>Manuel José Othón</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Serenata</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+-+-+--+-">Nacida en esta tierra tan brumosa y sombría</l>
+     <l n="2" met="+--+-+---+--+-">no es tu cabello de oro ni tu tez de azucena;</l>
+     <l n="3" met="-+---+---+--+-">parece la hermosura de tu cara morena</l>
+     <l n="4" met="-+---+-+----+-">tostada por el rojo sol de mi Andalucía.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+--++--+---+-">Y siento, si te miro, tristeza y alegría,</l>
+     <l n="6" met="---+-+-++---+-">pues tu abundante pelo, más negro que la pena,</l>
+     <l n="7" met="-----+-+----+-">y tus abrasadores ojos de macarena</l>
+     <l n="8" met="+-+--+---+--+-">me recuerdan los tiempos en que amaba y sufría.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-++++---+-+-">¿Cantarte aquí? No; entonces te cantara, no ahora.</l>
+     <l n="10" met="-+-+-+-+--+++-">Si sólo sé amarguras ¿cómo decirte mieles</l>
+     <l n="11" met="---+-+--++--+-">bajo la triste nube que el sol pálido tapa?</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-++-++-+-+-">Sólo hacerlo podría en una calle mora</l>
+     <l n="13" met="-+-+-+-+---+-">estando tú en la reja ornada de claveles</l>
+     <l n="14" met="-++--+--+--+-">y yo junto del muro embozado en mi capa.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

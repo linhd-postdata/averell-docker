@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Je ticho kolem...</title>
+    <author>Květ, Bohuslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Květ, Bohuslav_je-ticho-kolem</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Je ticho kolem...</title>
+     <author>Květ, Bohuslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Je ticho kolem...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Je ticho kolem. Neboť ten,</l>
+     <l n="2" met="0101" rhyme="1" line_length="4">jenž mrtev spí,</l>
+     <l n="3" met="000100" rhyme="1" line_length="6">se víc už nevzbudí.</l>
+     <l n="4" met="1001010001" rhyme="2" line_length="10">Života tvého, miláčku můj, květ</l>
+     <l n="5" met="1000" rhyme="3" line_length="4">předčasně zvad’</l>
+     <l n="6" met="10000101" rhyme="2" line_length="8">a mně je tak, jak celý svět</l>
+     <l n="7" met="0101000100" rhyme="3" line_length="10">by pro mne navždycky byl mrtev snad.</l>
+    </lg>
+    <lg n="2">
+     <l n="8" met="01010" line_length="5">Je ticho kolem.</l>
+     <l n="9" met="01000100" rhyme="4" line_length="8">A do lesa-Ii zavolám</l>
+     <l n="10" met="01000100" rhyme="4" line_length="8">a dychtivě-li naslouchám,</l>
+     <l n="11" met="0101" rhyme="5" line_length="4">je ticho kol...</l>
+     <l n="12" met="0101010100" rhyme="6" line_length="10">Jen vánek vršky stromů rozšuměl,</l>
+     <l n="13" met="1001001001" rhyme="6" line_length="10">a jak by v zraněném se srdci chvěl,</l>
+     <l n="14" met="1001000101" rhyme="5" line_length="10">skanduje rytmicky můj tichý bol...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

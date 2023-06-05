@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poslání.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_poslani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Poslání.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Poslání.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Vždy svírán lokty ústrkův</l>
+     <l n="2" met="010101010" rhyme="1" line_length="9">a lokty vlastní duše luzy,</l>
+     <l n="3" met="11000100" line_length="8">jít nebojím se na věčnost,</l>
+     <l n="4" met="110011010" rhyme="1" line_length="9">v říš neznámou, v kraj tmy a hrůzy.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000100" line_length="8">Vždyť někdo tam, kdo pánem mým,</l>
+     <l n="6" met="010001010" rhyme="2" line_length="9">jenž do života hnal mne chladu,</l>
+     <l n="7" met="01000100" line_length="8">buď k výstraze bych jiným byl,</l>
+     <l n="8" met="010001000" rhyme="2" line_length="9">buď nerozhodným ku příkladu.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000100" line_length="8">Své poslání jsem vykonal –</l>
+     <l n="10" met="010100010" rhyme="3" line_length="9">snad mrav ten za hrobem též platí,</l>
+     <l n="11" met="01010101" line_length="8">že sluhu svého dobrý pán,</l>
+     <l n="12" met="010101000" rhyme="3" line_length="9">když domů přijde, nezatratí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

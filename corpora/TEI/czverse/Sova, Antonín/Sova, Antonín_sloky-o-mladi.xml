@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SLOKY O MLÁDÍ.</title>
+    <author>Sova, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sova, Antonín_sloky-o-mladi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SLOKY O MLÁDÍ.</title>
+     <author>Sova, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SLOKY O MLÁDÍ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01001000" line_length="8">Co dostupno, neláká nás.</l>
+     <l n="2" met="01000010" rhyme="1" line_length="8">Jen překonáváním rostem'.</l>
+     <l n="3" met="01010010" line_length="8">Je tolik tragické krásy</l>
+     <l n="4" met="01001010" rhyme="1" line_length="8">v tom příkazu mládí prostém.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010010010" line_length="9">Jen bouřit a valit se temně,</l>
+     <l n="6" met="1100010" rhyme="2" line_length="7">hřmít v nekonečno světů...</l>
+     <l n="7" met="1101010" line_length="7">Rvát s sebou hráze nízké</l>
+     <l n="8" met="01001010" rhyme="2" line_length="8">a ničeho nedbat v letu.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010010" line_length="8">Zatopit osení chudé,</l>
+     <l n="10" met="11011010" rhyme="3" line_length="8">kraj lidí snah nízkých malý.</l>
+     <l n="11" met="010010010" line_length="9">Jen obrovské duby a sosny,</l>
+     <l n="12" met="01001000" rhyme="3" line_length="8">jen hory by přečnívaly...</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="010010010" line_length="9">Svým rozlivem bez hrází zkypřit</l>
+     <l n="14" met="01001010" rhyme="4" line_length="8">ty zoufale suché lány.</l>
+     <l n="15" met="01001010" line_length="8">Až k slunci svůj rozmach stříknout,</l>
+     <l n="16" met="1001010" rhyme="4" line_length="7">vichřicí duchů hnaný...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

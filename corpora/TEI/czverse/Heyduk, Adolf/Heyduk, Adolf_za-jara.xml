@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Za jara.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_za-jara</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Za jara.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Za jara.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01011101010" rhyme="1" line_length="11">A roztál sníh, zem zase květů plna,</l>
+     <l n="2" met="01010101" rhyme="2" line_length="8">kol křoví mladý plesá jih,</l>
+     <l n="3" met="01000101010" rhyme="1" line_length="11">leč srdcem mým se rudá nese vlna,</l>
+     <l n="4" met="01100100" rhyme="2" line_length="8">a stesk o zvučných perutích.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11010100010" rhyme="3" line_length="11">Ó ženo má, k mé ukloniž se skráni,</l>
+     <l n="6" met="11000101" rhyme="4" line_length="8">syp v duši mou svých očí lesk,</l>
+     <l n="7" met="01010100010" rhyme="3" line_length="11">on změní vlnu na červánek ranní,</l>
+     <l n="8" met="01010101" rhyme="4" line_length="8">a v orla přejde zvučný stesk.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

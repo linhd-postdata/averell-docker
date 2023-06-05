@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Été</title>
+    <author>Paul Valéry</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Valéry_ete</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Été</title>
+     <author>Paul Valéry</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Été</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Été, roche d’air pur, et toi, ardente ruche,</l>
+     <l n="2" rhyme="b" line_length="6+6">Ô mer ! Éparpillée en mille mouches sur</l>
+     <l n="3" rhyme="a" line_length="6+6">Les touffes d’une chair fraîche comme une cruche,</l>
+     <l n="4" rhyme="b" line_length="6+6">Et jusque dans la bouche où bourdonne l’azur ;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Et toi, maison brûlante, Espace, cher Espace</l>
+     <l n="6" rhyme="b" line_length="6+6">Tranquille, où l’arbre fume et perd quelques oiseaux,</l>
+     <l n="7" rhyme="a" line_length="6+6">Où crève infiniment la rumeur de la masse</l>
+     <l n="8" rhyme="b" line_length="6+6">De la mer, de la marche et des troupes des eaux,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Tonnes d’odeurs, grands ronds par les races heureuses</l>
+     <l n="10" rhyme="b" line_length="6+6">Sur le golfe qui mange et qui monte au soleil,</l>
+     <l n="11" rhyme="a" line_length="6+6">Nids purs, écluses d’herbe, ombres des vagues creuses,</l>
+     <l n="12" rhyme="b" line_length="6+6">Bercez l’enfant ravie en un poreux sommeil !</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="6+6">Dont les jambes (mais l’une est fraîche et se dénoue</l>
+     <l n="14" rhyme="b" line_length="6−6">De la plus rose), les épaules, le sein dur,</l>
+     <l n="15" rhyme="a" line_length="6+6">Le bras qui se mélange à l’écumeuse joue</l>
+     <l n="16" rhyme="b" line_length="6+6">Brillent abandonnés autour du vase obscur</l>
+    </lg>
+    <lg n="5">
+     <l n="17" rhyme="a" line_length="6+6">Où filtrent les grands bruits pleins de bêtes puisées</l>
+     <l n="18" rhyme="b" line_length="6+6">Dans les cages de feuille et les mailles de mer</l>
+     <l n="19" rhyme="a" line_length="6+6">Par les moulins marins et les huttes rosées</l>
+     <l n="20" rhyme="b" line_length="6+6">Du jour… Toute la peau dore les treilles d’air.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

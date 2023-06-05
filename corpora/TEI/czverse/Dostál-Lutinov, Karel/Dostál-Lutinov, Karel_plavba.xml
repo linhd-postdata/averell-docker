@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PLAVBA</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_plavba</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PLAVBA</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PLAVBA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100" rhyme="1" line_length="8">Jak ořechová skořápka</l>
+     <l n="2" met="01000100" rhyme="1" line_length="8">se potácí má kocábka</l>
+     <l n="3" met="1000010" rhyme="2" line_length="7">na rozbouřeném moři.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="010011010" rhyme="3" line_length="9">Už padesát let bude tomu,</l>
+     <l n="5" met="010001010" rhyme="3" line_length="9">co s nadějí se plavím domů,</l>
+     <l n="6" met="1001010" rhyme="2" line_length="7">v červáncích přístav hoří...</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="01000101" rhyme="4" line_length="8">Já říkal jsem si den co den:</l>
+     <l n="8" met="01010100" rhyme="4" line_length="8">Už zítra budeš bezpečen</l>
+     <l n="9" met="1000010" rhyme="2" line_length="7">na usmívavém moři!</l>
+    </lg>
+    <lg n="4">
+     <l n="10" met="010101010" rhyme="3" line_length="9">Však ani týden nebyl tomu,</l>
+     <l n="11" met="010001010" rhyme="3" line_length="9">zas šlehaly mě světla hromu</l>
+     <l n="12" met="0101010" rhyme="2" line_length="7">a loď mou bílí oři.</l>
+    </lg>
+    <lg n="5">
+     <l n="13" met="01010100" rhyme="5" line_length="8">Jen tuto bouři překonat!</l>
+     <l n="14" met="01010100" rhyme="5" line_length="8">Pak klid a štěstí svitne snad</l>
+     <l n="15" met="1000010" rhyme="2" line_length="7">na utišeném moři! – – –</l>
+    </lg>
+    <lg n="6">
+     <l n="16" met="010001010" rhyme="3" line_length="9">Dnes čekám jen, jak v prasku, lomu</l>
+     <l n="17" met="010101010" rhyme="3" line_length="9">můj puklý koráb jednou domů</l>
+     <l n="18" met="0101010" rhyme="2" line_length="7">se v hloubku smrti vnoří...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Seno de reina</title>
+    <author>José Santos Chocano</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Santos Chocano_seno-de-reina</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Seno de reina</title>
+     <author>José Santos Chocano</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Seno de reina</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+-+-+---+-">Era una reina hispana. No sé ni quien sería,</l>
+     <l n="2" met="---+-+------+-">ni cual su egregio nombre, ni como su linaje:</l>
+     <l n="3" met="++---+------+-">sé apenas la elegancia con que de su carruaje</l>
+     <l n="4" met="-++++--+-+-+-">saltó, al oír a un niño que en un rincón gemía.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+--++--+-+-+-">Y dijo: -¿Por qué llora?- La tarde estaba fría;</l>
+     <l n="6" met="-+-+-+-+-+-+-">y el niño estaba hambriento. La reina abrióse el traje;</l>
+     <l n="7" met="-+++-+----+-+-">y le dio el seno blanco por entre el blanco encaje,</l>
+     <l n="8" met="--+++-------+-">como lo hubiese hecho Santa Isabel de Hungría.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++---+---++-+-">Es gloria de la estirpe la que le dio su pecho</l>
+     <l n="10" met="-+-+-+--+---+-">a aquel hambriento niño que acaso sentiría</l>
+     <l n="11" met="+++--+--+---+-">más tarde un misterioso dinástico derecho;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++---+--+-+-+-">y es gloria de la estirpe, porque es amor fecundo</l>
+     <l n="13" met="---+-+-++-+++-">con que la reina al niño le dio su seno un día,</l>
+     <l n="14" met="++---+-++-+++-">¡fue el mismo con que España le dio su seno a un mundo!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

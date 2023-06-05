@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Napoléon</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_napoleon</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Napoléon</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Napoléon</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Oh ! d'ennemis sans foi grand vainqueur et bon hôte,</l>
+     <l n="2" rhyme="a" line_length="6+6">Dis-nous, dis-nous laquelle eut la voix la plus haute,</l>
+     <l n="3" rhyme="b" line_length="6+6">Ou bien de cette mer de peuples, de soldats,</l>
+     <l n="4" rhyme="b" line_length="6+6">Qui roulait à tes pieds vivante, et dans ses bras</l>
+     <l n="5" rhyme="a" line_length="6+6">Te prenait, comme fait d'un enfant sa nourrice ;</l>
+     <l n="6" rhyme="a" line_length="6+6">Ou de cette autre mer, éternel précipice,</l>
+     <l n="7" rhyme="b" line_length="6+6">Qui, brisant son flot morne au rocher d'un écueil,</l>
+     <l n="8" rhyme="b" line_length="6+6">Te vit vieux avant l'âge et ferma ton cercueil !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

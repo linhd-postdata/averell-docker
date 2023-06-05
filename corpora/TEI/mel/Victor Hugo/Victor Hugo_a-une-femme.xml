@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>À UNE FEMME</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_a-une-femme</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>À UNE FEMME</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>À UNE FEMME</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Enfant ! si j'étais roi, je donnerais l'empire,</l>
+     <l n="2" rhyme="b" line_length="6+6">Et mon char, et mon sceptre, et mon peuple à genoux,</l>
+     <l n="3" rhyme="a" line_length="6+6">Et ma couronne d'or, et mes bains de porphyre,</l>
+     <l n="4" rhyme="a" line_length="6+6">Et mes flottes, à qui la mer ne peut suffire,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Si j'étais Dieu, la terre et l'air avec les ondes,</l>
+     <l n="6" rhyme="b" line_length="6+6">Les anges, les démons courbés devant ma loi,</l>
+     <l n="7" rhyme="a" line_length="6+6">Et le profond chaos aux entrailles fécondes,</l>
+     <l n="8" rhyme="a" line_length="6+6">L'éternité, l'espace, et les cieux, et les mondes,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

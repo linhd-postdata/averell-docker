@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>-I- Tres veces de Aquilón...</title>
+    <author>Gongora</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Gongora_i-tres-veces-de-aquilon</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>-I- Tres veces de Aquilón...</title>
+     <author>Gongora</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>-I- Tres veces de Aquilón...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++---+-+-+-">Tres veces de Aquilón el soplo airado</l>
+     <l n="2" met="-+-+-+-+-+-">del verde honor privó a las verdes plantas,</l>
+     <l n="3" met="---+-+-+-+-">y al animal de Colcos otra tantas</l>
+     <l n="4" met="--++---+-+-">ilustró Febo su vellón dorado,</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+---+-">después que sigo (el pecho traspasado</l>
+     <l n="6" met="-+-+---+-+-">de aguda flecha) con humildes plantas</l>
+     <l n="7" met="-+-+---+-+-">(oh, bella Clori!) tus pisadas santas</l>
+     <l n="8" met="---+-+--++-">por las floridas señas que da el prado.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">A vista voy (tiñendo los alcores</l>
+     <l n="10" met="-+-+---+-+-">en roja sangre) de tu dulce vuelo</l>
+     <l n="11" met="-+-+---+-+-">que el cielo pinta de cien mil colores,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+---+-">tanto, que ya nos siguen los pastores</l>
+     <l n="13" met="---+-+---+-">por los extraños rastros que en el suelo</l>
+     <l n="14" met="-+-+-+-+-+-">dejamos, yo de sangre, tú de flores.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

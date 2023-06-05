@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El borracho</title>
+    <author>Enrique Bermejo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Enrique Bermejo_el-borracho</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El borracho</title>
+     <author>Enrique Bermejo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El borracho</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+-+-+-">Generoso en la copa, ruin en todo;</l>
+     <l n="2" met="+--+-+---+-">ronca la voz, inyecta la mirada,</l>
+     <l n="3" met="+--+-+---+-">párpados gruesos, faz abotargada</l>
+     <l n="4" met="-+-+---+-+-">y siempre crudo cuando no beodo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---++--+-">Perdida la razón, goza a su modo,</l>
+     <l n="6" met="-+-+---+++-">y nunca estar en su razón le agrada;</l>
+     <l n="7" met="-+++---+++-">que el vino es todo, la razón es nada,</l>
+     <l n="8" met="-+-+---+-+-">y sólo vive al empinar el codo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+++---+-">Cuando a inflamarle empieza el aguardiente,</l>
+     <l n="10" met="--+--+---+-">lenguaraz, atrevido y vivaracho,</l>
+     <l n="11" met="+-+--+---+-">es intrépido, franco y excelente</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">amigo; pero juzgo sin empacho</l>
+     <l n="13" met="-++--+---+-">que no es franco, ni amigo, ni valiente;</l>
+     <l n="14" met="---+-+++-+-">porque el borracho, en fin, sólo es... borracho.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

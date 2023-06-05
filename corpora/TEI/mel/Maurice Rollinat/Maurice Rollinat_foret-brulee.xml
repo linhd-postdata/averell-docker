@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Forêt brûlée</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_foret-brulee</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Forêt brûlée</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Forêt brûlée</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">On voit ce grand fond de vallée</l>
+     <l n="2" rhyme="b" line_length="8">Fuligineux sous les cieux ronds :</l>
+     <l n="3" rhyme="b" line_length="8">Là, terrain, herbes, rameaux, troncs,</l>
+     <l n="4" rhyme="a" line_length="8">Toute une forêt fut brûlée !</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">D'elle, si verte et si peuplée,</l>
+     <l n="6" rhyme="b" line_length="8">Qui, si fière, portait son front,</l>
+     <l n="7" rhyme="b" line_length="8">Narguait le vent, raillait l'affront</l>
+     <l n="8" rhyme="a" line_length="8">Du tonnerre et de la gelée,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Il reste la place… raclée,</l>
+     <l n="10" rhyme="a" line_length="8">Croupissante et noire, meublée</l>
+     <l n="11" rhyme="b" line_length="8">D'un seul arbre, cuit tout de bon :</l>
+     <l n="12" rhyme="b" line_length="8">Un paysage de charbon</l>
+     <l n="13" rhyme="a" line_length="8">Dans un gouffre de la vallée !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

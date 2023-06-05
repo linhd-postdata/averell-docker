@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>nový úsměv</title>
+    <author>Neumann, Stanislav Kostka</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neumann, Stanislav Kostka_novy-usmev</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>nový úsměv</title>
+     <author>Neumann, Stanislav Kostka</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>nový úsměv</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101000" line_length="9">zas bledá růže sametová</l>
+     <l n="2" met="01010100" rhyme="1" line_length="8">v mé teskné dny se usmívá,</l>
+     <l n="3" met="010100010" line_length="9">zas kolem ztepilého kmene</l>
+     <l n="4" met="01010100" rhyme="1" line_length="8">má láska tančí bláznivá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101010" line_length="9">leč zlatý oblak navždy odplul</l>
+     <l n="6" met="01010100" rhyme="2" line_length="8">a šerý mrak mne provází,</l>
+     <l n="7" met="100101010" line_length="9">vztáhnu-li k teplu chudé ruce,</l>
+     <l n="8" met="10010100" rhyme="2" line_length="8">uchopím stín, jenž zamrazí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101000" line_length="9">a mrtvý sen již neotevře</l>
+     <l n="10" met="10010101" rhyme="3" line_length="8">růžovou bránu, zlatý most.</l>
+     <l n="11" met="100101010" line_length="9">na slepou bábu mezi domy</l>
+     <l n="12" met="10010100" rhyme="3" line_length="8">hraje si se mnou skutečnost.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100101010" line_length="9">za rovník odplul oblak zlatý,</l>
+     <l n="14" met="01010100" rhyme="4" line_length="8">jen úsměv z něho zlatého</l>
+     <l n="15" met="110101010" line_length="9">zbyl pro mne na rtech v bledé tváři:</l>
+     <l n="16" met="10010100" rhyme="4" line_length="8">sváteční poklad chudého.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nad žitím mým se snesla bouře.</title>
+    <author>Lošťák, Ludvík</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lošťák, Ludvík_nad-zitim-mym-se-snesla-boure</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nad žitím mým se snesla bouře.</title>
+     <author>Lošťák, Ludvík</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nad žitím mým se snesla bouře.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100001010" line_length="9">Nad žitím mým se snesla bouře,</l>
+     <l n="2" met="010101" rhyme="1" line_length="6">v mé nitro vryl se blesk,</l>
+     <l n="3" met="010101010" line_length="9">a kdyby bůh mou lyru zladil,</l>
+     <l n="4" met="110001" rhyme="1" line_length="6">znít bude vždy z ní stesk.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101010" line_length="9">A kdyby bůh mi vdechnul písní,</l>
+     <l n="6" met="010101" rhyme="2" line_length="6">co rosy v luční květ,</l>
+     <l n="7" met="010101010" line_length="9">přec budu věčně chud, když duši</l>
+     <l n="8" met="010100" rhyme="2" line_length="6">mé poklid nedá zpět!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

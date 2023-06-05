@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CÆSAR</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_caesar</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CÆSAR</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CÆSAR</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Il fait le mal il boit des pleurs ; il boit du sang ;</l>
+     <l n="2" rhyme="a" line_length="6+6">Partout la mort, l'exil, des veuves gémissant,</l>
+     <l n="3" rhyme="b" line_length="8">C'est ainsi qu'entassant deuils, forfaits, désespoirs,</l>
+     <l n="4" rhyme="c" line_length="6+6">Les tyrans font téter à nos vers, dogues noirs,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Tous ces prétoriens qui l'ont fait empereur</l>
+     <l n="6" rhyme="a" line_length="6+6">L'entourent ; Rome est calme et parle avec terreur ;</l>
+     <l n="7" rhyme="b" line_length="8">Ils gardent son palais et veillent à l'entour,</l>
+     <l n="8" rhyme="c" line_length="6+6">Mille à chaque barrière et cent sur chaque tour ;</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Il évoque, effaré, livide, anéanti,</l>
+     <l n="10" rhyme="a" line_length="6+6">Tous ses prédécesseurs, que les clypeati</l>
+     <l n="11" rhyme="b" line_length="8">Et l'histoire, témoin qu'on trouve toujours là,</l>
+     <l n="12" rhyme="c" line_length="6+6">Fait sortir de l'égout le dieu Caracalla</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="6+6">Il erre en son palais. Ici tout le défend ;</l>
+     <l n="14" rhyme="a" line_length="6+6">Ici le prêtre adore Auguste triomphant,</l>
+     <l n="15" rhyme="b" line_length="8">Ici là terre apporte un respect assidu ;</l>
+     <l n="16" rhyme="c" line_length="6+6">Au-dessus de sa tête il entend, éperdu,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

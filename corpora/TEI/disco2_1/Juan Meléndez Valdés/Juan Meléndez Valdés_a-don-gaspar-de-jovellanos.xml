@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A don Gaspar de Jovellanos</title>
+    <author>Juan Meléndez Valdés</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Meléndez Valdés_a-don-gaspar-de-jovellanos</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A don Gaspar de Jovellanos</title>
+     <author>Juan Meléndez Valdés</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A don Gaspar de Jovellanos</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Las blandas quejas de mi dulce lira,</l>
+     <l n="2" met="++---+---+-">mil lágrimas suspiros y dolores</l>
+     <l n="3" met="++---+---+-">me agrada renovar, pues sus rigores</l>
+     <l n="4" met="-+-+---+-+-">piadoso el cielo por mi bien retira.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+-+-+-">El dichoso zagal que tierno admira</l>
+     <l n="6" met="-+---+---+-">su linda zagaleja entre las flores,</l>
+     <l n="7" met="---+-+---+-">y de su llama goza y sus favores,</l>
+     <l n="8" met="-+-+---+++-">alegre cante lo que amor le inspira.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-++---+-+-">Yo lloré solo de mi Fili airada</l>
+     <l n="10" met="--+--+-+-+-">el altivo desdén con triste canto,</l>
+     <l n="11" met="-+-+---+-+-">que el eco lleve al mayoral Jovino;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">alternando con cítara dorada,</l>
+     <l n="13" met="++-+---+-+-">ya en blando verso o dolorido llanto,</l>
+     <l n="14" met="-+-+-+-+-+-">las dulces ansias de un amor divino.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

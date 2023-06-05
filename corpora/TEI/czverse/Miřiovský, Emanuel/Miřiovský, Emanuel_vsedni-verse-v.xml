@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Všední verše (V)</title>
+    <author>Miřiovský, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Miřiovský, Emanuel_vsedni-verse-v</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Všední verše (V)</title>
+     <author>Miřiovský, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Všední verše (V)</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00010100" line_length="8">Ba on ji proklel na stokrát</l>
+     <l n="2" met="0100010" rhyme="1" line_length="7">a zapomněl tu lásku,</l>
+     <l n="3" met="10010100" line_length="8">pálil ji ohně plamenem, –</l>
+     <l n="4" met="0101000" rhyme="1" line_length="7">však jenom na obrázku.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000100" line_length="8">A zřekl se jí v zoufání</l>
+     <l n="6" met="0100010" rhyme="2" line_length="7">a zatratil tu chvíli,</l>
+     <l n="7" met="01010100" line_length="8">kdy prvně její do očí</l>
+     <l n="8" met="1001000" rhyme="2" line_length="7">se zraky ponořily.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010100" line_length="8">A když byl se vším u konce,</l>
+     <l n="10" met="1010010" rhyme="1" line_length="7">zpomněl na její lásku</l>
+     <l n="11" met="01000100" line_length="8">a pošeptal si ve slzách:</l>
+     <l n="12" met="0100100" rhyme="1" line_length="7">„ba škoda je obrázku.“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

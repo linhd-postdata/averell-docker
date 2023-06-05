@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vyrovnání.</title>
+    <author>Chládek, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Chládek, František_vyrovnani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vyrovnání.</title>
+     <author>Chládek, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vyrovnání.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0010101" line_length="7">„On je horší nežli žid,“</l>
+     <l n="2" met="10101000" rhyme="1" line_length="8">praví křesťan o křesťanu,</l>
+     <l n="3" met="00101010" line_length="8">„ty jsi horší nežli křesťan, “</l>
+     <l n="4" met="11001010" rhyme="1" line_length="8">žid na žida mece hanu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

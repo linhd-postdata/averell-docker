@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Margarita de Florencia</title>
+    <author>Nicolás W. Pinzón</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nicolás W. Pinzón_a-margarita-de-florencia</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Margarita de Florencia</title>
+     <author>Nicolás W. Pinzón</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Margarita de Florencia</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+-+----+-">Hoy, al través del tiempo y la distancia</l>
+     <l n="2" met="+++-+---+-">te miro aún!... Y en horas de extravío</l>
+     <l n="3" met="+--+---+-+-">pienso en mi lecho solitario y frío</l>
+     <l n="4" met="--+--+---+-">aspirar de tu cuerpo la fragancia.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">A media noche, en mi desierta estancia,</l>
+     <l n="6" met="--+--+-+-+-">delirante abrazándome el vacío,</l>
+     <l n="7" met="-++----+-+-">despierto ahora, y contra el pecho mío</l>
+     <l n="8" met="+--++--+-+-">sueño estrecharte en mi infeliz constancia...</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---++--+-">Triunfo el deber. ¿Fui noble? ¿fui cobarde?</l>
+     <l n="10" met="-++--+---+-">Con qué sabio desprecio sonreíste</l>
+     <l n="11" met="-+---+-+-+-">al yerme de mi fuerza haciendo alarde.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++-+---+-+-">Ya en mí del triunfo ni el orgullo existe:</l>
+     <l n="13" met="++-+-+-+++-">hoy quiero ser feliz; pero hoy es tarde,</l>
+     <l n="14" met="---+++---+-">¡y a resignarse el alma se resiste!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

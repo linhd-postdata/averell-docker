@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MOC LÁSKY.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">11</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_moc-lasky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MOC LÁSKY.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MOC LÁSKY.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101010" rhyme="1" line_length="10">Jaký symbol starý! Zev prý v býka</l>
+     <l n="2" met="1000100010" rhyme="2" line_length="10">proměnil se bohatýrský, jarý,</l>
+     <l n="3" met="1001101000" rhyme="1" line_length="10">Evropu chyt na hřbet násilníka...</l>
+     <l n="4" met="101010" rhyme="2" line_length="6">Jaký symbol starý!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010101010" rhyme="2" line_length="10">Prchly věky, změna všady, žáry</l>
+     <l n="6" met="1010101010" rhyme="1" line_length="10">v srdcích stejně plají, osel hýká,</l>
+     <l n="7" met="1110101010" rhyme="2" line_length="10">lev řve touhou, cítě lásky spáry.</l>
+    </lg>
+    <lg n="3">
+     <l n="8" met="1000100010" rhyme="1" line_length="10">Rozdíl přec tu. Žena ať si zvyká,</l>
+     <l n="9" met="1110001010" rhyme="2" line_length="10">býk nes ženu dřív, teď – lásky čáry</l>
+     <l n="10" met="1000101010" rhyme="1" line_length="10">okouzlené ženy vlekou býka –</l>
+     <l n="11" met="101010" rhyme="2" line_length="6">Jaký symbol starý!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

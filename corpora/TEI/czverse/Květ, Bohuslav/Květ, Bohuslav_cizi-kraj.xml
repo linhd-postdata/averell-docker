@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Cizí kraj.</title>
+    <author>Květ, Bohuslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Květ, Bohuslav_cizi-kraj</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Cizí kraj.</title>
+     <author>Květ, Bohuslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Cizí kraj.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110100010001" rhyme="1" line_length="12">Kraj krásný, malebný, je řeka tu i hrad</l>
+     <l n="2" met="01010001010100" rhyme="2" line_length="14">a vrchy kolkolem tě vábí lesů zelení,</l>
+     <l n="3" met="100100100101" rhyme="1" line_length="12">a přec tu není to, co měl’s tak k smrti rád,</l>
+     <l n="4" met="01010001000100" rhyme="2" line_length="14">to známé okolí, v němž vzpomínky tvé pramení...</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="110001010100" rhyme="3" line_length="12">Chlad cizoty tu zevšad na tě dýchá jen</l>
+     <l n="6" met="01000100010100" rhyme="4" line_length="14">a srdce tvé se nevýslovným steskem zachvívá</l>
+     <l n="7" met="100001010101" rhyme="3" line_length="12">po dálkách těch, kde pohřben tvého štěstí sen</l>
+     <l n="8" met="01000101001101" rhyme="4" line_length="14">a nad drahým kde hrobem podzimní mdlé slunce plá...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

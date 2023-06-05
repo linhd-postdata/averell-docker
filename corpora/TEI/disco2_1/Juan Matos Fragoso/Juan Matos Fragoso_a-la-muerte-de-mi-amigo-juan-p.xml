@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A la muerte de mi amigo Juan Pérez de Montalbán</title>
+    <author>Juan Matos Fragoso</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Matos Fragoso_a-la-muerte-de-mi-amigo-juan-p</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A la muerte de mi amigo Juan Pérez de Montalbán</title>
+     <author>Juan Matos Fragoso</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A la muerte de mi amigo Juan Pérez de Montalbán</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--++--+++-">Muere el morir, si ha tu morir hoy vive,</l>
+     <l n="2" met="-+---+++-+-">tu nombre, que al yacer tú, nunca yace</l>
+     <l n="3" met="+--+-+---+-">luego feliz la dicha satisface</l>
+     <l n="4" met="-+---+---+-">tus méritos, con tumba que apercibe.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">Jeroglífico eterno del que Escribe,</l>
+     <l n="6" met="++-+---+-+-">es sabia Pluma, que los siglos hace,</l>
+     <l n="7" met="--+--+-+-+-">si al Ocaso de vuelos Fénix nace,</l>
+     <l n="8" met="-------+-+-">como la tuya, que al morir revive.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+---+-">Mata el tirano Olvido, la Memoria,</l>
+     <l n="10" met="--+--+-+-+-">y la Tumba, la Gloria más subida,</l>
+     <l n="11" met="+--+++---+-">Muerte el vivir, más son en tu Fortuna.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">La fama, el Oriente de tu Gloria,</l>
+     <l n="13" met="-++--+---+-">la Tumba, altos renombres de tu Vida,</l>
+     <l n="14" met="--+--+--++-">y la Muerte, a tu muerte feliz Cuna.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

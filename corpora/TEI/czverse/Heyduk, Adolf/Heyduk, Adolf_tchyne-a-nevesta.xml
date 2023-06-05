@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Tchyně a nevěsta.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_tchyne-a-nevesta</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Tchyně a nevěsta.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Tchyně a nevěsta.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101010" rhyme="1" line_length="10">Jedna cesta z lesa, druhá z města;</l>
+     <l n="2" met="1010011010" rhyme="1" line_length="10">jednou vlčice šla, druhou testa;</l>
+     <l n="3" met="1010100010" rhyme="2" line_length="10">po té cestě v přenešťastnou chvíli</l>
+     <l n="4" met="1010100110" rhyme="2" line_length="10">se mnou z domu beránek šel bílý;</l>
+     <l n="5" met="1000100010" rhyme="3" line_length="10">vlčice se do beránka dala,</l>
+     <l n="6" met="0110100010" rhyme="3" line_length="10">mě zlá testa za děvku si vzala.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

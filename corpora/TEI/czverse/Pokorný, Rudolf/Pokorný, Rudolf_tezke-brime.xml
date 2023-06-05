@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Těžké břímě!</title>
+    <author>Pokorný, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný, Rudolf_tezke-brime</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Těžké břímě!</title>
+     <author>Pokorný, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Těžké břímě!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" rhyme="1" line_length="8">Jdi, má milá, pro košíček,</l>
+     <l n="2" met="1000100" rhyme="2" line_length="7">vyjdeme si do lesa:</l>
+     <l n="3" met="10101000" rhyme="1" line_length="8">vím já jeden jahodníček –</l>
+     <l n="4" met="1000100" rhyme="2" line_length="7">srdéčko ti zaplesá!</l>
+     <l n="5" met="10001000" rhyme="1" line_length="8">Neroste ten jahodníček,</l>
+     <l n="6" met="0100100" rhyme="3" line_length="7">má panenko, po lese:</l>
+     <l n="7" met="10101010" rhyme="1" line_length="8">ze tvých rtíků, ze tvých líček</l>
+     <l n="8" met="1000100" rhyme="3" line_length="7">jahodami směje se –</l>
+     <l n="9" met="11001100" rhyme="1" line_length="8">pár jahůdek – pár hubiček</l>
+     <l n="10" met="10100" rhyme="3" line_length="5">člověk unese!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

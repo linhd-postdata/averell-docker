@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L’Athlète</title>
+    <author>Louis Ménard</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Louis Ménard_lathlete</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L’Athlète</title>
+     <author>Louis Ménard</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L’Athlète</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Je suis initié, je connais le mystère</l>
+     <l n="2" rhyme="b" line_length="6+6">De la vie : une arène où l'immortalité</l>
+     <l n="3" rhyme="b" line_length="6+6">Est le prix de la lutte, et je m'y suis jeté</l>
+     <l n="4" rhyme="a" line_length="6+6">Librement, voulant naître et vivre sur la terre.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="b" line_length="6+6">Les héros demi-dieux ont souffert et lutté</l>
+     <l n="6" rhyme="a" line_length="6+6">Pour conquérir au ciel leur place héréditaire :</l>
+     <l n="7" rhyme="a" line_length="6+6">Que la lutte virile et la douleur austère</l>
+     <l n="8" rhyme="b" line_length="6+6">Trempent comme l'airain ma libre volonté.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Suivons sans peur le cours de nos métempsycoses,</l>
+     <l n="10" rhyme="d" line_length="6+6">Et de l'ascension montons le dur chemin,</l>
+     <l n="11" rhyme="d" line_length="6+6">Sous les yeux de nos morts qui nous tendent la main.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="c" line_length="6+6">Ils recevront, du haut de leurs apothéoses,</l>
+     <l n="13" rhyme="e" line_length="6+6">Dans l'olympe étoilé conquis par leur vertu,</l>
+     <l n="14" rhyme="e" line_length="6+6">L'âme qui combattra comme ils ont combattu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

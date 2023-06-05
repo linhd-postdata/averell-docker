@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ballada stará – stará!</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_ballada-stara-stara</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ballada stará – stará!</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ballada stará – stará!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100100100" rhyme="1" line_length="12">Rukama lomila, po břehu chodila,</l>
+     <l n="2" met="100100101000" rhyme="1" line_length="12">na kámen poklekla, dceru porodila.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="10100010" rhyme="2" line_length="8">„Chceš Ty, matičko má bledá,</l>
+     <l n="4" met="00101000" rhyme="3" line_length="8">bych Ti rybek nalovila?“</l>
+     <l n="5" met="00101000" rhyme="3" line_length="8">– Jak bys sítě rozhodila,</l>
+     <l n="6" met="00101000" rhyme="3" line_length="8">vždyť se’s sotva narodila! –</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="10100010" rhyme="2" line_length="8">„Chceš Ty, matičko má bledá,</l>
+     <l n="8" met="00101000" rhyme="3" line_length="8">bych si plinky vybílila?“</l>
+     <l n="9" met="10101010" rhyme="2" line_length="8">– Zanech plinek, dlouhá cesta,</l>
+     <l n="10" met="10101000" rhyme="3" line_length="8">čas, bys sobě popílila! –</l>
+    </lg>
+    <lg n="4">
+     <l n="11" met="10101000" line_length="8">„Vlna s vlnou v rozhovoru,</l>
+     <l n="12" met="10100110" rhyme="4" line_length="8">mám se po vodě dát dolů?“</l>
+     <l n="13" met="10001010" rhyme="4" line_length="8">– Po vodě se dáme spolu,</l>
+     <l n="14" met="10001010" rhyme="5" line_length="8">zastavíme mlýnská kola,</l>
+     <l n="15" met="10101010" line_length="8">aby mladý mlynář věděl,</l>
+     <l n="16" met="00101010" rhyme="5" line_length="8">kdo ho před soud boží volá! –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

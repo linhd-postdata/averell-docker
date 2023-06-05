@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vasco Núñez de Balboa</title>
+    <author>Ricardo del Monte</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ricardo del Monte_vasco-nunez-de-balboa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vasco Núñez de Balboa</title>
+     <author>Ricardo del Monte</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vasco Núñez de Balboa</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---+-">Planta en la cumbre el pie Desvanecido</l>
+     <l n="2" met="+--+-+---+-">mira surgir grandioso panorama:</l>
+     <l n="3" met="+--+-+---+-">La áurea región que al cielo se encarama</l>
+     <l n="4" met="---+-+---+-">y el Mar del Sur sin límites tendido.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+-+----+-">Se hinca y a Dios bendice, y con fornido</l>
+     <l n="6" met="+--+-+---+-">brazo en la peña clava su oriflama;</l>
+     <l n="7" met="-+-+---+-+-">la espada esgrime con la diestra y clama</l>
+     <l n="8" met="--+--+---+-">retumbando en los Andes el sonido:</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+---+-">«¡Reinos que ha descubierto mi osadía</l>
+     <l n="10" met="--+--+---+-">acatad de Castilla al soberano,</l>
+     <l n="11" met="--+--+++-+-">y a mi Patria y mi Rey valga esta hazaña!»</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+++-">Valióles, sí; mas por su culpa un día,</l>
+     <l n="13" met="+--+-+---+-">tierras del Sol, imperio americano,</l>
+     <l n="14" met="+-+-+++-++-">cuanto Vasco le dio, piérdelo España.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

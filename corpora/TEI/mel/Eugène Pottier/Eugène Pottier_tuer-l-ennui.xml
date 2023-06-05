@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>TUER L'ENNUI !</title>
+    <author>Eugène Pottier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">3</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Eugène Pottier_tuer-l-ennui</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>TUER L'ENNUI !</title>
+     <author>Eugène Pottier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>TUER L'ENNUI !</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Que voulez-vous ? Il faut tuer l'ennui !</l>
+    </lg>
+    <lg n="2">
+     <l n="2" rhyme="a" line_length="8">Que voulez-vous ? il faut tuer l'ennui !</l>
+    </lg>
+    <lg n="3">
+     <l n="3" rhyme="a" line_length="8">Que voulez-vous ? il faut tuer l'ennui !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

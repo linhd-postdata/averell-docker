@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pláče matka nade hrobem:</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_place-matka-nade-hrobem</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pláče matka nade hrobem:</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pláče matka nade hrobem:</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">Pláče matka nade hrobem: </l>
+     <l n="2" met="101010" rhyme="1" line_length="6">„Vrať mně moji dceru.“ –</l>
+     <l n="3" met="10101010" line_length="8">„„Nejsem její smrtí vinen –</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">nejsem! – na mou věru!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00001000" line_length="8">Co mne jen kdys milovalo,</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">má už zdrhlé zraky,</l>
+     <l n="7" met="10100010" line_length="8">a že miluju sám sebe,</l>
+     <l n="8" met="101010" rhyme="2" line_length="6">umru brzo taky.““</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

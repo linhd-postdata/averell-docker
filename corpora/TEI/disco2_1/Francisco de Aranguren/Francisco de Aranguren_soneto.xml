@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Francisco de Aranguren</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco de Aranguren_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Francisco de Aranguren</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Subió Mariana a la mayor Alteza,</l>
+     <l n="2" met="---+-+-+-+-">y de subir peligra, o frágil vida,</l>
+     <l n="3" met="--+--+-+-+-">que en la misma grandeza esté embebida,</l>
+     <l n="4" met="--+--++--+-">la ocasión de arriesgarse la grandeza.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-++--+-">Dichoso el riesgo fue, puesto que empieza</l>
+     <l n="6" met="-+-+-+-+-+-">a ser el riesgo gloria más crecida;</l>
+     <l n="7" met="---+-++--+-">porque acredita el verse deslucida,</l>
+     <l n="8" met="--+++++--+-">que subir más no pueda una belleza.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+-+-+-">En su esfera enfermó la luz ardiente;</l>
+     <l n="10" met="--++-+---+-">pero no fue enfermar, pues atesora</l>
+     <l n="11" met="---+-++--+-">con el peligro luz más excelente.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+--++-">Que si esto empeña el lustre, que la dora,</l>
+     <l n="13" met="+--+-+---+-">ya se levanta más resplandeciente,</l>
+     <l n="14" met="+-++-+-+-+-">siendo de un tierno sol brillante Aurora.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

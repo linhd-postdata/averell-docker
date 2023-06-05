@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mé víno je tak ohnivé!</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_me-vino-je-tak-ohnive</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mé víno je tak ohnivé!</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mé víno je tak ohnivé!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100" line_length="8">Mé víno je tak ohnivé! </l>
+     <l n="2" met="0101010" rhyme="1" line_length="7">Snad révy slunce vssály,</l>
+     <l n="3" met="01010100" line_length="8">když jeho palní prškové</l>
+     <l n="4" met="1101010" rhyme="1" line_length="7">v kraj vinní ostře pláli.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11000100" line_length="8">Chuť pikantní se k lehounké</l>
+     <l n="6" met="1001010" rhyme="2" line_length="7">trpkosti mile kloní –</l>
+     <l n="7" met="01010100" line_length="8">když tvář už prací hořela,</l>
+     <l n="8" met="0101010" rhyme="2" line_length="7">snad tekla slza po ní!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000101" line_length="8">A skluzké tak, až milo pít –</l>
+     <l n="10" met="0101010" rhyme="3" line_length="7">snad pot v něm z lůzy čela,</l>
+     <l n="11" met="01000100" line_length="8">když po vinicích ku práci</l>
+     <l n="12" met="0101010" rhyme="3" line_length="7">svá vlékla mdlá už těla!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="00010100" line_length="8">Ba nač by byla lůza ta,</l>
+     <l n="14" met="0101000" rhyme="4" line_length="7">ať dělá – posnídáme!</l>
+     <l n="15" met="01010100" line_length="8">ať třeba oči vypláče,</l>
+     <l n="16" met="0001010" rhyme="4" line_length="7">jen když my víno máme!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

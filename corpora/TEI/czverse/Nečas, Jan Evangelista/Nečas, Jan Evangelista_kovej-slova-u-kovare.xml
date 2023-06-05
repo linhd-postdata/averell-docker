@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kovej slova u kováře,</title>
+    <author>Nečas, Jan Evangelista</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nečas, Jan Evangelista_kovej-slova-u-kovare</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kovej slova u kováře,</title>
+     <author>Nečas, Jan Evangelista</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kovej slova u kováře,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" line_length="8">Kovej slova u kováře, </l>
+     <l n="2" met="10100010" rhyme="1" line_length="8">hřímej hromem – co tím spravíš?</l>
+     <l n="3" met="10101010" line_length="8">Času kola shora zdola</l>
+     <l n="4" met="10001000" rhyme="1" line_length="8">neudržíš, nezastavíš!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001000" line_length="8">Věci jsou, jichž neodvrátí</l>
+     <l n="6" met="10001010" rhyme="2" line_length="8">mudrcové svojím mozkem –</l>
+     <l n="7" met="10101010" line_length="8">Čiň, co Tvého, chraň se zlého,</l>
+     <l n="8" met="1001100010" rhyme="2" line_length="10">ostatek nech na řízení Božském!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

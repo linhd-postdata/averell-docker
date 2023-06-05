@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Přijď!</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_prijd</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Přijď!</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Přijď!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100011010" rhyme="1" line_length="9">Ku Eloi „přijď!“ Satan pravil,</l>
+     <l n="2" met="11000100" rhyme="2" line_length="8">Faust ku Markétce řekl též,</l>
+     <l n="3" met="110000010" rhyme="1" line_length="9">Don Juan nechť již vším se znavil,</l>
+     <l n="4" met="01000101" rhyme="2" line_length="8">všem opakoval tuto lež.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100101000" rhyme="3" line_length="9">„Přijď!“ – V tom je vrchol vyplnění;</l>
+     <l n="6" met="11000100" rhyme="2" line_length="8">zvon vášně když svou rozchví spěž,</l>
+     <l n="7" met="010100010" rhyme="3" line_length="9">ba na dně nejtajnějších snění</l>
+     <l n="8" met="01011100" rhyme="2" line_length="8">ty tentýž zvuk „Přijď!“ nalezneš.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

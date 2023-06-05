@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L'ENFANTEMENT</title>
+    <author>Eugène Pottier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">7</measure>
+    <measure unit="line">2</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Eugène Pottier_l-enfantement</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L'ENFANTEMENT</title>
+     <author>Eugène Pottier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L'ENFANTEMENT</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Est en travail sur son lit de misère,</l>
+     <l n="2" rhyme="a" line_length="4+6">Est en travail sur son lit de misère.</l>
+    </lg>
+    <lg n="2" />
+    <lg n="3" />
+    <lg n="4" />
+    <lg n="5" />
+    <lg n="6" />
+    <lg n="7" />
+   </lg>
+  </body>
+ </text>
+</TEI>

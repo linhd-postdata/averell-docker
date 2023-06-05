@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VELLÉITÉ</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_velleite</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VELLÉITÉ</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VELLÉITÉ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Dénoue enfin tes bras fiévreux, ô ma Maîtresse !</l>
+     <l n="2" rhyme="b" line_length="6+6">Délivre-moi du joug de ton baiser amer,</l>
+     <l n="3" rhyme="a" line_length="6+6">Et, loin de ton parfum dont l’opulence oppresse,</l>
+     <l n="4" rhyme="b" line_length="6+6">Laisse-moi respirer les souffles de la mer.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Loin des langueurs du lit, de l’ombre de l’alcôve,</l>
+     <l n="6" rhyme="b" line_length="6+6">J’aspirerai le sel du vent et l’âcreté</l>
+     <l n="7" rhyme="a" line_length="6+6">Des algues, et j’irai vers la profondeur fauve,</l>
+     <l n="8" rhyme="b" line_length="6+6">Pâle de solitude, ivre de chasteté !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SEN</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_sen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SEN</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SEN</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010001" rhyme="1" line_length="12">Já smrti řekl „pojď!“ a přiložil jsem k rtům</l>
+     <l n="2" met="11000100100010" rhyme="2" line_length="14">dvé melodických píšťal, k nimž tančívaly ženy,</l>
+     <l n="3" met="010100010101" rhyme="1" line_length="12">a hudbou zvábil jsem tu tichou družku v dům,</l>
+     <l n="4" met="01000100101000" rhyme="2" line_length="14">kde koberce jsou krví a vínem potřísněny.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="110101010101" rhyme="3" line_length="12">V sál vichr světa vtrh a stříbrem zahrál stůl,</l>
+     <l n="6" met="01010100101000" rhyme="4" line_length="14">jenž zvonil v třesku číší a svítil pomeranči;</l>
+     <l n="7" met="010001110100" rhyme="3" line_length="12">když svlažili jsme rty, „chci pít!“ jsem pokynul;</l>
+     <l n="8" met="01000100100010" rhyme="4" line_length="14">když vzdala mi svá ústa, já zašeptal jsem „tanči!“</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010100010001" rhyme="5" line_length="12">A nahá tančila a přiložila k rtům</l>
+     <l n="10" met="11010100100010" rhyme="2" line_length="14">dvé píšťal, jejichž hudbou kdys vábíval jsem ženy.</l>
+     <l n="11" met="010100010101" rhyme="5" line_length="12">A horkých krůpějí jsem sladký zaslech šum</l>
+     <l n="12" met="01010101101000" rhyme="2" line_length="14">a krví svého srdce měl prsty zkrvaveny.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

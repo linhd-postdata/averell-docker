@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LIED</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_lied</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LIED</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LIED</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Au mois d'avril, la terre est rose</l>
+     <l n="2" rhyme="b" line_length="8">Comme la jeunesse et l'amour ;</l>
+     <l n="3" rhyme="a" line_length="8">Pucelle encore, à peine elle ose</l>
+     <l n="4" rhyme="b" line_length="8">Payer le Printemps de retour.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Au mois de juin, déjà plus pâle</l>
+     <l n="6" rhyme="b" line_length="8">Et le cœur de désir troublé,</l>
+     <l n="7" rhyme="a" line_length="8">Avec l'Été tout brun de hâle</l>
+     <l n="8" rhyme="b" line_length="8">Elle se cache dans le blé.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Au mois d'août, bacchante enivrée,</l>
+     <l n="10" rhyme="b" line_length="8">Elle offre à l'Automne son sein,</l>
+     <l n="11" rhyme="a" line_length="8">Et, roulant sur la peau tigrée,</l>
+     <l n="12" rhyme="b" line_length="8">Fait jaillir le sang du raisin.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">En décembre, petite vieille,</l>
+     <l n="14" rhyme="b" line_length="8">Par les frimas poudrée à blanc,</l>
+     <l n="15" rhyme="a" line_length="8">Dans ses rêves elle réveille</l>
+     <l n="16" rhyme="b" line_length="8">L'Hiver auprès d'elle ronflant.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

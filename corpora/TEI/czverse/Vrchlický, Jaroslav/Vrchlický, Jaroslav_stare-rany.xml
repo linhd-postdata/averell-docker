@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Staré rány.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">11</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_stare-rany</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Staré rány.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Staré rány.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101000100" rhyme="1" line_length="11">Zas to bolí, bolelo – a bude zas.</l>
+     <l n="2" met="10101000101" rhyme="1" line_length="11">Rány také nezahojí ani čas.</l>
+     <l n="3" met="001010" rhyme="2" line_length="6">Vždy se ozvou znova</l>
+     <l n="4" met="011000" rhyme="2" line_length="6">jak vzkaz od hřbitova,</l>
+     <l n="5" met="10101010100" rhyme="1" line_length="11">který zdí svou bílou oba čeká nás.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="001010100" rhyme="3" line_length="9">Proč jen (ptá se duše znavena)</l>
+     <l n="7" met="101000100" rhyme="3" line_length="9">takých citů v nás je proměna?</l>
+     <l n="8" met="001010" rhyme="4" line_length="6">Co dnes vrchol blaha,</l>
+     <l n="9" met="001010" rhyme="4" line_length="6">proč to k duši sahá,</l>
+     <l n="10" met="10001010100" rhyme="3" line_length="11">rozkoše jak píseň pro vždy ztracená?</l>
+     <l n="11" met="01100" rhyme="3" line_length="5">Proč? – Ach, ozvěna!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

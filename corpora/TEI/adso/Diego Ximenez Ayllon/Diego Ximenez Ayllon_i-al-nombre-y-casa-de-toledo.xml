@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- I - Al nombre y casa de Toledo </title>
+    <author>Diego Ximenez Ayllon</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Diego Ximenez Ayllon_i-al-nombre-y-casa-de-toledo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- I - Al nombre y casa de Toledo </title>
+     <author>Diego Ximenez Ayllon</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- I - Al nombre y casa de Toledo </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+-+-+-">La fama con gracioso viso, ledo</l>
+     <l n="2" met="-+--++---+-">proezas de mil gentes publicando</l>
+     <l n="3" met="-+-+-+---+-">está ante todas ellas ensalzando</l>
+     <l n="4" met="---+-+---+-">a los de la alta casa de Toledo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+-+-+-">Y al Duque de Alba Don Fernando cedo</l>
+     <l n="6" met="-----+---+-">con Julio el famosísimo igualando</l>
+     <l n="7" met="+----++--+-">esta del singular triunfo gozando</l>
+     <l n="8" met="-+---+-+++-">con gloria que decir aquí no puedo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+---+-+-">De Cisalpina y Transalpina Galia</l>
+     <l n="10" met="+--+---+-+-">canta y de España, Alemania, Hungría,</l>
+     <l n="11" met="-+---+-+-+-">de entrambos, y de Roma, y toda Italia,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+---+-">Flandes aplica, Frica, y Berbería,</l>
+     <l n="13" met="-+-+-+---+-">a Don Fernando, a Egipto y a Tesalia</l>
+     <l n="14" met="-----+---+-">a Julio con contento y alegría.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

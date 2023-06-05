@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ŽIVOT.</title>
+    <author>Červinka, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červinka, Adolf_zivot</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ŽIVOT.</title>
+     <author>Červinka, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ŽIVOT.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101001" rhyme="1" line_length="7">Zas jeden ztracený den,</l>
+     <l n="2" met="010010010" rhyme="2" line_length="9">kde nebylo světla ni záře,</l>
+     <l n="3" met="1001001" rhyme="1" line_length="7">zmizel jak tíživý sen</l>
+     <l n="4" met="010010010" rhyme="2" line_length="9">a utonul v šedivé páře...</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0001001" rhyme="3" line_length="7">Já bych teď na hory šel,</l>
+     <l n="6" met="010010010" rhyme="4" line_length="9">kde zvony tak jásavě znějí,</l>
+     <l n="7" met="1001001" rhyme="3" line_length="7">stopy tvé hledat bych chtěl,</l>
+     <l n="8" met="010010010" rhyme="4" line_length="9">kde hrdličky v lesích se smějí...</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1001000" rhyme="5" line_length="7">Cyklamen květy bych snes’</l>
+     <l n="10" met="100010010" rhyme="6" line_length="9">od křišťálných, dumavých tůní,</l>
+     <l n="11" met="1001000" rhyme="5" line_length="7">aby se naplnil dnes</l>
+     <l n="12" met="010010010" rhyme="6" line_length="9">můj pokoj zas dalekou vůní!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

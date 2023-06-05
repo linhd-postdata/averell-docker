@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Caballo que despediste,</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_caballo-que-despediste</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Caballo que despediste,</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Caballo que despediste,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="-+----+-" line_length="8">Caballo que despediste,</l>
+     <l n="2" met="++++--+-" line_length="8">no solo un bello español,</l>
+     <l n="3" met="---+--+-" line_length="8">mas con los rayos del sol</l>
+     <l n="4" met="-+-+--+-" line_length="8">la dura tierra barriste;</l>
+     <l n="5" met="+-+-+-+-" line_length="8">viste ya de plumas, viste,</l>
+     <l n="6" met="--+-+-+-" line_length="8">que si en esto no sucedes</l>
+     <l n="7" met="-+-+++-" line_length="7">a la ave real, no puedes</l>
+     <l n="8" met="-+-+--+-" line_length="8">debidamente llevallo,</l>
+     <l n="9" met="-+--+-+-" line_length="8">que el águila aun es caballo</l>
+     <l n="10" met="-+----+-" line_length="8">indigno de Ganimedes.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

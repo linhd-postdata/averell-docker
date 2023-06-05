@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kronikář.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">10</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_kronikar</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kronikář.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kronikář.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101" rhyme="1" line_length="8">Ať zimní sníh, ať léta zář,</l>
+     <l n="2" met="10010100" rhyme="1" line_length="8">do knihy píše kronikář.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="01010101" rhyme="2" line_length="8">Ať v kraj se dívá jasem, tmou,</l>
+     <l n="4" met="100101001" rhyme="2" line_length="9">o všech tu píše, kteří tu jdou.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="110101101" rhyme="3" line_length="9">Zná jejich trudy, zná jejich ples,</l>
+     <l n="6" met="010100101" rhyme="3" line_length="9">on přečká všecky jak stepní vřes.</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="01000101" rhyme="4" line_length="8">A naposled svou vlastní skráň</l>
+     <l n="8" met="01010101" rhyme="4" line_length="8">když schýlí umdlen smrti v dlaň,</l>
+    </lg>
+    <lg n="5">
+     <l n="9" met="01010001" rhyme="5" line_length="8">své jméno připíše: Já host</l>
+     <l n="10" met="01000100" rhyme="5" line_length="8">byl tady jen – dost pro věčnost!</l>
+    </lg>
+    <lg n="6">
+     <l n="11" met="11010101" rhyme="6" line_length="8">Ó srdce, které každý den</l>
+     <l n="12" met="01010101" rhyme="6" line_length="8">jsi vášním, mukám vzdáno v plen,</l>
+    </lg>
+    <lg n="7">
+     <l n="13" met="01010001" rhyme="7" line_length="8">kam plije pokrytec i lhář,</l>
+     <l n="14" met="01000100" rhyme="7" line_length="8">jsi lepší než ten kronikář?</l>
+    </lg>
+    <lg n="8">
+     <l n="15" met="01010101" rhyme="8" line_length="8">Ty všecko znáš a o všem víš,</l>
+     <l n="16" met="01010101" rhyme="8" line_length="8">a proto taká v tobě tiš.</l>
+    </lg>
+    <lg n="9">
+     <l n="17" met="01010101" rhyme="9" line_length="8">Ty všecko chápeš, za vším jdeš,</l>
+     <l n="18" met="01011101" rhyme="9" line_length="8">a proto zříš kol klam a lež.</l>
+    </lg>
+    <lg n="10">
+     <l n="19" met="01010001" rhyme="10" line_length="8">Již ustaň! – Nepozvaný host</l>
+     <l n="20" met="01000100" rhyme="10" line_length="8">byl’s v kvasu tom – dost pro věčnost!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Cestou v samotách.</title>
+    <author>Rožek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Rožek, Karel_cestou-v-samotach</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Cestou v samotách.</title>
+     <author>Rožek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Cestou v samotách.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" rhyme="1" line_length="9">A střemchy do snů našich voní,</l>
+     <l n="2" met="0101000101010" rhyme="2" line_length="13">a v cestu sypají se lístky bílých květů.</l>
+     <l n="3" met="010101010" rhyme="1" line_length="9">Tvá hlava na mou hruď se kloní,</l>
+     <l n="4" met="0101000101010" rhyme="2" line_length="13">a tisíc polibků mne vábí ve Tvém retu.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="110101000" rhyme="3" line_length="9">Jdem cestou tichou, opuštěnou,</l>
+     <l n="6" met="0101000101010" rhyme="4" line_length="13">kde nikdo nechodí, jen věčný smutek stínů.</l>
+     <l n="7" met="110101010" rhyme="3" line_length="9">Jdem sami, Tys již moji ženou,</l>
+     <l n="8" met="1100010100110" rhyme="4" line_length="13">jdem mimo všech, kde Tebou v přírody svět splynu.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101010" rhyme="5" line_length="9">Vždy, Tvá-li duše se mnou kráčí,</l>
+     <l n="10" met="1001010001010" rhyme="6" line_length="13">i tam, kde nikdo, zjeví se mi velké Žití,</l>
+     <l n="11" met="010000010" rhyme="5" line_length="9">jež samotáři víc než stačí;</l>
+     <l n="12" met="100101010101010" rhyme="6" line_length="15">i tam, kde mrtvo, Tebou v požár duše má se vznítí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

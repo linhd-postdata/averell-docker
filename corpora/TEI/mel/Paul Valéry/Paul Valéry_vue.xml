@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vue</title>
+    <author>Paul Valéry</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Valéry_vue</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vue</title>
+     <author>Paul Valéry</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vue</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="7">Si la plage planche, si</l>
+     <l n="2" rhyme="b" line_length="7">L’ombre sur l’œil s’use et pleure</l>
+     <l n="3" rhyme="a" line_length="7">Si l’azur est larme, ainsi</l>
+     <l n="4" rhyme="b" line_length="7">Au sel des dents pure affleure</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="7">La vierge fumée ou l’air</l>
+     <l n="6" rhyme="d" line_length="7">Que berce en soi puis expire</l>
+     <l n="7" rhyme="c" line_length="7">Vers l’eau debout d’une mer</l>
+     <l n="8" rhyme="d" line_length="7">Assoupie en son empire</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="7">Celle qui sans les ouïr</l>
+     <l n="10" rhyme="f" line_length="7">Si la lèvre au vent remue</l>
+     <l n="11" rhyme="e" line_length="7">Se joue à évanouir</l>
+     <l n="12" rhyme="f" line_length="7">Mille mots vains où se mue</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="g" line_length="7">Sous l’humide éclair de dents</l>
+     <l n="14" rhyme="g" line_length="7">Le très doux feu du dedans.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

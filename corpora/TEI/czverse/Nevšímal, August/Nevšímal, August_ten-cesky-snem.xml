@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ten český sněm.</title>
+    <author>Nevšímal, August</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nevšímal, August_ten-cesky-snem</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ten český sněm.</title>
+     <author>Nevšímal, August</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ten český sněm.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="001100" line_length="6">Když jsem šel po Praze,</l>
+     <l n="2" met="10010" rhyme="1" line_length="5">po Malej straně,</l>
+     <l n="3" met="100100" line_length="6">potkal jsem vlastence</l>
+     <l n="4" met="10000" rhyme="1" line_length="5">napudrované.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010" rhyme="2" line_length="5">Já na ně česky,</l>
+     <l n="6" met="10100" rhyme="2" line_length="5">oni německy –</l>
+     <l n="7" met="100101" line_length="6">„Bodejž vás kozel vzal,</l>
+     <l n="8" met="10010" rhyme="2" line_length="5">tohle je hezky!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

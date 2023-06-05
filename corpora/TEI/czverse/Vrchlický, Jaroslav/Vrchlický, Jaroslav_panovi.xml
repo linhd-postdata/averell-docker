@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PANOVI.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_panovi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PANOVI.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PANOVI.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1101010100" rhyme="1" line_length="10">Tok bouřné mízy v poupat nálevu,</l>
+     <l n="2" met="01010101010" rhyme="2" line_length="11">kdy raší hloh a šťavou kypí břízy,</l>
+     <l n="3" met="0100110100" rhyme="1" line_length="10">co v skřivana zní prvním prozpěvu,</l>
+     <l n="4" met="11010" rhyme="2" line_length="5">tok bouřné mízy:</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101010" rhyme="2" line_length="11">Ty první kapky světla s nachu řízy,</l>
+     <l n="6" met="0100110100" rhyme="1" line_length="10">když Hélios vzplá v Máje úsměvu,</l>
+     <l n="7" met="11000101000" rhyme="2" line_length="11">věř, do smrti mi z duše nevymizí.</l>
+    </lg>
+    <lg n="3">
+     <l n="8" met="0001000100" rhyme="1" line_length="10">Tak jest mi do tance a do zpěvu</l>
+     <l n="9" met="01010101010" rhyme="2" line_length="11">a deptám vin a hříchu slizké hlízy...</l>
+     <l n="10" met="0101010100" rhyme="1" line_length="10">Ne had, tys velký patřil na Evu,</l>
+     <l n="11" met="0101010100" rhyme="1" line_length="10">když vřel jí v ňadrech, nesa úlevu,</l>
+     <l n="12" met="11010" rhyme="2" line_length="5">tok bouřné mízy...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

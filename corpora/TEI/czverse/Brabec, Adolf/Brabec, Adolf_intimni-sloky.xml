@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>INTIMNÍ SLOKY.</title>
+    <author>Brabec, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Brabec, Adolf_intimni-sloky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>INTIMNÍ SLOKY.</title>
+     <author>Brabec, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>INTIMNÍ SLOKY.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000101" rhyme="1" line_length="8">Když májový se večer tměl,</l>
+     <l n="2" met="00010100" rhyme="1" line_length="8">já jsem ti, drahá, rozuměl</l>
+     <l n="3" met="010001010" rhyme="2" line_length="9">a bolest tvá, mým štěstím byla</l>
+     <l n="4" met="100001000" rhyme="2" line_length="9">a tou jsi se mně zalíbila.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101" rhyme="3" line_length="8">Je lépe nežít’, věčně spat,</l>
+     <l n="6" met="1010101" rhyme="3" line_length="7">v duši zima, v srdci chlad,</l>
+     <l n="7" met="010001010" rhyme="2" line_length="9">přec bolest tvá, mým štěstím byla</l>
+     <l n="8" met="100001000" rhyme="2" line_length="9">a tou jsi se mně zalíbila!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

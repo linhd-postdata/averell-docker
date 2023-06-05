@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Paisaje tropical</title>
+    <author>José Asunción Silva</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Asunción Silva_paisaje-tropical</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Paisaje tropical</title>
+     <author>José Asunción Silva</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Paisaje tropical</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+----+-+-+-">Magia ensordecedora vierte al río</l>
+     <l n="2" met="--+--+---+-">en la calma monótona del viaje,</l>
+     <l n="3" met="--+------+-">cuando borra los lejos del paisaje</l>
+     <l n="4" met="-+---+---+-">la sombra que se extiende en el vacío.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">Oculta en sus negruras el bohío</l>
+     <l n="6" met="--+--+---+-">la maraña tupida, y el follaje</l>
+     <l n="7" met="-+---+-+-+-">semeja los calados de un encaje</l>
+     <l n="8" met="--+--+---+-">al caer del crepúsculo sombrío.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+-+-">Venus se enciende en el espacio puro.</l>
+     <l n="10" met="--+--++--+-">La corriente dormida, una piragua</l>
+     <l n="11" met="+--+-+---+-">rompe en su viaje rápido y seguro,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+---+-+-">y con las nubes el Poniente fragua</l>
+     <l n="13" met="+-+--+-+-+-">otro cielo rosado y verde oscuro</l>
+     <l n="14" met="---+-+---+-">en los espejos húmedos del agua.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

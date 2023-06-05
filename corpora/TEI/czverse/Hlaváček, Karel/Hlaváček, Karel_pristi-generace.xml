@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Příští generace</title>
+    <author>Hlaváček, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hlaváček, Karel_pristi-generace</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Příští generace</title>
+     <author>Hlaváček, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Příští generace</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100010" rhyme="1" line_length="11">Těm pánům, zlatá zrnéčka již kladou</l>
+     <l n="2" met="10010001000" rhyme="2" line_length="11">do srdcí mládeži své bledolící,</l>
+     <l n="3" met="01010100010" rhyme="1" line_length="11">dnes každý zdravý pohyb je už vadou...</l>
+     <l n="4" met="01000101000" rhyme="2" line_length="11">Své školáčky radš těsné ve lavici</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11010100010" rhyme="1" line_length="11">den ze dne mořit, krmit je svou radou,</l>
+     <l n="6" met="11010101000" rhyme="2" line_length="11">v ráz zdusit, kde to zaplá v zřítelnici</l>
+     <l n="7" met="01000100010" rhyme="1" line_length="11">tou silou přec jen neskrotnou a mladou...</l>
+     <l n="8" met="01000101000" rhyme="2" line_length="11">pak divme se té mládi plešatící!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000101010" rhyme="3" line_length="11">Jak žalostno pak zřít ty ploché hrudi</l>
+     <l n="10" met="01011101010" rhyme="4" line_length="11">a chabý sval, tvář vpadlou, zhaslé zraky,</l>
+     <l n="11" met="01010100010" rhyme="5" line_length="11">té, Vlasti, příští generace tvojí,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="01000101000" rhyme="3" line_length="11">již oblékáme šmahem do orudí</l>
+     <l n="13" met="01000100010" rhyme="5" line_length="11">a pasujeme k Blanickému voji,</l>
+     <l n="14" met="10110100010" rhyme="4" line_length="11">a již chcem vehnat v nepřátelské mraky!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

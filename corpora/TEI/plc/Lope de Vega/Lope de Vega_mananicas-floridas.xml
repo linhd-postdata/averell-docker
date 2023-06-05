@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mañanicas floridas</title>
+    <author>Lope de Vega</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lope de Vega_mananicas-floridas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Poesía Lírica Castellana Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mañanicas floridas</title>
+     <author>Lope de Vega</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mañanicas floridas</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="...">
+     <l n="1" met="--+--+-">Mañanicas floridas</l>
+     <l n="2" met="-+-+-">del frío invierno,</l>
+     <l n="3" met="--+--+-">recordad a mi niño</l>
+     <l n="4" met="-+-+-">que duerme al hielo.</l>
+     <l n="5" met="-+--+-">Mañanas dichosas</l>
+     <l n="6" met="-+---">del frío diciembre,</l>
+     <l n="7" met="--+-+-">aunque el cielo os siembre</l>
+     <l n="8" met="-+--+-">de flores y rosas,</l>
+     <l n="9" met="-+--+-">pues sois rigurosas</l>
+     <l n="10" met="-+-">y Dios es tierno,</l>
+     <l n="11" met="--+--+-">recordad a mi niño</l>
+     <l n="12" met="-+-+-">que duerme al hielo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

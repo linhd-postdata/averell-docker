@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nesmrtelný.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_nesmrtelny</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nesmrtelný.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nesmrtelný.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10100010100" rhyme="1" line_length="11">,On jest nesmrtelný:‘ – „Vždyť byl velké nic.“</l>
+     <l n="2" met="10101010000" rhyme="1" line_length="11">,Právě proto! Nás až nebude tu víc,</l>
+     <l n="3" met="101010100" rhyme="2" line_length="9">svět až světem býti přestane,</l>
+     <l n="4" met="1000100" rhyme="2" line_length="7">ze všeho co zůstane?‘</l>
+     <l n="5" met="10100" rhyme="1" line_length="5">„Inu – velké nic.“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

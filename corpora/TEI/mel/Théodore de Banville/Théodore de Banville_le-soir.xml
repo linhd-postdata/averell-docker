@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Soir</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_le-soir</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Soir</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Soir</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">On cause, chez Victor Hugo,</l>
+     <l n="2" rhyme="b" line_length="8">Sans redouter nul pianiste.</l>
+     <l n="3" rhyme="b" line_length="8">Tout flûtiste ou violoniste</l>
+     <l n="4" rhyme="a" line_length="8">Est reçu là comme Iago.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Vînt-il de Siam ou du Congo,</l>
+     <l n="6" rhyme="b" line_length="8">Pas d'accueil pour le symphoniste ;</l>
+     <l n="7" rhyme="a" line_length="8">On cause, chez Victor Hugo,</l>
+     <l n="8" rhyme="b" line_length="8">Sans redouter nul pianiste.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">A d'autres La Reine Indigo,</l>
+     <l n="10" rhyme="b" line_length="8">Ce chef-d'œuvre d'un harmoniste,</l>
+     <l n="11" rhyme="b" line_length="8">Même Le Petit Ébéniste,</l>
+     <l n="12" rhyme="a" line_length="8">Vous aussi Donna del Lago:</l>
+     <l n="13" rhyme="a" line_length="8">On cause, chez Victor Hugo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

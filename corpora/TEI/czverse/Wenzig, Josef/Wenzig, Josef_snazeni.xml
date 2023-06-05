@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Snažení.</title>
+    <author>Wenzig, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Wenzig, Josef_snazeni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Snažení.</title>
+     <author>Wenzig, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Snažení.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" line_length="6">Snažení je žití,</l>
+     <l n="2" met="00101" rhyme="1" line_length="5">Smrť však líný klid:</l>
+     <l n="3" met="10100000" rhyme="2" line_length="8">Protož vynasnažování,</l>
+     <l n="4" met="10001000" rhyme="2" line_length="8">Namahání, přemahání,</l>
+     <l n="5" met="01100" rhyme="1" line_length="5">Tvým má heslem být!</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="100010" line_length="6">Přeješ-li si klidu,</l>
+     <l n="7" met="10100" rhyme="3" line_length="5">Budiž k tomu jen,</l>
+     <l n="8" met="10101000" rhyme="4" line_length="8">Abys k nové snažlivosti,</l>
+     <l n="9" met="10001000" rhyme="4" line_length="8">Překonati obtížností,</l>
+     <l n="10" met="00100" rhyme="3" line_length="5">Jím byl posilněn!</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="101010" line_length="6">Aby klid pak tebe</l>
+     <l n="12" met="10100" rhyme="5" line_length="5">V bahně nezmořil,</l>
+     <l n="13" met="10100010" rhyme="6" line_length="8">Hledejž největší své slasti</l>
+     <l n="14" met="10100100" rhyme="6" line_length="8">V boji hrdinném se strastí,</l>
+     <l n="15" met="10001" rhyme="5" line_length="5">V cvičení svých sil!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V mlze.</title>
+    <author>Cajthaml-Liberté, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cajthaml-Liberté, František_v-mlze</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V mlze.</title>
+     <author>Cajthaml-Liberté, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V mlze.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100100" line_length="9">V podzimní smuteční náladě</l>
+     <l n="2" met="10001010" rhyme="1" line_length="8">pohřížen je Sever celý,</l>
+     <l n="3" met="100100100" line_length="9">mlhy jej závojem šedivým</l>
+     <l n="4" met="10001000" rhyme="1" line_length="8">z večera dnes přioděly.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010100100" line_length="9">I plíce železných netvorů</l>
+     <l n="6" met="10010010" rhyme="2" line_length="8">jakoby v nemoci dýší;</l>
+     <l n="7" met="100101100" line_length="9">sklopené oko, tvař bezkrvou –</l>
+     <l n="8" met="10110010" rhyme="2" line_length="8">z šichty jdou havíři tiší.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="110100101" line_length="9">V jih prchli ptáci, jen vrabců houf</l>
+     <l n="10" met="10100010" rhyme="3" line_length="8">zbyl zde na cestě z jich plesů.</l>
+     <l n="11" met="010101001" line_length="9">A mlha houstne a víc se tmí</l>
+     <l n="12" met="01110010" rhyme="3" line_length="8">a chlad jde od saských lesů.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

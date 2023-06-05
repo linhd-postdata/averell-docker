@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A España</title>
+    <author>Francisco Sellén</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco Sellén_a-espana</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A España</title>
+     <author>Francisco Sellén</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A España</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">De horror el crimen tus anales llena;</l>
+     <l n="2" met="--+--+-+-+-">donde imprimes el pie, la sangre brota;</l>
+     <l n="3" met="---+-+-+-+-">el manantial de vida allí de agota,</l>
+     <l n="4" met="--+-+----+-">y hasta el aire tu hálito envenena.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+++-+-+--+-">No león, más chacal injerto en hiena</l>
+     <l n="6" met="+--+-+-+-+-">eres; y vil puñal tu espada rota;</l>
+     <l n="7" met="-+-+---+-+-">y ya el clarín de tu fatal derrota</l>
+     <l n="8" met="-+-+-+---+-">en todas partes lúgubre resuena.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+-+-+-">Despeñada al abismo que has cavado</l>
+     <l n="10" met="++-+---+-+-">tú misma, torpe e infeliz España,</l>
+     <l n="11" met="-+-+-+---+-">a impulso vas de fuerza irresistible:</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+-+-+-">Siniestro resplandor tu frente baña;</l>
+     <l n="13" met="-+---+-+-+-">y dejas, donde quiera que has pasado,</l>
+     <l n="14" met="+--++----+-">ruinas y luto y odio inextinguible.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

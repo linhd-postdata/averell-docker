@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ma bohême</title>
+    <author>Arthur Rimbaud</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Arthur Rimbaud_ma-boheme</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ma bohême</title>
+     <author>Arthur Rimbaud</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ma bohême</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Je m’en allais, les poings dans mes poches crevées ;</l>
+     <l n="2" rhyme="b" line_length="6+6">Mon paletot aussi devenait idéal ;</l>
+     <l n="3" rhyme="b" line_length="6+6">J’allais sous le ciel, Muse ! et j’étais ton féal ;</l>
+     <l n="4" rhyme="a" line_length="6+6">Oh ! là là ! que d’amours splendides j’ai rêvées !</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">Mon unique culotte avait un large trou.</l>
+     <l n="6" rhyme="d" line_length="6+6">— Petit Poucet rêveur, j’égrenais dans ma course</l>
+     <l n="7" rhyme="d" line_length="6+6">Des rimes. Mon auberge était à la Grande-Ourse ;</l>
+     <l n="8" rhyme="c" line_length="6+6">— Mes étoiles au ciel avaient un doux frou-frou.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="6+6">Et je les écoutais, assis au bord des routes,</l>
+     <l n="10" rhyme="e" line_length="6+6">Ces bons soirs de septembre où je sentais des gouttes</l>
+     <l n="11" rhyme="f" line_length="6+6">De rosée à mon front, comme un vin de vigueur ;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="6+6">Où, rimant au milieu des ombres fantastiques,</l>
+     <l n="13" rhyme="g" line_length="6−6">Comme des lyres, je tirais les élastiques</l>
+     <l n="14" rhyme="f" line_length="6+6">De mes souliers blessés, un pied près de mon cœur !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

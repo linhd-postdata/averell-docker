@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ansias</title>
+    <author>Francisco Lles</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco Lles_ansias</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ansias</title>
+     <author>Francisco Lles</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ansias</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---+-+-">Juntos por un camino, hasta donde él acabe,</l>
+     <l n="2" met="--+--+----+-+-">sin saber de la mano que entre las sombras hiere,</l>
+     <l n="3" met="--+--+---+--+-">y en la pena infinita de la tarde que muere,</l>
+     <l n="4" met="--+--+---+-++-">entre el hondo silencio de las cosas ¡tan grave!,</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+---+-+-">ir contigo al Calvario con tu cruz y mi cruz,</l>
+     <l n="6" met="-++--+-+++-++-">las dos cruces sacadas yo no sé de qué fondo,</l>
+     <l n="7" met="--+++-++-+-">y sentirte muy mía, muy adentro, en lo hondo,</l>
+     <l n="8" met="+-+--+--++-+-">hecha sangre en mi sangre, y en mi alma hecha luz.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--++----+--++-">Y sentirte muy mía, para nunca perderte,</l>
+     <l n="10" met="--++-+---++-+-">y arrancarte a los hombres y arrancarte a la muerte,</l>
+     <l n="11" met="--++-+-+-+-++-">y arrancarte al destino que es bestial y que es rudo;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--++-+---+--+-">y tenerte a mi vera para toda la vida,</l>
+     <l n="13" met="--+--+---+--+-">y si inútil o muerto me dejase la herida,</l>
+     <l n="14" met="--+--+---+--+-">sino sirvo de espada, ¡que te sirva de escudo!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

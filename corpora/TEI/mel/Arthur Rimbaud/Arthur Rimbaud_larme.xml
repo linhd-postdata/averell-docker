@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Larme</title>
+    <author>Arthur Rimbaud</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Arthur Rimbaud_larme</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Larme</title>
+     <author>Arthur Rimbaud</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Larme</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="5−6">Loin des oiseaux, des troupeaux, des villageoises,</l>
+     <l n="2" line_length="6+5">Je buvais, accroupi dans quelque bruyère</l>
+     <l n="3" line_length="5+6">Entourée de tendres bois de noisetiers,</l>
+     <l n="4" line_length="11">Par un brouillard d'après-midi tiède et vert.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" line_length="5+6">Que pouvais-je boire dans cette jeune Oise,</l>
+     <l n="6" line_length="6+5">Ormeaux sans voix, gazon sans fleurs, ciel couvert.</l>
+     <l n="7" line_length="6+5">Que tirais-je à la gourde de colocase ?</l>
+     <l n="8" line_length="5+6">Quelque liqueur d'or, fade et qui fait suer</l>
+    </lg>
+    <lg n="3">
+     <l n="9" line_length="6+5">Tel, j'eusse été mauvaise enseigne d'auberge.</l>
+     <l n="10" line_length="6+5">Puis l'orage changea le ciel, jusqu'au soir.</l>
+     <l n="11" line_length="6+5">Ce furent des pays noirs, des lacs, des perches,</l>
+     <l n="12" line_length="11">Des colonnades sous la nuit bleue, des gares.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" line_length="6+5">L'eau des bois se perdait sur des sables vierges</l>
+     <l n="14" line_length="6+5">Le vent, du ciel, jetait des glaçons aux mares…</l>
+     <l n="15" line_length="5+6">Or ! tel qu'un pêcheur d'or ou de coquillages,</l>
+     <l n="16" line_length="5+6">Dire que je n'ai pas eu souci de boire !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

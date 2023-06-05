@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JARNÍ VZDECH.</title>
+    <author>Geisslová, Irma</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Geisslová, Irma_jarni-vzdech</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JARNÍ VZDECH.</title>
+     <author>Geisslová, Irma</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JARNÍ VZDECH.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000100" line_length="7">Od vrchole ku kmenu</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">mladé, hebké listí,</l>
+     <l n="3" met="1000100" line_length="7">drobounké, vždy po pěti,</l>
+     <l n="4" met="001010" rhyme="1" line_length="6">že je nelze sčísti.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1000100" line_length="7">V rozhoupaných haluzích</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">malé ptáčků děti</l>
+     <l n="7" met="1000100" line_length="7">švitoří a těší se,</l>
+     <l n="8" met="001010" rhyme="2" line_length="6">jak tam budou pěti.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010100" line_length="7">Větřík mladým listovím</l>
+     <l n="10" met="101010" rhyme="3" line_length="6">tichou píseň hude –</l>
+     <l n="11" met="0100100" line_length="7">kdež budu, až sežloutlé</l>
+     <l n="12" met="100010" rhyme="3" line_length="6">opadávat bude!? –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

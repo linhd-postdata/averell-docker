@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>OSEL A VŮL.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_osel-a-vul</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>OSEL A VŮL.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>OSEL A VŮL.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10100" rhyme="1" line_length="5">NAPSAL osel kdys</l>
+     <l n="2" met="10001" rhyme="1" line_length="5">přeučený spis,</l>
+     <l n="3" met="10001010" line_length="8">bez práce jak možno žíti</l>
+     <l n="4" met="01001" rhyme="1" line_length="5">všem u plných mis.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10100" rhyme="2" line_length="5">Vůl to zvěděl hned,</l>
+     <l n="6" met="10001" rhyme="2" line_length="5">do křesla si seď</l>
+     <l n="7" met="10101000" line_length="8">a tu knihu přeučenou</l>
+     <l n="8" met="10010" rhyme="2" line_length="5">jenom čet’ a čet’.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101" rhyme="3" line_length="5">A když přestal číst,</l>
+     <l n="10" met="10001" rhyme="3" line_length="5">chtělo se mu jíst,</l>
+     <l n="11" met="00110010" line_length="8">byl by dal za otep sena</l>
+     <l n="12" met="10101" rhyme="3" line_length="5">knihy každý list.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101" rhyme="4" line_length="5">Osel, chytrý druh,</l>
+     <l n="14" met="00011" rhyme="4" line_length="5">kde byl teď; ví bůh!</l>
+     <l n="15" met="10101010" line_length="8">vůl jej nechal oslem býti</l>
+     <l n="16" met="10001" rhyme="4" line_length="5">a táh’ dál svůj pluh.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Día de primavera</title>
+    <author>Nieves Xenes</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nieves Xenes_dia-de-primavera</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Día de primavera</title>
+     <author>Nieves Xenes</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Día de primavera</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+---+-">De la arboleda hojosa en la espesura,</l>
+     <l n="2" met="+--+-+---+-">blando suspira el viento entre el ramaje,</l>
+     <l n="3" met="--+--+---+-">y los pájaros lucen su plumaje</l>
+     <l n="4" met="-+---+---+-">cantando sus endechas de ternura.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+-+-+-">Su monólogo eterno el mar murmura</l>
+     <l n="6" met="--+-++---+-">balanceándose en lánguido oleaje,</l>
+     <l n="7" met="-+---+-+-+-">y tiende de su espuma el blanco encaje</l>
+     <l n="8" met="---+---+-+-">de sus orillas en la roca oscura.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+--+-+--+-">Las flores se abren frescas y rientes</l>
+     <l n="10" met="--+--+---+-">derramando su esencia embriagadora;</l>
+     <l n="11" met="-+---+---+-">la nube, de matices relucientes</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+---+-">en el azul del cielo se colora;</l>
+     <l n="13" met="--+--++--+-">y magnífico el sol lanza a torrentes</l>
+     <l n="14" met="-+---+---+-">los rayos de su luz deslumbradora.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La libertad</title>
+    <author>Manuel del Palacio</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel del Palacio_la-libertad</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La libertad</title>
+     <author>Manuel del Palacio</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La libertad</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+-+-">¡Celeste libertad! ¡Astro fecundo,</l>
+     <l n="2" met="-+-+---+-+-">que triste a veces su fulgor derrama,</l>
+     <l n="3" met="---+-+-+-+-">cuando al mirar su luz trocada en llama,</l>
+     <l n="4" met="-+-+---+-+-">mejor destruye que ilumina el mundo!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++---+---+-">Ya hundida del abismo en lo profundo,</l>
+     <l n="6" met="++---+-+-+-">ya rica de poder, de gloria y fama,</l>
+     <l n="7" met="-+-+---+-+-">rival del hijo que su madre aclama,</l>
+     <l n="8" met="-+-+-+---+-">aclamo yo tu imperio sin segundo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-----+-+-+-">Dentro del corazón tu nombre leo;</l>
+     <l n="10" met="+--+---+++-">antes que ausente de mi hogar te llore,</l>
+     <l n="11" met="+--+---+-+-">antes que el hierro del esclavo muerda,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+-+-+-">de mi existencia el fin hallar deseo:</l>
+     <l n="13" met="-+-+-+--++-">¡Maldito aquel que hipócrita te adore!</l>
+     <l n="14" met="-+-+-+--++-">¡Maldito aquel que estúpido te pierda!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

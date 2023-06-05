@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Fin d'hiver</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_fin-d-hiver</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Fin d'hiver</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Fin d'hiver</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Par ce temps si bénin, après tant de froidure,</l>
+     <l n="2" rhyme="b" line_length="6+6">Dans les grands terrains gris, sur les coteaux chenus,</l>
+     <l n="3" rhyme="b" line_length="6+6">On a l'impression parmi ces arbres nus</l>
+     <l n="4" rhyme="a" line_length="6+6">D'un très beau jour d'été sans fleurs et sans verdure.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Les pieds ne glissent plus sur la terre moins dure</l>
+     <l n="6" rhyme="b" line_length="6+6">Où les feux du soleil, presque tous revenus,</l>
+     <l n="7" rhyme="b" line_length="6+6">Allument cailloux, rocs, sable et gazons menus.</l>
+     <l n="8" rhyme="a" line_length="6+6">Dans l'atmosphère souffle un vent tiède qui dure.</l>
+    </lg>
+    <lg n="3" />
+    <lg n="4" />
+   </lg>
+  </body>
+ </text>
+</TEI>

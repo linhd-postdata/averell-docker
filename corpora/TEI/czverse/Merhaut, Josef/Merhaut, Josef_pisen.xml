@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PÍSEŇ.</title>
+    <author>Merhaut, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Merhaut, Josef_pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PÍSEŇ.</title>
+     <author>Merhaut, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PÍSEŇ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010010" rhyme="1" line_length="8">Jak listí spadává zticha</l>
+     <l n="2" met="1001001" rhyme="2" line_length="7">v aleji Vaší, jak dech,</l>
+     <l n="3" met="10010010" rhyme="1" line_length="8">slyším, jak písní to dýchá</l>
+     <l n="4" met="1001000" rhyme="2" line_length="7">z keřů a ze stromů všech.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010010" rhyme="3" line_length="8">Pohádka o dlouhé touze,</l>
+     <l n="6" met="0101001" rhyme="4" line_length="7">tak sladká, z růžových dob –</l>
+     <l n="7" met="01010010" rhyme="3" line_length="8">to listí znalo ji pouze,</l>
+     <l n="8" met="1001001" rhyme="4" line_length="7">padajíc do Vašich stop.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="00010110" rhyme="5" line_length="8">Jak jste tu zatím šla z domu,</l>
+     <l n="10" met="1001000" rhyme="6" line_length="7">chvělo se teskně Vám vstříc –</l>
+     <l n="11" met="11010010" rhyme="5" line_length="8">ó, souzvuk duší a stromů – –</l>
+     <l n="12" met="0001000" rhyme="6" line_length="7">kdo z nás Vás miloval víc? –</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01010010" rhyme="7" line_length="8">To listí tiše tak splývá,</l>
+     <l n="14" met="0100000" rhyme="8" line_length="7">kdos v touze jak by v něm dých’ –</l>
+     <l n="15" met="10010010" rhyme="7" line_length="8">o Vaší kráse si zpívá,</l>
+     <l n="16" met="1001000" rhyme="8" line_length="7">důvěrník čekání mých.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="01010110" rhyme="9" line_length="8">To listí tiše zřím splývat –</l>
+     <l n="18" met="1101000" rhyme="10" line_length="7">ó, spjat svůj osud tak s ním:</l>
+     <l n="19" met="10010010" rhyme="9" line_length="8">o Vaší kráse si zpívat,</l>
+     <l n="20" met="0100100" rhyme="10" line_length="7">a odejít s listím tím...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

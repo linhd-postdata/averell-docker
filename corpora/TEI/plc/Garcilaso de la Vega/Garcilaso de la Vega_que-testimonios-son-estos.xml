@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>¿Qué testimonios son éstos</title>
+    <author>Garcilaso de la Vega</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">11</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Garcilaso de la Vega_que-testimonios-son-estos</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Poesía Lírica Castellana Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>¿Qué testimonios son éstos</title>
+     <author>Garcilaso de la Vega</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>¿Qué testimonios son éstos</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="Copla">
+     <l n="1" met="+--+-+-">¿Qué testimonios son éstos</l>
+     <l n="2" met="---+--+-">que le queréis levantar?</l>
+     <l n="3" met="-+---+-">¡Que no fue sino bailar!</l>
+     <l n="4" met="--+-">Garcilaso</l>
+     <l n="5" met="+-+--+-">¿Ésta tienen por gran culpa?</l>
+     <l n="6" met="+-+---+-">No lo fue, a mi parecer,</l>
+     <l n="7" met="--+---+-">porque tiene por desculpa</l>
+     <l n="8" met="--+---+-">que lo hizo la mujer.</l>
+     <l n="9" met="+--+--+-">Ésta le hizo caer</l>
+     <l n="10" met="+-+-+-+-">mucho más que no el saltar</l>
+     <l n="11" met="-+----+-">que hizo con el bailar.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

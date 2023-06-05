@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Praktická interpretace.</title>
+    <author>Nečas, Jan Evangelista</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nečas, Jan Evangelista_prakticka-interpretace</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Praktická interpretace.</title>
+     <author>Nečas, Jan Evangelista</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Praktická interpretace.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Farář kázal, že prý posty</l>
+     <l n="2" met="10101010" rhyme="1" line_length="8">k nebi vedou jako mosty.</l>
+     <l n="3" met="1010101000" rhyme="2" line_length="10">Sedlák, dbaje toho naučení</l>
+     <l n="4" met="1010101000" rhyme="2" line_length="10">a chtě také dojíť ku spasení,</l>
+     <l n="5" met="10100010" rhyme="3" line_length="8">takto přikazoval ženě:</l>
+     <l n="6" met="10001000" rhyme="3" line_length="8">„Od nynějška každodenně</l>
+     <l n="7" met="101010100" rhyme="4" line_length="9">budeš místo tuctu knedlíků</l>
+     <l n="8" met="101010100" rhyme="4" line_length="9">pro mě deset pražit v rendlíku.</l>
+     <l n="9" met="1000100010" rhyme="5" line_length="10">Rozumí se bez velikých řečí:</l>
+     <l n="10" met="0010100010" rhyme="5" line_length="10">ať jsou za to o drobátko větší!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

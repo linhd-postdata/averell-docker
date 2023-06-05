@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MÁLO</title>
+    <author>Cajthaml-Liberté, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cajthaml-Liberté, František_malo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MÁLO</title>
+     <author>Cajthaml-Liberté, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MÁLO</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010101000" rhyme="1" line_length="12">Kmotra Bída chodí v městech, po vesnicích</l>
+     <l n="2" met="10101010101" rhyme="2" line_length="11">a když chytá v náruč svoji hojně lid,</l>
+     <l n="3" met="101010101000" rhyme="1" line_length="12">mnoho rtů je slyšet babsky bědujících,</l>
+     <l n="4" met="10001010101" rhyme="2" line_length="11">málo však je slyšet vzdorných srdcí bít,</l>
+     <l n="5" met="101010101010" rhyme="3" line_length="12">málo na ni hledí pevných, ostrých zraků,</l>
+     <l n="6" met="10101010101" rhyme="4" line_length="11">málo silných nohou dupne na ni v ráz,</l>
+     <l n="7" met="101010101000" rhyme="3" line_length="12">málo úst jí řekne ihned bez rozpaků:</l>
+     <l n="8" met="10101010010" rhyme="4" line_length="11">„Kmotra, kdo tě poslal, k tomu se kliď zas!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

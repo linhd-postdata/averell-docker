@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Florentino Martínez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Florentino Martínez_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Florentino Martínez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--++--+-">¿Ríes, lector? Recorta lo que quieras,</l>
+     <l n="2" met="+-+--+---+-">borra algún adjetivo majadero,</l>
+     <l n="3" met="--++-+---+-">o supón simplemente que exagero</l>
+     <l n="4" met="--++-++--+-">al quererte pintar estas lumbreras.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-++--+-+-">Podrás pensar de estas cabezas hueras</l>
+     <l n="6" met="+-++-+---+-">que algo me habré dejado en el tintero,</l>
+     <l n="7" met="-++--+-+++-">que son duros mis juicios... Yo no quiero</l>
+     <l n="8" met="-+++-+---+-">negarte que hay sus bromas en las veras.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-++--+---+-">Podré haber recargado el colorido,</l>
+     <l n="10" met="-++--+-+-+-">mas no me negarás, lector querido,</l>
+     <l n="11" met="-+-+-+---+-">que tú conoces bardos y escritores</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">que si no han rebuznado todavía</l>
+     <l n="13" met="++-+-+--++-">nos sueltan un rebuzno cualquier día,</l>
+     <l n="14" met="-+-+-++--+-">por no saber hacer cosas mejores.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

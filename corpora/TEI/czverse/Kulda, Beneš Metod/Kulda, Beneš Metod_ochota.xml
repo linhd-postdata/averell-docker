@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ochota.</title>
+    <author>Kulda, Beneš Metod</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kulda, Beneš Metod_ochota</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ochota.</title>
+     <author>Kulda, Beneš Metod</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ochota.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101010" rhyme="1" line_length="10">„Liberální spolek zve mne tuze</l>
+     <l n="2" met="1000101010" rhyme="1" line_length="10">do moderní svojí valné schůze,</l>
+     <l n="3" met="100010001" rhyme="2" line_length="9">z Moravěnky do Prahy bych jel,</l>
+     <l n="4" met="101010001" rhyme="2" line_length="9">a zas vážnou přednášku tam měl,</l>
+     <l n="5" met="1010101010" rhyme="3" line_length="10">piš mi, Ty co o té věci soudíš?“</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="1010100010" rhyme="3" line_length="10">,Bratře, brzy odpověď mou loudíš!</l>
+     <l n="7" met="100010001" rhyme="4" line_length="9">Posečkej, až dokonale zvím,</l>
+     <l n="8" met="010010001" rhyme="5" line_length="9">co a jak tam promlouval Tvůj ret;</l>
+     <l n="9" met="101010000" rhyme="5" line_length="9">potom teprv bez okolků hned</l>
+     <l n="10" met="100010100" rhyme="4" line_length="9">náhledy své o tom vypovím!‘</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

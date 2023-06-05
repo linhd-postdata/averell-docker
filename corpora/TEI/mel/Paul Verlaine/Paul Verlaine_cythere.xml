@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Cythère</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_cythere</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Cythère</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Cythère</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Un pavillon à claires-voies</l>
+     <l n="2" rhyme="a" line_length="8">Abrite doucement nos joies</l>
+     <l n="3" rhyme="b" line_length="8">Qu’éventent des rosiers amis ;</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="c" line_length="8">L’odeur des roses, faible, grâce</l>
+     <l n="5" rhyme="c" line_length="8">Au vent léger d’été qui passe,</l>
+     <l n="6" rhyme="b" line_length="8">Se mêle aux parfums qu’elle a mis ;</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="a" line_length="8">Comme ses yeux l’avaient promis,</l>
+     <l n="8" rhyme="b" line_length="8">Son courage est grand et sa lèvre</l>
+     <l n="9" rhyme="b" line_length="8">Communique une exquise fièvre ;</l>
+    </lg>
+    <lg n="4">
+     <l n="10" rhyme="a" line_length="8">Et l’Amour comblant tout, hormis</l>
+     <l n="11" rhyme="a" line_length="8">La faim, sorbets et confitures</l>
+     <l n="12" rhyme="a" line_length="8">Nous préservent des courbatures.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

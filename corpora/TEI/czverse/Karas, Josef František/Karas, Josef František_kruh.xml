@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kruh.</title>
+    <author>Karas, Josef František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Karas, Josef František_kruh</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kruh.</title>
+     <author>Karas, Josef František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kruh.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101010" line_length="10">Slavně slavme slavných Slávů slávu!</l>
+     <l n="2" met="10001010001" rhyme="1" line_length="11">Korouhve – a řečník o nadšení hřměl.</l>
+     <l n="3" met="1010101000" line_length="10">Spoustou piva rozum ubili jsme,</l>
+     <l n="4" met="10101010100" rhyme="1" line_length="11">běd a potup dneška aby nezpomněl...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

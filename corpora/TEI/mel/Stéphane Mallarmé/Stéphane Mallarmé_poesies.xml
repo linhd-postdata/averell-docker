@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>POÉSIES</title>
+    <author>Stéphane Mallarmé</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Stéphane Mallarmé_poesies</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>POÉSIES</title>
+     <author>Stéphane Mallarmé</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>POÉSIES</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Mes bouquins refermés sur le nom de Paphos</l>
+     <l n="2" rhyme="b" line_length="6+6">Il m'amuse d'élire avec le seul génie</l>
+     <l n="3" rhyme="b" line_length="6−6">Une ruine, par mille écumes bénie</l>
+     <l n="4" rhyme="a" line_length="6+6">Sous l'hyacinthe, au loin, de ses jours triomphaux.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Coure le froid avec ses silences de faux,</l>
+     <l n="6" rhyme="b" line_length="6+6">Je n'y hululerai pas de vide nénie</l>
+     <l n="7" rhyme="b" line_length="6+6">Si ce très blanc ébat au ras du sol dénie</l>
+     <l n="8" rhyme="a" line_length="6+6">À tout site l'honneur du paysage faux.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Ma faim qui d'aucuns fruits ici ne se régale</l>
+     <l n="10" rhyme="c" line_length="6+6">Trouve en leur docte manque une saveur égale :</l>
+     <l n="11" rhyme="d" line_length="6+6">Qu'un éclate de chair humain et parfumant !</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Le pied sur quelque guivre où notre amour tisonne,</l>
+     <l n="13" rhyme="d" line_length="6+6">Je pense plus longtemps peut-être éperdument</l>
+     <l n="14" rhyme="e" line_length="6+6">À l'autre, au sein brûlé d'une antique amazone.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

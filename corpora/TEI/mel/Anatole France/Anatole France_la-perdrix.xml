@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La perdrix</title>
+    <author>Anatole France</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Anatole France_la-perdrix</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La perdrix</title>
+     <author>Anatole France</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La perdrix</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Hélas ! celle qui, jeune en la belle saison,</l>
+     <l n="2" rhyme="b" line_length="6+6">Causa dans les blés verts une ardente querelle</l>
+     <l n="3" rhyme="b" line_length="6+6">Et suivit le vainqueur ensanglanté pour elle,</l>
+     <l n="4" rhyme="a" line_length="6+6">La compagne au bon cœur qui bâtit la maison</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Et nourrit les petits aux jours de la moisson,</l>
+     <l n="6" rhyme="b" line_length="6+6">Vois : les chiens ont forcé sa retraite infidèle.</l>
+     <l n="7" rhyme="b" line_length="6+6">C'est en vain qu'elle fuit dans l'air à tire-d'aile,</l>
+     <l n="8" rhyme="a" line_length="6+6">Le plomb fait dans sa chair passer le grand frisson.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Son sang pur de couveuse à la chaleur divine</l>
+     <l n="10" rhyme="c" line_length="6+6">Sur son corps déchiré mouille sa plume fine.</l>
+     <l n="11" rhyme="d" line_length="6+6">Elle tournoie et tombe entre les joncs épais.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Dans les joncs, à l'abri de l'épagneul qui flaire,</l>
+     <l n="13" rhyme="d" line_length="6+6">Triste, s'enveloppant de silence et de paix,</l>
+     <l n="14" rhyme="e" line_length="6+6">Ayant fini d'aimer, elle meurt sans colère.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

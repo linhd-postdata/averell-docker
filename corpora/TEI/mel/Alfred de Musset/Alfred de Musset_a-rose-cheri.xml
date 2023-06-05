@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Rose Chéri</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">7</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_a-rose-cheri</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Rose Chéri</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Rose Chéri</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Ma pièce est jeune, et je suis vieux ;</l>
+     <l n="2" rhyme="b" line_length="8">Enfants, je n’en suis pas la cause.</l>
+     <l n="3" rhyme="b" line_length="8">Vous nous jouerez bien autre chose,</l>
+     <l n="4" rhyme="a" line_length="8">Et tout aussi bien, mais pas mieux.</l>
+     <l n="5" rhyme="c" line_length="8">Ne prenez pas, je vous en prie,</l>
+     <l n="6" rhyme="c" line_length="8">Ces mots pour de la flatterie,</l>
+     <l n="7" rhyme="a" line_length="8">Et mes regrets pour des adieux.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

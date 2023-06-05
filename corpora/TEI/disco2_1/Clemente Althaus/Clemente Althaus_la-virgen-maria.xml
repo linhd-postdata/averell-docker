@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Virgen María</title>
+    <author>Clemente Althaus</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Clemente Althaus_la-virgen-maria</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Virgen María</title>
+     <author>Clemente Althaus</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Virgen María</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+---+-+-">¿Qué digna lengua la alabanza entona</l>
+     <l n="2" met="---+-+-+-+-">de la que, siendo madre, fue doncella?</l>
+     <l n="3" met="-+-+---+-+-">La adora el ángel, y se mira en ella</l>
+     <l n="4" met="+--+---+-+-">cada divina liberal Persona.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+---+-">Es diamante sin par de su corona</l>
+     <l n="6" met="+-++---+-+-">cada más pura rutilante estrella;</l>
+     <l n="7" met="+-+--+-+-+-">luna y sol su triunfante planta huella,</l>
+     <l n="8" met="+-++---+-+-">y es el arco Iris su listada zona.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-++-+--+-">Alégrate y espera, estirpe humana</l>
+     <l n="10" met="+--+-+---+-">que Ésta, del cielo reina poderosa,</l>
+     <l n="11" met="--+--+---+-">de los nobles querubes soberana;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+-+-+-">Esta, madre de Dios, de Dios esposa,</l>
+     <l n="13" met="+--+-+---+-">no ángel, nació mujer y nuestra hermana,</l>
+     <l n="14" met="--+--+-+-+-">y en rogar por nosotros no reposa.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

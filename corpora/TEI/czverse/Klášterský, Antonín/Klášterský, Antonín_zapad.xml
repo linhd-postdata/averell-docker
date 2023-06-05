@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ZÁPAD.</title>
+    <author>Klášterský, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Klášterský, Antonín_zapad</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ZÁPAD.</title>
+     <author>Klášterský, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ZÁPAD.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101000" rhyme="1" line_length="11">V červánky hledím. Západ velkolepý!</l>
+     <l n="2" met="01010101000" rhyme="2" line_length="11">To sopka chrlí, sirné rozlévá se</l>
+     <l n="3" met="01010100010" rhyme="1" line_length="11">kol moře, hoří prérie a stepi,</l>
+     <l n="4" met="11000101010" rhyme="2" line_length="11">déšť rubínů se snáší v žlutém jase;</l>
+     <l n="5" met="11010100010" rhyme="1" line_length="11">mrak doutná, v jisker million se třepí,</l>
+     <l n="6" met="11010101010" rhyme="2" line_length="11">luh rudých růží v hrůzné svítí kráse...</l>
+     <l n="7" met="01011101000" rhyme="1" line_length="11">V tom babka, jdouc kol z lesa pod otepí,</l>
+     <l n="8" met="11010101010" rhyme="2" line_length="11">dí: Ano, ano, budou větry zase!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

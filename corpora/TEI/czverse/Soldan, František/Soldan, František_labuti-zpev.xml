@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LABUTÍ ZPĚV.</title>
+    <author>Soldan, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Soldan, František_labuti-zpev</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LABUTÍ ZPĚV.</title>
+     <author>Soldan, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LABUTÍ ZPĚV.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Píšu svoje temné zpěvy –</l>
+     <l n="2" met="0010100" rhyme="2" line_length="7">proč a komu? Nevím sám.</l>
+     <l n="3" met="11010010" rhyme="1" line_length="8">Vím, že ne pro oko děví</l>
+     <l n="4" met="0100101" rhyme="2" line_length="7">a pro něčí řeči klam.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="3" line_length="8">Vím jen, že mne každé hnutí</l>
+     <l n="6" met="1010100" rhyme="4" line_length="7">kolem k tomu pobádá –</l>
+     <l n="7" met="10001000" rhyme="3" line_length="8">Cosi snad, jak o labuti</l>
+     <l n="8" met="1000100" rhyme="4" line_length="7">seveřan si vykládá:</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="00101010" rhyme="5" line_length="8">Když už sotva vzduchem plyne,</l>
+     <l n="10" met="0010101" rhyme="6" line_length="7">vše když kolem zakryl led –</l>
+     <l n="11" met="10001010" rhyme="5" line_length="8">zazpívá si a pak zhyne,</l>
+     <l n="12" met="1010000" rhyme="6" line_length="7">ale veseleji hned.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

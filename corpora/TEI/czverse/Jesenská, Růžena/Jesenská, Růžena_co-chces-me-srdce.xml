@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Co chceš, mé srdce?</title>
+    <author>Jesenská, Růžena</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jesenská, Růžena_co-chces-me-srdce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Co chceš, mé srdce?</title>
+     <author>Jesenská, Růžena</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Co chceš, mé srdce?</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010" line_length="7">Co chceš, co chceš, mé srdce,</l>
+     <l n="2" met="010101" rhyme="1" line_length="6">proč bouříš? vždyť je čas,</l>
+     <l n="3" met="0100010" line_length="7">bys vyklíčilo v cypřiš</l>
+     <l n="4" met="010001" rhyme="1" line_length="6">a zatměl se tvůj jas.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010" line_length="7">Bys rostlo tiše v slunce</l>
+     <l n="6" met="010100" rhyme="2" line_length="6">svým temným smutkem dál –</l>
+     <l n="7" met="0100010" line_length="7">a netoužilo po tom,</l>
+     <l n="8" met="000101" rhyme="2" line_length="6">co už ti osud vzal.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101000" line_length="7">Co dal ti nesmírného,</l>
+     <l n="10" met="010000" rhyme="3" line_length="6">v to zamysli se spíš:</l>
+     <l n="11" met="0100010" line_length="7">buď cypřiší a hrobem</l>
+     <l n="12" met="010001" rhyme="3" line_length="6">a v modlitbu se ztiš!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

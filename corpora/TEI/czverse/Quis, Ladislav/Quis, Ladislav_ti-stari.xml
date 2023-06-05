@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ti staří!</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_ti-stari</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ti staří!</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ti staří!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010100" rhyme="1" line_length="9">„Tihle staří za nic nestojí!“ –</l>
+     <l n="2" met="1010100010" rhyme="2" line_length="10">volá mládež – „v haraburdí patří.“</l>
+     <l n="3" met="001010100" rhyme="1" line_length="9">Když však schladne s léty po boji,</l>
+     <l n="4" met="0010101010" rhyme="3" line_length="10">když jí shrbnou kdysi přímá záda,</l>
+     <l n="5" met="101010100010" rhyme="3" line_length="12">ach, jak potom s těmi starými se ráda</l>
+     <l n="6" met="1010100010" rhyme="2" line_length="10">proti drzým epigonům bratří.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

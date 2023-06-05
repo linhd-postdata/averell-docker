@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El soldado español</title>
+    <author>Antonio Fernández Grilo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Antonio Fernández Grilo_el-soldado-espanol</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El soldado español</title>
+     <author>Antonio Fernández Grilo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El soldado español</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Curtido por la pólvora que humea,</l>
+     <l n="2" met="+----+---+-">noble con el amigo y el contrario,</l>
+     <l n="3" met="-+---+---+-">audaz hasta emprender lo temerario,</l>
+     <l n="4" met="-+-+---+-+-">y más valiente cuanto más pelea.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">En rústica mochila que blanquea</l>
+     <l n="6" met="+--+-+---+-">lleva su pan, su equipo y su salario,</l>
+     <l n="7" met="-+---+---+-">y al cuello, en el bendito escapulario,</l>
+     <l n="8" met="-+---+---+-">el culto de la Virgen de su aldea.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Semejante al pedazo de metralla</l>
+     <l n="10" met="--+--+---+-">que el cañón a los aires abandona,</l>
+     <l n="11" met="---+-+---+-">sucumbirá ignorando en la batalla;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+---+-+-">pero si el triunfo su valor pregona,</l>
+     <l n="13" met="---+-+-+-+-">para el que lucha, y sufre, y vence y calla...</l>
+     <l n="14" met="+--+-++--+-">¿No ha de tener la patria una corona?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Motýl.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_motyl</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Motýl.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Motýl.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100100100" rhyme="1" line_length="12">Ó jen mne zdeptejte, kterak vám libo jest!</l>
+     <l n="2" met="001100100101" rhyme="1" line_length="12">Však váš krok zastaví ještě se u mých cest.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="100100100100" rhyme="2" line_length="12">Z všeho, co zasije záští vše prokleté,</l>
+     <l n="4" met="101100100100" rhyme="2" line_length="12">květ i plod naposled v písni mé najdete.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="010100100100" rhyme="3" line_length="12">Tu kalich nachový, rosný a zářící,</l>
+     <l n="6" met="010100100100" rhyme="3" line_length="12">tam broskve ovoce lupením svítící,</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="100100100100" rhyme="4" line_length="12">modrého motýla nad květy, nad plody</l>
+     <l n="8" met="100100100100" rhyme="4" line_length="12">v slunci se vznášeti s gracií pohody.</l>
+    </lg>
+    <lg n="5">
+     <l n="9" met="010110100100" rhyme="5" line_length="12">Ten, sotva prst květu broskve se dotýká,</l>
+     <l n="10" met="100100100100" rhyme="5" line_length="12">modrý sám do modra vesele uniká.</l>
+    </lg>
+    <lg n="6">
+     <l n="11" met="000100100100" rhyme="6" line_length="12">Tak jen mne zdeptejte, kterak vám libo jest,</l>
+     <l n="12" met="101100100101" rhyme="6" line_length="12">motýl, má myšlenka, letí až v květy hvězd.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

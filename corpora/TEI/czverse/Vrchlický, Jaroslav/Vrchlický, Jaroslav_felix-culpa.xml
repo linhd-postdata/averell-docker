@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Felix culpa.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_felix-culpa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Felix culpa.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Felix culpa.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100010" rhyme="1" line_length="11">A s Evou Adam na jiném byl poli,</l>
+     <l n="2" met="11001101010" rhyme="2" line_length="11">strom poznání pln plodů mezi nimi,</l>
+     <l n="3" met="11000101000" rhyme="2" line_length="11">had šupinami třásl blysknavými</l>
+     <l n="4" met="10010101000" rhyme="1" line_length="11">ve trávě svinut jako ve svévoli.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000101000" rhyme="1" line_length="11">Leč košatého stromu na vrcholi</l>
+     <l n="6" met="01000101010" rhyme="2" line_length="11">juž holubice chvěla křídly svými,</l>
+     <l n="7" met="01010001010" rhyme="2" line_length="11">co symbol vykoupení, a skrz dýmy</l>
+     <l n="8" met="11000101000" rhyme="1" line_length="11">jas prarodičům tkal juž aureoly.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101010" rhyme="3" line_length="11">A stranou klečel svatý biskup jeden,</l>
+     <l n="10" met="10010101010" rhyme="4" line_length="11">„O felix culpa!“ z úst mu nápis běžel,</l>
+     <l n="11" met="11010101010" rhyme="5" line_length="11">hrál malý králík v trávě vedle něho.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="01010100010" rhyme="4" line_length="11">A na všem pocit spokojení ležel:</l>
+     <l n="13" met="10010101010" rhyme="3" line_length="11">Za malý hřích tam velký měli eden,</l>
+     <l n="14" met="11000101010" rhyme="5" line_length="11">had králíka – a biskup chleba z všeho.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

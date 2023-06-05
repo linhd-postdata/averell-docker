@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El sacris</title>
+    <author>Joaquín G. Losada</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Joaquín G. Losada_el-sacris</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El sacris</title>
+     <author>Joaquín G. Losada</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El sacris</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+-++--+-">Ese es el tipo, ¡vedle! con sotana</l>
+     <l n="2" met="+--+---+-+-">sucia, pringante, desgarbada y rota</l>
+     <l n="3" met="--+--+---+-">y que a coz de canónigo denota</l>
+     <l n="4" met="+----+---+-">ser el lugarteniente del curiana.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">El latín eclesiástico profana,</l>
+     <l n="6" met="++-+-+-+-+-">no sabe en canto llano ni una nota,</l>
+     <l n="7" met="-+---+---+-">mas chilla, vocifera y alborota,</l>
+     <l n="8" met="-----+--++-">y a fuerza de pulmones el pan gana.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+-+-+-">Limpiar los ornamentos es su oficio,</l>
+     <l n="10" met="+-+--+---+-">es lechuza de aceite de ofrendante,</l>
+     <l n="11" met="---+++--++-">y, al parecer no tiene ningún vicio.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+++-+-+-">Y suele haber un cura tan galante</l>
+     <l n="13" met="-++--+---+-">que le da, como premio a su servicio,</l>
+     <l n="14" met="--+-++---+-">por esposa algún ama interesante.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

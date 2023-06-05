@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jiskry – dumy.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_jiskry-dumy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jiskry – dumy.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jiskry – dumy.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010001010" rhyme="1" line_length="9">Jak divně se mi v srdci dělo,</l>
+     <l n="2" met="01010100" rhyme="2" line_length="8">když čas je vzbudil, život zžeh’,</l>
+     <l n="3" met="010101010" rhyme="1" line_length="9">až náhle sluncem býti chtělo –</l>
+     <l n="4" met="01000100" rhyme="2" line_length="8">a zahynulo v plamenech.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010001010" rhyme="3" line_length="9">Vše v popelu! Jen někdy maní</l>
+     <l n="6" met="01010101" rhyme="4" line_length="8">výš vzlétá z něho jisker tlum...</l>
+     <l n="7" met="010101010" rhyme="3" line_length="9">Tu vzplane zrak a v klenbě skrání</l>
+     <l n="8" met="11010001" rhyme="4" line_length="8">lká hejno uvězněných dum.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

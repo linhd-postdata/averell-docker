@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SONG.</title>
+    <author>John Ellis</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>John Ellis_song</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Eighteenth Century Poetry Archive</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SONG.</title>
+     <author>John Ellis</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SONG.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="quatrain">
+     <l n="1" met="-+|-+|-+|-+" line_length="8">AS Chloe ply'd her needle's art,</l>
+     <l n="2" met="-+|-+|-+" line_length="6">A purple drop the spear</l>
+     <l n="3" met="-+|-+|-+|-+" line_length="8">Made from her heedless finger start,</l>
+     <l n="4" met="-+|-+|-+" line_length="6">And from her eyes a tear.</l>
+    </lg>
+    <lg n="2" stanza_type="quatrain">
+     <l n="5" met="-+|-+|-+|-+" line_length="8">Ah! might but Chloe by her smart</l>
+     <l n="6" met="-+|-+|-+" line_length="6">Be taught for mine to feel;</l>
+     <l n="7" met="-+|-+|-+|-+" line_length="8">Mine caus'd by Cupid's piercing dart,</l>
+     <l n="8" met="-+|-+|-+" line_length="6">More sharp than pointed steel!</l>
+    </lg>
+    <lg n="3" stanza_type="quatrain">
+     <l n="9" met="-+|-+|-+|-+" line_length="8">Then I her needle would adore,</l>
+     <l n="10" met="-+|-+|-+" line_length="6">Love's arrow it should be,</l>
+     <l n="11" met="-+|-+|-+|-+" line_length="8">Indu'd with such a subtle pow'r</l>
+     <l n="12" met="-+|-+|-+" line_length="6">To reach her heart for me.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

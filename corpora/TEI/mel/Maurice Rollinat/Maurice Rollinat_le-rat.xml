@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LE RAT</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_le-rat</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LE RAT</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LE RAT</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="5+6">Ma chatte avait peur de cet énorme rat</l>
+     <l n="2" rhyme="b" line_length="5+6">Qui toutes les nuits dévalisait l'armoire,</l>
+     <l n="3" rhyme="b" line_length="5+6">Rongeait aussi bien le bois que le grimoire</l>
+     <l n="4" rhyme="a" line_length="5+6">Et fourrait partout son museau scélérat.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="5+6">Lourd, il trottinait, fouilleur comme un verrat.</l>
+     <l n="6" rhyme="b" line_length="5+6">Tout y passait : fil, toile, velours et moire !</l>
+     <l n="7" rhyme="a" line_length="5+6">Ma chatte avait peur de cet énorme rat</l>
+     <l n="8" rhyme="b" line_length="5+6">Qui toutes les nuits dévalisait l'armoire.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="5+6">Il mangeait le cuir, le liège, et cætera,</l>
+     <l n="10" rhyme="b" line_length="5+6">Renversait les pots et traînait l'écumoire ;</l>
+     <l n="11" rhyme="b" line_length="5+6">Et même une nuit, si j'ai bonne mémoire,</l>
+     <l n="12" rhyme="a" line_length="5+6">Je sentis sa queue ignoble sous mon drap.</l>
+     <l n="13" rhyme="a" line_length="5+6">Ma chatte avait peur de cet énorme rat.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

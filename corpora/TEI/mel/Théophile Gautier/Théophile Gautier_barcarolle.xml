@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>BARCAROLLE</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">30</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_barcarolle</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>BARCAROLLE</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>BARCAROLLE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6">Dites, la jeune belle,</l>
+     <l n="2" rhyme="b" line_length="6">Où voulez-vous aller ?</l>
+     <l n="3" rhyme="a" line_length="6">La voile ouvre son aile,</l>
+     <l n="4" rhyme="b" line_length="6">La brise va souffler !</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6">L'aviron est d'ivoire,</l>
+     <l n="6" rhyme="a" line_length="6">Le pavillon de moire,</l>
+     <l n="7" rhyme="b" line_length="6">Le gouvernail d'or fin ;</l>
+     <l n="8" rhyme="c" line_length="6">J'ai pour lest une orange,</l>
+     <l n="9" rhyme="c" line_length="6">Pour voile une aile d'ange,</l>
+     <l n="10" rhyme="b" line_length="6">Pour mousse un séraphin.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" rhyme="a" line_length="6">Dites, la jeune belle,</l>
+     <l n="12" rhyme="b" line_length="6">Où voulez-vous aller ?</l>
+     <l n="13" rhyme="a" line_length="6">La voile ouvre son aile,</l>
+     <l n="14" rhyme="b" line_length="6">La brise va souffler !</l>
+    </lg>
+    <lg n="4">
+     <l n="15" rhyme="a" line_length="6">Est-ce dans la Baltique,</l>
+     <l n="16" rhyme="a" line_length="6">Sur la mer Pacifique,</l>
+     <l n="17" rhyme="b" line_length="6">Dans l'île de Java ?</l>
+     <l n="18" rhyme="c" line_length="6">Ou bien dans la Norwège,</l>
+     <l n="19" rhyme="c" line_length="6">Cueillir la fleur de neige,</l>
+     <l n="20" rhyme="b" line_length="6">Ou la fleur d'Angsoka ?</l>
+    </lg>
+    <lg n="5">
+     <l n="21" rhyme="a" line_length="6">Dites, la jeune belle,</l>
+     <l n="22" rhyme="b" line_length="6">Où voulez-vous aller ?</l>
+     <l n="23" rhyme="a" line_length="6">La voile ouvre son aile,</l>
+     <l n="24" rhyme="b" line_length="6">La brise va souffler !</l>
+    </lg>
+    <lg n="6">
+     <l n="25" rhyme="a" line_length="6">Menez-moi, dit la belle,</l>
+     <l n="26" rhyme="a" line_length="6">A la rive fidèle</l>
+     <l n="27" rhyme="b" line_length="6">Où l'on aime toujours.</l>
+     <l n="28" rhyme="c" line_length="6">— Cette rive, ma chère,</l>
+     <l n="29" rhyme="c" line_length="6">On ne la connaît guère</l>
+     <l n="30" rhyme="b" line_length="6">Au pays des amours.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

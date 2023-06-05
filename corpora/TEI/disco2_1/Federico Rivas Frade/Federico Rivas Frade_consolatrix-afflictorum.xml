@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Consolatrix afflictorum</title>
+    <author>Federico Rivas Frade</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Federico Rivas Frade_consolatrix-afflictorum</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Consolatrix afflictorum</title>
+     <author>Federico Rivas Frade</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Consolatrix afflictorum</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">Ante el viejo retablo donde lloras,</l>
+     <l n="2" met="-+---+---+-">mi madre se postraba de rodillas,</l>
+     <l n="3" met="--+--++--+-">y, lo mismo que en ti, vi en sus mejillas</l>
+     <l n="4" met="-+-+---+-+-">rodar el llanto en las amargas horas.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-++--+-+-+-">Como un rayo de luz de dos auroras,</l>
+     <l n="6" met="+--+---+-+-">de ella y del cielo en que sin mancha brillas,</l>
+     <l n="7" met="-+---+---+-">bajaba con mis súplicas sencillas</l>
+     <l n="8" met="---+-+-+-+-">la compasión que tú de Dios imploras.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+---+-">Muerta mi madre, en noches de amargura</l>
+     <l n="10" met="--+-++---+-">ante el cuadro a caer vuelvo de hinojos,</l>
+     <l n="11" met="---+---+-+-">y cuando el alma su oración murmura,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">se aplacan de mi vida los enojos,</l>
+     <l n="13" met="---+++-+-+-">porque al rogarte a ti, se me figura</l>
+     <l n="14" met="+-++-+---+-">que ella me está mirando con tus ojos.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

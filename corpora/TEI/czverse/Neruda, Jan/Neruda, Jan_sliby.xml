@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SLIBY</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_sliby</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SLIBY</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SLIBY</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010100" line_length="10">Já poznal kdysi také člověka,</l>
+     <l n="2" met="01000010" rhyme="1" line_length="8">jenž ve slibech tak si líbil,</l>
+     <l n="3" met="0000010100" line_length="10">že když už pak se světa odcházel,</l>
+     <l n="4" met="01001010" rhyme="1" line_length="8">že „brzy zas přijde“, slíbil.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

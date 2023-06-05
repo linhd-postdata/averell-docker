@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Modré oči.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_modre-oci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Modré oči.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Modré oči.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001000" rhyme="1" line_length="8">Hvězdičky už shasínaly,</l>
+     <l n="2" met="10101010" rhyme="1" line_length="8">modré oči ještě spaly,</l>
+     <l n="3" met="10100010" rhyme="1" line_length="8">nebo nespat jen se bály?</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="10101010" rhyme="2" line_length="8">Spěte, oči, jak si chcete,</l>
+     <l n="5" met="10001000" rhyme="2" line_length="8">jenom až se otevřete,</l>
+     <l n="6" met="00101000" rhyme="2" line_length="8">když se na mne usmějete.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="10101000" rhyme="3" line_length="8">Modré oči uslyšely,</l>
+     <l n="8" met="10001000" rhyme="3" line_length="8">usmály se, otevřely,</l>
+     <l n="9" met="10001000" rhyme="3" line_length="8">hvězdičky z nich zapršely.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

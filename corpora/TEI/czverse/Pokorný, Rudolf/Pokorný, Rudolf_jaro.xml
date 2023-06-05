@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JARO.</title>
+    <author>Pokorný, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný, Rudolf_jaro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JARO.</title>
+     <author>Pokorný, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JARO.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10100" line_length="5">Nuže do díla</l>
+     <l n="2" met="10100" rhyme="1" line_length="5">jara do hutí,</l>
+     <l n="3" met="10000" line_length="5">zašumělo k nám</l>
+     <l n="4" met="10100" rhyme="1" line_length="5">zlatou perutí;</l>
+     <l n="5" met="10000" line_length="5">zašumělo k nám</l>
+     <l n="6" met="10100" rhyme="2" line_length="5">v sladké předtuše,</l>
+     <l n="7" met="00101000" line_length="8">že mu rádi otevřeme</l>
+     <l n="8" met="10100" rhyme="2" line_length="5">bránu do duše.</l>
+    </lg>
+    <lg n="2">
+     <l n="9" met="10100" line_length="5">A kdo váhal by</l>
+     <l n="10" met="10100" rhyme="3" line_length="5">v líném zátiší,</l>
+     <l n="11" met="00110" rhyme="4" line_length="5">nechť ho Pán Bůh sám</l>
+     <l n="12" met="10100" rhyme="3" line_length="5">v prosbě neslyší –</l>
+     <l n="13" met="00100" line_length="5">nechť se zavře mu</l>
+     <l n="14" met="10101" rhyme="4" line_length="5">jara skvostný chrám,</l>
+     <l n="15" met="10101000" line_length="8">a on v líném zákoutí buď</l>
+     <l n="16" met="10100" rhyme="4" line_length="5">pohřben sebou sám!</l>
+    </lg>
+    <lg n="3">
+     <l n="17" met="00100" line_length="5">Však kdo ruku svou</l>
+     <l n="18" met="10100" rhyme="5" line_length="5">k práci přinutí,</l>
+     <l n="19" met="00100" line_length="5">nechť mu jara ji</l>
+     <l n="20" met="10100" rhyme="5" line_length="5">sílí přilnutí,</l>
+     <l n="21" met="00100" line_length="5">nechť mu otevře</l>
+     <l n="22" met="10101" rhyme="4" line_length="5">jara skvostný chrám</l>
+     <l n="23" met="10101010" line_length="8">a nechť pozná svého blaha</l>
+     <l n="24" met="10000" rhyme="4" line_length="5">hvězdou že je sám!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Cri du cœur</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_le-cri-du-coeur</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Cri du cœur</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Cri du cœur</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6">Rondement, Mathurin</l>
+     <l n="2" rhyme="b" line_length="6">Mène dans sa carriole</l>
+     <l n="3" rhyme="b" line_length="6">La Dame qui s'affole</l>
+     <l n="4" rhyme="a" line_length="6">De filer d'un tel train.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6">Elle crie au trépas !</l>
+     <l n="6" rhyme="d" line_length="6">Le vieux dit : « Notʼ maîtresse,</l>
+     <l n="7" rhyme="d" line_length="6">N' soyez point en détresse</l>
+     <l n="8" rhyme="c" line_length="6">Puisque moi j'y suis pas.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="6">Si yavait du danger</l>
+     <l n="10" rhyme="e" line_length="6">Vous m' verriez m'affliger</l>
+     <l n="11" rhyme="f" line_length="6">Tout commʼ vous, encor pire !</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="f" line_length="6">Pac'que, j' m'en vas vous dire :</l>
+     <l n="13" rhyme="g" line_length="6">J' tiens à vos jours, mais j' tiens</l>
+     <l n="14" rhyme="g" line_length="6">Pʼtêtʼ encor plus aux miens. »</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

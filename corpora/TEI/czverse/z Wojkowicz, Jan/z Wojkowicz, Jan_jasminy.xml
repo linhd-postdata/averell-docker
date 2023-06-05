@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JASMÍNY.</title>
+    <author>z Wojkowicz, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>z Wojkowicz, Jan_jasminy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JASMÍNY.</title>
+     <author>z Wojkowicz, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JASMÍNY.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" rhyme="1" line_length="8">Jasmíny kvetou, jasmíny –</l>
+     <l n="2" met="10010100" rhyme="1" line_length="8">zahrada úsměv jediný!</l>
+     <l n="3" met="100101010" rhyme="2" line_length="9">Radostno zraku, blaho duši,</l>
+     <l n="4" met="100100101" rhyme="3" line_length="9">bílo a radostno kol a kol –</l>
+     <l n="5" met="010101010" rhyme="2" line_length="9">co srdce chví se, sní a tuší –</l>
+     <l n="6" met="00010001" rhyme="3" line_length="8">je to ten nejnaivnější bol.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="00010100" rhyme="4" line_length="8">Jak se kam dneska zadíváš,</l>
+     <l n="8" met="10010100" rhyme="4" line_length="8">rukou si oči zakrýváš</l>
+     <l n="9" met="100101010" rhyme="5" line_length="9">pro světlo slunce, světlo květů</l>
+     <l n="10" met="10010100" rhyme="6" line_length="8">v šíleně bílých kalichách –</l>
+     <l n="11" met="100101000" rhyme="5" line_length="9">zdá se ti: tančí, výskají tu</l>
+     <l n="12" met="10010100" rhyme="6" line_length="8">fantomy v bílých šatečkách...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pes a kočka.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_pes-a-kocka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pes a kočka.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pes a kočka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1100010101001010" rhyme="1" line_length="16">Soud veřejnosti s pravdou jdou vždy spolu jak pes a kočka,</l>
+     <l n="2" met="1100010101011010" rhyme="1" line_length="16">hřbet zježený a zuby ostré jako drak – pes a kočka.</l>
+     <l n="3" met="11010101010100" line_length="14">Nech projít čas, a svorně, vedle sebe uvidíš,</l>
+     <l n="4" met="0101010101011010" rhyme="1" line_length="16">jak leží klidně v slunci, mhouří zpitý zrak pes a kočka.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LIDSKÁ VÍRA</title>
+    <author>Grünwald, Beneš</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Grünwald, Beneš_lidska-vira</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LIDSKÁ VÍRA</title>
+     <author>Grünwald, Beneš</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LIDSKÁ VÍRA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101000" rhyme="1" line_length="11">Ty rybky drobné, jež se uchýlily</l>
+     <l n="2" met="11010001010" rhyme="2" line_length="11">v tmy jeskyň, zhasily svou jiskru v zraku!</l>
+     <l n="3" met="01010101000" rhyme="1" line_length="11">Jsi v právu, vědče, hned jsme uvěřili</l>
+     <l n="4" met="01000001000" rhyme="2" line_length="11">ti bez odmluvy tak a bez rozpaku.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101010" rhyme="3" line_length="11">A nyní poslyš: Z touhy vzlétnout zrobil</l>
+     <l n="6" met="01010100010" rhyme="4" line_length="11">si ještěr křídla z duhového peří!</l>
+     <l n="7" met="00010100010" rhyme="3" line_length="11">Snad by ses proto na výmysl zlobil?</l>
+     <l n="8" met="11001101010" rhyme="4" line_length="11">Nech tedy těm pouť tvůrčí, kdo si věří.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

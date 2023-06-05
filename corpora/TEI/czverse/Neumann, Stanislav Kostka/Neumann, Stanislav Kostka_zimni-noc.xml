@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Zimní noc</title>
+    <author>Neumann, Stanislav Kostka</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neumann, Stanislav Kostka_zimni-noc</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Zimní noc</title>
+     <author>Neumann, Stanislav Kostka</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Zimní noc</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101" line_length="8">To není země, to je sen,</l>
+     <l n="2" met="01010100" rhyme="1" line_length="8">jejž bledý měsíc vykouzlil</l>
+     <l n="3" met="10000100" line_length="8">pod zastíněnou oblohou</l>
+     <l n="4" met="10010001" rhyme="1" line_length="8">na vlnách sametových mil.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101" line_length="8">To není země, to je div,</l>
+     <l n="6" met="10010101" rhyme="2" line_length="8">nesmírná hudba bílých cest,</l>
+     <l n="7" met="01010100" line_length="8">jež pro své tiché jiskření</l>
+     <l n="8" met="10010101" rhyme="2" line_length="8">do hlubin strhly světlo hvězd.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101" line_length="8">To není země, to je zjev,</l>
+     <l n="10" met="01010000" rhyme="3" line_length="8">jenž vyplul z nekonečnosti.</l>
+     <l n="11" met="01010100" line_length="8">Já, blázen, bod a cizinec,</l>
+     <l n="12" met="11010100" rhyme="3" line_length="8">jdu směšný mraznou věčností.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>I. Umí česky.</title>
+    <author>Pok Poděbradský, Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pok Poděbradský, Václav_i-umi-cesky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>I. Umí česky.</title>
+     <author>Pok Poděbradský, Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>I. Umí česky.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Česky mluví, česky píše,</l>
+     <l n="2" met="10001010" rhyme="1" line_length="8">česky jí a česky dýše –</l>
+     <l n="3" met="0010100" line_length="7">vždyť je v Čechách úředník;</l>
+     <l n="4" met="00101010" rhyme="1" line_length="8">kdo však hledí trochu výše,</l>
+     <l n="5" met="00101010" rhyme="1" line_length="8">ať se koukne, jak co píše</l>
+     <l n="6" met="1010100" line_length="7">mnohý český úředník!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A mi esposa</title>
+    <author>José María Heredia</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José María Heredia_a-mi-esposa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A mi esposa</title>
+     <author>José María Heredia</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A mi esposa</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+---+-">Cuando en mis venas férvidas ardía</l>
+     <l n="2" met="-+---+---+-">la fiera juventud, en mis canciones</l>
+     <l n="3" met="---+-+---+-">el tormentoso afán de mis pasiones</l>
+     <l n="4" met="---+-+---+-">con dolorosas lágrimas vertía.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+++-+--+-+-">Hoy a ti las dedico, esposa mía,</l>
+     <l n="6" met="---+++---+-">cuando el amor más libre de ilusiones,</l>
+     <l n="7" met="-+---+---+-">inflama nuestros puros corazones,</l>
+     <l n="8" met="--+--+++-+-">y sereno y de paz me luce el día.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">Así perdido en turbulentos mares</l>
+     <l n="10" met="+----+-+-+-">mísero navegante al cielo implora,</l>
+     <l n="11" met="--++---+-+-">cuando le aqueja la tormenta grave;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+---+-">y del naufragio libre, en los altares</l>
+     <l n="13" met="-+-+---+-+-">consagra fiel a la deidad que adora</l>
+     <l n="14" met="-+---+---+-">las húmedas reliquias de su nave.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

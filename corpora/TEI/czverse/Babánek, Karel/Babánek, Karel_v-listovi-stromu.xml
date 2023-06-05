@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V LISTOVÍ STROMŮ.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_v-listovi-stromu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V LISTOVÍ STROMŮ.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V LISTOVÍ STROMŮ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" line_length="8">V listoví stromů podzimním</l>
+     <l n="2" met="1001001" rhyme="1" line_length="7">utichá váda a křik,</l>
+     <l n="3" met="10010100" line_length="8">vítr když v stromech zašumí,</l>
+     <l n="4" met="0001001" rhyme="1" line_length="7">je to jak tichoučký vzlyk.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10110100" line_length="8">Světlem v tmu okna prohlédnou,</l>
+     <l n="6" met="1001001" rhyme="2" line_length="7">za okny stajený svět,</l>
+     <l n="7" met="10010100" line_length="8">v srdcích tam žhavě vykvete</l>
+     <l n="8" met="1001001" rhyme="2" line_length="7">do noci ohnivý květ.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

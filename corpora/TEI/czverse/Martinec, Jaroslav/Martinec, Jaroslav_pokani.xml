@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pokání.</title>
+    <author>Martinec, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Martinec, Jaroslav_pokani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pokání.</title>
+     <author>Martinec, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pokání.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101100100" rhyme="1" line_length="9">Radost má křídla a uletí,</l>
+     <l n="2" met="10100010" rhyme="2" line_length="8">smutek o berli se plíží.</l>
+     <l n="3" met="100100100" rhyme="1" line_length="9">Teskno je v komůrce děvčeti,</l>
+     <l n="4" met="101000100" rhyme="1" line_length="9">jako ve křovině ptáčeti,</l>
+     <l n="5" met="010010010" rhyme="2" line_length="9">když hodina skonu se blíží.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="000100010" rhyme="3" line_length="9">Já bych tě potěšil, má milá,</l>
+     <l n="7" met="00010010" rhyme="4" line_length="8">však tě již těšili jiní,</l>
+     <l n="8" met="100100100" rhyme="3" line_length="9">a ty jsi každého šálila,</l>
+     <l n="9" met="100100100" rhyme="3" line_length="9">marnivá tolik, co spanilá!</l>
+     <l n="10" met="10010010" rhyme="4" line_length="8">kochej se zpomínkou nyní!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

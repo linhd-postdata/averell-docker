@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Samolibý kohout.</title>
+    <author>Kulda, Beneš Metod</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kulda, Beneš Metod_samoliby-kohout</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Samolibý kohout.</title>
+     <author>Kulda, Beneš Metod</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Samolibý kohout.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010100" rhyme="1" line_length="9">Na přísloví nové pamatuj:</l>
+     <l n="2" met="101010100" rhyme="1" line_length="9">„Každý kohout chválí chochol svůj!“</l>
+     <l n="3" met="001010100" rhyme="2" line_length="9">On sám vady na něm nevidí,</l>
+     <l n="4" met="101000100" rhyme="2" line_length="9">za ně, má-li jich, se nestydí;</l>
+     <l n="5" met="100010100" rhyme="3" line_length="9">soudruhu se pyšně vysmívá,</l>
+     <l n="6" met="011010100" rhyme="3" line_length="9">že má mnoho vad se domnívá;</l>
+     <l n="7" met="101001100" rhyme="4" line_length="9">proto na dvorku dva kohouti</l>
+     <l n="8" met="100010100" rhyme="4" line_length="9">nemohou se nikdy shodnouti.</l>
+    </lg>
+    <lg n="2">
+     <l n="9" met="101010" rhyme="5" line_length="6">Běda každé obci,</l>
+     <l n="10" met="100010" rhyme="5" line_length="6">vládnou-li tam sobci,</l>
+     <l n="11" met="10001" rhyme="6" line_length="5">ubohý i sněm,</l>
+     <l n="12" met="00100" rhyme="6" line_length="5">jsou-li sobci v něm.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

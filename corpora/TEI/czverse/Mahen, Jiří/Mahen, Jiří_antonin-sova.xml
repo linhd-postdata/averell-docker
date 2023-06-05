@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ANTONÍN SOVA.</title>
+    <author>Mahen, Jiří</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mahen, Jiří_antonin-sova</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ANTONÍN SOVA.</title>
+     <author>Mahen, Jiří</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ANTONÍN SOVA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010100010" line_length="9">Já ve svém srdci vždy tě nesu</l>
+     <l n="2" met="01010101" rhyme="1" line_length="8">jak slávu svojich mladých let</l>
+     <l n="3" met="010001010" line_length="9">a nikdy bych ti jedno slovo,</l>
+     <l n="4" met="01010100" rhyme="1" line_length="8">ni jedno gesto nevyčet’ –</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="000101010" line_length="9">však teď mne někdy něco mate</l>
+     <l n="6" met="01010100" rhyme="2" line_length="8">a nevím, jak to vyříci:</l>
+     <l n="7" met="110101010" line_length="9">má básník patřit jenom sobě,</l>
+     <l n="8" met="010101000" rhyme="2" line_length="9">či také rumlu na ulici?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101010" line_length="9">Jsou vichry, které tiše letí</l>
+     <l n="10" met="01010100" rhyme="3" line_length="8">a duši strhnou, omámí...</l>
+     <l n="11" met="000001000" line_length="9">Však jak pak je to s fángličkami,</l>
+     <l n="12" met="00010100" rhyme="3" line_length="8">jak je to s jejich barvami</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

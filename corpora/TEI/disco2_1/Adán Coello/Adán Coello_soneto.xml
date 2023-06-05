@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Adán Coello</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Adán Coello_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Adán Coello</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="+--+---+++-">Es imposible nuestro amor... No aguarde</l>
+     <l n="2" met="+--+-+---+-">nada de mí tu cándida ilusión,</l>
+     <l n="3" met="---+-+-+++-">para rehacer mi alcázar es muy tarde</l>
+     <l n="4" met="-+-+-----+-">el blanco alcázar de mi corazón.</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="-+---+-+-+-">Del arca de mis sueños no retengo</l>
+     <l n="6" met="+--+-+--++-">nada, y mi azul rosal de mustió con</l>
+     <l n="7" met="-+-+---+-+-">el rojo sol canicular, y tengo</l>
+     <l n="8" met="-+-+-----+-">enferma el alma de desilusión.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">Sentado en una piedra del camino</l>
+     <l n="10" met="-+---+---+-">aguardo el cumplimiento de mi sino,</l>
+     <l n="11" met="---+---+-+-">del porvenir sin la inquietud febril;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+-+-+-">mientras se yergue en le confín lejano,</l>
+     <l n="13" met="-++--+---+-">bajo un pálido cielo de verano,</l>
+     <l n="14" met="---+-----+-">la misteriosa Torre de Marfil.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

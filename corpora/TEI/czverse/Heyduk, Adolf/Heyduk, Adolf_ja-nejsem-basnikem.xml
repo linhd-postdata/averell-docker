@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Já nejsem básníkem.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_ja-nejsem-basnikem</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Já nejsem básníkem.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Já nejsem básníkem.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101000101" rhyme="1" line_length="10">Já nejsem básníkem, já pouze snil</l>
+     <l n="2" met="01010001010" rhyme="2" line_length="11">a bloudil v prozářené sluncem mlze;</l>
+     <l n="3" met="0101000101" rhyme="1" line_length="10">co z duše vytrysklo mi dávných chvil,</l>
+     <l n="4" met="01000100010" rhyme="2" line_length="11">nic nebylo – jen výkřiky a slze.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0100000100" rhyme="3" line_length="10">Já klamal jsem se jen, já bloudil jen,</l>
+     <l n="6" met="01010001010" rhyme="4" line_length="11">kde ptáci zpívali svých ňader zdobu;</l>
+     <l n="7" met="0101000101" rhyme="3" line_length="10">mé žití nebylo než vzdech a sen</l>
+     <l n="8" met="01010100010" rhyme="4" line_length="11">a srázná cesta k hlubokému hrobu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

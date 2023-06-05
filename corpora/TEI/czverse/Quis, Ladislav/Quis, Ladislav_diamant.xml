@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Diamant.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_diamant</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Diamant.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Diamant.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00010101010" rhyme="1" line_length="11">Ty jsi náš démant, o tom není hádky,</l>
+     <l n="2" met="01000100010" rhyme="1" line_length="11">vždy leskneš se a vždycky jsi tak hladký,</l>
+     <l n="3" met="1001010100" rhyme="2" line_length="10">do všeho rýpáš; barvy prost jsa sám,</l>
+     <l n="4" met="0101010100" rhyme="2" line_length="10">přec jenom všemi v oči hraješ nám;</l>
+     <l n="5" met="01010101010" rhyme="3" line_length="11">ty deštěm pravým žárné jiskry seješ,</l>
+     <l n="6" met="00010101000" rhyme="3" line_length="11">však sám se ani za mák nerozhřeješ.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

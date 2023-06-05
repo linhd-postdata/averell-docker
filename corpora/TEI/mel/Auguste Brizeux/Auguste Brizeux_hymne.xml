@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>HYMNE</title>
+    <author>Auguste Brizeux</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Auguste Brizeux_hymne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>HYMNE</title>
+     <author>Auguste Brizeux</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>HYMNE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Des autels renversés par la fureur civile</l>
+     <l n="2" rhyme="a" line_length="6+6">Nous bâtirons un temple au milieu de la ville,</l>
+     <l n="3" rhyme="b" line_length="8">Nous le consacrerons, ce temple, à la pitié.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="a" line_length="6+6">De toutes les vertus vous êtes la plus douce,</l>
+     <l n="5" rhyme="a" line_length="6+6">Tendre et chère pitié ! Mais chacun vous repousse ;</l>
+     <l n="6" rhyme="b" line_length="8">Les yeux à vos beautés, l'oreille à votre voix.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="a" line_length="6+6">Sur la place publique, afin qu'on le contemple,</l>
+     <l n="8" rhyme="a" line_length="6+6">À la douce pitié nous bâtirons un temple ;</l>
+     <l n="9" rhyme="b" line_length="8">Tous entreront, hormis le lâche et le méchant.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

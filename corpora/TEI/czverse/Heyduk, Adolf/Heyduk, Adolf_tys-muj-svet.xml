@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>TYS MŮJ SVĚT!</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_tys-muj-svet</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>TYS MŮJ SVĚT!</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>TYS MŮJ SVĚT!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101" rhyme="1" line_length="7">Pod Kriváňem mladý tis,</l>
+     <l n="2" met="0010100" rhyme="1" line_length="7">kdo tak štíhlý jako tys,</l>
+     <l n="3" met="0010100" rhyme="2" line_length="7">kdo tak svěží, jak ty sám,</l>
+     <l n="4" met="1010001" rhyme="2" line_length="7">ráda, šuhajko, tě mám!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010100" rhyme="3" line_length="7">Tisu hlava kulatá,</l>
+     <l n="6" met="0100100" rhyme="3" line_length="7">tvá všecka jak ze zlata,</l>
+     <l n="7" met="1110101" rhyme="4" line_length="7">tis pln temně hnědých rýh</l>
+     <l n="8" met="1010101" rhyme="4" line_length="7">a tys jako padlý sníh.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010101" rhyme="5" line_length="7">Tisu květ jak rudá zář,</l>
+     <l n="10" met="1000001" rhyme="5" line_length="7">růžovější však tvá tvář,</l>
+     <l n="11" met="1000101" rhyme="6" line_length="7">ale co mi tisu květ,</l>
+     <l n="12" met="0010101" rhyme="6" line_length="7">tys můj život, tys můj svět!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

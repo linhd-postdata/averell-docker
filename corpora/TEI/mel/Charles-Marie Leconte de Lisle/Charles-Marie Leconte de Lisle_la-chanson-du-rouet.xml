@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Chanson du rouet</title>
+    <author>Charles-Marie Leconte de Lisle</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Charles-Marie Leconte de Lisle_la-chanson-du-rouet</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Chanson du rouet</title>
+     <author>Charles-Marie Leconte de Lisle</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Chanson du rouet</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="5+5">Ô mon cher rouet, ma blanche bobine,</l>
+     <l n="2" rhyme="b" line_length="5+5">Je vous aime mieux que l'or et l'argent !</l>
+     <l n="3" rhyme="a" line_length="5+5">Vous me donnez tout, lait, beurre et farine,</l>
+     <l n="4" rhyme="b" line_length="5+5">Et le gai logis, et le vêtement.</l>
+     <l n="5" rhyme="b" line_length="5+5">Je vous aime mieux que l'or et l'argent,</l>
+     <l n="6" rhyme="a" line_length="5+5">Ô mon cher rouet, ma blanche bobine !</l>
+    </lg>
+    <lg n="2">
+     <l n="7" rhyme="a" line_length="5+5">Ô mon cher rouet, ma blanche bobine,</l>
+     <l n="8" rhyme="b" line_length="5+5">Vous chantez dès l'aube avec les oiseaux ;</l>
+     <l n="9" rhyme="a" line_length="5+5">Été comme hiver, chanvre ou laine fine,</l>
+     <l n="10" rhyme="b" line_length="5+5">Par vous, jusqu'au soir, charge les fuseaux.</l>
+     <l n="11" rhyme="b" line_length="5+5">Vous chantez dès l'aube avec les oiseaux,</l>
+     <l n="12" rhyme="a" line_length="5+5">Ô mon cher rouet, ma blanche bobine.</l>
+    </lg>
+    <lg n="3">
+     <l n="13" rhyme="a" line_length="5+5">Ô mon cher rouet, ma blanche bobine,</l>
+     <l n="14" rhyme="b" line_length="5+5">Vous me filerez mon suaire étroit,</l>
+     <l n="15" rhyme="a" line_length="5+5">Quand, près de mourir et courbant l'échine,</l>
+     <l n="16" rhyme="b" line_length="5+5">Je ferai mon lit éternel et froid.</l>
+     <l n="17" rhyme="b" line_length="5+5">Vous me filerez mon suaire étroit,</l>
+     <l n="18" rhyme="a" line_length="5+5">Ô mon cher rouet, ma blanche bobine !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

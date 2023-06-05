@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>BŘÍZY</title>
+    <author>Dyk, Viktor</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dyk, Viktor_brizy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>BŘÍZY</title>
+     <author>Dyk, Viktor</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>BŘÍZY</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100010" rhyme="1" line_length="11">Ty samotářky samotáře znaly.</l>
+     <l n="2" met="0101010100" rhyme="2" line_length="10">Ty bílé břízy k tobě mluvily.</l>
+     <l n="3" met="01010101000" rhyme="1" line_length="11">Teď mlčí. Navždy. Jak by vztahovaly</l>
+     <l n="4" met="01010100" rhyme="2" line_length="8">své ruce, marné pahýly.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010101010" rhyme="3" line_length="11">Uzavřen obzor; tichnou kroky v trávě.</l>
+     <l n="6" met="1001010100" rhyme="4" line_length="10">Padne-li rána, v lesích zaniká.</l>
+     <l n="7" met="01010101000" rhyme="3" line_length="11">Jak motýl letí sen tvůj třepotavě</l>
+     <l n="8" met="1000010100" rhyme="4" line_length="10">přes paseku, kde kvete erika.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="11010100010" rhyme="5" line_length="11">Cos bylo, je a nehlučně to mizí.</l>
+     <l n="10" met="0101010100" rhyme="6" line_length="10">A tebe jímá úzkost drtivá.</l>
+     <l n="11" met="10010100010" rhyme="5" line_length="11">Nehnuty leží poražené břízy</l>
+     <l n="12" met="0101010100" rhyme="6" line_length="10">jak těla drahá, teď však neživá.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

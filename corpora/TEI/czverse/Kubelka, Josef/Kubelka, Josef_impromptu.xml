@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>IMPROMPTU.</title>
+    <author>Kubelka, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kubelka, Josef_impromptu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>IMPROMPTU.</title>
+     <author>Kubelka, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>IMPROMPTU.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1101001001010" line_length="13">Chceš býti hádankou. – Hlavinka tvoje rusá</l>
+     <l n="2" met="010100110010" rhyme="1" line_length="12">jak v těžkých vzpomínkách v dlaň klesá níž a níž.</l>
+     <l n="3" met="0101000101010" rhyme="2" line_length="13">Že truchlé myšlénky v té krásné hlavě snuješ,</l>
+     <l n="4" met="0101000101000" rhyme="2" line_length="13">já přece nevěřím. – Jen smutkem koketuješ,</l>
+     <l n="5" met="000100" rhyme="1" line_length="6">ač snad to netušíš.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="0101000101010" line_length="13">Vždyť přece šťastna jsi. Jsi děckem, které neví,</l>
+     <l n="7" met="010001010101" rhyme="3" line_length="12">čím život jest, jenž zlé byl sudbě vydán v plen.</l>
+     <l n="8" met="0100010101010" rhyme="4" line_length="13">Jak Byron být se zdáš: kdy z číše štěstí píval,</l>
+     <l n="9" met="1101001001010" rhyme="4" line_length="13">měl hádě ve hrudi: vědomím mučen býval,</l>
+     <l n="10" met="010100" rhyme="3" line_length="6">že není – nešťasten.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

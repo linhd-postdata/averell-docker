@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Par el mismo tema</title>
+    <author>Juan Delgado</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Delgado_par-el-mismo-tema</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Par el mismo tema</title>
+     <author>Juan Delgado</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Par el mismo tema</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">Este prodigio que con labios de oro</l>
+     <l n="2" met="-+-+-++--+-">cantó, estudió, enseñó doctos cuidados,</l>
+     <l n="3" met="--+--+---+-">mereciendo el decoro de los Hados</l>
+     <l n="4" met="+-+--+---+-">le perdieron los Hados el decoro.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+++-+-+-">Cisne de amor, tan dulce, tan canoro</l>
+     <l n="6" met="++-+-+---+-">tuvo estos once cielos elevados,</l>
+     <l n="7" met="---+-+---+-">que codiciosamente enamorados</l>
+     <l n="8" met="+-+--+---+-">le usurparon la luz de su tesoro.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+-+-+-">Siete lustros vivió y pasar pudiera</l>
+     <l n="10" met="-----+---+-">más allá del Padrón de las edades,</l>
+     <l n="11" met="---+-+--++-">pues pareció Deidad, sino lo era.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">Mas tanto compitió con las Deidades,</l>
+     <l n="13" met="---+-+-+-+-">que ya que fue su vida corta Esfera,</l>
+     <l n="14" met="--+--+---+-">sus conceptos serán eternidades.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

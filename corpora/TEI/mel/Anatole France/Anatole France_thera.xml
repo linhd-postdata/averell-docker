@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Théra</title>
+    <author>Anatole France</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Anatole France_thera</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Théra</title>
+     <author>Anatole France</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Théra</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Cette outre en peau de chèvre, ô buveur, est gonflée</l>
+     <l n="2" rhyme="b" line_length="6+6">De l'esprit éloquent des vignes que Théra,</l>
+     <l n="3" rhyme="a" line_length="6+6">Se tordant sur les flots, noire, déchevelée</l>
+     <l n="4" rhyme="b" line_length="6+6">Étendit au puissant soleil qui les dora.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Théra ne s'orne plus de myrtes ni d'yeuses,</l>
+     <l n="6" rhyme="b" line_length="6+6">Ni de la verte absinthe agréable aux troupeaux,</l>
+     <l n="7" rhyme="a" line_length="6+6">Depuis que, remplissant ses veines furieuses,</l>
+     <l n="8" rhyme="b" line_length="6+6">Le feu plutonien l'agite sans repos.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Son front grondeur se perd sous une rouge nue ;</l>
+     <l n="10" rhyme="b" line_length="6+6">Des ruisseaux dévorants ouvrent ses mamelons ;</l>
+     <l n="11" rhyme="a" line_length="6+6">Ainsi qu'une Bacchante, elle est farouche et nue,</l>
+     <l n="12" rhyme="b" line_length="6+6">Et sur ses flancs intacts roule des pampres blonds.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

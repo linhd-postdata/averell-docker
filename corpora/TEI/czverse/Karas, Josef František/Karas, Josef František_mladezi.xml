@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mládeži.</title>
+    <author>Karas, Josef František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Karas, Josef František_mladezi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mládeži.</title>
+     <author>Karas, Josef František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mládeži.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010100" rhyme="1" line_length="10">Buď zdráva, naše čacká mládeži!</l>
+     <l n="2" met="10101010" line_length="8">Tvoje síla, naše síla,</l>
+     <l n="3" met="10101010" rhyme="2" line_length="8">prapor bílý s rudou skvrnou</l>
+     <l n="4" met="10001010" rhyme="2" line_length="8">zavlaje, a mocnou vlnou</l>
+     <l n="5" met="1101010100" rhyme="1" line_length="10">dav junů v hradby vraha udeří!</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="0101010100" rhyme="3" line_length="10">Ten přijde den, kdy vzdor se probudí!</l>
+     <l n="7" met="10101010" line_length="8">Tvoje síla, naše síla,</l>
+     <l n="8" met="10001010" rhyme="4" line_length="8">vždycky ať jsi v čele šiku,</l>
+     <l n="9" met="10101000" rhyme="4" line_length="8">zmírej, ale bez výkřiku,</l>
+     <l n="10" met="0101010100" rhyme="3" line_length="10">jak lev, jenž klesá, raněn do hrudi!</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="0101010100" rhyme="5" line_length="10">Však meče vrahů časem otupí.</l>
+     <l n="12" met="10101010" line_length="8">Tvoje síla, naše síla,</l>
+     <l n="13" met="10001010" rhyme="6" line_length="8">prapor výš a krokem hbitým</l>
+     <l n="14" met="10001010" rhyme="6" line_length="8">nepřátelům v ústret lítým!</l>
+     <l n="15" met="1101010100" rhyme="5" line_length="10">Veď mladý pluk těch starších zástupy!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

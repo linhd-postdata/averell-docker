@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La adoración de la Cruz</title>
+    <author>Francisco Javier Ugarte y Pages</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco Javier Ugarte y Pages_la-adoracion-de-la-cruz</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La adoración de la Cruz</title>
+     <author>Francisco Javier Ugarte y Pages</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La adoración de la Cruz</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+---+++-">Te adoro, ¡oh Dios!, ante la Cruz te adoro,</l>
+     <l n="2" met="---+---+-+-">y a tu bondad mi perversión someto:</l>
+     <l n="3" met="-+-+---+-+-">tu amor invoco, tu poder respeto,</l>
+     <l n="4" met="-+-+----+-+-">tu gloria ensalzo... ¡y mi perdón imploro!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">Vibre tu verbo plácido y sonoro</l>
+     <l n="6" met="---+---+-+-">en mi turbado corazón inquieto,</l>
+     <l n="7" met="-+-+---+-+-">rebelde al torpe, abrumador secreto</l>
+     <l n="8" met="--+--+-+-+-">de mis culpas sin fin, que triste lloro.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+-+-">Sé el Dios de la piedad. Padre clemente,</l>
+     <l n="10" met="-+-+---+-+-">propicio siempre a redimir las faltas</l>
+     <l n="11" met="-+---+---+-">del hijo pecador o delincuente...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+----+--++-">¡Tú, que desde las cúspides más altas</l>
+     <l n="13" met="+--+-+---+-">calmas el mar, serenas el ambiente,</l>
+     <l n="14" met="-+-+---+-+-">el sol enciendes y la tierra esmaltas!...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

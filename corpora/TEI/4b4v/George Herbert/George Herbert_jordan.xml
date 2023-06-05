@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jordan</title>
+    <author>George Herbert</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>George Herbert_jordan</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>For Better For Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jordan</title>
+     <author>George Herbert</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jordan</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="quintet">
+     <l n="1" met="++-+-+--++|-+-+-+--++">Who says that fictions only and false hair</l>
+     <l n="2" met="-+-+-+-+-+-">Become a verse? Is there in truth no beauty?</l>
+     <l n="3" met="-+++---+-+">Is all good structure in a winding stair?</l>
+     <l n="4" met="-+++-+-+-+-">May no lines pass, except they do their duty</l>
+     <l n="5" met="+--+-+-+">Not to a true, but painted chair?</l>
+    </lg>
+    <lg n="2" stanza_type="quintet">
+     <l n="6" met="+-++-+-+-+|--++-+-+-+">Is it no verse, except enchanted groves</l>
+     <l n="7" met="-+-+-+-+++">And sudden arbors shadow coarse-spun lines?</l>
+     <l n="8" met="-+-+-+-+-+">Must purling streams refresh a lover's loves?</l>
+     <l n="9" met="-+-+-+-+-+">Must all be veiled, while he that reads, divines,</l>
+     <l n="10" met="+--+-+-+">Catching the sense at two removes?</l>
+    </lg>
+    <lg n="3" stanza_type="quintet">
+     <l n="11" met="+--+-+-+-+">Shepherds are honest people; let them sing:</l>
+     <l n="12" met="+--+-+-+-+">Riddle who list, for me, and pull for Prime;</l>
+     <l n="13" met="-+-+-+-+-+|-+-+++---+">I envy no man's nightingale or spring;</l>
+     <l n="14" met="+--+-+-+-+">Nor let them punish me with loss of rhyme,</l>
+     <l n="15" met="-+-+-+-+">Who plainly say, My God, My King.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

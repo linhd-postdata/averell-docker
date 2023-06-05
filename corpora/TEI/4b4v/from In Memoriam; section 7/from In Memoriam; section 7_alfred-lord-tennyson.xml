@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Alfred Lord Tennyson</title>
+    <author>from In Memoriam; section 7</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>from In Memoriam; section 7_alfred-lord-tennyson</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>For Better For Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Alfred Lord Tennyson</title>
+     <author>from In Memoriam; section 7</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Alfred Lord Tennyson</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="quatrain">
+     <l n="1" met="++--++-+ | ++-+-+-+">Dark house, by which once more I stand</l>
+     <l n="2" met="+--+-+-+">Here in the long unlovely street,</l>
+     <l n="3" met="+--+-+-+">Doors, where my heart was used to beat</l>
+     <l n="4" met="++-+---+ | -+-+-+-+">So quickly, waiting for a hand,</l>
+    </lg>
+    <lg n="2" stanza_type="quatrain">
+     <l n="5" met="-+---+++ | -+-+-+++">A hand that can be clasped no more-</l>
+     <l n="6" met="-+-+-+-+">Behold me, for I cannot sleep,</l>
+     <l n="7" met="-+-+-+-+">And like a guilty thing I creep</l>
+     <l n="8" met="-+--+-+-+">At earliest morning to the door.</l>
+    </lg>
+    <lg n="3" stanza_type="quatrain">
+     <l n="9" met="-+-+-+-+ | --++-+-+ | +--+-+-+">He is not here; but far away</l>
+     <l n="10" met="-+-+-+-+">The noise of life begins a gain,</l>
+     <l n="11" met="-+-+-+-+">And ghastly through the drizzling rain</l>
+     <l n="12" met="--+++-++">On the bald street breaks the blank day.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

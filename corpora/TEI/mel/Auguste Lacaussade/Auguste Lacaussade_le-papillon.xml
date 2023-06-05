@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Papillon</title>
+    <author>Auguste Lacaussade</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Auguste Lacaussade_le-papillon</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Papillon</title>
+     <author>Auguste Lacaussade</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Papillon</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Jeune et beau papillon, dont les ailes dorées</l>
+     <l n="2" rhyme="a" line_length="6+6">Réfléchissent du ciel les couleurs azurées,</l>
+     <l n="3" rhyme="b" line_length="6+6">Qui passes dans les airs comme un souffle animé,</l>
+     <l n="4" rhyme="c" line_length="6+6">Qui disputes les fleurs aux baisers du zéphyre</l>
+     <l n="5" rhyme="c" line_length="6+6">Et quand du jour mourant le crépuscule expire,</l>
+    </lg>
+    <lg n="2">
+     <l n="6" rhyme="a" line_length="6+6">Si tu vois mes amours, comme à la fleur éclose,</l>
+     <l n="7" rhyme="a" line_length="6+6">N'offre pas ton hommage à ses lèvres de rose ;</l>
+     <l n="8" rhyme="b" line_length="6+6">Cette erreur est permise à ton œil enchanté ;</l>
+     <l n="9" rhyme="c" line_length="6+6">Mais je serais jaloux de ton bonheur suprême :</l>
+     <l n="10" rhyme="c" line_length="6+6">Je veux seul respirer sur la bouche que j'aime</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

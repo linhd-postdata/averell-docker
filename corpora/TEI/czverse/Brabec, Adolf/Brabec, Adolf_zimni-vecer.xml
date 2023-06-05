@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ZIMNÍ VEČER.</title>
+    <author>Brabec, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Brabec, Adolf_zimni-vecer</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ZIMNÍ VEČER.</title>
+     <author>Brabec, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ZIMNÍ VEČER.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000101" rhyme="1" line_length="11">Nebe tmí se ozářené zlatem hvězd,</l>
+     <l n="2" met="10001010101" rhyme="2" line_length="11">zasněžené kraje mlčí, všude sníh,</l>
+     <l n="3" met="10001010100" rhyme="2" line_length="11">veselý se hlouček veze na saních</l>
+     <l n="4" met="10001010001" rhyme="1" line_length="11">do daleka, tmavou klikatinou cest.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010100" rhyme="3" line_length="11">Všude bílo, všude bílé závěje,</l>
+     <l n="6" met="10101000100" rhyme="4" line_length="11">proužek luny rozesmál se nad lesy,</l>
+     <l n="7" met="10101000100" rhyme="4" line_length="11">stříbro květů nad alejí rozvěsí</l>
+     <l n="8" met="01001000100" rhyme="3" line_length="11">a zazáří na zaváté koleje...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

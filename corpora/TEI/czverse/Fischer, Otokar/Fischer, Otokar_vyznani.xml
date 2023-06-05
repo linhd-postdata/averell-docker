@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vyznání</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_vyznani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vyznání</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vyznání</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010010" rhyme="1" line_length="11">Na sopku hledím a hluboko ve mně</l>
+     <l n="2" met="1101001" rhyme="2" line_length="7">tkví obraz vyhaslých hor,</l>
+     <l n="3" met="10010110010" rhyme="1" line_length="11">na tebe myslím, má milostná země,</l>
+     <l n="4" met="101000101" rhyme="2" line_length="9">jejíž pocel se vssál do mých pór.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010010010" rhyme="3" line_length="11">Přes moře vzpomínku vroucí si nesu,</l>
+     <l n="6" met="1001000" rhyme="4" line_length="7">líbezná slova jsou v ní,</l>
+     <l n="7" met="01001010010" rhyme="3" line_length="11">a vábení vod a ševel tvých lesů</l>
+     <l n="8" met="100001" rhyme="4" line_length="6">zastaveníčkem zní.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010010010" rhyme="5" line_length="10">Dobré jitro mi na dálku dává</l>
+     <l n="10" met="1001001" rhyme="6" line_length="7">lichotně hravý tvůj hmat,</l>
+     <l n="11" met="10010010010" rhyme="5" line_length="11">v zahradách máje ty pod bezem smavá,</l>
+     <l n="12" met="0101011" rhyme="6" line_length="7">ty svůdná, kterou mám rád.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

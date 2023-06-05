@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Liduška píše!</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_liduska-pise</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Liduška píše!</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Liduška píše!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010" rhyme="1" line_length="8">Píše má Liduška, píše,</l>
+     <l n="2" met="00010010" rhyme="1" line_length="8">jen se jí hlavička kníše,</l>
+     <l n="3" met="00010010" rhyme="2" line_length="8">jen se jí ručinka kmitá;</l>
+     <l n="4" met="10010010" rhyme="2" line_length="8">tabulka celá je kryta.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010010" rhyme="3" line_length="8">Co asi v črtách těch stojí,</l>
+     <l n="6" met="00010010" rhyme="3" line_length="8">jež se jí pod ručkou rojí?</l>
+     <l n="7" met="10010010" rhyme="4" line_length="8">její-li života zvěsti,</l>
+     <l n="8" met="11010010" rhyme="4" line_length="8">vlož do nich, Bože můj, štěstí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

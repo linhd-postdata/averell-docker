@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sonet sokolského dorostu.</title>
+    <author>Hlaváček, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hlaváček, Karel_sonet-sokolskeho-dorostu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sonet sokolského dorostu.</title>
+     <author>Hlaváček, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sonet sokolského dorostu.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101000" rhyme="1" line_length="8">Jen co vzrostem, zmohutníme,</l>
+     <l n="2" met="101000" rhyme="2" line_length="6">z káňat v sokolíky –</l>
+     <l n="3" met="00101000" rhyme="1" line_length="8">však se také přiřadíme</l>
+     <l n="4" met="101000" rhyme="2" line_length="6">mezi bojovníky.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00100010" rhyme="1" line_length="8">Jen co síla, jež v nás dříme,</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">zpevní naše šiky –</l>
+     <l n="7" met="10101000" rhyme="1" line_length="8">věru, že se dovtípíme –</l>
+     <l n="8" met="001010" rhyme="2" line_length="6">Co nám blesků kliky?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001010" rhyme="3" line_length="8">Poletíme, v pažích zbraně,</l>
+     <l n="10" met="101010" rhyme="4" line_length="6">boj kde nejvíc víří,</l>
+     <l n="11" met="10101010" rhyme="3" line_length="8">a zas ranou každé ráně,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="101010" rhyme="4" line_length="6">která na Vlast míří,</l>
+     <l n="13" met="10001000" rhyme="3" line_length="8">odpovíme odhodlaně –</l>
+     <l n="14" met="101000" rhyme="4" line_length="6">jako bohatýři!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>RUDOVOUSEK.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_rudovousek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>RUDOVOUSEK.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>RUDOVOUSEK.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01001000" rhyme="1" line_length="8">NÁŠ kocourek, rudovousek,</l>
+     <l n="2" met="10001010" rhyme="1" line_length="8">vyvedl nám pěkný kousek,</l>
+     <l n="3" met="10101" rhyme="2" line_length="5">ano, vyved’ kus!</l>
+     <l n="4" met="01001000" rhyme="1" line_length="8">Náš kocourek, rudovousek,</l>
+     <l n="5" met="10001010" rhyme="1" line_length="8">nesněd’ nám jen husy kousek,</l>
+     <l n="6" met="00101" rhyme="2" line_length="5">on sněd’ celou hus!</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="01001000" rhyme="3" line_length="8">Náš kocourek rozmrzelý</l>
+     <l n="8" met="00101010" rhyme="3" line_length="8">sněd’ jen husu, nechal zelí,</l>
+     <l n="9" met="00101" rhyme="4" line_length="5">to mu bylo mdlé;</l>
+    </lg>
+    <lg n="3">
+     <l n="10" met="00001000" rhyme="3" line_length="8">když jsme se to dozvěděli,</l>
+     <l n="11" met="01001010" rhyme="3" line_length="8">náš kocourek, vždycky bdělý,</l>
+     <l n="12" met="10100" rhyme="4" line_length="5">věděl, že je zle.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101000" rhyme="5" line_length="8">Věděl, že je nebezpečí,</l>
+     <l n="14" met="00101010" rhyme="5" line_length="8">že as husa byla něčí,</l>
+     <l n="15" met="10101" rhyme="6" line_length="5">a on, nezván, host.</l>
+     <l n="16" met="01001000" rhyme="5" line_length="8">Hned pomyslil na zaječí,</l>
+     <l n="17" met="10001010" rhyme="5" line_length="8">na cestu však mezi řečí</l>
+     <l n="18" met="10011" rhyme="6" line_length="5">poslední vzal kost.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

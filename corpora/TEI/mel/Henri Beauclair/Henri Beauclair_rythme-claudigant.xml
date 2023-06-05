@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Rythme claudigant</title>
+    <author>Henri Beauclair</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Henri Beauclair_rythme-claudigant</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Rythme claudigant</title>
+     <author>Henri Beauclair</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Rythme claudigant</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Je me suis grisé d'angélique,</l>
+    </lg>
+    <lg n="2" />
+    <lg n="3">
+     <l n="2" rhyme="a" line_length="8">L'onctueuse bénédictine,</l>
+     <l n="3" rhyme="b" line_length="8">En mon âme chante matine !</l>
+     <l n="4" rhyme="a" line_length="8">Je me ferai bénédictin !</l>
+    </lg>
+    <lg n="4" />
+   </lg>
+  </body>
+ </text>
+</TEI>

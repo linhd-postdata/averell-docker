@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- XL - </title>
+    <author>Fernando de Herrera</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fernando de Herrera_xl</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- XL - </title>
+     <author>Fernando de Herrera</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- XL - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+-+-+-">Ya comienza a mudar su faz el cielo</l>
+     <l n="2" met="-+---+-+-+-">sereno de mis días no turbados,</l>
+     <l n="3" met="++---+---+-">ya tornan a estrecharme mis cuidados,</l>
+     <l n="4" met="-+-+-+-+-+-">a amor en fuego vuelve el tibio hielo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+-+-+-">Incauto en tantos daños alzo el vuelo</l>
+     <l n="6" met="--+--+-+-+-">de atrevidos deseos no cansados,</l>
+     <l n="7" met="-+---+-+-+-">que van en lo que sigue tan cebados,</l>
+     <l n="8" met="-+---+-+-+-">que pierden al peligro ya el recelo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">Ufano intento, débil esperanza</l>
+     <l n="10" met="-+-+-+---+-">y pocas fuerzas hacen que fallezca</l>
+     <l n="11" met="-+---+---+-">en medio del camino la osadía.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-++--+-">Cuando trocare el caso esta mudanza,</l>
+     <l n="13" met="-+---+-+-+-">será para que siempre en mal padezca</l>
+     <l n="14" met="-+---+---+-">quien yerra y persevera en su porfía.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

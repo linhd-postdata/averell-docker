@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Na tetku.</title>
+    <author>Marek, Jan Jindřich</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Marek, Jan Jindřich_na-tetku</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Na tetku.</title>
+     <author>Marek, Jan Jindřich</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Na tetku.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010" rhyme="1" line_length="6">Jako zorní záře</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">Rdí se tetky tváře;</l>
+     <l n="3" met="10100010" rhyme="2" line_length="8">O nich právem říc’ se může:</l>
+     <l n="4" met="10011010" rhyme="2" line_length="8">Vykvetly, hle! – zimní růže.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

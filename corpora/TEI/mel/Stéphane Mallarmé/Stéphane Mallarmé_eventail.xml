@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ÉVENTAIL</title>
+    <author>Stéphane Mallarmé</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Stéphane Mallarmé_eventail</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ÉVENTAIL</title>
+     <author>Stéphane Mallarmé</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ÉVENTAIL</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="7">Avec comme pour langage</l>
+     <l n="2" rhyme="b" line_length="7">Rien qu'un battement aux cieux</l>
+     <l n="3" rhyme="a" line_length="7">Le futur vers se dégage</l>
+     <l n="4" rhyme="b" line_length="7">Du logis très précieux</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="7">Aile tout bas la courrière</l>
+     <l n="6" rhyme="d" line_length="7">Cet éventail si c'est lui</l>
+     <l n="7" rhyme="c" line_length="7">Le même par qui derrière</l>
+     <l n="8" rhyme="d" line_length="7">Toi quelque miroir a lui</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="7">Limpide (où va redescendre</l>
+     <l n="10" rhyme="f" line_length="7">Pourchassée en chaque grain</l>
+     <l n="11" rhyme="e" line_length="7">Un peu d'invisible cendre</l>
+     <l n="12" rhyme="f" line_length="7">Seule à me rendre chagrin)</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="g" line_length="7">Toujours tel il apparaisse</l>
+     <l n="14" rhyme="g" line_length="7">Entre tes mains sans paresse.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

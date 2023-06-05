@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pes a ježek.</title>
+    <author>Štulc, Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Štulc, Václav_pes-a-jezek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pes a ježek.</title>
+     <author>Štulc, Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pes a ježek.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101001" rhyme="1" line_length="9">No, pane ježku, teď ho tu mám.</l>
+     <l n="2" met="100101010" rhyme="1" line_length="9">Strpení, pejsku, já se nedám.</l>
+     <l n="3" met="00010011010" rhyme="2" line_length="11">Ty se snad brániti chceš, i čím a jak?</l>
+     <l n="4" met="10011010010" rhyme="2" line_length="11">Dříve to skus, a pak uvidíš, kterak.</l>
+     <l n="5" met="010010101" rhyme="3" line_length="9">Již mnohý se do mně chutě dal,</l>
+     <l n="6" met="001010100" rhyme="3" line_length="9">Pak se ale dosti napykal.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="010100101" rhyme="3" line_length="9">I chutě do ježka psík se dal,</l>
+     <l n="8" met="110100101" rhyme="3" line_length="9">„Pfuj, kdes tu pichlavou kůži vzal?</l>
+     <l n="9" met="010100100100" rhyme="4" line_length="12">Kdo tebe pohladí, špatným se potáže,</l>
+     <l n="10" met="100100010100" rhyme="4" line_length="12">Celý se popíchá, i krev se ukáže.“</l>
+     <l n="11" met="001100101010" rhyme="5" line_length="12">Tu se psík zamračil, musil po svých jíti,</l>
+     <l n="12" met="1010100010" rhyme="5" line_length="10">„Jdi mi, s tebou nechci již nic míti.“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

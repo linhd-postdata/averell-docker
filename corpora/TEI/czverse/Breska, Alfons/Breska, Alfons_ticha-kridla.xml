@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Tichá křídla.</title>
+    <author>Breska, Alfons</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Breska, Alfons_ticha-kridla</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Tichá křídla.</title>
+     <author>Breska, Alfons</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Tichá křídla.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Křídla vzdušná, křídla muší</l>
+     <l n="2" met="101010" rhyme="2" line_length="6">jako hudby znění</l>
+     <l n="3" met="10001010" rhyme="1" line_length="8">zaznívají zdřímlou duší,</l>
+     <l n="4" met="1010" rhyme="1" line_length="4">křídla muší!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="3" line_length="8">Modrá křídla, modrá křídla</l>
+     <l n="6" met="100010" rhyme="2" line_length="6">mihotají v snění</l>
+     <l n="7" met="10101010" rhyme="3" line_length="8">jako šídla kolem zřídla,</l>
+     <l n="8" met="1010" rhyme="3" line_length="4">modrá křídla!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001010" rhyme="4" line_length="8">Babočky a oka paví</l>
+     <l n="10" met="101010" rhyme="2" line_length="6">hravých svitů chvění</l>
+     <l n="11" met="10011010" rhyme="4" line_length="8">střásají v stín srdce tmavý,</l>
+     <l n="12" met="1010" rhyme="4" line_length="4">oka paví!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101010" rhyme="5" line_length="8">Malých ptačích křídel šumy</l>
+     <l n="14" met="101000" rhyme="2" line_length="6">v sladké zapomnění</l>
+     <l n="15" met="10001010" rhyme="5" line_length="8">kolébají šeré dumy,</l>
+     <l n="16" met="1010" rhyme="5" line_length="4">křídla šumí!</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10101000" rhyme="6" line_length="8">Křídla elfů zlatoskvělá,</l>
+     <l n="18" met="100010" rhyme="2" line_length="6">v záři jich se mění</l>
+     <l n="19" met="10011010" rhyme="6" line_length="8">v zahrady vil země celá,</l>
+     <l n="20" met="1000" rhyme="6" line_length="4">zlatoskvělá!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

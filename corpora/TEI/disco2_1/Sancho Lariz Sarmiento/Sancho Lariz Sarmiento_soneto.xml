@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Sancho Lariz Sarmiento</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sancho Lariz Sarmiento_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Sancho Lariz Sarmiento</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+-+-+-">Pasó la tempestad: que al Sol hermoso,</l>
+     <l n="2" met="-++--++-++-">también suele atreverse el vapor vano;</l>
+     <l n="3" met="--+--+-+-+-">y el achaque mayor del ser humano,</l>
+     <l n="4" met="+----+---+-">es el adolecer de Poderoso.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">O vivas con tu nombre generoso,</l>
+     <l n="6" met="-+---+-+-+-">hermosa Majestad, y el tiempo cano</l>
+     <l n="7" met="---+-----+-">a lo perpetuo de, de tu Verano,</l>
+     <l n="8" met="-+-+-+---+-">renuevos mil del árbol glorioso.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---++--+-">Prosigue en repetirnos los favores,</l>
+     <l n="10" met="---+-+---+-">esclarecida Reina, y tu belleza</l>
+     <l n="11" met="--+--+---+-">multiplica con nueva maravilla.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+---+-">Y no temas del hado los rigores</l>
+     <l n="13" met="-+-+-+---+-">que mal podrás caer de la grandeza,</l>
+     <l n="14" met="++-------+-">si es centro de los Reyes de Castilla.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

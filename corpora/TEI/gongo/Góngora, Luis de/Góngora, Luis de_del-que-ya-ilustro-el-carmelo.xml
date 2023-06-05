@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Del que ya ilustró el Carmelo</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_del-que-ya-ilustro-el-carmelo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Del que ya ilustró el Carmelo</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Del que ya ilustró el Carmelo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="--+-+-+-" line_length="8">Del que ya ilustró el Carmelo</l>
+     <l n="2" met="+-+-++-" line_length="7">lilio, y el Tormes hoy baña,</l>
+     <l n="3" met="-+-+--+-" line_length="8">ceñida la Alba de España</l>
+     <l n="4" met="++-+--+-" line_length="8">no invidia la alba del cielo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

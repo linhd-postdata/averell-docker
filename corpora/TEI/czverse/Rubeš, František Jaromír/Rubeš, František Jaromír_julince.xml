@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Julince.</title>
+    <author>Rubeš, František Jaromír</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Rubeš, František Jaromír_julince</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Julince.</title>
+     <author>Rubeš, František Jaromír</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Julince.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" line_length="6">Nejsladší prý bývá</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">V blahém lásky snění</l>
+     <l n="3" met="100010" line_length="6">Poslední a první</l>
+     <l n="4" met="101000" rhyme="1" line_length="6">Milých políbení.</l>
+     <l n="5" met="101010" line_length="6">Julko! až si budem</l>
+     <l n="6" met="100010" line_length="6">Hubinky zas dávat,</l>
+     <l n="7" met="100010" line_length="6">Budem si jen první</l>
+     <l n="8" met="010010" line_length="6">A poslední dávat.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

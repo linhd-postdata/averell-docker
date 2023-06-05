@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Critical Moment.</title>
+    <author>Matthew Prior</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">2</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Matthew Prior_a-critical-moment</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Eighteenth Century Poetry Archive</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Critical Moment.</title>
+     <author>Matthew Prior</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Critical Moment.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="couplet">
+     <l n="1" met="--+|--+|--+|--+" line_length="12">capricious were Nature and Art to poor ?</l>
+     <l n="2" met="--+|--+|--+|--+" line_length="12">She was painting her Cheeks at the time her Nose fell.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

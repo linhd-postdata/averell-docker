@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jako děti.</title>
+    <author>Geisslová, Irma</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Geisslová, Irma_jako-deti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jako děti.</title>
+     <author>Geisslová, Irma</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jako děti.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101" rhyme="1" line_length="7">Závějemi jako duch,</l>
+     <l n="2" met="1000000" rhyme="1" line_length="7">přijechala „ťuch“ „ťuch“ „ťuch“,*)</l>
+     <l n="3" met="10001000" rhyme="2" line_length="8">stanula a zahvízdala,</l>
+     <l n="4" met="10101010" rhyme="2" line_length="8">velkou radost na jev dala.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0010100" rhyme="3" line_length="7">Tak i statní jonáci</l>
+     <l n="6" met="1000100" rhyme="3" line_length="7">zavýsknou si po práci,</l>
+     <l n="7" met="00101000" rhyme="4" line_length="8">tak i dítě po úkolu</l>
+     <l n="8" met="10001010" rhyme="4" line_length="8">poskočí si kolem stolu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

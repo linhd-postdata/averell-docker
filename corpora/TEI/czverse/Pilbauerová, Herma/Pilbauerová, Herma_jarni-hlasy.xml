@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jarní hlasy.</title>
+    <author>Pilbauerová, Herma</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pilbauerová, Herma_jarni-hlasy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jarní hlasy.</title>
+     <author>Pilbauerová, Herma</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jarní hlasy.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">V stinném háji. – Paprsk smavý</l>
+     <l n="2" met="10001010" rhyme="1" line_length="8">zvědavě se v listy loudí;</l>
+     <l n="3" met="00101010" line_length="8">„kdo tam pěje, kdo tam jásá?“</l>
+     <l n="4" met="10101010" rhyme="1" line_length="8">v zlaté hlavě slunce soudí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" line_length="8">Trylkuje to, hvízdá, zvoní,</l>
+     <l n="6" met="10001010" rhyme="2" line_length="8">švitoří a šeptá jemně,</l>
+     <l n="7" met="10001010" line_length="8">cvrliká a volá v touze,</l>
+     <l n="8" met="10101010" rhyme="2" line_length="8">vábí, láká „pojď sem ke mně!“</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" line_length="8">Odkuds’ z dáli smutné kuku</l>
+     <l n="10" met="10101010" rhyme="3" line_length="8">jako klinkot zvonů padá...</l>
+     <l n="11" met="00101010" line_length="8">Co z těch snivých písní lesa</l>
+     <l n="12" met="10001010" rhyme="3" line_length="8">do srdce se citů vkrádá!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10001010" line_length="8">Toužím výš, jak volné ptáče</l>
+     <l n="14" met="10001010" rhyme="4" line_length="8">vyzpívat v tom vonném háji</l>
+     <l n="15" met="00101010" line_length="8">vše, co v duši dřímá – bouří,</l>
+     <l n="16" met="10101010" rhyme="4" line_length="8">touhu, co jí duše tají.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10001010" line_length="8">Písně mé by padly v lesy,</l>
+     <l n="18" met="10001010" rhyme="5" line_length="8">letěly by v modro nebe –</l>
+     <l n="19" met="10101010" line_length="8">a ty všecky, všecky, všecky</l>
+     <l n="20" met="10000010" rhyme="5" line_length="8">opěvaly by jen – Tebe.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

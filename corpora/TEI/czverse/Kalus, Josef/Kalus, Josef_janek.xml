@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JANEK.</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_janek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JANEK.</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JANEK.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010" rhyme="1" line_length="4">„Jiný, Janku,</l>
+     <l n="2" met="1000101000" rhyme="1" line_length="10">namlouvá si tvoji Marijanku:</l>
+     <l n="3" met="1010101" rhyme="2" line_length="7">braň se, nestůj jako snop,</l>
+     <l n="4" met="1010101" rhyme="2" line_length="7">nepij!“ – „Dost je jiných rob!“</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010" rhyme="1" line_length="4">„Není, Janku,</l>
+     <l n="6" met="1010101000" rhyme="1" line_length="10">dívky hezčí nad tvou Marijanku:</l>
+     <l n="7" met="1010101" rhyme="2" line_length="7">hni se, nestůj jako snop,</l>
+     <l n="8" met="1010001" rhyme="2" line_length="7">nepij!“ – „Ještě dost je rob!“</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010" rhyme="1" line_length="4">„V tanci, Janku,</l>
+     <l n="10" met="1010001000" rhyme="1" line_length="10">jiný objímá tvou Marijanku:</l>
+     <l n="11" met="1010101" rhyme="2" line_length="7">dupni, vzkřikni, rvačku strop!“</l>
+     <l n="12" met="1110101" rhyme="2" line_length="7">Zpit pad pod stůl jako snop.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

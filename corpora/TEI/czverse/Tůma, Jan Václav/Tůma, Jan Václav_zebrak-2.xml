@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Žebrák. (2.)</title>
+    <author>Tůma, Jan Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tůma, Jan Václav_zebrak-2</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Žebrák. (2.)</title>
+     <author>Tůma, Jan Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Žebrák. (2.)</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="000100" line_length="6">Co se ten stařeček</l>
+     <l n="2" met="100100" rhyme="1" line_length="6">po světě nachodí,</l>
+     <l n="3" met="000100" line_length="6">než-li se chudobě</l>
+     <l n="4" met="100100" rhyme="1" line_length="6">dáreček nahodí;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100" line_length="6">a než tu bídu svou</l>
+     <l n="6" met="100100" rhyme="2" line_length="6">po světě obnosí,</l>
+     <l n="7" met="000100" line_length="6">co se ten ubohý</l>
+     <l n="8" met="100100" rhyme="2" line_length="6">šedivec naprosí!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100100" line_length="6">Nachodí, naprosí,</l>
+     <l n="10" met="100100" rhyme="3" line_length="6">naroní slziček,</l>
+     <l n="11" met="000100" line_length="6">než-li si vychodí</l>
+     <l n="12" met="100100" rhyme="3" line_length="6">z milosti chlebíček.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

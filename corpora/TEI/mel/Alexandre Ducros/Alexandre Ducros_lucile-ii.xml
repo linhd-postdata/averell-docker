@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Lucile (II)</title>
+    <author>Alexandre Ducros</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alexandre Ducros_lucile-ii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Lucile (II)</title>
+     <author>Alexandre Ducros</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Lucile (II)</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Elle partit dès que les fleurs</l>
+     <l n="2" rhyme="b" line_length="8">Brillèrent fraîchement écloses ;</l>
+     <l n="3" rhyme="b" line_length="8">Ce fut sur les premières roses</l>
+     <l n="4" rhyme="a" line_length="8">Que coulèrent mes premiers pleurs</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Les plus éclatantes couleurs</l>
+     <l n="6" rhyme="b" line_length="8">N'avaient que des teintes moroses,</l>
+     <l n="7" rhyme="b" line_length="8">Et ces tristes métamorphoses</l>
+     <l n="8" rhyme="a" line_length="8">Naissaient toutes de mes douleurs !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="8">(Qu'importait à moi, solitaire,</l>
+     <l n="10" rhyme="c" line_length="8">Le printemps visitant la terre !</l>
+     <l n="11" rhyme="d" line_length="8">Parmi les fleurs au sein vermeil ?</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="8">Mon printemps, c'est ma bien-aimée,</l>
+     <l n="13" rhyme="e" line_length="8">Son souffle est ma brise embaumée,</l>
+     <l n="14" rhyme="d" line_length="8">Et son regard est mon soleil !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

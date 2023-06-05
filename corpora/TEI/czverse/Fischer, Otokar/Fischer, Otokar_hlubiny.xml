@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>HLUBINY</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_hlubiny</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>HLUBINY</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>HLUBINY</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101010" rhyme="1" line_length="10">Chaotické dout já slyšel hlasy</l>
+     <l n="2" met="1010101010" rhyme="1" line_length="10">trojí tůně: ženy – moře – rasy.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="101000100" rhyme="2" line_length="9">Nevím, které kdy jsem rozuměl.</l>
+     <l n="4" met="101000100" rhyme="2" line_length="9">Vím, že všemi já se rozšuměl.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="0010001010" rhyme="3" line_length="10">Snad jsem nezachyt než odlesk pěny</l>
+     <l n="6" met="1010101010" rhyme="3" line_length="10">z tří těch hloubek: Z rasy – moře – ženy,</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="001000100" rhyme="4" line_length="9">snad že, nezakotven v žádné z nich,</l>
+     <l n="8" met="001010001" rhyme="4" line_length="9">jen jak přízrak vraku jsem se mih:</l>
+    </lg>
+    <lg n="5">
+     <l n="9" met="1000100010" rhyme="5" line_length="10">Slovo mé však vzeplouvá, mé hoře,</l>
+     <l n="10" met="1010101010" rhyme="5" line_length="10">z vírů ženy – z bezdna rasy: z moře.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L'Île verte</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_l-ile-verte</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L'Île verte</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L'Île verte</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Des ruisseaux un déluge a fait de lourds torrents</l>
+     <l n="2" rhyme="a" line_length="6+6">Qui roulent, pêle-mêle, écumeux, dévorant</l>
+     <l n="3" rhyme="b" line_length="6+6">L'étendue, au travers des landes, des pacages,</l>
+     <l n="4" rhyme="b" line_length="6+6">Et changeant en lacs fous les stagnants marécages.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">Mais l'eau dort plate autour d'un grand tertre escarpé,</l>
+     <l n="6" rhyme="c" line_length="6+6">Tout hérissé de bois. Lent, le soir est tombé.</l>
+     <l n="7" rhyme="d" line_length="6+6">Dans l'air mort, où s'ébauche un soupçon de tonnerre,</l>
+     <l n="8" rhyme="d" line_length="6+6">Rôde, vitreux, magique, un jour de luminaire.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="6+6">Et, lorsqu'au plus épais d'une torpeur d'extase</l>
+     <l n="10" rhyme="f" line_length="6+6">Un crapaud, goutte à goutte, épand son fin solo,</l>
+     <l n="11" rhyme="e" line_length="6+6">C'est du rêve de voir à cette unique phrase</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="6+6">Surgir une île verte en des profondeurs brunes,</l>
+     <l n="13" rhyme="f" line_length="6+6">Entre le blanc du ciel et le jaune de l'eau,</l>
+     <l n="14" rhyme="g" line_length="6+6">Sous le diamanté rose et bleu de la lune !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

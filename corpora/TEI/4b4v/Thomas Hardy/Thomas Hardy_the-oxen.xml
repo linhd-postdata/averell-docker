@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>The Oxen</title>
+    <author>Thomas Hardy</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Thomas Hardy_the-oxen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>For Better For Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>The Oxen</title>
+     <author>Thomas Hardy</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>The Oxen</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="quatrain">
+     <l n="1" met="^+-+-+--+">Christmas Eve, and twelve of the clock</l>
+     <l n="2" met="^+--+--+">Now they are all on their knees,"</l>
+     <l n="3" met="-+-+--+--+">An elder said as we sat in a flock</l>
+     <l n="4" met="--+--+-+">By the embers in hearth side ease.</l>
+    </lg>
+    <lg n="2" stanza_type="quatrain">
+     <l n="5" met="-+--+++-+">We pictured the meek mild creatures where</l>
+     <l n="6" met="-+--+-+">They dwelt in their straw y pen, </l>
+     <l n="7" met="-+--+-+--+">Nor did it occur to one of us there</l>
+     <l n="8" met="-+--+-+">To doubt they were kneeling then. </l>
+    </lg>
+    <lg n="3" stanza_type="quatrain">
+     <l n="9" met="-+-+-+-+">So fair a fancy few would weave</l>
+     <l n="10" met="-+-+-+">In these years! Yet, I feel, </l>
+     <l n="11" met="-+-+-+-+">If someone said on Christmas Eve,</l>
+     <l n="12" met="+--+-+">Come; see the oxen kneel</l>
+    </lg>
+    <lg n="4" stanza_type="quatrain">
+     <l n="13" met="--+-+--+-+">In the lonely barton by yonder coomb </l>
+     <l n="14" met="-+-+-+">Our childhood used to know,"</l>
+     <l n="15" met="-+-+-+-+">I should go with him in the gloom,</l>
+     <l n="16" met="+--+-+">Hoping it might be so.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Tu abanico</title>
+    <author>Juan B. Ubago</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan B. Ubago_tu-abanico</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Tu abanico</title>
+     <author>Juan B. Ubago</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Tu abanico</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+---+-">Es temible si expresa desagrado</l>
+     <l n="2" met="---+-+---+-">con su lenguaje mudo y allanero;</l>
+     <l n="3" met="++---+---+-">y es fiel y cariñoso mensajero</l>
+     <l n="4" met="-+++-+-+-+-">si le lleva un suspiro al ser amado.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-----+---+-">Espada de Damocles si cerrado</l>
+     <l n="6" met="--+--+-+-+-">amenaza entablar combate fiero;</l>
+     <l n="7" met="--+--+---+-">y promesa amorosa si ligero</l>
+     <l n="8" met="+-+--+---+-">le acaricia con su aire perfumado.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+--+----+-">Si a tu oído, melódica y sentida,</l>
+     <l n="10" met="+-+--++--+-">una frase de amor llega atrevida,</l>
+     <l n="11" met="+-+--+---+-">es discreto y oculta tus sonrojos,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+---+-">como la nube al sol, con su paisaje;</l>
+     <l n="13" met="--+--++--+-">pero astuto y traidor, deja a tus ojos</l>
+     <l n="14" met="-+---+---+-">que miren al revés del varillaje.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

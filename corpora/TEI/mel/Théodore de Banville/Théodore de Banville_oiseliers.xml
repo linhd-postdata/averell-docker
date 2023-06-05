@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Oiseliers</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_oiseliers</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Oiseliers</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Oiseliers</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Ne sifflons rien. Qu'un damoiseau</l>
+     <l n="2" rhyme="b" line_length="8">Siffle de sa bouche mi-close,</l>
+     <l n="3" rhyme="a" line_length="8">Être appelé d'un nom d'oiseau,</l>
+     <l n="4" rhyme="b" line_length="8">C'est à quoi souvent il s'expose.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Prenez garde à votre chanson !</l>
+     <l n="6" rhyme="b" line_length="8">On peut être, même en décembre,</l>
+     <l n="7" rhyme="a" line_length="8">Appelé bouvreuil ou pinson.</l>
+     <l n="8" rhyme="b" line_length="8">Car, dit-on, naguère, à la Chambre,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Quelqu'un sifflant, comme le vent</l>
+     <l n="10" rhyme="b" line_length="8">Alors que la vague déferle</l>
+     <l n="11" rhyme="a" line_length="8">Sur le blond rivage mouvant,</l>
+     <l n="12" rhyme="b" line_length="8">Un Cicéron lui cria : Merle !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

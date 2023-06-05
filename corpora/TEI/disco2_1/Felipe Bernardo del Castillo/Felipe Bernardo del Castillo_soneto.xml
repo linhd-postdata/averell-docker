@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Felipe Bernardo del Castillo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Felipe Bernardo del Castillo_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Felipe Bernardo del Castillo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Gigante oposición a los umbrales</l>
+     <l n="2" met="-+-+-+---+-">del ciclo empíreo en sacra primavera,</l>
+     <l n="3" met="+--++--+-+-">muestra en la tierra esta divina esfera,</l>
+     <l n="4" met="-+---+---+-">espejo de los arcos celestiales.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">En reliquias de Atletas inmortales</l>
+     <l n="6" met="-+---+---+-">la gloria de sus almas reverbera,</l>
+     <l n="7" met="-+-+---+-+-">la enigma trina el Serafín venera</l>
+     <l n="8" met="-+---+---+-">en rayos de su luz piramidales.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+-+-+-">Xavier, Teresa, Ignacio, Isidro, el coro</l>
+     <l n="10" met="+--+---+-+-">cifran divino, y junto al sol la Aurora</l>
+     <l n="11" met="+--+-+-+-+-">pisa con pies de nieve tronos vivos.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">Detente a ver la casa del tesoro</l>
+     <l n="13" met="---+-+++-+-">o peregrino, y di: Bien puede ahora</l>
+     <l n="14" met="-+-+---+-+-">con tal riqueza rescatar cautivos.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

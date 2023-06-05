@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SONNET</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_sonnet</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SONNET</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SONNET</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Les algues entr’ouvraient leurs âpres cassolettes</l>
+     <l n="2" rhyme="b" line_length="6+6">D’où montait une odeur de phosphore et de sel,</l>
+     <l n="3" rhyme="b" line_length="6+6">Et, jetant leurs reflets empourprés vers le ciel,</l>
+     <l n="4" rhyme="a" line_length="6+6">Semblaient, au fond des eaux, des lits de violettes.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">La blancheur d’un essor palpitant de mouettes</l>
+     <l n="6" rhyme="b" line_length="6+6">Mêlait au frais nuage un frisson fraternel ;</l>
+     <l n="7" rhyme="b" line_length="6+6">Les vagues prolongeaient leur rêve et leur appel</l>
+     <l n="8" rhyme="a" line_length="6+6">Vers la tiédeur de l’air aux caresses muettes.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Les flots très purs brillaient d’un reflet de miroir…</l>
+     <l n="10" rhyme="c" line_length="6+6">La Sirène aux cheveux rouges comme le soir</l>
+     <l n="11" rhyme="d" line_length="6+6">Chantait la volupté d’une mort amoureuse.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Dans la nuit, sanglotait et s’agitait encor</l>
+     <l n="13" rhyme="d" line_length="6+6">Un soupir de la vie inquiète et fiévreuse…</l>
+     <l n="14" rhyme="e" line_length="6+6">Les étoiles pleuraient de longues larmes d’or.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

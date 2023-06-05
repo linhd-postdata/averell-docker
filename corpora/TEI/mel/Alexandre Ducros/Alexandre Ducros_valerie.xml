@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Valérie</title>
+    <author>Alexandre Ducros</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alexandre Ducros_valerie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Valérie</title>
+     <author>Alexandre Ducros</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Valérie</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="7">La femme dit à la rose :</l>
+     <l n="2" rhyme="a" line_length="7">— « Il te faut, pour être éclose</l>
+     <l n="3" rhyme="b" line_length="7">De cet horizon vermeil,</l>
+     <l n="4" rhyme="c" line_length="7">Attendre, ô ma bien-aimée,</l>
+     <l n="5" rhyme="c" line_length="7">Sur ta tige parfumée,</l>
+     <l n="6" rhyme="b" line_length="7">Un doux rayon de soleil ! »</l>
+    </lg>
+    <lg n="2">
+     <l n="7" rhyme="a" line_length="7">La rose dit à la femme</l>
+     <l n="8" rhyme="a" line_length="7">— « Il te faut, pour que ton âme</l>
+     <l n="9" rhyme="b" line_length="7">S'entr'ouvre au bonheur un jour,</l>
+     <l n="10" rhyme="c" line_length="7">Comme moi, ma sœur, attendre</l>
+     <l n="11" rhyme="c" line_length="7">Que sur toi vienne descendre</l>
+     <l n="12" rhyme="b" line_length="7">Un divin rayon d'amour ! »</l>
+    </lg>
+    <lg n="3">
+     <l n="13" rhyme="a" line_length="7">— « Pauvre femme ! pauvre rose !</l>
+     <l n="14" rhyme="a" line_length="7">Leur dit une voix morose ;</l>
+     <l n="15" rhyme="b" line_length="7">Chaque rayon est pareil ;</l>
+     <l n="16" rhyme="c" line_length="7">Sa lueur est fugitive…</l>
+     <l n="17" rhyme="c" line_length="7">L'oubli vient, l'hiver arrive ;</l>
+     <l n="18" rhyme="b" line_length="7">Adieu l'amour ! le soleil ! »</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

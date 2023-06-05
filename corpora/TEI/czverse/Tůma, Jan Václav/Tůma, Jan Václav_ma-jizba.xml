@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Má jizba.</title>
+    <author>Tůma, Jan Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tůma, Jan Václav_ma-jizba</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Má jizba.</title>
+     <author>Tůma, Jan Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Má jizba.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010010010" line_length="9">Mně nezlatí okénko slunce</l>
+     <l n="2" met="01000100" rhyme="1" line_length="8">než ráno vždy a z večera,</l>
+     <l n="3" met="010001010" line_length="9">a v poledne-li žhavé pálí,</l>
+     <l n="4" met="01010100" rhyme="1" line_length="8">mně jizba má se zašerá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010001010" line_length="9">A v šeru tom, kdy jiní pilně</l>
+     <l n="6" met="10000100" rhyme="2" line_length="8">se záclonami skrývají,</l>
+     <l n="7" met="010001010" line_length="9">já pokojně si hovím v chladu,</l>
+     <l n="8" met="10010100" rhyme="2" line_length="8">kterého marně hledají.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100001010" line_length="9">O kéž by tak mi život plynul,</l>
+     <l n="10" met="01010101" rhyme="3" line_length="8">jak tento jasný v letě den,</l>
+     <l n="11" met="010101000" line_length="9">a ráno večer kolébala</l>
+     <l n="12" met="01011001" rhyme="3" line_length="8">mě tichá zář v pokojný sen.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="010001010" line_length="9">A v poledne-li žhavé štěstí</l>
+     <l n="14" met="01010100" rhyme="4" line_length="8">se jiným vtírá bez ladu,</l>
+     <l n="15" met="010110010" line_length="9">mně, bože, dej u míru svatém</l>
+     <l n="16" met="01010100" rhyme="4" line_length="8">jen tichou činnost ve chladu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

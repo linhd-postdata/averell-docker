@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Psík a kozlík.</title>
+    <author>Štulc, Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Štulc, Václav_psik-a-kozlik</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Psík a kozlík.</title>
+     <author>Štulc, Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Psík a kozlík.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101001001" rhyme="1" line_length="9">Hleď se, kozlíku, již tě tu mám.</l>
+     <l n="2" met="100101010" rhyme="1" line_length="9">Hleď se sám, psíku, já se nedám.</l>
+     <l n="3" met="1001010100" rhyme="2" line_length="10">Mám tu ty ostré zuby na tebe.</l>
+     <l n="4" met="0101010010" rhyme="2" line_length="10">Já těmi rohy ubráním sebe.</l>
+     <l n="5" met="10100100100" rhyme="3" line_length="11">Aj co, kozlíku, vždyť pak jsme přátelé,</l>
+     <l n="6" met="01100100100" rhyme="3" line_length="11">Já zlé nemyslil, pohrajme vesele.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="001110100" rhyme="4" line_length="9">Tak ti dva den celý běhali,</l>
+     <l n="8" met="010100010" rhyme="4" line_length="9">A spolu vesele si hráli:</l>
+     <l n="9" met="100100100" rhyme="5" line_length="9">Pejsek ten někdy si zaštěkal,</l>
+     <l n="10" met="010010100" rhyme="5" line_length="9">A kozlík mu trochu vytrkal,</l>
+     <l n="11" met="01010100100" rhyme="6" line_length="11">Pak zase spolu trochu se honili.</l>
+     <l n="12" met="01010101010" rhyme="6" line_length="11">Kýž byste, dítky, byly při tom byly!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

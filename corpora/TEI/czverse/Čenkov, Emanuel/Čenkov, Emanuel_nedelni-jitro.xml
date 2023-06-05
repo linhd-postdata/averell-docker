@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NEDĚLNÍ JITRO.</title>
+    <author>Čenkov, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čenkov, Emanuel_nedelni-jitro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NEDĚLNÍ JITRO.</title>
+     <author>Čenkov, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NEDĚLNÍ JITRO.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1101010001010" rhyme="1" line_length="13">Zář slunce proudem křišťálů se s nebe roní</l>
+     <l n="2" met="0101010110010" rhyme="1" line_length="13">a vínem svěžím modrý vzduch opojně voní.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="1100010100010" rhyme="2" line_length="13">Dvé bělásků se splétá nad lučinou v květu,</l>
+     <l n="4" met="1101010100010" rhyme="2" line_length="13">pás trojích hor ten kraj zde uzavírá světu.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="0101001100110" rhyme="3" line_length="13">A v lukách zrosených zrak umdlený rád prodlí,</l>
+     <l n="6" met="0101000101010" rhyme="3" line_length="13">kde Kristus na kříži se za kraj tiše modlí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

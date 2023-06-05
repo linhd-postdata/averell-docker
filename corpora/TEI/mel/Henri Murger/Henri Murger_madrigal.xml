@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MADRIGAL</title>
+    <author>Henri Murger</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Henri Murger_madrigal</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MADRIGAL</title>
+     <author>Henri Murger</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MADRIGAL</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+6">Vous en rirez, pour en faire sourire</l>
+     <l n="2" rhyme="b" line_length="4+6">Les gens à qui vous irez le conter ;</l>
+     <l n="3" rhyme="a" line_length="4+6">Mais je vous aime et j'aime à vous le dire,</l>
+     <l n="4" rhyme="b" line_length="4+6">Ne dussiez-vous pas même m'écouter.</l>
+     <l n="5" rhyme="a" line_length="4+6">De cet amour j'ignore l'origine ;</l>
+     <l n="6" rhyme="b" line_length="4+6">Mon cœur plus tard doit peut-être en souffrir,</l>
+     <l n="7" rhyme="a" line_length="4+6">Mais ma blessure aimera son épine :</l>
+     <l n="8" rhyme="b" line_length="4+6">Il est des maux qu'on a peur de guérir.</l>
+     <l n="9" rhyme="a" line_length="4+6">Pour quelques mots échangés à voix basse,</l>
+     <l n="10" rhyme="b" line_length="4+6">Pour un instant auprès de vous passé</l>
+     <l n="11" rhyme="a" line_length="4+6">Dans mon chemin j'ai retrouvé la place</l>
+     <l n="12" rhyme="b" line_length="4+6">Où mes vingt ans autrefois m'ont laissé</l>
+     <l n="13" rhyme="a" line_length="4+6">Jeunesse, amour, poésie, espérance,</l>
+     <l n="14" rhyme="b" line_length="4+6">J'ai reconquis ce que j'avais perdu ;</l>
+     <l n="15" rhyme="a" line_length="4+6">C'est bien le moins qu'avec vous je dépense</l>
+     <l n="16" rhyme="b" line_length="4+6">Tout le trésor que vous m'avez rendu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

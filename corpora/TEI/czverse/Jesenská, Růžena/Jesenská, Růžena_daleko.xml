@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Daleko.</title>
+    <author>Jesenská, Růžena</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jesenská, Růžena_daleko</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Daleko.</title>
+     <author>Jesenská, Růžena</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Daleko.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" line_length="6">Daleko, daleko,</l>
+     <l n="2" met="100100" rhyme="1" line_length="6">dlouho jsem bloudila,</l>
+     <l n="3" met="000100" line_length="6">než jsem tě, nejdražší</l>
+     <l n="4" met="100100" rhyme="1" line_length="6">domove, spatřila.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100" line_length="6">Ještě mi hučelo</l>
+     <l n="6" met="101100" rhyme="2" line_length="6">tisíc vln do duše,</l>
+     <l n="7" met="100100" line_length="6">a já tě hledala</l>
+     <l n="8" met="100100" rhyme="2" line_length="6">v shledání předtuše.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100100" line_length="6">Ještě mi ciziny</l>
+     <l n="10" met="101100" rhyme="3" line_length="6">slunce žár neuchlad’,</l>
+     <l n="11" met="100100" line_length="6">a já tvé paprsky</l>
+     <l n="12" met="100101" rhyme="3" line_length="6">cítila v duši hřát.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100100" line_length="6">Daleko, daleko,</l>
+     <l n="14" met="100100" rhyme="4" line_length="6">dlouho jsem bloudila.</l>
+     <l n="15" met="000100" line_length="6">než jsem ti, srdce mé,</l>
+     <l n="16" met="100100" rhyme="4" line_length="6">na věky patřila.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

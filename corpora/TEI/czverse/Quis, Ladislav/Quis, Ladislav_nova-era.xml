@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nová éra.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_nova-era</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nová éra.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nová éra.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010000" line_length="8">A. V české literatuře</l>
+     <l n="2" met="1000101010" rhyme="1" line_length="10">nastává už zase nová éra.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="100000100" line_length="9">B. Stupňujem jen: Zle, hůř, nejhůře;</l>
+     <l n="4" met="0010100010" rhyme="1" line_length="10">je to staré, nezdařená dcera.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

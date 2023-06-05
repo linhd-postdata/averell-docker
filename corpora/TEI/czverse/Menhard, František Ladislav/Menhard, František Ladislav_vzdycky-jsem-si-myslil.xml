@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vždycky jsem si myslil,</title>
+    <author>Menhard, František Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Menhard, František Ladislav_vzdycky-jsem-si-myslil</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vždycky jsem si myslil,</title>
+     <author>Menhard, František Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vždycky jsem si myslil,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" line_length="6">Vždycky jsem si myslil, </l>
+     <l n="2" met="001010" rhyme="1" line_length="6">co v tom vězí asi,</l>
+     <l n="3" met="011010" line_length="6">že má Elsa stále</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">stejně dlouhé vlasy.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101000" line_length="6">Jednou z nenadání</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">vrkoč k zemi skočí –</l>
+     <l n="7" met="001010" line_length="6">a s ním také spadlo</l>
+     <l n="8" met="001010" rhyme="2" line_length="6">mně hned bělmo s očí!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

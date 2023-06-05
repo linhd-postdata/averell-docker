@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Proměna chuti.</title>
+    <author>Kollár, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kollár, Jan_promena-chuti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Proměna chuti.</title>
+     <author>Kollár, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Proměna chuti.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100" line_length="7">Divno! jak jest nestálé</l>
+     <l n="2" met="101000" rhyme="1" line_length="6">Lidské přirození,</l>
+     <l n="3" met="0010100" line_length="7">Jak se často na odpor</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">Věk a srdce mění.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010100" line_length="7">Malí, co jest malého</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">Vůbec rádi mají,</l>
+     <l n="7" met="1010100" line_length="7">O co, když jsou velicý</l>
+     <l n="8" met="101010" rhyme="2" line_length="6">Velmi málo dbají.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1000100" line_length="7">Semnou však je na opak,</l>
+     <l n="10" met="100100" rhyme="3" line_length="6">Nebo jsa maličký</l>
+     <l n="11" met="1000100" line_length="7">Holuby jsem miloval,</l>
+     <l n="12" met="101000" rhyme="3" line_length="6">Nyní holubičky.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

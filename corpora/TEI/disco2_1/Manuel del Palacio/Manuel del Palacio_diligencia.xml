@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Diligencia</title>
+    <author>Manuel del Palacio</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel del Palacio_diligencia</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Diligencia</title>
+     <author>Manuel del Palacio</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Diligencia</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+-+---+-">¿Veis ese campo yermo e infecundo</l>
+     <l n="2" met="---+-+-+-+-">en el que no germina ni aun maleza?</l>
+     <l n="3" met="-+-+-+---+-">Imagen es cabal de la pereza,</l>
+     <l n="4" met="---+---+-+-">como el estéril o funesta al mundo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--++-+---+-">Trabajar es vivir, desde el profundo</l>
+     <l n="6" met="-+---+---+-">volcán que alimentó naturaleza,</l>
+     <l n="7" met="---+-+---+-">hasta el gusano ruin, cuya destreza</l>
+     <l n="8" met="++-+---+-+-">labra un alcázar en el lodo inmundo,</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+--+--+-">todo se agita, y en provecho o daño</l>
+     <l n="10" met="-+---+-+-+-">del mísero mortal su fuerza mueve,</l>
+     <l n="11" met="---+---+-+-">obedeciendo a su destino extraño.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++---+--+-">Quien es ley a quebrantar se atreve,</l>
+     <l n="13" met="+--+---+-+-">preso en las redes de su propio engaño,</l>
+     <l n="14" met="-+-+---+-+-">al hombre usurpa lo que al hombre debe.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

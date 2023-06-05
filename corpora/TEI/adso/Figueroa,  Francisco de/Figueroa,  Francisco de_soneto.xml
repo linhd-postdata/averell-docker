@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto </title>
+    <author>Figueroa,  Francisco de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Figueroa,  Francisco de_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto </title>
+     <author>Figueroa,  Francisco de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-++--+---+-">Perdido ando, señora, entre la gente,</l>
+     <l n="2" met="-+-+-+-+-+-">sin vos, sin mí, sin ser, sin Dios, sin vida;</l>
+     <l n="3" met="-+--++-+-+-">sin vos, porque no sois de mí servida;</l>
+     <l n="4" met="-+--++-+-+-">sin mí, porque no estoy con vos presente;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+-+-+-">sin ser, porque de vos estando ausente</l>
+     <l n="6" met="++---++--+-">no hay cosa que del ser no me despida;</l>
+     <l n="7" met="-+---+-+-+-">sin Dios, porque mi alma a Dios olvida</l>
+     <l n="8" met="---+-+-+-+-">por contemplar en vos continuamente;</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---++--+-">sin vida, porque ya que haya vivido,</l>
+     <l n="10" met="+++--+-+-+-">cien mil veces morir mejor me fuera</l>
+     <l n="11" met="-+-+++-+-+-">que no un dolor tan grave y tan extraño.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++-+-+-+-+-">¡Qué preso yo por vos, por vos herido,</l>
+     <l n="13" met="-+-+-++--+-">y muerto yo por vos de esta manera,</l>
+     <l n="14" met="-++--+---+-">estéis tan descuidada de me daño!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

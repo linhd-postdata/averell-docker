@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Un conde prometedor</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_un-conde-prometedor</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Un conde prometedor</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Un conde prometedor</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="++----+-" line_length="8">Un conde prometedor</l>
+     <l n="2" met="---++-+-" line_length="8">que Portugal dio a Castilla</l>
+     <l n="3" met="+--+--+-" line_length="8">(tal conociera su Villa</l>
+     <l n="4" met="---+--+-" line_length="8">como conozco su Flor)</l>
+     <l n="5" met="--+-+-+-" line_length="8">me remite a vos, señor,</l>
+     <l n="6" met="----+-+-" line_length="8">para que me deis en pan</l>
+     <l n="7" met="--++-+-" line_length="7">y en adobo un Florïán,</l>
+     <l n="8" met="-+---+-" line_length="7">süavísimo bocón,</l>
+     <l n="9" met="--+---+-" line_length="8">si le visten al capón</l>
+     <l n="10" met="-+----+-" line_length="8">sotana de mazapán.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MÁK.</title>
+    <author>Racek, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">3</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Racek, Adolf_mak</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MÁK.</title>
+     <author>Racek, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MÁK.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" rhyme="1" line_length="6">Hudba je umění,</l>
+     <l n="2" met="100010" rhyme="1" line_length="6">umění je snění,</l>
+     <l n="3" met="1001000" rhyme="1" line_length="7">snění je zapomnění.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

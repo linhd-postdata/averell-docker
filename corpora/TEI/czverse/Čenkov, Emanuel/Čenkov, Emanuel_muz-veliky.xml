@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MUŽ VELIKÝ.</title>
+    <author>Čenkov, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čenkov, Emanuel_muz-veliky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MUŽ VELIKÝ.</title>
+     <author>Čenkov, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MUŽ VELIKÝ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100010" rhyme="1" line_length="11">Byl agitátor politické strany,</l>
+     <l n="2" met="01001101001" rhyme="2" line_length="11">v svém orgánu směl hymny o sobě psát –</l>
+     <l n="3" met="01000101010" rhyme="1" line_length="11">těch privilejí, jež mu byly dány,</l>
+     <l n="4" met="01010100100" rhyme="2" line_length="11">on k slávě svojí užíval napořád.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101010" rhyme="3" line_length="11">Tak hojnou měrou chvály sobě měřil,</l>
+     <l n="6" met="01010100010" rhyme="3" line_length="11">že posléz v svoji velikost sám věřil.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

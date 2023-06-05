@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A la muerte de Lope de Vega</title>
+    <author>Bartolomé Vasconcelos y Acuña</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Bartolomé Vasconcelos y Acuña_a-la-muerte-de-lope-de-vega</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A la muerte de Lope de Vega</title>
+     <author>Bartolomé Vasconcelos y Acuña</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A la muerte de Lope de Vega</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+---+-+-">Quien en tu muerte el desengaño mira,</l>
+     <l n="2" met="-+-+---+-+-">rigor fatal de su violencia fuerte,</l>
+     <l n="3" met="-+---++--+-">mayor veneración debe a tu suerte</l>
+     <l n="4" met="-+---+-+-+-">mortal, cuando a inmortal tu ingenio aspira.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+++-+-">Mayor veneración, más grave pira,</l>
+     <l n="6" met="+--+-++--+-">más que a tu vida, amor debe a tu muerte,</l>
+     <l n="7" met="---+-+-+-+-">pues en lo muerto lo inmortal advierte,</l>
+     <l n="8" met="--++-+-+-+-">pues en lo humano lo divino admira.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+----+---+-">Muere para vivir, o peregrino</l>
+     <l n="10" met="+--+-+---+-">fénix de España, y sea tu victoria</l>
+     <l n="11" met="-+-+-+-+-+-">que el ser humano te hace más divino.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+++-+-">Lo que fue desengaño, ha sido gloria,</l>
+     <l n="13" met="-+---+-+-+-">pues más de la memoria te hace digno</l>
+     <l n="14" met="+--+-+---+-">muerto a la vida, vivo a la memoria.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

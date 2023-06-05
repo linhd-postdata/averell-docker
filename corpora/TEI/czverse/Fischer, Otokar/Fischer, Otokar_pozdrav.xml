@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>POZDRAV</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_pozdrav</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>POZDRAV</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>POZDRAV</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010100110001" rhyme="1" line_length="12">Nám rozchod zduchověl. V mhách rozeštkal se den,</l>
+     <l n="2" met="100101010100" rhyme="1" line_length="12">přes ostré hrany hor je závoj zavěšen,</l>
+     <l n="3" met="0001001101010" rhyme="2" line_length="13">vše v dál se rozchází, mrak mraku v pozdrav kyne,</l>
+     <l n="4" met="0101000101010" rhyme="2" line_length="13">je pozdní hodina, je podzim – Všechno mine.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010100010001" rhyme="3" line_length="12">Nic vůkol nezbylo, než vzduchoprázdný čas.</l>
+     <l n="6" met="010000010000" rhyme="3" line_length="12">My, rozhozeni v něm, zda setkáme se zas?</l>
+     <l n="7" met="1101010100010" rhyme="4" line_length="13">V tvář nezří druhu druh, leč v myšlenkách si čteme,</l>
+     <l n="8" met="0100001001000" rhyme="4" line_length="13">že setkáme se zas... a že se rozejdeme.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

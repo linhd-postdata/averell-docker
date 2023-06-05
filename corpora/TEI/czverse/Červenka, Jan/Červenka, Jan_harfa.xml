@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>HARFA.</title>
+    <author>Červenka, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červenka, Jan_harfa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>HARFA.</title>
+     <author>Červenka, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>HARFA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Harfa – měkká lidská duše,</l>
+     <l n="2" met="10101" rhyme="2" line_length="5">život na ni hrá.</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">Jeho drsná ruka suše</l>
+     <l n="4" met="10100" rhyme="2" line_length="5">struny napíná,</l>
+     <l n="5" met="10001010" rhyme="1" line_length="8">bije v ně a rve je hluše.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="10100010" rhyme="3" line_length="8">Harfa naříká a kvílí,</l>
+     <l n="7" met="00101" rhyme="2" line_length="5">až ta ruka zlá</l>
+     <l n="8" met="10001010" rhyme="3" line_length="8">v divoké a kruté chvíli</l>
+     <l n="9" met="10100" rhyme="2" line_length="5">struny spřetrhá.</l>
+    </lg>
+    <lg n="3">
+     <l n="10" met="00100" rhyme="4" line_length="5">Nu, co s tebou teď?</l>
+     <l n="11" met="10110010" rhyme="5" line_length="8">Slyšíš? Máj na dvéře ťuká!</l>
+     <l n="12" met="10100" rhyme="4" line_length="5">Žádná odpověď!...</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10001010" rhyme="5" line_length="8">Naposled se pohne ruka</l>
+     <l n="14" met="10101000" rhyme="5" line_length="8">a ta harfa sladkozvuká</l>
+    </lg>
+    <lg n="5">
+     <l n="15" met="10101" rhyme="4" line_length="5">Padá mezi smeť.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

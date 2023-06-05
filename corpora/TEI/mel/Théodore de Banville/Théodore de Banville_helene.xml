@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hélène</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_helene</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hélène</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hélène</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Hélène a dix ans ; l'or de sa tête embrasée</l>
+     <l n="2" rhyme="b" line_length="6+6">Baigne son col terrible et fier comme une tour.</l>
+     <l n="3" rhyme="b" line_length="6+6">Grande ombre, dans la nuit elle rugit d'amour,</l>
+     <l n="4" rhyme="a" line_length="6+6">Près d'elle un dur chasseur marche dans la rosée.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Elle ouvre au clair de lune, ainsi qu'une épousée,</l>
+     <l n="6" rhyme="b" line_length="6+6">La pourpre où de son sein brille le blanc contour,</l>
+     <l n="7" rhyme="b" line_length="6+6">Et les tigres font voir aux petits du vautour</l>
+     <l n="8" rhyme="a" line_length="6+6">La fille de Tyndare éprise de Thésée.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Mais près de l'Eurotas aux flots mélodieux</l>
+     <l n="10" rhyme="c" line_length="6+6">Ils passent, chevelus et forts comme des Dieux.</l>
+     <l n="11" rhyme="d" line_length="6+6">« O tueur de lions, dit la princesse blonde,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Guerrier toujours couvert de sang, tu dormiras</l>
+     <l n="13" rhyme="d" line_length="6+6">Sur mon sein ; porte-moi dans la forêt profonde. »</l>
+     <l n="14" rhyme="e" line_length="6+6">Et le jeune héros l'emporte dans ses bras.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

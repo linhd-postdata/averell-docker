@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Zmotaný svět.</title>
+    <author>Cajthaml-Liberté, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cajthaml-Liberté, František_zmotany-svet</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Zmotaný svět.</title>
+     <author>Cajthaml-Liberté, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Zmotaný svět.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" line_length="6">Bože můj, otče můj,</l>
+     <l n="2" met="010100" rhyme="1" line_length="6">ten svět jest zmotaný!</l>
+     <l n="3" met="100100" line_length="6">Rozdělen na chudé</l>
+     <l n="4" met="100010" rhyme="1" line_length="6">(žebráky) a pány.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101010" line_length="6">Ruce chudých jeden</l>
+     <l n="6" met="010010" rhyme="2" line_length="6">jen mozol jest hrubý –</l>
+     <l n="7" met="010100" line_length="6">však páni šampaňské</l>
+     <l n="8" met="100100" rhyme="2" line_length="6">lijí si do huby.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100010" line_length="6">Kuřátka tam strkaj'</l>
+     <l n="10" met="010100" rhyme="3" line_length="6">a drahé ústřice – –</l>
+     <l n="11" met="010010" line_length="6">to, dělníče, není</l>
+     <l n="12" met="101010" rhyme="3" line_length="6">žádná pro tě píce.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="010100" line_length="6">Ty máš jen robotit</l>
+     <l n="14" met="100010" rhyme="4" line_length="6">do cizího sáčku –</l>
+     <l n="15" met="010101" line_length="6">buď rád, že za to máš</l>
+     <l n="16" met="101000" rhyme="4" line_length="6">brambor na loupačku!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

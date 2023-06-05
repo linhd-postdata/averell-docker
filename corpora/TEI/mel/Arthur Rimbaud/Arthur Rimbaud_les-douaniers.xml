@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les Douaniers</title>
+    <author>Arthur Rimbaud</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Arthur Rimbaud_les-douaniers</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Les Douaniers</title>
+     <author>Arthur Rimbaud</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Les Douaniers</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Ceux qui disent : Cré Nom, ceux qui disent macache,</l>
+     <l n="2" rhyme="b" line_length="6+6">Soldats, marins, débris d'Empire, retraités,</l>
+     <l n="3" rhyme="b" line_length="6+6">Sont nuls, très nuls, devant les Soldats des Traités</l>
+     <l n="4" rhyme="a" line_length="6+6">Qui tailladent l'azur frontière à grands coups d'hache.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="b" line_length="6+6">Pique aux dents, lame en main, profonds, pas embêtés,</l>
+     <l n="6" rhyme="a" line_length="6+6">Quand l'ombre bave aux bois comme un mufle de vache,</l>
+     <l n="7" rhyme="a" line_length="6+6">Ils s'en vont, amenant leurs dogues à l'attache,</l>
+     <l n="8" rhyme="b" line_length="6+6">Exercer nuitamment leur terribles gaîtés !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Ils signalent aux lois modernes les faunesses.</l>
+     <l n="10" rhyme="d" line_length="6+6">Ils empoignent les Fausts et les Diavolos.</l>
+     <l n="11" rhyme="d" line_length="6+6">« Pas de ça, les anciens ! Déposez les ballots ! »</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="c" line_length="6+6">Quand sa sérénité s'approche des jeunesses,</l>
+     <l n="13" rhyme="e" line_length="6+6">Le Douanier se tient aux appas contrôlés !</l>
+     <l n="14" rhyme="e" line_length="6+6">Enfer aux Délinquants que sa paume a frôlés !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

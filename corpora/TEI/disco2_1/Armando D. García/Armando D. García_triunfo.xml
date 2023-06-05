@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Triunfo</title>
+    <author>Armando D. García</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Armando D. García_triunfo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Triunfo</title>
+     <author>Armando D. García</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Triunfo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="-+---+--+---+-">Amainan los rigores; renace en el ambiente</l>
+     <l n="2" met="-+---+----+-+-">la plácida excelencia de la envidiable paz,</l>
+     <l n="3" met="++---+--+-+-+-">y hay un renacimiento de fe, que dulcemente</l>
+     <l n="4" met="---+-+----+-+-">de la campiña envuelve la promisión feraz.</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="-+---+--+---+-">Repica en el espacio celeste epifanía;</l>
+     <l n="6" met="---+-+--+----+">angelicales pífanos tocan a redención</l>
+     <l n="7" met="++---+--+---+-">y hay un deslumbramiento de luz y de alegría,</l>
+     <l n="8" met="-+---+------+-">magnánima apoteosis de remuneración.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++---+--+---+-">Es hora en que las locas campanas del contento</l>
+     <l n="10" met="-+---+--+---+-">derraman por el éter la gloria del violento</l>
+     <l n="11" met="-+---+---+--+-">repique de sus áureos Badajoz de efusión.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+--+---+-">Y en un florecimiento de dicha transitoria</l>
+     <l n="13" met="-+---+--+---+-">se vierten en el templo los cánticos de gloria</l>
+     <l n="14" met="---+-+------+-">por la divina gracia de la compensación.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

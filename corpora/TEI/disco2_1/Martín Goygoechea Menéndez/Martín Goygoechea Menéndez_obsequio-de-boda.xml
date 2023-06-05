@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Obsequio de boda</title>
+    <author>Martín Goygoechea Menéndez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Martín Goygoechea Menéndez_obsequio-de-boda</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Obsequio de boda</title>
+     <author>Martín Goygoechea Menéndez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Obsequio de boda</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+--+--+-">La secular pobreza que asedia a los poetas</l>
+     <l n="2" met="+--+-+++---+-">hace que sólo ofrezca un ramo de violetas</l>
+     <l n="3" met="---+-+------+-">a vuestra grácil novia, pues en cuestión de amores</l>
+     <l n="4" met="+--+++-+++--+-">una epopeya ha sido siempre un ramo de flores.</l>
+    </lg>
+    <lg n="2" stanza_type="unknown">
+     <l n="5" met="--++-+-++-++-">Vuestra novia es graciosa y muy dulce y muy bella;</l>
+     <l n="6" met="--+--+-++-+-">lo galante sería ofrendarle una estrella</l>
+     <l n="7" met="+-+-+--+-+-+-">o un cordero blanco con grandes moñas rosas,</l>
+     <l n="8" met="--+--+++---+-">o sobre una azucena un par de mariposas.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-++-+--+-">Y en su defecto, fuera un obsequio cumplido</l>
+     <l n="10" met="++---+-----++">dos tórtolas albísimas sobre el plumón de un nido,</l>
+     <l n="11" met="---+++-++---+-">mas, como enviaros eso no puedo, por mis penas,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+--+---+-">aunque haya mariposas, estrellas y azucenas,</l>
+     <l n="13" met="-++--+-++---+-">luciendo una sonrisa, va el ramo de violetas</l>
+     <l n="14" met="---+-+--+--+-">como la pobre ofrenda que usamos los poetas.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

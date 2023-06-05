@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LA CARAVANE</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_la-caravane</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LA CARAVANE</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LA CARAVANE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">La caravane humaine au Sahara du monde,</l>
+     <l n="2" rhyme="b" line_length="6+6">Par ce chemin des ans qui n'a pas de retour,</l>
+     <l n="3" rhyme="b" line_length="6+6">S'en va traînant le pied, brûlée aux feux du jour,</l>
+     <l n="4" rhyme="a" line_length="6+6">Et buvant sur ses bras la sueur qui l'inonde.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Le grand lion rugit et la tempête gronde ;</l>
+     <l n="6" rhyme="b" line_length="6+6">A l'horizon fuyard, ni minaret, ni tour ;</l>
+     <l n="7" rhyme="b" line_length="6+6">La seule ombre qu'on ait, c'est l'ombre du vautour,</l>
+     <l n="8" rhyme="a" line_length="6+6">Qui traverse le ciel cherchant sa proie immonde.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">L'on avance toujours, et voici que l'on voit</l>
+     <l n="10" rhyme="c" line_length="6+6">Quelque chose de vert que l'on se montre au doigt :</l>
+     <l n="11" rhyme="d" line_length="6+6">C'est un bois de cyprès, semé de blanches pierres.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Dieu, pour vous reposer, dans le désert du temps,</l>
+     <l n="13" rhyme="d" line_length="6+6">Comme des oasis, a mis les cimetières :</l>
+     <l n="14" rhyme="e" line_length="6+6">Couchez-vous et dormez, voyageurs haletants.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

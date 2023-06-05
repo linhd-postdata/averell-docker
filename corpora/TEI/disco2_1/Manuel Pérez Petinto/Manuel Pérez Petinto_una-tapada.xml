@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Una tapada</title>
+    <author>Manuel Pérez Petinto</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel Pérez Petinto_una-tapada</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Una tapada</title>
+     <author>Manuel Pérez Petinto</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Una tapada</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+---+-">Si eres bella y gentil como parece</l>
+     <l n="2" met="---+---+-+-">y tu firmeza en el pisar pregona;</l>
+     <l n="3" met="--+--+---+-">si la gracia y candor de tu persona</l>
+     <l n="4" met="++-+---+-+-">es rico dote que tu amor ofrece;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">si la luz de los astros palidece</l>
+     <l n="6" met="--+--+---+-">frente al sol que en tus ojos se aprisiona,</l>
+     <l n="7" met="+--+---+-+-">y es de tus bienes natural corona</l>
+     <l n="8" met="-+--++---+-">cabello que ni es ralo ni encanece.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+++-">¿A qué ese empeño de ocultarnos tanto,</l>
+     <l n="10" met="-+---+-+-+-">delicias que la vida nos recrea</l>
+     <l n="11" met="--+--+---+-">compensando con creces su quebranto?</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+---+-">Arroja ese tocado y que se vea,</l>
+     <l n="13" met="---+-+-+-+-">por tu capricho te pusiste el manto</l>
+     <l n="14" met="-+-+---+-+-">y no por vieja, desdentada y fea.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

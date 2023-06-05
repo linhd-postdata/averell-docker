@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>¡Madre locura!</title>
+    <author>Arturo Borja</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Arturo Borja_madre-locura</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>¡Madre locura!</title>
+     <author>Arturo Borja</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>¡Madre locura!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="---+--++--+-">¡Madre Locura! Quiero ponerme tus caretas.</l>
+     <l n="2" met="+----+--+--+-">Quiero en tus cascabeles beber la incoherencia,</l>
+     <l n="3" met="-+---+------+-">y al son de las sonajas y de las panderetes</l>
+     <l n="4" met="---+-+---+--+-">frivolizar la vida con divina inconsciencia.</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="---+-++--+--+-">¡Madre Locura! da me la sardónica gracia</l>
+     <l n="6" met="-----+----+-+-">de las peroraciones y las palabras rotas.</l>
+     <l n="7" met="-+---+--+---+-">Tus hijos pertenecen a la alta aristocracia</l>
+     <l n="8" met="--+--+--+-+-+-">de la risa que llora, danzando alegres jotas.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+--+--+-">Sólo amargura traje del país de Citeres...</l>
+     <l n="10" met="+--+++-+---+-">Sé que la vida es dura y sé que los placeres</l>
+     <l n="11" met="+-+--+-+-+-++-">son libélulas vanas, son bostezos, son tedio...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+-++---+-">Y por esto, Locura, yo anhelo tu remedio,</l>
+     <l n="13" met="--+--+-+----+-">que disipa tristezas, borra melancolías,</l>
+     <l n="14" met="-+---+---+---+">y puebla los espíritus de olvido y alegrías...!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

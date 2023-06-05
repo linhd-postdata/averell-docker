@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Tuberosy.</title>
+    <author>Karásek ze Lvovic, Jiří</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Karásek ze Lvovic, Jiří_tuberosy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Tuberosy.</title>
+     <author>Karásek ze Lvovic, Jiří</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Tuberosy.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1101000101000" rhyme="1" line_length="13">V mdlých vůních tuberos, jež dýší zapomnění,</l>
+     <l n="2" met="1001000100010" rhyme="2" line_length="13">za noci poslední, jež neuvidí rána,</l>
+     <l n="3" met="0101001101010" rhyme="1" line_length="13">má duše odejde v sen, jemuž konce není,</l>
+     <l n="4" met="0101000101000" rhyme="2" line_length="13">jak tepem andělských jsouc křídel skolebána.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1101000101000" rhyme="1" line_length="13">V mdlých vůních tuberos, jež dýší zapomnění,</l>
+     <l n="6" met="0101000100010" rhyme="3" line_length="13">mé touhy, naděje se nesplněny skojí</l>
+     <l n="7" met="0101010100010" rhyme="1" line_length="13">a půjdou jako stín, jak nedosněné snění</l>
+     <l n="8" met="1001010" rhyme="3" line_length="7">za stínem duše mojí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

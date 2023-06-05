@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V. HVĚZDÁM.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_v-hvezdam</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V. HVĚZDÁM.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V. HVĚZDÁM.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010101010" rhyme="1" line_length="11">Ó hvězdy, bílé hvězdy v dráze mléčné,</l>
+     <l n="2" met="01010101010" rhyme="2" line_length="11">vy kapky mléka z prsů noci matky,</l>
+     <l n="3" met="10010101000" rhyme="1" line_length="11">kterými v naše muky nekonečné</l>
+     <l n="4" met="01010100010" rhyme="2" line_length="11">nám v duši úkoj rozlívá se sladký!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11010100010" rhyme="3" line_length="11">Ó medná vláho, proměněná v světy,</l>
+     <l n="6" met="11010001010" rhyme="3" line_length="11">ó světy v stříbrné zas jaté květy,</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="11010101000" rhyme="4" line_length="11">ó květy rajské, kosmu na mohyle</l>
+     <l n="8" met="10010101010" rhyme="4" line_length="11">zářící žitím, plaňte, hvězdy bílé!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

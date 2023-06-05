@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>The Kraken</title>
+    <author>Alfred Lord Tennyson</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred Lord Tennyson_the-kraken</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>For Better For Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>The Kraken</title>
+     <author>Alfred Lord Tennyson</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>The Kraken</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="stanza">
+     <l n="1" met="-+-+-+-+-+">Below the thunders of the upper deep,</l>
+     <l n="2" met="++-+---+-+">Far, far beneath in the abysmal sea,</l>
+     <l n="3" met="-+-+-+-+-+">His ancient, dreamless, uninvaded sleep</l>
+     <l n="4" met="-+-+-+-+-+">The Kraken sleepeth: faintest sunlights flee</l>
+     <l n="5" met="-+-+--+-+-+">About his shadowy sides: above him swell</l>
+     <l n="6" met="++---+--+-+">Huge sponges of millennial growth and height;</l>
+     <l n="7" met="-+-+-+-+-+">And far away into the sickly light,</l>
+     <l n="8" met="-+--+-+-+-+">From many a wondrous grot and secret cell</l>
+     <l n="9" met="++---+-+-+">Unnumbered and enormous polypi</l>
+     <l n="10" met="+--+-+-+--+">Winnow with giant arms the slumbering green.</l>
+     <l n="11" met="+--+-+--++|+--+-+-+-+">There hath he lain for ages and will lie</l>
+     <l n="12" met="+---+++---+|+---+++-+-+">Battening upon huge seaworms in his sleep,</l>
+     <l n="13" met="-+-+-+--+-+">Until the latter fire shall heat the deep;</l>
+     <l n="14" met="++-+-+---+|-+-+-+-+-+">Then once by man and angels to be seen,</l>
+     <l n="15" met="-+-+-+-+-+-+">In roaring he shall rise and on the surface die.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jiří Poděbrad.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_jiri-podebrad</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jiří Poděbrad.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jiří Poděbrad.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10000010010010010" line_length="17">Poslední Ty jsi byl z Čechů, jenž královskou korunu nosil;</l>
+     <l n="2" met="10010001001000" line_length="14">po Tobě nosili jen korunu mučednickou.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="1001000010010010" line_length="16">Panstvo že sjednotil jsi, to korunu vyneslo Tobě:</l>
+     <l n="4" met="10010011001001" line_length="14">Kdybys byl sjednotil lid, byl by ji nosil Tvůj rod.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dizain ingénu</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_dizain-ingenu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dizain ingénu</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dizain ingénu</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Ô souvenir d’enfance et le lait nourricier</l>
+     <l n="2" rhyme="a" line_length="6+6">Et ô l’adolescence et son essor princier !</l>
+     <l n="3" rhyme="b" line_length="6+6">Quand j’étais tout petit garçon j’avais coutume</l>
+     <l n="4" rhyme="b" line_length="6+6">Pour évoquer la Femme et bercer l’amertume</l>
+     <l n="5" rhyme="a" line_length="6+6">De n’avoir qu’une queue imperceptible bout</l>
+     <l n="6" rhyme="a" line_length="6+6">Dérisoire, prépuce immense sous quoi bout</l>
+     <l n="7" rhyme="b" line_length="6+6">Tout le sperme à venir, ô terreur sébacée,</l>
+     <l n="8" rhyme="b" line_length="6+6">De me branler avec cette bonne pensée</l>
+     <l n="9" rhyme="a" line_length="6+6">D’une bonne d’enfant à motte de velours.</l>
+    </lg>
+    <lg n="2">
+     <l n="10" rhyme="a" line_length="6+6">Depuis je décalotte et me branle toujours !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

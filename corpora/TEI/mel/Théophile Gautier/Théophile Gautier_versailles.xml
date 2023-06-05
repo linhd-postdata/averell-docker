@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VERSAILLES</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_versailles</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VERSAILLES</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VERSAILLES</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Versailles, tu n'es plus qu'un spectre de cité ;</l>
+     <l n="2" rhyme="b" line_length="6+6">Comme Venise au fond de son Adriatique,</l>
+     <l n="3" rhyme="b" line_length="6+6">Tu traînes lentement ton corps paralytique,</l>
+     <l n="4" rhyme="a" line_length="6+6">Chancelant sous le poids de ton manteau sculpté.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Quel appauvrissement ! quelle caducité !</l>
+     <l n="6" rhyme="b" line_length="6+6">Tu n'es que surannée et tu n'es pas antique,</l>
+     <l n="7" rhyme="b" line_length="6+6">Et nulle herbe pieuse au long de ton portique</l>
+     <l n="8" rhyme="a" line_length="6+6">Ne grimpe pour voiler ta pâle nudité.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Comme une délaissée à l'écart, sous ton arbre,</l>
+     <l n="10" rhyme="c" line_length="6+6">Sur ton sein douloureux croisant tes bras de marbre,</l>
+     <l n="11" rhyme="d" line_length="6+6">Tu guettes le retour de ton royal amant.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="d" line_length="6+6">Le rival du soleil dort sous son monument ;</l>
+     <l n="13" rhyme="e" line_length="6+6">Les eaux de tes jardins à jamais se sont tues,</l>
+     <l n="14" rhyme="e" line_length="6+6">Et tu n'auras bientôt qu'un peuple de statues.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

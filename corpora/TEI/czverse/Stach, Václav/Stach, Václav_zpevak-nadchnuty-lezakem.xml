@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Zpěvák nadchnutý ležákem.</title>
+    <author>Stach, Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Stach, Václav_zpevak-nadchnuty-lezakem</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Zpěvák nadchnutý ležákem.</title>
+     <author>Stach, Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Zpěvák nadchnutý ležákem.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" rhyme="1" line_length="8">Ržíman nechť sy Ržeky chválí,</l>
+     <l n="2" met="00010010" rhyme="1" line_length="8">Cžech se předc od obou vzdálí,</l>
+     <l n="3" met="0100010" rhyme="2" line_length="7">By od Němců se učil,</l>
+     <l n="4" met="0010100" rhyme="2" line_length="7">Tak to rozum poručil!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00101010" rhyme="3" line_length="8">To jen bude tomu těžší,</l>
+     <l n="6" met="10100100" rhyme="3" line_length="8">Komu oni sou Nečeší</l>
+     <l n="7" met="1010100" rhyme="4" line_length="7">Hodni jeho zhrdání.</l>
+     <l n="8" met="1010100" rhyme="4" line_length="7">Budeť bídným v zpívání.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001010" rhyme="5" line_length="8">Poznáme ho z jeho hlasu,</l>
+     <l n="10" met="00101000" rhyme="5" line_length="8">Že předc nebyl na Parnasu;</l>
+     <l n="11" met="1010100" rhyme="6" line_length="7">Jenom viděl Žižkovec,</l>
+     <l n="12" met="0100100" rhyme="6" line_length="7">Ten nemoudrý veršovec.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01000100" rhyme="7" line_length="8">Tam na blízku se napojil,</l>
+     <l n="14" met="10101010" rhyme="7" line_length="8">Potom břeště harfu strojil,</l>
+     <l n="15" met="1000100" rhyme="8" line_length="7">Aby s ní byl zpěvákem.</l>
+     <l n="16" met="0010100" rhyme="8" line_length="7">Cžím jest nadchnut? – ležákem!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

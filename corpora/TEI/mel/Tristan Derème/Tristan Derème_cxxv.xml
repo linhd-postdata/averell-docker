@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CXXV</title>
+    <author>Tristan Derème</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tristan Derème_cxxv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CXXV</title>
+     <author>Tristan Derème</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CXXV</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Sous la glycine bleue et fraîche de l'auberge.</l>
+    </lg>
+    <lg n="2">
+     <l n="2" rhyme="a" line_length="8">Songe à des rosiers verts que la foudre a brûlés.</l>
+    </lg>
+    <lg n="3">
+     <l n="3" rhyme="a" line_length="8">Avec tous les oiseaux et toutes les verdures,</l>
+    </lg>
+    <lg n="4">
+     <l n="4" rhyme="a" line_length="8">Acacia, des fleurs que t'arrache le soir ?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

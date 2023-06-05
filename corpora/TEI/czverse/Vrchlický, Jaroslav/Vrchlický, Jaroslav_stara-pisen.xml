@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>STARÁ PÍSEŇ.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_stara-pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>STARÁ PÍSEŇ.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>STARÁ PÍSEŇ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" rhyme="1" line_length="8">Chytalo dítě paprslek,</l>
+     <l n="2" met="01000101" rhyme="1" line_length="8">ten po ručkách se jemu smek,</l>
+     <l n="3" met="0101010" rhyme="2" line_length="7">dál tkal své zlaté sítě</l>
+     <l n="4" met="01000101" rhyme="3" line_length="8">a vyhledal si starou zeď,</l>
+     <l n="5" met="01010101" rhyme="3" line_length="8">tam v květy pad a travin změť –</l>
+     <l n="6" met="11010010" rhyme="2" line_length="8">Ó dítě, bláhové dítě!</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="10010100" rhyme="4" line_length="8">Chytalo dítě libelu;</l>
+     <l n="8" met="01001100" rhyme="4" line_length="8">ta na velký květ z úbělu</l>
+     <l n="9" met="0101010" rhyme="2" line_length="7">jak spona klesla hbitě;</l>
+     <l n="10" met="01010101" rhyme="5" line_length="8">tam plála, dítě za ní krok...</l>
+     <l n="11" met="01011101" rhyme="5" line_length="8">a hlubá tůň, vln chladných tok...</l>
+     <l n="12" met="11010010" rhyme="2" line_length="8">Ó dítě, bláhové dítě!</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="01000101" rhyme="6" line_length="8">Tak zpívám si, co v hruď i skráň</l>
+     <l n="14" met="01010101" rhyme="6" line_length="8">se zvolna snují, smrti v daň,</l>
+     <l n="15" met="1001010" rhyme="2" line_length="7">babího léta nítě,</l>
+     <l n="16" met="10000101" rhyme="7" line_length="8">u ztracených si zpívám cest:</l>
+     <l n="17" met="01010100" rhyme="7" line_length="8">Jen z dálky život krásný jest!</l>
+     <l n="18" met="11010010" rhyme="2" line_length="8">Ó dítě, bláhové dítě!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Elegías dulces</title>
+    <author>Delmira Agustini</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Delmira Agustini_elegias-dulces</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Elegías dulces</title>
+     <author>Delmira Agustini</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Elegías dulces</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="+--+-+---++-+-">Hoy desde el gran camino, bajo el sol claro y fuerte,</l>
+     <l n="2" met="+--+-+-+-+--+-">muda como una lágrima he mirado hacia atrás.</l>
+     <l n="3" met="--+--+--+-+-+-">Y tu voz, de mi lejos, con un olor de muerte,</l>
+     <l n="4" met="+-+++++-+-+-">vino a aullarme al oído un triste «¡Nunca más!»</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="++-+-+---+-+-">Tan triste, que he llorado hasta quedar inerte...</l>
+     <l n="6" met="++-+++--+---+-">¡Yo sé que estás tan lejos que nunca volverás!</l>
+     <l n="7" met="++---+--+---+-">No hay lágrimas que laven los besos de la Muerte...</l>
+     <l n="8" met="+--+---+--+-+-">Almas, hermanas mías, nunca miréis atrás!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+-----+-">Los pasados se cierran como los ataúdes;</l>
+     <l n="10" met="--+--+---+--+-">al otoño las hojas en dorados aludes</l>
+     <l n="11" met="+-+--+--+---+-">ruedan... y arde en los troncos la nueva floración...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+-+----+-">Las noches son caminos negros de las auroras...</l>
+     <l n="13" met="-+---+++-+--+-">Oyendo deshojarse tristemente las horas</l>
+     <l n="14" met="+--+-+-+----+-">dulces, hablemos de otras flores al corazón.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

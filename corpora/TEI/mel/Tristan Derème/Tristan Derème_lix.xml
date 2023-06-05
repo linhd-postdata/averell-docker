@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LIX</title>
+    <author>Tristan Derème</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tristan Derème_lix</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LIX</title>
+     <author>Tristan Derème</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LIX</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6−6">Vous que je vois dans la clarté des lampadaires</l>
+     <l n="2" rhyme="a" line_length="6+6">De mon rêve, héros des amours légendaires,</l>
+     <l n="3" rhyme="b" line_length="6−6">Jeunes hommes dont un cheveu lia les poings,</l>
+     <l n="4" rhyme="b" line_length="6+6">Ô vous qui roucouliez ivres en des pourpoints,</l>
+     <l n="5" rhyme="a" line_length="8+4">Redingotes, bardocuculles et chlamydes,</l>
+     <l n="6" rhyme="a" line_length="6+6">Et frôliez vos velours aux feuillages humides</l>
+     <l n="7" rhyme="b" line_length="6+6">Des clairières, vous tous que l'amour distingua,</l>
+     <l n="8" rhyme="b" line_length="6+6">Elle m'aime, et je porte un veston d'alpaga.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

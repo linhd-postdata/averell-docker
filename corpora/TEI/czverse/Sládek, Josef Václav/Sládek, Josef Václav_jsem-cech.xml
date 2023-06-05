@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JSEM ČECH!</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_jsem-cech</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JSEM ČECH!</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JSEM ČECH!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">JSEM Čech – a věřte, Čechové</l>
+     <l n="2" met="010101" rhyme="1" line_length="6">jsou dobrý, čacký lid,</l>
+     <l n="3" met="10010101" line_length="8">a kdo to říká, na svůj rod</l>
+     <l n="4" met="010100" rhyme="1" line_length="6">že nemám hrdý být?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101" line_length="8">Jak jiní mám svůj rodný kraj,</l>
+     <l n="6" met="010101" rhyme="2" line_length="6">své matky krev a řeč,</l>
+     <l n="7" met="01010101" line_length="8">jak jiní umím držet pluh</l>
+     <l n="8" met="010001" rhyme="2" line_length="6">i kladivo a meč!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010100" line_length="8">A já se v Čechách narodil</l>
+     <l n="10" met="010010" rhyme="3" line_length="6">a zůstanu, kde jsem!</l>
+     <l n="11" met="00110101" line_length="8">já též dvě zdravé ruce mám</l>
+     <l n="12" met="010101" rhyme="3" line_length="6">a srdce pro svou zem!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01000100" line_length="8">A pyšným-li kdo nad námi,</l>
+     <l n="14" met="010100" rhyme="4" line_length="6">má vlast je hrdou též:</l>
+     <l n="15" met="01010100" line_length="8">však naši také vyhráli</l>
+     <l n="16" met="010101" rhyme="4" line_length="6">tak mnohou slavnou řež!</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="01000100" line_length="8">A domov svůj si ubránil</l>
+     <l n="18" met="010101" rhyme="5" line_length="6">až do dnes věrný Čech,</l>
+     <l n="19" met="01011100" line_length="8">a dá-li Bůh, vlast uchrání</l>
+     <l n="20" met="101000" rhyme="5" line_length="6">i dál od škůdců všech!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

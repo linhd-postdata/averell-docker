@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Bílé jedle.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_bile-jedle</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Bílé jedle.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Bílé jedle.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" rhyme="1" line_length="9">Jak dívčí sny se v azur tyčí,</l>
+     <l n="2" met="01010100" rhyme="2" line_length="8">jenž kmitá v jejich korunách,</l>
+     <l n="3" met="010101010" rhyme="1" line_length="9">i v jeseň máje rozmar líčí</l>
+     <l n="4" met="10000101" rhyme="2" line_length="8">ve brusinek a vřesu nach.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101010" rhyme="3" line_length="9">Zde jistě jednou, bílé jedle,</l>
+     <l n="6" met="11010100" rhyme="4" line_length="8">dva stáli v chvilce milosti,</l>
+     <l n="7" met="000100010" rhyme="3" line_length="9">a v čem si rozuměli hnedle,</l>
+     <l n="8" met="01010100" rhyme="4" line_length="8">zpět září z vaší bělosti!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Aubade</title>
+    <author>François Coppée</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>François Coppée_aubade</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Aubade</title>
+     <author>François Coppée</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Aubade</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="7">L'Aube est bien tardive à naître.</l>
+     <l n="2" rhyme="b" line_length="7">Il a gelé cette nuit ;</l>
+     <l n="3" rhyme="a" line_length="7">Et déjà sous ta fenêtre</l>
+     <l n="4" rhyme="b" line_length="7">Mon fol amour m'a conduit.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="7">Je tremble, mais moins encore</l>
+     <l n="6" rhyme="b" line_length="7">Du froid que de ma langueur ;</l>
+     <l n="7" rhyme="a" line_length="7">Le frisson du luth sonore</l>
+     <l n="8" rhyme="b" line_length="7">Se communique à mon cœur.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="7">Ému comme un petit page,</l>
+     <l n="10" rhyme="b" line_length="7">J'attends le moment plus sûr</l>
+     <l n="11" rhyme="a" line_length="7">Où j'entendrai le tapage</l>
+     <l n="12" rhyme="b" line_length="7">De tes volets sur le mur ;</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="7">Et la minute me dure</l>
+     <l n="14" rhyme="b" line_length="7">Où m'apparaîtra soudain,</l>
+     <l n="15" rhyme="a" line_length="7">Dans son cadre de verdure,</l>
+     <l n="16" rhyme="b" line_length="7">Ton sourire du matin.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

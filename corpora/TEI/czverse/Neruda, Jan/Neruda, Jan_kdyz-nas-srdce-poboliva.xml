@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Když nás srdce pobolívá,</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_kdyz-nas-srdce-poboliva</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Když nás srdce pobolívá,</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Když nás srdce pobolívá,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101000" line_length="8">Když nás srdce pobolívá, </l>
+     <l n="2" met="100010" rhyme="1" line_length="6">náhle se kdys ztiší,</l>
+     <l n="3" met="10101000" line_length="8">stane jako v přemýšlení,</l>
+     <l n="4" met="000100" rhyme="1" line_length="6">pak zas dál pospíší.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00101010" line_length="8">Tak si srdce hraje jako</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">tiché dítě stále,</l>
+     <l n="7" met="10101010" line_length="8">chvilkou tiše – tiše stojí –</l>
+     <l n="8" met="001010" rhyme="2" line_length="6">pak zas bolí dále.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

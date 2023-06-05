@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>En Sourdine</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_en-sourdine</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>En Sourdine</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>En Sourdine</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="7">Calmes dans le demi-jour</l>
+     <l n="2" rhyme="b" line_length="7">Que les branches hautes font,</l>
+     <l n="3" rhyme="a" line_length="7">Pénétrons bien notre amour</l>
+     <l n="4" rhyme="b" line_length="7">De ce silence profond.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="7">Fondons nos âmes, nos cœurs</l>
+     <l n="6" rhyme="b" line_length="7">Et nos sens extasiés,</l>
+     <l n="7" rhyme="a" line_length="7">Parmi les vagues langueurs</l>
+     <l n="8" rhyme="b" line_length="7">Des pins et des arbousiers.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="7">Ferme tes yeux à demi,</l>
+     <l n="10" rhyme="b" line_length="7">Croise tes bras sur ton sein,</l>
+     <l n="11" rhyme="a" line_length="7">Et de ton cœur endormi</l>
+     <l n="12" rhyme="b" line_length="7">Chasse à jamais tout dessein.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="7">Laissons-nous persuader</l>
+     <l n="14" rhyme="b" line_length="7">Au souffle berceur et doux</l>
+     <l n="15" rhyme="a" line_length="7">Qui vient à tes pieds rider</l>
+     <l n="16" rhyme="b" line_length="7">Les ondes de gazon roux.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" rhyme="a" line_length="7">Et quand, solennel, le soir</l>
+     <l n="18" rhyme="b" line_length="7">Des chênes noirs tombera,</l>
+     <l n="19" rhyme="a" line_length="7">Voix de notre désespoir,</l>
+     <l n="20" rhyme="b" line_length="7">Le rossignol chantera.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

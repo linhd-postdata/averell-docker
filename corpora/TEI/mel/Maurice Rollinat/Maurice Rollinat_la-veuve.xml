@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Veuve</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_la-veuve</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Veuve</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Veuve</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="0" line_length="8">Hélas oui ! longtemps, son malheur</l>
+     <l n="2" rhyme="1" line_length="8">Lui fut prédit par ses alarmes.</l>
+     <l n="3" rhyme="0" line_length="8">Mais, par ce temps ensorceleur</l>
+     <l n="4" rhyme="0" line_length="8">De bruine dans la chaleur,</l>
+     <l n="5" rhyme="0" line_length="8">Elle pose un peu sa douleur</l>
+     <l n="6" rhyme="1" line_length="8">Comme un soldat pose ses armes.</l>
+     <l n="7" rhyme="1" line_length="8">De l'azur moite il pleut des charmes !</l>
+     <l n="8" rhyme="2" line_length="8">L'arc-en-ciel étend ses couleurs</l>
+     <l n="9" rhyme="2" line_length="8">Sur la molle extase des fleurs,</l>
+     <l n="10" rhyme="1" line_length="8">De l'eau, des frênes, et des charmes.</l>
+     <l n="11" rhyme="1" line_length="8">Et, tendrement, aux longs vacarmes</l>
+     <l n="12" rhyme="2" line_length="8">Des oiseaux plaintifs et siffleurs,</l>
+     <l n="13" rhyme="2" line_length="8">La veuve sourit dans les pleurs</l>
+     <l n="14" rhyme="1" line_length="8">Au soleil qui luit dans les larmes.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

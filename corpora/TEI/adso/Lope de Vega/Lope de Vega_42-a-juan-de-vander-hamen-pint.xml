@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- 42 - A Juan de Vander Hamen, pintor excelente </title>
+    <author>Lope de Vega</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lope de Vega_42-a-juan-de-vander-hamen-pint</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- 42 - A Juan de Vander Hamen, pintor excelente </title>
+     <author>Lope de Vega</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- 42 - A Juan de Vander Hamen, pintor excelente </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-----+---+-">Si cuando coronado de laureles</l>
+     <l n="2" met="+--+---+-+-">copias, Vander, la primavera amena,</l>
+     <l n="3" met="-+-+-+---+-">el lirio azul, la cándida azucena,</l>
+     <l n="4" met="-+---+---+-">murmura la ignorancia tus pinceles.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">Sepa la envidia, Castellano Apeles,</l>
+     <l n="6" met="-+-+---+-+-">que en un atabla de tus flores llena</l>
+     <l n="7" met="-+-+-+---+-">cantó una vez burlada Filomena,</l>
+     <l n="8" met="--+--+---+-">y cercaron abejas tus claveles.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-----+---+-">Pero si las historias vencedoras</l>
+     <l n="10" met="-+-+-+---+-">de cuanto admira en únicos pintores,</l>
+     <l n="11" met="++---+---+-">no vencen las envidias detractoras;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">y callan tus retratos sus favores,</l>
+     <l n="13" met="+--+-++--+-">vuelvan por ti, Vander, tantas Auroras</l>
+     <l n="14" met="---+---+-+-">que te coronan de tus mismas flores.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

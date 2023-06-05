@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XVIII</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_xviii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XVIII</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XVIII</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+6">Car, après tout, l’amour, n’y pensons plus,</l>
+     <l n="2" rhyme="b" line_length="6">On a fixé des vœux irrésolus,</l>
+     <l n="3" rhyme="a" line_length="4+6">On n’a plus de ces cœurs qu’il ne faut plus.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="a" line_length="6+4">On perd tranquillement l’illusion.</l>
+     <l n="5" rhyme="b" line_length="6">Et bien rare s’en fait l’occasion,</l>
+     <l n="6" rhyme="a" line_length="6+4">Mais c’est vrai qu’on n’a plus l’illusion.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="a" line_length="4+6">D’être heureux très, de par ce procédé</l>
+     <l n="8" rhyme="b" line_length="6">Point n’en réponds. (Me l’a-t-on demandé ?)</l>
+     <l n="9" rhyme="a" line_length="4+6">Très malheureux de par ce procédé :</l>
+    </lg>
+    <lg n="4">
+     <l n="10" rhyme="a" line_length="6+4">S’abstenir de désirs, se taire sur</l>
+     <l n="11" rhyme="b" line_length="6">C’est, croyez-moi, sans doute le plus sûr</l>
+     <l n="12" rhyme="a" line_length="4+6">S’abstenir de désirs, se taire sur :</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

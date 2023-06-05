@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VÍRA</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_vira</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VÍRA</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VÍRA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101000100" rhyme="1" line_length="10">Když první krůpěje se zatřesou</l>
+     <l n="2" met="11000101000" rhyme="2" line_length="11">v skel, na západ jež vedou, blyskotání,</l>
+     <l n="3" met="0100010100" rhyme="1" line_length="10">když loučení se vssává do prsou</l>
+     <l n="4" met="01010101010" rhyme="2" line_length="11">a jako soumrak stesk se vůkol sklání,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010100" rhyme="3" line_length="10">přec večer dýchá mírem neděle,</l>
+     <l n="6" met="01000101000" rhyme="4" line_length="11">přec rozlévá se píseň Na shledanou.</l>
+     <l n="7" met="0101010100" rhyme="3" line_length="10">Když městem šumí smrti andělé,</l>
+     <l n="8" met="01000101010" rhyme="4" line_length="11">my věříme, že mrtví z hrobu vstanou,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0100010101" rhyme="5" line_length="10">a do mraků když zapad’ slunce vůz,</l>
+     <l n="10" met="01000101010" rhyme="6" line_length="11">my radujem se, děti, starci, muži,</l>
+     <l n="11" met="0100010101" rhyme="5" line_length="10">že po noci, jež bude plna hrůz,</l>
+     <l n="12" met="01010101010" rhyme="6" line_length="11">nám východ hodí v okno kytku růží.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

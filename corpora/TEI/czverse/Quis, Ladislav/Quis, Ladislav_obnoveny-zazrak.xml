@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Obnovený zázrak.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_obnoveny-zazrak</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Obnovený zázrak.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Obnovený zázrak.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101000" rhyme="1" line_length="6">Trouby u Jericha</l>
+     <l n="2" met="1000101" rhyme="2" line_length="7">pobořily městskou zeď.</l>
+     <l n="3" met="101010" rhyme="1" line_length="6">Zvěst ta není lichá,</l>
+     <l n="4" met="0010001010" rhyme="1" line_length="10">vždyť se o takových divech slýchá</l>
+     <l n="5" met="1010100" rhyme="2" line_length="7">v Čechách často ještě teď.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

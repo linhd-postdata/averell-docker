@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VODA.</title>
+    <author>Theer, Otakar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">21</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Theer, Otakar_voda</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VODA.</title>
+     <author>Theer, Otakar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VODA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010" line_length="5">Sladká a lstivá</l>
+     <l n="2" met="1001" rhyme="1" line_length="4">duše jak žen</l>
+     <l n="3" met="10010" line_length="5">řítíš se, vlno,</l>
+     <l n="4" met="1001" rhyme="1" line_length="4">krajkovím pěn.</l>
+     <l n="5" met="1001" rhyme="2" line_length="4">Stříkej a huč,</l>
+     <l n="6" met="1001" rhyme="2" line_length="4">srdce mi zmuč</l>
+     <l n="7" met="10010010" rhyme="3" line_length="8">dravou a vábnou svou písní!</l>
+    </lg>
+    <lg n="2">
+     <l n="8" met="10010" line_length="5">Divoká v horách,</l>
+     <l n="9" met="1001" rhyme="4" line_length="4">tiše co dech</l>
+     <l n="10" met="10010" line_length="5">omýváš města</l>
+     <l n="11" met="1001" rhyme="4" line_length="4">špinavý břeh.</l>
+     <l n="12" met="1000" rhyme="5" line_length="4">Vezmi si, vem’</l>
+     <l n="13" met="1001" rhyme="5" line_length="4">bláto i šlem,</l>
+     <l n="14" met="10010010" rhyme="3" line_length="8">všechno, co dusí a tísní!</l>
+    </lg>
+    <lg n="3">
+     <l n="15" met="10010" line_length="5">Pokleknu, přijmu</l>
+     <l n="16" met="1001" rhyme="6" line_length="4">od tebe křest,</l>
+     <l n="17" met="10010" line_length="5">nabudu síly</l>
+     <l n="18" met="1001" rhyme="6" line_length="4">hoře své nést.</l>
+     <l n="19" met="1000" rhyme="7" line_length="4">Odejdu tam,</l>
+     <l n="20" met="0100" rhyme="7" line_length="4">kde lze být sám,</l>
+     <l n="21" met="11010010" rhyme="3" line_length="8">v kraj, který duch můj si vysní.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

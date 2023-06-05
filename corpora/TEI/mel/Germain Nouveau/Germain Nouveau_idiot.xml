@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Idiot</title>
+    <author>Germain Nouveau</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Germain Nouveau_idiot</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Idiot</title>
+     <author>Germain Nouveau</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Idiot</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Nous lisons dans Legrand du Saulle</l>
+     <l n="2" rhyme="b" line_length="8">Que le crétin a du goût pour</l>
+     <l n="3" rhyme="a" line_length="8">L’arithmétique… tiens ! c’est drôle !</l>
+     <l n="4" rhyme="b" line_length="8">Et la musique… du tambour.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Qu’il a du goût pour la peinture ;</l>
+     <l n="6" rhyme="b" line_length="8">J’en ai fait… pas… beaucoup, beaucoup,</l>
+     <l n="7" rhyme="a" line_length="8">Mais Henri Laujol s’aventure</l>
+     <l n="8" rhyme="b" line_length="8">Jusqu’à me trouver quelque goût.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">J’aime beaucoup l’arithmétique ;</l>
+     <l n="10" rhyme="b" line_length="8">Ne disons pas cela trop haut ;</l>
+     <l n="11" rhyme="a" line_length="8">Mais la musique ! Oh ! la musique !</l>
+     <l n="12" rhyme="b" line_length="8">Je suis peut-être un idiot.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">Cependant, je vis tout de même,</l>
+     <l n="14" rhyme="b" line_length="8">Je ne m’en porte pas plus mal,</l>
+     <l n="15" rhyme="a" line_length="8">Et puis… quand c’est Vous que l’on aime,</l>
+     <l n="16" rhyme="b" line_length="8">Se croire idiot… serait mal.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" rhyme="a" line_length="8">Et j’embrasse Legrand du Saulle</l>
+     <l n="18" rhyme="b" line_length="8">Pour n’avoir pas dit qu’un crétin</l>
+     <l n="19" rhyme="a" line_length="8">Peut faire en vers planter un saule</l>
+     <l n="20" rhyme="b" line_length="8">Bien connu du Quartier Latin.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

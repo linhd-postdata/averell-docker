@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L'ÉCREVISSE</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_l-ecrevisse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L'ÉCREVISSE</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L'ÉCREVISSE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Elle voyage à sa façon</l>
+     <l n="2" rhyme="b" line_length="8">Autour d'un petit rocher maigre ;</l>
+     <l n="3" rhyme="b" line_length="8">Son ruisseau, chuchoteur allègre.</l>
+     <l n="4" rhyme="a" line_length="8">Est caché par un grand buisson.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Tandis qu'un merle polisson</l>
+     <l n="6" rhyme="b" line_length="8">Raille un pivert à la voix aigre,</l>
+     <l n="7" rhyme="a" line_length="8">Elle voyage à sa façon</l>
+     <l n="8" rhyme="b" line_length="8">Autour d'un petit rocher maigre.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Et, lente comme un limaçon,</l>
+     <l n="10" rhyme="b" line_length="8">Noire comme la peau d'un nègre,</l>
+     <l n="11" rhyme="b" line_length="8">Narguant le poivre et le vinaigre,</l>
+     <l n="12" rhyme="a" line_length="8">Et le rouge de la cuisson,</l>
+     <l n="13" rhyme="a" line_length="8">Elle voyage à sa façon.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

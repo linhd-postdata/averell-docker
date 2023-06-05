@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Mateo Vázquez de Leca</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mateo Vázquez de Leca_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Mateo Vázquez de Leca</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-----+-">¡Cuerpo de Dios! Leandro enternecido!</l>
+     <l n="2" met="+--+++-+-+-">¡Cuánto mejor te fuera haber pasado</l>
+     <l n="3" met="-+---+-+-+-">en barcos de la vez el mar salado,</l>
+     <l n="4" met="-+-+-+---+-">que no pasar a nado desde Abido!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+++--+-+-+-">¿No te fuera mejor haber vivido,</l>
+     <l n="6" met="-+-+---+-+-">y a pies enjutos tu mujer gozado,</l>
+     <l n="7" met="-+-+-+---+-">y no llegar a Sesto resfriado</l>
+     <l n="8" met="---+-+---+-">en la primera noche de marido?</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++++-+---+-">No son tan necios otros amadores,</l>
+     <l n="10" met="-+-------+-">que pasan a Triana de Sevilla</l>
+     <l n="11" met="+--+---+-+-">todas las noches en barquetes nuevos.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+---+-">Buen aliño tuvieron tus amores:</l>
+     <l n="13" met="+-+--+---+-">Tú pasado por agua. Hero en tortilla,</l>
+     <l n="14" met="--+-+--+-+-">y cenóse el diablo el par de huevos.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

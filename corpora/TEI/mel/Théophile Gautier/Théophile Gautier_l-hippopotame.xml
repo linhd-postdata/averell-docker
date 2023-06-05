@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L'HIPPOPOTAME</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_l-hippopotame</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L'HIPPOPOTAME</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L'HIPPOPOTAME</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">L'hippopotame au large ventre</l>
+     <l n="2" rhyme="b" line_length="8">Habite aux Jungles de Java,</l>
+     <l n="3" rhyme="a" line_length="8">Où grondent, au fond de chaque antre,</l>
+     <l n="4" rhyme="b" line_length="8">Plus de monstres qu'on n'en rêva.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Le boa se déroule et siffle,</l>
+     <l n="6" rhyme="b" line_length="8">Le tigre fait son hurlement,</l>
+     <l n="7" rhyme="a" line_length="8">Le buffle en colère renifle,</l>
+     <l n="8" rhyme="b" line_length="8">Lui dort ou paît tranquillement.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Il ne craint ni kriss ni zagaies,</l>
+     <l n="10" rhyme="b" line_length="8">Il regarde l'homme sans fuir,</l>
+     <l n="11" rhyme="a" line_length="8">Et rit des balles des cipayes</l>
+     <l n="12" rhyme="b" line_length="8">Qui rebondissent sur son cuir.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">Je suis comme l'hippopotame :</l>
+     <l n="14" rhyme="b" line_length="8">De ma conviction couvert,</l>
+     <l n="15" rhyme="a" line_length="8">Forte armure que rien n'entame,</l>
+     <l n="16" rhyme="b" line_length="8">Je vais sans peur par le désert.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

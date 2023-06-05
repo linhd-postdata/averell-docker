@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Povzdechy.</title>
+    <author>Šmilovský, Alois Vojtěch</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Šmilovský, Alois Vojtěch_povzdechy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Povzdechy.</title>
+     <author>Šmilovský, Alois Vojtěch</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Povzdechy.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" line_length="6">Bože můj, bože můj,</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">jaké máme časy:</l>
+     <l n="3" met="100100" line_length="6">na polích nezrají,</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">více plné klasy!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100" line_length="6">Máku dost, charpy dost</l>
+     <l n="6" met="100010" rhyme="2" line_length="6">heřmánku až bílo,</l>
+     <l n="7" met="100100" line_length="6">žaludek kazí se,</l>
+     <l n="8" met="011010" rhyme="2" line_length="6">kdy chuť není v dílo.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100100" line_length="6">Bože můj, smutných jsme</l>
+     <l n="10" met="100010" rhyme="3" line_length="6">dočkali se časů,</l>
+     <l n="11" met="100100" line_length="6">hrůza je dívat se</l>
+     <l n="12" met="101010" rhyme="3" line_length="6">na tu naši chasu;</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100100" line_length="6">práce jí nevoní,</l>
+     <l n="14" met="100100" rhyme="4" line_length="6">nedbá si osení,</l>
+     <l n="15" met="100100" line_length="6">o lásce zpívá si</l>
+     <l n="16" met="100100" rhyme="4" line_length="6">a přec se nežení.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="100100" line_length="6">Jestli to půjde tak,</l>
+     <l n="18" met="101010" rhyme="5" line_length="6">budem asi míti</l>
+     <l n="19" met="100100" line_length="6">na místě obilí</l>
+     <l n="20" met="101010" rhyme="5" line_length="6">samé plané kvítí!</l>
+    </lg>
+    <lg n="6">
+     <l n="21" met="100100" line_length="6">Myli to přečkáme,</l>
+     <l n="22" met="001010" rhyme="6" line_length="6">je mně synů líto:</l>
+     <l n="23" met="100100" line_length="6">ubozí nebudou</l>
+     <l n="24" met="101010" rhyme="6" line_length="6">míti na chléb žito!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

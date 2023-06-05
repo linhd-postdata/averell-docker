@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Lípa na návsi.</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_lipa-na-navsi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Lípa na návsi.</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Lípa na návsi.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Ta stará lípa na návsi</l>
+     <l n="2" met="10010100" rhyme="1" line_length="8">mohla by mnoho pověděť,</l>
+     <l n="3" met="01010100" line_length="8">co pod ní každý svatvečer</l>
+     <l n="4" met="01000101" rhyme="1" line_length="8">se naveselí mladý svět.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" line_length="8">A jak se všecko promění,</l>
+     <l n="6" met="01010100" rhyme="2" line_length="8">než lípa voněť přestane:</l>
+     <l n="7" met="01010100" line_length="8">co mladých párků namluví</l>
+     <l n="8" met="01000100" rhyme="2" line_length="8">a za sebe se dostane.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000100" rhyme="3" line_length="8">Tam dědeček i babička</l>
+     <l n="10" met="01000100" rhyme="3" line_length="8">a otec můj i matička</l>
+     <l n="11" met="10010100" line_length="8">a já a jiných na tisíc</l>
+     <l n="12" met="01000100" rhyme="3" line_length="8">svá zasnoubili srdíčka! –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

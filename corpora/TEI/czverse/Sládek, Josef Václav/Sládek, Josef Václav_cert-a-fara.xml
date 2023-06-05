@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Čert a fara.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_cert-a-fara</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Čert a fara.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Čert a fara.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100" line_length="7">Šel se ďábel podívat</l>
+     <l n="2" met="010010" rhyme="1" line_length="6">tu a tam zas do vsi,</l>
+     <l n="3" met="1010100" line_length="7">aby viděl, pro peklo</l>
+     <l n="4" met="001010" rhyme="1" line_length="6">jak mu rostou ovsy.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1000100" line_length="7">Do kostela nezašel,</l>
+     <l n="6" met="001010" rhyme="2" line_length="6">tam on málo patří,</l>
+     <l n="7" met="1010100" rhyme="3" line_length="7">krčmy za to nestály, –</l>
+     <l n="8" met="000010" rhyme="2" line_length="6">tam se už s ním bratří.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010100" line_length="7">Ale v úctě na faře</l>
+     <l n="10" met="101010" rhyme="4" line_length="6">ptal se, jak se daří. –</l>
+     <l n="11" met="1010101" line_length="7">„Jaká fara, taká ves,“</l>
+     <l n="12" met="001000" rhyme="4" line_length="6">čet’ v svém breviaři.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="0010100" rhyme="3" line_length="7">Tam, kde čerta vítali</l>
+     <l n="14" met="100010" rhyme="5" line_length="6">pozdravením Páně,</l>
+     <l n="15" met="1000100" line_length="7">ovísek jak náleží</l>
+     <l n="16" met="101010" rhyme="5" line_length="6">skoupil v jedné ráně.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="0010100" line_length="7">Kde však rázný Jemnostpán</l>
+     <l n="18" met="100010" rhyme="6" line_length="6">zaklel si naň s hůry,</l>
+     <l n="19" met="0010100" line_length="7">co byl živ, mu nepřišel</l>
+     <l n="20" met="110000" rhyme="6" line_length="6">ďas do kolatury.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

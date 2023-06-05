@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nemohu-li spáti,</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_nemohu-li-spati</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nemohu-li spáti,</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nemohu-li spáti,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" line_length="6">Nemohu-li spáti, </l>
+     <l n="2" met="101000" rhyme="1" line_length="6">brousím epigramy;</l>
+     <l n="3" met="100010" line_length="6">nerušte mi spaní,</l>
+     <l n="4" met="100010" rhyme="1" line_length="6">škodíte si sami!</l>
+     <l n="5" met="101010" rhyme="2" line_length="6">Umím šípy vracet:</l>
+     <l n="6" met="101000" rhyme="2" line_length="6">Za noc pětadvacet!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

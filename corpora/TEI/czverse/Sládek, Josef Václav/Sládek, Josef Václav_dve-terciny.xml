@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dvě terciny.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">7</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_dve-terciny</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dvě terciny.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dvě terciny.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100010" rhyme="1" line_length="11">Z propastí noci táhlo mne to vzhůru</l>
+     <l n="2" met="00010010010" rhyme="2" line_length="11">vždy výš’ a výše, blíž ku světla zdroji,</l>
+     <l n="3" met="00010110010" rhyme="1" line_length="11">až slech’ jsem z dálky zpěv andělských kůrů.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="01010111010" rhyme="2" line_length="11">Však noci stín a stesk zbyl v duši mojí,</l>
+     <l n="5" met="11010100010" rhyme="3" line_length="11">dar země, z ráje vyhostěné matky;</l>
+     <l n="6" met="01000101010" rhyme="2" line_length="11">těm v ráji byl jsem cizí; – k matce svojí,</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="11000101010" rhyme="3" line_length="11">prach do prachu, se mlčky vracím zpátky.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

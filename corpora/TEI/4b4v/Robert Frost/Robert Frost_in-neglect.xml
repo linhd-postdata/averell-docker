@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>In Neglect</title>
+    <author>Robert Frost</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Robert Frost_in-neglect</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>For Better For Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>In Neglect</title>
+     <author>Robert Frost</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>In Neglect</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="quintain">
+     <l n="1" met="-+-+--+-+">They leave us so to the way we took,</l>
+     <l n="2" met="-+-+--+-+(-)"> As two in whom they were provedmistaken,</l>
+     <l n="3" met="--+-+--+-+">That we sit sometimes in the wayside nook,</l>
+     <l n="4" met="-+--+--+-+">With mis chievous, vagrant, seraphic look, </l>
+     <l n="5" met="-+--+-+-+(-)"> And try if we cannot feel forsaken.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

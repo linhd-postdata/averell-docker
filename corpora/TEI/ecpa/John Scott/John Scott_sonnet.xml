@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SONNET.</title>
+    <author>John Scott</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>John Scott_sonnet</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Eighteenth Century Poetry Archive</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SONNET.</title>
+     <author>John Scott</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SONNET.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="pentameter">
+     <l n="1" met="-+|-+|-+|-+|-+" line_length="10">OF Adverse Fortune gentle Shenstone 'plain'd,</l>
+     <l n="2" met="-+|-+|-+|-+|-+" line_length="10">The liberal soul, the taste that Nature gave;</l>
+     <l n="3" met="-+|-+|-+|-+|-+" line_length="10">In narrow bounds her partial hand restrain'd,</l>
+     <l n="4" met="-+|-+|-+|-+|-+" line_length="10">But pour'd profusion on the titled slave:</l>
+    </lg>
+    <lg n="2" stanza_type="pentameter">
+     <l n="5" met="-+|-+|-+|-+|-+" line_length="10">Like his my lot, alike by me disdain'd</l>
+     <l n="6" met="-+|-+|-+|-+|-+" line_length="10">The pomp of courts, one only boon I crave,</l>
+     <l n="7" met="-+|-+|-+|-+|-+" line_length="10">O'er my fields fair as those Elysian feign'd,</l>
+     <l n="8" met="-+|-+|-+|-+|-+" line_length="10">To bid the green walk wind, the green wood wave;</l>
+    </lg>
+    <lg n="3" stanza_type="pentameter">
+     <l n="9" met="-+|-+|-+|-+|-+" line_length="10">On the high hill to raise the higher tower,</l>
+     <l n="10" met="-+|-+|-+|-+|-+" line_length="10">To ope wide prospects over distant plains,</l>
+     <l n="11" met="-+|-+|-+|-+|-+" line_length="10">Where by broad rivers, towns, and villa's rise;</l>
+     <l n="12" met="-+|-+|-+|-+|-+" line_length="10">Taste prompts the wish, but Fortune bounds the power,</l>
+     <l n="13" met="-+|-+|-+|-+|-+" line_length="10">Yet while Health chears, and Competence sustains,</l>
+     <l n="14" met="-+|-+|-+|-+|-+" line_length="10">These more than all Contentment bids me prize.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

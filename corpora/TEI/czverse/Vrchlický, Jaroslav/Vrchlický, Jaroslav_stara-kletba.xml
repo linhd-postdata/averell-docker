@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Stará kletba.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_stara-kletba</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Stará kletba.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Stará kletba.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101010" rhyme="1" line_length="11">Na žití našem stará kletba leží,</l>
+     <l n="2" met="01000101010" rhyme="2" line_length="11">jež otravuje každý cit a chtění,</l>
+     <l n="3" met="01000101000" rhyme="2" line_length="11">ji tušíme, snad její vyslovení</l>
+     <l n="4" met="01010101010" rhyme="1" line_length="11">by draka sklálo ve prach, jenž ji střeží.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000101010" rhyme="1" line_length="11">Jak hromovitý úder zvonu svěží</l>
+     <l n="6" met="01010101000" rhyme="2" line_length="11">by signal vlastí letl v okamžení:</l>
+     <l n="7" met="11010001010" rhyme="2" line_length="11">Dech síly, volnosti! „Již kletby není,</l>
+     <l n="8" met="01000101000" rhyme="1" line_length="11">jež držela nás věky na otěži!“</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0100001100" rhyme="3" line_length="10">Však vyslovit ji! Jak princ z pohádky</l>
+     <l n="10" met="01010100010" rhyme="4" line_length="11">kdo myslí, cítí, obchází kol bledý,</l>
+     <l n="11" met="11010001010" rhyme="5" line_length="11">pěst vztekem zatíná neb hyne v pláči.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="0101010100" rhyme="3" line_length="10">A kletby kouzlo trvá, ve zmatky,</l>
+     <l n="13" met="01010001010" rhyme="4" line_length="11">jež houstnou v neprostupný oblak šedý,</l>
+     <l n="14" met="11000101010" rhyme="5" line_length="11">žhnou výsměchem a šklebem oči dračí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

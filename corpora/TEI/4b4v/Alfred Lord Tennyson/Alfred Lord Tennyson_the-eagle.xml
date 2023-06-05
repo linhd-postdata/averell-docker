@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>The Eagle</title>
+    <author>Alfred Lord Tennyson</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred Lord Tennyson_the-eagle</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>For Better For Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>The Eagle</title>
+     <author>Alfred Lord Tennyson</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>The Eagle</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="tercet">
+     <l n="1" met="-+-+-+-+">He clasps the crag with crooked hands;</l>
+     <l n="2" met="+--+-+-+">Close to the sun in lonely lands,</l>
+     <l n="3" met="+--+-+-+">Ringed with the azure world, he stands.</l>
+    </lg>
+    <lg n="2" stanza_type="tercet">
+     <l n="4" met="-+-+-+-+">The wrinkled sea beneath him crawls;</l>
+     <l n="5" met="-+-+-+-+">He watches from his mountain walls,</l>
+     <l n="6" met="+--+-+-+|-+-+-+-+">And like a thunderbolt he falls.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

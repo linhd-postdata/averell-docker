@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kritik</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_kritik</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kritik</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kritik</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100010" line_length="7">Být rozprouděn jak řeka;</l>
+     <l n="2" met="0101001" rhyme="1" line_length="7">a klenout přes sebe most.</l>
+     <l n="3" met="01010010" line_length="8">Být v prorvách doma i v horstvech;</l>
+     <l n="4" met="01001001" rhyme="1" line_length="8">a všude se tvářit jak host.</l>
+     <l n="5" met="10010010" line_length="8">V poznatků sluje se vrývat;</l>
+     <l n="6" met="0101000" rhyme="1" line_length="7">a nemít na žádném dost.</l>
+     <l n="7" met="01010010" line_length="8">A jedno jediné neznat:</l>
+     <l n="8" met="10000" rhyme="1" line_length="5">blaseovanost.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

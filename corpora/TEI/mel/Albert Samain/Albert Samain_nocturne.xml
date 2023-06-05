@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NOCTURNE</title>
+    <author>Albert Samain</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Albert Samain_nocturne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NOCTURNE</title>
+     <author>Albert Samain</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NOCTURNE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Nuit d'été. — Sous le ciel de lapis-lazuli,</l>
+     <l n="2" rhyme="b" line_length="6+6">Le parc enchanté baigne en des ténèbres molles.</l>
+     <l n="3" rhyme="b" line_length="6+6">Les fleurs rêvent, l'amour se parfume aux corolles.</l>
+     <l n="4" rhyme="a" line_length="6+6">Tiède, la lune monte au firmament pâli.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Ce soir, fête à Bergame au palais Lanzoli !</l>
+     <l n="6" rhyme="b" line_length="6+6">Les couples enlacés descendent des gondoles.</l>
+     <l n="7" rhyme="b" line_length="6+6">Le bal s'ouvre, étoilé de roses girandoles.</l>
+     <l n="8" rhyme="a" line_length="6+6">Flûte et cordes, l'orchestre est conduit par Luli.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Les madrigaux parmi les robes essaimées</l>
+     <l n="10" rhyme="c" line_length="6+6">Offrent, la lèvre en cœur, leurs fadeurs sublimées ;</l>
+     <l n="11" rhyme="d" line_length="6+6">Et, sur le glacis d'or des parquets transparents,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Les caillettes Régence, exquisement vieillottes,</l>
+     <l n="13" rhyme="e" line_length="6+6">Détaillent la langueur savante des gavottes</l>
+     <l n="14" rhyme="d" line_length="6+6">Au rythme parfumé des éventails mourants.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

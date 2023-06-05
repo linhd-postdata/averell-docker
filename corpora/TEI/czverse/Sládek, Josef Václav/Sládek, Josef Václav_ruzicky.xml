@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Růžičky.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_ruzicky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Růžičky.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Růžičky.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1100100" line_length="7">Dvě růžičky červené</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">kvetou podle sebe,</l>
+     <l n="3" met="1001100" line_length="7">nad nimi dva motýlky,</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">modré jako nebe.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0010100" line_length="7">Kam se jeden obrátí,</l>
+     <l n="6" met="001010" rhyme="2" line_length="6">tam se druhý točí, –</l>
+     <l n="7" met="1001100" line_length="7">nejsou to dva motýlky,</l>
+     <l n="8" met="011010" rhyme="2" line_length="6">jsou dvě modré oči.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1001100" line_length="7">Nejsou to dvě růžičky</l>
+     <l n="10" met="100010" rhyme="3" line_length="6">porozkvetlé v jaře,</l>
+     <l n="11" met="0100100" line_length="7">to našeho děťátka</l>
+     <l n="12" met="100010" rhyme="3" line_length="6">růžové jsou tváře.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

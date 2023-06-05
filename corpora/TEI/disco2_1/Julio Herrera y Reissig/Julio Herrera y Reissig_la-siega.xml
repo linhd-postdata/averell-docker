@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La siega</title>
+    <author>Julio Herrera y Reissig</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Julio Herrera y Reissig_la-siega</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La siega</title>
+     <author>Julio Herrera y Reissig</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La siega</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+-+----+-">La mocedad que acude, briosa de las campañas,</l>
+     <l n="2" met="--+--+-+----+-">a los mutuos apremios, puja a las maravillas:</l>
+     <l n="3" met="+----+-+----+-">Ellos, los mocetones torvos, con las guadañas,</l>
+     <l n="4" met="+----+-+----+-">y ellas con las tijeras fáciles, en cuclillas...</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+-+-+--+-">Unos apilan mieses, otros atan gavillas,</l>
+     <l n="6" met="+-+--+-+----+-">muchos juegan o comen tortas en las cabañas,</l>
+     <l n="7" met="-----+-+----+-">mientras el vecindario pobre de las orillas</l>
+     <l n="8" met="-+---+-+----+-">espiga en los rastrojos mustios y entre las cañas.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+-+---+-+-+-">Hacia la era, inválidos, bajo una gloria de oro,</l>
+     <l n="10" met="-+--+----+--+-">vacilan los vehículos en su viaje sonoro...</l>
+     <l n="11" met="+--+-+-+----+-">Cien rapazuelos llueven ágiles sus guijarros,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-----+-+----+-">en medio de estridentes júbilos de ludibrio,</l>
+     <l n="13" met="-+---+-+----+-">y al fin, restableciendo todos el equilibrio,</l>
+     <l n="14" met="+----+-+----+-">fáciles sabandijas, cuélganse de los carros.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

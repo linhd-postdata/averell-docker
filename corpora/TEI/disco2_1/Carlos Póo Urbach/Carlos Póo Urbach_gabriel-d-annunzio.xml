@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Gabriel D'Annunzio</title>
+    <author>Carlos Póo Urbach</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Carlos Póo Urbach_gabriel-d-annunzio</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Gabriel D'Annunzio</title>
+     <author>Carlos Póo Urbach</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Gabriel D'Annunzio</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+-+--+-+-">Gabriel D'Annunzio una visión hermosa</l>
+     <l n="2" met="---+-+---+-">en sus ensueños mágicos persigue,</l>
+     <l n="3" met="---+---+++-">sin que el temor a lo espectral le obligue</l>
+     <l n="4" met="---+-+---+-">a desandar la ruta fatigosa.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">Por región ignorada y tenebrosa</l>
+     <l n="6" met="-+-+-+-+++-">con brioso ardor y loco afán la sigue,</l>
+     <l n="7" met="---++--+-+-">y aprisionarla, triunfador, consigue</l>
+     <l n="8" met="--+--+---+-">en la red deslumbrante de su prosa.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">En éxtasis de sacro arrobamiento</l>
+     <l n="10" met="--+--+---+-">la hermosura ideal de su conquista</l>
+     <l n="11" met="--+--+-+-+-">con intensa embriaguez admira absorto,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">y al hallar la belleza, el sufrimiento</l>
+     <l n="13" met="--+--+---+-">la emoción de su júbilo conquista</l>
+     <l n="14" met="+--+---+++-">viendo que el plazo de la vida es corto.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

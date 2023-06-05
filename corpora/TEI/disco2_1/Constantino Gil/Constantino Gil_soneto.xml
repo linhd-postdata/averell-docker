@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Constantino Gil</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Constantino Gil_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Constantino Gil</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+++-+-">Yo confieso, Señor, que es gran pecado</l>
+     <l n="2" met="+---+-+--+-">este de amar el fruto prohibido;</l>
+     <l n="3" met="--++-+-+-+-">pero tú sabes bien que no he cedido</l>
+     <l n="4" met="---+-+---+-">sino al caer sin fuerzas, hechizado.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+----+-+-+-">Tú, que mi corazón habrás mirado,</l>
+     <l n="6" met="-+-+++---+-">podrás haberlo visto arrepentido.</l>
+     <l n="7" met="++-+-+-+-+-">Yo no pequé, Señor, perdí el sentido</l>
+     <l n="8" met="--+--+++-+-">y al cobrar la razón me vi manchado.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+-+--++-">Flaca es la pobre carne que me diste.</l>
+     <l n="10" met="+-+--+-+-+-">Torpe el alma también, pues no refrena</l>
+     <l n="11" met="-+---+-+-+-">al bruto que por cárcel le pusiste,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--++--+-">débil lazo a las dos las encadena</l>
+     <l n="13" met="+++--+-+++-">todo es débil, Señor, así lo hiciste,</l>
+     <l n="14" met="+-+--++--+-">¿cómo vas a imponer fuerte la pena?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

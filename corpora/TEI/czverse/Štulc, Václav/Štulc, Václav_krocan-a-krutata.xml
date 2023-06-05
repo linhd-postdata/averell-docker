@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Krocan a krůťata.</title>
+    <author>Štulc, Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Štulc, Václav_krocan-a-krutata</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Krocan a krůťata.</title>
+     <author>Štulc, Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Krocan a krůťata.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101010" rhyme="1" line_length="10">„Slyšte, děti, co vám otec praví:</l>
+     <l n="2" met="0100101010" rhyme="1" line_length="10">Vy musíte hezké míti mravy,</l>
+     <l n="3" met="1000101000" rhyme="2" line_length="10">Nesluší vám křik a hudrování,</l>
+     <l n="4" met="1011000110" rhyme="2" line_length="10">Ale tvář veselá a smích na ní.</l>
+     <l n="5" met="101010100" rhyme="3" line_length="9">Nechte lerma, křiku, pravím vám,</l>
+     <l n="6" met="001010100" rhyme="3" line_length="9">Sic se na vás hnedky rozhněvám.“</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="001010100" rhyme="4" line_length="9">V tom tu na dvůr přišel náhodou</l>
+     <l n="8" met="101100100" rhyme="4" line_length="9">Kýsi hoch s čepicí červenou,</l>
+     <l n="9" met="001010100" rhyme="5" line_length="9">Tu se krocan hrozně rozhněval,</l>
+     <l n="10" met="101010100" rhyme="5" line_length="9">Dupal, křičel a zle hudroval.</l>
+     <l n="11" met="0100101010" rhyme="6" line_length="10">Než hoch se mu vysmál: „Odkud pane,</l>
+     <l n="12" met="0100" rhyme="6" line_length="4">náš krocane,</l>
+     <l n="13" met="1001100010" rhyme="7" line_length="10">Taková zlost ve vás hned se vzala,</l>
+     <l n="14" met="0000101000" rhyme="7" line_length="10">Co pak vám ta čepka udělala?“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

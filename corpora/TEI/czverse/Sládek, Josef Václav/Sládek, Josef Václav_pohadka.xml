@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>POHÁDKA.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_pohadka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>POHÁDKA.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>POHÁDKA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010010" rhyme="1" line_length="10">JEN ještě jednou zašeptni v duši,</l>
+     <l n="2" met="10010" rhyme="2" line_length="5">pohádko stará, –</l>
+     <l n="3" met="10010001010" rhyme="1" line_length="11">o štěstí zbloudilém kdes v lesní hluši,</l>
+     <l n="4" met="10010" rhyme="2" line_length="5">o květu jara.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010010010" rhyme="3" line_length="11">O štěstí zlákaném bludnými světly,</l>
+     <l n="6" met="10010" rhyme="4" line_length="5">o květu zvadlém,</l>
+     <l n="7" met="10010010010" rhyme="3" line_length="11">o snech, jež podryty dříve, než zkvetly,</l>
+     <l n="8" met="10010" rhyme="4" line_length="5">života rádlem.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010010010" rhyme="5" line_length="11">Zněla’s tak podivně, sladce a snivě,</l>
+     <l n="10" met="11010" rhyme="6" line_length="5">jas dětský v zraku,</l>
+     <l n="11" met="10010001010" rhyme="5" line_length="11">k srdci se tulila, až náhle divě</l>
+     <l n="12" met="11010" rhyme="6" line_length="5">mráz dechnul z mraku.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1001010010" rhyme="7" line_length="10">Do krbu hledím, popel se sněží</l>
+     <l n="14" met="10010" rhyme="8" line_length="5">v plaménků šlehu;</l>
+     <l n="15" met="0001010010" rhyme="7" line_length="10">kde as to štěstí zbloudilé leží</l>
+     <l n="16" met="10010" rhyme="8" line_length="5">zaváté v sněhu! –</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="0001010010" rhyme="9" line_length="10">Kdo mi to šeptá, čelo mi chladí?</l>
+     <l n="18" met="01010" rhyme="10" line_length="5">To líc tak jasná!</l>
+     <l n="19" met="0001010010" rhyme="9" line_length="10">Jak’s mi to přišla, pohádko mládí,</l>
+     <l n="20" met="10010" rhyme="10" line_length="5">bledá a krásná!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

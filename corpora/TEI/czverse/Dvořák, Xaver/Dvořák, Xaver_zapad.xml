@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ZÁPAD.</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_zapad</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ZÁPAD.</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ZÁPAD.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010010" rhyme="1" line_length="10">Dívám se v západ – v krvavé moře!</l>
+     <l n="2" met="1001010010" rhyme="2" line_length="10">brzy juž půjde tajným tím brodem</l>
+     <l n="3" met="1011010010" rhyme="1" line_length="10">duše má, světlo plající spoře,</l>
+     <l n="4" met="1001010010" rhyme="2" line_length="10">zhrdajíc vášní divokým hodem.</l>
+     <l n="5" met="1001011010" rhyme="1" line_length="10">Sestoupí v brány tmy nebo zoře.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="1001010010" rhyme="3" line_length="10">Padání listí šumí v mé snění</l>
+     <l n="7" met="1001010110" rhyme="4" line_length="10">tesknou svou píseň beze slov tichou;</l>
+     <l n="8" met="1001010010" rhyme="3" line_length="10">cítím tu vůni smrti a tlení,</l>
+     <l n="9" met="1001010010" rhyme="4" line_length="10">vrší se vrší života líchou.</l>
+     <l n="10" met="1001010000" rhyme="3" line_length="10">Drama mé! – Čekám na dokončení.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

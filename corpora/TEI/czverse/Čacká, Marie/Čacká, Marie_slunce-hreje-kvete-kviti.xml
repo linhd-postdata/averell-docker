@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Slunce hřeje, květe kvítí,</title>
+    <author>Čacká, Marie</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čacká, Marie_slunce-hreje-kvete-kviti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Slunce hřeje, květe kvítí,</title>
+     <author>Čacká, Marie</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Slunce hřeje, květe kvítí,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Slunce hřeje, květe kvítí, </l>
+     <l n="2" met="00101010" rhyme="1" line_length="8">Já si budu věnec víti,</l>
+     <l n="3" met="101010" rhyme="2" line_length="6">Z prostých kvítků veských,</l>
+     <l n="4" met="100010" rhyme="2" line_length="6">Voňavých a hezkých.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10100100" rhyme="3" line_length="8">Hola hoši! než uvadne,</l>
+     <l n="6" met="00000100" rhyme="3" line_length="8">Kdo si ho z vás dřív popadne:</l>
+     <l n="7" met="100100" rhyme="4" line_length="6">Hezoučký Jenečku!</l>
+     <l n="8" met="101000" rhyme="4" line_length="6">Měj se ku věnečku!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

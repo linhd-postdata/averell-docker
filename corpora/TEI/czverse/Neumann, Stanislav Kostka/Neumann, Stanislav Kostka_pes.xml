@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pes.</title>
+    <author>Neumann, Stanislav Kostka</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neumann, Stanislav Kostka_pes</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pes.</title>
+     <author>Neumann, Stanislav Kostka</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pes.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1100010" rhyme="1" line_length="7">Pes žíznivý se vleče</l>
+     <l n="2" met="1001000" rhyme="2" line_length="7">pustinou korridorů,</l>
+     <l n="3" met="0101010" rhyme="1" line_length="7">kde stoka nudy teče</l>
+     <l n="4" met="0101010" rhyme="2" line_length="7">a páchne dechem moru.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0100010" rhyme="3" line_length="7">A zimnice jej trápí,</l>
+     <l n="6" met="1101010" rhyme="2" line_length="7">žár s mrazem v stálém sporu,</l>
+     <l n="7" met="0101010" rhyme="3" line_length="7">a lačen světla stápí</l>
+     <l n="8" met="0101000" rhyme="2" line_length="7">se do tmy korridorů.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101010" rhyme="4" line_length="7">Jen stěny, stěny, stěny...!</l>
+     <l n="10" met="0101010" rhyme="4" line_length="7">Tak věčně beze změny</l>
+     <l n="11" met="010101" rhyme="5" line_length="6">ty chodby táhnou tmou.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="1100010" rhyme="6" line_length="7">Pes bezmocně se třesa</l>
+     <l n="13" met="0101010" rhyme="6" line_length="7">kdes v koutě znaven klesá. –</l>
+     <l n="14" met="010100" rhyme="5" line_length="6">A pes ten – duší mou.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

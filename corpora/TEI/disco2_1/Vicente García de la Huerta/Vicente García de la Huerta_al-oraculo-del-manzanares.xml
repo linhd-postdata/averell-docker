@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Al oráculo del Manzanares</title>
+    <author>Vicente García de la Huerta</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vicente García de la Huerta_al-oraculo-del-manzanares</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Al oráculo del Manzanares</title>
+     <author>Vicente García de la Huerta</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Al oráculo del Manzanares</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+----+---+-">Vierte sus abundancias Amaltea</l>
+     <l n="2" met="--+--++--+-">sobre el suelo español, Ceres ufana</l>
+     <l n="3" met="-+-+---+-+-">las trojes llena y la codicia insana</l>
+     <l n="4" met="---+-+---+-">del labrador, por ávido que sea.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-----+-">Vuela la paz, y en tanto que recrea</l>
+     <l n="6" met="-+-+---+-+-">a Europa su ocio, la nación hispana</l>
+     <l n="7" met="---+-+---+-">en castigar la audacia Mauritania</l>
+     <l n="8" met="-+-+---+-+-">su celo ejerce y su valor emplea.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">Los astros que faltaban a la esfera</l>
+     <l n="10" met="--++---+-+-">y robó el cielo al carpetano suelo</l>
+     <l n="11" met="-+++---+-+-">resarce hoy Luisa a la región ibera</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">en uno y otro cándido gemelo.</l>
+     <l n="13" met="-+---+-+-+-">¡Oh, qué felicidad si estable fuera!</l>
+     <l n="14" met="-++-++---+-">¡Pues qué! ¿No basta un géminis al cielo?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

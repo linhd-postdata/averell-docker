@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Las almas tristes</title>
+    <author>Manuel Reina</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel Reina_las-almas-tristes</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Las almas tristes</title>
+     <author>Manuel Reina</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Las almas tristes</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---+-">Yo amo las tristes almas dolorosas</l>
+     <l n="2" met="--+--++--+-">que la intensa amargura ha devorado:</l>
+     <l n="3" met="-+---+---+-">el valle, por la lava calcinado,</l>
+     <l n="4" met="++-+---+-+-">da ricas vides y fragantes rosas.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+---+-">¡Lejos de mí las risas bulliciosas!</l>
+     <l n="6" met="---+-+---+-">¡Lejos de mí el placer emponzoñado!</l>
+     <l n="7" met="+++--+-+-+-">Yo amé siempre el dolor, raudal sagrado</l>
+     <l n="8" met="--+--+---+-">de purísimas lágrimas hermosas.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+++-++-+-+-">Triste es todo lo grande, noble y fuerte,</l>
+     <l n="10" met="-+---+---+-">el libro de la Historia, los Profetas,</l>
+     <l n="11" met="--+--+---+-">los abismos, los templos seculares.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+---+-">Tétrico es el amor como la muerte,</l>
+     <l n="13" met="+----+---+-">lúgubre el corazón de los poetas,</l>
+     <l n="14" met="-+-+---+-+-">y amargos son los dilatados mares.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

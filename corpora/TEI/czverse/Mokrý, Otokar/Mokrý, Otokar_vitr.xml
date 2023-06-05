@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vítr.</title>
+    <author>Mokrý, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mokrý, Otokar_vitr</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vítr.</title>
+     <author>Mokrý, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vítr.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010" line_length="7">Ten vítr hučí venku</l>
+     <l n="2" met="010100" rhyme="1" line_length="6">a běsně burácí –</l>
+     <l n="3" met="0101010" line_length="7">v něm duše jako stéblo</l>
+     <l n="4" met="010100" rhyme="1" line_length="6">se zmítá, potácí. –</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010" line_length="7">Zda novou spoustu vnese? –</l>
+     <l n="6" met="010100" rhyme="2" line_length="6">zda obzor očistí? –</l>
+     <l n="7" met="0100010" line_length="7">zda požehnání vduje? –</l>
+     <l n="8" met="010100" rhyme="2" line_length="6">zda kletbou zasvistí?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101010" line_length="7">Tou bědnou zemí českou</l>
+     <l n="10" met="110100" rhyme="3" line_length="6">zlá skučí vichřice –</l>
+     <l n="11" met="1001010" line_length="7">zalétá v každou chatku</l>
+     <l n="12" met="100100" rhyme="3" line_length="6">divoká vánice. – –</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="0101010" line_length="7">Až retem jejím v humně</l>
+     <l n="14" met="010100" rhyme="4" line_length="6">se pleva oddělí, –</l>
+     <l n="15" met="1101010" line_length="7">dejž Bůh, když jenom přehouš</l>
+     <l n="16" met="110100" rhyme="4" line_length="6">zrn zlatých zbude-li.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Prší.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_prsi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Prší.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Prší.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">Prší, prší, jen se leje!</l>
+     <l n="2" met="10100100" rhyme="1" line_length="8">a ty nechceš dál? I co že?</l>
+     <l n="3" met="00101000" line_length="8">toť si měl vzíť do ranečku</l>
+     <l n="4" met="10100010" rhyme="1" line_length="8">také pohovku a lože.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01100110" line_length="8">Kdo chce do hor, ten jdi přímo,</l>
+     <l n="6" met="10101010" rhyme="2" line_length="8">nedbej, zda ho deštík splaví,</l>
+     <l n="7" met="10001010" line_length="8">hospody-li není, dobrá,</l>
+     <l n="8" met="10001010" rhyme="2" line_length="8">mandele to také spraví.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="00101010" line_length="8">Těch-li není více v poli,</l>
+     <l n="10" met="10101000" rhyme="3" line_length="8">k stromu vejdi na pažití,</l>
+     <l n="11" met="00101010" line_length="8">ten tě aspoň z jedné strany</l>
+     <l n="12" met="10101010" rhyme="3" line_length="8">vlastním tělem bude krýti.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01001010" line_length="8">A není-li stromu kolem,</l>
+     <l n="14" met="00101010" rhyme="4" line_length="8">dál, než bude pršeť více,</l>
+     <l n="15" met="10001010" line_length="8">v oči-li ti liják pere,</l>
+     <l n="16" met="10101010" rhyme="4" line_length="8">v jinou stranu obrať líce.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="00101010" line_length="8">Což je na tom! V horách budiž</l>
+     <l n="18" met="10101010" rhyme="5" line_length="8">duch i srdce v klidné shodě.</l>
+     <l n="19" met="10101010" line_length="8">Lepšíť v dešti zlatá volnosť</l>
+     <l n="20" met="01001000" rhyme="5" line_length="8">než otroctví na hospodě.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

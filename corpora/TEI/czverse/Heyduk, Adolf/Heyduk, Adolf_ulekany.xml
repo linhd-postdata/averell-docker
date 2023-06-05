@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ulekány.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_ulekany</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ulekány.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ulekány.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110100010" rhyme="1" line_length="9">V snech lesních při omšené skále</l>
+     <l n="2" met="01010100" rhyme="2" line_length="8">se píseň snesla v duši mou,</l>
+     <l n="3" met="010101000" rhyme="1" line_length="9">a touže chvíli nenadále</l>
+     <l n="4" met="11010100" rhyme="2" line_length="8">zjev srnky stanul přede mnou.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="110101010" rhyme="3" line_length="9">Zrak obou všecko vůkol zlatí,</l>
+     <l n="6" met="11001100" rhyme="4" line_length="8">zrak srnčin a zrak písně též,</l>
+     <l n="7" met="010001000" rhyme="3" line_length="9">leč nemoh’ jsem se otázati:</l>
+     <l n="8" met="01001001" rhyme="4" line_length="8">zkad přišla’s ty a ty kam jdeš?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101000" rhyme="5" line_length="9">I stojím, myslím, možno je-li,</l>
+     <l n="10" met="01010100" rhyme="6" line_length="8">by sestry obě byly snad;</l>
+     <l n="11" met="010101010" rhyme="5" line_length="9">v tom družka družce v oči zřely</l>
+     <l n="12" met="01000100" rhyme="6" line_length="8">a lekly se a prchly ztad.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

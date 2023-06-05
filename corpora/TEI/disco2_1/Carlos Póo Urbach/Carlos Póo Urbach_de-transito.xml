@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>De tránsito</title>
+    <author>Carlos Póo Urbach</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Carlos Póo Urbach_de-transito</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>De tránsito</title>
+     <author>Carlos Póo Urbach</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>De tránsito</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-++--+-+-">Yo vengo de un país que el sol inflama</l>
+     <l n="2" met="--+--+---+-">con su lluvia de ardiente pedrería,</l>
+     <l n="3" met="--+--+---+-">que en regueros lumínicos envía</l>
+     <l n="4" met="-+-+---+-+-">de su ígneo disco la caldeada llama.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+---+-">Donde susurra lánguida la rama</l>
+     <l n="6" met="-+---+---+-">del árbol de los sueños su elegía,</l>
+     <l n="7" met="--+--+---+-">y sus notas de rítmica armonía</l>
+     <l n="8" met="---+-+---+-">en los delirios pálidos derrama.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">Allí a través de mágico espejismo,</l>
+     <l n="10" met="-+-+-+---+-">descúbrese del sacro misticismo</l>
+     <l n="11" met="-+---+---+-">el séquito de goces ideales;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">y vírgenes de cándida hermosura</l>
+     <l n="13" met="--+--+---+-">engendrando en el alma la locura</l>
+     <l n="14" met="--+--+---+-">profetizan las dichas celestiales.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

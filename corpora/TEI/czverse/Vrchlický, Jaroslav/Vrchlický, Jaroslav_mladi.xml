@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MLÁDÍ.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_mladi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MLÁDÍ.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MLÁDÍ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010" rhyme="1" line_length="7">Z fijalek modrých zraků,</l>
+     <l n="2" met="0100110" rhyme="2" line_length="7">jež prosebně zří z trávy,</l>
+     <l n="3" met="1001010" rhyme="1" line_length="7">z plujících, bílých mraků,</l>
+     <l n="4" met="1001000" rhyme="2" line_length="7">táhnoucích do dálavy;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1100010" rhyme="3" line_length="7">z vrb pučícího proutí</l>
+     <l n="6" met="0100010" rhyme="4" line_length="7">a z konvalinek, bezu,</l>
+     <l n="7" met="1101010" rhyme="3" line_length="7">z vln, jejichž val se hroutí</l>
+     <l n="8" met="1001010" rhyme="4" line_length="7">v démantů tříšti s jezu;</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1000110" rhyme="5" line_length="7">ze vzduchu, kde pták zpívá,</l>
+     <l n="10" met="0101010" rhyme="6" line_length="7">kde první motýl těká;</l>
+     <l n="11" met="1001010" rhyme="5" line_length="7">ze stráně, která snivá</l>
+     <l n="12" met="1000110" rhyme="6" line_length="7">na kukačky ples čeká.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="0001010" rhyme="7" line_length="7">Ba i z tvé vlastní hrudi,</l>
+     <l n="14" met="0100010" rhyme="8" line_length="7">kde podzimek juž řádí,</l>
+     <l n="15" met="1001010" rhyme="7" line_length="7">se s písní štěstí budí</l>
+     <l n="16" met="0100010" rhyme="8" line_length="7">a volá tě – tvé mládí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

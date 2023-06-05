@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- CLV - </title>
+    <author>Fernando de Herrera</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fernando de Herrera_clv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- CLV - </title>
+     <author>Fernando de Herrera</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- CLV - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+-++-+-+-">Cuando miro el fino oro al manso viento</l>
+     <l n="2" met="--+--+---+-">en lucientes rieles esparcido,</l>
+     <l n="3" met="--+--+---+-">o en hermosas lazadas recogido,</l>
+     <l n="4" met="++-+-+---+-">mil causas justas hallo a mi tormento.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+-+-+-">Cuando la llama y luz de puro aliento</l>
+     <l n="6" met="--++-+---+-">rutilar veo en torno, y que el vencido</l>
+     <l n="7" met="+-+--+---+-">pecho tiene en su fuego convertido,</l>
+     <l n="8" met="++-+-+-+-+-">mil causas justas hallo al mal que siento.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Cuando escucho la angélica armonía</l>
+     <l n="10" met="-+--++---+-">y admiro el valor vuestro y gentileza,</l>
+     <l n="11" met="++-+-+---+-">mil causas hallo justas a serviros.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-----+-+-+-">Mas cuando en la humildad contemplo mía</l>
+     <l n="13" met="---+-+---+-">y en vuestro dulce afecto y su nobleza,</l>
+     <l n="14" met="++-+-+-+-+-">no hallo causa justa a más suspiros.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

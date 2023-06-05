@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ZÍTRA.</title>
+    <author>Procházka, František Serafínský</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Procházka, František Serafínský_zitra</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ZÍTRA.</title>
+     <author>Procházka, František Serafínský</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ZÍTRA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10000100" line_length="8">Zítra je to, co není dnes</l>
+     <l n="2" met="01001001010" rhyme="1" line_length="11">a nebude za dvakrát dvanáct hodin,</l>
+     <l n="3" met="01010100" line_length="8">co krutou svízel způsobit</l>
+     <l n="4" met="01010010010" rhyme="1" line_length="11">však může pannám i z nejlepších rodin.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

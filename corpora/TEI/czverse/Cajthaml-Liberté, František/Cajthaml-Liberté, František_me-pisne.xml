@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mé písně.</title>
+    <author>Cajthaml-Liberté, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cajthaml-Liberté, František_me-pisne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mé písně.</title>
+     <author>Cajthaml-Liberté, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mé písně.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101010" rhyme="1" line_length="11">O nocích, plných tuch a vášní lásky</l>
+     <l n="2" met="1001010100" rhyme="2" line_length="10">nižádná píseň nezní z lyry mé,</l>
+     <l n="3" met="10110101010" rhyme="1" line_length="11">na děv rty rudé nezřím, zlaté vlásky,</l>
+     <l n="4" met="1010010100" rhyme="2" line_length="10">ani na barvy nebes hýřivé.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01011001010" rhyme="3" line_length="11">Kam jdu – vždy jdu po těžké černé zemi,</l>
+     <l n="6" met="1001010100" rhyme="4" line_length="10">napité krví, vzdechy bratrů mých,</l>
+     <l n="7" met="10110100110" rhyme="3" line_length="11">a kde hněv hledám, najdu jen strach němý</l>
+     <l n="8" met="0101000101" rhyme="4" line_length="10">a všude provází mne zpupný smích.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="11010101010" rhyme="5" line_length="11">Oh, lyru slabou chtěl bych složit stranou</l>
+     <l n="10" met="0101100101" rhyme="6" line_length="10">a polnic hlas na poplach nechat znít,</l>
+     <l n="11" met="10010101010" rhyme="5" line_length="11">šlapané lidství vzbudit jednou ranou,</l>
+     <l n="12" met="1001010001" rhyme="6" line_length="10">s tyrany svými naposled se bít!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

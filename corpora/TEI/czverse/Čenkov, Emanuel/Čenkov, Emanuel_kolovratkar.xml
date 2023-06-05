@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kolovrátkář.</title>
+    <author>Čenkov, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čenkov, Emanuel_kolovratkar</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kolovrátkář.</title>
+     <author>Čenkov, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kolovrátkář.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" rhyme="1" line_length="11">Vždy přijde denně v dusný dvůr a stmělý,</l>
+     <l n="2" met="0101000100" rhyme="2" line_length="10">když vzejde podvečerní hodina,</l>
+     <l n="3" met="01000101010" rhyme="1" line_length="11">a přehraje svých písní program celý,</l>
+     <l n="4" met="0100010100" rhyme="2" line_length="10">jenž arií tak smutnou počíná.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010001010" rhyme="3" line_length="11">V tom táhle vzdychavém a žalném zvuku</l>
+     <l n="6" met="1101010100" rhyme="4" line_length="10">čtu celou sudbu trpkou dumavě:</l>
+     <l n="7" met="11010001010" rhyme="3" line_length="11">stroj pákou urval mu kdys pravou ruku,</l>
+     <l n="8" met="0101010100" rhyme="4" line_length="10">když jat byl spánkem v noční únavě.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="11010011000" rhyme="5" line_length="11">Skříň hrací koupil mu pán milostivý,</l>
+     <l n="10" met="0101000100" rhyme="6" line_length="10">pak dostal povolení úřadu;</l>
+     <l n="11" met="01000100010" rhyme="5" line_length="11">tak se ženou se toulavě teď živí</l>
+     <l n="12" met="0100010100" rhyme="6" line_length="10">a zruší mi vždy klidnou náladu.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10010101010" rhyme="7" line_length="11">Nedávno ze vsi přišlá služka zpívá</l>
+     <l n="14" met="1001010100" rhyme="6" line_length="10">na dlažbě vlhké šedých kamenů...</l>
+     <l n="15" met="01010001010" rhyme="7" line_length="11">Jeť pro ni útěchou ta píseň snivá</l>
+     <l n="16" met="1001010101" rhyme="6" line_length="10">ve rmutné řadě všedních, dlouhých dnů.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

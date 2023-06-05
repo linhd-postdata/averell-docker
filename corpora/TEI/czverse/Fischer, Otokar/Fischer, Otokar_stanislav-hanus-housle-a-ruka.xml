@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Stanislav Hanuš, Housle a ruka</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_stanislav-hanus-housle-a-ruka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Stanislav Hanuš, Housle a ruka</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Stanislav Hanuš, Housle a ruka</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010001" line_length="6">Jsem vzpomínavá síň,</l>
+     <l n="2" met="0111000" rhyme="1" line_length="7">kde hra zní delikátní,</l>
+     <l n="3" met="010100" line_length="6">jsem šerá komnata,</l>
+     <l n="4" met="010100" rhyme="2" line_length="6">kam vstoupil hudebník.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="110100" line_length="6">Tluc křídlem, vzpomínko,</l>
+     <l n="6" met="1100010" rhyme="1" line_length="7">sne v polotemnu, zlátni,</l>
+     <l n="7" met="010101" line_length="6">dál hudbo ve mně zvuč – – –.</l>
+     <l n="8" met="010101" rhyme="2" line_length="6">A smyčci, smyčci dík!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dva stíny.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_dva-stiny</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dva stíny.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dva stíny.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100010100" rhyme="1" line_length="10">Kdys ulicí jsem kráčel, tu jsem zhled’ –</l>
+     <l n="2" met="01010101010" rhyme="2" line_length="11">(byl večer, sporé lampy mhou se chvěly) –</l>
+     <l n="3" met="11010101010" rhyme="2" line_length="11">dva stíny u svých nohou, jeden ztmělý</l>
+     <l n="4" met="0101010100" rhyme="1" line_length="10">a světlý druhý; tento hnul se v před,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010000" rhyme="1" line_length="10">jak s druhým zápas zoufalý by ved’,</l>
+     <l n="6" met="01100101010" rhyme="2" line_length="11">ač krok za krokem stejně se mnou spěly,</l>
+     <l n="7" met="11001001000" rhyme="2" line_length="11">sáh nad stromy, které se rozšuměly,</l>
+     <l n="8" met="0101000100" rhyme="1" line_length="10">a jako obr se až k hvězdám zved’.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101000" rhyme="3" line_length="11">A druhý menší, tmavší, pohodlně</l>
+     <l n="10" met="01000101010" rhyme="3" line_length="11">se po dlažbě vlek’ v kalné bláta vlně;</l>
+     <l n="11" met="11010101110" rhyme="4" line_length="11">má bytost v těchto stínech dvou, hle, celá!</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="01000101010" rhyme="5" line_length="11">Toť ideál – toť všední život, hmota!</l>
+     <l n="13" met="01010101010" rhyme="4" line_length="11">a duše má v těch stínech s bázní zřela</l>
+     <l n="14" met="11010101100" rhyme="5" line_length="11">jít Sancha Panzu vedle Don Quixota.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

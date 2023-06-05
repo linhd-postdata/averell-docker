@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PASTEL</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_pastel</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PASTEL</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PASTEL</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+6">J'aime à vous voir en vos cadres ovales,</l>
+     <l n="2" rhyme="b" line_length="4+6">Portraits jaunis des belles du vieux temps,</l>
+     <l n="3" rhyme="a" line_length="4+6">Tenant en main des roses un peu pâles,</l>
+     <l n="4" rhyme="b" line_length="4+6">Comme il convient à des fleurs de cent ans.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="4+6">Le vent d'hiver, en vous touchant la joue,</l>
+     <l n="6" rhyme="b" line_length="4+6">A fait mourir vos œillets et vos lis,</l>
+     <l n="7" rhyme="a" line_length="4+6">Vous n'avez plus que des mouches de boue</l>
+     <l n="8" rhyme="b" line_length="4+6">Et sur les quais vous gisez tout salis.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="4+6">Il est passé le doux règne des belles ;</l>
+     <l n="10" rhyme="b" line_length="4+6">La Parabère avec la Pompadour</l>
+     <l n="11" rhyme="a" line_length="4+6">Ne trouveraient que des sujets rebelles,</l>
+     <l n="12" rhyme="b" line_length="4+6">Et sous leur tombe est enterré l'amour.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="4+6">Vous, cependant, vieux portraits qu'on oublie,</l>
+     <l n="14" rhyme="b" line_length="4+6">Vous respirez vos bouquets sans parfums,</l>
+     <l n="15" rhyme="a" line_length="4+6">Et souriez avec mélancolie</l>
+     <l n="16" rhyme="b" line_length="4+6">Au souvenir de vos galants défunts.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

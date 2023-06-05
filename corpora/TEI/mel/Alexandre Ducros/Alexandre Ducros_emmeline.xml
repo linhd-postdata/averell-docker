@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Emmeline</title>
+    <author>Alexandre Ducros</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alexandre Ducros_emmeline</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Emmeline</title>
+     <author>Alexandre Ducros</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Emmeline</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Eh quoi ! tu veux, Mademoiselle,</l>
+     <l n="2" rhyme="b" line_length="8">Que pour toi je fasse des vers ?</l>
+     <l n="3" rhyme="b" line_length="8">Déjà près de cinquante hivers</l>
+     <l n="4" rhyme="a" line_length="8">Ont un peu refroidi mon zèle ;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">La plume tremble entre mes doigts,</l>
+     <l n="6" rhyme="b" line_length="8">Qui laissent retomber la plume…</l>
+     <l n="7" rhyme="a" line_length="8">Mais tu commandes et je dois</l>
+     <l n="8" rhyme="b" line_length="8">Faire que mon feu se rallume.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Tant mieux ! — Je vais, quelques instants,</l>
+     <l n="10" rhyme="b" line_length="8">Chauffer, dans une pure ivresse,</l>
+     <l n="11" rhyme="a" line_length="8">Mes hémistiches grelottants</l>
+     <l n="12" rhyme="b" line_length="8">Aux gais rayons de ta jeunesse.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">Car voici déjà que j'entends</l>
+     <l n="14" rhyme="b" line_length="8">Un carillon qui sonne, sonne,</l>
+     <l n="15" rhyme="a" line_length="8">Les Matines de ton printemps</l>
+     <l n="16" rhyme="b" line_length="8">Sur les Vêpres de mon automne !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

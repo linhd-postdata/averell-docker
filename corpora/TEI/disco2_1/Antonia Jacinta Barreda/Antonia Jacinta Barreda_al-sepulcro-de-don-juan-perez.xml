@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Al sepulcro de don Juan Pérez de Montalbán</title>
+    <author>Antonia Jacinta Barreda</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Antonia Jacinta Barreda_al-sepulcro-de-don-juan-perez</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Al sepulcro de don Juan Pérez de Montalbán</title>
+     <author>Antonia Jacinta Barreda</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Al sepulcro de don Juan Pérez de Montalbán</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-++-++-+-+-">Aquí vive, aquí muere, aquí renace,</l>
+     <l n="2" met="-+-+-+-+-+-">aquí desmaya, y triunfa, aquí animado</l>
+     <l n="3" met="---+-+---+-">hasta los mismos Cielos levantado</l>
+     <l n="4" met="+--+---+-+-">este que humilde por la tierra yace.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+---+-">Aquí a la fiera muerte satisface</l>
+     <l n="6" met="-+-+-+---+-">de nueva vida, y gloria coronado,</l>
+     <l n="7" met="+--+-+---+-">este cadáver vivo sepultado,</l>
+     <l n="8" met="-+-+---+-+-">que Sol fulgente de su sombra nace.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++---+---+-">No llore pues el alma enternecida,</l>
+     <l n="10" met="-+++--++-+-">que no s justo llorar tan feliz muerte</l>
+     <l n="11" met="---+-+---+-">en su gloriosa fama divertida.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+-+-+-">Cántese la victoria al Joven fuerte,</l>
+     <l n="13" met="-+-+-+-+-+-">que aquí la muerte, no venció a la vida,</l>
+     <l n="14" met="---+-+-+-+-">sino la vida aquí venció a la muerte.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

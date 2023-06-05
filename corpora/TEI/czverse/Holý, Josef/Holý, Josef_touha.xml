@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>TOUHA</title>
+    <author>Holý, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Holý, Josef_touha</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>TOUHA</title>
+     <author>Holý, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>TOUHA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="111000101010" rhyme="1" line_length="12">Znám květ zářivý, jenž v mračnech jenom bují,</l>
+     <l n="2" met="10100010001" rhyme="2" line_length="11">mžikem rozsvítí a zanikne jak blesk,</l>
+     <l n="3" met="101000101000" rhyme="1" line_length="12">v dálku oblačnou tam za ním poputuji</l>
+     <l n="4" met="10001" rhyme="2" line_length="5">vytesknit svůj stesk.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="001010101010" rhyme="3" line_length="12">Je vše marno, vím, však duše silně žádá,</l>
+     <l n="6" met="10000010100" rhyme="4" line_length="11">nedočkavě již se chystá k rozletu:</l>
+     <l n="7" met="101000100010" rhyme="3" line_length="12">blesk mne zapálí a v odevzdání ráda</l>
+     <l n="8" met="10100" rhyme="4" line_length="5">zemru, odkvetu.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="101010101010" rhyme="5" line_length="12">Květy bílé dva, ten prvý v tvůrčím snění,</l>
+     <l n="10" met="10100010100" rhyme="6" line_length="11">s ohněm zavřeným ten druhý nad světem</l>
+     <l n="11" met="101000101000" rhyme="5" line_length="12">věčně prahneme a dálkou odloučení</l>
+     <l n="12" met="10100" rhyme="6" line_length="5">planě odkvetem.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

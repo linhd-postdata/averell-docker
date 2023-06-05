@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mlhy.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_mlhy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mlhy.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mlhy.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" rhyme="1" line_length="11">Jak Faust je viděl cválat v divém trysku</l>
+     <l n="2" met="10010001010" rhyme="2" line_length="11">na Blocksberg stržemi a tesy vzhůru,</l>
+     <l n="3" met="11000101010" rhyme="2" line_length="11">hnát nestydatý sotva halen v chmuru</l>
+     <l n="4" met="01010101000" rhyme="1" line_length="11">se mihnout v sítin hustém třasavisku.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10000100010" rhyme="1" line_length="11">Za plameny, jež zhasínaly v písku,</l>
+     <l n="6" met="11010100010" rhyme="2" line_length="11">hra stínů, sterou napodobíc stvůru,</l>
+     <l n="7" met="01010101000" rhyme="2" line_length="11">se táhly jako šmouhy po azuru</l>
+     <l n="8" met="10010001000" rhyme="1" line_length="11">přes hrany menhirů a obelisků.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="11010101010" rhyme="3" line_length="11">Děl každý klidně: To jsou mlhy šeré;</l>
+     <l n="10" met="01010100010" rhyme="4" line_length="11">leč oko přece hádalo v nich více</l>
+     <l n="11" met="01010101000" rhyme="5" line_length="11">než pouhé charé mlhy podjeseně.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="01010001010" rhyme="3" line_length="11">A stále měnily se v tvary steré,</l>
+     <l n="13" met="10010101000" rhyme="4" line_length="11">Medusy, Strigy, Gorgy, kouzelnice,</l>
+     <l n="14" met="01000101010" rhyme="5" line_length="11">co zbývá vše, když mládí vzato ženě.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

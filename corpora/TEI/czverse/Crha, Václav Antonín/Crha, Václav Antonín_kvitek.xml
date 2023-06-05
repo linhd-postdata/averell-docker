@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kvítek.</title>
+    <author>Crha, Václav Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Crha, Václav Antonín_kvitek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kvítek.</title>
+     <author>Crha, Václav Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kvítek.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1100110" line_length="7">Znám překrásné dva kvítky,</l>
+     <l n="2" met="100100" rhyme="1" line_length="6">růžinku s lilií,</l>
+     <l n="3" met="0100010" line_length="7">k jich slávě to jen schází,</l>
+     <l n="4" met="010100" rhyme="1" line_length="6">že květ jim pomíjí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001010" line_length="7">Povadne jejich krása</l>
+     <l n="6" met="100101" rhyme="2" line_length="6">za mnohý krátký den,</l>
+     <l n="7" met="1001010" line_length="7">a to mi v srdci věstí,</l>
+     <l n="8" met="000100" rhyme="2" line_length="6">že jim jsem podoben.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1001010" line_length="7">Pomíjí všecka krása,</l>
+     <l n="10" met="101100" rhyme="3" line_length="6">kterou zná marnivost,</l>
+     <l n="11" met="0101010" line_length="7">jen krása duší dobrých</l>
+     <l n="12" met="100100" rhyme="3" line_length="6">trvá až na věčnost.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

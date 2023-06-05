@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dvojí hrom.</title>
+    <author>Pokorný, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">11</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný, Rudolf_dvoji-hrom</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dvojí hrom.</title>
+     <author>Pokorný, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dvojí hrom.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001100100" rhyme="1" line_length="10">Burácí hrom ze skrýší oblaků</l>
+     <l n="2" met="0101010100" rhyme="1" line_length="10">a proudy tekou dolů ze mraků,</l>
+     <l n="3" met="1001010100" rhyme="2" line_length="10">a když se blesky v zápas utkají,</l>
+     <l n="4" met="1001010100" rhyme="2" line_length="10">na zemi hrůzou stromy padají</l>
+     <l n="5" met="010100010100" rhyme="2" line_length="12">a lidé prchají a skály pukají.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="0101010100" rhyme="3" line_length="10">Však jaký hrom to dole burácí,</l>
+     <l n="7" met="0101000100" rhyme="3" line_length="10">když národ k vědomí se navrací!</l>
+     <l n="8" met="1100010101" rhyme="4" line_length="10">Blesk rozpoutaný počne z těla rvát</l>
+     <l n="9" met="1001010100" rhyme="4" line_length="10">tyranům bídná srdce napořád,</l>
+     <l n="10" met="1101001001" rhyme="4" line_length="10">zem sdupe nad nimi ve hrozný mlat,</l>
+     <l n="11" met="1001010100" rhyme="3" line_length="10">na němž zas trůny staví – junáci!...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

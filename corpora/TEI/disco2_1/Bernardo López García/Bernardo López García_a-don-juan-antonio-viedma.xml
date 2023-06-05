@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A don Juan Antonio Viedma</title>
+    <author>Bernardo López García</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Bernardo López García_a-don-juan-antonio-viedma</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A don Juan Antonio Viedma</title>
+     <author>Bernardo López García</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A don Juan Antonio Viedma</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">Sigue, cantor; de tu inspirada mente</l>
+     <l n="2" met="+--+---+-+-">brote en raudales el cantar sonoro;</l>
+     <l n="3" met="+--+---+-+-">pulsa la lira, que en sus cuerdas de oro</l>
+     <l n="4" met="-+-+---+-+-">refleja audaz tu inspiración potente.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">Sigue, cantor, porque tu canto ardiente</l>
+     <l n="6" met="-+-+---+-+-">llevando al alma celestial tesoro,</l>
+     <l n="7" met="-+---++--+-">arranca al corazón risas y lloro;</l>
+     <l n="8" met="+--+---+-+-">llena de gloria la entusiasta frente.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+-+-">Sigue; que al Bardo que con dulce vuelo</l>
+     <l n="10" met="++-+-+---+-">cruza este charco mísero y profundo</l>
+     <l n="11" met="-+-+---+-+-">brindando al alma celestial consuelo.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+-+-+-">Dios lo levanta de este mar inmundo</l>
+     <l n="13" met="-+-+-----+-">y le hace llegue con la frente al cielo,</l>
+     <l n="14" met="---+---+-+-">desde su indigno pedestal el Mundo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jiří z Lobkovic.</title>
+    <author>Kalaš, Josef V.</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalaš, Josef V._jiri-z-lobkovic</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jiří z Lobkovic.</title>
+     <author>Kalaš, Josef V.</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jiří z Lobkovic.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000100" rhyme="1" line_length="7">Jiříku náš z Poděbrad,</l>
+     <l n="2" met="1000100" rhyme="1" line_length="7">škoda je tě nastokrát,</l>
+     <l n="3" met="10001010" rhyme="2" line_length="8">vyplenil jsi v Čechách býlí,</l>
+     <l n="4" met="10100010" rhyme="2" line_length="8">po tvé smrti zas je vsili.</l>
+     <l n="5" met="1010100" rhyme="3" line_length="7">Nyní máme Jiříka,</l>
+     <l n="6" met="0010100" rhyme="3" line_length="7">ten nás v kutny oblíká;</l>
+     <l n="7" met="10100010" rhyme="4" line_length="8">groše pro papeže sbírá</l>
+     <l n="8" met="1000100" rhyme="5" line_length="7">v katolické jednotě,</l>
+     <l n="9" met="00101010" rhyme="4" line_length="8">kdy pak bude plná míra</l>
+     <l n="10" met="1010100" rhyme="5" line_length="7">oné římské lakotě?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

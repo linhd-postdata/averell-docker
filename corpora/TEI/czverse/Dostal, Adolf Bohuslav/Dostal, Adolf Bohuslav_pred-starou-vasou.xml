@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PŘED STAROU VÁSOU.</title>
+    <author>Dostal, Adolf Bohuslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostal, Adolf Bohuslav_pred-starou-vasou</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PŘED STAROU VÁSOU.</title>
+     <author>Dostal, Adolf Bohuslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PŘED STAROU VÁSOU.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101010" rhyme="1" line_length="9">Na staré váse malba stará</l>
+     <l n="2" met="10010100" rhyme="2" line_length="8">o hravých láskách vypráví,</l>
+     <l n="3" met="100101010" rhyme="1" line_length="9">o dávno zhaslém slunci jara,</l>
+     <l n="4" met="01010100" rhyme="2" line_length="8">než věk náš přišel zdlouhavý.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100101010" rhyme="3" line_length="9">Úsměvy jakés v bledém chvění</l>
+     <l n="6" met="010001010" rhyme="3" line_length="9">jak svítily by do mých snění.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="010100010" rhyme="4" line_length="9">A loutky melodie stichlá</l>
+     <l n="8" met="010101010" rhyme="4" line_length="9">mi kdesi v hloubce duše vzdychla.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

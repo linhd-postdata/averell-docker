@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>OSUD.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_osud</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>OSUD.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>OSUD.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100010" rhyme="1" line_length="11">Tou cestou, kterou vyměřil ti osud,</l>
+     <l n="2" met="01010100110" rhyme="1" line_length="11">dál půjdeš zase, jako si šel dosud,</l>
+     <l n="3" met="010100100100" rhyme="2" line_length="12">byť pěst jsi zatínal a vším už znechucen –</l>
+     <l n="4" met="1001000100" rhyme="2" line_length="10">osudu hloupého jsi hříčkou jen.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

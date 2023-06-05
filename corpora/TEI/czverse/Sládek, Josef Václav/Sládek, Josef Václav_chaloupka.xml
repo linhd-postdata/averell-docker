@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Chaloupka.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_chaloupka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Chaloupka.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Chaloupka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010100" line_length="6">Ta naše chaloupka</l>
+     <l n="2" met="1010" rhyme="1" line_length="4">prostá, milá,</l>
+     <l n="3" met="000100" line_length="6">jak by to pro ptáky</l>
+     <l n="4" met="1010" rhyme="1" line_length="4">klícka byla.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100" line_length="6">Není tak maličká</l>
+     <l n="6" met="1010" rhyme="2" line_length="4">z dálky, z blízka,</l>
+     <l n="7" met="100000" line_length="6">nikomu se tam však</l>
+     <l n="8" met="1000" rhyme="2" line_length="4">nezastýská.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100100" line_length="6">Veselá, úhledná,</l>
+     <l n="10" met="1010" rhyme="3" line_length="4">klidná, čistá –</l>
+     <l n="11" met="100100" line_length="6">máme v ní, ptáčata,</l>
+     <l n="12" met="1010" rhyme="3" line_length="4">všichni místa.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100100" line_length="6">A kdo ji uvidí,</l>
+     <l n="14" met="1010" rhyme="4" line_length="4">kolem přejde,</l>
+     <l n="15" met="100100" line_length="6">neřek’ by, co se tam</l>
+     <l n="16" met="1010" rhyme="4" line_length="4">štěstí vejde!</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="100100" line_length="6">Jestli ho ve světě</l>
+     <l n="18" met="1010" rhyme="5" line_length="4">někdy ztratím,</l>
+     <l n="19" met="101000" line_length="6">k tobě se, chaloupko,</l>
+     <l n="20" met="1010" rhyme="5" line_length="4">pro ně vrátím.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ODKUD JSTE?</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_odkud-jste</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ODKUD JSTE?</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ODKUD JSTE?</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100100" rhyme="1" line_length="9">„Odkud jste, šohaji? Z Rožnova?</l>
+     <l n="2" met="000100100" rhyme="1" line_length="9">Jsou prý tam děvčátka růžová,</l>
+     <l n="3" met="1001001010" rhyme="2" line_length="10">veselá, svižná jak srny v lese:</l>
+     <l n="4" met="1001001010" rhyme="2" line_length="10">každá se na vdavky jenom třese.“</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010100100" rhyme="3" line_length="9">„My nejsme z Rožnova: z Myslíku,</l>
+     <l n="6" met="100100100" rhyme="3" line_length="9">ženění není tam ve zvyku,</l>
+     <l n="7" met="1001001000" rhyme="4" line_length="10">mládenci bývají zamračeni,</l>
+     <l n="8" met="1001001010" rhyme="4" line_length="10">nikde tam upřímné panny není.“</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0001001000" rhyme="5" line_length="10">„To se hned stěhujte raději k nám:</l>
+     <l n="10" met="0101001001" rhyme="5" line_length="10">je u nás děvčátek celičký krám,</l>
+     <l n="11" met="1001001010" rhyme="6" line_length="10">všechny jsou líbezné jako kvítí,</l>
+     <l n="12" met="1001001000" rhyme="6" line_length="10">každá vám osladí živobytí!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

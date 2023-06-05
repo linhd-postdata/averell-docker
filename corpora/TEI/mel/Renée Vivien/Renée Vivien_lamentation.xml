@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LAMENTATION</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_lamentation</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LAMENTATION</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LAMENTATION</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="0" line_length="6+6">L’été brûle, la voix des fleuves se lamente,</l>
+     <l n="2" rhyme="1" line_length="6+6">La voix des sources pleure, et la voix des torrents</l>
+     <l n="3" rhyme="1" line_length="6+6">Gémit, car le Soleil boit les flots transparents</l>
+     <l n="4" rhyme="0" line_length="6+6">Et tarit la fraîcheur, de sa lèvre fervente.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="2" line_length="6+6">Le voile virginal des neiges sur les monts</l>
+     <l n="6" rhyme="3" line_length="6+6">Se déchire, et, là-bas, dans les forêts muettes,</l>
+     <l n="7" rhyme="3" line_length="6+6">Le Soleil a pâli les pâles violettes,</l>
+     <l n="8" rhyme="4" line_length="6+6">Les narcisses tournant vers l’onde leurs yeux blonds.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="0" line_length="6+6">L’implacable Soleil, qui dessèche et tourmente,</l>
+     <l n="10" rhyme="5" line_length="6+6">A flétri d’un baiser, parmi les longs iris,</l>
+     <l n="11" rhyme="5" line_length="6+6">La grâce du printemps, l’éternel Adonis…</l>
+     <l n="12" rhyme="0" line_length="6+6">L’été brûle, la voix des fleuves se lamente.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

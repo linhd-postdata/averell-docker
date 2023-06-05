@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pro útěchu!</title>
+    <author>Martinec, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Martinec, Jaroslav_pro-utechu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pro útěchu!</title>
+     <author>Martinec, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pro útěchu!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000001010" line_length="10">Básnického že ti chybí vzletu?</l>
+     <l n="2" met="100010101" rhyme="1" line_length="9">Přítelínku, tomu budiž rád!</l>
+     <l n="3" met="1011001010" line_length="10">Neboť věz, že čím je člověk níže,</l>
+     <l n="4" met="001010101" rhyme="1" line_length="9">tím i lehčí bude jeho pád!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0010101000" line_length="10">Nač se vznášet, pravím, ku vysostem,</l>
+     <l n="6" met="101010100" rhyme="2" line_length="9">jako orel v bujném rozletu?</l>
+     <l n="7" met="1000100010" line_length="10">Krátkozrací beztoho jsou lidé,</l>
+     <l n="8" met="100010100" rhyme="2" line_length="9">nevidí pak svého poetu!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La bestia</title>
+    <author>Mercedes Matamoros</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mercedes Matamoros_la-bestia</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La bestia</title>
+     <author>Mercedes Matamoros</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La bestia</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-++--++-+-">Es lo más negro de aquel monte umbrío,</l>
+     <l n="2" met="--+--++--+-">nuestro lecho, Faón, he preparado,</l>
+     <l n="3" met="--+--++--+-">¡de mi pecho el volcán se ha desbordado!</l>
+     <l n="4" met="--+--+++-+-">¡de la fiebre fatal ya siento frío!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++---+---+-">¿No escuchas a lo lejos el sombrío</l>
+     <l n="6" met="+---+----+-">león, que con rugido apasionado</l>
+     <l n="7" met="-+--+----+-">responde a la leona, en el callado</l>
+     <l n="8" met="+--+---+-+-">y hondo recinto de su amor bravío?</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+--+-">¡Amémonos así! Ven y desprende</l>
+     <l n="10" met="---+-+---+-">de mi ajustada túnica los lazos,</l>
+     <l n="11" met="---+---+-+-">y ante mi seno tu pupila enciende!</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+---+-">¡Es el amor que humilla y que deprava!</l>
+     <l n="13" met="++--+----+-">¡No importa! Lleva a Safo entre tus brazos,</l>
+     <l n="14" met="--+--+++-+-">donde loco el Placer la rinda esclava!...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

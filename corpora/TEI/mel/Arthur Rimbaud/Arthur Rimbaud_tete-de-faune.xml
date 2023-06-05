@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Tête de faune</title>
+    <author>Arthur Rimbaud</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Arthur Rimbaud_tete-de-faune</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Tête de faune</title>
+     <author>Arthur Rimbaud</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Tête de faune</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+6">Dans la feuillée, écrin vert taché d’or,</l>
+     <l n="2" rhyme="b" line_length="4+6">Dans la feuillée incertaine et fleurie,</l>
+     <l n="3" rhyme="a" line_length="4+6">D'énormes fleurs où l’âcre baiser dort</l>
+     <l n="4" rhyme="b" line_length="4+6">Vif et devant l’exquise broderie,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+4">Le Faune affolé montre ses grands yeux</l>
+     <l n="6" rhyme="b" line_length="4+6">Et mord la fleur rouge avec ses dents blanches</l>
+     <l n="7" rhyme="a" line_length="10">Brunie et sanglante ainsi qu’un vin vieux,</l>
+     <l n="8" rhyme="b" line_length="4+6">Sa lèvre éclate en rires par les branches ;</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="4+6">Et quand il a fui, tel un écureuil,</l>
+     <l n="10" rhyme="b" line_length="4+6">Son rire perle encore à chaque feuille</l>
+     <l n="11" rhyme="a" line_length="6+4">Et l’on croit épeuré par un bouvreuil</l>
+     <l n="12" rhyme="b" line_length="4+6">Le baiser d’or du bois qui se recueille.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

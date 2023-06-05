@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LA MAUVAISE AUBERGE</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_la-mauvaise-auberge</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LA MAUVAISE AUBERGE</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LA MAUVAISE AUBERGE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="6+6">Le monde inhospitable est pareil à l’auberge</l>
+     <l n="2" line_length="6+6">Où l’on vit mal, où tout est mal, où l’on dort mal…</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="6+6">Et, pendant que le cri des femmes se prolonge,</l>
+     <l n="4" rhyme="a" line_length="6+6">Je cherche le Palais Impossible du Songe.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="6+6">Je fais, dans cette auberge, un modeste repas</l>
+     <l n="6" rhyme="a" line_length="6+6">En songeant à ce qui pourrait être… et n’est pas…</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

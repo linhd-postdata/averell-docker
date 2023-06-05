@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Co šumí listí...</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_co-sumi-listi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Co šumí listí...</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Co šumí listí...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010010" rhyme="1" line_length="10">Co šumí listí, nad hlavou Tvojí</l>
+     <l n="2" met="0001010010" rhyme="1" line_length="10">jež se Ti v svěží diadém pojí?</l>
+     <l n="3" met="100101010" rhyme="2" line_length="9">slyším je tiše chvět se a třásť,</l>
+     <l n="4" met="100101010" rhyme="2" line_length="9">srdce že jímá touha a slast’.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001010010" rhyme="1" line_length="10">„O Paní,“ zní to, „útěchy zdroji,</l>
+     <l n="6" met="1001001010" rhyme="1" line_length="10">v jeseni žití i v jeho znoji,</l>
+     <l n="7" met="010101000" rhyme="2" line_length="9">kdy v oko slza, do duše strasť</l>
+     <l n="8" met="100101000" rhyme="2" line_length="9">temné své stíny počíná klásť,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1001010010" rhyme="3" line_length="10">smiluj se, vztáhni milostnou ruku</l>
+     <l n="10" met="1001010010" rhyme="3" line_length="10">nad lidem bědným, utiš jich muku,</l>
+     <l n="11" met="100101001" rhyme="4" line_length="9">slze jim setři s tváře a řas;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="1001010010" rhyme="5" line_length="10">a buď jim v temnu červánkem jitra,</l>
+     <l n="13" met="0101010010" rhyme="5" line_length="10">buď září, jež jim napadne v nitra,</l>
+     <l n="14" met="100101001" rhyme="4" line_length="9">paprsk-li víry v duši jim zhas.“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

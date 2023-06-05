@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les Villes Saintes</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_les-villes-saintes</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Les Villes Saintes</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Les Villes Saintes</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Certes il luira sur nos fronts,</l>
+     <l n="2" rhyme="b" line_length="8">Ce grand jour de nos destinées</l>
+     <l n="3" rhyme="a" line_length="8">Où nous vous ressusciterons,</l>
+     <l n="4" rhyme="b" line_length="8">Saintes villes assassinées !</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Toul ! nous te verrons resplendir</l>
+     <l n="6" rhyme="b" line_length="8">Au pied de tes montagnes vertes ;</l>
+     <l n="7" rhyme="a" line_length="8">Et toi qui sus encor grandir</l>
+     <l n="8" rhyme="b" line_length="8">Sur tes places de sang couvertes,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Strasbourg ! après tant de douleurs,</l>
+     <l n="10" rhyme="b" line_length="8">Tes remparts dont la voix s'est tue</l>
+     <l n="11" rhyme="a" line_length="8">Seront jonchés des mêmes fleurs</l>
+     <l n="12" rhyme="b" line_length="8">Que ton héroïque statue ;</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">Et nous y verrons — c'est demain !</l>
+     <l n="14" rhyme="b" line_length="8">Sous tes guirlandes et tes voiles,</l>
+     <l n="15" rhyme="a" line_length="8">Uhrich élevant dans sa main</l>
+     <l n="16" rhyme="b" line_length="8">Son bâton bleu semé d'étoiles.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

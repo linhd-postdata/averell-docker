@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Probuzení. (I.)</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_probuzeni-i</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Probuzení. (I.)</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Probuzení. (I.)</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" line_length="9">A mrtvý vstal, jenž spal tak dlouho,</l>
+     <l n="2" met="01000101" rhyme="1" line_length="8">a cizí je mu tento svět.</l>
+     <l n="3" met="010001000" line_length="9">– Proč ze sna jste mne probudili?...</l>
+     <l n="4" met="01001100" rhyme="1" line_length="8">A zadumán zří smutně zpět.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010001010" line_length="9">A vzpomíná, a žít se nechce;</l>
+     <l n="6" met="10010100" rhyme="2" line_length="8">na zašlou slávu myslí jen.</l>
+     <l n="7" met="010001000" line_length="9">– Proč ze sna jste mne probudili,</l>
+     <l n="8" met="01010101" rhyme="2" line_length="8">když sladce snil jsem slavný sen?...</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010011000" line_length="9">A bez rady, sláb, v roztesknění,</l>
+     <l n="10" met="01001100" rhyme="2" line_length="8">tak životem jde probuzen.</l>
+     <l n="11" met="110101010" line_length="9">Hle, v těle chabé srdce bije</l>
+     <l n="12" met="01010101" rhyme="2" line_length="8">a víčka ještě tíží sen!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

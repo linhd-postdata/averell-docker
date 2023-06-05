@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kdo může oko zarositi bolem,</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_kdo-muze-oko-zarositi-bolem</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kdo může oko zarositi bolem,</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kdo může oko zarositi bolem,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100010" rhyme="1" line_length="11">Kdo může oko zarositi bolem, </l>
+     <l n="2" met="01010101010" rhyme="1" line_length="11">když úsměv, květ a blaho všude kolem?</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="01010001010" rhyme="2" line_length="11">Kdož může násilně si vzbudit tíseň,</l>
+     <l n="4" met="01010101010" rhyme="2" line_length="11">když duší táhne jarní zase píseň?</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="01010101010" rhyme="3" line_length="11">Kdož může zazlít, že jsem, jarem zmámen,</l>
+     <l n="6" met="10010101010" rhyme="3" line_length="11">vyšlehnout nechal živé lásky plamen?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

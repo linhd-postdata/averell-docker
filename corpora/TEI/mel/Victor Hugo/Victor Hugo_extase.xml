@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Extase</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_extase</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Extase</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Extase</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">J'étais seul près des flots, par une nuit d'étoiles.</l>
+     <l n="2" rhyme="a" line_length="6+6">Pas un nuage aux cieux, sur les mers pas de voiles.</l>
+     <l n="3" rhyme="b" line_length="6+6">Mes yeux plongeaient plus loin que le monde réel.</l>
+     <l n="4" rhyme="c" line_length="6+6">Et les bois, et les monts, et toute la nature,</l>
+     <l n="5" rhyme="c" line_length="6+6">Semblaient interroger dans un confus murmure</l>
+    </lg>
+    <lg n="2">
+     <l n="6" rhyme="a" line_length="6+6">Et les étoiles d'or, légions infinies,</l>
+     <l n="7" rhyme="a" line_length="6+6">À voix haute, à voix basse, avec mille harmonies,</l>
+     <l n="8" rhyme="b" line_length="6+6">Disaient, en inclinant leurs couronnes de feu ;</l>
+     <l n="9" rhyme="c" line_length="6+6">Et les flots bleus, que rien ne gouverne et n'arrête,</l>
+     <l n="10" rhyme="c" line_length="6+6">Disaient, en recourbant l'écume de leur crête :</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

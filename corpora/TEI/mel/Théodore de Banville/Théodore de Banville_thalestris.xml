@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Thalestris</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_thalestris</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Thalestris</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Thalestris</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6−6">Les Amazones sur leurs casques aux clous d'or</l>
+     <l n="2" rhyme="b" line_length="6+6">Ont une hydre de fer ouvrant sa gueule atroce,</l>
+     <l n="3" rhyme="b" line_length="6+6">Ou quelque mufle noir de tigre ou de molosse,</l>
+     <l n="4" rhyme="a" line_length="6+6">Ou parfois un vautour au fulgurant essor.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Mais serrant son bel arc géant, comme un trésor,</l>
+     <l n="6" rhyme="b" line_length="6+6">Sur son sein de guerrière indocile et féroce,</l>
+     <l n="7" rhyme="b" line_length="6+6">La grande Thalestris, qui règne en Cappadoce,</l>
+     <l n="8" rhyme="a" line_length="6+6">Pour les combats sacrés se pare mieux encor.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Épars et dénoués sur sa riche cuirasse,</l>
+     <l n="10" rhyme="c" line_length="6+6">Ses cheveux, que le vent furieux embarrasse,</l>
+     <l n="11" rhyme="d" line_length="6+6">Débordent au hasard de leur flot souverain</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Son cou, fort et superbe entre ceux qu'on renomme,</l>
+     <l n="13" rhyme="d" line_length="6+6">Et son casque hideux, sur l'invincible airain,</l>
+     <l n="14" rhyme="e" line_length="6+6">Pour exciter l'horreur porte un visage d'homme.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

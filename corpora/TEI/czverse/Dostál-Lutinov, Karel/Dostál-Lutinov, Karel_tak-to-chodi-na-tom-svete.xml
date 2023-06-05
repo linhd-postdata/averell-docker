@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Tak to chodí na tom světě:</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_tak-to-chodi-na-tom-svete</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Tak to chodí na tom světě:</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Tak to chodí na tom světě:</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101010" line_length="8">Tak to chodí na tom světě: </l>
+     <l n="2" met="10101010" rhyme="1" line_length="8">K cizím bolům srdce chladné,</l>
+     <l n="3" met="10111000" line_length="8">každý rád čte epigramy,</l>
+     <l n="4" met="10101000" rhyme="1" line_length="8">dokud na svůj nepřipadne.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

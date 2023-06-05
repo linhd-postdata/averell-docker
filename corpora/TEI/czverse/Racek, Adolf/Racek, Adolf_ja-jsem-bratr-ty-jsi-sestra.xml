@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Já jsem bratr, ty jsi sestra,</title>
+    <author>Racek, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Racek, Adolf_ja-jsem-bratr-ty-jsi-sestra</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Já jsem bratr, ty jsi sestra,</title>
+     <author>Racek, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Já jsem bratr, ty jsi sestra,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101010" line_length="8">Já jsem bratr, ty jsi sestra, </l>
+     <l n="2" met="001010" line_length="6">proč ty nejsi bratr?</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="00101010" line_length="8">Já jsem bratr, ty jsi sestra,</l>
+     <l n="4" met="01010100" line_length="8">proč nejsem sestra, sestra já?</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="0101010010" line_length="10">Proč nejsme oba, sestrami oba,</l>
+     <l n="6" met="01010101" line_length="8">Proč nejsme bratry oba dva?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

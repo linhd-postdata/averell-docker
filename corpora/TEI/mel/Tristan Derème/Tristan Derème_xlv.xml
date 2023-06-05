@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XLV</title>
+    <author>Tristan Derème</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tristan Derème_xlv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XLV</title>
+     <author>Tristan Derème</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XLV</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">La porte du jardin donne sur la ruelle</l>
+     <l n="2" rhyme="a" line_length="6+6">Et c'est là qu'un beau soir elle est apparue, elle</l>
+     <l n="3" rhyme="b" line_length="6+6">De qui l'amour est clair, comme l'aube et l'azur.</l>
+     <l n="4" rhyme="b" line_length="6+6">Elle m'attend. Le chat s'étire sur le mur.</l>
+     <l n="5" rhyme="a" line_length="6−6">Elle m'attend. C'est le village après le steppe.</l>
+     <l n="6" rhyme="a" line_length="6+6">Son sourire est léger comme une aile de guêpe.</l>
+     <l n="7" rhyme="b" line_length="6−6">Elle m'attend sous la tonnelle de roseaux.</l>
+     <l n="8" rhyme="b" line_length="6+6">Mon cœur est une cage où chantent mille oiseaux.</l>
+     <l n="9" rhyme="a" line_length="4+4+4">Elle m'attend, elle regarde la pendule.</l>
+     <l n="10" rhyme="a" line_length="6−6">J'arriverai dans la tiédeur du crépuscule,</l>
+     <l n="11" rhyme="b" line_length="6+6">Et quand je la verrai me tendre les deux mains,</l>
+     <l n="12" rhyme="b" line_length="6+6">Les roses de juillet pleuvront sur les chemins.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

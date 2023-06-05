@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V lese.</title>
+    <author>Čermák, Bohuslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čermák, Bohuslav_v-lese</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V lese.</title>
+     <author>Čermák, Bohuslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V lese.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010" line_length="6">Šumí sosny, šumí</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">dumně, šumí jemně,</l>
+     <l n="3" met="100010" line_length="6">půlnočních jak duchů</l>
+     <l n="4" met="100010" rhyme="1" line_length="6">hlaholení ke mně.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101010" line_length="6">Pusta noc; ta v mracích</l>
+     <l n="6" met="101000" rhyme="2" line_length="6">luna pohasíná,</l>
+     <l n="7" met="100010" line_length="6">na zašlou mě lásku</l>
+     <l n="8" met="101000" rhyme="2" line_length="6">truchle upomíná.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="101010" line_length="6">A mně zdá se šerem</l>
+     <l n="10" met="010010" rhyme="3" line_length="6">skrz obláčné chmůry,</l>
+     <l n="11" met="100010" line_length="6">spanilý že zírá</l>
+     <l n="12" met="101010" rhyme="3" line_length="6">dívčí obraz zhůry.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="101010" line_length="6">Bol můj v sosen šumy</l>
+     <l n="14" met="101010" rhyme="4" line_length="6">píseň zní má žalná:</l>
+     <l n="15" met="101010" rhyme="5" line_length="6">„Ach, kdy srdci vrátí</l>
+     <l n="16" met="100010" rhyme="4" line_length="6">krajina tě dálná?“</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="101010" line_length="6">Nikdy, nikdy hučí</l>
+     <l n="18" met="101010" rhyme="6" line_length="6">sosen starých šumy,</l>
+     <l n="19" met="101000" rhyme="5" line_length="6">nikdy nenavrátí</l>
+     <l n="20" met="101010" rhyme="6" line_length="6">zem, co v lůně tlumí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

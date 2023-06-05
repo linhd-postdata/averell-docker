@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Advokát v nebi.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_advokat-v-nebi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Advokát v nebi.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Advokát v nebi.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010100" rhyme="1" line_length="11">Do nebe se dostal jednou advokát.</l>
+     <l n="2" met="10011010001" rhyme="1" line_length="11">Druhého dne svatí počali se rvát,</l>
+     <l n="3" met="10001010001" rhyme="1" line_length="11">třetího on jal se žaloby již psát.</l>
+     <l n="4" met="011010100" rhyme="2" line_length="9">K nim rok v pekle určil Pánbůh sám:</l>
+     <l n="5" met="100010100" rhyme="2" line_length="9">Advokát tam jel – a zůstal tam.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

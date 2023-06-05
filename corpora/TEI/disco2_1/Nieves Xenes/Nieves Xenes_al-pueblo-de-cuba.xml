@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Al pueblo de Cuba</title>
+    <author>Nieves Xenes</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nieves Xenes_al-pueblo-de-cuba</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Al pueblo de Cuba</title>
+     <author>Nieves Xenes</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Al pueblo de Cuba</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---+-">Pueblo que ayer, en lucha pavorosa,</l>
+     <l n="2" met="---+-+---+-">tu libertad sagrada defendiste,</l>
+     <l n="3" met="++---+---+-">no pierdas el derecho que adquiriste</l>
+     <l n="4" met="--+--+---+-">derramando tu sangre generosa.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++---+---+-">No olvides en inercia vergonzosa</l>
+     <l n="6" met="-+---+---+-">la empresa que valiente a cometiste;</l>
+     <l n="7" met="+-+--+---+-">no abandones la senda que emprendiste,</l>
+     <l n="8" met="+--+---+-+-">cumple abnegado tu misión gloriosa.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+-+-+-">¡Heroico paladín de santa idea,</l>
+     <l n="10" met="++---+---+-">sé grande como ayer en la pelea,</l>
+     <l n="11" met="+++-++---+-">no te ciñas tú mismo tu mortaja;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+---+-">no en mezquinas e inútiles porfías</l>
+     <l n="13" met="-+---+---+-">agotes tus potentes energías;</l>
+     <l n="14" met="-+-+-++--+-">si libre quieres ser, piensa y trabaja!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

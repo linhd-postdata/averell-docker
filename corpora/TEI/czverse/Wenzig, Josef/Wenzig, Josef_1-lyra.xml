@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>1. Lyra.</title>
+    <author>Wenzig, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Wenzig, Josef_1-lyra</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>1. Lyra.</title>
+     <author>Wenzig, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>1. Lyra.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" line_length="8">Chtěl jsem syny Atreovy,</l>
+     <l n="2" met="10101000" rhyme="1" line_length="8">Kadma zpěvem oslaviti;</l>
+     <l n="3" met="00100010" line_length="8">Tu však počíná má lyra</l>
+     <l n="4" met="10001010" rhyme="1" line_length="8">O samé jen lásce zníti.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10000010" line_length="8">Neopominul jsem struny,</l>
+     <l n="6" met="10101000" rhyme="1" line_length="8">Celou lyru vyměniti;</l>
+     <l n="7" met="00100010" line_length="8">Leč tu počíná má lyra</l>
+     <l n="8" met="01001010" rhyme="1" line_length="8">Zas o samé lásce zníti.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101000" line_length="8">S Bohy tedy, hrdinové!</l>
+     <l n="10" met="10001000" rhyme="1" line_length="8">Nelze mi vás zvelebiti,</l>
+     <l n="11" met="00101010" line_length="8">Neb má lyra nechce jinak,</l>
+     <l n="12" met="01001010" rhyme="1" line_length="8">Než o samé lásce zníti.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

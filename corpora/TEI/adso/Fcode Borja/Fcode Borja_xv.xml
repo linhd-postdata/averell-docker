@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- XV - </title>
+    <author>Fcode Borja</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fcode Borja_xv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- XV - </title>
+     <author>Fcode Borja</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- XV - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+------+-+-">Ya del Octubre la inquietud primera,</l>
+     <l n="2" met="-+---+---+-">anuncia del invierno la venida,</l>
+     <l n="3" met="--+--+---+-">y su lluvia pacífica, y dormida,</l>
+     <l n="4" met="+--+-+---+-">finge segunda, y breve primavera.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+---+-">Entre bastardas flores su carrera</l>
+     <l n="6" met="+--+-+---+-">vuelve a romper el agua detenida,</l>
+     <l n="7" met="++-+-+---+-">no espejo ya del Sol, sino avenida,</l>
+     <l n="8" met="---+-+---+-">en quien apenas luce, y reverbera.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+---+-">Lleva tras sí las prendas del Verano,</l>
+     <l n="10" met="-----+-+-+-">para que el labrador cansado siembre,</l>
+     <l n="11" met="---+-+-+-+-">con esperanza verde, el seco grano.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">Contento estalla el campo con Septiembre,</l>
+     <l n="13" met="-+-+---+-+-">y allá verá pues se quejó temprano,</l>
+     <l n="14" met="---+-+---+-">lo que sufrir le espera por Diciembre.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

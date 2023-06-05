@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Quieren; ¡oh mi dolor!...</title>
+    <author>José Martí</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Martí_quieren-oh-mi-dolor</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Quieren; ¡oh mi dolor!...</title>
+     <author>José Martí</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Quieren; ¡oh mi dolor!...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+----+---+-">Quieren, ¡oh mi dolor! que a tu hermosura</l>
+     <l n="2" met="---+---+-+-">de su ornamento natural despoje;</l>
+     <l n="3" met="-+-+---+-+-">que el árbol pode, que la flor deshoje,</l>
+     <l n="4" met="+-+--++--+-">que haga al manto viril broche y cintura.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">Quieren que el verso arrebatado en dura</l>
+     <l n="6" met="+--+--+--+-">cárcel sonante y apretada aherroje,</l>
+     <l n="7" met="+-+--+-+-+-">cual la espiga deshecha en la alta troje</l>
+     <l n="8" met="--+--+-+-+-">o en el tosco lagar la vid madura.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+-+---+-">No puede ser: La crónica alquilada</l>
+     <l n="10" met="-+-+--+--+-">el paso ensaye y el sollozo, en donde</l>
+     <l n="11" met="+-+---+--+-">llena de untos, fingirá que implora.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">El gran dolor, el alma desolada,</l>
+     <l n="13" met="---+---+-+-">ni con carmín su lividez esconde,</l>
+     <l n="14" met="+-+--+---+-">ni se trenza el cabello cuando llora.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A mi querida</title>
+    <author>José María Heredia</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José María Heredia_a-mi-querida</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A mi querida</title>
+     <author>José María Heredia</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A mi querida</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+---+-+-">Ven, dulce amiga, que tu amor imploro:</l>
+     <l n="2" met="+--+---+-+-">luzca en tus ojos esplendor sereno,</l>
+     <l n="3" met="-+-+---+-+-">y baje en ondas el ebúrneo seno</l>
+     <l n="4" met="---+-+---+-">de tus cabellos fúlgidos el oro.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+---+--+-">¡Oh mi único placer! ¡Oh mi tesoro!</l>
+     <l n="6" met="+--+---+-+-">¡Cómo de gloria y de ternura lleno,</l>
+     <l n="7" met="-+--++-+-+-">extático te escucho, y me enajeno</l>
+     <l n="8" met="---+-+---+-">en la argentada vos de la que adoro!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">Recíbate mi pecho apasionado:</l>
+     <l n="10" met="++---+---+-">ven, hija celestial de los amores,</l>
+     <l n="11" met="-+-+---+-+-">descansa aquí, donde tu amor anida.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">¡Oh! nunca te separes de mi lado;</l>
+     <l n="13" met="---+---+-+-">y ante mis pasos, de inocentes flores</l>
+     <l n="14" met="+--+-+---+-">riega la senda fácil de la vida.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

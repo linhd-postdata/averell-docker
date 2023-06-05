@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La primera cana</title>
+    <author>Fernando Mayoral Oliver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fernando Mayoral Oliver_la-primera-cana</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La primera cana</title>
+     <author>Fernando Mayoral Oliver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La primera cana</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">Derramando perfumes y armonía</l>
+     <l n="2" met="-+-+---+-+-">tendió sus alas sonrosada aurora,</l>
+     <l n="3" met="++---+---+-">y un rayo de su luz encantadora</l>
+     <l n="4" met="--+--++-++-">al verter claridad me anunció el día.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+---+-">Dejé el mullido lecho en que dormía,</l>
+     <l n="6" met="-+-+---+-+-">y en tan risueña y matutina hora</l>
+     <l n="7" met="--+--+----+-">comencé mi «toilette» restauradora,</l>
+     <l n="8" met="-+-+---+-+-">ante un espejo que en mi cuarto había.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">Mas pronto al descubrir con la mirada</l>
+     <l n="10" met="+-+--+---+-">un cabello cual hebra plateada,</l>
+     <l n="11" met="---+---+-+-">por el dolor y por el llanto ciego</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-----+--+-">dije: ¡Señor! ¡es mi vejez que empieza!...</l>
+     <l n="13" met="+--+-+---+-">¿O es que al cubrir la nieve mi cabeza</l>
+     <l n="14" met="+--+---+-+-">quiere apagar del corazón el fuego?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

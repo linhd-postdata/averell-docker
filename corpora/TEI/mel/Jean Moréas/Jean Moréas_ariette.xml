@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ARIETTE</title>
+    <author>Jean Moréas</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jean Moréas_ariette</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ARIETTE</title>
+     <author>Jean Moréas</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ARIETTE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Tu me lias de tes mains blanches,</l>
+     <l n="2" rhyme="b" line_length="8">Tu me lias de tes mains fines,</l>
+     <l n="3" rhyme="a" line_length="8">Avec des chaînes de pervenches,</l>
+     <l n="4" rhyme="b" line_length="8">Et des cordes de capucines.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="5">M'enchaîner avec des pervenches</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Orphée</title>
+    <author>Paul Valéry</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Valéry_orphee</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Orphée</title>
+     <author>Paul Valéry</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Orphée</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">… Je compose en esprit, sous les myrtes, Orphée</l>
+     <l n="2" rhyme="b" line_length="6+6">L’Admirable !… le feu, des cirques purs descend ;</l>
+     <l n="3" rhyme="a" line_length="6+6">Il change le mont chauve en auguste trophée</l>
+     <l n="4" rhyme="b" line_length="6+6">D’où s’exhale d’un dieu l’acte retentissant.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">Si le dieu chante, il rompt le site tout-puissant ;</l>
+     <l n="6" rhyme="d" line_length="6+6">Le soleil voit l’horreur du mouvement des pierres ;</l>
+     <l n="7" rhyme="c" line_length="6+6">Une plainte inouïe appelle éblouissants</l>
+     <l n="8" rhyme="d" line_length="4+4+4">Les hauts murs d’or harmonieux d’un sanctuaire.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="6+6">Il chante, assis au bord du ciel splendide, Orphée !</l>
+     <l n="10" rhyme="e" line_length="6+6">Le roc marche, et trébuche ; et chaque pierre fée</l>
+     <l n="11" rhyme="f" line_length="6+6">Se sent un poids nouveau qui vers l’azur délire !</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="6+6">D’un Temple à demi nu le soir baigne l’essor,</l>
+     <l n="13" rhyme="g" line_length="6+6">Et soi-même il s’assemble et s’ordonne dans l’or</l>
+     <l n="14" rhyme="f" line_length="6−6">À l’âme immense du grand hymne sur la lyre !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

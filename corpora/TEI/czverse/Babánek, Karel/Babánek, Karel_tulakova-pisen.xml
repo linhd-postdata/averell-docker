@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>TULÁKOVA PÍSEŇ.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_tulakova-pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>TULÁKOVA PÍSEŇ.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>TULÁKOVA PÍSEŇ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" line_length="9">Vy plavci, kteří v přístav tichý</l>
+     <l n="2" met="01010100" rhyme="1" line_length="8">jste znikli bouřím žití všem,</l>
+     <l n="3" met="110110010" line_length="9">květ polí, luk, zelených strání,</l>
+     <l n="4" met="10010100" rhyme="1" line_length="8">na hroby dojat kladu sem.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="110011010" line_length="9">Štván neklidem jdu širým světem,</l>
+     <l n="6" met="01010101" rhyme="2" line_length="8">a všude jenom hroby zřím –</l>
+     <l n="7" met="110011000" line_length="9">klid přístavu, vln nepohnutých,</l>
+     <l n="8" met="11000100" rhyme="2" line_length="8">syt bouří všech, vám závidím.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

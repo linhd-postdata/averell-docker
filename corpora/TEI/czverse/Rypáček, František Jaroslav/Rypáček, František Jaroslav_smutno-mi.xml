@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Smutno mi...</title>
+    <author>Rypáček, František Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Rypáček, František Jaroslav_smutno-mi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Smutno mi...</title>
+     <author>Rypáček, František Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Smutno mi...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010010" line_length="10">Smutno mi, smutno, duší mou duma</l>
+     <l n="2" met="10010100" rhyme="1" line_length="8">zachvěla bolem hlubokým,</l>
+     <l n="3" met="1001010010" line_length="10">srdce mé pláče, jako by bylo</l>
+     <l n="4" met="10010100" rhyme="1" line_length="8">uštknuto klamem divokým.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001010010" line_length="10">Na mysl padly příšerné mlhy,</l>
+     <l n="6" met="11010100" rhyme="2" line_length="8">mráz celou bytosť prochvívá,</l>
+     <l n="7" met="1001010100" line_length="10">slunce mých tužeb smutně zachází,</l>
+     <l n="8" met="01010100" rhyme="2" line_length="8">a v dáli hrana doznívá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1001010100" line_length="10">Na nebi lásky luna nezáří,</l>
+     <l n="10" met="01010100" rhyme="3" line_length="8">a kolem pusto, temnota – –</l>
+     <l n="11" met="0001010100" line_length="10">Tak as je srdci, když mu zapadá</l>
+     <l n="12" met="10010100" rhyme="3" line_length="8">blaživá hvězda života – –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hrdlička.</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_hrdlicka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hrdlička.</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hrdlička.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100" line_length="7">Ach, ta naše hrdlička,</l>
+     <l n="2" met="1000100" rhyme="1" line_length="7">roztomilé ptáčátko,</l>
+     <l n="3" met="1000101" line_length="7">cukruje nám celý den,</l>
+     <l n="4" met="0010100" rhyme="1" line_length="7">až ji bolí volátko.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1000100" line_length="7">Před snídaním cukruje,</l>
+     <l n="6" met="1000100" rhyme="2" line_length="7">po snídaní nanovo,</l>
+     <l n="7" met="0010100" line_length="7">že v té naší chaloupce</l>
+     <l n="8" met="1010100" rhyme="2" line_length="7">zdá se všecko růžovo.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010100" line_length="7">Hrou nám práce připadá,</l>
+     <l n="10" met="1000100" rhyme="3" line_length="7">netlačí nás mozoly,</l>
+     <l n="11" met="1010100" line_length="7">a ta naše chudoba</l>
+     <l n="12" met="0010100" rhyme="3" line_length="7">už nás tolik nebolí.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="0110100" line_length="7">Kdo jde kol, se zastaví</l>
+     <l n="14" met="0100100" rhyme="4" line_length="7">a naslouchá v úsměvu,</l>
+     <l n="15" met="1000100" line_length="7">zapomene starostí</l>
+     <l n="16" met="1000100" rhyme="4" line_length="7">a je mu hned do zpěvu.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="1010100" line_length="7">Věřte, není na světě</l>
+     <l n="18" met="1010100" rhyme="5" line_length="7">nad tu naši hrdličku,</l>
+     <l n="19" met="1000100" line_length="7">cukrováním zjasňuje</l>
+     <l n="20" met="1010100" rhyme="5" line_length="7">celou naši světničku.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

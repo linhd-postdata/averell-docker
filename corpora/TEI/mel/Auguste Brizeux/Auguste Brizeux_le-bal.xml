@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LE BAL</title>
+    <author>Auguste Brizeux</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Auguste Brizeux_le-bal</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LE BAL</title>
+     <author>Auguste Brizeux</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LE BAL</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Occupe ta pensée et ton cœur en veillant.</l>
+    </lg>
+    <lg n="2">
+     <l n="2" rhyme="a" line_length="8">N'est pas lente à céder au charme d'un regard.</l>
+    </lg>
+    <lg n="3">
+     <l n="3" rhyme="a" line_length="8">Pour être fort demain respire-la ce soir.</l>
+    </lg>
+    <lg n="4">
+     <l n="4" rhyme="a" line_length="8">ô jeune homme inquiet ! — et tu fermes ton livre !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

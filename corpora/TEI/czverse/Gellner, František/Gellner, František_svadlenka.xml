@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ŠVADLENKA</title>
+    <author>Gellner, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Gellner, František_svadlenka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ŠVADLENKA</title>
+     <author>Gellner, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ŠVADLENKA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1011010010" rhyme="1" line_length="10">Letní vzduch venku zavoněl prudce.</l>
+     <l n="2" met="100000100" rhyme="2" line_length="9">U otevřeného okénka</l>
+     <l n="3" met="10010010010" rhyme="1" line_length="11">složila znaveně do klína ruce</l>
+     <l n="4" met="10100100" rhyme="2" line_length="8">malá, hubená švadlenka.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001001000" rhyme="3" line_length="10">Před sebe v prázdno se zadívala</l>
+     <l n="6" met="01000100" rhyme="4" line_length="8">a naslouchala nápěvu,</l>
+     <l n="7" met="01001010000" rhyme="3" line_length="11">jejž na strunách srdce vyluzovala</l>
+     <l n="8" met="10100100" rhyme="4" line_length="8">touha pro duše úlevu.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01001010010" rhyme="5" line_length="11">A švadlenka tiše řekla si: „Brání</l>
+     <l n="10" met="100100100" rhyme="6" line_length="9">nějaká vysoká ohrada</l>
+     <l n="11" met="10010010010" rhyme="5" line_length="11">bytostem lidským se sejít: a za ní</l>
+     <l n="12" met="100100100" rhyme="6" line_length="9">tisíce životů uvadá.“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

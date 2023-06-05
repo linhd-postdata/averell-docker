@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nevěř více...</title>
+    <author>Jesenská, Růžena</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jesenská, Růžena_never-vice</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nevěř více...</title>
+     <author>Jesenská, Růžena</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nevěř více...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">Nevěř více srdci mému,</l>
+     <l n="2" met="0010101" rhyme="1" line_length="7">že v něm věčný jas a klid,</l>
+     <l n="3" met="00101010" line_length="8">je jak moře, chvíli tiché,</l>
+     <l n="4" met="1010101" rhyme="1" line_length="7">a hned v břehy začne bít.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00101010" line_length="8">Je jak moře, které blankyt</l>
+     <l n="6" met="1010100" rhyme="2" line_length="7">líbá šťastný okamžik,</l>
+     <l n="7" met="10101010" line_length="8">a hned jeho tmavou vlnou</l>
+     <l n="8" met="1010101" rhyme="2" line_length="7">chvěje nocí pláč a vzlyk.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001000" line_length="8">Nevěř mu, to vlnobití</l>
+     <l n="10" met="1000100" rhyme="1" line_length="7">mohlo by tě usmrtit,</l>
+     <l n="11" met="10101010" line_length="8">nechtěj, by ti v srdce začla</l>
+     <l n="12" met="1010101" rhyme="1" line_length="7">prudká vlna moře bít!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>BLANQUI</title>
+    <author>Eugène Pottier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Eugène Pottier_blanqui</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>BLANQUI</title>
+     <author>Eugène Pottier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>BLANQUI</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">La chambre mortuaire était au quatrième ;</l>
+     <l n="2" rhyme="b" line_length="6+6">Et la foule, à pas lents, gravissait l'escalier :</l>
+     <l n="3" rhyme="b" line_length="6+6">Le Paris du travail, en blouse d'atelier,</l>
+     <l n="4" rhyme="a" line_length="6+6">Des femmes, des enfants ; plus d'un visage blême.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="b" line_length="6+6">Ce grand deuil prévalait sur le soin journalier</l>
+     <l n="6" rhyme="a" line_length="6+6">Du pain de la famille ; il eut, trois jours, la même</l>
+     <l n="7" rhyme="a" line_length="6+6">Affluence d'amis pour cet adieu suprême.</l>
+     <l n="8" rhyme="b" line_length="6+6">— Moi, j'attendais mon tour, rêvant sur le palier.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Ce cœur qui ne bat plus battait pour une idée :</l>
+     <l n="10" rhyme="c" line_length="6+6">L'Égalité !… Gens sourds ! Terre, esclave ridée</l>
+     <l n="11" rhyme="d" line_length="6+6">Qui tournes dans ta cage ainsi que l'écureuil,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">A présent qu'il est mort, tu l'entendras… peut-être !</l>
+     <l n="13" rhyme="d" line_length="6+6">Ce combattant, passant de la geôle au cercueil,</l>
+     <l n="14" rhyme="e" line_length="6+6">Du fond de son silence, il dit : Ni Dieu, ni maître !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

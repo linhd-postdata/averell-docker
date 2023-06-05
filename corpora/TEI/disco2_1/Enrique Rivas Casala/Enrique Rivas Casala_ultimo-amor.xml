@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Último amor</title>
+    <author>Enrique Rivas Casala</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Enrique Rivas Casala_ultimo-amor</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Último amor</title>
+     <author>Enrique Rivas Casala</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Último amor</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+---+-+-">Dame a beber enamorada loca</l>
+     <l n="2" met="-+---+---+-">el néctar que las penas desvanece</l>
+     <l n="3" met="-+---++--+-">aquel que la razón nos oscurece</l>
+     <l n="4" met="---+---+-+-">y la fiereza del valor provoca.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++---+---+-">Dame con el perfume de tu boca,</l>
+     <l n="6" met="--+--+-+-+-">el veneno sutil que me enardece,</l>
+     <l n="7" met="--+--+---+-">y el dormido volcán que se estremece</l>
+     <l n="8" met="++-+---+-+-">vuelva otra vez a conmover la roca.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">De la edad juvenil y los engaños,</l>
+     <l n="10" met="+--+---+-+-">haz que de nuevo se despierte el brío,</l>
+     <l n="11" met="---+-+-+-+-">renacerá también de aquellos años,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">la ardiente sangre que apagó el hastío,</l>
+     <l n="13" met="-++--+---+-">si me dejas; ¡con tantos desengaños</l>
+     <l n="14" met="---+---+-+-">entre la nieve moriré de frío!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

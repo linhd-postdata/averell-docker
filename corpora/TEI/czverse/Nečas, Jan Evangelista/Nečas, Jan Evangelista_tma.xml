@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Tma.</title>
+    <author>Nečas, Jan Evangelista</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nečas, Jan Evangelista_tma</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Tma.</title>
+     <author>Nečas, Jan Evangelista</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Tma.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11001101010" rhyme="1" line_length="11">Tma přede mnou, tma za mnou, tonu v temně.</l>
+     <l n="2" met="11000101010" rhyme="2" line_length="11">Cos příšerného přešlo před mým prahem.</l>
+     <l n="3" met="01010101010" rhyme="2" line_length="11">Hned první země syn byl prvním vrahem,</l>
+     <l n="4" met="01000100010" rhyme="1" line_length="11">jím po krvi se rozžíznila země.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11001101010" rhyme="1" line_length="11">Tma přede mnou, tma za mnou, tonu v temně.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

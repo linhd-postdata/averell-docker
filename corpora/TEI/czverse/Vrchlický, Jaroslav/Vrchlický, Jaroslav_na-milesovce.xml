@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Na Milešovce.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_na-milesovce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Na Milešovce.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Na Milešovce.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010101" rhyme="1" line_length="8">V hor věnci leží český kraj</l>
+     <l n="2" met="01000101" rhyme="1" line_length="8">jak pozlacená, stará báj;</l>
+     <l n="3" met="110101010" rhyme="2" line_length="9">dech borů temný zazní časem,</l>
+     <l n="4" met="110101010" rhyme="2" line_length="9">lesk rosy hraje trávy klasem.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101" rhyme="3" line_length="8">Jak z dálky vane lesů dech,</l>
+     <l n="6" met="00010101" rhyme="3" line_length="8">to snad je českých srdcí vzdech,</l>
+     <l n="7" met="010101010" rhyme="4" line_length="9">a rosa, kam jen noha vkročí,</l>
+     <l n="8" met="000101010" rhyme="4" line_length="9">to snad jsou slzy českých očí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

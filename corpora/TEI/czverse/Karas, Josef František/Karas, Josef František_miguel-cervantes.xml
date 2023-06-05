@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Miguel Cervántes.</title>
+    <author>Karas, Josef František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Karas, Josef František_miguel-cervantes</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Miguel Cervántes.</title>
+     <author>Karas, Josef František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Miguel Cervántes.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100010" line_length="10">Sancho Panzu pro Quijota hledal</l>
+     <l n="2" met="101010101" rhyme="1" line_length="9">v potu tváře celou řadu let.</l>
+     <l n="3" met="1110101000" rhyme="2" line_length="10">Ej, hleď, bratře, třeba pro Kramáře</l>
+     <l n="4" met="1000101010" rhyme="2" line_length="10">našlo by se (vábí zlata záře!)</l>
+     <l n="5" met="101010100" rhyme="1" line_length="9">Sancho Panzů deset tisíc hned!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

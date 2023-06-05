@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Práce.</title>
+    <author>Trnka, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Trnka, František_prace</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Práce.</title>
+     <author>Trnka, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Práce.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101000" rhyme="1" line_length="9">Jak mile práce oblažuje,</l>
+     <l n="2" met="01010100" rhyme="2" line_length="8">A v cestu sype růžinky,</l>
+     <l n="3" met="110001000" rhyme="1" line_length="9">Zlou neduživost zapuzuje,</l>
+     <l n="4" met="01010100" rhyme="2" line_length="8">A září líčí tvářinky.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000101" rhyme="3" line_length="8">Tať lehouninký chystá sen,</l>
+     <l n="6" met="110101000" rhyme="4" line_length="9">Krev čistou v žilách zachovává,</l>
+     <l n="7" met="010101010" rhyme="4" line_length="9">I sprosté krmi líbost dává;</l>
+     <l n="8" met="01010100" rhyme="3" line_length="8">Ta činí zdravé tělo jen.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101000" rhyme="1" line_length="9">Kde ona, tam se nezdržuje</l>
+     <l n="10" met="11010100" rhyme="5" line_length="8">Trud, prázdnost duše, trampoty,</l>
+     <l n="11" met="010101000" rhyme="1" line_length="9">Též milý oddech poskytuje,</l>
+     <l n="12" met="01010100" rhyme="5" line_length="8">A seje símě lepoty.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="11010100" rhyme="6" line_length="8">Aj! s chutí k práci, nedleme!</l>
+     <l n="14" met="1101010" rhyme="7" line_length="7">Hle! vábně na nás kyne!</l>
+     <l n="15" met="0101010" rhyme="7" line_length="7">Že štěstí z práce plyne,</l>
+     <l n="16" met="010100" rhyme="6" line_length="6">To živě pomněme.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

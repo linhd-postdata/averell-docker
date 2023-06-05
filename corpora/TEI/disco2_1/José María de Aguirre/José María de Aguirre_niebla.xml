@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Niebla</title>
+    <author>José María de Aguirre</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José María de Aguirre_niebla</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Niebla</title>
+     <author>José María de Aguirre</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Niebla</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Nublose el sol de la esperanza mía</l>
+     <l n="2" met="-+-+---+-+-">que siempre tuvo resplandor escaso,</l>
+     <l n="3" met="--+--+---+-">sin llegar a las cumbres del Ocaso,</l>
+     <l n="4" met="-+---+---+-">la linde al trasponer el mediodía.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+---+-+-">Al escalar la pedregosa vía</l>
+     <l n="6" met="-+-+--+--+-">menguó mi aliento y vacilo mi paso;</l>
+     <l n="7" met="-+-+---+-+-">y tuve sed y la sacié en tu vaso</l>
+     <l n="8" met="+----+---+-">¡musa del Septentrión, Melancolía!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Agotado en los medios del camino</l>
+     <l n="10" met="-+---++--+-">en plena juventud, voy peregrino</l>
+     <l n="11" met="---+---+-+-">desalentado, vacilante y ciego.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-">Nublose el sol de la esperanza mía...</l>
+     <l n="13" met="++-+--++-+-">¿No habrá una estrella que me preste guía</l>
+     <l n="14" met="-+-+-+--++-">en este mar de sombra en que me anego?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

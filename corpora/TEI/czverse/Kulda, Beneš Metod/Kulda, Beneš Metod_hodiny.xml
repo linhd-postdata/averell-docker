@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hodiny.</title>
+    <author>Kulda, Beneš Metod</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kulda, Beneš Metod_hodiny</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hodiny.</title>
+     <author>Kulda, Beneš Metod</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hodiny.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010" rhyme="1" line_length="6">Každá tělo drtí,</l>
+     <l n="2" met="100010" rhyme="1" line_length="6">poslední je smrtí;</l>
+     <l n="3" met="10100010" rhyme="2" line_length="8">tělo do hrobu se vloží,</l>
+     <l n="4" met="10101010" rhyme="2" line_length="8">duše chvátá na soud Boží.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

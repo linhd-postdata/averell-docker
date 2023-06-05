@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NADÈGE</title>
+    <author>Marceline Desbordes-Valmore</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Marceline Desbordes-Valmore_nadege</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NADÈGE</title>
+     <author>Marceline Desbordes-Valmore</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NADÈGE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" />
+    <lg n="2" />
+    <lg n="3">
+     <l n="1" rhyme="a" line_length="6+6">Sous les frimas du nord tendre fleur enfermée,</l>
+     <l n="2" rhyme="b" line_length="6+6">Dans la neige et le sang a germé ton destin,</l>
+     <l n="3" rhyme="a" line_length="6+6">Lorsque aux plis du drapeau de notre vieille armée,</l>
+     <l n="4" rhyme="b" line_length="6+6">Dieu lui-même abrita ton orageux matin,</l>
+     <l n="5" rhyme="a" line_length="6+6">L’incendie épura leur vieille et sainte gloire ;</l>
+     <l n="6" rhyme="b" line_length="6+6">Toi, ton jeune parfum s’exhale vers les cieux.</l>
+     <l n="7" rhyme="a" line_length="6+6">Nadège ! il restera frais à notre mémoire,</l>
+     <l n="8" rhyme="b" line_length="6+6">Comme le doux regard où tremblaient tes adieux</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

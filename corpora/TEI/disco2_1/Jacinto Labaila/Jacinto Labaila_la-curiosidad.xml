@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La curiosidad</title>
+    <author>Jacinto Labaila</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jacinto Labaila_la-curiosidad</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La curiosidad</title>
+     <author>Jacinto Labaila</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La curiosidad</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+---+-">Como cristiano niego el fatalismo,</l>
+     <l n="2" met="-++--+---+-">mas no dejo de ver, aunque cristiano,</l>
+     <l n="3" met="-+-+---+-+-">que arrastra siempre el corazón humano</l>
+     <l n="4" met="++---+---+-">un vértigo a caer en el abismo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++---+---+-">Un vértigo, que mata al egoísmo,</l>
+     <l n="6" met="---+---+-+-">que procuramos evitar en vano,</l>
+     <l n="7" met="---++--+-+-">que, acometiendo, hace enfermar al sano</l>
+     <l n="8" met="--+--++--+-">y que a todo mortal tienta lo mismo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+----+-+-+-">Es la curiosidad: a hincar el diente</l>
+     <l n="10" met="+--+---+-+-">todos corremos tras su oculto anzuelo,</l>
+     <l n="11" met="-+-+---+-+-">que amor con pasto apetitoso ceba;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+----++--+-">Es la curiosidad, es el anhelo</l>
+     <l n="13" met="-+---++--+-">de todo lo vedado, es la serpiente</l>
+     <l n="14" met="---++--+-+-">que la manzana hizo morder a Eva.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

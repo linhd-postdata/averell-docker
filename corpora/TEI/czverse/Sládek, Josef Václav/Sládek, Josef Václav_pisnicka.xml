@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Písnička.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_pisnicka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Písnička.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Písnička.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00110100" rhyme="1" line_length="8">Ať náš pan farář v kostele</l>
+     <l n="2" met="0001000" rhyme="2" line_length="7">mně nic to nezazlívá,</l>
+     <l n="3" met="01000100" rhyme="1" line_length="8">já povídám vám, přátelé,</l>
+     <l n="4" met="0100010" rhyme="2" line_length="7">že spasen je, kdo zpívá!</l>
+     <l n="5" met="01000100" line_length="8">Kdo s písničkou si přivstane</l>
+     <l n="6" met="0101010" rhyme="3" line_length="7">a zpívá, než si lehne,</l>
+     <l n="7" met="01010100" line_length="8">a komu píseň do srdce</l>
+     <l n="8" met="0101010" rhyme="3" line_length="7">jak voda na mlýn vběhne.</l>
+    </lg>
+    <lg n="2">
+     <l n="9" met="01000100" rhyme="1" line_length="8">Kdo zazpívá si vesele</l>
+     <l n="10" met="0101010" rhyme="4" line_length="7">a koho život těší,</l>
+     <l n="11" met="01010100" rhyme="1" line_length="8">ten zdráv nám budiž, přátelé,</l>
+     <l n="12" met="0001000" rhyme="4" line_length="7">neb on se neprohřeší.</l>
+     <l n="13" met="01010100" line_length="8">On písní sobě uleví</l>
+     <l n="14" met="1001010" rhyme="5" line_length="7">i když ho něco tíží,</l>
+     <l n="15" met="01010100" line_length="8">a pánu Bohu nekřivdí</l>
+     <l n="16" met="0101000" rhyme="5" line_length="7">a lidem neublíží.</l>
+    </lg>
+    <lg n="3">
+     <l n="17" met="10010100" rhyme="1" line_length="8">U rajské brány, přátelé,</l>
+     <l n="18" met="0101010" rhyme="6" line_length="7">tam svatý Petr stojí</l>
+     <l n="19" met="01010100" rhyme="1" line_length="8">a smutné i ty veselé</l>
+     <l n="20" met="0101010" rhyme="6" line_length="7">se duše kolem rojí.</l>
+     <l n="21" met="01010100" line_length="8">Z těch smutných mnohou zastaví</l>
+     <l n="22" met="0101010" rhyme="7" line_length="7">a její hříchy čítá,</l>
+     <l n="23" met="01010101" line_length="8">však duši, kterou těšil svět,</l>
+     <l n="24" met="0101010" rhyme="7" line_length="7">hned z dálky k ráji vítá.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- L - </title>
+    <author>Juan de Tassis y Peralta</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan de Tassis y Peralta_l</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- L - </title>
+     <author>Juan de Tassis y Peralta</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- L - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+++--+-+-+-">¿No es tiempo, tirano Amor, que vea</l>
+     <l n="2" met="---+-+---+-">de tus violencias crédito en mi ejemplo?</l>
+     <l n="3" met="-+---+---+-">Colgadas mis cadenas en tu templo,</l>
+     <l n="4" met="+--+---+-+-">justo será que desengaños crea.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+---+-">Un mentido esperar cuando lo sea</l>
+     <l n="6" met="--+--+---+-">entre envidia y desprecio me contemplo,</l>
+     <l n="7" met="---+---+-+-">cuando pasiones en avisos templo,</l>
+     <l n="8" met="--+--+---+-">con peligros amor me lisonjea.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+---+-">Vuelvan los negros ojos a su aljaba</l>
+     <l n="10" met="-+-+---+-+-">los vivos rayos, que el arpón ardiente</l>
+     <l n="11" met="+--+-+---+-">debe mejores blancos a sus tiros.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--++--+-">Miraré cual está, no cual estaba:</l>
+     <l n="13" met="-+-+---+-+-">de osar cobarde, y de temer valiente;</l>
+     <l n="14" met="+----+-+-+-">lágrimas me concede y no suspiros.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

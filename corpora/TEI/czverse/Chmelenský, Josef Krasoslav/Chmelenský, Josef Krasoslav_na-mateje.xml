@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Na Matěje.</title>
+    <author>Chmelenský, Josef Krasoslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Chmelenský, Josef Krasoslav_na-mateje</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Na Matěje.</title>
+     <author>Chmelenský, Josef Krasoslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Na Matěje.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001000" rhyme="1" line_length="8">Matěj se vždy honosívá:</l>
+     <l n="2" met="00101000" rhyme="1" line_length="8">Že ho hlava nebolívá –</l>
+     <l n="3" met="1000" line_length="4">Bezrukého</l>
+     <l n="4" met="10101000" rhyme="1" line_length="8">Ruka také nebolívá.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

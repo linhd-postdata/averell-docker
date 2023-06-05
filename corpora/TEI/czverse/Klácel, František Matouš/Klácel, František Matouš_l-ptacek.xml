@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L. Ptáček.</title>
+    <author>Klácel, František Matouš</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Klácel, František Matouš_l-ptacek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L. Ptáček.</title>
+     <author>Klácel, František Matouš</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L. Ptáček.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010100" line_length="11">Darmo já kývám ti malý zpěváčku!</l>
+     <l n="2" met="10010100010" line_length="11">Mazlivým lákám štěbotem tě ku mně –</l>
+     <l n="3" met="10010100100" line_length="11">Zdaž si tak hrdý, že si mé čtveráčku</l>
+     <l n="4" met="10100" line_length="5">Lásky nevšímneš?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11010100010" line_length="11">Aj nevíš šťastný, znamená co pýcha,</l>
+     <l n="6" met="11010100010" line_length="11">Ach nevíš bídný, vědomá co láska,</l>
+     <l n="7" met="10010010100" line_length="11">Křídlatý prášek jsa jenom, na chvílku</l>
+     <l n="8" met="10100" line_length="5">Šupka hudebná.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

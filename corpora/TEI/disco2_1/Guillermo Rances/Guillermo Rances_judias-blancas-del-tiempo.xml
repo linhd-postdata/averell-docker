@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Judías blancas del tiempo</title>
+    <author>Guillermo Rances</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Guillermo Rances_judias-blancas-del-tiempo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Judías blancas del tiempo</title>
+     <author>Guillermo Rances</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Judías blancas del tiempo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+++---+-">Para poner un plato de judías</l>
+     <l n="2" met="-+---+-+-+-">que puedan asombrar al mundo entero,</l>
+     <l n="3" met="-+---++--+-">se debe preparar un cocinero</l>
+     <l n="4" met="--+--+---+-">estudiando el asunto quince días.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+-+-+-">¿Se pueden aplicar la salsas frías?</l>
+     <l n="6" met="-+---+---+-">¿Se deben de servir en el puchero?</l>
+     <l n="7" met="--++-+-+++-">Resolver tales dudas yo no quiero</l>
+     <l n="8" met="--+--+---+-">ni escribir sobre el caso tonterías.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++---+-+++-">No extrañes, pues, lector, que tan mal ande</l>
+     <l n="10" met="--+--+-+-+-">el que tan regalón pasó la vida,</l>
+     <l n="11" met="--+--+---+-">que comiendo con gusto y con deleite</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--++-+---+-">se engulló casi siempre la comida</l>
+     <l n="13" met="-+---++--+-">sin pode distinguir, ¡lástima grande!</l>
+     <l n="14" met="--+--+---+-">la manteca, en los guisos, del aceite.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

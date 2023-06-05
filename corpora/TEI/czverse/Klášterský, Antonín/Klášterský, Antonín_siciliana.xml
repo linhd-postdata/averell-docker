@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SICILIANA.</title>
+    <author>Klášterský, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Klášterský, Antonín_siciliana</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SICILIANA.</title>
+     <author>Klášterský, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SICILIANA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" rhyme="1" line_length="11">Sic není květem půdy mojí rodné,</l>
+     <l n="2" met="01000001010" rhyme="2" line_length="11">však chce-li se jí – ať též u nás pučí!</l>
+     <l n="3" met="11010100010" rhyme="1" line_length="11">Má duše včelou. „Bílého až do dne“ –</l>
+     <l n="4" met="01010101000" rhyme="2" line_length="11">ten květ ji volá – „lež mi ve náručí!</l>
+     <l n="5" met="11011101010" rhyme="1" line_length="11">Chceš vůni pít? Mám plno vůně svodné!</l>
+     <l n="6" met="01010101010" rhyme="2" line_length="11">A chceš-li, dám ti také krůpěj žluči,</l>
+     <l n="7" met="01010100010" rhyme="1" line_length="11">již tomu v ránu žahadlo tvé vbodne,</l>
+     <l n="8" met="01000101110" rhyme="2" line_length="11">kdo odhání tě, když tvůj let kol zvučí!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

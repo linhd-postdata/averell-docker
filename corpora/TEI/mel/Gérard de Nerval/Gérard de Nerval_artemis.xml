@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Artémis</title>
+    <author>Gérard de Nerval</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Gérard de Nerval_artemis</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Artémis</title>
+     <author>Gérard de Nerval</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Artémis</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">La Treizième revient… C'est encor la première ;</l>
+     <l n="2" rhyme="b" line_length="6+6">Et c'est toujours la seule, — ou c'est le seul moment</l>
+     <l n="3" rhyme="a" line_length="6+6">Car es-tu reine, ô toi ! la première ou dernière ?</l>
+     <l n="4" rhyme="b" line_length="6+6">Es-tu roi, toi le seul ou le dernier amant ?…</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Aimez qui vous aima du berceau dans la bière ;</l>
+     <l n="6" rhyme="b" line_length="6+6">Celle que j'aimai seul m'aime encor tendrement :</l>
+     <l n="7" rhyme="b" line_length="6+6">C'est la mort — ou la morte… O délice ! ô tourment !</l>
+     <l n="8" rhyme="a" line_length="6+6">La Rose qu'elle tient, c'est la Rose trémière.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Sainte napolitaine aux mains pleines de feux,</l>
+     <l n="10" rhyme="d" line_length="6+6">Rose au cœur violet, fleur de sainte Gudule :</l>
+     <l n="11" rhyme="c" line_length="6+6">As-tu trouvé ta croix dans le désert des cieux ?</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="c" line_length="6+6">Roses blanches, tombez ! vous insultez nos dieux :</l>
+     <l n="13" rhyme="d" line_length="6+6">Tombez, fantômes blancs, de votre ciel qui brûle :</l>
+     <l n="14" rhyme="c" line_length="6+6">— La sainte de l'abîme est plus sainte à mes yeux !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

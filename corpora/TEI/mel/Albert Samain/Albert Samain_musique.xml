@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MUSIQUE</title>
+    <author>Albert Samain</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Albert Samain_musique</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MUSIQUE</title>
+     <author>Albert Samain</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MUSIQUE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Puisqu'il n'est point de mots qui puissent contenir,</l>
+     <l n="2" rhyme="b" line_length="6+6">Ce soir, mon âme triste en vouloir de se taire,</l>
+     <l n="3" rhyme="b" line_length="6+6">Qu'un archet pur s'élève et chante, solitaire,</l>
+     <l n="4" rhyme="a" line_length="6+6">Pour mon rêve jaloux de ne se définir.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Ô coupe de cristal pleine de souvenir ;</l>
+     <l n="6" rhyme="b" line_length="6+6">Musique, c'est ton eau seule qui désaltère ;</l>
+     <l n="7" rhyme="b" line_length="6+6">Et l'âme va d'instinct se fondre en ton mystère,</l>
+     <l n="8" rhyme="a" line_length="6+6">Comme la lèvre vient à la lèvre s'unir.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Sanglot d'or !… Oh ! voici le divin sortilège !</l>
+     <l n="10" rhyme="c" line_length="6+6">Un vent d'aile a couru sur la chair qui s'allège ;</l>
+     <l n="11" rhyme="d" line_length="6+6">Des mains d'anges sur nous promènent leur douceur.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Harmonie, et c'est toi, la Vierge secourable,</l>
+     <l n="13" rhyme="d" line_length="6+6">Qui, comme un pauvre enfant, berces contre ton cœur</l>
+     <l n="14" rhyme="e" line_length="6+6">Notre cœur infini, notre cœur misérable.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

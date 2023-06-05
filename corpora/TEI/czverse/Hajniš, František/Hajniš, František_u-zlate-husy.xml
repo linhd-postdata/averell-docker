@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>U zlaté husy.</title>
+    <author>Hajniš, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hajniš, František_u-zlate-husy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>U zlaté husy.</title>
+     <author>Hajniš, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>U zlaté husy.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101000" rhyme="1" line_length="6">Mladík bez řemesla,</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">Jehož víra klesla,</l>
+     <l n="3" met="101010" rhyme="2" line_length="6">Jemuž strany dluhů</l>
+     <l n="4" met="001010" rhyme="2" line_length="6">Nic již nejde k duhu:</l>
+     <l n="5" met="100010" rhyme="1" line_length="6">Posledního vesla</l>
+     <l n="6" met="100010" rhyme="3" line_length="6">Uchopí se v lovu –</l>
+     <l n="7" met="100010" rhyme="3" line_length="6">Namluví si vdovu.</l>
+     <l n="8" met="100010" rhyme="4" line_length="6">Svatba se hned slaví,</l>
+     <l n="9" met="010010" rhyme="4" line_length="6">On se šťastným staví,</l>
+     <l n="10" met="100010" rhyme="5" line_length="6">Život pak si chválí,</l>
+     <l n="11" met="011000" rhyme="5" line_length="6">Neb má kapitály;</l>
+     <l n="12" met="101010" rhyme="6" line_length="6">K tomu podle vkusu,</l>
+     <l n="13" met="101010" rhyme="6" line_length="6">Ještě zlatou husu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

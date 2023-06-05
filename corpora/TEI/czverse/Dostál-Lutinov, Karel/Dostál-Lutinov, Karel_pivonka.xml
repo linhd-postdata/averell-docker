@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PIVOŇKA.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_pivonka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PIVOŇKA.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PIVOŇKA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" line_length="6">Pivoňka, pivoňka,</l>
+     <l n="2" met="101100" rhyme="1" line_length="6">krásný květ červený,</l>
+     <l n="3" met="10101010" line_length="8">býval bílý, teď se chýlí</l>
+     <l n="4" met="100100" rhyme="1" line_length="6">krvavě zbarvený.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101100" line_length="6">Kristus Pán umíral,</l>
+     <l n="6" met="100100" rhyme="2" line_length="6">ona se přivila,</l>
+     <l n="7" met="10101010" line_length="8">žhavá místa nohou Krista</l>
+     <l n="8" met="100100" rhyme="2" line_length="6">hladila, chladila.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100100" line_length="6">Pivoňka, pivoňka,</l>
+     <l n="10" met="101100" rhyme="1" line_length="6">krásný květ červený,</l>
+     <l n="11" met="10101010" line_length="8">býval bílý, teď se chýlí</l>
+     <l n="12" met="100100" rhyme="1" line_length="6">krvavě zbarvený.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

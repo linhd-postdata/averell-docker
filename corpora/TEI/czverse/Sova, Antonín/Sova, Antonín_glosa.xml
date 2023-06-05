@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>GLOSA</title>
+    <author>Sova, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sova, Antonín_glosa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>GLOSA</title>
+     <author>Sova, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>GLOSA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100100100100" rhyme="1" line_length="13">Jen toho bych bál se: že smířím se naposled</l>
+     <l n="2" met="00101010100010" rhyme="2" line_length="14">s tím vším, co jsem soudil příkře, prostřední a malé.</l>
+     <l n="3" met="01000011101000" rhyme="1" line_length="14">Jen zpustnouti bych se bál, brát zisk a řemeslnět</l>
+     <l n="4" met="01001001010010010" rhyme="2" line_length="17">a k odbytu vyrábět zboží k šosáků laciné chvále.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010010000100100" rhyme="3" line_length="15">Být silný a neusmířen, ni nezískán penízem.</l>
+     <l n="6" met="010010010100010" rhyme="4" line_length="15">Jej nečekat v nejhorší čas, jenž v kompromisy nutí.</l>
+     <l n="7" met="1000100100001001" rhyme="3" line_length="16">Pod oblohou jasnou ať neuvězní mne prodajná zem</l>
+     <l n="8" met="0100100100101000" rhyme="4" line_length="16">a štědrost ať nezíská zásluh si moje o peruti.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

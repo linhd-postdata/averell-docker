@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Fantasie.</title>
+    <author>Furch, Vincenc</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Furch, Vincenc_fantasie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Fantasie.</title>
+     <author>Furch, Vincenc</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Fantasie.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101000" line_length="6">Jemná fantasie!</l>
+     <l n="2" met="011010" rhyme="1" line_length="6">Co dech času boří,</l>
+     <l n="3" met="100010" line_length="6">Na kynutí tvoje</l>
+     <l n="4" met="100010" rhyme="1" line_length="6">Poznovu se tvoří;</l>
+     <l n="5" met="101010" rhyme="1" line_length="6">Shaslý plamen hoří,</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">Svadlé zkvítá kvítí –</l>
+     <l n="7" met="101010" line_length="6">Blaho dávné lásky</l>
+     <l n="8" met="101010" rhyme="2" line_length="6">Srdce znova cítí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

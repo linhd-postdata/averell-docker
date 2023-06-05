@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dolencia de Iselia</title>
+    <author>Ignacio María Acosta</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ignacio María Acosta_dolencia-de-iselia</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dolencia de Iselia</title>
+     <author>Ignacio María Acosta</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dolencia de Iselia</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+++-">Esa inquietud que sin cesar te agita,</l>
+     <l n="2" met="+--+--++-+-">ese tormento que te oprime el pecho,</l>
+     <l n="3" met="-+-+---+-+-">y pone abrojos al mullido lecho,</l>
+     <l n="4" met="---+---+-+-">y tu semblante virginal marchita.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+---+-">Esa lucha fatal que se concita</l>
+     <l n="6" met="---+---+-+-">del corazón en el recinto estrecho,</l>
+     <l n="7" met="-++--+---+-">y le arranca suspiros al despecho</l>
+     <l n="8" met="--+--+-+-+-">en continua aflicción y amarga cuita;</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+-+-+-">ese dulce mirar, tu afecto tierno</l>
+     <l n="10" met="--+-++---+-">que revelan un alma candorosa</l>
+     <l n="11" met="-+---+++-+-">que pugna por vencer un mal interno;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+---+-">esa delicia, en fin, que misteriosa</l>
+     <l n="13" met="--+--+---+-">con las penas se mezcla del infierno;</l>
+     <l n="14" met="++-+---+-+-">esa es la llama del amor, hermosa.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LXII</title>
+    <author>Tristan Derème</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">7</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tristan Derème_lxii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LXII</title>
+     <author>Tristan Derème</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LXII</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">L'enthousiasme, comme un peuple de frelons,</l>
+     <l n="2" rhyme="b" line_length="6">Debout, et déchirons la nuit où nous râlons,</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="6+6">Nos marteaux font le bruit crépitant des grêlons ;</l>
+     <l n="4" rhyme="b" line_length="6">Je dompterai les mots comme des étalons</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="c" line_length="6+6">Se roidissent leur flanc sur le timon d'airain,</l>
+     <l n="6" rhyme="c" line_length="6">Que dans mon bras, ton corps qui tremble et s'abandonne,</l>
+    </lg>
+    <lg n="4">
+     <l n="7" rhyme="e" line_length="6">Sur la rouge splendeur de ce couchant d'automne,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Fuego sagrado</title>
+    <author>Carlos Guido y Spano</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Carlos Guido y Spano_fuego-sagrado</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Fuego sagrado</title>
+     <author>Carlos Guido y Spano</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Fuego sagrado</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+----+---+-">¡Lámpara misteriosa, que encendida</l>
+     <l n="2" met="--+--+-+-+-">en el alma gentil perpetuamente,</l>
+     <l n="3" met="+--+-+-+-+-">tornas en flor, y aroma, y rica fuente</l>
+     <l n="4" met="---+-+---+-">la vibración inmensa de la vida!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+---+-">Brilla pura, serena y escondida,</l>
+     <l n="6" met="-+--+--+-+-">regando de ideal la humana mente,</l>
+     <l n="7" met="-+-+---+-+-">y abrasa y funde en tu esplendor ardiente</l>
+     <l n="8" met="+--+---+-+-">toda la escoria que en el mundo anida.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+-+-">Brilla en la lid, en el taller, en la onda</l>
+     <l n="10" met="+--+---+-+-">de alta armonía que el poeta crea,</l>
+     <l n="11" met="---+---+-+-">en la verdad que el pensador revela.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+---+-+-">Y el corazón al corazón responda;</l>
+     <l n="13" met="-+---+-+-+-">y toda actividad trascienda, y sea</l>
+     <l n="14" met="+--+---+-+-">flecha de amor que hacia lo eterno vuele.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

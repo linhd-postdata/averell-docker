@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>TIŠE, TIŠE!</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_tise-tise</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>TIŠE, TIŠE!</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>TIŠE, TIŠE!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01101010" line_length="8">Kdo má pěkný šedý kožich,</l>
+     <l n="2" met="1110100" rhyme="1" line_length="7">chce mít také čepici –</l>
+     <l n="3" met="10101010" line_length="8">malí páni chtí být velcí,</l>
+     <l n="4" met="1010100" rhyme="1" line_length="7">větší chtí být velicí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010010" rhyme="2" line_length="7">(Buďme všichni jen tiší,</l>
+     <l n="6" met="0010100" rhyme="2" line_length="7">ať nás žádný neslyší.)</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="00101010" line_length="8">My jsme rádci svému vládci,</l>
+     <l n="8" met="1010100" rhyme="3" line_length="7">rádci, ale bez rady –</l>
+     <l n="9" met="10101010" line_length="8">ticho rostou stromy v lese,</l>
+     <l n="10" met="1010100" rhyme="3" line_length="7">ticho rostou úřady.</l>
+    </lg>
+    <lg n="4">
+     <l n="11" met="1010010" rhyme="2" line_length="7">(Buďme všichni jen tiší,</l>
+     <l n="12" met="0010100" rhyme="2" line_length="7">ať nás žádný neslyší.)</l>
+    </lg>
+    <lg n="5">
+     <l n="13" met="10001010" line_length="8">Ozve-li se někdo z malých,</l>
+     <l n="14" met="1000100" rhyme="4" line_length="7">modlíme se k Pánovi:</l>
+     <l n="15" met="10101000" line_length="8">Bože, jak Ti děkujeme,</l>
+     <l n="16" met="0010100" rhyme="4" line_length="7">že my nejsme takoví!</l>
+    </lg>
+    <lg n="6">
+     <l n="17" met="1010010" rhyme="2" line_length="7">(Buďme, bratří, jen tiší,</l>
+     <l n="18" met="0010100" rhyme="2" line_length="7">ať nás žádný neslyší!)</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

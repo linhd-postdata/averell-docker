@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Byl jednou mládec, miloval,</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_byl-jednou-mladec-miloval</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Byl jednou mládec, miloval,</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Byl jednou mládec, miloval,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Byl jednou mládec, miloval, </l>
+     <l n="2" met="0100010" rhyme="1" line_length="7">a miloval jich více,</l>
+     <l n="3" met="01010100" line_length="8">že všechny šťastně miloval,</l>
+     <l n="4" met="1001010" rhyme="1" line_length="7">vybledly jeho líce.</l>
+     <l n="5" met="01010100" line_length="8">Tak přišlo léto s jesení</l>
+     <l n="6" met="0101010" rhyme="2" line_length="7">a přišlo jara hrání,</l>
+     <l n="7" met="01010100" line_length="8">však mládec žehral s jarem už</l>
+     <l n="8" met="0101000" rhyme="2" line_length="7">a měl se k umírání.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

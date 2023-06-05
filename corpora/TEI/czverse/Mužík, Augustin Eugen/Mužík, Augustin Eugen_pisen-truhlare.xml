@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Píseň truhláře.</title>
+    <author>Mužík, Augustin Eugen</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mužík, Augustin Eugen_pisen-truhlare</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Píseň truhláře.</title>
+     <author>Mužík, Augustin Eugen</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Píseň truhláře.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010001010" line_length="9">Jak těší mne, kdy přijdou časem</l>
+     <l n="2" met="11010100" rhyme="1" line_length="8">dva ke mně mladí manželé.</l>
+     <l n="3" met="100101010" line_length="9">Ženuška rdí se květem máku</l>
+     <l n="4" met="01100100" rhyme="1" line_length="8">a muž mluví tak nesměle!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010001010" line_length="9">A konečně se dozvím přece,</l>
+     <l n="6" met="01010100" rhyme="2" line_length="8">že třeba bude kolíbky,</l>
+     <l n="7" met="010001010" line_length="9">leč ostatní vše žínka muži</l>
+     <l n="8" met="1010100" rhyme="2" line_length="7">na rtech stlumí polibky.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101000" line_length="9">Tu vezmu dřevo javorové –</l>
+     <l n="10" met="01000100" rhyme="3" line_length="8">tak spánek prý je nejsladší,</l>
+     <l n="11" met="010001000" line_length="9">tak andělíčky přilétají</l>
+     <l n="12" met="01010100" rhyme="3" line_length="8">a s písní víčka zatlačí.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100101010" line_length="9">A když tak pila šustíc lítá</l>
+     <l n="14" met="01000100" rhyme="4" line_length="8">a odměřeně šelestí,</l>
+     <l n="15" met="000101000" line_length="9">jest mně, jak o mé kolébavce</l>
+     <l n="16" met="01010100" rhyme="4" line_length="8">by duší táhly pověsti...</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="010001110" line_length="9">A na kolíbku dvě dám srdce,</l>
+     <l n="18" met="01010110" rhyme="5" line_length="8">a kolem samý květ a pýl,</l>
+     <l n="19" met="010001010" line_length="9">vždyť kvítek, jenž v ní dřímat bude,</l>
+     <l n="20" met="01001101" rhyme="5" line_length="8">jest také jen dvou srdcí díl.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

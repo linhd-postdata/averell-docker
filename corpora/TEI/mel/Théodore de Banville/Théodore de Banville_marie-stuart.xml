@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Marie Stuart</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_marie-stuart</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Marie Stuart</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Marie Stuart</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">A Saint-Germain, devant le fier château, Marie</l>
+     <l n="2" rhyme="b" line_length="6+6">Stuart, le front orné de perles et d'or fin,</l>
+     <l n="3" rhyme="b" line_length="6+6">Arrive de la chasse avec le roi dauphin,</l>
+     <l n="4" rhyme="a" line_length="6+6">Car elle aima toujours la noble vénerie.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Toute la cour l'entoure avec idolâtrie,</l>
+     <l n="6" rhyme="b" line_length="6+6">Oubliant pour ses yeux la fatigue et la faim,</l>
+     <l n="7" rhyme="b" line_length="6+6">Et François pâlissant, dans un songe sans fin,</l>
+     <l n="8" rhyme="a" line_length="6+6">Admire sa blancheur et sa bouche fleurie.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Ronsard dit : « C'est le lys divin, que nul affront</l>
+     <l n="10" rhyme="c" line_length="6+6">Ne peut ternir ! » Le roi Henri la baise au front.</l>
+     <l n="11" rhyme="d" line_length="6+6">Cependant, elle rit tout bas avec madame</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">De Valentinois, blonde aux cheveux ruisselants,</l>
+     <l n="13" rhyme="d" line_length="6+6">Et ces folles beautés, que le carnage affame,</l>
+     <l n="14" rhyme="e" line_length="6+6">Regardent au chenil rentrer les chiens sanglants.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

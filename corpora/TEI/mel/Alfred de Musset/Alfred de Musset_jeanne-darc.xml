@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jeanne d’Arc</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">3</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_jeanne-darc</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jeanne d’Arc</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jeanne d’Arc</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+6">Jusqu’en ces lieux déserts, Dans l’ombre et le silence</l>
+     <l n="2" rhyme="b" line_length="4+6">De la patrie en deuil le malheur me poursuit !</l>
+    </lg>
+    <lg n="2" />
+    <lg n="3" />
+    <lg n="4">
+     <l n="3" rhyme="a" line_length="8">As-tu pitié des pleurs qui coulent de mes yeux ?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

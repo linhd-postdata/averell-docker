@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Komáři.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_komari</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Komáři.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Komáři.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" rhyme="1" line_length="11">Jsou srdce těžká, která v žití šeru</l>
+     <l n="2" met="01010001010" rhyme="2" line_length="11">jen mezi hvězdami kdes najdou družky;</l>
+     <l n="3" met="00010110010" rhyme="2" line_length="11">jsou ta, jimž stačí lesk barevné stužky,</l>
+     <l n="4" met="01010101000" rhyme="1" line_length="11">a skáčou přes ni jako v Gulliveru.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000100010" rhyme="1" line_length="11">A veselá to podívaná věru,</l>
+     <l n="6" met="01000101010" rhyme="2" line_length="11">jak na velbloudy rostou malé mušky</l>
+     <l n="7" met="01000101010" rhyme="2" line_length="11">a vypínají v slunci křídla, růžky</l>
+     <l n="8" met="01010001000" rhyme="1" line_length="11">a vždycky udělají karriéru!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101010" rhyme="3" line_length="11">Jen tiše, zvolna, nikde přímé slovo; –</l>
+     <l n="10" met="01000101010" rhyme="4" line_length="11">však Fortunu si za šos chytnou zdrávi.</l>
+     <l n="11" met="01010101000" rhyme="3" line_length="11">Co do těch srdcí těžších nad olovo!</l>
+     <l n="12" met="01000110010" rhyme="5" line_length="11">to Somnambuly, Don Quijoti bludní:</l>
+     <l n="13" met="01001001010" rhyme="5" line_length="11">ti utonou jako ten kámen v studni,</l>
+     <l n="14" met="01010100010" rhyme="4" line_length="11">a komár pluje na stebélku trávy.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

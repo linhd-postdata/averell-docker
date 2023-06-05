@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CV</title>
+    <author>Tristan Derème</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tristan Derème_cv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CV</title>
+     <author>Tristan Derème</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CV</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Chambre d'hôtel où flotte une odeur de benzine,</l>
+     <l n="2" rhyme="a" line_length="6+6">Les échos d'un concert sur la place voisine</l>
+     <l n="3" rhyme="b" line_length="6+6">Et le parfum amer de tes épaules nues.</l>
+     <l n="4" rhyme="b" line_length="6+6">Tu rêves dans mes bras de berges inconnues</l>
+     <l n="5" rhyme="a" line_length="6+6">Où le vent tiède émeut des feuillages de givre,</l>
+     <l n="6" rhyme="a" line_length="6+6">D'une prairie épaisse où ta chair serait ivre</l>
+     <l n="7" rhyme="b" line_length="6+6">Et d'eau sous un soleil pâle comme une perle.</l>
+     <l n="8" rhyme="b" line_length="6+6">Tu dors ; le double flot de ta gorge déferle</l>
+     <l n="9" rhyme="a" line_length="6+6">Doucement ; d'un ruban je caresse ta joue</l>
+     <l n="10" rhyme="a" line_length="6+6">Et j'écoute là-bas la musique qui joue</l>
+     <l n="11" rhyme="b" line_length="6+6">Sous les ormes grillés, ô ma belle dormeuse,</l>
+     <l n="12" rhyme="b" line_length="6+6">Guillaume Tell, le Beau Danube et Sambre-et-Meuse.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

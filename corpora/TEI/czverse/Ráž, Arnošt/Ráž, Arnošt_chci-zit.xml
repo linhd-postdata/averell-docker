@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CHCI ŽÍT.</title>
+    <author>Ráž, Arnošt</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ráž, Arnošt_chci-zit</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CHCI ŽÍT.</title>
+     <author>Ráž, Arnošt</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CHCI ŽÍT.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" line_length="11">A mohlo býti po všem. Smrt a ticho.</l>
+     <l n="2" met="0100010100" rhyme="1" line_length="10">Víc nikdo by se po nás nezeptal.</l>
+     <l n="3" met="11001101000" line_length="11">Cíl dosažen. Kus cesty ušetřeno</l>
+     <l n="4" met="0101010100" rhyme="1" line_length="10">a nítě ve dví, kterou osud stkal.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11010001010" line_length="11">Jdu často okolo těch míst a hledím</l>
+     <l n="6" met="0101010100" rhyme="2" line_length="10">v tu černou propast, jež nic nevrací.</l>
+     <l n="7" met="11100101010" line_length="11">Chci žít. A je v tom tolik strastí skryto.</l>
+     <l n="8" met="1001010100" rhyme="2" line_length="10">A je tak těžko dáti negaci.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

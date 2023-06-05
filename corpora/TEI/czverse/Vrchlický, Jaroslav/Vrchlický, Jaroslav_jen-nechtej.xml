@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jen nechtěj!</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_jen-nechtej</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jen nechtěj!</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jen nechtěj!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" rhyme="1" line_length="9">Jen nechtěj, bych kdys ve snu nával</l>
+     <l n="2" met="10010100" line_length="8">u tvého lože stanul něm</l>
+     <l n="3" met="010001010" rhyme="1" line_length="9">a mrtvé své ti srdce dával...</l>
+     <l n="4" met="110100" line_length="6">Víš, co bys zřela v něm?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100101010" rhyme="2" line_length="9">Na každé stránce, v každé žilce</l>
+     <l n="6" met="010000" line_length="6">jak věrně byl jsem tvým,</l>
+     <l n="7" met="100101010" rhyme="2" line_length="9">ve dlouhých letech, v každé chvilce</l>
+     <l n="8" met="110100" line_length="6">sny, touhou, nadšením!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010100010" rhyme="3" line_length="9">To nechtěj! – Duše tvá by vzplála</l>
+     <l n="10" met="010100" line_length="6">pak děsným šílenstvím,</l>
+     <l n="11" met="010001000" rhyme="3" line_length="9">jak zcela jsi mne zneuznala,</l>
+     <l n="12" met="000100" line_length="6">kde já byl zcela tvým.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

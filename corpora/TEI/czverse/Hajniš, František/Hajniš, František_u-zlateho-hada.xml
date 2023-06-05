@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>U zlatého hada.</title>
+    <author>Hajniš, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hajniš, František_u-zlateho-hada</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>U zlatého hada.</title>
+     <author>Hajniš, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>U zlatého hada.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101" rhyme="1" line_length="5">Tento zlatý had</l>
+     <l n="2" met="10101" rhyme="1" line_length="5">Nemá škodných vad,</l>
+     <l n="3" met="00101000" rhyme="2" line_length="8">Jeť on druhu podivného,</l>
+     <l n="4" met="101000" rhyme="2" line_length="6">Posud neznámého:</l>
+     <l n="5" met="10001" rhyme="3" line_length="5">Na jazyku med,</l>
+     <l n="6" met="10101" rhyme="3" line_length="5">V srdci žádný jed;</l>
+     <l n="7" met="00101010" rhyme="4" line_length="8">Nic prý nejí, sotva pije,</l>
+     <l n="8" met="101010" rhyme="4" line_length="6">Předce ale žije,</l>
+     <l n="9" met="0110100" rhyme="5" line_length="7">A má troje poschodí!</l>
+     <l n="10" met="001000" rhyme="2" line_length="6">Kéž mně takového</l>
+     <l n="11" met="101000" rhyme="2" line_length="6">Hada podivného</l>
+     <l n="12" met="1010100" rhyme="5" line_length="7">Osud také dohodí!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

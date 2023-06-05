@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Lásko, lásko, lásko,</title>
+    <author>Racek, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Racek, Adolf_lasko-lasko-lasko</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Lásko, lásko, lásko,</title>
+     <author>Racek, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Lásko, lásko, lásko,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010" line_length="6">Lásko, lásko, lásko, </l>
+     <l n="2" met="100010" rhyme="1" line_length="6">nepoznaná ani,</l>
+     <l n="3" met="100010" line_length="6">která v nás jsi, s námi,</l>
+     <l n="4" met="101000" rhyme="1" line_length="6">dej nám POŽEHNÁNÍ!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101010" line_length="6">Lásko, slovo – zázrak</l>
+     <l n="6" met="001010" rhyme="1" line_length="6">v nás se znova stani –</l>
+     <l n="7" met="100010" line_length="6">životem a skutkem</l>
+     <l n="8" met="101000" rhyme="1" line_length="6">ve tvém požehnání!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="101010" line_length="6">Lásko třikrát svatá;</l>
+     <l n="10" met="101000" rhyme="1" line_length="6">v tebe odevzdáni –</l>
+     <l n="11" met="100010" line_length="6">prosíme a ždáme,</l>
+     <l n="12" met="101000" rhyme="1" line_length="6">dej nám požehnání!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

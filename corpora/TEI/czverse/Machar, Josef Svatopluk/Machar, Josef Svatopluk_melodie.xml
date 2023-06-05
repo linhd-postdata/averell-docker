@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MELODIE.</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_melodie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MELODIE.</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MELODIE.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0001010000" rhyme="1" line_length="10">Jenž vám je něčím, jemuž vy jste vším –</l>
+     <l n="2" met="00010101010" rhyme="2" line_length="11">– jak se ten vítr venku dneska vzteká! –</l>
+     <l n="3" met="0001010100" rhyme="1" line_length="10">Jenž vám je něčím – Po skle okenním</l>
+     <l n="4" met="01010101010" rhyme="2" line_length="11">jak celý proud těch něčích slzí stéká!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1000010100" rhyme="3" line_length="10">Jež jste mu vším – – Je žitím psota ta?</l>
+     <l n="6" met="01010101010" rhyme="4" line_length="11">Jak pere orkán tamhle v listy sváté!</l>
+     <l n="7" met="1100010100" rhyme="3" line_length="10">Což nezemřem? – Proč světla rozžatá</l>
+     <l n="8" met="01010101000" rhyme="4" line_length="11">v těch jeho očích tedy shasínáte?!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Otrhánek</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_otrhanek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Otrhánek</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Otrhánek</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" line_length="8">Pláče hošík otrhaný:</l>
+     <l n="2" met="0010100" rhyme="1" line_length="7">‚Přec se jednou seberu,</l>
+     <l n="3" met="10001010" line_length="8">tatínkovi, kde ho najdu,</l>
+     <l n="4" met="1010100" rhyme="1" line_length="7">notně holí vyperu.‘</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00101010" line_length="8">„Kdož tvůj otec?“ ‚Nač se ptáte –</l>
+     <l n="6" met="1000101" rhyme="2" line_length="7">otec můj je velký pán,</l>
+     <l n="7" met="10001010" line_length="8">odejel nám, dávno tomu,</l>
+     <l n="8" met="0010100" rhyme="2" line_length="7">když mi dával marcipán.‘</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101001" line_length="8">„A kam odjel?“ ‚Ach což já vím –</l>
+     <l n="10" met="1001100" rhyme="3" line_length="7">odejel mil na tisíc,</l>
+     <l n="11" met="10001010" line_length="8">o maminku nedbá více,</l>
+     <l n="12" met="1010100" rhyme="3" line_length="7">má prý mam těch ještě víc.‘</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

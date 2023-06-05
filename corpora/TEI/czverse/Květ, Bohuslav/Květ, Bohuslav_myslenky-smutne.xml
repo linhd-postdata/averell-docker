@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MYŠLENKY SMUTNÉ...</title>
+    <author>Květ, Bohuslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Květ, Bohuslav_myslenky-smutne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MYŠLENKY SMUTNÉ...</title>
+     <author>Květ, Bohuslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MYŠLENKY SMUTNÉ...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101000" rhyme="1" line_length="11">Myšlenky smutné prudce rozkvétají</l>
+     <l n="2" met="0101010100" line_length="10">a blínem voní všechny do dálek...</l>
+     <l n="3" met="01000101000" rhyme="1" line_length="11">dnes labutě se líně kolébají</l>
+     <l n="4" met="1001010100" line_length="10">na mrtvých vodách dávných vzpomínek...</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="110001010" rhyme="2" line_length="9">Ach, smutno je mi, teskno, bolně,</l>
+     <l n="6" met="1001010100" line_length="10">Budoucnost kývá z dáli hrozivě...</l>
+     <l n="7" met="01000101010" rhyme="2" line_length="11">ba zdá se mi, že Smrt se blíží volně</l>
+     <l n="8" met="0100010100" line_length="10">a zardousí mne v příští hodině...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

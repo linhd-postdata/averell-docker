@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- XL - </title>
+    <author>Juan Boscan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Boscan_xl</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- XL - </title>
+     <author>Juan Boscan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- XL - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">Si suspiros bastasen a moveros,</l>
+     <l n="2" met="-+---+---+-">o lágrimas pudiesen ablandaros,</l>
+     <l n="3" met="-+-+-+-+-+-">podría yo siquiera así amansaros,</l>
+     <l n="4" met="---+-+---+-">que de mi mal pudiésedes doleros.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+-+-+-">Mas suspirar, llorar, ni bien quereros,</l>
+     <l n="6" met="+--+-+---+-">nunca jamás pudieron inclinaros</l>
+     <l n="7" met="-----+-+-+-">a que mi corazón, con puro amaros,</l>
+     <l n="8" met="-+---+---+-">pudiese sino más endureceros.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-++--+-">Con desamor quizá fuera amansado</l>
+     <l n="10" met="---+-----+-">el desamor de vuestro sentimiento,</l>
+     <l n="11" met="-+-+-++--+-">y así quedara yo menos dañado.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">Mas es mejor amaros desamado,</l>
+     <l n="13" met="-+--++---+-">y en esto vivir yo de mi contento,</l>
+     <l n="14" met="---+-+-+-+-">que, sin amaros, ser de vos amado.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

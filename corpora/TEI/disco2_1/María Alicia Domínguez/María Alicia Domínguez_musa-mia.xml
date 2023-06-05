@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Musa mía</title>
+    <author>María Alicia Domínguez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>María Alicia Domínguez_musa-mia</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Musa mía</title>
+     <author>María Alicia Domínguez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Musa mía</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="+--+-+--+---+-">Musa mía, unas veces tocada de Misterio;</l>
+     <l n="2" met="+---++---+--+-">Pálida como un lienzo funeral... Silenciosa,</l>
+     <l n="3" met="-+-+-+--+---+-">fragante a flores secas de viejo cementerio</l>
+     <l n="4" met="+--+-+--+--+-">lívido el canto traes en la boca tediosa.</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="--+--+-++---+-">Y a la herida que sangra le aplicas el cauterio</l>
+     <l n="6" met="---+++--+++-+-">de la verdad que es trágica y me das toda rosa</l>
+     <l n="7" met="-+---+--+---+-">con tristes amarillos... Salmodia tu salterio</l>
+     <l n="8" met="+-+--+----+-+-">una nota que tiene sinceridad de losa.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+-+---+-">Y entonces todo el verso se ahueca mientras flota</l>
+     <l n="10" met="-----+--+-+-+-">en torno a mis estrofas la blanca veste rota</l>
+     <l n="11" met="----++-+---+-">de mi juventud bella que huele a Primavera.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+--++--+-">En vano es que pretenda que te alegres, en vano,</l>
+     <l n="13" met="--+--+----++-">porque todo el esfuerzo de mi deseo humano</l>
+     <l n="14" met="+-+--+---+--+-">logra sólo tu risa de fugaz calavera.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

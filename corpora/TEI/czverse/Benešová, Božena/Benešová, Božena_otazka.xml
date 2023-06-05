@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>OTÁZKA</title>
+    <author>Benešová, Božena</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Benešová, Božena_otazka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>OTÁZKA</title>
+     <author>Benešová, Božena</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>OTÁZKA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101101001000" rhyme="1" line_length="15">Tak tiše půjdu, Bůh ví, že tiše a bez reptání,</l>
+     <l n="2" met="01010" rhyme="1" line_length="5">ač den se sklání</l>
+     <l n="3" met="010101001010010" rhyme="2" line_length="15">a podél cesty pohasly květy, které jsem chtěla</l>
+     <l n="4" met="11010" rhyme="2" line_length="5">vít kolem čela.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101001001010" rhyme="3" line_length="15">Proč jenom srdce nehasne také, proč žhavá touha</l>
+     <l n="6" met="10010" rhyme="3" line_length="5">zmírá tak zdlouha?</l>
+     <l n="7" met="100101001010010" rhyme="4" line_length="15">A proč až tenkrát, k smrti když mdlobná do sněhu lehá,</l>
+     <l n="8" met="10010" rhyme="4" line_length="5">zkvétá z ní něha?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

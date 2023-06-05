@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Skřivánek.</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_skrivanek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Skřivánek.</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Skřivánek.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010010" rhyme="1" line_length="10">Oko ho nezří, ucho však slyší,</l>
+     <l n="2" met="1001010010" rhyme="1" line_length="10">písně jak seje s blankytných výší.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="1001010000" rhyme="2" line_length="10">Pozemský prášek operutěný,</l>
+     <l n="4" met="1001010010" rhyme="2" line_length="10">křídlama tluče v nebeské stěny.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="1001010010" rhyme="3" line_length="10">S jásavou písní ke slunci spěje.</l>
+     <l n="6" met="1011010010" rhyme="3" line_length="10">„Ticho!“ zem šeptá, – „skřivánek pěje!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

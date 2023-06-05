@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Přípověď.</title>
+    <author>Čelakovský, František Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čelakovský, František Ladislav_pripoved</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Přípověď.</title>
+     <author>Čelakovský, František Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Přípověď.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001001000" rhyme="1" line_length="10">Bylo to s večera na neděli,</l>
+     <l n="2" met="1001001000" rhyme="1" line_length="10">Pustil jsem koníčky po jeteli:</l>
+     <l n="3" met="100100" rhyme="1" line_length="6">Koníčky v jeteli –</l>
+     <l n="4" met="1010100" rhyme="1" line_length="7">Modré oči spíte-li?</l>
+     <l n="5" met="0001001000" rhyme="2" line_length="10">Co jste mně slíbily u lesíčku,</l>
+     <l n="6" met="0010101000" rhyme="2" line_length="10">Již si jdu k vám pro to při měsíčku.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

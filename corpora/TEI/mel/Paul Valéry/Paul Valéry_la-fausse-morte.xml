@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Fausse Morte</title>
+    <author>Paul Valéry</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Valéry_la-fausse-morte</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Fausse Morte</title>
+     <author>Paul Valéry</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Fausse Morte</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Humblement, tendrement, sur le tombeau charmant</l>
+     <l n="2" rhyme="a" line_length="8">Que d’ombres, d’abandons, et d’amour prodiguée,</l>
+     <l n="3" rhyme="b" line_length="6+6">Je meurs, je meurs sur toi, je tombe et je m’abats,</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="a" line_length="6+6">Mais à peine abattu sur le sépulcre bas,</l>
+     <l n="5" rhyme="b" line_length="6+6">Dont la close étendue aux cendres me convie,</l>
+     <l n="6" rhyme="b" line_length="6+6">Cette morte apparente, en qui revient la vie,</l>
+     <l n="7" rhyme="b" line_length="6+6">Frémit, rouvre les yeux, m’illumine et me mord,</l>
+     <l n="8" rhyme="b" line_length="6+6">Et m’arrache toujours une nouvelle mort</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

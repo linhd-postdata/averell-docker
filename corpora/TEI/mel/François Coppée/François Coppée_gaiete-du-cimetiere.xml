@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Gaieté du cimetière</title>
+    <author>François Coppée</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>François Coppée_gaiete-du-cimetiere</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Gaieté du cimetière</title>
+     <author>François Coppée</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Gaieté du cimetière</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Avis aux amateurs de la gaîté française.</l>
+     <l n="2" rhyme="a" line_length="6+6">Le printemps fait neiger, dans le Père-Lachaise,</l>
+     <l n="3" rhyme="b" line_length="6+6">Les fleurs des marronniers sur les arbres muets,</l>
+     <l n="4" rhyme="b" line_length="6+6">Et la fosse commune est pleine de bleuets.</l>
+     <l n="5" rhyme="a" line_length="6+6">Le liseron grimpeur fleurit les croix célèbres ;</l>
+     <l n="6" rhyme="a" line_length="6+6">Les oiseaux font l'amour près des bustes funèbres ;</l>
+     <l n="7" rhyme="b" line_length="6+6">Et l'on voit un joyeux commissaire des morts,</l>
+     <l n="8" rhyme="b" line_length="6+6">Tricorne en tête et canne à la main, sans remords,</l>
+     <l n="9" rhyme="a" line_length="6+6">Cueillir de ses doigts noirs, gantés de filoselle,</l>
+     <l n="10" rhyme="a" line_length="6+6">Des bouquets pour sa dame et pour sa demoiselle.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

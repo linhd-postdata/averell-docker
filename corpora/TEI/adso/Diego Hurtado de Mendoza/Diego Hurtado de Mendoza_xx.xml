@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- XX - </title>
+    <author>Diego Hurtado de Mendoza</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Diego Hurtado de Mendoza_xx</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- XX - </title>
+     <author>Diego Hurtado de Mendoza</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- XX - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Amor me dijo en mi primera edad:</l>
+     <l n="2" met="-+-+-+---+-">«Si amares no te cures de razón»</l>
+     <l n="3" met="-+---+---+-">Siguió su voluntad mi corazón;</l>
+     <l n="4" met="-++--+---+-">mas él nunca siguió mi voluntad.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+---+--+-">tráeme ciego de verdad en verdad;</l>
+     <l n="6" met="++-+-+---+-">ya yo sería contento en mi pasión,</l>
+     <l n="7" met="--+--+---+-">que con falsa esperanza de ocasión</l>
+     <l n="8" met="--+--+---+-">me sostenga siquiera en vanidad.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-++--+-">Tanto sería de vana esta esperanza,</l>
+     <l n="10" met="-+-+-+---+-">que no podría caber en mi sentido</l>
+     <l n="11" met="--+--+---+-">ni en consejo de amor ni en vanagloria,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">que finja yo que estoy en tu memoria,</l>
+     <l n="13" met="-+---+---+-">señora, ni lo espero ni lo pido;</l>
+     <l n="14" met="-++--+---+-">que no es bien de afligidos confianza.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nežli se mé srdce</title>
+    <author>Furch, Vincenc</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Furch, Vincenc_nezli-se-me-srdce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nežli se mé srdce</title>
+     <author>Furch, Vincenc</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nežli se mé srdce</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" line_length="6">Nežli se mé srdce </l>
+     <l n="2" met="101000" rhyme="1" line_length="6">Láskou probudilo,</l>
+     <l n="3" met="101001" line_length="6">Beze světla jak noc</l>
+     <l n="4" met="100010" rhyme="1" line_length="6">Bezehvězdná bylo,</l>
+     <l n="5" met="011010" line_length="6">Jak den beze slunce,</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">Jaro beze květu –</l>
+     <l n="7" met="100010" line_length="6">Rozumí mé srdce</l>
+     <l n="8" met="010010" rhyme="2" line_length="6">Teď krásnému světu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

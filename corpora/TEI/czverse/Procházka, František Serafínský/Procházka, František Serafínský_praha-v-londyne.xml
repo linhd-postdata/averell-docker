@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PRAHA V LONDÝNĚ.</title>
+    <author>Procházka, František Serafínský</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">7</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Procházka, František Serafínský_praha-v-londyne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PRAHA V LONDÝNĚ.</title>
+     <author>Procházka, František Serafínský</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PRAHA V LONDÝNĚ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01001000" line_length="8">(Dle některých referátů.)</l>
+    </lg>
+    <lg n="2">
+     <l n="2" met="10001000" line_length="8">Lordmayor sem, lordmayor tam,</l>
+     <l n="3" met="10010010" rhyme="1" line_length="8">brillanty, dámy a diner,</l>
+     <l n="4" met="0101001010" line_length="10">ten sedí v levo, ten zase v pravo,</l>
+     <l n="5" met="01010010" rhyme="1" line_length="8">a dvacet jídel se mine.</l>
+     <l n="6" met="010101010" rhyme="2" line_length="9">To budeš koukat, Kubo, v krátce</l>
+     <l n="7" met="1001001010" rhyme="2" line_length="10">na slavný výsledek téhle práce!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

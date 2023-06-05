@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Forêt magique</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_la-foret-magique</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Forêt magique</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Forêt magique</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">La forêt songe, bleue et pâle,</l>
+     <l n="2" rhyme="b" line_length="8">Dans un féerique demi-jour.</l>
+     <l n="3" rhyme="b" line_length="8">Tout s'y voit spectral, d'aspect sourd,</l>
+     <l n="4" rhyme="a" line_length="8">Par cette nuit d'ambre et d'opale.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Là, c'est un cerf blessé qui râle…</l>
+     <l n="6" rhyme="b" line_length="8">Ici, d'autres, pâmés d'amour…</l>
+     <l n="7" rhyme="a" line_length="8">La forêt songe, bleue et pâle,</l>
+     <l n="8" rhyme="b" line_length="8">Dans un féerique demi-jour.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Ailleurs, une laie et son mâle</l>
+     <l n="10" rhyme="b" line_length="8">Et leurs marcassins tout autour !…</l>
+     <l n="11" rhyme="b" line_length="8">Et, tandis qu'un frais zéphyr court,</l>
+     <l n="12" rhyme="a" line_length="8">Venant la reposer du hâle,</l>
+     <l n="13" rhyme="a" line_length="8">La forêt songe, bleue et pâle.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

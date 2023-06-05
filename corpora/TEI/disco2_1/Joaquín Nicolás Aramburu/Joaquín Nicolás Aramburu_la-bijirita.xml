@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La bijirita</title>
+    <author>Joaquín Nicolás Aramburu</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Joaquín Nicolás Aramburu_la-bijirita</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La bijirita</title>
+     <author>Joaquín Nicolás Aramburu</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La bijirita</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+-++---+-">Hay en mi Cuba un pobre pajarillo</l>
+     <l n="2" met="-+-+-+---+-">que vive libremente en la espesura;</l>
+     <l n="3" met="+-+--+---+-">no seduce con trinos de ternura</l>
+     <l n="4" met="++-+---+-+-">ni ostenta plumas de variado brillo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">Volando de la jagua al mamoncillo</l>
+     <l n="6" met="+--+---+-+-">solo su amada libertad procura;</l>
+     <l n="7" met="+++--+-+-+-">que él no puede vivir en jaula oscura</l>
+     <l n="8" met="--+--+-+-+-">ni llevar en el pie dorado grillo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+++-">Cuando un infame aprisionarlo quiere,</l>
+     <l n="10" met="---+---+-+-">tras el alambre el infeliz se agita</l>
+     <l n="11" met="-+-+---+-+-">y pocas horas de tristeza muere.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">¡Oh, sí! Yo quiero ser la bijirita:</l>
+     <l n="13" met="-+-+---+++-">que a mí también la esclavitud me hiere,</l>
+     <l n="14" met="-+-+---+-+-">mi paz enturbia, y mi ilusión marchita.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Filántropo anónimo</title>
+    <author>Carlos Ortiz</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Carlos Ortiz_filantropo-anonimo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Filántropo anónimo</title>
+     <author>Carlos Ortiz</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Filántropo anónimo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Alumbra con la gracia de su vida</l>
+     <l n="2" met="--+--+-+-+-">a la vida tortuosa y más aciaga,</l>
+     <l n="3" met="-++--+--++-">pues es tal su contento, que así paga,</l>
+     <l n="4" met="--+--+-+-+-">con excesos en él lo que otro pida.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">E impulsado, con alma decidida,</l>
+     <l n="6" met="--+--+---+-">cimentó al altruismo de su saga;</l>
+     <l n="7" met="--+--+-+++-">y el anónimo logro más le halaga</l>
+     <l n="8" met="--+--++--+-">que la ayuda falaz, harto exhibida.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Cobijado su nombre en el arcano,</l>
+     <l n="10" met="---+--+-+-+-">de sus esencia, discute el hombre dos:</l>
+     <l n="11" met="+-+-++++-+-">hay quien dice: tan sólo es un hermano,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+++-+-">quien afirma: seguro es casi dios.</l>
+     <l n="13" met="--+--+-+-+-">Mas que importa, deidad o simple humano,</l>
+     <l n="14" met="--+--+-+-+-">si su nombre a la pena dice adiós.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

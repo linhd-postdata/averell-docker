@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PÍSEŇ KLÁŘINA.</title>
+    <author>Sabina, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sabina, Karel_pisen-klarina</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PÍSEŇ KLÁŘINA.</title>
+     <author>Sabina, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PÍSEŇ KLÁŘINA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101" rhyme="1" line_length="8">Jak chladný vír a temná noc</l>
+     <l n="2" met="10010100" rhyme="2" line_length="8">Se kvapem v život probírá:</l>
+     <l n="3" met="01010100" rhyme="1" line_length="8">Jen jedna s výše kyne moc,</l>
+     <l n="4" met="01010100" rhyme="2" line_length="8">Z níž hvězda jasná pozírá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" rhyme="2" line_length="8">Poslední záře plápolá,</l>
+     <l n="6" met="10010100" rhyme="3" line_length="8">K temnosti hvězda klesá zpět;</l>
+     <l n="7" met="11010101" rhyme="2" line_length="8">Ó, tichá hvězdo – lásko má!</l>
+     <l n="8" met="01000101" rhyme="3" line_length="8">Proč v dálku tvůj tě nese let?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000101" rhyme="4" line_length="8">Ty spěcháš pryč? Zas temná noc</l>
+     <l n="10" met="10010100" rhyme="5" line_length="8">Započne chladit líce mé;</l>
+     <l n="11" met="10010100" rhyme="4" line_length="8">Nekyne žádná s výše moc,</l>
+     <l n="12" met="01010100" rhyme="5" line_length="8">An hvězda má již neplane!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

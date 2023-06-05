@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sueña...</title>
+    <author>Ricardo Gil</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ricardo Gil_suena</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sueña...</title>
+     <author>Ricardo Gil</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sueña...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+-+---+-">No despiertes aún... En los risueños</l>
+     <l n="2" met="-+-+-+---+-">abriles tan cercanos a tu cuna</l>
+     <l n="3" met="+--+-+---+-">vas cabalgando al rayo de la luna</l>
+     <l n="4" met="---+-+---+-">en el corcel nevado de los sueños...</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">Suelta la rienda de oro... Los pequeños</l>
+     <l n="6" met="+--+-+---+-">te atajarán con crítica importuna...</l>
+     <l n="7" met="+-+--+---+-">Déjalos que, envidiando tu fortuna,</l>
+     <l n="8" met="+----+---+-">rían de tus quiméricos empeños.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">De paso vas... Del éter estrellado</l>
+     <l n="10" met="+-+-++---+-">no desciendas a un mundo miserable</l>
+     <l n="11" met="-+-+-+---+-">que todo sueño en lágrimas disuelve...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+---+-+-">¡Antes se pierda tu corcel nevado</l>
+     <l n="13" met="--+--+---+-">en la noche callada, impenetrable</l>
+     <l n="14" met="+--+---+-+-">de esa región de la que nadie vuelve!...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

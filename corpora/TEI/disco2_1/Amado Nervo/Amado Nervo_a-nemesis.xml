@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Némesis</title>
+    <author>Amado Nervo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Amado Nervo_a-nemesis</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Némesis</title>
+     <author>Amado Nervo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Némesis</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---++--+-">Tu brazo en el pesar me precipita,</l>
+     <l n="2" met="++-+-+-+-+-">me robas cuanto el alma me recrea,</l>
+     <l n="3" met="-+-+-+-+-+-">y casi nada tengo: flor que orea</l>
+     <l n="4" met="-+---+-+-+-">tu aliento de simún, se me marchita.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">Pero crece mi fe junto a mi cuita,</l>
+     <l n="6" met="-+-------+-">y digo como el Justo de Idumea:</l>
+     <l n="7" met="-+++-+-+-+-">Así lo quiere Dios, ¡bendita sea!</l>
+     <l n="8" met="--+++++++-">El Señor me lo da. Él me lo quita.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---++-++-">Que medre tu furor, nada me importa:</l>
+     <l n="10" met="-+---+-+-+-">pues todo en Aquel que me conforta,</l>
+     <l n="11" met="-+-+-+--++-">y me resigno al duelo que me mata.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+-+-+-">Porque, roja visión en noche oscura,</l>
+     <l n="13" met="+-+--+---+-">Cristo va por mi vía de amargura</l>
+     <l n="14" met="--+--+---+-">agitando su túnica escarlata.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

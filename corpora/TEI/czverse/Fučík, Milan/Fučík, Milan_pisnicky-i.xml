@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Písničky. I.</title>
+    <author>Fučík, Milan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fučík, Milan_pisnicky-i</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Písničky. I.</title>
+     <author>Fučík, Milan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Písničky. I.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" line_length="8">Sluníčko mé sladké, malé</l>
+     <l n="2" met="00101000" rhyme="1" line_length="8">zas mi vyšlo nad obzorem,</l>
+     <l n="3" met="00101010" line_length="8">když se bylo smutně skrylo</l>
+     <l n="4" met="10001000" rhyme="1" line_length="8">při poledni zamračeném.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101000" line_length="8">Díky, díky, sluníčko mé,</l>
+     <l n="6" met="10101000" rhyme="2" line_length="8">sviť mi, sviť a nezapadej,</l>
+     <l n="7" met="10101010" line_length="8">mám tě tolik, tolik třeba,</l>
+     <l n="8" met="10101000" rhyme="2" line_length="8">sviť a hřej, mě neopouštěj.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" line_length="8">Sviť mi něhou modrých očí,</l>
+     <l n="10" met="10101010" rhyme="3" line_length="8">sviť mi v lesku černých vlasů,</l>
+     <l n="11" met="10101010" line_length="8">sviť mi v jasu svého smutku,</l>
+     <l n="12" met="10101010" rhyme="3" line_length="8">sviť mi zvonkem svého hlasu...</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="00001010" line_length="8">Je to zas ta stará píseň...?</l>
+     <l n="14" met="01001010" rhyme="4" line_length="8">Ne, ta je zas celá nová,</l>
+     <l n="15" met="10101010" line_length="8">nové tóny – motiv starý –</l>
+     <l n="16" met="10001010" rhyme="4" line_length="8">sladčí však je vždycky znova.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

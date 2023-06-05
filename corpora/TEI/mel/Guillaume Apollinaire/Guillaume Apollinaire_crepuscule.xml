@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Crépuscule</title>
+    <author>Guillaume Apollinaire</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Guillaume Apollinaire_crepuscule</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Crépuscule</title>
+     <author>Guillaume Apollinaire</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Crépuscule</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Frôlée par les ombres des morts</l>
+     <l n="2" rhyme="b" line_length="8">Sur l'herbe où le jour s'exténue</l>
+     <l n="3" rhyme="b" line_length="8">L'arlequine s'est mise nue</l>
+     <l n="4" rhyme="a" line_length="8">Et dans l'étang mire son corps</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Un charlatan crépusculaire</l>
+     <l n="6" rhyme="a" line_length="8">Vante les tours que l'on va faire</l>
+     <l n="7" rhyme="b" line_length="8">Le ciel sans teinte est constellé</l>
+     <l n="8" rhyme="b" line_length="8">D'astres pâles comme du lait</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Sur les trétaux l'arlequin blême</l>
+     <l n="10" rhyme="b" line_length="8">Salue d'abord les spectateurs</l>
+     <l n="11" rhyme="a" line_length="8">Des sorciers venus de Bohême</l>
+     <l n="12" rhyme="b" line_length="8">Quelques fées et les enchanteurs</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">Ayant décroché une étoile</l>
+     <l n="14" rhyme="b" line_length="8">Il la manie à bras tendu</l>
+     <l n="15" rhyme="b" line_length="8">Tandis que des pieds un pendu</l>
+     <l n="16" rhyme="a" line_length="8">Sonne en mesure les cymbales</l>
+    </lg>
+    <lg n="5">
+     <l n="17" rhyme="a" line_length="8">L'aveugle berce un bel enfant</l>
+     <l n="18" rhyme="a" line_length="8">La biche passe avec ses faons</l>
+     <l n="19" rhyme="b" line_length="8">Le nain regarde d'un air triste</l>
+     <l n="20" rhyme="b" line_length="8">Grandir l'arlequin trismégiste</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

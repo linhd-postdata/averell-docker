@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto romántico</title>
+    <author>Fernando Fortún</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fernando Fortún_soneto-romantico</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto romántico</title>
+     <author>Fernando Fortún</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto romántico</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+-+---+-">Los pretéritos días que nunca conocimos,</l>
+     <l n="2" met="-+---+----+-+-">los pálidos semblantes, y los tocados viejos,</l>
+     <l n="3" met="+-+--+----+-+-">son como esas mujeres cuyo retrato vimos</l>
+     <l n="4" met="---+-+---+-++-">y a las que amamos sólo porque estaban muy lejos.</l>
+    </lg>
+    <lg n="2" stanza_type="unknown">
+     <l n="5" met="--+--+----+-+-">¡Oh las damas románticas cuyos días pasaron,</l>
+     <l n="6" met="--+--+--+---+-">y, con ellas, sus dioses: Rossini y Lamartine!</l>
+     <l n="7" met="-++--+---+--+-">Tal vez dos iniciales confundidas grabaron</l>
+     <l n="8" met="+-+--+-++--+-">una noche de luna en un viejo jardín.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+--+-+-+-">Vosotras perfumasteis el siglo diez y nueve</l>
+     <l n="10" met="--+--+-++--+-">con las almas de fuego en un cuerpo de nieve,</l>
+     <l n="11" met="--+--+-----+-">de la reina Cristina a Eugenia de Montijo...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+--+---++">Por vosotras, románticas, aún mi corazón arde;</l>
+     <l n="13" met="+-+-+++-+-++-">a este mundo tan viejo, he venido muy tarde;</l>
+     <l n="14" met="-++--+-++--+-">debí ser vuestro amante y he sido vuestro hijo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

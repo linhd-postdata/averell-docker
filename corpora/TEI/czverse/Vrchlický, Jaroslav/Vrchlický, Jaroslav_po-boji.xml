@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PO BOJI.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_po-boji</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PO BOJI.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PO BOJI.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00010010010" rhyme="1" line_length="11">„Tak je to prohráno na celé čáře,“</l>
+     <l n="2" met="10010100" rhyme="2" line_length="8">stařičký řekl generál,</l>
+     <l n="3" met="010010010010" rhyme="1" line_length="12">„jen zkalené zraky, jen pobledlé tváře,</l>
+     <l n="4" met="010010101" rhyme="2" line_length="9">jen koňských a lidských mrtvol val.“</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00010011010" rhyme="3" line_length="11">„Tak je to prohráno,“ kněz šeptl tiše,</l>
+     <l n="6" met="01010100" rhyme="4" line_length="8">„já vidím slzy matek jen,</l>
+     <l n="7" met="01001010010" rhyme="3" line_length="11">ať Klio co chce si rýdlem svým píše,</l>
+     <l n="8" met="01000100" rhyme="4" line_length="8">ten nevstane, kdo zastřelen.“</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="000100100100" rhyme="5" line_length="12">„Tak je to prohráno,“ lékař si vydychnul,</l>
+     <l n="10" met="010100100" rhyme="6" line_length="9">„tvůj lup jest největší, Morano,</l>
+     <l n="11" met="1011010010" rhyme="5" line_length="10">vzdech i pláč stichne... a snad již stichnul,</l>
+     <l n="12" met="100100100" rhyme="6" line_length="9">na rok tu bude zas zoráno.“</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="00010010110" rhyme="7" line_length="11">„Tak je to prohráno,“ dějin duch praví,</l>
+     <l n="14" met="1001010001" line_length="10">letící v mlze přes zdeptaný kraj,</l>
+     <l n="15" met="01001011010" rhyme="7" line_length="11">„nechť života minci Bůh z toho ztaví,</l>
+     <l n="16" met="000101000" line_length="9">však vy jej zítra zdeptáte zas!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

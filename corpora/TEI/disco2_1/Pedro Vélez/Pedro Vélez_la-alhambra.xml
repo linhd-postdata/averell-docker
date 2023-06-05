@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Alhambra</title>
+    <author>Pedro Vélez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pedro Vélez_la-alhambra</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Alhambra</title>
+     <author>Pedro Vélez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Alhambra</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+---+-">La indecisión en mi ánimo domina,</l>
+     <l n="2" met="--+--+---+-">al manchar entre dudas y temores</l>
+     <l n="3" met="---+---+-+-">con mis marchitas e inodoras flores,</l>
+     <l n="4" met="+----+---+-">tu álbum inmaculado, Catalina.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+-+-+-">La página primera me destina</l>
+     <l n="6" met="--+--+---+-">tu bondad. ¡Quién pudiera los colores</l>
+     <l n="7" met="-+-+-+---+-">robar al alba y plácidos rumores</l>
+     <l n="8" met="---+-+---+-">a la sonante fuente cristalina!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">Con ellos complacido entretejiera</l>
+     <l n="10" met="+-+--+---+-">don preciado, poético, brillante,</l>
+     <l n="11" met="--+---+---+-">que orgullosos a tus plantas depusiera.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">¡Imposible! A tu súplica galante</l>
+     <l n="13" met="-+---+---+-">contesta como nota lastimera</l>
+     <l n="14" met="-+---+++-+-">el canto gutural de un ave errante.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

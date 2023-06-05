@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>TVOU DLAŇ.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_tvou-dlan</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>TVOU DLAŇ.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>TVOU DLAŇ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" rhyme="1" line_length="9">TVOU dlaň v své stále cítím dlani</l>
+     <l n="2" met="010101" rhyme="2" line_length="6">a v sluch mi zní tvůj hlas,</l>
+     <l n="3" met="010001010" rhyme="1" line_length="9">a nemohu to věřit ani,</l>
+     <l n="4" met="010100" rhyme="2" line_length="6">že na vždy odešla’s.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101010" rhyme="3" line_length="9">To všechno bylo ještě včera</l>
+     <l n="6" met="010100" rhyme="4" line_length="6">a více není dnes,</l>
+     <l n="7" met="010001000" rhyme="3" line_length="9">jak pohádka, již za večera</l>
+     <l n="8" met="010000" rhyme="4" line_length="6">jsme poslouchali kdes.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100100010" rhyme="5" line_length="9">A jest, – ač nemohu to chápat, –</l>
+     <l n="10" met="010001" rhyme="6" line_length="6">tak ztracený to svět</l>
+     <l n="11" met="000101010" rhyme="5" line_length="9">jak ten, jenž v prach a popel zapad’</l>
+     <l n="12" met="010001" rhyme="6" line_length="6">už před tisíci let.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

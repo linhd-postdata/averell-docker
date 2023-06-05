@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dóm v noci.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_dom-v-noci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dóm v noci.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dóm v noci.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" line_length="9">Jen vítr tichem noci kvílí,</l>
+     <l n="2" met="11000101" rhyme="1" line_length="8">v stín zamlklý se halí dóm.</l>
+     <l n="3" met="010001000" line_length="9">A nahoře kdes’ ve trámoví</l>
+     <l n="4" met="01010100" rhyme="1" line_length="8">je praskot slyšet v tichu tom.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010001010" line_length="9">A netopýr se mihne v letu,</l>
+     <l n="6" met="11010010" rhyme="2" line_length="8">zní dlažbou kroky, kdo ví čí.</l>
+     <l n="7" met="100101000" line_length="9">V měsíčním světle příšerně se</l>
+     <l n="8" met="10010100" rhyme="2" line_length="8">kamenní šklebí chrliči.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

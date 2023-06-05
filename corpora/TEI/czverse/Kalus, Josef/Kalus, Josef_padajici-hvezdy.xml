@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Padající hvězdy.</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_padajici-hvezdy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Padající hvězdy.</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Padající hvězdy.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="000010" line_length="6">Co se to, můj bože,</l>
+     <l n="2" met="100010" rhyme="1" line_length="6">na nebi dnes děje,</l>
+     <l n="3" met="010100" line_length="6">že jedna za druhou</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">hvězda dolů spěje?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="001000" line_length="6">Což víc nelibují,</l>
+     <l n="6" met="100010" rhyme="2" line_length="6">nebeskou si luku,</l>
+     <l n="7" met="010010" line_length="6">že padají k zemi</l>
+     <l n="8" met="001010" rhyme="2" line_length="6">jak to listí s buku?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="001010" line_length="6">Či snad bůh sám trhá</l>
+     <l n="10" met="100010" rhyme="3" line_length="6">hvězdnaté to kvítí,</l>
+     <l n="11" met="100100" line_length="6">chce jím, jak slzami,</l>
+     <l n="12" met="101000" rhyme="3" line_length="6">zemi posvětiti?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

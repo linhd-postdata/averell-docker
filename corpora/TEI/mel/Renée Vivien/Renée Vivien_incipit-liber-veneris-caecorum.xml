@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>INCIPIT LIBER VENERIS CÆCORUM</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_incipit-liber-veneris-caecorum</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>INCIPIT LIBER VENERIS CÆCORUM</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>INCIPIT LIBER VENERIS CÆCORUM</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Le feuillage s’écarte en des plis de rideaux</l>
+     <l n="2" rhyme="b" line_length="5+5">Forment un arc-en-ciel blanc sur une mer noire.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="6+6">Le mystère a masqué son visage inconnu.</l>
+     <l n="4" rhyme="b" line_length="5+5">Car son orgueil ne veut que la ferveur du rêve.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="6+6">Les Aveugles se sont traînés à ses genoux,</l>
+     <l n="6" rhyme="b" line_length="5+5">Une larme a coulé de leur paupière rouge.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

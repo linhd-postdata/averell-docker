@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VSTUP.</title>
+    <author>Eisler, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Eisler, František_vstup</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VSTUP.</title>
+     <author>Eisler, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VSTUP.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101001000100" rhyme="1" line_length="13">V té noci vlažné se rozvíjejí poupata,</l>
+     <l n="2" met="10000100101000" rhyme="2" line_length="14">na přebolestných stvolech se těžce otvírají;</l>
+     <l n="3" met="110100110100" rhyme="1" line_length="12">myrt, růží, lilií, snů žeň jest bohatá –</l>
+     <l n="4" met="01000100010001000" rhyme="2" line_length="17">a pod měsícem nad záhony extaticky zavlávají.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1101010101010" rhyme="2" line_length="13">Ó noci, která víš, co vůně srdce tají,</l>
+     <l n="6" met="0101000101000" rhyme="3" line_length="13">to na kříž přibité a lotry rozeklané,</l>
+     <l n="7" met="010001001001000" rhyme="2" line_length="15">jak divoce se ňadra tvá s úpěním pozdvihají,</l>
+     <l n="8" met="0101000101010" rhyme="3" line_length="13">a světlo měsíční se mění v slzy slané!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101000101000" rhyme="4" line_length="13">Ta puklá poupata proč chvít se nepřestanou</l>
+     <l n="10" met="0101001001010" rhyme="5" line_length="13">a sotva rozkvetlá v korunách odkvět hostí? –</l>
+     <l n="11" met="0101000101010" rhyme="4" line_length="13">V ně z boku Kristova kéž kapky krve kanou,</l>
+     <l n="12" met="0101000101000" rhyme="5" line_length="13">a Kristus žehná jim svou svatou sinalostí!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

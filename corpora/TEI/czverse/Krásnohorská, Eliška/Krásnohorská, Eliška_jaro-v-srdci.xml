@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jaro v srdci.</title>
+    <author>Krásnohorská, Eliška</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Krásnohorská, Eliška_jaro-v-srdci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jaro v srdci.</title>
+     <author>Krásnohorská, Eliška</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jaro v srdci.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Do hor vniká jara záře,</l>
+     <l n="2" met="1010101" rhyme="2" line_length="7">tužba smělá budí květ,</l>
+     <l n="3" met="10101000" rhyme="1" line_length="8">krása touží ze žaláře,</l>
+     <l n="4" met="1000101" rhyme="2" line_length="7">z poupěte se dere svět;</l>
+     <l n="5" met="10001010" rhyme="3" line_length="8">omlazené slunce jásá,</l>
+     <l n="6" met="0010100" rhyme="4" line_length="7">a v té směsi blažené</l>
+     <l n="7" met="10100100" rhyme="3" line_length="8">sladká bolesť mnou otřásá –</l>
+     <l n="8" met="1100100" line_length="7">chceš rozkvétat, srdce mé?</l>
+    </lg>
+    <lg n="2">
+     <l n="9" met="10010010" rhyme="5" line_length="8">Vítězně ve mráčku skví se</l>
+     <l n="10" met="1010100" rhyme="6" line_length="7">první bouře, těkajíc,</l>
+     <l n="11" met="10101000" rhyme="5" line_length="8">a kdy hravě utiší se,</l>
+     <l n="12" met="1010100" rhyme="6" line_length="7">země letí nebi vstříc.</l>
+     <l n="13" met="10101010" rhyme="7" line_length="8">V prsou dují mladá muka,</l>
+     <l n="14" met="1010100" rhyme="4" line_length="7">žití nové, plamenné,</l>
+     <l n="15" met="10101010" rhyme="7" line_length="8">tisíc úzkých roušek puká –</l>
+     <l n="16" met="1010100" line_length="7">rozkvěť, rozkvěť, srdce mé!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

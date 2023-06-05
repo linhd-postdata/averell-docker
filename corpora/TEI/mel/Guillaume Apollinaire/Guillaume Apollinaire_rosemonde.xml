@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Rosemonde</title>
+    <author>Guillaume Apollinaire</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Guillaume Apollinaire_rosemonde</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Rosemonde</title>
+     <author>Guillaume Apollinaire</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Rosemonde</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="8">Longtemps au pied du perron de</l>
+     <l n="2" line_length="8">La maison où entra la dame</l>
+     <l n="3" line_length="8">Que j'avais suivie pendant deux</l>
+     <l n="4" line_length="8">Bonnes heures à Amsterdam</l>
+     <l n="5" line_length="8">Mes doigts jetèrent des baisers</l>
+    </lg>
+    <lg n="2">
+     <l n="6" line_length="8">Mais le canal était désert</l>
+     <l n="7" line_length="8">Le quai aussi et nul ne vit</l>
+     <l n="8" line_length="8">Comment mes baisers retrouvèrent</l>
+     <l n="9" line_length="8">Celle à qui j'ai donné ma vie</l>
+     <l n="10" line_length="8">Un jour pendant plus de deux heures</l>
+    </lg>
+    <lg n="3">
+     <l n="11" line_length="8">Je la surnommai Rosemonde</l>
+     <l n="12" line_length="8">Voulant pouvoir me rappeler</l>
+     <l n="13" line_length="8">Sa bouche fleurie en Hollande</l>
+     <l n="14" line_length="8">Puis lentement je m'en allai</l>
+     <l n="15" line_length="8">Pour quêter la Rose du Monde</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

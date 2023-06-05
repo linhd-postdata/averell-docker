@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mistra z díla poznáváme! –</title>
+    <author>Nečas, Jan Evangelista</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nečas, Jan Evangelista_mistra-z-dila-poznavame</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mistra z díla poznáváme! –</title>
+     <author>Nečas, Jan Evangelista</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mistra z díla poznáváme! –</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" line_length="8">Mistra z díla poznáváme! – </l>
+     <l n="2" met="1010100" rhyme="1" line_length="7">Chtěje myslit o Bohu,</l>
+     <l n="3" met="10101010" line_length="8">rád se dívám v jasné noci</l>
+     <l n="4" met="1000100" rhyme="1" line_length="7">na vysokou oblohu.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001000" line_length="8">V tajemném tom velechrámě</l>
+     <l n="6" met="1011100" rhyme="2" line_length="7">blýskot hvězd, svit měsíce</l>
+     <l n="7" met="10001000" line_length="8">ke zbožnému rozjímání</l>
+     <l n="8" met="1000100" rhyme="2" line_length="7">nabádá mě nejvíce.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

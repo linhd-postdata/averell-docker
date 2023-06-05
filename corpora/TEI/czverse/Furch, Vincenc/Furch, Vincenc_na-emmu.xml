@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Na Emmu.</title>
+    <author>Furch, Vincenc</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Furch, Vincenc_na-emmu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Na Emmu.</title>
+     <author>Furch, Vincenc</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Na Emmu.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="000101010" rhyme="1" line_length="9">Ty jsi mi mnohou píseň pěla,</l>
+     <l n="2" met="100101010" rhyme="1" line_length="9">Smutnou, jak duše má ji chtěla,</l>
+     <l n="3" met="110000100" line_length="9">Duch truchlivosti mne opustil,</l>
+     <l n="4" met="00100" rhyme="1" line_length="5">Když jen zazněla.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101010" rhyme="2" line_length="9">Tvůj sladký zpěv jak rosa plynul,</l>
+     <l n="6" met="100101010" rhyme="2" line_length="9">Úzce se k mému srdci vinul,</l>
+     <l n="7" met="101001000" line_length="9">Ve mně utichlo – zdaleka mi</l>
+     <l n="8" met="11010" rhyme="2" line_length="5">Duch míru kynul.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100101010" rhyme="3" line_length="9">Nyní když znova trud se jeví,</l>
+     <l n="10" met="010100010" rhyme="3" line_length="9">Má duše pomoci si neví –</l>
+     <l n="11" met="100100010" line_length="9">Emma je vzdálená – mně zpěvem</l>
+     <l n="12" met="01000" rhyme="3" line_length="5">Víc neuleví.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="101001010" rhyme="4" line_length="9">Její hlas už mě kojit nemá,</l>
+     <l n="14" met="101001010" rhyme="4" line_length="9">Ústa její jsou pro mne němá – –</l>
+     <l n="15" met="100001010" line_length="9">V zapomenutí darmo šeptám:</l>
+     <l n="16" met="10010" rhyme="4" line_length="5">„Zazpívej, Emma!“ – –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

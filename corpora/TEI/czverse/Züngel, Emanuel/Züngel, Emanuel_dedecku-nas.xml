@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dědečku náš,</title>
+    <author>Züngel, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Züngel, Emanuel_dedecku-nas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dědečku náš,</title>
+     <author>Züngel, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dědečku náš,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000" rhyme="1" line_length="4">Dědečku náš, </l>
+     <l n="2" met="0010" rhyme="1" line_length="4">co pak děláš,</l>
+     <l n="3" met="110100" rhyme="2" line_length="6">den v roce jediný</l>
+     <l n="4" met="000100" rhyme="2" line_length="6">jsou jen Tvé jmeniny,</l>
+     <l n="5" met="0010" rhyme="1" line_length="4">Ty nic nedbáš.</l>
+     <l n="6" met="1000" rhyme="3" line_length="4">Dědečku můj,</l>
+     <l n="7" met="1010" rhyme="3" line_length="4">slyš, co vnuk Tvůj</l>
+     <l n="8" met="100100" rhyme="4" line_length="6">přeje Ti: se všemi</l>
+     <l n="9" met="100100" rhyme="4" line_length="6">slastmi tu na zemi</l>
+     <l n="10" met="1100" rhyme="3" line_length="4">trav život svůj.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

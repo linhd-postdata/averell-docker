@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V lomu.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_v-lomu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V lomu.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V lomu.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" rhyme="1" line_length="9">Bych nový křišťál přines’ domů,</l>
+     <l n="2" met="01000101" rhyme="2" line_length="8">svých papírů jsem složil směs</l>
+     <l n="3" met="010001010" rhyme="1" line_length="9">a procházkou jsem kráčel k lomu,</l>
+     <l n="4" met="01010101" rhyme="2" line_length="8">jejž v ňadrech skrýval temný les.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101010" rhyme="3" line_length="9">Jak smutno bylo v skal těch lůně,</l>
+     <l n="6" met="01010001" rhyme="4" line_length="8">jak chmurný pracovníkův zjev;</l>
+     <l n="7" met="110101010" rhyme="3" line_length="9">stěn vlhkost, štěrk i voda tůně,</l>
+     <l n="8" met="01010001" rhyme="4" line_length="8">vše bylo zbarveno jak krev.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010001010" rhyme="5" line_length="9">Zde poledním jsa dařen klidem</l>
+     <l n="10" met="01010100" rhyme="6" line_length="8">jed’ dělník chléb svůj po práci,</l>
+     <l n="11" met="010001010" rhyme="5" line_length="9">mně zdálo se, že nad tím lidem</l>
+     <l n="12" met="01010100" rhyme="6" line_length="8">i skála srdcem krvácí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

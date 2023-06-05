@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A los Estados Unidos</title>
+    <author>Cándido Ruiz Martínez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cándido Ruiz Martínez_a-los-estados-unidos</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A los Estados Unidos</title>
+     <author>Cándido Ruiz Martínez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A los Estados Unidos</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+------+-">¡Oh coloso del Nuevo Continente</l>
+     <l n="2" met="---+---+-+-">que, desdeñando la guerrera gloria</l>
+     <l n="3" met="--+--+---+-">y teniendo el trabajo por victoria,</l>
+     <l n="4" met="++-+-+---+-">te hiciste grande, rico, independiente!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+---+-">¡Oh ilustre pueblo, asombro de la mente,</l>
+     <l n="6" met="-++-++-+-+-">que en un siglo no más de propia historia,</l>
+     <l n="7" met="+-+-++---+-">has logrado tan noble ejecutoria</l>
+     <l n="8" met="---+-+-+-+-">que del progreso humano vas al frente!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+---+-">Borra ya de tu escudo las estrellas,</l>
+     <l n="10" met="-++--+---+-">pues son hijas del Cielo, e iracundo,</l>
+     <l n="11" met="+--+---+-+-">ahora con sangre tu camino sellas;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+-+-+-">olvida tu pasado tan fecundo;</l>
+     <l n="13" met="++---+---+-">¡ya luchas, y conquistas, y atropellas!</l>
+     <l n="14" met="+-+--+---+-">¡ya eres digna nación del Viejo Mundo!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

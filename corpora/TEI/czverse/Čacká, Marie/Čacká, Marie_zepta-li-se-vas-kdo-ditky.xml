@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Zeptá-li se vás kdo, dítky,</title>
+    <author>Čacká, Marie</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čacká, Marie_zepta-li-se-vas-kdo-ditky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Zeptá-li se vás kdo, dítky,</title>
+     <author>Čacká, Marie</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Zeptá-li se vás kdo, dítky,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10000010" line_length="8">Zeptá-li se vás kdo, dítky, </l>
+     <l n="2" met="100010" rhyme="1" line_length="6">Které jste vy matky,</l>
+     <l n="3" met="10001001" line_length="8">Řekněte mu, že té, co má</l>
+     <l n="4" met="110010" rhyme="1" line_length="6">Dva veliké statky.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" line_length="8">Jeden jako odkaz svatý</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">Ve svém srdci nosí,</l>
+     <l n="7" met="10101010" line_length="8">Druhý, kterým přede světem</l>
+     <l n="8" met="100100" rhyme="2" line_length="6">ráda se honosí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="11101010" line_length="8">Vlast má a vy dítky milé,</l>
+     <l n="10" met="001010" rhyme="1" line_length="6">To jsou moje statky:</l>
+     <l n="11" met="10001010" line_length="8">Nerouhej se, hrubý světe,</l>
+     <l n="12" met="101010" rhyme="1" line_length="6">Chloubě blahé matky!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

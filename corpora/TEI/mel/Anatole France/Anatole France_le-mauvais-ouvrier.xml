@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Mauvais Ouvrier</title>
+    <author>Anatole France</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Anatole France_le-mauvais-ouvrier</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Mauvais Ouvrier</title>
+     <author>Anatole France</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Mauvais Ouvrier</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Maître Laurent Coster, cœur plein de poésie,</l>
+     <l n="2" rhyme="b" line_length="6+6">Quitte les compagnons qui du matin au soir,</l>
+     <l n="3" rhyme="b" line_length="6+6">Vignerons de l’esprit, font gémir le pressoir ;</l>
+     <l n="4" rhyme="a" line_length="6+6">Et Coster va rêvant selon sa fantaisie.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Car il aime d’amour le démon Aspasie.</l>
+     <l n="6" rhyme="b" line_length="6+6">Sur son banc, à l’église, il va parfois s’asseoir,</l>
+     <l n="7" rhyme="b" line_length="6−6">Et voit flotter dans la vapeur de l’encensoir</l>
+     <l n="8" rhyme="a" line_length="6+6">La dame de l’enfer que son âme a choisie ;</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Ou bien encor, tout seul au bord d’un puits mousseux,</l>
+     <l n="10" rhyme="c" line_length="6+6">Joignant ses belles mains d’ouvrier paresseux,</l>
+     <l n="11" rhyme="d" line_length="6+6">Il écoute sans fin la sirène qui chante.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Et je ne sais non plus travailler ni prier ;</l>
+     <l n="13" rhyme="e" line_length="6+6">Je suis, comme Coster, un mauvais ouvrier,</l>
+     <l n="14" rhyme="d" line_length="6+6">À cause des beautés d’une femme méchante</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

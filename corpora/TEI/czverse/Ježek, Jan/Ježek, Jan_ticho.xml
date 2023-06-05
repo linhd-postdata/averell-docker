@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ticho.</title>
+    <author>Ježek, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ježek, Jan_ticho</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ticho.</title>
+     <author>Ježek, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ticho.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01001010" line_length="8">Když po nebi černá mračna</l>
+     <l n="2" met="1010" rhyme="1" line_length="4">letí, letí,</l>
+     <l n="3" met="10101010" line_length="8">poutník v chýžku, ptáče spěje</l>
+     <l n="4" met="1010" rhyme="1" line_length="4">v snětí, v snětí...</l>
+     <l n="5" met="101010" line_length="6">Znáš to děsné ticho?</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="01001010" line_length="8">Když u rakve otce dítky</l>
+     <l n="7" met="1010" rhyme="2" line_length="4">klečí, klečí,</l>
+     <l n="8" met="00101010" line_length="8">a s ním hovor vedou slzí</l>
+     <l n="9" met="1010" rhyme="2" line_length="4">řečí, řečí...</l>
+     <l n="10" met="101010" line_length="6">Znáš to bolné ticho?</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="01001010" line_length="8">Když u večer kvítka hlavy</l>
+     <l n="12" met="1010" rhyme="3" line_length="4">kloní, kloní,</l>
+     <l n="13" met="10101000" line_length="8">s vížky zvonek ku klekání</l>
+     <l n="14" met="1010" rhyme="3" line_length="4">zvoní, zvoní...</l>
+     <l n="15" met="101010" line_length="6">Znáš to svaté ticho?</l>
+    </lg>
+    <lg n="4">
+     <l n="16" met="00101010" line_length="8">Když tvá ňadra kruté boly</l>
+     <l n="17" met="1010" rhyme="4" line_length="4">tísní, tísní,</l>
+     <l n="18" met="10101000" line_length="8">děva k srdci zahovoří</l>
+     <l n="19" met="1010" rhyme="4" line_length="4">písní písní...</l>
+     <l n="20" met="101010" line_length="6">Znáš to blahé ticho?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

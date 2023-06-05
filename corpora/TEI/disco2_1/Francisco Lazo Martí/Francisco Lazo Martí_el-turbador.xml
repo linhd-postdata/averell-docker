@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El turbador</title>
+    <author>Francisco Lazo Martí</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco Lazo Martí_el-turbador</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El turbador</title>
+     <author>Francisco Lazo Martí</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El turbador</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">En silencio la selva se recrea:</l>
+     <l n="2" met="+++--+-+-+-">ya no turba su paz el rudo hachero</l>
+     <l n="3" met="---+-++--+-">a cuyo golpe aquel roble altanero</l>
+     <l n="4" met="-+--++---+-">vibraba con un ritmo de odisea.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+-++---+-">Junto al árbol que un hálito menea,</l>
+     <l n="6" met="+--+-++--+-">presa de oculto mal yace el bracero:</l>
+     <l n="7" met="-----+++-+-">y a través de la fronda un sol artero</l>
+     <l n="8" met="-+--++-+-+-">con lanza de cien puntas lo alancea.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Abrazado a su hacha de combate,</l>
+     <l n="10" met="-+--+-+--+-">contraída la faz, el ceño adusto,</l>
+     <l n="11" met="-+---+---+-">en garras de la fiebre se debate.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+---+-+-">Y bajo el roble -de su vida ignota-</l>
+     <l n="13" met="+--+---+-+-">finge su cuerpo miserable arbusto</l>
+     <l n="14" met="---+---+-+-">que despiadado el vendaval azota.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

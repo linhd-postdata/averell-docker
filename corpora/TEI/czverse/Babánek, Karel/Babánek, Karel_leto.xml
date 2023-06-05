@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LÉTO.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_leto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LÉTO.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LÉTO.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010010" line_length="10">Šípkovým keřem, chrpami v poli,</l>
+     <l n="2" met="10010100" rhyme="1" line_length="8">mákem, jenž rudě zahoří,</l>
+     <l n="3" met="1001010010" line_length="10">motýlem v letu, žlutavým klasem,</l>
+     <l n="4" met="10010100" rhyme="1" line_length="8">léto zas k srdci hovoří.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001010010" line_length="10">Hovoří k srdci alejí stinnou,</l>
+     <l n="6" met="10010100" rhyme="2" line_length="8">vlašťovkou tichým pod krovem,</l>
+     <l n="7" met="1001010010" line_length="10">v zeleni bílým, ukrytým domem,</l>
+     <l n="8" met="10010100" rhyme="2" line_length="8">který tvým býval domovem.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Povzdech k večernici.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_povzdech-k-vecernici</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Povzdech k večernici.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Povzdech k večernici.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101010001" rhyme="1" line_length="13">Říkají, žes hvězdou lásky, nuže tak mi sviť</l>
+     <l n="2" met="0100100010101" rhyme="1" line_length="13">a z paprsků stříbrných a sladkých spleť mi síť;</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="1010101010100" rhyme="2" line_length="13">abych, až se s okna ke mně skloní unylá,</l>
+     <l n="4" met="1010101010100" rhyme="2" line_length="13">v síť tu chytil její duši jako motýla.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sonetos</title>
+    <author>Fernando Maristany</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fernando Maristany_sonetos</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sonetos</title>
+     <author>Fernando Maristany</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sonetos</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+++-+-+--++-">Pues que ella es todo invierno y aun en el mismo hielo,</l>
+     <l n="2" met="-----+-+---+-">pues que su corazón de témpanos armado</l>
+     <l n="3" met="++---+--+---+-">tan sólo de mis cantos se muestra enamorado,</l>
+     <l n="4" met="-+++-+-+---+-">¿Por qué tan loco soy que sigo con mi anhelo?</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++---+--++--+-">¿Qué puedo de su nombre lograr ver alcanzado</l>
+     <l n="6" met="++-+-+--+++-+-">más que un honesto yugo, que oprime aun siendo bello?</l>
+     <l n="7" met="+++--+-++---+-">No está, dueña y señora, tan blanco mi cabello</l>
+     <l n="8" met="----++-++---+-">que vuestro lugar otra no ocupe de buen grado.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+++-++---+-">Amor, que al fin es niño, no oculta la verdad:</l>
+     <l n="10" met="+++--+--++--+-">no sois tan arrogante ni tan rica en beldad</l>
+     <l n="11" met="-+---++--+-+-">que hayáis de desdeñar a un corazón leal;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+-++-++-">volver a mis abriles no puedo hacerlo hoy;</l>
+     <l n="13" met="-++--+-++--+-">amadme si podéis amarme como estoy,</l>
+     <l n="14" met="+--+-+---+-+-">y os amaré también cuando estaréis igual.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

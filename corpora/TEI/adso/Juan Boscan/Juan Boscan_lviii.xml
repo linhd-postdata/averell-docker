@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- LVIII - </title>
+    <author>Juan Boscan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Boscan_lviii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- LVIII - </title>
+     <author>Juan Boscan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- LVIII - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+-+-+-">Si en mitad del dolor tener memoria</l>
+     <l n="2" met="--+--+++-+-">del pasado placer, es gran tormento;</l>
+     <l n="3" met="-+-+-----+-">así también en el contentamiento</l>
+     <l n="4" met="--+--+-+++-">acordarse del mal pasado es gloria.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+-+-+-">Por do, según el curso de esta historia,</l>
+     <l n="6" met="++---+---+-">no hay cosa que me venga al pensamiento,</l>
+     <l n="7" met="-+-+-+-+-+-">que toda no se vuelva en un momento</l>
+     <l n="8" met="-+---+---+-">en lustre y en favor de mi victoria.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-+---+-">Como en la mar, después de la tiniebla,</l>
+     <l n="10" met="+--+---+-+-">pone alborozo el asomar el día,</l>
+     <l n="11" met="-+-+-+-+-+-">y entonces fue placer la noche oscura;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---++--+-">así en mi corazón, ida la niebla,</l>
+     <l n="13" met="-+--++---+-">levanta en mayor punto la alegría</l>
+     <l n="14" met="--+--+---+-">el pasado dolor de la tristura.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

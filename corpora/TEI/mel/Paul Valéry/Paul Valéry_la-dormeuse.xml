@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Dormeuse</title>
+    <author>Paul Valéry</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Valéry_la-dormeuse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Dormeuse</title>
+     <author>Paul Valéry</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Dormeuse</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Quels secrets dans mon cœur brûle ma jeune amie,</l>
+     <l n="2" rhyme="b" line_length="6+6">Âme par le doux masque aspirant une fleur ?</l>
+     <l n="3" rhyme="b" line_length="6+6">De quels vains aliments sa naïve chaleur</l>
+     <l n="4" rhyme="a" line_length="6+6">Fait ce rayonnement d’une femme endormie ?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Souffles, songes, silence, invincible accalmie,</l>
+     <l n="6" rhyme="b" line_length="6+6">Tu triomphes, ô paix plus puissante qu’un pleur,</l>
+     <l n="7" rhyme="b" line_length="6+6">Quand de ce plein sommeil l’onde grave et l’ampleur</l>
+     <l n="8" rhyme="a" line_length="6+6">Conspirent sur le sein d’une telle ennemie.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Dormeuse, amas doré d’ombres et d’abandons,</l>
+     <l n="10" rhyme="c" line_length="6+6">Ton repos redoutable est chargé de tels dons,</l>
+     <l n="11" rhyme="d" line_length="6+6">Ô biche avec langueur longue auprès d’une grappe,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Que malgré l’âme absente, occupée aux enfers,</l>
+     <l n="13" rhyme="d" line_length="6+6">Ta forme au ventre pur qu’un bras fluide drape,</l>
+     <l n="14" rhyme="e" line_length="6+6">Veille ; ta forme veille, et mes yeux sont ouverts.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

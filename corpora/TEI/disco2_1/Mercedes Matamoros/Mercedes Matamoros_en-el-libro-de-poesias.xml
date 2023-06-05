@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>En el libro de poesías</title>
+    <author>Mercedes Matamoros</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mercedes Matamoros_en-el-libro-de-poesias</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>En el libro de poesías</title>
+     <author>Mercedes Matamoros</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>En el libro de poesías</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+--++-+-+-">Del libro en que tú y él habéis leído</l>
+     <l n="2" met="+-+--+---+-">graba ¡oh, niña! en la página postrera</l>
+     <l n="3" met="--+-++---+-">la palabra más triste y lastimera</l>
+     <l n="4" met="---+---+-+-">para el ardiente corazón: ¡olvido!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+----+-+-+-">Símbolo de la muerte, al que ha sentido</l>
+     <l n="6" met="-+---+-+-+-">la dicha, la pasión, la fe sincera,</l>
+     <l n="7" met="+++--+-+-+-">le dice esa palabra que es quimera</l>
+     <l n="8" met="+-+--+-+-+-">cuanto está por nacer o que ha nacido.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--++--+-">Y esos versos que a amar te convidaron,</l>
+     <l n="10" met="-++--+---+-">y a dos almas dormidas despertaron</l>
+     <l n="11" met="--+--+---+-">que sobre ellos sus lágrimas vertieron,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">serán ¡ay! cual las notas suspiradas</l>
+     <l n="13" met="--+-++---+-">que exhalaron dos olas enlazadas</l>
+     <l n="14" met="--+--+---+-">y en el mar de la vida se perdieron.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

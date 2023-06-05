@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mé dvě duše.</title>
+    <author>Koukl, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Koukl, Antonín_me-dve-duse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mé dvě duše.</title>
+     <author>Koukl, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mé dvě duše.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101" line_length="8">Že jenom jednu duši mám?</l>
+     <l n="2" met="01010100" rhyme="1" line_length="8">To lžete, páni páteři!</l>
+     <l n="3" met="01110000" line_length="8">Já dvě mám – vím to líp než vy –</l>
+     <l n="4" met="010100" rhyme="1" line_length="6">ač nikdo nevěří.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">Ta jedna – budiž – v prsou je</l>
+     <l n="6" met="01010101" rhyme="2" line_length="8">a v tanec žene všechnu krev,</l>
+     <l n="7" met="01010000" line_length="8">tou druhou duší je mi však</l>
+     <l n="8" met="010101" rhyme="2" line_length="6">ten zvučný český zpěv!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000101" line_length="8">Ba duší mi! Mne nesmí bol</l>
+     <l n="10" met="01010100" rhyme="3" line_length="8">jak jiné hnáti na pospas –</l>
+     <l n="11" met="11010100" line_length="8">trud všechen v písni vyzpívám –</l>
+     <l n="12" met="100100" rhyme="3" line_length="6">a pak jsem šťasten zas!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

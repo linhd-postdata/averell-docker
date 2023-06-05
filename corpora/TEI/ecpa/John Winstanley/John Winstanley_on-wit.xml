@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>On WIT.</title>
+    <author>John Winstanley</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>John Winstanley_on-wit</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Eighteenth Century Poetry Archive</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>On WIT.</title>
+     <author>John Winstanley</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>On WIT.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="quatrain">
+     <l n="1" met="-+|-+|-+|-+" line_length="8">TRUE wit is like the brilliant stone</l>
+     <l n="2" met="-+|-+|-+" line_length="6">Dug from the Indian mine;</l>
+     <l n="3" met="-+|-+|-+|-+" line_length="8">Which boasts two various powers in one</l>
+     <l n="4" met="-+|-+|-+" line_length="6">To cut as well as shine,</l>
+    </lg>
+    <lg n="2" stanza_type="quatrain">
+     <l n="5" met="-+|-+|-+|-+" line_length="8">Genius, like that, if polish'd right,</l>
+     <l n="6" met="-+|-+|-+" line_length="6">With the same gifts abounds;</l>
+     <l n="7" met="-+|-+|-+|-+" line_length="8">Appears at once both keen and bright,</l>
+     <l n="8" met="-+|-+|-+" line_length="6">And sparkles while it wounds.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Por tu musa</title>
+    <author>Delmira Agustini</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Delmira Agustini_por-tu-musa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Por tu musa</title>
+     <author>Delmira Agustini</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Por tu musa</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="---+---+-+-">Cuando derrama en los hombros puros</l>
+     <l n="2" met="--+--+---+-">de tu musa la túnica de nieve,</l>
+     <l n="3" met="+-+--+---+-">yo concentro mis pétalos oscuros</l>
+     <l n="4" met="-++----+-+-">y soy el lirio de alabastro leve.</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="---+-++--+-">Para tu musa en rosa, me abro en rosa;</l>
+     <l n="6" met="---+++-+-+-">mi corazón es miel, perfume y fuego,</l>
+     <l n="7" met="-+-+-+-+-+-">y vivo y muero de una sed gloriosa:</l>
+     <l n="8" met="-+-+-+-+-+-">tu sangre viva debe ser mi riego.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+--++-+-">Cuando velada con un tul de luna</l>
+     <l n="10" met="+-+--+---+-">bebe calma y azur en la laguna,</l>
+     <l n="11" met="++-+---+-+-">yo soy el cisne que soñando vuela;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+--++-">y si en luto magnífico la vistes</l>
+     <l n="13" met="---+---+-+-">para vagar por los senderos tristes,</l>
+     <l n="14" met="+-+--+-+-+-">soy la luz o la sombra de una estela.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

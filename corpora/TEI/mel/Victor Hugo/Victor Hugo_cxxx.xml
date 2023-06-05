@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CXXX</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">7</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_cxxx</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CXXX</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CXXX</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="6+6">La terre est à l'erreur, au vertige, à l'absurde.</l>
+     <l n="2" rhyme="a" line_length="6+6">O démence éternelle ! ô noir diapason,</l>
+     <l n="3" rhyme="a" line_length="6+6">Hommes, de la folie avec votre raison !</l>
+     <l n="4" rhyme="b" line_length="6+6">En Perse, le muezzin, toujours ; c'est la loi sainte,</l>
+     <l n="5" rhyme="b" line_length="6+6">Est un vieillard pour qui lalumière est éteinte.</l>
+     <l n="6" rhyme="c" line_length="6+6">Et ce veilleur sans yeux est debout sur sa tour ;</l>
+     <l n="7" rhyme="c" line_length="6+6">Et que fait cet aveugle ? il annonce le jour.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

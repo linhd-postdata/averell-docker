@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- XXX - </title>
+    <author>Juan Boscan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Boscan_xxx</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- XXX - </title>
+     <author>Juan Boscan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- XXX - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+---+++-">¿Do están mis ojos, que su luz no ven?</l>
+     <l n="2" met="++-+---+++-">¿Do está mi lengua, que a mi bien no cuenta</l>
+     <l n="3" met="-+-+--++-+-">mi tanto mal y mi tan gran tormenta,</l>
+     <l n="4" met="-+---+-+-+-">que ya por mis pecados no me creen?</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++-+++---+-">¿Do están mis pies?, ¿Do irán, que se paseen</l>
+     <l n="6" met="---++--+-+-">por el lugar do comenzó mi afrenta?</l>
+     <l n="7" met="++-+--+--+-">¿Do está mi cuerpo, que no se presenta</l>
+     <l n="8" met="-----+---+-">adonde sus sentidos le recreen?</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+-+-+-+-">¿Do está el andar con ansia todo el día,</l>
+     <l n="10" met="--+---+--+-">preguntando por quien nuevas me diese</l>
+     <l n="11" met="---+-----+-">de mi placer, aunque me entristecía?</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+--+--+-">¿Do el sobresalto, si alguno querría</l>
+     <l n="13" met="-++--+---+-">decirme algo, primero que lo oyese?</l>
+     <l n="14" met="+-+--+---+-">¡Y era bueno después cuando lo oía!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

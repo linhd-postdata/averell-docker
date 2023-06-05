@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Orlí krev.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_orli-krev</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Orlí krev.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Orlí krev.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000" line_length="5">Tam na výšinách</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">mocný vichr hučí –</l>
+     <l n="3" met="101000100010" line_length="12">ale v údolině slunečko se směje,</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">bílé květy pučí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000" line_length="5">Tam na výšinách</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">vzteklé hromy bouří –</l>
+     <l n="7" met="101000100010" line_length="12">ale v údolince z chaloupek se tichých</l>
+     <l n="8" met="101010" rhyme="2" line_length="6">šťastný kouřík kouří.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000" line_length="5">Tam na výšinách</l>
+     <l n="10" met="101010" rhyme="3" line_length="6">král se mračí s trůnu,</l>
+     <l n="11" met="101000101000" line_length="12">dole v údolině dítě buclaté se</l>
+     <l n="12" met="101010" rhyme="3" line_length="6">matce směje v lůnu.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01000" line_length="5">Přec po výšinách</l>
+     <l n="14" met="101010" rhyme="4" line_length="6">těká moje touha,</l>
+     <l n="15" met="101000101010" line_length="12">dole v údolině ruce leží v klíně,</l>
+     <l n="16" met="101010" rhyme="4" line_length="6">chvíle na smrt dlouha.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="01000" line_length="5">Přec po výšinách</l>
+     <l n="18" met="101010" rhyme="5" line_length="6">lítá touha moje,</l>
+     <l n="19" met="000110100110" rhyme="3" line_length="12">ne že bych chtěl mrazů, ne že bych chtěl trůnů,</l>
+     <l n="20" met="100110" rhyme="5" line_length="6">ale že chci boje!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mnoho bolů v tomto světě,</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_mnoho-bolu-v-tomto-svete</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mnoho bolů v tomto světě,</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mnoho bolů v tomto světě,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Mnoho bolů v tomto světě, </l>
+     <l n="2" met="1010100" rhyme="2" line_length="7">mnohý vzdech se zachvěje,</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">mnohý blázen, co ho hněte,</l>
+     <l n="4" met="1010100" rhyme="2" line_length="7">v dumné písni zapěje.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="3" line_length="8">Mnoho skořep v širém moři,</l>
+     <l n="6" met="1000100" rhyme="4" line_length="7">mnohá z nich i v chorobě,</l>
+     <l n="7" met="00101010" rhyme="3" line_length="8">však jen jedna ze slz tvoří</l>
+     <l n="8" met="1010100" rhyme="4" line_length="7">perlu v stkvoucí údobě.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

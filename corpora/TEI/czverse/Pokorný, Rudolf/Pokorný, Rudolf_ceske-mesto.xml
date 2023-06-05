@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>České město.</title>
+    <author>Pokorný, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný, Rudolf_ceske-mesto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>České město.</title>
+     <author>Pokorný, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>České město.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101010100" rhyme="1" line_length="11">Jen co pravda: leckde naši měšťané</l>
+     <l n="2" met="1010100" rhyme="1" line_length="7">žijou jako zemané:</l>
+     <l n="3" met="10101010" rhyme="2" line_length="8">hrajou v karty, jedí, pijou,</l>
+     <l n="4" met="10100010100" line_length="11">spí a umírají – ale nadarmo,</l>
+     <l n="5" met="10100010" rhyme="2" line_length="8">neboť za živa už – hnijou!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

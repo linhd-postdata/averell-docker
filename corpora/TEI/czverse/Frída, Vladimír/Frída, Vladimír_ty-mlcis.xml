@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>TY MLČÍŠ...</title>
+    <author>Frída, Vladimír</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Frída, Vladimír_ty-mlcis</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>TY MLČÍŠ...</title>
+     <author>Frída, Vladimír</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>TY MLČÍŠ...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010101010" rhyme="1" line_length="15">Ty mlčíš, vím, že tvrdý Osud zavřel Tvoje ústa</l>
+     <l n="2" met="0101010100010" rhyme="1" line_length="13">a myslí, že Tvá duše bez lásky je pusta</l>
+     <l n="3" met="01000100" rhyme="2" line_length="8">jak vřesoviště pod mrakem.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="010101010101010" rhyme="3" line_length="15">Ty mlčíš, vím však, že Tvůj ret přec cosi tiše šeptá,</l>
+     <l n="5" met="0101010101010" rhyme="3" line_length="13">nechť život sny i touhy Tvoje pustě deptá.</l>
+    </lg>
+    <lg n="3">
+     <l n="6" met="010100000101010" rhyme="4" line_length="15">Ty mlčíš, srdce Tvé však přec se v hloubi dále chvěje,</l>
+     <l n="7" met="0101000101000" rhyme="4" line_length="13">ať Osud rozleje kol moře beznaděje,</l>
+     <l n="8" met="01000100" rhyme="2" line_length="8">v němž láska je Ti majákem.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

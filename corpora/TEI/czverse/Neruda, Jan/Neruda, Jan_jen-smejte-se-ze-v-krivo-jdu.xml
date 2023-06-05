@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jen smějte se, že v křivo jdu,</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_jen-smejte-se-ze-v-krivo-jdu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jen smějte se, že v křivo jdu,</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jen smějte se, že v křivo jdu,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000101" line_length="8">Jen smějte se, že v křivo jdu, </l>
+     <l n="2" met="10010100" rhyme="1" line_length="8">po víně nemůž’ jinak být,</l>
+     <l n="3" met="10010100" line_length="8">a kdo je nad vás moudřejším,</l>
+     <l n="4" met="01010101" rhyme="1" line_length="8">můž’ toho také odznak mít.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101" rhyme="1" line_length="8">Být nechci, jak ten hloupý lid,</l>
+     <l n="6" met="01010100" rhyme="2" line_length="8">jenž hrd už chladnou chůzí svou –</l>
+     <l n="7" met="10010100" line_length="8">po hlavě chodit neumím,</l>
+     <l n="8" met="01010100" rhyme="2" line_length="8">nuž tedy špatně po nohou!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>POETA LAUREATUS</title>
+    <author>Havlíček Borovský, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Havlíček Borovský, Karel_poeta-laureatus</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>POETA LAUREATUS</title>
+     <author>Havlíček Borovský, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>POETA LAUREATUS</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100010" rhyme="1" line_length="10">Slavils na své idylické lýře</l>
+     <l n="2" met="1010100100" rhyme="1" line_length="10">mléko, trávu, kozy a pastýře;</l>
+     <l n="3" met="10101010" rhyme="2" line_length="8">pročež kladem na tvou hrobku</l>
+     <l n="4" met="10101010" rhyme="2" line_length="8">věnec slávy z kozích bobků.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

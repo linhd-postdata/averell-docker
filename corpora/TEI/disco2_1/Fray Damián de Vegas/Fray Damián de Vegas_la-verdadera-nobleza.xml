@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La verdadera nobleza</title>
+    <author>Fray Damián de Vegas</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fray Damián de Vegas_la-verdadera-nobleza</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La verdadera nobleza</title>
+     <author>Fray Damián de Vegas</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La verdadera nobleza</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-++--+---+-">Si el alma es la cabeza y la corona</l>
+     <l n="2" met="-+-+-+---+-">del ser humano, bien se verifica</l>
+     <l n="3" met="-+-+---+-+-">que el alma noble y de virtudes rica</l>
+     <l n="4" met="--+-+----+-">ennoblece e ilustra a la persona.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+---+-">Luego de noble en vano se blasona</l>
+     <l n="6" met="-+-+---+-+-">de hidalgo en balde o caballero pica</l>
+     <l n="7" met="---+---+-+-">el que a los vicios y maldad se aplica</l>
+     <l n="8" met="--+--+---+-">y las santas virtudes abandona.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+-+-+-">Así si el mundo solamente honra</l>
+     <l n="10" met="---+-+---+-">al linajudo y rico, aunque vicioso,</l>
+     <l n="11" met="--+-+-+--+-">y el virtuoso pobre estima en poco,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+-+----+-">No curéis de su honra y su deshonra,</l>
+     <l n="13" met="-+-+-++--+-">pues ya sabéis que el mundo es mentiroso</l>
+     <l n="14" met="---+---+-+-">y fanfarrón y lisonjero y loco.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

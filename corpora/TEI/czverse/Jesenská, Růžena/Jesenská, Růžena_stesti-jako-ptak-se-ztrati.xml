@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Štěstí jako pták se ztratí</title>
+    <author>Jesenská, Růžena</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jesenská, Růžena_stesti-jako-ptak-se-ztrati</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Štěstí jako pták se ztratí</title>
+     <author>Jesenská, Růžena</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Štěstí jako pták se ztratí</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">Štěstí jako pták se ztratí,</l>
+     <l n="2" met="1000101" rhyme="1" line_length="7">nedohoníš jeho let,</l>
+     <l n="3" met="10001000" line_length="8">utone-li ve hlubinách,</l>
+     <l n="4" met="1000100" rhyme="1" line_length="7">nevrátí se nikdy zpět.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" line_length="8">Nevrátí se nikdy zpátky,</l>
+     <l n="6" met="1010101" rhyme="2" line_length="7">štědrost žití – smutná žeň:</l>
+     <l n="7" met="10101010" line_length="8">zlom svou růži, klekni k hrobu,</l>
+     <l n="8" met="1001100" rhyme="2" line_length="7">zapomeň, ach zapomeň!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

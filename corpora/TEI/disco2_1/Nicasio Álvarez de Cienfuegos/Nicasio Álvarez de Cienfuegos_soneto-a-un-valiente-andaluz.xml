@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto a un valiente andaluz</title>
+    <author>Nicasio Álvarez de Cienfuegos</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nicasio Álvarez de Cienfuegos_soneto-a-un-valiente-andaluz</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto a un valiente andaluz</title>
+     <author>Nicasio Álvarez de Cienfuegos</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto a un valiente andaluz</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+-+-+-">Narices y pescuezo me cortara</l>
+     <l n="2" met="--+--+-+-+-">con ligera presteza y buen talante</l>
+     <l n="3" met="--+--+++-+-">si soldado mayor, más fuete Andante</l>
+     <l n="4" met="-+-+-+---+-">que yo, aunque pobre raso se encontrara.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">¿Cuándo la fuerte Roma se entregara</l>
+     <l n="6" met="---+-+---+-">al español ejército triunfante</l>
+     <l n="7" met="-+---+---+-">si aquesta mi tizona machacante</l>
+     <l n="8" met="--++-+-+-+-">en aquel fiero asalto no se hallara?</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+++-+-">Metido en su garita un buen soldado</l>
+     <l n="10" met="-+---+---+-">aquesto tiritando refería;</l>
+     <l n="11" met="---+-+-+-+-">mas al estar sus hechos él diciendo</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+---+-">ve un ratón, y corriendo desbocado,</l>
+     <l n="13" met="-+-+-+---+-">al arma, al arma, a voces repetía,</l>
+     <l n="14" met="-++-++---+-">que mil moros me vienen persiguiendo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

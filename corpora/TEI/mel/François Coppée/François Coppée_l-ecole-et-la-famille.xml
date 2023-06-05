@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L'École et la Famille</title>
+    <author>François Coppée</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>François Coppée_l-ecole-et-la-famille</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L'École et la Famille</title>
+     <author>François Coppée</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L'École et la Famille</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">L'instituteur, d'orgueil bouffi,</l>
+     <l n="2" rhyme="b" line_length="8">Dit au plus petit de l'école :</l>
+     <l n="3" rhyme="a" line_length="8">— Jadis ton grand-père a servi,</l>
+     <l n="4" rhyme="b" line_length="8">Et ta mère est dévote et folle.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Pour toi, ces parents-là, parbleu !</l>
+     <l n="6" rhyme="b" line_length="8">M'inspirent une crainte vague.</l>
+     <l n="7" rhyme="a" line_length="8">Leur dis-tu bien que le Bon Dieu</l>
+     <l n="8" rhyme="b" line_length="8">Et le drapeau, c'est de la blague ?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Que fait ta maman, entre nous,</l>
+     <l n="10" rhyme="b" line_length="8">Pour éteindre en toi la lumière ?</l>
+     <l n="11" rhyme="a" line_length="8">— Elle me prend sur ses genoux,</l>
+     <l n="12" rhyme="b" line_length="8">Le soir, et m'apprend ma prière.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">— Et le chauvin, l'ancien soldat</l>
+     <l n="14" rhyme="b" line_length="8">(Médaillé, quinze ans de services),</l>
+     <l n="15" rhyme="a" line_length="8">Voyons comment il me combat.</l>
+     <l n="16" rhyme="b" line_length="8">— Il me montre ses cicatrices.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

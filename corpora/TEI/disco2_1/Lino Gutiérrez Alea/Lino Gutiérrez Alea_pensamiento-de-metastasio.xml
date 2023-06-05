@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pensamiento de Metastasio</title>
+    <author>Lino Gutiérrez Alea</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lino Gutiérrez Alea_pensamiento-de-metastasio</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pensamiento de Metastasio</title>
+     <author>Lino Gutiérrez Alea</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pensamiento de Metastasio</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">Si lleváramos todos en la frente</l>
+     <l n="2" met="-+---+---+-">grabada la ambición que sustentamos:</l>
+     <l n="3" met="+----+---+-">¡cuántos, entre los muchos que envidiamos,</l>
+     <l n="4" met="-+---+-+-+-">piedad inspirarían solamente!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+----+-+-+-">Viéramos sin esfuerzo, de esa gente,</l>
+     <l n="6" met="--+--+---+-">enemigos que apenas sospechamos:</l>
+     <l n="7" met="--+--+---+-">ansiedades, pasiones que ignoramos</l>
+     <l n="8" met="--+-++---+-">tras la faz que nos muestra sonriente.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">Y entonces con asombro se sabría</l>
+     <l n="10" met="-+-+-++--+-">leyendo cada afán, cada alegría,</l>
+     <l n="11" met="-+---+-+-+-">escritos en las frentes de unos y otros,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+---+-+-">que la ventura de los más consiste</l>
+     <l n="13" met="--++-+-+-+-">en fingirnos la dicha -suerte triste-</l>
+     <l n="14" met="---+-+---+-">¡en parecer felices a nosotros!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

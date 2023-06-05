@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vdova.</title>
+    <author>Crha, Václav Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Crha, Václav Antonín_vdova</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vdova.</title>
+     <author>Crha, Václav Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vdova.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" line_length="9">Byl máj a jarní zpěvy zněly,</l>
+     <l n="2" met="01010001" rhyme="1" line_length="8">jak druhdy za krásnějších dob,</l>
+     <l n="3" met="010101000" line_length="9">byl máj a květem přioděl se</l>
+     <l n="4" met="10000101" rhyme="1" line_length="8">kvetoucí snad i tichý hrob.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100101000" line_length="9">Kvetoucím sadem chodívala</l>
+     <l n="6" met="10010101" rhyme="2" line_length="8">dívčina za svých mladých let</l>
+     <l n="7" met="010101010" line_length="9">a našla, chotě, ten jí zemřel</l>
+     <l n="8" met="01010101" rhyme="2" line_length="8">a na hrob máj mu sype květ.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100101010" line_length="9">Kvetoucím májem kráčí vdova,</l>
+     <l n="10" met="1001010100" rhyme="3" line_length="10">slzavé oko květů nevidí;</l>
+     <l n="11" met="100101010" line_length="9">příroda květem pouť ji stele</l>
+     <l n="12" met="0101010100" rhyme="3" line_length="10">a trní – trní má dost od lidí!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100101000" line_length="9">Nelitost lidská, bezsrdečnost</l>
+     <l n="14" met="10010100" rhyme="4" line_length="8">poslední šat jí vydřely</l>
+     <l n="15" met="010101010" line_length="9">a rány v srdci na smrt štvaném</l>
+     <l n="16" met="01010100" rhyme="4" line_length="8">jen lůno hrobu zacelí.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="100101010" line_length="9">Kvetoucím májem kráčí vdova,</l>
+     <l n="18" met="1001010100" rhyme="3" line_length="10">slzavé oko květu nevidí;</l>
+     <l n="19" met="100101010" line_length="9">příroda květem pouť jí stele,</l>
+     <l n="20" met="0101010100" rhyme="3" line_length="10">a trní – trní má dost od lidí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

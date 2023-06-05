@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Lid s pány.</title>
+    <author>Vinařický, Karel Alois</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vinařický, Karel Alois_lid-s-pany</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Lid s pány.</title>
+     <author>Vinařický, Karel Alois</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Lid s pány.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10100100" rhyme="1" line_length="8">Mnoho smutků a žalostí</l>
+     <l n="2" met="1010100" rhyme="2" line_length="7">česká líčí kronika:</l>
+     <l n="3" met="10100100" rhyme="1" line_length="8">a přec pocitem hrdosti</l>
+     <l n="4" met="1010100" rhyme="2" line_length="7">srdce moje přetíká.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010010" rhyme="3" line_length="8">Divím se podivné síle</l>
+     <l n="6" met="0100100" rhyme="4" line_length="7">tak malého národu,</l>
+     <l n="7" met="01001000" rhyme="3" line_length="8">jak v šerosti starobylé</l>
+     <l n="8" met="1000100" rhyme="4" line_length="7">pod vedením vojvodů,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001000" rhyme="5" line_length="8">ubránil se hrdinami</l>
+     <l n="10" met="0100101" rhyme="6" line_length="7">a pojistil vlasti klid. –</l>
+     <l n="11" met="10100010" rhyme="5" line_length="8">Páni nebili se sami,</l>
+     <l n="12" met="1010001" rhyme="6" line_length="7">s nimi bojoval i lid.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Domýšlivosť.</title>
+    <author>Pokorný, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný, Rudolf_domyslivost</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Domýšlivosť.</title>
+     <author>Pokorný, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Domýšlivosť.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10110010" line_length="8">Farář X. ach, to je samec</l>
+     <l n="2" met="1000100" rhyme="1" line_length="7">od hlavy až do boty –</l>
+     <l n="3" met="10100010" line_length="8">kázal: „Děkuji ti, Pane,</l>
+     <l n="4" met="0100100" rhyme="1" line_length="7">že nejsem též jako – ty!“...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

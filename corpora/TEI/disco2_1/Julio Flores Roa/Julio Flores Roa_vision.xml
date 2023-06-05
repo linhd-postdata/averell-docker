@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Visión</title>
+    <author>Julio Flores Roa</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Julio Flores Roa_vision</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Visión</title>
+     <author>Julio Flores Roa</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Visión</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+---+-">¿Eres un imposible? ¿Una quimera?</l>
+     <l n="2" met="+++-+-+--+-">¿Un sueño hecho carne, hermosa y viva?</l>
+     <l n="3" met="+----+-+-+-">¿Una explosión de luz? Responde esquiva</l>
+     <l n="4" met="+----+---+-">maga en quien encarnó la primavera.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+++---+-+-">Tu frente es lirio, tu pupila hoguera,</l>
+     <l n="6" met="-+-+---+-+-">tu boca flor en donde nadie liba</l>
+     <l n="7" met="-+---+---+-">la miel que entre sus pétalos cautiva</l>
+     <l n="8" met="---+---+-+-">al colibrí de la pasión espera.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">¿Por qué sin tregua, por tu amor suspiro,</l>
+     <l n="10" met="-++--++--+-">si no habré de alcanzar ese trofeo?</l>
+     <l n="11" met="-++--+---+-">¿Por qué llenas el aire que respiro?</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">En todas partes te halla mi deseo:</l>
+     <l n="13" met="-+-+---+++-">los ojos abro y por doquier te miro;</l>
+     <l n="14" met="+--+---+++-">cierro los ojos y entre mí te veo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

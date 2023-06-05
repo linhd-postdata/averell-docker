@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SI VOUS TENEZ À CONNAÎTRE</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_si-vous-tenez-a-connaitre</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SI VOUS TENEZ À CONNAÎTRE</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SI VOUS TENEZ À CONNAÎTRE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="7">Si vous tenez à connaître</l>
+     <l n="2" rhyme="b" line_length="7">L'auteur de ces couplets idiots,</l>
+     <l n="3" rhyme="b" line_length="7">J'vous l'glisserai dans l'tuyau</l>
+     <l n="4" rhyme="a" line_length="7">De l'oreille un jour peut-être.</l>
+     <l n="5" rhyme="c" line_length="4+6">J'ai l'honneur, en attendant,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

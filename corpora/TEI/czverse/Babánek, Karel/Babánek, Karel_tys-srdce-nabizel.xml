@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ty’s srdce nabízel...</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_tys-srdce-nabizel</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ty’s srdce nabízel...</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ty’s srdce nabízel...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010100" line_length="6">Ty’s srdce nabízel,</l>
+     <l n="2" met="010100" rhyme="1" line_length="6">já svoje dala ti,</l>
+     <l n="3" met="100100" line_length="6">mohu-li nazpět ho,</l>
+     <l n="4" met="100100" rhyme="1" line_length="6">mohu-li žádati?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100" line_length="6">Dala jsem srdce ti,</l>
+     <l n="6" met="100100" rhyme="2" line_length="6">aby’s ho uchoval,</l>
+     <l n="7" met="100100" line_length="6">láska a věrnost v něm –</l>
+     <l n="8" met="010100" rhyme="2" line_length="6">co’s z něho udělal?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100100" line_length="6">Tvoje jsem vrátila,</l>
+     <l n="10" met="100100" rhyme="3" line_length="6">moje se ztratilo,</l>
+     <l n="11" met="100100" line_length="6">bolest a zoufání</l>
+     <l n="12" met="110100" rhyme="3" line_length="6">dny moje zkrátilo!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

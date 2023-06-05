@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Antiope</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_antiope</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Antiope</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Antiope</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Près du clair Ilissos au rivage fleuri</l>
+     <l n="2" rhyme="b" line_length="6+6">L'indomptable Thésée a vaincu les guerrières.</l>
+     <l n="3" rhyme="b" line_length="6+6">Mourantes, leurs chevaux les traînent dans les pierres :</l>
+     <l n="4" rhyme="a" line_length="6+6">Pas un de ces beaux corps qui ne râle meurtri.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Le silence est affreux, et parfois un grand cri</l>
+     <l n="6" rhyme="b" line_length="6+6">L'interrompt. Sous l'effort des lances meurtrières,</l>
+     <l n="7" rhyme="b" line_length="6+6">On voit des yeux, éteints déjà, sous les paupières</l>
+     <l n="8" rhyme="a" line_length="6+6">S'entr'ouvrir. Tout ce peuple adorable a péri.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Antiope blessée, haletante, épuisée,</l>
+     <l n="10" rhyme="c" line_length="6+6">Combat encor. Le sang, ainsi qu'une rosée,</l>
+     <l n="11" rhyme="d" line_length="6+6">Coule de ses cheveux et tombe sur son flanc.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="c" line_length="6+6">Sa poitrine superbe et fière en est trempée,</l>
+     <l n="13" rhyme="d" line_length="6+6">Et sa main, teinte aussi dans la pourpre du sang,</l>
+     <l n="14" rhyme="c" line_length="6+6">Agite le tronçon farouche d'une épée.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

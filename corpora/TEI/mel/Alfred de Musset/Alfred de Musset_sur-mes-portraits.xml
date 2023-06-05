@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sur mes portraits</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_sur-mes-portraits</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sur mes portraits</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sur mes portraits</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Nadar, dans un profil croqué,</l>
+     <l n="2" rhyme="a" line_length="3">Landelle m’a fait endormi</l>
+     <l n="3" rhyme="b" line_length="8">Biard m’a produit éveillé</l>
+     <l n="4" rhyme="b" line_length="3">Le seul Giraud, d’un trait rapide,</l>
+     <l n="5" rhyme="a" line_length="8">Par amour de la vérité</l>
+     <l n="6" rhyme="a" line_length="3">Que pourra pondre dans ce nid</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

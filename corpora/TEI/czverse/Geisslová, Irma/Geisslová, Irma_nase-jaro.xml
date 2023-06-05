@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NAŠE JARO.</title>
+    <author>Geisslová, Irma</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Geisslová, Irma_nase-jaro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NAŠE JARO.</title>
+     <author>Geisslová, Irma</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NAŠE JARO.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101010" line_length="10">Pohnulo se křoví listů prosté,</l>
+     <l n="2" met="101010100" rhyme="1" line_length="9">zadul větřík ještě zimavý,</l>
+     <l n="3" met="1010001010" line_length="10">křoví – na pobřeží rudém ještě,</l>
+     <l n="4" met="101000100" rhyme="1" line_length="9">větřík – nad hladinou Vltavy.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010001010" line_length="10">Prázdno v koruně té lípy naší,</l>
+     <l n="6" met="101010100" rhyme="1" line_length="9">zrak k ní poutník zvedá skoumavý,</l>
+     <l n="7" met="1010101010" line_length="10">čápi v sever letí – čas je tady –</l>
+     <l n="8" met="001010100" rhyme="1" line_length="9">kdy se české jaro dostaví?!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

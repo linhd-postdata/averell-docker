@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Přirovnání.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_prirovnani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Přirovnání.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Přirovnání.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010101010100" rhyme="1" line_length="15">Dobře znáš mou duši, tvojí krásou spitou hurisku,</l>
+     <l n="2" met="001010101010100" rhyme="1" line_length="15">jež by chtěla věčně píti z ňader tvojich narcisků.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="101010101010100" rhyme="2" line_length="15">Dobře znáš též moje srdce, toto ptáče splašené,</l>
+     <l n="4" met="011010101010100" rhyme="2" line_length="15">jež chce stále sponu řízy trhat s tvého ramene.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="100010101010100" rhyme="3" line_length="15">Nediv se, že krásu tvoji musím v písni vyzradit:</l>
+     <l n="6" met="001010101010100" rhyme="3" line_length="15">co mi upřeš, co mi nedáš, musím písní nahradit.</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="111010101010100" rhyme="1" line_length="15">Ó rci, proč mou držíš duši, tuto spitou hurisku,</l>
+     <l n="8" met="010010101010100" rhyme="1" line_length="15">jak medvěda drží kejklíř, na své lásky řetízku?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

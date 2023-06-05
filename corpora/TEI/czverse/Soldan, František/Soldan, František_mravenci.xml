@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MRAVENCI.</title>
+    <author>Soldan, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Soldan, František_mravenci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MRAVENCI.</title>
+     <author>Soldan, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MRAVENCI.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" rhyme="1" line_length="9">Už dávno člověk rád je míval,</l>
+     <l n="2" met="00010100" rhyme="2" line_length="8">snad dřív, než pokrm viděl v nich,</l>
+     <l n="3" met="010101010" rhyme="1" line_length="9">a „Velký“ Timur u nich sníval,</l>
+     <l n="4" met="01010010" rhyme="2" line_length="8">než vraždit národy se zdvih – –</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010100010" rhyme="3" line_length="9">A Bůh je chválil – – – Proč ty křiky?</l>
+     <l n="6" met="010101000" rhyme="3" line_length="9">Nu mají svoje bojovníky</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="01010001" rhyme="4" line_length="8">a robů podřízených řad – – –</l>
+     <l n="8" met="10110101" rhyme="4" line_length="8">A to má Bůh i člověk rád.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

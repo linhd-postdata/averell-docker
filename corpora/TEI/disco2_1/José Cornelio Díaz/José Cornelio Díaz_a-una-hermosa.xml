@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A una hermosa</title>
+    <author>José Cornelio Díaz</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Cornelio Díaz_a-una-hermosa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A una hermosa</title>
+     <author>José Cornelio Díaz</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A una hermosa</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+---+-+-">Cuando a la brisa tropical se mece,</l>
+     <l n="2" met="+-++-+---+-">no se ve más airosa ni lozana</l>
+     <l n="3" met="-+---+---+-">la palma que los campos engalana,</l>
+     <l n="4" met="-+-+---+-+-">y al fresco margen del arroyo crece:</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--++--+--+-">Ni con más pompa y esplendor se ofrece</l>
+     <l n="6" met="-+---+---+-">el sol resplandeciente en la mañana,</l>
+     <l n="7" met="-+-+---+-+-">vistiendo el cielo de arrebol y grana,</l>
+     <l n="8" met="--++---+-+-">que a quien la mira tu beldad parece.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+++-+-+-+-">¿A quién no inspira tan sin par belleza</l>
+     <l n="10" met="-+-----+-+-">placer y admiración? Sonrisa afable</l>
+     <l n="11" met="+--+---+++-">mora en tus labios, y a adorarte mueve:</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">Tu pecho infunde celestial terneza:</l>
+     <l n="13" met="++-+-+---+-">todo es en ti perfecto y admirable;</l>
+     <l n="14" met="+-+-++-+-+-">Venus misma te dio su planta leve.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

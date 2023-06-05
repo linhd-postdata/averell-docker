@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NAŠE VÍTĚZSTVÍ</title>
+    <author>Grünwald, Beneš</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Grünwald, Beneš_nase-vitezstvi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NAŠE VÍTĚZSTVÍ</title>
+     <author>Grünwald, Beneš</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NAŠE VÍTĚZSTVÍ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0001010010" rhyme="1" line_length="10">Co je tu štěstí ve světě skryto!</l>
+     <l n="2" met="1001001001" rhyme="2" line_length="10">Pravého dojdeš jen po boji zlém;</l>
+     <l n="3" met="1001010010" rhyme="1" line_length="10">o plodu hebkém, je to tak líto,</l>
+     <l n="4" met="10000100" rhyme="2" line_length="8">přesvědčíš se už mozolem.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00010010110" rhyme="3" line_length="11">Sám jsi byl, tmy když tě v srdce šly klovat,</l>
+     <l n="6" met="1001001001" rhyme="4" line_length="10">zář tvou však rozezná mnohý už lid,</l>
+     <l n="7" met="0100101000" rhyme="3" line_length="10">snad i ty sám, leč ji pozorovat,</l>
+     <l n="8" met="100101001" rhyme="4" line_length="9">tolik už pokdy nebudeš mít.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

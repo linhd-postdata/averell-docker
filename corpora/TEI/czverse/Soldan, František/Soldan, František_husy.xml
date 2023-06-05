@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>HUSY.</title>
+    <author>Soldan, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Soldan, František_husy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>HUSY.</title>
+     <author>Soldan, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>HUSY.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11000101000" rhyme="1" line_length="11">Hus několik si kejhá u potoka.</l>
+     <l n="2" met="01000101010" rhyme="2" line_length="11">Už umyly se, teď jak v městě dámy</l>
+     <l n="3" met="01000101000" rhyme="2" line_length="11">jen vykládají – aspoň připadá mi –</l>
+     <l n="4" met="01000101010" rhyme="1" line_length="11">a s houserem, jenž vodu vážně loká,</l>
+     <l n="5" met="01000101010" rhyme="1" line_length="11">tam koketují hloubkou svého oka...</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="01000100000" rhyme="3" line_length="11">Jak šťastny jsou as ve koketerii!</l>
+     <l n="7" met="11010101010" rhyme="4" line_length="11">Jim voda teče, slunko pro ně svítí,</l>
+     <l n="8" met="01000101010" rhyme="4" line_length="11">a kopřiva jim milá, jako kvítí,</l>
+     <l n="9" met="01010101010" rhyme="3" line_length="11">svou každou starost vodou s sebe smyjí,</l>
+     <l n="10" met="10010101010" rhyme="3" line_length="11">a byť ne umem, předce jiným žijí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

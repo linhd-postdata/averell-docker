@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V MLHÁCH.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_v-mlhach</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V MLHÁCH.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V MLHÁCH.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010" line_length="7">Bledými světly město</l>
+     <l n="2" met="100101" rhyme="1" line_length="6">podzimní svítí mhou,</l>
+     <l n="3" met="10110010" line_length="8">loďka z mlh náhle se zjeví,</l>
+     <l n="4" met="010100" rhyme="1" line_length="6">jež houstnou nad řekou.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010010" line_length="8">Z mlhy se od břehů noří,</l>
+     <l n="6" met="100101" rhyme="2" line_length="6">stajených kdesi v tmách,</l>
+     <l n="7" met="1001010" line_length="7">tajemný jakby přízrak</l>
+     <l n="8" met="0101" rhyme="2" line_length="4">a mizí v mhách.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010010" line_length="8">Na lodi postavy temné,</l>
+     <l n="10" met="010100" rhyme="3" line_length="6">jak stíny mrtvých jsou,</l>
+     <l n="11" met="10010010" line_length="8">z neznáma od břehů jiných,</l>
+     <l n="12" met="010001" rhyme="3" line_length="6">a v neznámo, jež jdou.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Influjo de amor</title>
+    <author>Fray José Manuel de Navarrete</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fray José Manuel de Navarrete_influjo-de-amor</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Influjo de amor</title>
+     <author>Fray José Manuel de Navarrete</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Influjo de amor</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">Célebres calles de la corte indiana,</l>
+     <l n="2" met="+-+--+---+-">grandes plazas, soberbios edificios,</l>
+     <l n="3" met="+----+---+-">templos de milagrosos frontispicios,</l>
+     <l n="4" met="--+--+-+-+-">elevados torreones de arte ufana,</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">altos palacios de la gloria humana,</l>
+     <l n="6" met="+----+---+-">fuentes de primorosos artificios,</l>
+     <l n="7" met="--+--+---+-">chapiteles, pirámides, hospicios,</l>
+     <l n="8" met="-+---+---+-">que arguyen la grandeza americana:</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+-+-+-">¡Oh México!, sin duda yo gozara</l>
+     <l n="10" met="-+--++---+-">del gusto que me brinda tu grandeza,</l>
+     <l n="11" met="-+---+++-+-">si causa superior no lo estorbara.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+-++---+-">De tu suelo me arranca con presteza</l>
+     <l n="13" met="-+-+---+-+-">el suave influjo de la dulce cara</l>
+     <l n="14" met="+--+-+---+-">de una agraciada rústica belleza.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Azul en azul</title>
+    <author>Carlos Valverde López</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Carlos Valverde López_azul-en-azul</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Azul en azul</title>
+     <author>Carlos Valverde López</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Azul en azul</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">Si mi barco tuviera compañera</l>
+     <l n="2" met="---+-+--+-">para bogar estela con estela,</l>
+     <l n="3" met="-+---++--+-">azul en el azul, vela con vela...</l>
+     <l n="4" met="-+-+-++-+-">podría cruzar la mar... la mar entera...</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+--+-+--+-">Mi viejo galeón paciente espera</l>
+     <l n="6" met="--+--+---+-">abordar a estribor tu carabela</l>
+     <l n="7" met="--+--+---+-">y, en eterna derrota paralela,</l>
+     <l n="8" met="+-+--+---+-">ser gaviotas del alba marinera.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+---+-+-">Pero mi barco en soledad navega,</l>
+     <l n="10" met="+-+--+---+-">borda rizos de espuma y caracolas</l>
+     <l n="11" met="--+--+---+-">en las aguas azules y despliega</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+---+-">su pabellón desnudo entre las olas.</l>
+     <l n="13" met="++---++--+-">No cede en su tesón no se doblega...</l>
+     <l n="14" met="-+---+--+-">será tu malecón... tu rompeolas...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

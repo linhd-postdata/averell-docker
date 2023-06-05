@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pomoc.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_pomoc</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pomoc.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pomoc.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101010" rhyme="1" line_length="10">Chladno, chladno! sever hvozdem kvílí,</l>
+     <l n="2" met="1010101010" rhyme="1" line_length="10">Jasoň zlaté šípy kosmo střílí –</l>
+     <l n="3" met="1010001010" rhyme="2" line_length="10">vlhne tětiva mu mlhy dechem –</l>
+     <l n="4" met="1010101010" rhyme="2" line_length="10">sřínem zdroj se kryje, skála mechem.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010101010" rhyme="3" line_length="10">Chladno, chladno, bouře lká a vyje –</l>
+     <l n="6" met="0010101010" rhyme="3" line_length="10">čím mé čelo, čím se ňádro skryje? –</l>
+     <l n="7" met="1010101010" rhyme="4" line_length="10">Čelo skryje vlas mé ženy rusý,</l>
+     <l n="8" met="1010101000" rhyme="4" line_length="10">k ňádru svoje dítě přivinu si.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

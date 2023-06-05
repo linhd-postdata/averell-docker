@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Výhost.</title>
+    <author>Trnka, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Trnka, František_vyhost</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Výhost.</title>
+     <author>Trnka, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Výhost.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010" rhyme="1" line_length="6">Měj se dobře Mládo!</l>
+     <l n="2" met="10100" line_length="5">Dobře na věky;</l>
+     <l n="3" met="100010" rhyme="1" line_length="6">Srdce mé ti rádo</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">Přeje štěstí, Mládo!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101010" rhyme="2" line_length="6">Nechci láti tobě,</l>
+     <l n="6" met="00100" line_length="5">Že jsi lásku svou</l>
+     <l n="7" met="100010" rhyme="2" line_length="6">Změnila v té době;</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">Jinému, ne tobě.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100010" rhyme="3" line_length="6">Lícoměrné shodě</l>
+     <l n="10" met="10100" line_length="5">Přičtu vinu jen,</l>
+     <l n="11" met="101010" rhyme="3" line_length="6">Všudy, sedě, chodě</l>
+     <l n="12" met="111010" rhyme="3" line_length="6">Lát chci mrzké shodě.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="101010" rhyme="4" line_length="6">Pozdě znám tě Mládo!</l>
+     <l n="14" met="10100" line_length="5">Konec naděje!</l>
+     <l n="15" met="100010" rhyme="4" line_length="6">Srdce mé ti rádo</l>
+     <l n="16" met="100110" rhyme="4" line_length="6">Promíjí, ó Mládo!</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="101010" rhyme="5" line_length="6">Ach! kdy v loktech svého</l>
+     <l n="18" met="10100" line_length="5">Chotě spočineš,</l>
+     <l n="19" met="101000" rhyme="5" line_length="6">Zpomeň nešťastného</l>
+     <l n="20" met="010010" rhyme="5" line_length="6">Mne milence svého.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

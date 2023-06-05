@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KVĚTNOVÁ GLOSSA.</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_kvetnova-glossa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KVĚTNOVÁ GLOSSA.</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KVĚTNOVÁ GLOSSA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110101000" rhyme="1" line_length="9">Květ, vůně, zeleň, melodie...</l>
+     <l n="2" met="11000100" rhyme="2" line_length="8">Máj jeviště tak vyzdobil –</l>
+     <l n="3" met="100101010" rhyme="1" line_length="9">a co se hýbe, co jen žije,</l>
+     <l n="4" met="01000101" rhyme="2" line_length="8">zas vraždí se tu ze všech sil.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100101000" rhyme="3" line_length="9">– Rozšafný šosák na procházce</l>
+     <l n="6" met="10010100" rhyme="4" line_length="8">se krásou kulis opíjí</l>
+     <l n="7" met="010110010" rhyme="3" line_length="9">a dojat sní o míru, lásce</l>
+     <l n="8" met="01010100" rhyme="4" line_length="8">i dravých lidských bestií...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mé srdce zatoulané v tesknot stráni</title>
+    <author>Racek, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">3</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Racek, Adolf_me-srdce-zatoulane-v-tesknot-s</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mé srdce zatoulané v tesknot stráni</title>
+     <author>Racek, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mé srdce zatoulané v tesknot stráni</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010001010" rhyme="1" line_length="11">Mé srdce zatoulané v tesknot stráni </l>
+     <l n="2" met="10010001010" rhyme="1" line_length="11">perličkou pobíhalo v plaché bázni,</l>
+     <l n="3" met="10010100010" rhyme="1" line_length="11">pastýřko, lásko, zavolalas na ni.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>En battant le beurre</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">11</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_en-battant-le-beurre</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>En battant le beurre</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>En battant le beurre</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" />
+    <lg n="2" />
+    <lg n="3">
+     <l n="1" rhyme="a" line_length="6+6">Enfin, déjà compacts, les grumeaux s'agglomèrent</l>
+     <l n="2" rhyme="b" line_length="6+6">Et prennent par degrés leur coloris d'or blond :</l>
+     <l n="3" rhyme="b" line_length="6+6">Elle aura bientôt fait son pain ovale et rond.</l>
+     <l n="4" rhyme="a" line_length="6+6">Mais, dévorant des yeux la tentante commère,</l>
+     <l n="5" rhyme="a" line_length="6+6">En face d'elle, assis à cheval sur sa chaise,</l>
+     <l n="6" rhyme="a" line_length="6+6">Coude et pieds aux barreaux, voilà que le grand Blaise,</l>
+     <l n="7" rhyme="b" line_length="6+6">Son soupirant câlin, lui parle à mots si doux,</l>
+     <l n="8" rhyme="c" line_length="6+6">Que, toute tressaillante à ce regard de faune,</l>
+     <l n="9" rhyme="b" line_length="6+6">Elle aspire la voix du beau meunier blanc-roux.</l>
+     <l n="10" rhyme="b" line_length="6+6">Tandis que dans son pot, moins serré des genoux,</l>
+     <l n="11" rhyme="c" line_length="6+6">S'endort las et distrait son petit bâton jaune.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

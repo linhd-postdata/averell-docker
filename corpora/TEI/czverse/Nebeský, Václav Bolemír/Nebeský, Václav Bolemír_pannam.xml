@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PANNÁM!</title>
+    <author>Nebeský, Václav Bolemír</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">7</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nebeský, Václav Bolemír_pannam</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PANNÁM!</title>
+     <author>Nebeský, Václav Bolemír</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PANNÁM!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10100" line_length="5">Panny, chraňte se,</l>
+     <l n="2" met="0010100010" rhyme="1" line_length="10">By se Češka jinému, krom reku,</l>
+     <l n="3" met="1010100010" rhyme="1" line_length="10">Líbat dala – ostřežte svých vděků!</l>
+     <l n="4" met="0010101010" rhyme="2" line_length="10">Jen kdo umí protnout, jako druhý</l>
+     <l n="5" met="1001001010" rhyme="2" line_length="10">Břetislav, otrocké ducha kruhy:</l>
+     <l n="6" met="1010100010" rhyme="3" line_length="10">Tomu vzdejte milosti své dárky,</l>
+     <l n="7" met="1010101010" rhyme="3" line_length="10">Hrdé dcery Vlasty, dcery Šárky!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

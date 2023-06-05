@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Z rána.</title>
+    <author>Červenka, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červenka, Jan_z-rana</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Z rána.</title>
+     <author>Červenka, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Z rána.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110101010" rhyme="1" line_length="9">Keř kvete, rosa na něm visí</l>
+     <l n="2" met="01010100" rhyme="2" line_length="8">a padá zvolna v krůpějích.</l>
+     <l n="3" met="110101010" rhyme="1" line_length="9">Den mladý slunce ze sna křísí</l>
+     <l n="4" met="01010100" rhyme="2" line_length="8">a v listech žárem šípů svých</l>
+     <l n="5" met="010001010" rhyme="1" line_length="9">se s krůpějemi v stříbro mísí.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="110001010" rhyme="3" line_length="9">Vstaň, nad ložem ti kanár zpívá,</l>
+     <l n="7" met="01000001" rhyme="2" line_length="8">mně milejší však je tvůj smích!</l>
+     <l n="8" met="11010010" rhyme="2" line_length="8">Vstaň, kyň mu malíčkem, by ztich’,</l>
+     <l n="9" met="010001010" rhyme="3" line_length="9">a zasměj se, má vílo snivá.</l>
+    </lg>
+    <lg n="3">
+     <l n="10" met="010101010" rhyme="4" line_length="9">Já rád bych viděl, v záři ranné</l>
+     <l n="11" met="01010101" rhyme="5" line_length="8">když stříbrem svítí vlhký list,</l>
+     <l n="12" met="010101010" rhyme="4" line_length="9">čím tobě slunce v oči skane?</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="11001001" rhyme="5" line_length="8">Ó, v zraku tvém, jenž tak je čist</l>
+     <l n="14" met="01010100" rhyme="5" line_length="8">a nocí plá jak amethyst...</l>
+    </lg>
+    <lg n="5">
+     <l n="15" met="010101010" rhyme="4" line_length="9">V tom jistě celé nebe zplane!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

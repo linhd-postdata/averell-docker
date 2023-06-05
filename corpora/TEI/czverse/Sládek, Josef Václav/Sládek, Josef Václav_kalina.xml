@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kalina.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_kalina</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kalina.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kalina.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" rhyme="1" line_length="6">KALINA, květina</l>
+     <l n="2" met="101000" rhyme="2" line_length="6">smutná, tmavolistá,</l>
+     <l n="3" met="10101000" line_length="8">v skalné rokli vypíná se</l>
+     <l n="4" met="100010" rhyme="2" line_length="6">do oblohy čista.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100" rhyme="1" line_length="6">Kalina, sněžina</l>
+     <l n="6" met="101000" rhyme="3" line_length="6">květem obalená,</l>
+     <l n="7" met="10101010" line_length="8">jako pod ní jarní voda</l>
+     <l n="8" met="101000" rhyme="3" line_length="6">bíle rozpěněná.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100100" line_length="6">Ve květu, v podlétu,</l>
+     <l n="10" met="101010" rhyme="4" line_length="6">v zimě stojí sama,</l>
+     <l n="11" met="10001000" line_length="8">ráda by si promluvila</l>
+     <l n="12" met="101000" rhyme="4" line_length="6">s vodou, s hvězdičkama.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100100" rhyme="1" line_length="6">Kalina, květina</l>
+     <l n="14" met="101010" rhyme="5" line_length="6">sama v rokli stojí,</l>
+     <l n="15" met="10001000" line_length="8">do oblohy nedosáhne,</l>
+     <l n="16" met="100010" rhyme="5" line_length="6">do vody se bojí</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="010100" line_length="6">Jen někdy večerem</l>
+     <l n="18" met="101010" rhyme="6" line_length="6">hvězda dolů slítne;</l>
+     <l n="19" met="01001010" line_length="8">než zapadne do té vody,</l>
+     <l n="20" met="100010" rhyme="6" line_length="6">v kalině se chytne. –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

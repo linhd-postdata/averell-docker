@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Ceinture</title>
+    <author>Paul Valéry</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Valéry_la-ceinture</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Ceinture</title>
+     <author>Paul Valéry</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Ceinture</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Quand le ciel couleur d’une joue</l>
+     <l n="2" rhyme="b" line_length="8">Laisse enfin les yeux le chérir</l>
+     <l n="3" rhyme="b" line_length="8">Et qu’au point doré de périr</l>
+     <l n="4" rhyme="a" line_length="8">Dans les roses le temps se joue,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="8">Devant le muet de plaisir</l>
+     <l n="6" rhyme="d" line_length="8">Qu’enchaîne une telle peinture,</l>
+     <l n="7" rhyme="d" line_length="8">Dans une Ombre à libre ceinture</l>
+     <l n="8" rhyme="c" line_length="8">Que le temps est près de saisir.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="8">Cette ceinture vagabonde</l>
+     <l n="10" rhyme="f" line_length="8">Fait dans le souffle aérien</l>
+     <l n="11" rhyme="f" line_length="8">Frémir le suprême lien</l>
+     <l n="12" rhyme="e" line_length="8">De mon silence avec ce monde…</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="g" line_length="8">Absent, présent… Je suis bien seul,</l>
+     <l n="14" rhyme="g" line_length="8">Et sombre, ô suave linceul !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

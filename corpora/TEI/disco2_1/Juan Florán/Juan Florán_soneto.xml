@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Juan Florán</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Florán_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Juan Florán</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---+-">Pura y undosa fuente, que serena</l>
+     <l n="2" met="-+---+---+-">retratas en tu fondo cristalino</l>
+     <l n="3" met="-+-+---+-+-">la copa erguida del flexible pino</l>
+     <l n="4" met="---+---+-+-">cuando tu seno con su sombra llena;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+---+-">Así corone cándida azucena</l>
+     <l n="6" met="---+-+---+-">tu solitaria imagen de contino;</l>
+     <l n="7" met="-++--+---+-">así nunca rebaño peregrino</l>
+     <l n="8" met="-+---++--+-">enturbie tu raudal, huelle tu arena.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-++-++---+-">Que me digas, te ruego, si mejora</l>
+     <l n="10" met="+--+-+--++-">ese cristal mi rostro, pues no fuera,</l>
+     <l n="11" met="-+++++---+-">a ser tú fiel, tan cruda mi pastora.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+---+-">Esto dijo Mirtilo, y considera</l>
+     <l n="13" met="-+---+---+-">su imagen en el agua; empero llora,</l>
+     <l n="14" met="-+-+---+-+-">y el agua turba, y su retrato altera.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

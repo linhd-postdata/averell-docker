@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KLIŠÉ VEČERNÍ.</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_klise-vecerni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KLIŠÉ VEČERNÍ.</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KLIŠÉ VEČERNÍ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100010" rhyme="1" line_length="11">Už dálka rdí se nad horami zlatem,</l>
+     <l n="2" met="1101010100" rhyme="2" line_length="10">mdlé slunce klesá na kraj obzoru,</l>
+     <l n="3" met="01010100010" rhyme="1" line_length="11">už s druhé strany nedočkavým chvatem</l>
+     <l n="4" met="0101010100" rhyme="2" line_length="10">se bílý měsíc krade nahoru.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100110" rhyme="3" line_length="11">Nad čistým dnem se rozestřel jas plavý</l>
+     <l n="6" met="0101010100" rhyme="4" line_length="10">a velké ticho. Vše je bez hnutí.</l>
+     <l n="7" met="01010100010" rhyme="3" line_length="11">I staré vrby sklonily své hlavy</l>
+     <l n="8" met="0101000100" rhyme="4" line_length="10">a trávy ohnuly se k usnutí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Chasse</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_la-chasse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Chasse</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Chasse</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Les cris des chiens, les voix du cor</l>
+     <l n="2" rhyme="b" line_length="8">Sonnent dans les bois de Ferrières ;</l>
+     <l n="3" rhyme="b" line_length="8">L'écho de ces rumeurs guerrières</l>
+     <l n="4" rhyme="a" line_length="8">Épouvante le frais décor.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Les habits d'écarlate et d'or</l>
+     <l n="6" rhyme="b" line_length="8">Resplendissent dans les clairières ;</l>
+     <l n="7" rhyme="a" line_length="8">Les cris des chiens, les voix du cor</l>
+     <l n="8" rhyme="b" line_length="8">Sonnent dans les bois de Ferrières.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Les meutes ont pris leur essor,</l>
+     <l n="10" rhyme="b" line_length="8">Et le cerf dans les fondrières</l>
+     <l n="11" rhyme="b" line_length="8">Fuit, sentant leurs dents meurtrières ;</l>
+     <l n="12" rhyme="a" line_length="8">Mais partout il retrouve encor</l>
+     <l n="13" rhyme="a" line_length="8">Les cris des chiens, les voix du cor.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

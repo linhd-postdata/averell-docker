@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Caprice</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_caprice</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Caprice</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Caprice</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Quand je baise, pâle de fièvre,</l>
+     <l n="2" rhyme="b" line_length="8">Ta lèvre où court une chanson,</l>
+     <l n="3" rhyme="a" line_length="8">Tu détournes les yeux, ta lèvre</l>
+     <l n="4" rhyme="b" line_length="8">Reste froide comme un glaçon,</l>
+     <l n="5" rhyme="c" line_length="8">Et, me repoussant de tes bras,</l>
+     <l n="6" rhyme="c" line_length="8">Tu dis que je ne t'aime pas.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" rhyme="a" line_length="8">Mais si je dis : Ce long martyre</l>
+     <l n="8" rhyme="b" line_length="8">M'a brisé, je romps mon lien !</l>
+     <l n="9" rhyme="a" line_length="8">Tu réponds avec un sourire :</l>
+     <l n="10" rhyme="b" line_length="8">Viens à mes pieds ! tu le sais bien,</l>
+     <l n="11" rhyme="c" line_length="8">Ma chère âme, que c'est ton sort</l>
+     <l n="12" rhyme="c" line_length="8">De m'adorer jusqu'à la mort.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

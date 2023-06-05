@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Klekání.</title>
+    <author>Vinařický, Karel Alois</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vinařický, Karel Alois_klekani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Klekání.</title>
+     <author>Vinařický, Karel Alois</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Klekání.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Světlo denní od nás mizí,</l>
+     <l n="2" met="10100100" rhyme="1" line_length="8">Zvonek zvoní a vybízí</l>
+     <l n="3" met="1000" rhyme="2" line_length="4">Ku klekání.</l>
+     <l n="4" met="10101010" rhyme="3" line_length="8">Konec práce! v noční chvíli</l>
+     <l n="5" met="10001110" rhyme="3" line_length="8">Pracovitých Pán Bůh sílí</l>
+     <l n="6" met="1010" rhyme="2" line_length="4">V tichém spaní.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

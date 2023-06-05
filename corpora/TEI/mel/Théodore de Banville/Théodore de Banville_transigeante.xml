@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Transigeante</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_transigeante</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Transigeante</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Transigeante</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Les deux vicomtes à la fois</l>
+     <l n="2" rhyme="b" line_length="8">Courtisaient Rose, fleur hautaine :</l>
+     <l n="3" rhyme="a" line_length="8">En écoutant leurs douces voix</l>
+     <l n="4" rhyme="b" line_length="8">Elle ne fut pas incertaine.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Trouvant le choix trop hasardeux</l>
+     <l n="6" rhyme="b" line_length="8">Ou craignant ceux qu'on désespère,</l>
+     <l n="7" rhyme="a" line_length="8">Elle les a pris tous les deux</l>
+     <l n="8" rhyme="b" line_length="8">Et maintenant ils font la paire.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">C'est que, folâtre en son printemps,</l>
+     <l n="10" rhyme="b" line_length="8">Rose qui rit n'est pas de celles</l>
+     <l n="11" rhyme="a" line_length="8">Qui peuvent demeurer longtemps</l>
+     <l n="12" rhyme="b" line_length="8">L'âme par terre — entre deux selles.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

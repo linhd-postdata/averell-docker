@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SVATEBNÍ.</title>
+    <author>Červinka, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červinka, Adolf_svatebni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SVATEBNÍ.</title>
+     <author>Červinka, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SVATEBNÍ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010" line_length="7">Co zrálo dlouhá léta</l>
+     <l n="2" met="100100" rhyme="1" line_length="6">za dne a svítání,</l>
+     <l n="3" met="0100010" line_length="7">teď přetíženým klasem</l>
+     <l n="4" met="010100" rhyme="1" line_length="6">se ke mně naklání...</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010" line_length="7">Tvá ústa, jichž jsem hostem,</l>
+     <l n="6" met="010100" rhyme="2" line_length="6">tvých vlasů ručeje,</l>
+     <l n="7" met="0101010" line_length="7">mně šumí písní mládí,</l>
+     <l n="8" met="010100" rhyme="2" line_length="6">mé živí naděje!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0100010" line_length="7">Tvé objetí jest dlouhé</l>
+     <l n="10" met="010100" rhyme="3" line_length="6">a půlnoc blízká jest!</l>
+     <l n="11" met="1101000" line_length="7">Chci na vše zapomenout,</l>
+     <l n="12" met="010011" rhyme="3" line_length="6">až pobledne svit hvězd...</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="0100010" line_length="7">Ty v náručí se chvěješ,</l>
+     <l n="14" met="010100" rhyme="4" line_length="6">ač život volá k nám!</l>
+     <l n="15" met="0101010" line_length="7">S tvou rukou na smrt bílou</l>
+     <l n="16" met="110100" rhyme="4" line_length="6">chrám lásky otvírám!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

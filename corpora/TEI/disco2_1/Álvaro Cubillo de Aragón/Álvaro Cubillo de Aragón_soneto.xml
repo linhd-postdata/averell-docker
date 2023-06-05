@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Álvaro Cubillo de Aragón</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Álvaro Cubillo de Aragón_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Álvaro Cubillo de Aragón</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Llegó a la suma elevación Mariana,</l>
+     <l n="2" met="-++--+---+-">pisó la última línea sus grandeza;</l>
+     <l n="3" met="---+++-+-+-">adoleció en lo grande; ¡qué fineza!</l>
+     <l n="4" met="--+---+--+-">del peligro vivió. ¡qué soberana!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+-+-+-">En púrpura, en clavel, en nieve, en grana</l>
+     <l n="6" met="--+--+---+-">la esmeralda rompió de su belleza;</l>
+     <l n="7" met="---+-+-+-+-">ocasionando el riesgo a tanta Alteza,</l>
+     <l n="8" met="+----+---+-">flor que desabrochó su Abril temprana.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++---++--+-">Dio a España sucesor, hizo inmortales</l>
+     <l n="10" met="--+--+---+-">las victorias de sustos, y temores</l>
+     <l n="11" met="---+---+-+-">con el laurel debido a tanta hazaña.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+--+--+-">Viva, y el Sol la de rubios cendales,</l>
+     <l n="13" met="---+---+-+-">sobre azafates de encarnadas flores,</l>
+     <l n="14" met="+--+-+----">gloria a Felipe, y Príncipes de España.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

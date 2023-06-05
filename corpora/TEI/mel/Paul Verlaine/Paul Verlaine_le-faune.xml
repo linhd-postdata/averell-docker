@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Faune</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_le-faune</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Faune</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Faune</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Un vieux faune de terre cuite</l>
+     <l n="2" rhyme="b" line_length="8">Rit au centre des boulingrins,</l>
+     <l n="3" rhyme="a" line_length="8">Présageant sans doute une suite</l>
+     <l n="4" rhyme="b" line_length="8">Mauvaise à ces instants sereins</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Qui m’ont conduit et t’ont conduite,</l>
+     <l n="6" rhyme="b" line_length="8">— Mélancoliques pélerins, —</l>
+     <l n="7" rhyme="a" line_length="8">Jusqu’à cette heure dont la fuite</l>
+     <l n="8" rhyme="b" line_length="8">Tournoie au son des tambourins.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kde je mých písní královna?</title>
+    <author>Dörfl, Gustav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dörfl, Gustav_kde-je-mych-pisni-kralovna</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kde je mých písní královna?</title>
+     <author>Dörfl, Gustav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kde je mých písní královna?</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00010100" line_length="8">Kde je mých písní královna? </l>
+     <l n="2" met="10010101" rhyme="1" line_length="8">Hledám ji, hledám v těchto zdech –</l>
+     <l n="3" met="01010100" line_length="8">a ona zatím přebývá</l>
+     <l n="4" met="01010100" rhyme="1" line_length="8">jak žaly moje ve hvozdech.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" line_length="8">A já as sotva naleznu</l>
+     <l n="6" met="01000100" rhyme="2" line_length="8">to místečko, co skrývá ji;</l>
+     <l n="7" met="01010100" line_length="8">neb jdu-li lesem hledat je,</l>
+     <l n="8" met="10010100" rhyme="2" line_length="8">lišáci na mne štěkají.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" line_length="8">A zřím-li v dálku k myslivně,</l>
+     <l n="10" met="00010100" rhyme="3" line_length="8">je mi tak zvláštně podivno,</l>
+     <l n="11" met="01010100" line_length="8">že přál bych sobě umříti –</l>
+     <l n="12" met="11001100" rhyme="3" line_length="8">ó myslivno, ó myslivno!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

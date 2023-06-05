@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Fatum.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_fatum</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Fatum.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Fatum.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010010" rhyme="1" line_length="10">Nemůže, nesmí v životě krátkém</l>
+     <l n="2" met="1001010010" rhyme="2" line_length="10">vzdorovat člověk odvěkým bohům!</l>
+     <l n="3" met="10010010010" rhyme="1" line_length="11">Dítě jest na skály útesu hladkém</l>
+     <l n="4" met="1001010010" rhyme="2" line_length="10">vydané v pospas orlům a nohům.</l>
+     <l n="5" met="10010011010" rhyme="3" line_length="11">Tito je hltají, rvou, derou v kusy</l>
+     <l n="6" met="010010010010" rhyme="3" line_length="12">a člověk to trpěti, snášeti musí –</l>
+     <l n="7" met="10010010" line_length="8">bozi však smějí se v světle.</l>
+    </lg>
+    <lg n="2">
+     <l n="8" met="1001010110" rhyme="4" line_length="10">V pustině dálné socha ční z kovu</l>
+     <l n="9" met="1001001010" rhyme="5" line_length="10">obrovských plecí – ta očí nemá,</l>
+     <l n="10" met="10010010010" rhyme="4" line_length="11">zamknutá ústa se nepohnou k slovu,</l>
+     <l n="11" met="10010010110" rhyme="5" line_length="11">obloha kalná jest, země kol němá,</l>
+     <l n="12" met="10110010010" rhyme="6" line_length="11">člověk pták zbloudilý v zmatku a strachem</l>
+     <l n="13" met="10010010100" rhyme="6" line_length="11">utluče, utříská v letu se plachém</l>
+     <l n="14" met="10010010" line_length="8">o sochy skráně i nohy.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

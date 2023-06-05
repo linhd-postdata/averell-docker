@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vlčí máky.</title>
+    <author>Breska, Alfons</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Breska, Alfons_vlci-maky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vlčí máky.</title>
+     <author>Breska, Alfons</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vlčí máky.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Vlčí máky plály všude</l>
+     <l n="2" met="1000100" rhyme="2" line_length="7">na stráních a na cestách,</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">samé vlčí máky rudé,</l>
+     <l n="4" met="1010101" rhyme="2" line_length="7">jeden purpur, jeden nach.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" rhyme="3" line_length="8">V myriadách v slunci plály,</l>
+     <l n="6" met="1000100" rhyme="4" line_length="7">skláněly se ve vánku,</l>
+     <l n="7" met="10101010" rhyme="3" line_length="8">stráně jako v ohni stály,</l>
+     <l n="8" met="1010100" rhyme="4" line_length="7">v rudém ohni červánků.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001010" rhyme="5" line_length="8">Běhali jsme v slunci spolu</l>
+     <l n="10" met="1010100" rhyme="6" line_length="7">mezi máky po stráni</l>
+     <l n="11" met="10001010" rhyme="5" line_length="8">nahoru a zase dolů</l>
+     <l n="12" met="1000100" rhyme="6" line_length="7">za smíchu a jásání.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10001010" rhyme="7" line_length="8">K večeru jsme v květy máků</l>
+     <l n="14" met="1010100" rhyme="8" line_length="7">klesli jako zmámeni,</l>
+     <l n="15" met="10101010" rhyme="7" line_length="8">rudý odlesk v hloubi zraků,</l>
+     <l n="16" met="1010100" rhyme="8" line_length="7">tváře v nachu plameni.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

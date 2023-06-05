@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pohlavím teď „krásným“</title>
+    <author>Menhard, František Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Menhard, František Ladislav_pohlavim-ted-krasnym</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pohlavím teď „krásným“</title>
+     <author>Menhard, František Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pohlavím teď „krásným“</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" line_length="6">Pohlavím teď „krásným“ </l>
+     <l n="2" met="101010" rhyme="1" line_length="6">ženy vůbec slují;</l>
+     <l n="3" met="100010" line_length="6">lichotný ten název</l>
+     <l n="4" met="101000" rhyme="1" line_length="6">jistě zasluhují.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010110" line_length="6">By měly kras různých</l>
+     <l n="6" met="101000" rhyme="2" line_length="6">míru vrchovatou,</l>
+     <l n="7" met="100010" line_length="6">zvyšují své vnady</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">barvami a vatou.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="101100" line_length="6">A když muž dostane</l>
+     <l n="10" met="100010" rhyme="3" line_length="6">na ženitbu choutku,</l>
+     <l n="11" met="101000" line_length="6">pojme za manželku –</l>
+     <l n="12" met="100010" rhyme="3" line_length="6">malovanou loutku!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

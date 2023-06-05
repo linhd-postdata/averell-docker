@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Musicien</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_le-musicien</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Musicien</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Musicien</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">C'était un grand vieillard à chevelure blanche.</l>
+     <l n="2" rhyme="b" line_length="6+6">Il portait haut son front, neigeux comme les fleurs</l>
+     <l n="3" rhyme="b" line_length="6+6">D'avril ; et, plus profonds que ceux des oiseleurs,</l>
+     <l n="4" rhyme="a" line_length="6+6">Ses yeux pensifs étaient du bleu de la pervenche.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Sur un violon jaune où sa tête se penche,</l>
+     <l n="6" rhyme="b" line_length="6+6">Il improvisait, fier, défiant ses douleurs,</l>
+     <l n="7" rhyme="b" line_length="6+6">Beau de l'émotion qui ruisselait en pleurs</l>
+     <l n="8" rhyme="a" line_length="6+6">De son archet tremblant, comme l'eau d'une branche.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Tel par ce rude hiver, pâle de froid, transi,</l>
+     <l n="10" rhyme="c" line_length="6+6">Sur la corde sonore où frémissait ainsi</l>
+     <l n="11" rhyme="d" line_length="6+6">Tout ce qu'en gémissant notre espérance nomme,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Disant les vains efforts, la soif du beau, l'amour,</l>
+     <l n="13" rhyme="d" line_length="6+6">Et toute la bataille effroyable de l'homme,</l>
+     <l n="14" rhyme="e" line_length="6+6">Il chantait. Le portier l'a chassé de la cour.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

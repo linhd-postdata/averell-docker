@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Manuel de Mola y Córdoba</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel de Mola y Córdoba_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Manuel de Mola y Córdoba</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-----+---+-">La Reina de las Aves misteriosa</l>
+     <l n="2" met="--+--+---+-">en afectos de eterna desatada,</l>
+     <l n="3" met="+--+-+---+-">lecho construye en palma levantada</l>
+     <l n="4" met="--+--+---+-">sin temer apariencias de achacosa.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">Incendios lisonjea mariposa,</l>
+     <l n="6" met="--+--+---+-">de inmortal su grandeza asegurada,</l>
+     <l n="7" met="---+-+---+-">pues la fragante pira imaginada</l>
+     <l n="8" met="+-+--++--+-">es fecunda a su ser cuna olorosa.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+---">No receles, o Fénix Alemana,</l>
+     <l n="10" met="-+-+-+---+-">fatal desmayo en pálido accidente,</l>
+     <l n="11" met="+-+--+-+-+-">róndale su sextina, alegre, ufana.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-----+----">Que de Felipe Próspero el Oriente</l>
+     <l n="13" met="--+--+---+-">tu grandeza eterniza soberana,</l>
+     <l n="14" met="++---++--+-">y es gozo universal, susto aparente.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

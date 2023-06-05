@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NOVELETA.</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_noveleta</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NOVELETA.</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NOVELETA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100010" rhyme="1" line_length="11">Ti dva si málo rozuměli v celku...</l>
+     <l n="2" met="0101000100" rhyme="2" line_length="10">On šel k ní na šampaňskou orgii</l>
+     <l n="3" met="01010101000" rhyme="1" line_length="11">a ona dala na stůl kysibelku</l>
+     <l n="4" met="1001010100" rhyme="2" line_length="10">s rozšafné dámy něžnou gracií.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100110" rhyme="3" line_length="11">I šel on od ní na tisíc mil v dálku</l>
+     <l n="6" met="0100010100" rhyme="4" line_length="10">a ona se pak teskně divila –</l>
+     <l n="7" met="11000101000" rhyme="3" line_length="11">bůh zachovej tu vaši minerálku</l>
+     <l n="8" met="0100010100" rhyme="4" line_length="10">a gracii tu vaši, spanilá!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

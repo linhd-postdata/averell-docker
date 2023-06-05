@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Es el Orfeo del señor don Juan</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_es-el-orfeo-del-senor-don-juan</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Es el Orfeo del señor don Juan</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Es el Orfeo del señor don Juan</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="+--+--+-+-" line_length="10">Es el Orfeo del señor don Juan</l>
+     <l n="2" met="--+--+--+-" line_length="10">el primero, porque hay otro segundo;</l>
+     <l n="3" met="--++-+---+-" line_length="11">espantado han sus números al mundo</l>
+     <l n="4" met="---+-+-+-+-" line_length="11">por el horror que algunas voces dan.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="-++--+-+-+-" line_length="11">Mancebo es ingenioso, juro a san,</l>
+     <l n="6" met="-+--+---+-" line_length="10">y leído en las cosas del profundo,</l>
+     <l n="7" met="+--+---+-+-" line_length="11">pluma valiente, si pincel facundo:</l>
+     <l n="8" met="-+-+-+-+-+-" line_length="11">tan santo lo haga Dios como es Letrán.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="+--+--+-+-" line_length="10">Bien, pues, su Orfeo, que trilingüe canta,</l>
+     <l n="10" met="-+-+-+--++-" line_length="11">pilló su esposa, puesto que no pueda</l>
+     <l n="11" met="-+--+--+++-" line_length="11">miralla, en cuanto otra región no mude.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="+-+--++--+-" line_length="11">Él volvió la cabeza, ella, la planta;</l>
+     <l n="13" met="-+---+-++-" line_length="10">la trova se acabó, y el autor queda</l>
+     <l n="14" met="+--+---+-+-" line_length="11">cisne gentil de la infernal palude.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

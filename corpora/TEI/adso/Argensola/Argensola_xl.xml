@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- XL - </title>
+    <author>Argensola</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Argensola_xl</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- XL - </title>
+     <author>Argensola</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- XL - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+---+-">¿Por qué habitáis, silvestres homicidas,</l>
+     <l n="2" met="--+--+---+-">entre fieras armados de su furia,</l>
+     <l n="3" met="-+---+---+-">pudiendo en opulencia y en lujuria,</l>
+     <l n="4" met="---+---+-+-">entre las gentes, como Creso y Midas?</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+---+-">Venid a hacer pacíficas heridas</l>
+     <l n="6" met="--+--+---+-">y pacíficos robos en la curia;</l>
+     <l n="7" met="-+-+-+---+-">que aquí os dará jurídica la injuria</l>
+     <l n="8" met="---+---+-+-">autorizadas y seguras vidas.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+-+-+-">La victoria sin sangre más se alaba,</l>
+     <l n="10" met="---+-+---+-">y del sutil abuso de las leyes</l>
+     <l n="11" met="-+++-++--+-">(que el juez no puede más) pende el suceso.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">Si robara las vacas y los bueyes</l>
+     <l n="13" met="+----+-+-+-">caco por los asaltos de un proceso,</l>
+     <l n="14" met="+--+-+---+-">¿qué le valiera a Hércules la calva?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

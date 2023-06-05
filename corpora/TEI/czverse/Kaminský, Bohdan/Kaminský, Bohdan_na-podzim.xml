@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Na podzim.</title>
+    <author>Kaminský, Bohdan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kaminský, Bohdan_na-podzim</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Na podzim.</title>
+     <author>Kaminský, Bohdan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Na podzim.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" rhyme="1" line_length="11">Jak oči pláčem všechno listí rudé</l>
+     <l n="2" met="01010" rhyme="1" line_length="5">a teskno všude.</l>
+     <l n="3" met="01000101000" line_length="11">A alejí jak šel jsem zamyšlený,</l>
+     <l n="4" met="11010101010" rhyme="2" line_length="11">pták z celé duše v smutek ticha zpíval.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100010" rhyme="3" line_length="11">To byla píseň dumavá a vřelá</l>
+     <l n="6" met="01010" rhyme="3" line_length="5">a duší chvěla.</l>
+     <l n="7" met="01010101000" line_length="11">A pták ten sladce v jeseň zádumčivou</l>
+     <l n="8" met="10000101010" rhyme="2" line_length="11">o jaru svém a o svém štěstí zpíval.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010101010" rhyme="4" line_length="11">A pak jsem šel, v mé duši mukou zprahlé</l>
+     <l n="10" met="01010" rhyme="4" line_length="5">tak divno náhle</l>
+     <l n="11" met="01001001010" line_length="11">a líto mi, že já jen v jeseň stáří</l>
+     <l n="12" met="01010100010" rhyme="2" line_length="11">jsem neměl jara, o němž byl bych zpíval.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

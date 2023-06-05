@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Manuel Villar y Macías</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel Villar y Macías_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Manuel Villar y Macías</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Morir ¡ay Dios! cuando en el noble foro</l>
+     <l n="2" met="--+--+-+-+-">la Justicia sus palmas te ofrecía,</l>
+     <l n="3" met="---+---+-+-">y a tu elocuencia varonil abría</l>
+     <l n="4" met="-+-+---+-+-">la ley severa su inmortal tesoro.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+---+-+-">Y cuando el crimen vergonzoso lloro</l>
+     <l n="6" met="---+-+++-+-">tu poderosa voz verte hacía,</l>
+     <l n="7" met="--+--+---+-">y la hollada inocencia sonreía</l>
+     <l n="8" met="---+-++--+-">al recobrar por ti su alto decoro.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Abrasaba tu rápida existencia</l>
+     <l n="10" met="+--+-+---+-">sed de justicia, sed devoradora;</l>
+     <l n="11" met="---+-+---+-">y ¡oh inescrutable y santa Providencia!</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++--+--+-+-">Hoy el sol de Justicia eterno dora</l>
+     <l n="13" met="-+---+---+-">el cielo para ti, y a su presencia</l>
+     <l n="14" met="+--+-+--++-">tu alma feliz estática le adora.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

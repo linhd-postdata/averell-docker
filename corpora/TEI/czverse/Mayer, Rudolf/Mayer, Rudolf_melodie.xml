@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MELODIE.</title>
+    <author>Mayer, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mayer, Rudolf_melodie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MELODIE.</title>
+     <author>Mayer, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MELODIE.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101" rhyme="1" line_length="8">Mou duší bolný nápěv zní,</l>
+     <l n="2" met="010101000" rhyme="2" line_length="9">Ta píseň dávno dozpívána,</l>
+     <l n="3" met="10010100" rhyme="1" line_length="8">A přec mi oko zaslzí,</l>
+     <l n="4" met="010101010" rhyme="2" line_length="9">A srdce bolí stará rána.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01001100" rhyme="3" line_length="8">Já takových slov neslyšel,</l>
+     <l n="6" met="010101010" rhyme="4" line_length="9">A sotva někdy slyšet budu,</l>
+     <l n="7" met="00010101" rhyme="3" line_length="8">K nimž bych ten nápěv zpívat směl,</l>
+     <l n="8" met="010101010" rhyme="4" line_length="9">Ten nápěv plný, plný trudů.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101" rhyme="5" line_length="8">Jen smrt snad taká slova zná,</l>
+     <l n="10" met="010101000" rhyme="6" line_length="9">Vždyť mroucích stonům naslouchala,</l>
+     <l n="11" met="01000101" rhyme="5" line_length="8">A nápěv ten mi zněl, když má</l>
+     <l n="12" met="100101000" rhyme="6" line_length="9">Nešťastná láska umírala.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>César</title>
+    <author>Paul Valéry</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Valéry_cesar</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>César</title>
+     <author>Paul Valéry</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>César</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">César, calme César, le pied sur toute chose,</l>
+     <l n="2" rhyme="b" line_length="6+6">Les poings durs dans la barbe, et l’œil sombre peuplé</l>
+     <l n="3" rhyme="b" line_length="6+6">D’aigles et des combats du couchant contemplé,</l>
+     <l n="4" rhyme="a" line_length="6+6">Ton cœur s’enfle, et se sent toute-puissante Cause.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Le lac en vain palpite et lèche son lit rose ;</l>
+     <l n="6" rhyme="b" line_length="6+6">En vain d’or précieux brille le jeune blé ;</l>
+     <l n="7" rhyme="b" line_length="6+6">Tu durcis dans les nœuds de ton corps rassemblé</l>
+     <l n="8" rhyme="a" line_length="6+6">L’ordre, qui doit enfin fendre ta bouche close.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">L’ample monde, au delà de l’immense horizon,</l>
+     <l n="10" rhyme="c" line_length="6+6">L’Empire attend l’éclair, le décret, le tison</l>
+     <l n="11" rhyme="d" line_length="6+6">Qui changeront le soir en furieuse aurore.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Heureux là-bas sur l’onde, et bercé du hasard,</l>
+     <l n="13" rhyme="d" line_length="6+6">Un pêcheur indolent qui flotte et chante, ignore</l>
+     <l n="14" rhyme="e" line_length="6+6">Quelle foudre s’amasse au centre de César.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dvorský.</title>
+    <author>Pokorný, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný, Rudolf_dvorsky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dvorský.</title>
+     <author>Pokorný, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dvorský.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="111" rhyme="1" line_length="3">Bác! bác! bum!</l>
+     <l n="2" met="101000" rhyme="2" line_length="6">Blesku Bělohorský!</l>
+     <l n="3" met="00100" rhyme="1" line_length="5">to je unikum,</l>
+     <l n="4" met="010010" rhyme="2" line_length="6">jak František Dvorský</l>
+     <l n="5" met="10100" rhyme="1" line_length="5">hřímá v publikum!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

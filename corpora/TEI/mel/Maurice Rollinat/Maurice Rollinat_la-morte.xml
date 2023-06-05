@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Morte</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_la-morte</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Morte</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Morte</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Miné de chagrin, l'homme croule</l>
+     <l n="2" rhyme="b" line_length="8">Près du lit à baldaquin bleu</l>
+     <l n="3" rhyme="b" line_length="8">Où sa femme gît au milieu</l>
+     <l n="4" rhyme="a" line_length="8">Sous le drap tendu qui la moule.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="8">Voilà que son doux orphelin</l>
+     <l n="6" rhyme="c" line_length="8">Monte sur une chaise, et câlin,</l>
+     <l n="7" rhyme="d" line_length="8">Passe ses mains d'étrange sorte</l>
+    </lg>
+    <lg n="3">
+     <l n="8" rhyme="e" line_length="8">Le père tressaille — il a peur…</l>
+     <l n="9" rhyme="e" line_length="8">Et, défigé de sa stupeur</l>
+     <l n="10" rhyme="f" line_length="8">Devant la forme longue et roide,</l>
+    </lg>
+    <lg n="4">
+     <l n="11" rhyme="g" line_length="8">« Que fais-tu, pʼtit ? » et tristement,</l>
+     <l n="12" rhyme="g" line_length="8">L'enfant répond : « J'réchauffʼ maman.</l>
+     <l n="13" rhyme="f" line_length="8">Si tu savais ? elle est si froide ! »</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

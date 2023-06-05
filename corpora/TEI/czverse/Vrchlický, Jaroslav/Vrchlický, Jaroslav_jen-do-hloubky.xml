@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jen do hloubky!</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_jen-do-hloubky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jen do hloubky!</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jen do hloubky!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000101" rhyme="1" line_length="8">Jen do hloubky, jak můžeš, ryj!</l>
+     <l n="2" met="01000101" rhyme="1" line_length="8">A zdroj-li tam, pak z něho pij!</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="01000100" rhyme="2" line_length="8">Co na povrchu, blabuň jest,</l>
+     <l n="4" met="01010101" rhyme="2" line_length="8">byť třeba neslo odlesk hvězd.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="01000100" rhyme="3" line_length="8">Jen do hloubky! Co nalezneš,</l>
+     <l n="6" met="01000100" rhyme="3" line_length="8">ať žula to, ať křemen, spěž,</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="00010100" rhyme="4" line_length="8">jen to jest pravé jádro tvé,</l>
+     <l n="8" met="01010100" rhyme="4" line_length="8">vše jiné zdání prchavé.</l>
+    </lg>
+    <lg n="5">
+     <l n="9" met="01000100" rhyme="5" line_length="8">Jen do hloubky! Jest jistě tam</l>
+     <l n="10" met="01000100" rhyme="5" line_length="8">tvé poctivosti drahokam.</l>
+    </lg>
+    <lg n="6">
+     <l n="11" met="01000100" rhyme="6" line_length="8">Je jistě tam – Však není-li,</l>
+     <l n="12" met="01010100" rhyme="6" line_length="8">tvůj dobrý duch ať zakvílí!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

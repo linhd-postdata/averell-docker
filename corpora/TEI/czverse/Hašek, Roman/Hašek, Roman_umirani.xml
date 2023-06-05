@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>UMÍRÁNÍ.</title>
+    <author>Hašek, Roman</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hašek, Roman_umirani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>UMÍRÁNÍ.</title>
+     <author>Hašek, Roman</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>UMÍRÁNÍ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100010" rhyme="1" line_length="11">Nemocné touhou zhynulo nám mládí,</l>
+     <l n="2" met="01001001010" rhyme="1" line_length="11">co kvetlo, vše, a co jsme měli rádi.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="10000100010" rhyme="2" line_length="11">K životu, viď, my neměli jsme síly:</l>
+     <l n="4" met="01011001000" rhyme="2" line_length="11">tak dlouhé dny – a nic jsme neužili!</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="01010101010" rhyme="3" line_length="11">Tak dlouhé noci – a ta naše těla</l>
+     <l n="6" met="10000101010" rhyme="3" line_length="11">po objetí se v marném pláči chvěla!</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="10010100010" rhyme="4" line_length="11">O lásku, o mír s žitím jsme se rvali,</l>
+     <l n="8" met="10010101000" rhyme="4" line_length="11">vášnivé růže hořce odkvétaly.</l>
+    </lg>
+    <lg n="5">
+     <l n="9" met="01010101010" rhyme="5" line_length="11">A víra mřela, touha v duši vyschla,</l>
+     <l n="10" met="11000101010" rhyme="5" line_length="11">krev při polibku ze rtů našich tryskla.</l>
+    </lg>
+    <lg n="6">
+     <l n="11" met="01001001010" rhyme="6" line_length="11">Co zrálo, vše, a co jsme měli rádi,</l>
+     <l n="12" met="01010100010" rhyme="6" line_length="11">nám život vzal. A zhynulo nám mládí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

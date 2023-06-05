@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ascension</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_ascension</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ascension</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ascension</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">À mesure que l'on s'élève</l>
+     <l n="2" rhyme="b" line_length="8">Au-dessus des mornes terrains,</l>
+     <l n="3" rhyme="b" line_length="8">On sent le poids de ses chagrins</l>
+     <l n="4" rhyme="a" line_length="8">Se désalourdir comme en rêve.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="8">Pour l'âme, alors, libre existence !…</l>
+     <l n="6" rhyme="d" line_length="8">Car, subtilisée à l'air pur,</l>
+     <l n="7" rhyme="d" line_length="8">Son enveloppe vers l'azur</l>
+     <l n="8" rhyme="c" line_length="8">Semble évaporer sa substance.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="8">On monte encor, toujours ! Enfin,</l>
+     <l n="10" rhyme="e" line_length="8">On n'est plus qu'un souffle divin</l>
+     <l n="11" rhyme="f" line_length="8">Flottant sur l'immense campagne :</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="8">Et, dans le plein ciel qui sourit,</l>
+     <l n="13" rhyme="f" line_length="8">Le blanc sommet de la montagne</l>
+     <l n="14" rhyme="g" line_length="8">Devient le trône de l'esprit.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

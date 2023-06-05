@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Saltimbanques</title>
+    <author>Guillaume Apollinaire</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Guillaume Apollinaire_saltimbanques</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Saltimbanques</title>
+     <author>Guillaume Apollinaire</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Saltimbanques</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Dans la plaine les baladins</l>
+     <l n="2" rhyme="a" line_length="8">S'éloignent au long des jardins</l>
+     <l n="3" rhyme="b" line_length="8">Devant l'huis des auberges grises</l>
+     <l n="4" rhyme="b" line_length="8">Par les villages sans églises</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Et les enfants s'en vont devant</l>
+     <l n="6" rhyme="a" line_length="8">Les autres suivent en rêvant</l>
+     <l n="7" rhyme="b" line_length="8">Chaque arbre fruitier se résigne</l>
+     <l n="8" rhyme="b" line_length="8">Quand de très loin ils lui font signe</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Ils ont des poids ronds ou carrés</l>
+     <l n="10" rhyme="a" line_length="8">Des tambours des cerceaux dorés</l>
+     <l n="11" rhyme="b" line_length="8">L'ours et le singe animaux sages</l>
+     <l n="12" rhyme="b" line_length="8">Quêtent des sous sur leur passage</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

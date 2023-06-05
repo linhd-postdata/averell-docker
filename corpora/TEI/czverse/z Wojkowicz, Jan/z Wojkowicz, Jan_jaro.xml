@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jaro.</title>
+    <author>z Wojkowicz, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">11</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>z Wojkowicz, Jan_jaro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jaro.</title>
+     <author>z Wojkowicz, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jaro.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000010101" rhyme="1" line_length="10">U otevřených oken budu snít,</l>
+     <l n="2" met="1101010100" rhyme="1" line_length="10">chtít sebe jarem v touze roztesknit...</l>
+     <l n="3" met="0101010100" rhyme="2" line_length="10">A věčná píseň jara bude to,</l>
+     <l n="4" met="0101010100" rhyme="2" line_length="10">co bude v duši moji rozchvěto,</l>
+     <l n="5" met="1001000101" rhyme="1" line_length="10">a co se rozčeřeno bude chvít</l>
+     <l n="6" met="0100010100" rhyme="1" line_length="10">a neustále chtít mě roztesknit –</l>
+     <l n="7" met="010100010100" rhyme="3" line_length="12">tím čerstvým závanem a vůní z modřínů,</l>
+     <l n="8" met="100100100100" rhyme="3" line_length="12">jehličím ze smrčin – a já se přivinu,</l>
+     <l n="9" met="0101000101000" rhyme="4" line_length="13">k těm snům se přivinu a jako v opojení</l>
+     <l n="10" met="100100100110100" rhyme="4" line_length="15">v doprovod k jaru si zazpívám zvuk aspoň jediný</l>
+     <l n="11" met="0101010" rhyme="4" line_length="7">z těch sonat jeho snění...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

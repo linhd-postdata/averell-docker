@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hastroš.</title>
+    <author>Písecký, Ferdinand</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Písecký, Ferdinand_hastros</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hastroš.</title>
+     <author>Písecký, Ferdinand</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hastroš.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101010" rhyme="1" line_length="10">Divný kabát má a divné gatě.</l>
+     <l n="2" met="1010101010" rhyme="1" line_length="10">Devět záplat na tom divném šatě.</l>
+     <l n="3" met="1000101010" rhyme="2" line_length="10">Udržet je v celku není snadné –</l>
+     <l n="4" met="1010001000" rhyme="2" line_length="10">všecky záplaty jsou velezrádné.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

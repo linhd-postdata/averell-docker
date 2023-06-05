@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Tvoje kadeř.</title>
+    <author>Dvořáková-Mráčková, Albína</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořáková-Mráčková, Albína_tvoje-kader</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Tvoje kadeř.</title>
+     <author>Dvořáková-Mráčková, Albína</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Tvoje kadeř.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" rhyme="1" line_length="8">Kadeř tvoje přeletěla,</l>
+     <l n="2" met="10001010" rhyme="1" line_length="8">dotknula se mého čela,</l>
+     <l n="3" met="10001010" rhyme="2" line_length="8">dotkla se tak lehce, jemně –</l>
+     <l n="4" met="10001010" rhyme="2" line_length="8">zabušilo srdce ve mně.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" rhyme="3" line_length="8">Zardělo se moje čelo</l>
+     <l n="6" met="00001010" rhyme="3" line_length="8">jak by tím se pyšnit chtělo,</l>
+     <l n="7" met="10101000" rhyme="4" line_length="8">rtové moji zahořeli,</l>
+     <l n="8" met="00101000" rhyme="4" line_length="8">jak by čelu záviděli.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

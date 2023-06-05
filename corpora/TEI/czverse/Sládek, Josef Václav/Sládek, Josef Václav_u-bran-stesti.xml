@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>U BRAN ŠTĚSTÍ.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_u-bran-stesti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>U BRAN ŠTĚSTÍ.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>U BRAN ŠTĚSTÍ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010" line_length="8">TLOUKL jsem na štěstí brány,</l>
+     <l n="2" met="10101010" rhyme="1" line_length="8">jako jiní na ně tlukou; –</l>
+     <l n="3" met="10001000" line_length="8">otevřelo, chopilo mne</l>
+     <l n="4" met="00101010" rhyme="1" line_length="8">tou svou vlídnou, teplou rukou.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" line_length="8">Usmálo se. – Kolem stáli</l>
+     <l n="6" met="10101010" rhyme="2" line_length="8">lidé šťastní. – „Srdcem lehcí,“</l>
+     <l n="7" met="10101010" line_length="8">dělo, „vešli za mé brány.</l>
+     <l n="8" met="1010" line_length="4">Chceš být šťasten?“</l>
+     <l n="9" met="1010" rhyme="2" line_length="4">Děl jsem: „Nechci.“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

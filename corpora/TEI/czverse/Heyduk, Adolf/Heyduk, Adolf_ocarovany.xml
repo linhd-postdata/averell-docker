@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Očarovaný.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_ocarovany</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Očarovaný.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Očarovaný.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">Hoch byl jako svižná rybka,</l>
+     <l n="2" met="001010" rhyme="1" line_length="6">jež se v proudu honí,</l>
+     <l n="3" met="10101000" rhyme="2" line_length="8">ale dívka prostomilá</l>
+     <l n="4" met="1010101000" rhyme="2" line_length="10">ze svých vlasů síťku urobila,</l>
+     <l n="5" met="100010" rhyme="1" line_length="6">chytila ho do ní.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="01001010" line_length="8">Byl jako ten holub sivý,</l>
+     <l n="7" met="101010" rhyme="2" line_length="6">pláň mu světem byla,</l>
+     <l n="8" met="10001010" rhyme="3" line_length="8">z ohně však, jenž v zorách kypí,</l>
+     <l n="9" met="1100101010" rhyme="3" line_length="10">dva zrobila dívka ostré šípy,</l>
+     <l n="10" met="101000" rhyme="2" line_length="6">v prs ho poranila.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="00101000" line_length="8">Byl jak sokol prudkoletý</l>
+     <l n="12" met="100010" rhyme="4" line_length="6">na lesnaté stráni,</l>
+     <l n="13" met="10101010" rhyme="2" line_length="8">ale její líčka bílá</l>
+     <l n="14" met="1010001000" rhyme="2" line_length="10">leskem čarovným jej oslepila,</l>
+     <l n="15" met="101010" rhyme="4" line_length="6">nyní musí za ní!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

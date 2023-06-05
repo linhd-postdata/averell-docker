@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jednou v témdnu.</title>
+    <author>Škampa, Alois</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Škampa, Alois_jednou-v-temdnu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jednou v témdnu.</title>
+     <author>Škampa, Alois</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jednou v témdnu.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101010" rhyme="1" line_length="10">Byla krásna jako slunce v máji,</l>
+     <l n="2" met="1000101010" rhyme="2" line_length="10">bez sokyně v našem kraji celém!</l>
+     <l n="3" met="1010100010" rhyme="1" line_length="10">Každý svátek vídal jsem ji v háji</l>
+     <l n="4" met="1010101000" rhyme="2" line_length="10">ruku v ruce s mladým učitelem.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0010100010" rhyme="3" line_length="10">Zde vždy ráno setkali se krátce,</l>
+     <l n="6" met="1010100010" rhyme="4" line_length="10">na chlum ze vsi přikvapivše zdola;</l>
+     <l n="7" met="1010100010" rhyme="3" line_length="10">jindy v témdnu bránila jim práce –</l>
+     <l n="8" met="0111001010" rhyme="4" line_length="10">ji chtěl krb, a jej si vzala škola!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010101010" rhyme="5" line_length="10">Tehdy ona v rodném statku dlela,</l>
+     <l n="10" met="1010101010" rhyme="5" line_length="10">a on zatím v žáků svojich čela</l>
+     <l n="11" met="1010101010" rhyme="6" line_length="10">vléval ducha a se knihou mučil...</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="0010101010" rhyme="7" line_length="10">Leč kdy svátek volným zval ho ptákem –</l>
+     <l n="13" met="1000101010" rhyme="7" line_length="10">z učitele stal se opět žákem,</l>
+     <l n="14" met="1010100010" rhyme="6" line_length="10">a svou růži milovat se učil!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

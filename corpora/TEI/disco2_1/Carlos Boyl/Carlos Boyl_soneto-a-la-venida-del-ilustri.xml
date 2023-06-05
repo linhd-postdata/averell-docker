@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto a la venida del ilustrísimo y excelentísimo señor Duque de Feria, virrey y capitán general en esta ciudad y reino de Valencia</title>
+    <author>Carlos Boyl</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Carlos Boyl_soneto-a-la-venida-del-ilustri</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto a la venida del ilustrísimo y excelentísimo señor Duque de Feria, virrey y capitán general en esta ciudad y reino de Valencia</title>
+     <author>Carlos Boyl</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto a la venida del ilustrísimo y excelentísimo señor Duque de Feria, virrey y capitán general en esta ciudad y reino de Valencia</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+-+-+-">El sol de Feria envuelto en Ferias vino</l>
+     <l n="2" met="++-+---+-+-">delas grandezas de su insigne estado,</l>
+     <l n="3" met="--+--+---+-">por quien trae el que menos obligado,</l>
+     <l n="4" met="--+--+---+-">que contar de la feria de contino.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--++-+-+-+-">Según le va en la Feria, me imagino</l>
+     <l n="6" met="+--+--+--+-">que habla el deseo que obligó al Feriado,</l>
+     <l n="7" met="-+---+-+++-">y así en mi obligación en Feria he dado</l>
+     <l n="8" met="+--+-+-+-+-">loas al dueño desta Feria dino.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-++--+-">La tienda de esta Feria es la venida</l>
+     <l n="10" met="--+--+---+-">del mayor atributo que en el suelo</l>
+     <l n="11" met="-+-+---+-+-">prestó a la fama para hallar materia.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+---+-">Por quien la voz del bien agradecido</l>
+     <l n="13" met="-+---++--+-">en Ferias de su amor puso en el Cielo</l>
+     <l n="14" met="-+-+--++-+-">la tienda alegre que le dio esta Feria.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

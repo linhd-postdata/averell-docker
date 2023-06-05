@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le ravin</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_le-ravin</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le ravin</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le ravin</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Un ravin de ces monts coupe la noire crête ;</l>
+     <l n="2" rhyme="b" line_length="6+6">Comme si, voyageant du Caucase au Cédar,</l>
+     <l n="3" rhyme="a" line_length="6+6">Quelqu'un de ces Titans que nul rempart n'arrête</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="a" line_length="6+6">Hélas ! combien de fois, dans nos temps de discorde,</l>
+     <l n="5" rhyme="b" line_length="6+6">Des flots de sang chrétien et de sang mécréant,</l>
+     <l n="6" rhyme="a" line_length="6+6">Baignant le cimeterre et la miséricorde,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Čeští zajatci.</title>
+    <author>Písecký, Ferdinand</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Písecký, Ferdinand_cesti-zajatci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Čeští zajatci.</title>
+     <author>Písecký, Ferdinand</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Čeští zajatci.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10000100" rhyme="1" line_length="8">Z domova když nás vyvlékli,</l>
+     <l n="2" met="10010100" rhyme="1" line_length="8">v modré nás hadry oblékli.</l>
+     <l n="3" met="01010010" rhyme="2" line_length="8">A na smrt hnali pak suše</l>
+     <l n="4" met="1001010" rhyme="2" line_length="7">ubohé české duše.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" rhyme="3" line_length="8">Na smrt jsme šli jak berani,</l>
+     <l n="6" met="10010100" rhyme="3" line_length="8">smáli se naši tyrani.</l>
+     <l n="7" met="01010110" rhyme="4" line_length="8">Nám smích ten ostře zněl v uši,</l>
+     <l n="8" met="1001010" rhyme="4" line_length="7">do krve zranil duši.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010101" rhyme="5" line_length="8">Podivný vítr v poli vál.</l>
+     <l n="10" met="10010100" rhyme="5" line_length="8">Císař se věru nenadál,</l>
+     <l n="11" met="01010010" rhyme="6" line_length="8">že tolik chasy té kleté</l>
+     <l n="12" met="1001010" rhyme="6" line_length="7">do Ruska vítr smete.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10010100" rhyme="7" line_length="8">Netušil císař ve snu snad,</l>
+     <l n="14" met="10010101" rhyme="7" line_length="8">otrocký jeho modrý šat</l>
+     <l n="15" met="01010110" rhyme="8" line_length="8">že budou s těla rvát prudce</l>
+     <l n="16" met="1001010" rhyme="8" line_length="7">dobrácké české ruce.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10010101" rhyme="9" line_length="8">Nejmíň se nadál císař pán,</l>
+     <l n="18" met="10010101" rhyme="9" line_length="8">každou že záhy z těžkých ran,</l>
+     <l n="19" met="01010010" rhyme="10" line_length="8">jež ráčil vlídně tak dáti,</l>
+     <l n="20" met="1001010" rhyme="10" line_length="7">česká mu duše vrátí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

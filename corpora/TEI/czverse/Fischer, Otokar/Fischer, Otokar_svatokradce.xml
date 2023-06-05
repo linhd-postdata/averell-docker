@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SVATOKRÁDCE</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_svatokradce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SVATOKRÁDCE</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SVATOKRÁDCE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101000101" rhyme="1" line_length="10">Tak byla mladičká. Tak z očí žhla.</l>
+     <l n="2" met="0001010100" rhyme="1" line_length="10">Jak jsem ji v ústa zlíbal, zestárla.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="0101010101" rhyme="2" line_length="10">To není lásky tvář, co na mne zří.</l>
+     <l n="4" met="0101010100" rhyme="2" line_length="10">Toť dávná vášeň, starší příkoří!</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="0101010001" rhyme="3" line_length="10">Ni sen ni úsměv nevidím se třást.</l>
+     <l n="6" met="0100010001" rhyme="3" line_length="10">Jen staletími zotročenou slast.</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="1100010101" rhyme="4" line_length="10">Krev neproudí. To živá není líc.</l>
+     <l n="8" met="1101010100" rhyme="4" line_length="10">Hřích ztrnul v škleb; a v masku mučednic.</l>
+    </lg>
+    <lg n="5">
+     <l n="9" met="0101010001" rhyme="5" line_length="10">To Východ cizích, tyranských je dob.</l>
+     <l n="10" met="0101010001" rhyme="5" line_length="10">Zde láska mlčí, odevzdána v hrob.</l>
+    </lg>
+    <lg n="6">
+     <l n="11" met="1101000100" rhyme="6" line_length="10">Ruth? Esther? Evu jsem to celoval?</l>
+     <l n="12" met="0100010010" rhyme="6" line_length="10">Mne zbožnost jme. A po špičkách jdu dál – –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

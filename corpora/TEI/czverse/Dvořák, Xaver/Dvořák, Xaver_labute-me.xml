@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Labutě mé!</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">30</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_labute-me</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Labutě mé!</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Labutě mé!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1101000" line_length="7">Ó plujte, labutě mé,</l>
+     <l n="2" met="100101" rhyme="1" line_length="6">po moři plujte snů,</l>
+     <l n="3" met="010100" rhyme="1" line_length="6">vám křídla rozepnu;</l>
+     <l n="4" met="010100" rhyme="2" line_length="6">své brázdy táhněte,</l>
+     <l n="5" met="01010100" rhyme="2" line_length="8">v nich zlatem zrn to zakvěte,</l>
+     <l n="6" met="1101000" line_length="7">ó plujte, labutě mé!</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="100101" line_length="6">Po moři plujte snů</l>
+     <l n="8" met="0101010" rhyme="3" line_length="7">z těch břehů mého těla,</l>
+     <l n="9" met="0101000" rhyme="3" line_length="7">kam jeseň zaletěla;</l>
+     <l n="10" met="0101010" rhyme="4" line_length="7">z těch luhů, jež se prázní,</l>
+     <l n="11" met="0101010" rhyme="4" line_length="7">kde květ se třese bázní,</l>
+     <l n="12" met="100101" line_length="6">po moři plujte snů!</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="010100" line_length="6">Vám křídla rozepnu,</l>
+     <l n="14" met="1001010" rhyme="5" line_length="7">za vámi s břehu jásám,</l>
+     <l n="15" met="0100000" rhyme="5" line_length="7">jste volnější než já sám;</l>
+     <l n="16" met="1001010" rhyme="6" line_length="7">pod vámi vlny čeří</l>
+     <l n="17" met="0001010" rhyme="6" line_length="7">tam v dál, tam k věčna šeři</l>
+     <l n="18" met="010100" line_length="6">vám křídla rozepnu.</l>
+    </lg>
+    <lg n="4">
+     <l n="19" met="010100" line_length="6">Své brázdy táhněte</l>
+     <l n="20" met="0101010" rhyme="7" line_length="7">jak struny bájné lýry,</l>
+     <l n="21" met="0101010" rhyme="7" line_length="7">vy tóny sladké víry</l>
+     <l n="22" met="0100010" rhyme="8" line_length="7">v nich chvějte se a snujte;</l>
+     <l n="23" met="0100110" rhyme="8" line_length="7">mé labutě, ó plujte,</l>
+     <l n="24" met="010100" line_length="6">své brázdy táhněte!</l>
+    </lg>
+    <lg n="5">
+     <l n="25" met="01010100" line_length="8">V nich zlatem zrn to zakvěte</l>
+     <l n="26" met="1001010" rhyme="9" line_length="7">pod sluncem věčných světů</l>
+     <l n="27" met="0100110" rhyme="9" line_length="7">jak mystických trs květů</l>
+     <l n="28" met="1001010" rhyme="10" line_length="7">ze zahrad Lásky příští,</l>
+     <l n="29" met="0101010" rhyme="10" line_length="7">jež v srdce nard svůj prýští</l>
+     <l n="30" met="01010100" line_length="8">a zlatem zrn v nich zakvěte!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

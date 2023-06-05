@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Podřimlo i moje srdce</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_podrimlo-i-moje-srdce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Podřimlo i moje srdce</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Podřimlo i moje srdce</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" line_length="8">Ve polední palné záři</l>
+     <l n="2" met="10110010" line_length="8">leží háj tichounký, tichý.</l>
+     <l n="3" met="10101010" line_length="8">List se skrývá v stínu listu,</l>
+     <l n="4" met="10101010" line_length="8">strom se skrývá v stínu stromu,</l>
+     <l n="5" met="10110010" line_length="8">list i strom tichounce dřímá.</l>
+     <l n="6" met="00101010" line_length="8">Ba i ptáček ustal v pění –</l>
+     <l n="7" met="10100010" line_length="8">ticho – ticho – a v tom tichu</l>
+     <l n="8" met="10101000" line_length="8">jako dětské ve kolébce,</l>
+     <l n="9" met="10101010" line_length="8">nad níž závoj zlatý rozstřen,</l>
+     <l n="10" met="10001010" line_length="8">podřimlo i moje srdce.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

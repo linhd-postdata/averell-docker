@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>De Victoria por el amor</title>
+    <author>Jacinto Cordero</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jacinto Cordero_de-victoria-por-el-amor</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>De Victoria por el amor</title>
+     <author>Jacinto Cordero</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>De Victoria por el amor</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--++--+-">Descuidada de amor burlas hacía</l>
+     <l n="2" met="--++-+-+-+-">del que ví ya en tu red cautivo y ciego,</l>
+     <l n="3" met="-+---+---+-">por necio imaginaba al que en tu fuego</l>
+     <l n="4" met="++---+-+-+-">cual simple mariposa en llama ardía.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">No imaginaba yo que en su porfía</l>
+     <l n="6" met="-+-+-+---+-">había tal crueldad, mas ya que llego</l>
+     <l n="7" met="-+---+--++-">al mar de tu rigor, en que me anego</l>
+     <l n="8" met="-+---+-+-+-">rendida se confiesa el alma mía.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+++--++--+-">No más burlas de amor, loco deseo,</l>
+     <l n="10" met="--+--+-+-+-">cuando el mal que padezco al alma escucho,</l>
+     <l n="11" met="---+---+-+-">si el desengaño de tus fuerzas toco.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+---+++--+-">Dicho el que en amor no ha hecho empleo,</l>
+     <l n="13" met="---+-+-+-+-">y desdichado aquel que quiso mucho,</l>
+     <l n="14" met="-++--+++-+-">si al más cuerdo el amor le ha vuelto loco.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

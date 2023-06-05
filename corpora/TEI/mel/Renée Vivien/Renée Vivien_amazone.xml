@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>AMAZONE</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_amazone</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>AMAZONE</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>AMAZONE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">L’amazone sourit au-dessus des ruines,</l>
+     <l n="2" rhyme="b" line_length="6+6">Tandis que le soleil, las de luttes, s’endort.</l>
+     <l n="3" rhyme="a" line_length="6+6">La volupté du meurtre a gonflé ses narines :</l>
+     <l n="4" rhyme="b" line_length="6+6">Elle exulte, amoureuse étrange de la mort.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Elle aime les amants qui lui donnent l’ivresse</l>
+     <l n="6" rhyme="b" line_length="6+6">De leur fauve agonie et de leur fier trépas,</l>
+     <l n="7" rhyme="a" line_length="6+6">Et, méprisant le miel de la mièvre caresse,</l>
+     <l n="8" rhyme="b" line_length="6+6">Les coupes sans horreur ne la contentent pas.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Son désir, défaillant sur quelque bouche blême</l>
+     <l n="10" rhyme="b" line_length="6+6">Dont il sait arracher le baiser sans retour,</l>
+     <l n="11" rhyme="a" line_length="6+6">Se penche avec ardeur sur le spasme suprême,</l>
+     <l n="12" rhyme="b" line_length="6+6">Plus terrible et plus beau que le spasme d’amour.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

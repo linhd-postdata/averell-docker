@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Isabel Pichardo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Isabel Pichardo_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Isabel Pichardo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+++---+-">Por describirnos sólo sus amores</l>
+     <l n="2" met="+--+---+-+-">cantan algunos con ebúrnea lira,</l>
+     <l n="3" met="-+-+---+-+-">y cantan otros a quien sólo inspira</l>
+     <l n="4" met="--+--+---+-">la mezquina ambición de los honores.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+----++--+-">Este por alcanzar gloria y loores</l>
+     <l n="6" met="+--+---+-+-">hasta en sus sueños por cantar delira,</l>
+     <l n="7" met="-++--++--+-">aquel otro también gime y suspira</l>
+     <l n="8" met="--+--+---+-">y cantando relata sus dolores.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-++---+-+-">Yo que no anhelo de la gloria palma</l>
+     <l n="10" met="--++---+-+-">y que no vivo como aquél amando;</l>
+     <l n="11" met="-+-+--+--+-">que tengo libre y orgullosa el alma</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+---+-">para vivir honores mendigando,</l>
+     <l n="13" met="+--+---+-+-">busco la dulce, apetecida calma</l>
+     <l n="14" met="---+-+-+-+-">y por buscar mi pena estoy cantando.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

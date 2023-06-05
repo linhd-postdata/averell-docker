@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pinceladas -- I</title>
+    <author>Rudolfo Figueroa</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Rudolfo Figueroa_pinceladas-i</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pinceladas -- I</title>
+     <author>Rudolfo Figueroa</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pinceladas -- I</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Parece que, suspenso en su carrera,</l>
+     <l n="2" met="-+-+---+-+-">quedóse el sol en el cenit clavado;</l>
+     <l n="3" met="+-+--+---+-">sigue el agua su curso fatigado</l>
+     <l n="4" met="--+--+---+-">y la arena del margen reverbera.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">En el bosque cercano desespera</l>
+     <l n="6" met="--+--+-+-+-">el silencio de muerte que ha reinado,</l>
+     <l n="7" met="-+-+-+---+-">y apenas se oye el canto desolado</l>
+     <l n="8" met="---+-+---+-">de la torcaz medrosa y plañidera.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+++--+---+-">Salta un ciervo: a los vientos interroga,</l>
+     <l n="10" met="+--+-+---+-">hunde sus secas fauces con anhelo</l>
+     <l n="11" met="---+---+-+-">en la corriente que su sed ahoga;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--++-+-+-+-">asustada una garza tiende el vuelo</l>
+     <l n="13" met="---+---+-+-">y como nube solitaria boga</l>
+     <l n="14" met="---+-+---+-">por el azul espléndido del cielo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

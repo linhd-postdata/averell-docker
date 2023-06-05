@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A los ojos de Amelia</title>
+    <author>Calisto Camporredondo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Calisto Camporredondo_a-los-ojos-de-amelia</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A los ojos de Amelia</title>
+     <author>Calisto Camporredondo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A los ojos de Amelia</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Amelia hermosa, si posible fuera</l>
+     <l n="2" met="--+--+---+-">que su lumbre perdiesen rutilante</l>
+     <l n="3" met="--+--+---+-">las estrellas que en orbe de diamante</l>
+     <l n="4" met="+--+---+-+-">bordan y esmaltan la celeste esfera;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">que el astro de la noche suspendiera</l>
+     <l n="6" met="---+-+-+-+-">su nacarada luz, y el sol radiante</l>
+     <l n="7" met="-+-+-+---+-">apagase la llama coruscante</l>
+     <l n="8" met="-+-+---+-+-">y el fuego inmenso de su tierna hoguera;</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-+---+-">que, trastornado el orden de natura,</l>
+     <l n="10" met="-+---+-+-+-">en densa oscuridad y noche umbría</l>
+     <l n="11" met="+-+--+---+-">quedase el universo, por ventura;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-----+-">una mirada tuya bastaría</l>
+     <l n="13" met="---+-+-+-+-">para poblar de luz en un momento</l>
+     <l n="14" met="-+-+-+---+-">la tierra, el mar, el aire, el firmamento.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

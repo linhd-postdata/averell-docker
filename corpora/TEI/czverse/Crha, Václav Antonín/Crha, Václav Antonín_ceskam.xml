@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Češkám.</title>
+    <author>Crha, Václav Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Crha, Václav Antonín_ceskam</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Češkám.</title>
+     <author>Crha, Václav Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Češkám.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" line_length="8">Vítejte nám drahé Češky,</l>
+     <l n="2" met="1010100" rhyme="1" line_length="7">Češky naše milené,</l>
+     <l n="3" met="10001010" line_length="8">vítejte nás, dcery české,</l>
+     <l n="4" met="1010100" rhyme="1" line_length="7">jdemeť z pouti vzdálené.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" line_length="8">V slavných činech otců slavných</l>
+     <l n="6" met="1000001" rhyme="2" line_length="7">pohřížel se náš tam duch,</l>
+     <l n="7" met="10101000" line_length="8">slávou předkův osloněni</l>
+     <l n="8" met="1000101" rhyme="2" line_length="7">vracíme se ve váš kruh.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" line_length="8">Jdem vás vyzvat dcery slávy</l>
+     <l n="10" met="1000100" rhyme="3" line_length="7">ku svatému závodu,</l>
+     <l n="11" met="00101000" line_length="8">by ste s námi pracovaly</l>
+     <l n="12" met="1000100" rhyme="3" line_length="7">ku vzkříšení národu.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10001010" line_length="8">Ku vzkříšení dnů těch skvělých,</l>
+     <l n="14" met="0010101" rhyme="4" line_length="7">když se vinul každý vzdech</l>
+     <l n="15" met="10101010" line_length="8">k slávě rodné, vlastní matky</l>
+     <l n="16" met="1010101" rhyme="4" line_length="7">k slávě krásných českých Čech.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

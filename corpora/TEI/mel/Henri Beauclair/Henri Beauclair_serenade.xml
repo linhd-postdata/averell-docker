@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sérénade</title>
+    <author>Henri Beauclair</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">32</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Henri Beauclair_serenade</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sérénade</title>
+     <author>Henri Beauclair</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sérénade</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Belle écoute-moi donc un peu,</l>
+     <l n="2" rhyme="b" line_length="8">O Lys, Lison, Lisette, Lise ;</l>
+     <l n="3" rhyme="a" line_length="8">Vénus brille, le ciel est bleu,</l>
+     <l n="4" rhyme="a" line_length="8">Belle écoute-moi donc un peu.</l>
+     <l n="5" rhyme="a" line_length="8">Sais tu bien que j’adore un Dieu</l>
+     <l n="6" rhyme="b" line_length="8">Dont ta chambre rose est l’Église.</l>
+     <l n="7" rhyme="a" line_length="8">Belle écoute-moi donc un peu.</l>
+     <l n="8" rhyme="b" line_length="8">O Lys, Lison, Lisette, Lise.</l>
+    </lg>
+    <lg n="2">
+     <l n="9" rhyme="a" line_length="8">Fuyons ensemble, n’importe où,</l>
+     <l n="10" rhyme="b" line_length="8">Près de la mer, à la campagne,</l>
+     <l n="11" rhyme="a" line_length="8">En Gascogne, en Suisse, en Poitou.</l>
+     <l n="12" rhyme="a" line_length="8">Fuyons ensemble, n’importe où,</l>
+     <l n="13" rhyme="a" line_length="8">Aux pays où l’on parle indou,</l>
+     <l n="14" rhyme="b" line_length="8">Dans la très romantique Espagne.</l>
+     <l n="15" rhyme="a" line_length="8">Fuyons ensemble, n’importe où,</l>
+     <l n="16" rhyme="b" line_length="8">Près de la mer, à la campagne.</l>
+    </lg>
+    <lg n="3">
+     <l n="17" rhyme="a" line_length="8">Nous trouverons, au fond d’un bois,</l>
+     <l n="18" rhyme="b" line_length="8">Une cabane sous les branches.</l>
+     <l n="19" rhyme="a" line_length="8">Quel nid, frais et doux à la fois,</l>
+     <l n="20" rhyme="a" line_length="8">Nous trouverons au fond d’un bois !</l>
+     <l n="21" rhyme="a" line_length="8">Là, point de pudeur aux abois.</l>
+     <l n="22" rhyme="b" line_length="8">Matins roses ! Jours bleus ! Nuits blanches !</l>
+     <l n="23" rhyme="a" line_length="8">Nous trouverons, au fond d’un bois,</l>
+     <l n="24" rhyme="b" line_length="8">Une cabane sous les branches.</l>
+    </lg>
+    <lg n="4">
+     <l n="25" rhyme="a" line_length="8">Les buissons embaumés auront</l>
+     <l n="26" rhyme="b" line_length="8">De sûrs abris pour nos caresses.</l>
+     <l n="27" rhyme="a" line_length="8">Que de fleurs douces, pour ton front,</l>
+     <l n="28" rhyme="a" line_length="8">Les buissons embaumés auront !</l>
+     <l n="29" rhyme="a" line_length="8">Les petits oiseaux, à l’œil rond,</l>
+     <l n="30" rhyme="b" line_length="8">Chanteront l’hymne des Ivresses.</l>
+     <l n="31" rhyme="a" line_length="8">Les buissons embaumés auront</l>
+     <l n="32" rhyme="b" line_length="8">De sûrs abris pour nos caresses.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

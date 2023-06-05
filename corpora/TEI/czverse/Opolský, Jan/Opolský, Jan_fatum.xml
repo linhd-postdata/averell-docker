@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>FATUM</title>
+    <author>Opolský, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Opolský, Jan_fatum</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>FATUM</title>
+     <author>Opolský, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>FATUM</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010101010" rhyme="1" line_length="11">Bral do svých prstů vlavé plátky zlata,</l>
+     <l n="2" met="0101010001" rhyme="2" line_length="10">jež mělo plachý, zelenavý kmit,</l>
+     <l n="3" met="01010101000" rhyme="1" line_length="11">a tato zář, tak trochu jedovatá,</l>
+     <l n="4" met="0101010100" rhyme="2" line_length="10">dost silna byla srdce otrávit.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11010100010" rhyme="3" line_length="11">Bral do svých prstů filigrán, jenž svítí</l>
+     <l n="6" met="0101010001" rhyme="4" line_length="10">jak útlý, schvělý archandělský vlas</l>
+     <l n="7" met="01000101010" rhyme="3" line_length="11">a vine se jak šťastná stezka žití,</l>
+     <l n="8" met="0100010000" rhyme="4" line_length="10">jež ztrácí se a objevuje zas.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="11010101000" rhyme="5" line_length="11">Bral do svých prstů temné drahokamy,</l>
+     <l n="10" met="1100010100" rhyme="6" line_length="10">skla korunní a rudé krystaly,</l>
+     <l n="11" met="0101011001010" rhyme="5" line_length="13">jež tanou jako krev na prsu krásné dámy</l>
+     <l n="12" met="010101010100" rhyme="6" line_length="12">a jenom její smrt je kdysi zakalí.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="11010101010" rhyme="7" line_length="11">Bral do svých prstů šperky hříšné ceny,</l>
+     <l n="14" met="1001010100" rhyme="8" line_length="10">ze kterých tajný oheň uniká...</l>
+     <l n="15" met="01010101000" rhyme="7" line_length="11">Proč tedy byly v smrti potupeny</l>
+     <l n="16" met="1001010100" rhyme="8" line_length="10">ubohé bílé ruce zlatníka?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

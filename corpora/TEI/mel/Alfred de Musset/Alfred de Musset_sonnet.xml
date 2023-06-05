@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sonnet</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_sonnet</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sonnet</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sonnet</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Jeune ange aux doux regards, à la douce parole,</l>
+     <l n="2" rhyme="b" line_length="6+6">Un instant près de vous je suis venu m’asseoir,</l>
+     <l n="3" rhyme="a" line_length="6+6">Et, l’orage apaisé, comme l’oiseau s’envole,</l>
+     <l n="4" rhyme="b" line_length="6+6">Mon bonheur s’en alla, n’ayant duré qu’un soir.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Et puis, qui voulez-vous après qui me console ?</l>
+     <l n="6" rhyme="b" line_length="6+6">L’éclair laisse, en fuyant, l’horizon triste et noir.</l>
+     <l n="7" rhyme="a" line_length="6+6">Ne jugez pas ma vie insouciante et folle ;</l>
+     <l n="8" rhyme="b" line_length="6+6">Car, si j’étais joyeux, qui ne l’est à vous voir ?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Hélas ! je n’oserais vous aimer, même en rêve !</l>
+     <l n="10" rhyme="c" line_length="6+6">C’est de si bas vers vous que mon regard se lève !</l>
+     <l n="11" rhyme="d" line_length="6+6">C’est de si haut sur moi que s’inclinent vos yeux !</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Allez, soyez heureuse ; oubliez-moi bien vite,</l>
+     <l n="13" rhyme="e" line_length="6+6">Comme le chérubin oublia le lévite</l>
+     <l n="14" rhyme="d" line_length="6+6">Qui l’avait vu passer et traverser les cieux !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

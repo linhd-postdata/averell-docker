@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SKŘIVAN.</title>
+    <author>Červinka, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červinka, Karel_skrivan</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SKŘIVAN.</title>
+     <author>Červinka, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SKŘIVAN.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001000101010" rhyme="1" line_length="13">Ve vzduchu podzimním, jak šedé jíní tálo,</l>
+     <l n="2" met="1001000100010" rhyme="2" line_length="13">do polí zoraných já samotář si vyšel,</l>
+     <l n="3" met="0101000100010" rhyme="1" line_length="13">a zvolna jdoucímu, mně snílkovi, se zdálo,</l>
+     <l n="4" met="0101000101010" rhyme="2" line_length="13">že zpívat skřivana jsem ještě v mlze slyšel.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101000101000" rhyme="3" line_length="13">To skřivan poslední, jenž nemoh’ opustiti</l>
+     <l n="6" met="1101000101010" rhyme="4" line_length="13">lán polí zamlklých, v němž měli svoje hnízda,</l>
+     <l n="7" met="0101000101010" rhyme="3" line_length="13">se ozval nahoře, neb zimu, zimu cítí,</l>
+     <l n="8" met="1101001010010" rhyme="4" line_length="13">chlad vichru ostrého, jenž se strnisek hvízdá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101000101010" rhyme="5" line_length="13">To skřivan poslední, jenž zmrzne tady raděj’,</l>
+     <l n="10" met="0101001001010" rhyme="6" line_length="13">a dolů se zpěvem na zmrzlou zemi padne!</l>
+     <l n="11" met="0101001001010" rhyme="5" line_length="13">– Tak ještě člověku nad hlavou zpívá Naděj,</l>
+     <l n="12" met="0101000101010" rhyme="6" line_length="13">než zcela zamrzne mu v hrudi srdce chladné!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

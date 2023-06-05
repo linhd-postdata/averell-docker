@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Marie</title>
+    <author>Auguste Brizeux</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Auguste Brizeux_marie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Marie</title>
+     <author>Auguste Brizeux</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Marie</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Lorsque sur ma fenêtre, à l'heure du réveil,</l>
+     <l n="2" rhyme="a" line_length="6+6">Légèrement se pose un rayon de soleil,</l>
+     <l n="3" rhyme="b" line_length="6+6">Un rayon d'espérance entre aussi dans mon gîte ;</l>
+     <l n="4" rhyme="b" line_length="6+6">C'est comme un ami cher qui, vous faisant visite,</l>
+     <l n="5" rhyme="a" line_length="6+6">Par de joyeux propos éclaire votre ennui,</l>
+     <l n="6" rhyme="a" line_length="6+6">Et ce jour-là vous rend égayé comme lui.</l>
+     <l n="7" rhyme="b" line_length="6+6">Donc, souriant des yeux au rayon d'or qui brille,</l>
+     <l n="8" rhyme="b" line_length="6+6">Léger d'âme et de corps, sans retard je m'habille,</l>
+     <l n="9" rhyme="a" line_length="6+6">Puis je m'en vais heureux de tout ce que je voi :</l>
+     <l n="10" rhyme="a" line_length="6+6">Le rayon matinal dore tout devant moi.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

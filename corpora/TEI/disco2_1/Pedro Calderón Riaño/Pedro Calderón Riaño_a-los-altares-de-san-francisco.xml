@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A los altares de San Francisco y San Ignacio</title>
+    <author>Pedro Calderón Riaño</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pedro Calderón Riaño_a-los-altares-de-san-francisco</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A los altares de San Francisco y San Ignacio</title>
+     <author>Pedro Calderón Riaño</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A los altares de San Francisco y San Ignacio</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+-+-+-">La que ves en piedad, en llama, en vuelo</l>
+     <l n="2" met="+-+-++-+-+-">ara al suelo, al sol pira, al viento ave,</l>
+     <l n="3" met="+--+---+-+-">argos de estrellas, imitada nave,</l>
+     <l n="4" met="+-++-+-+-+-">nubes vence, aire rompe, y toca el cielo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+----+---+-">Esta pues que la cumbre del Carmelo</l>
+     <l n="6" met="+-++-+-+-+-">mira fiel, mansa ocupa, y surca grave,</l>
+     <l n="7" met="-+----++-+-">con muda admiración muestra suave</l>
+     <l n="8" met="+-++-+-+-+-">casto amor, justa fe, piadoso celo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-+-+-+-">O militante Iglesia, más segura</l>
+     <l n="10" met="+-++-+-+-+-">pisa tierra, aire enciende, mar navega,</l>
+     <l n="11" met="-+-+---+-+-">y a más pilotos tu gobierno fía.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+-++-+-+-">Triunfa eterna, está firme, vive pura,</l>
+     <l n="13" met="-+-+--++-+-">que ya en el golfo, que te ves, se anega,</l>
+     <l n="14" met="+-++-++--+-">culpa infiel, torpe error, ciega herejía.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

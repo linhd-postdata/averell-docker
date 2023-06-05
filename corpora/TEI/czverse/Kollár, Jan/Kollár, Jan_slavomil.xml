@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Slavomil.</title>
+    <author>Kollár, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kollár, Jan_slavomil</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Slavomil.</title>
+     <author>Kollár, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Slavomil.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100000101010" rhyme="1" line_length="12">Slavomilem se teď každý, ale zvláště:</l>
+     <l n="2" met="000110100010" rhyme="1" line_length="12">Ten pní, kdo má kousek básnířského pláště:</l>
+     <l n="3" met="100010101010" rhyme="2" line_length="12">Velkétě to jméno! brachu při tvém milém</l>
+     <l n="4" met="100010001000" rhyme="2" line_length="12">Hudotkaném plášťku tys jen Slavotmilem.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

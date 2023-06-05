@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>O NOVÉM ROCE.</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_o-novem-roce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>O NOVÉM ROCE.</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>O NOVÉM ROCE.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101010" rhyme="1" line_length="9">Studený odlesk nebes leží</l>
+     <l n="2" met="10010100" rhyme="2" line_length="8">na oknech. Jsou jak z ocele.</l>
+     <l n="3" met="110001010" rhyme="1" line_length="9">Den šedivý je. S blízké věži</l>
+     <l n="4" met="11000100" rhyme="2" line_length="8">lká umíráček zmrtvěle.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100111010" rhyme="3" line_length="9">Chraptících vran pár táhne někam</l>
+     <l n="6" met="10000101" rhyme="4" line_length="8">nad ulicí mou... čtyři... pět...</l>
+     <l n="7" met="010101010" rhyme="3" line_length="9">Já, zdá se, jakýs zázrak čekám...</l>
+     <l n="8" met="01000101" rhyme="4" line_length="8">A čekám tak už třicet let...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

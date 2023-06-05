@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Přece.</title>
+    <author>Dvořáková-Mráčková, Albína</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořáková-Mráčková, Albína_prece</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Přece.</title>
+     <author>Dvořáková-Mráčková, Albína</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Přece.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100010" line_length="11">S oltáře srdce zbožňovaná, krásná</l>
+     <l n="2" met="01000101000" rhyme="1" line_length="11">mi sřítila se modla ztroskotána;</l>
+     <l n="3" met="10010001000" line_length="11">zlomila okovy jsem démantové,</l>
+     <l n="4" met="10110101000" rhyme="1" line_length="11">jimiž má bytosť k tobě připoutána.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010001010" line_length="11">Vítězstvím hrdě ač má duše vzplála,</l>
+     <l n="6" met="10010101000" rhyme="2" line_length="11">přece ten osten želu neutlumí,</l>
+     <l n="7" met="01010101010" line_length="11">a přece zpláču nad svým vlastním činem,</l>
+     <l n="8" met="01010100010" rhyme="2" line_length="11">jak onen Říman nad Karthaga rumy.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

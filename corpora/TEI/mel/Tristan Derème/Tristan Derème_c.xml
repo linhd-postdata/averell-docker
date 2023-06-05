@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>C</title>
+    <author>Tristan Derème</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tristan Derème_c</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>C</title>
+     <author>Tristan Derème</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>C</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="5+5">Un rouge-gorge sur la branche se balance.</l>
+     <l n="2" line_length="6−6">Cela vaut mieux pour lui que d'aller au café.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" line_length="6+6">Une branche de neige entrait par la fenêtre.</l>
+     <l n="4" line_length="8">Les moineaux se battaient et roulaient dans les fleurs</l>
+    </lg>
+    <lg n="3">
+     <l n="5" line_length="5+5">Un pigeon blanc dormait sur le bleu des ardoises</l>
+     <l n="6" line_length="6+6">Et quand le chat passait sous les rouges framboises</l>
+     <l n="7" line_length="6+6">Les feuilles lui versaient des gouttes sur le dos.</l>
+    </lg>
+    <lg n="4">
+     <l n="8" line_length="6+6">Puis la lune apparut en nacre transparente.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

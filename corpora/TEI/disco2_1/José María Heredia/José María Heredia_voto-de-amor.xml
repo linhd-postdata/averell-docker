@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Voto de amor</title>
+    <author>José María Heredia</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José María Heredia_voto-de-amor</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Voto de amor</title>
+     <author>José María Heredia</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Voto de amor</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---+-">Ven, suspirada noche, y dirigiendo</l>
+     <l n="2" met="---+-+---+-">tu denegrido carro por la esfera,</l>
+     <l n="3" met="---+-+---+-">a la ciudad, el monte y la pradera</l>
+     <l n="4" met="+-+--+---+-">ve con rápidas sombras envolviendo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">Ven, y sopor balsámico vertiendo,</l>
+     <l n="6" met="-+---+---+-">tus pasos tenebrosos aligera,</l>
+     <l n="7" met="---+-+--++-">pues anhelante Flérida me espera,</l>
+     <l n="8" met="---+++---+-">a mi pasión mil glorias prometiendo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--++--+-">Si a mis súplicas das fácil oído,</l>
+     <l n="10" met="---+-+---+-">y misteriosas velas con tu manto</l>
+     <l n="11" met="-+---+--++-">los goces y delirios de amor ciego,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--++-+---+-">inmolarte prometo agradecido</l>
+     <l n="13" met="++-+-+---+-">un gallo rojo y negro, cuyo canto</l>
+     <l n="14" met="--+--+---+-">importuno perturba tu sosiego.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

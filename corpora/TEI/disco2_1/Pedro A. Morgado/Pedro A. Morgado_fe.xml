@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Fe</title>
+    <author>Pedro A. Morgado</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pedro A. Morgado_fe</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Fe</title>
+     <author>Pedro A. Morgado</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Fe</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+----+---+-">Bálsamo salvador que de la altura</l>
+     <l n="2" met="-+-+---+-+-">desciende en rayos de fulgor divino;</l>
+     <l n="3" met="+-+-+----+-">sol que guía en la senda al peregrino</l>
+     <l n="4" met="-+-+-+---+-">de aqueste triste valle de amargura.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">Palacio de sublime arquitectura;</l>
+     <l n="6" met="+--+-+---+-">lago eternal brillante y cristalino</l>
+     <l n="7" met="-+---+---+-">que besa las riberas del destino</l>
+     <l n="8" met="--+--+-+-+-">con el beso de luz de su agua pura.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+---+-">Sacra unción de los cielos Redentora</l>
+     <l n="10" met="+----+--+-">ráfaga de virtud. Fe salvadora.</l>
+     <l n="11" met="+---+-+--+-">Lazo espiritual que al cielo alcanza:</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">En lo largo y estéril del camino</l>
+     <l n="13" met="-+---+---+-">tu brindas al cansado peregrino</l>
+     <l n="14" met="--+--+---+-">con la dulce mansión de la Esperanza.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

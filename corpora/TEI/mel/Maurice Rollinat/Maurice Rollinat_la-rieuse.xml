@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Rieuse</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_la-rieuse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Rieuse</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Rieuse</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Ses rires grands ouverts qui si crânement mordent</l>
+     <l n="2" rhyme="b" line_length="6+6">Sur le fond taciturne et murmurant des prés,</l>
+     <l n="3" rhyme="b" line_length="6+6">Sont métalliques, frais, liquides, susurrés,</l>
+     <l n="4" rhyme="a" line_length="6+6">Aux pépiements d'oiseaux ressemblent et s'accordent.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Excités par la danse, ils se gonflent, débordent</l>
+     <l n="6" rhyme="b" line_length="6+6">En cascades de cris tumultueux, serrés,</l>
+     <l n="7" rhyme="b" line_length="6+6">De hoquets glougloutants, fous et démesurés,</l>
+     <l n="8" rhyme="a" line_length="6+6">Qui la virent, la plient, la soulèvent, la tordent.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Qu'elle vit sa pensée en ses beaux yeux ardents ;</l>
+    </lg>
+    <lg n="4">
+     <l n="10" rhyme="c" line_length="8">Sur le robuste émail de ses trente-deux dents.</l>
+    </lg>
+    <lg n="5" />
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Intermezzo.</title>
+    <author>Rožek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Rožek, Karel_intermezzo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Intermezzo.</title>
+     <author>Rožek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Intermezzo.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010100010101010" line_length="15">A ticho v poledne, když život všude nejvíc proudí,</l>
+     <l n="2" met="0100010100010" rhyme="1" line_length="13">mne překvapilo v celle u vychladlých kamen.</l>
+     <l n="3" met="010101010001010" line_length="15">A venku, v polích, Zima přesypává mlhu s deštěm.</l>
+     <l n="4" met="1101010101010" rhyme="1" line_length="13">Sen noci táhne duší, pláču tichem zmámen.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010001010100010" line_length="15">Mé samoty již dávno shořkly, nevidím v nich květů.</l>
+     <l n="6" met="0101000101010" rhyme="2" line_length="13">Jsem tichem obležen a vlastní zmučen trýzní.</l>
+     <l n="7" met="110001010001010" line_length="15">Měl duši jsem, a nyní rozpytvaná před mnou leží,</l>
+     <l n="8" met="1100010100010" rhyme="2" line_length="13">měl písně jsem – a čekám, poslední až vyzní.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101010100010" line_length="15">Teď žiju, a přec nejsem. V těle pracují jen stroje.</l>
+     <l n="10" met="1001000101010" rhyme="3" line_length="13">Bez zájmů, bez vědomí konám práce denní,</l>
+     <l n="11" met="010101010100010" line_length="15">vše spustlo kolem, v ničem nezřím paprsku ton světlý.</l>
+     <l n="12" met="1101010100010" rhyme="3" line_length="13">Sen noci táhne duší, života již není.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V TARAŽSKÉM LESE.</title>
+    <author>Květ, Bohuslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Květ, Bohuslav_v-tarazskem-lese</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V TARAŽSKÉM LESE.</title>
+     <author>Květ, Bohuslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V TARAŽSKÉM LESE.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101000" rhyme="1" line_length="9">Ta krutá bolest odloučení,</l>
+     <l n="2" met="010101010" rhyme="2" line_length="9">jež jako stín můj se mnou chodí,</l>
+     <l n="3" met="01010001010" rhyme="1" line_length="11">v tom lese taražském tak krutá není</l>
+     <l n="4" met="01010010010" rhyme="2" line_length="11">a nových modliteb sloh z ní se rodí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100101010" rhyme="3" line_length="9">Ještě se slzy derou v oči</l>
+     <l n="6" met="010001010" rhyme="4" line_length="9">a ukvapeně srdce bije,</l>
+     <l n="7" met="01010001010" rhyme="3" line_length="11">však teskná mysl už se k Bohu točí</l>
+     <l n="8" met="01001001010" rhyme="4" line_length="11">a modlitba útěchu v srdce lije.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

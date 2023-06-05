@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- XL - </title>
+    <author>Bernardino de Rebolledo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Bernardino de Rebolledo_xl</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- XL - </title>
+     <author>Bernardino de Rebolledo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- XL - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+---+-+-">Si la Deidad que la ambición venera</l>
+     <l n="2" met="-++--+---+-">y yo tan enemiga experimento,</l>
+     <l n="3" met="+-+--+---+-">ya que el cuerpo le quita el movimiento,</l>
+     <l n="4" met="-++--+---+-">dejar libre el espíritu quisiera.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+---+-+-">O sus rigores resistir pudiera</l>
+     <l n="6" met="-+---+---+-">el bien ejercitado sufrimiento,</l>
+     <l n="7" met="-+---+-+-+-">de suerte que el esfuerzo más violento</l>
+     <l n="8" met="+--+---+-+-">triunfo mayor de la constancia fuera.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">Al seno de la Patria reducido</l>
+     <l n="10" met="--+--+---+-">del Orbigo las ondas enfrenara</l>
+     <l n="11" met="+-+--+---+-">dulcemente la métrica armonía.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+++-+-">Y Cisne de la edad aun no vencido</l>
+     <l n="13" met="--+--+---+-">en acento canoro celebrara</l>
+     <l n="14" met="---+-+---+-">de FEDERICO el nombre y de SOFÍA.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

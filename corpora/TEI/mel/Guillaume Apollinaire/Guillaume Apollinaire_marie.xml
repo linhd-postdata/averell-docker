@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Marie</title>
+    <author>Guillaume Apollinaire</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">25</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Guillaume Apollinaire_marie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Marie</title>
+     <author>Guillaume Apollinaire</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Marie</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="8">Vous y dansiez petite fille</l>
+     <l n="2" line_length="8">Y danserez-vous mère-grand</l>
+     <l n="3" line_length="8">C'est la maclotte qui sautille</l>
+     <l n="4" line_length="8">Toutes les cloches sonneront</l>
+     <l n="5" line_length="8">Quand donc reviendrez-vous Marie</l>
+    </lg>
+    <lg n="2">
+     <l n="6" rhyme="a" line_length="8">Les masques sont silencieux</l>
+     <l n="7" rhyme="b" line_length="8">Et la musique est si lointaine</l>
+     <l n="8" rhyme="a" line_length="8">Qu'elle semble venir des cieux</l>
+     <l n="9" rhyme="b" line_length="6+6">Oui je veux vous aimer mais vous aimer à peine</l>
+     <l n="10" rhyme="a" line_length="8">Et mon mal est délicieux</l>
+    </lg>
+    <lg n="3">
+     <l n="11" rhyme="a" line_length="8">Les brebis s'en vont dans la neige</l>
+     <l n="12" rhyme="b" line_length="8">Flocons de laine et ceux d'argent</l>
+     <l n="13" rhyme="a" line_length="8">Des soldats passent et que n'ai-je</l>
+     <l n="14" rhyme="b" line_length="8">Un cœur à moi ce cœur changeant</l>
+     <l n="15" rhyme="a" line_length="8">Changeant et puis encor que sais-je</l>
+    </lg>
+    <lg n="4">
+     <l n="16" rhyme="a" line_length="8">Sais-je où s'en iront tes cheveux</l>
+     <l n="17" rhyme="b" line_length="8">Crépus comme mer qui moutonne</l>
+     <l n="18" rhyme="a" line_length="8">Sais-je où s'en iront tes cheveux</l>
+     <l n="19" rhyme="b" line_length="8">Et tes mains feuilles de l'automne</l>
+     <l n="20" rhyme="a" line_length="8">Que jonchent aussi nos aveux</l>
+    </lg>
+    <lg n="5">
+     <l n="21" rhyme="a" line_length="8">Je passais au bord de la Seine</l>
+     <l n="22" rhyme="b" line_length="8">Un livre ancien sous le bras</l>
+     <l n="23" rhyme="a" line_length="8">Le fleuve est pareil à ma peine</l>
+     <l n="24" rhyme="b" line_length="8">Il s'écoule et ne tarit pas</l>
+     <l n="25" rhyme="a" line_length="8">Quand donc finira la semaine</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

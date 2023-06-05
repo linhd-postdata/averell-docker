@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MODLITBA.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_modlitba</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MODLITBA.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MODLITBA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010" rhyme="1" line_length="7">Tvé slunce, Bože, svítí</l>
+     <l n="2" met="100101" rhyme="2" line_length="6">na hrad i sad i ves,</l>
+     <l n="3" met="0101010" rhyme="1" line_length="7">Ty, Jenžto šatíš KVÍTÍ,</l>
+     <l n="4" met="100100" rhyme="2" line_length="6">dej nám též CHLEBA dnes!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010" rhyme="3" line_length="7">My, Pane, ořem, sejem,</l>
+     <l n="6" met="010101" rhyme="4" line_length="6">Ty ale dáváš vzrůst –</l>
+     <l n="7" met="0101010" rhyme="3" line_length="7">a proto chválu pějem</l>
+     <l n="8" met="010001" rhyme="4" line_length="6">Ti ze srdcí a z úst.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101010" rhyme="5" line_length="7">Ty jenom símě v hrobě</l>
+     <l n="10" met="010100" rhyme="6" line_length="6">sám budíš k životu –</l>
+     <l n="11" met="0101010" rhyme="5" line_length="7">a proto skřivan k Tobě</l>
+     <l n="12" met="010100" rhyme="6" line_length="6">se vznáší v jásotu:</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1101000" rhyme="7" line_length="7">„Dík, Otče, Živiteli,</l>
+     <l n="14" met="010101" rhyme="8" line_length="6">jenž v perly měníš pot!</l>
+     <l n="15" met="1001010" rhyme="7" line_length="7">Žehnej nám život celý</l>
+     <l n="16" met="010100" rhyme="8" line_length="6">a veď nás do výsot!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

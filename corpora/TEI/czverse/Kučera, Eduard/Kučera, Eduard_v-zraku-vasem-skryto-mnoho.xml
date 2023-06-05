@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V zraku vašem skryto mnoho,</title>
+    <author>Kučera, Eduard</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kučera, Eduard_v-zraku-vasem-skryto-mnoho</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V zraku vašem skryto mnoho,</title>
+     <author>Kučera, Eduard</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V zraku vašem skryto mnoho,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">V zraku vašem skryto mnoho, </l>
+     <l n="2" met="00101010" rhyme="1" line_length="8">co ni v drahé perle není –</l>
+     <l n="3" met="10101010" line_length="8">něco, co se lehko chápe,</l>
+     <l n="4" met="10101000" rhyme="1" line_length="8">ale těžko k vyslovení.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" line_length="8">A to bývá jenom v noci,</l>
+     <l n="6" met="10101010" rhyme="2" line_length="8">která hloubku moře mívá,</l>
+     <l n="7" met="00101000" line_length="8">když se z temna modravého</l>
+     <l n="8" met="10101010" rhyme="2" line_length="8">jasná hvězda na svět dívá.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

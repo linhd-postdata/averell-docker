@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La porte</title>
+    <author>Guillaume Apollinaire</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Guillaume Apollinaire_la-porte</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La porte</title>
+     <author>Guillaume Apollinaire</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La porte</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">La porte de l'hôtel sourit terriblement</l>
+     <l n="2" rhyme="a" line_length="6+6">Qu'est-ce que cela peut me faire ô ma maman</l>
+     <l n="3" rhyme="b" line_length="6+6">D'être cet employé pour qui seul rien n'existe</l>
+     <l n="4" rhyme="b" line_length="6+6">Pi-mus couples allant dans la profonde eau triste</l>
+     <l n="5" rhyme="a" line_length="6+6">Anges frais débarqués à Marseille hier matin</l>
+     <l n="6" rhyme="a" line_length="4+4+4">J'entends mourir et remourir un chant lointain</l>
+     <l n="7" rhyme="b" line_length="6+6">Humble comme je suis qui ne suis rien qui vaille</l>
+    </lg>
+    <lg n="2">
+     <l n="8" rhyme="b" line_length="6+6">Enfant je t'ai donné ce que j'avais travaille</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>BABEL.</title>
+    <author>Šolc, Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Šolc, Václav_babel</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>BABEL.</title>
+     <author>Šolc, Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>BABEL.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" line_length="8">Vymřeli rodům otcové,</l>
+     <l n="2" met="10010101" rhyme="1" line_length="8">bez králů bloudil lidstva kmen,</l>
+     <l n="3" met="10010100" line_length="8">nešťastný v pustých samotách,</l>
+     <l n="4" met="10010100" rhyme="1" line_length="8">zmrtvělý – sotva narozen.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010001" line_length="8">I sešel mudrcův se dav,</l>
+     <l n="6" met="01010101" rhyme="2" line_length="8">a sehnal kmeny v jeden shon,</l>
+     <l n="7" met="01010100" line_length="8">by Babel k nebi postavil</l>
+     <l n="8" met="01000100" rhyme="2" line_length="8">a v oblacích svůj vztýčil tron.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010100" line_length="8">O bídná práce člověčí,</l>
+     <l n="10" met="01010100" rhyme="3" line_length="8">jež tupíš božstva zákony</l>
+     <l n="11" met="01010101" line_length="8">a k činům jeho rovnat chceš</l>
+     <l n="12" met="01010100" rhyme="3" line_length="8">své nízké – lidské výkony.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10010100" line_length="8">Rozmetán stojí Babylon,</l>
+     <l n="14" met="10010101" rhyme="4" line_length="8">na hanbu tobě jeho rum,</l>
+     <l n="15" met="01010100" line_length="8">a kmeny v svět se rozprchly</l>
+     <l n="16" met="01000101" rhyme="4" line_length="8">a každý svůj si staví dům.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

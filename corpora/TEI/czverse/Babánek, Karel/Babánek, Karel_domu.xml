@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>DOMŮ.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_domu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>DOMŮ.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>DOMŮ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000010100" line_length="10">Na nosítkách jej k vozu vynesli</l>
+     <l n="2" met="1001010100" line_length="10">ze síní smutku, smrti, v ulici,</l>
+     <l n="3" met="0100010100" line_length="10">v níž karbolu byl zápach rozlitý,</l>
+     <l n="4" met="0100010100" line_length="10">a v podušky jej zvolna složili.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001010101" line_length="10">Ve tvářích bledých, do nichž dechla smrt,</l>
+     <l n="6" met="0101000100" line_length="10">byl úsměv rozlitý, když odjížděl</l>
+     <l n="7" met="1101000100" line_length="10">vůz v slunce paprscích, jež zalilo</l>
+     <l n="8" met="0101010100" line_length="10">jej náhle teplem měkkým, lichotným –</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101000100" line_length="10">A viděl doma se již – doma zas – –</l>
+     <l n="10" met="1100100100" line_length="10">ston nemocných za nocí bezesných</l>
+     <l n="11" met="1101000101" line_length="10">tkvěl ještě v duši mu jak těžký sen,</l>
+     <l n="12" met="0100010100" line_length="10">když odjížděl ven, domů umírat.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

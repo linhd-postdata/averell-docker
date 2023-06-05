@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Prosba.</title>
+    <author>Pokorný, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný, Rudolf_prosba</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Prosba.</title>
+     <author>Pokorný, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Prosba.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101010" rhyme="1" line_length="11">O jednu milosť prosím tebe, bože!</l>
+     <l n="2" met="0101010101" rhyme="2" line_length="10">Až skončí hořkosť žití mého chvil,</l>
+     <l n="3" met="01000100010" rhyme="1" line_length="11">až uloží mě v poslední mé lože,</l>
+     <l n="4" met="0100100101" rhyme="2" line_length="10">ty můžeš vše – o, dej, bych dále žil!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101010" rhyme="3" line_length="11">Mou zpěvnou duši nechej v těchto luzích,</l>
+     <l n="6" met="1001010001" rhyme="4" line_length="10">o, učiň, abych slavíkem se stal –</l>
+     <l n="7" met="01010101000" rhyme="3" line_length="11">až přijde z jara, bych Jí na haluzích,</l>
+     <l n="8" met="0101000100" rhyme="4" line_length="10">co člověk nedopěl, pak dozpíval...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

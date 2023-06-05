@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Zeyer.</title>
+    <author>Pokorný, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný, Rudolf_zeyer</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Zeyer.</title>
+     <author>Pokorný, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Zeyer.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101000100" rhyme="1" line_length="9">Země porodila rytíře,</l>
+     <l n="2" met="1010001000" rhyme="2" line_length="10">nebe romantickou poesii;</l>
+     <l n="3" met="101000100" rhyme="1" line_length="9">pámbů vyhodil ji z vikýře.</l>
+     <l n="4" met="10100010" rhyme="3" line_length="8">A tu romantickou holku</l>
+     <l n="5" met="10101000" rhyme="3" line_length="8">vzal si rytíř bez okolků –</l>
+     <l n="6" met="1000101010" rhyme="2" line_length="10">na divoko nyní spolu žijí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

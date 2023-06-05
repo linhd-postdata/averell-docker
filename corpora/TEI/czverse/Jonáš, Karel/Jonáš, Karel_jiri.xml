@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jiří.</title>
+    <author>Jonáš, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jonáš, Karel_jiri</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jiří.</title>
+     <author>Jonáš, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jiří.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" line_length="11">Vám žena, Jiří, hladem, bídou zmírá</l>
+     <l n="2" met="01010101010" rhyme="1" line_length="11">vždyť také víte, co jest hlad a nouze,</l>
+     <l n="3" met="01010001010" line_length="11">své srdce obměkčte, jest slabá, bledá...</l>
+     <l n="4" met="01010101010" rhyme="1" line_length="11">A Jiří dolní ret svůj stáhl pouze.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11010100010" line_length="11">Vím, Jiří, vím, že zradila vás všecky,</l>
+     <l n="6" met="01010000110" rhyme="2" line_length="11">že žalář zkusili jste a pout hrůzu,</l>
+     <l n="7" met="00010101010" line_length="11">však jest jen žena a teď žalem šílí...</l>
+     <l n="8" met="01010101010" rhyme="2" line_length="11">A Jiří spínal mlčky svoji bluzu...</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100010" line_length="11">Jste jako kámen! Vzpomeňte si přece,</l>
+     <l n="10" met="01010001010" rhyme="3" line_length="11">že její obličej jest sešlý, bledý,</l>
+     <l n="11" met="00010100010" line_length="11">jenž dřív vždy zářil. Ani to ne, Jiří? –</l>
+     <l n="12" met="01000011010" rhyme="3" line_length="11">Tak poraďte jí, co má činit tedy? –</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01010101010" line_length="11">A Jiří vrhl vzteklý pohled stranou,</l>
+     <l n="14" met="01010101010" rhyme="4" line_length="11">jak dravec, jenž se k skoku právě chystá.</l>
+     <l n="15" met="01010100110" line_length="11">Pak děl však klidně, hlasem jak led chladným:</l>
+     <l n="16" met="01010101010" rhyme="4" line_length="11">„Co Jidáš dělal, zradiv Židům Krista?”</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

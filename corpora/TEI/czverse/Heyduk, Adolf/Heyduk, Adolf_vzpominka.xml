@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vzpomínka.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_vzpominka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vzpomínka.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vzpomínka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010001010" rhyme="1" line_length="11">Ve zbytcích pralesa, kde svěžesť dýšu,</l>
+     <l n="2" met="01010100010" rhyme="1" line_length="11">tu malou zkazku oběma Vám píšu,</l>
+     <l n="3" met="01010101010" rhyme="2" line_length="11">a nevím, je-li zrak můj vlahou zrosen</l>
+     <l n="4" met="01010100010" rhyme="2" line_length="11">a nebo slze jedlí jsou a sosen.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000101010" rhyme="3" line_length="11">A zdá mi se, že zřím Vás v dálce obě,</l>
+     <l n="6" met="01000100010" rhyme="3" line_length="11">jak pod večerem tulíte se k sobě</l>
+     <l n="7" met="01010101010" rhyme="4" line_length="11">a v rudé knize v matné lampy září</l>
+     <l n="8" met="10000100010" rhyme="4" line_length="11">do stárnoucích mi pohlížíte tváří.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101010" rhyme="5" line_length="11">A zdá mi se, že jako v tužby muce</l>
+     <l n="10" met="01010001010" rhyme="5" line_length="11">své v jedno sepjaly jste bílé ruce</l>
+     <l n="11" met="01000100010" rhyme="6" line_length="11">a modlíte se, dceruška i máti:</l>
+     <l n="12" met="11010101010" rhyme="6" line_length="11">Ó Bože, dej, ať zdráv se domů vrátí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

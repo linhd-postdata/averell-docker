@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mé dívce.</title>
+    <author>Tůma, Jan Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tůma, Jan Václav_me-divce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mé dívce.</title>
+     <author>Tůma, Jan Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mé dívce.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101010" rhyme="1" line_length="10">Vonný dech-li rosa mezi spánek</l>
+     <l n="2" met="101010100" rhyme="2" line_length="9">jarním jitrem na květ rozsívá,</l>
+     <l n="3" met="1010100100" rhyme="1" line_length="10">čili růži vábivý červánek</l>
+     <l n="4" met="101010100" rhyme="2" line_length="9">ze sna budí, nachem odívá,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0010101010" rhyme="3" line_length="10">neb-li slunko mladé leskem časným</l>
+     <l n="6" met="100010100" rhyme="4" line_length="9">tisícerý život otvírá –</l>
+     <l n="7" met="1010101010" rhyme="3" line_length="10">lká mi srdce v hloubce bolem hlasným:</l>
+     <l n="8" met="001010100" rhyme="4" line_length="9">„víc mi byla, víc ta láska tvá!“</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010101010" rhyme="5" line_length="10">Byla – byla! a proč není více?</l>
+     <l n="10" met="001010101" rhyme="4" line_length="9">Ty jsi řekla – marná touha má!</l>
+     <l n="11" met="1010101000" rhyme="5" line_length="10">v srdci jednom bolů na tisíce,</l>
+     <l n="12" met="101010000" rhyme="4" line_length="9">dívko má! to láska teď je tvá!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

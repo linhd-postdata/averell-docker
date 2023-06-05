@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ne, ta moje pole...</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_ne-ta-moje-pole</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ne, ta moje pole...</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ne, ta moje pole...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="001010" line_length="6">Ne, ta moje pole</l>
+     <l n="2" met="100010" rhyme="1" line_length="6">nejsou má, – jsou cizí</l>
+     <l n="3" met="001010" line_length="6">já je orám, vláčím,</l>
+     <l n="4" met="100010" rhyme="1" line_length="6">někdo mi je sklízí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100010" line_length="6">Něčí jsou mí voli,</l>
+     <l n="6" met="100010" rhyme="2" line_length="6">něčí je mé setí,</l>
+     <l n="7" met="100010" line_length="6">něčí je má chata,</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">něčí jsou mé děti.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100010" line_length="6">Něčí jsou mé ruce,</l>
+     <l n="10" met="101010" rhyme="3" line_length="6">každá žíla v těle,</l>
+     <l n="11" met="011010" line_length="6">jen má strast a síla,</l>
+     <l n="12" met="001010" rhyme="3" line_length="6">ty jsou moje celé!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LIV</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_liv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LIV</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LIV</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Parmi des monts, épars comme un tas de décombres,</l>
+     <l n="2" rhyme="a" line_length="6+6">L'horizon ébauchait avec des pourpres sombres</l>
+     <l n="3" rhyme="b" line_length="6+6">Une aube monstrueuse, et j'en étais témoin ;</l>
+     <l n="4" rhyme="b" line_length="6+6">L'ombre était vaste, un gouffre était béant au loin ;</l>
+     <l n="5" rhyme="a" line_length="6+6">J'entendais chuchoter des voix exténuées,</l>
+     <l n="6" rhyme="a" line_length="6+6">Et je voyais passer dans les blêmes nuées</l>
+     <l n="7" rhyme="b" line_length="6+6">Des fantômes mêlés aux visions des airs ;</l>
+     <l n="8" rhyme="b" line_length="6+6">Le vent sur la montagne au milieu des éclairs</l>
+     <l n="9" line_length="6+6">Tordait les cheveux gris d'un prophète terrible.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

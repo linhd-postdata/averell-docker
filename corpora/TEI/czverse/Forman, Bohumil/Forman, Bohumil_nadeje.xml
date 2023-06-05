@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Naděje.</title>
+    <author>Forman, Bohumil</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Forman, Bohumil_nadeje</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Naděje.</title>
+     <author>Forman, Bohumil</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Naděje.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Já vždycky snil, když život můj</l>
+     <l n="2" met="01000100" rhyme="1" line_length="8">byl pod osudu závějí,</l>
+     <l n="3" met="01010101" line_length="8">že kolik nad ním září hvězd,</l>
+     <l n="4" met="10010100" rhyme="1" line_length="8">tolik mu svítí nadějí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">Leč bouře často přikvačí</l>
+     <l n="6" met="01010100" rhyme="2" line_length="8">a chmura hvězdy zakreje,</l>
+     <l n="7" met="10010100" line_length="8">a tak, tak hasnou doposud</l>
+     <l n="8" met="10010100" rhyme="2" line_length="8">i ty mé zlaté naděje.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="00010100" line_length="8">Však byť i všecky pohasly,</l>
+     <l n="10" met="01010100" rhyme="3" line_length="8">mně jedna bude svítit dál –</l>
+     <l n="11" met="01010101" line_length="8">ta láska tvoje, v které zřím</l>
+     <l n="12" met="01010100" rhyme="3" line_length="8">svých snů a tužeb ideál!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

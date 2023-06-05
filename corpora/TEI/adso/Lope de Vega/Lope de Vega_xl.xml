@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- XL - </title>
+    <author>Lope de Vega</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lope de Vega_xl</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- XL - </title>
+     <author>Lope de Vega</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- XL - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Mis pasos engañados hasta ahora</l>
+     <l n="2" met="--+--+---+-">por jardines hibleos y pensiles,</l>
+     <l n="3" met="---+---+-+-">por pensamientos y esperanzas viles,</l>
+     <l n="4" met="-+-+---+-+-">infancia noche, juventud aurora;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">razón esclava, voluntad señora,</l>
+     <l n="6" met="-+---+-+-+-">vistiendo mi virtud como a otro Aquiles,</l>
+     <l n="7" met="+-+--+---+-">me han traído caballos y sutiles,</l>
+     <l n="8" met="---+---+-+-">a donde el alma sus engaños llora.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">¡Oh pasos ciegos de mi edad perdida,</l>
+     <l n="10" met="-+-+-+---+-">que en polvo, en humo, en sombra se convierte,</l>
+     <l n="11" met="-+-+-+---+-">entrada triste y mísera salida!</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+++-+-">El primero que di, ¡qué triste suerte!</l>
+     <l n="13" met="+----+---+-">ése me descontaron de la vida,</l>
+     <l n="14" met="--+--+---+-">y le puso en sus límites la muerte.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

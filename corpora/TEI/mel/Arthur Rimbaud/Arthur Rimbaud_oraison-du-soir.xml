@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Oraison du soir</title>
+    <author>Arthur Rimbaud</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Arthur Rimbaud_oraison-du-soir</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Oraison du soir</title>
+     <author>Arthur Rimbaud</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Oraison du soir</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Je vis assis, tel qu’un ange aux mains d’un barbier,</l>
+     <l n="2" rhyme="b" line_length="6+6">Empoignant une chope à fortes cannelures,</l>
+     <l n="3" rhyme="a" line_length="6+6">L’hypogastre et le col cambrés, une Gambier</l>
+     <l n="4" rhyme="b" line_length="6+6">Aux dents, sous l’air gonflé d’impalpables voilures.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Tels que les excréments chauds d’un vieux colombier,</l>
+     <l n="6" rhyme="b" line_length="6+6">Mille rêves en moi font de douces brûlures ;</l>
+     <l n="7" rhyme="a" line_length="6+6">Puis par instants mon cœur triste est comme un aubier</l>
+     <l n="8" rhyme="b" line_length="6+6">Qu’ensanglante l’or jaune et sombre des coulures.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Puis quand j’ai ravalé mes rêves avec soin,</l>
+     <l n="10" rhyme="d" line_length="6+6">Je me tourne, ayant bu trente ou quarante chopes,</l>
+     <l n="11" rhyme="c" line_length="6−6">Et me recueille pour lâcher l’âcre besoin.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="d" line_length="6+6">Doux comme le Seigneur du cèdre et des hysopes,</l>
+     <l n="13" rhyme="c" line_length="6+6">Je pisse vers les cieux bruns, très haut et très loin,</l>
+     <l n="14" rhyme="d" line_length="6+6">Avec l’assentiment des grands héliotropes.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

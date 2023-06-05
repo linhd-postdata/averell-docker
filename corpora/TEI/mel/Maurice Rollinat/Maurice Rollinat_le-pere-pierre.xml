@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Père Pierre</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_le-pere-pierre</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Père Pierre</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Père Pierre</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Fantastiques d'aspect sous leur noire capote,</l>
+     <l n="2" rhyme="b" line_length="6−6">Mais, très humaines par leurs caquets superflus,</l>
+     <l n="3" rhyme="b" line_length="6+6">Les commères, barrant la route aux verts talus,</l>
+     <l n="4" rhyme="a" line_length="6+6">À la messe s'en vont d'un gros pas qui sabote.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">« Tiens ! vʼlà l'pèrʼ Pierrʼ ! fait l'une, un malin, celui-là !</l>
+     <l n="6" rhyme="b" line_length="6+6">Pour accrocher l' poisson quand personnʼ peut en prendre ;</l>
+     <l n="7" rhyme="b" line_length="6+6">I' dit q' quand il a faim, d' fumer q'ça l' fait attendre,</l>
+     <l n="8" rhyme="a" line_length="6+6">Et qu'unʼ bonnʼ pipʼ souvent vaut mieux qu'un mauvais plat. »</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">L'homme les joint bientôt. En chœur elles s'écrient :</l>
+     <l n="10" rhyme="b" line_length="8">Q'v'allez pas à la messe ! » et puis, dame ! elles rient…</l>
+    </lg>
+    <lg n="4">
+     <l n="11" rhyme="a" line_length="6+6">« Moi ? si fait ! leur répond simplement le vieux Pierre,</l>
+     <l n="12" rhyme="b" line_length="6+6">Mais, tout par la nature ! étant ma seulʼ devise,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

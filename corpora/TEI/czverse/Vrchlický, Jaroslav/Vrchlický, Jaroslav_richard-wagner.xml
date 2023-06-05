@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>RICHARD WAGNER.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">11</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_richard-wagner</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>RICHARD WAGNER.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>RICHARD WAGNER.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1101010100" rhyme="1" line_length="10">Grand segneur tónů božstvím opilý</l>
+     <l n="2" met="0101010100" rhyme="2" line_length="10">svých komnat kráčel pustou nádherou,</l>
+     <l n="3" met="0101000100" rhyme="1" line_length="10">a tóny slétaly se, motýli,</l>
+     <l n="4" met="0110" line_length="4">kde grand segneur</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1101010100" rhyme="2" line_length="10">hrál s Rýna nymfou, bil se s příšerou,</l>
+     <l n="6" met="1001010100" rhyme="1" line_length="10">u starých bardů kvílel mohyly,</l>
+     <l n="7" met="1001000100" rhyme="2" line_length="10">ku Gralu putoval pak s důvěrou.</l>
+    </lg>
+    <lg n="3">
+     <l n="8" met="0101000100" rhyme="1" line_length="10">Jej krásky Hörselbergu svábily,</l>
+     <l n="9" met="1100010100" rhyme="2" line_length="10">v žalm vyznělo, co začal s nevěrou,</l>
+     <l n="10" met="0100010100" rhyme="1" line_length="10">žel, umělce v něm bozi dobili...</l>
+     <l n="11" met="110" line_length="3">Grand segneur!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

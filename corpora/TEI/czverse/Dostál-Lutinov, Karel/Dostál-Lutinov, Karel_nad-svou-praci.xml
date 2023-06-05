@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NAD SVOU PRACÍ</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_nad-svou-praci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NAD SVOU PRACÍ</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NAD SVOU PRACÍ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100010" line_length="7">To všechno jsou jen třísky,</l>
+     <l n="2" met="010100" rhyme="1" line_length="6">jež prší od dláta –</l>
+     <l n="3" met="0100010" line_length="7">toť náběhy jen práce,</l>
+     <l n="4" met="010100" rhyme="1" line_length="6">jež bude počata.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0001010" line_length="7">To jsou jen lehké vánky,</l>
+     <l n="6" met="010100" rhyme="2" line_length="6">jež ticho zašepcí,</l>
+     <l n="7" met="0101010" line_length="7">a po nich přijde vichor</l>
+     <l n="8" met="100100" rhyme="2" line_length="6">velikých koncepcí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0100010" line_length="7">Tak kaménky své skládám –</l>
+     <l n="10" met="110101" rhyme="3" line_length="6">čas letí jako chrt –</l>
+     <l n="11" met="0101010" line_length="7">a moje velké dílo</l>
+     <l n="12" met="010001" rhyme="3" line_length="6">snad zbuduje až – smrt!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NAŠE HVĚZDA.</title>
+    <author>Lukavský, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lukavský, Josef_nase-hvezda</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NAŠE HVĚZDA.</title>
+     <author>Lukavský, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NAŠE HVĚZDA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" line_length="8">Každý večer o deváté</l>
+     <l n="2" met="10001" rhyme="1" line_length="5">na oblohu zřím,</l>
+     <l n="3" met="00101010" line_length="8">až tam hvězdu, naši hvězdu</l>
+     <l n="4" met="10100" rhyme="1" line_length="5">zářit uvidím.</l>
+     <l n="5" met="10101010" line_length="8">Vím, že v dálce moje milá,</l>
+     <l n="6" met="01101" rhyme="2" line_length="5">než jde večer spát,</l>
+     <l n="7" met="10101000" line_length="8">na tu hvězdu roztoužena</l>
+     <l n="8" met="10100" rhyme="2" line_length="5">jde se podívat.</l>
+    </lg>
+    <lg n="2">
+     <l n="9" met="10101010" line_length="8">Plamen očí, oheň srdcí,</l>
+     <l n="10" met="10101" rhyme="3" line_length="5">krve žhoucí květ</l>
+     <l n="11" met="10101010" line_length="8">letí vzhůru na ten hvězdný</l>
+     <l n="12" met="10001" rhyme="3" line_length="5">společný náš svět.</l>
+     <l n="13" met="10101010" line_length="8">Píseň touhy, lásky, vášně</l>
+     <l n="14" met="10101" rhyme="4" line_length="5">dálkou smí pak znít,</l>
+     <l n="15" met="10001010" line_length="8">abychom ji mohli posléz</l>
+     <l n="16" met="10100" rhyme="4" line_length="5">v duše zachytit.</l>
+    </lg>
+    <lg n="3">
+     <l n="17" met="10101000" line_length="8">Každý večer o deváté</l>
+     <l n="18" met="10010" rhyme="5" line_length="5">spíjíme se snem,</l>
+     <l n="19" met="10100010" line_length="8">na té hvězdě že se sejdem,</l>
+     <l n="20" met="10100" rhyme="5" line_length="5">splynem, zahynem.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

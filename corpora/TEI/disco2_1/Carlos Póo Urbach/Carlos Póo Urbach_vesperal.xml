@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vesperal</title>
+    <author>Carlos Póo Urbach</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Carlos Póo Urbach_vesperal</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vesperal</title>
+     <author>Carlos Póo Urbach</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vesperal</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="-+-+---+-+-">El sol envuelve su caldeado escudo</l>
+     <l n="2" met="--+--+---+-">en sudario de brumas irisadas,</l>
+     <l n="3" met="+-+--+---+-">cual la púdica virgen el desnudo</l>
+     <l n="4" met="-+-+-+---+-">turgente busto en sedas sonrosadas;</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="+-+--+-+-+-">rasga trémulo el aire el eco agudo</l>
+     <l n="6" met="-+---+---+-">que lanzan los alciones en bandadas:</l>
+     <l n="7" met="+-+--+-+-+-">quiebra en negro arrecife el mar sañudo</l>
+     <l n="8" met="--+--+---+-">sus eréctiles ondas argentadas.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-++--+-+-+-">Como un ópalo níveo en ocre raso,</l>
+     <l n="10" met="+----+---+-">mancha con su blancura del ocaso</l>
+     <l n="11" met="---+-+-+-+-">la ensangrentada clámide, alba vela;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+----+---+-">pájaro de plumaje marfileño</l>
+     <l n="13" met="+----+---+-">finge, que a las comarcas del Ensueño</l>
+     <l n="14" met="---+---+-+-">por encendidos firmamentos vuela.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

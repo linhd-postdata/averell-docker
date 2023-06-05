@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L'ÉTABLE</title>
+    <author>Émile Verhaeren</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Émile Verhaeren_l-etable</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L'ÉTABLE</title>
+     <author>Émile Verhaeren</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L'ÉTABLE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Et pleine d'un bétail magnifique, l'étable,</l>
+     <l n="2" rhyme="b" line_length="6−6">A main gauche, près des fumiers étages haut,</l>
+     <l n="3" rhyme="b" line_length="6+6">Volets fermés, dormait d'un pesant sommeil chaud,</l>
+     <l n="4" rhyme="a" line_length="6+6">Sous les rayons serrés d'un soleil irritable.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">Dans la moite chaleur de la ferme au repos,</l>
+     <l n="6" rhyme="d" line_length="6+6">Dans la vapeur montant des fumantes litières,</l>
+     <l n="7" rhyme="d" line_length="6+6">Les bœufs dressaient le roc de leurs croupes altières</l>
+     <l n="8" rhyme="c" line_length="6+6">Et les vaches beuglaient très doux, les yeux mi-clos.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="6+6">Midi sonnant, les gars nombreux curaient les auges</l>
+     <l n="10" rhyme="e" line_length="6+6">Et les comblaient de foins, de lavandes, de sauges,</l>
+     <l n="11" rhyme="f" line_length="6+6">Que les bêtes broyaient d'un lourd mâchonnement ;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="6+6">Tandis que les doigts gourds et durcis des servantes</l>
+     <l n="13" rhyme="g" line_length="6+6">Étiraient longuement les mamelles pendantes</l>
+     <l n="14" rhyme="f" line_length="6+6">Et grappillaient les pis tendus, canaillement.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

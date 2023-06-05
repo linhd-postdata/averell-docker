@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Año viejo o aguinaldos</title>
+    <author>Nicolás Arnao</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nicolás Arnao_ano-viejo-o-aguinaldos</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Año viejo o aguinaldos</title>
+     <author>Nicolás Arnao</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Año viejo o aguinaldos</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+---+-">Adiós, mi viejo amigo compañero,</l>
+     <l n="2" met="-+-+-+---+-">en la hora triste o gratas ilusiones;</l>
+     <l n="3" met="--+--+---+-">como canas del tiempo en ramazones</l>
+     <l n="4" met="++---+---+-">te aguarda el aguinaldo en el sendero.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+---+-">Adiós por siempre, errante mensajero</l>
+     <l n="6" met="-+---+---+-">que dejas con arrullo de emociones,</l>
+     <l n="7" met="-+---++--+-">el alma en tu recuerdo hecha girones</l>
+     <l n="8" met="-+---+---+-">y atada la esperanza al venidero.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+-+---+-">Nace otra nueva aurora primorosa</l>
+     <l n="10" met="--+--+---+-">sepultando la noche del pasado,</l>
+     <l n="11" met="+-+--+-+-+-">do reclina sus galas linda rosa</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">o canta el pajarillo enamorado:</l>
+     <l n="13" met="---+-+---+-">Y la falange humana borrascosa</l>
+     <l n="14" met="+--+---+-+-">sigue soñando en cuanto había soñado.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

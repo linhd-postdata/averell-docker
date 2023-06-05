@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Matce.</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_matce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Matce.</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Matce.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100100101" rhyme="1" line_length="10">Má rodičko, po dlouhé řadě let</l>
+     <l n="2" met="01010101010" rhyme="2" line_length="11">dnes kladu sonet pod tvé jméno zlaté,</l>
+     <l n="3" met="0100010101" rhyme="1" line_length="10">jen sonet tam, kde měl bych hymnus pět,</l>
+     <l n="4" met="01001001010" rhyme="2" line_length="11">jen verše, kam modlitby patří svaté.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1101010101" rhyme="1" line_length="10">Oh, člověk musí projít cestou běd</l>
+     <l n="6" met="01010101010" rhyme="2" line_length="11">a mnoho pohřbít v mnohé bouři klaté,</l>
+     <l n="7" met="0100010100" rhyme="1" line_length="10">vše proklínat, co chtěl kdy návidět</l>
+     <l n="8" met="01010101000" rhyme="2" line_length="11">a zoufat, plakat musí častokráte,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0100010100" rhyme="3" line_length="10">pak cynicky se musí vysmívat</l>
+     <l n="10" met="1001010100" rhyme="4" line_length="10">frivolní, hrozné písni životní,</l>
+     <l n="11" met="0101010101" rhyme="3" line_length="10">by mohl akcent slovu „matka“ dát –</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="0100010100" rhyme="5" line_length="10">a hnusna mu ta píseň musí být,</l>
+     <l n="13" met="0010010100" rhyme="4" line_length="10">by řek’, že vždy a všude slyší z ní</l>
+     <l n="14" met="0101010101" rhyme="5" line_length="10">to „matka“ jako svatý refrain znít...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Setkání.</title>
+    <author>Nečas, Jan Evangelista</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nečas, Jan Evangelista_setkani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Setkání.</title>
+     <author>Nečas, Jan Evangelista</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Setkání.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101000" rhyme="1" line_length="10">Pohled věru dávno nevídaný!</l>
+     <l n="2" met="1010101010" rhyme="1" line_length="10">Svadba z jedné, pohřeb z druhé strany</l>
+     <l n="3" met="1000101000" rhyme="2" line_length="10">setkaly se v rohu na ulici.</l>
+     <l n="4" met="1010100010" rhyme="2" line_length="10">Zřejmo, že se zarazili všicci –</l>
+     <l n="5" met="0110100010" rhyme="3" line_length="10">Já mám smělosť osudu se ptáti,</l>
+     <l n="6" met="0010100010" rhyme="3" line_length="10">kdo z nich mohl šťastnějším se zváti:</l>
+     <l n="7" met="1000101010" rhyme="4" line_length="10">jestli ten, kdo kráčel s mladou ženou,</l>
+     <l n="8" met="1000101000" rhyme="4" line_length="10">nebo ten, jejž nesli na ramenou?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

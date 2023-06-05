@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SMUTEČNÍ VERŠE</title>
+    <author>Dyk, Viktor</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dyk, Viktor_smutecni-verse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SMUTEČNÍ VERŠE</title>
+     <author>Dyk, Viktor</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SMUTEČNÍ VERŠE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1101010100" rhyme="1" line_length="10">Oh, nechal jít mne pustou ulicí,</l>
+     <l n="2" met="01000100010" rhyme="2" line_length="11">tak samotného, se sklopenou hlavou!</l>
+     <l n="3" met="0101010100" rhyme="1" line_length="10">A dýchat zvolna mlhu smrtící,</l>
+     <l n="4" met="01000101000" rhyme="2" line_length="11">a náladou se spíjet umíravou...</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1101010101" rhyme="3" line_length="10">Jít smutnou cestou, kde se zvedá strach,</l>
+     <l n="6" met="01010101010" rhyme="4" line_length="11">kdy pozdní večer závoj přes zem stáhl.</l>
+     <l n="7" met="0100010100" rhyme="3" line_length="10">A samotného sedět v kavárnách,</l>
+     <l n="8" met="01000101010" rhyme="4" line_length="11">ah, samotného, kdy jsem touhou práhl!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0100010101" rhyme="5" line_length="10">A teprve teď, kdy jsem počal psát,</l>
+     <l n="10" met="11010001000" rhyme="6" line_length="11">zří na mne – ironie zosobněná.</l>
+     <l n="11" met="0101010101" rhyme="5" line_length="10">Co píši, slova mění v šer a chlad,</l>
+     <l n="12" met="01000101000" rhyme="6" line_length="11">a dívá se mi s chechtem přes ramena.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

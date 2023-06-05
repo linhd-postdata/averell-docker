@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XIX</title>
+    <author>Albert Mérat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Albert Mérat_xix</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XIX</title>
+     <author>Albert Mérat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XIX</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="7">Les poëtes sont des rois</l>
+     <l n="2" rhyme="b" line_length="7">En effet très-ridicules.</l>
+     <l n="3" rhyme="a" line_length="7">Ils ont peut-être des droits</l>
+     <l n="4" rhyme="b" line_length="7">Sur les vagues crépuscules,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="7">Sur les nuits, sur les soleils,</l>
+     <l n="6" rhyme="b" line_length="7">Sur les choses ténébreuses,</l>
+     <l n="7" rhyme="a" line_length="7">Et sur les baisers vermeils</l>
+     <l n="8" rhyme="b" line_length="7">De leurs belles amoureuses.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="7">Ils ne peuvent, tout est là !</l>
+     <l n="10" rhyme="b" line_length="7">A la femme brune ou blonde,</l>
+     <l n="11" rhyme="a" line_length="7">Sauf leurs rimes de gala,</l>
+     <l n="12" rhyme="b" line_length="7">Donner les biens de ce monde.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

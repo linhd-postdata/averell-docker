@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V NAŠEM KRAJI</title>
+    <author>Klášterský, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Klášterský, Antonín_v-nasem-kraji</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V NAŠEM KRAJI</title>
+     <author>Klášterský, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V NAŠEM KRAJI</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" rhyme="1" line_length="11">Je u nás všecko všudy tvrdá žula,</l>
+     <l n="2" met="10010011010" rhyme="2" line_length="11">skály i kopce; i v mech lesní hebký</l>
+     <l n="3" met="01010100010" rhyme="1" line_length="11">a v trávy lučin balvany se vsula,</l>
+     <l n="4" met="01000101010" rhyme="2" line_length="11">a žulové jsou u nás i ty lebky.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010001010" rhyme="3" line_length="11">Ba i ta srdce dost se tvrdá zdají,</l>
+     <l n="6" met="01000100010" rhyme="4" line_length="11">jak zhrdala by slzami a citem,</l>
+     <l n="7" met="01010100010" rhyme="3" line_length="11">leč rozlom žulu: jiskérky v ní hrají,</l>
+     <l n="8" met="10000101010" rhyme="4" line_length="11">a jak se to v ní leskne zlatým třpytem!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

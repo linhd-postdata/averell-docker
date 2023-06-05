@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Doma</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_doma</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Doma</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Doma</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101001010" rhyme="1" line_length="10">Proč bychom... A hned se hrnout počnou</l>
+     <l n="2" met="101000101" rhyme="2" line_length="9">smavé radosti jak v dětských hrách.</l>
+     <l n="3" met="1010100100" rhyme="1" line_length="10">A když dějství zavírá se skočnou,</l>
+     <l n="4" met="100010101" rhyme="2" line_length="9">vyhrknou mi slzy jako hrách.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

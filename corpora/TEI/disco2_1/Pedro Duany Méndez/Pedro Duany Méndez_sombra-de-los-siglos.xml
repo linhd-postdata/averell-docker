@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sombra de los siglos</title>
+    <author>Pedro Duany Méndez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pedro Duany Méndez_sombra-de-los-siglos</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sombra de los siglos</title>
+     <author>Pedro Duany Méndez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sombra de los siglos</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+-++--+-">¡Triste sombra que vagas! ¿De qué Tártaro emerges;</l>
+     <l n="2" met="--+--+-+-+--+-">hacia dónde caminas; fuiste el alma de Jove?,</l>
+     <l n="3" met="-+---+---+--+-">¿padeces la mudeza de la fúlgida Niove,</l>
+     <l n="4" met="-++--+---++-+-">o en qué piélago inmenso de dolor te sumerges?</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+-+-+--+-">¿Dónde está tu palabra, viste tú las remotas</l>
+     <l n="6" met="--+--+-+--+-">primaveras de Cadmo? ¿Cuántas veces viniste</l>
+     <l n="7" met="--+--+----+-+-">del abismo insondable donde Sisifo existe,</l>
+     <l n="8" met="--+--+---+--+-">y dejaste tus carnes inservibles y rotas?</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+--++--+-">¿Qué imperfecta materia será, acaso, la tuya?</l>
+     <l n="10" met="--+--+---+--+-">¡Ha de ser la tangible que la Nada construya</l>
+     <l n="11" met="--+--+---+--+-">con el mísero barro, con la esencia del Todo,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-----+---+--+-">para que recompenses las maldades que olvidas</l>
+     <l n="13" met="--+--+---+--+-">en el mágico curso de millares de vidas,</l>
+     <l n="14" met="--+--+-+-+-++-">y que sepas que el cuerpo torna siempre a ser lodo!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

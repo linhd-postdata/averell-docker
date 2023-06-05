@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>RTY.</title>
+    <author>Čenkov, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čenkov, Emanuel_rty</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>RTY.</title>
+     <author>Čenkov, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>RTY.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11000101010" rhyme="1" line_length="11">Rty bezbožné, v něž vášeň vdechla plamen,</l>
+     <l n="2" met="1001000100" rhyme="2" line_length="10">při divých polibcích, jež hýřily</l>
+     <l n="3" met="100100" rhyme="3" line_length="6">za noci včerejší –</l>
+     <l n="4" met="01000101010" rhyme="1" line_length="11">dnes modlí se a šepcí zbožně „amen“...</l>
+     <l n="5" met="0101000100" rhyme="2" line_length="10">By smrtí kontrasty se smířily,</l>
+     <l n="6" met="0100010100" rhyme="3" line_length="10">v tom záleží náš život vezdejší.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

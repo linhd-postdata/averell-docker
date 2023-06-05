@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Z BOJIŠTĚ.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_z-bojiste</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Z BOJIŠTĚ.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Z BOJIŠTĚ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010100010" line_length="13">Tolik a tolik mrtvých, raněných tam bylo.</l>
+     <l n="2" met="1100010101" rhyme="1" line_length="10">Zřím vyčítavý zrak jich, slyším sten,</l>
+     <l n="3" met="0101001001010" line_length="13">a smutno člověku, zběsilou náhle bouři</l>
+     <l n="4" met="0100110001" rhyme="1" line_length="10">jak zdravý když zří vyvrácený kmen.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101001001010" line_length="13">A v letu zašumí nad hroby peruť času,</l>
+     <l n="6" met="0101010001" rhyme="2" line_length="10">a láska, slzy, vše jak byl by klam.</l>
+     <l n="7" met="1101001101010" line_length="13">Ó, srdce lidské! Vy, ó, mrtví v taji hrobů...!</l>
+     <l n="8" met="1001010100" rhyme="2" line_length="10">– Tolik a tolik mrtvých bylo tam.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>En hábito de ladrón</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_en-habito-de-ladron</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>En hábito de ladrón</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>En hábito de ladrón</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="-+----+-" line_length="8">En hábito de ladrón</l>
+     <l n="2" met="+-+--+-" line_length="7">jüez de términos fue,</l>
+     <l n="3" met="-+--+--" line_length="7">señor licenciado, el que</l>
+     <l n="4" met="--+---+-" line_length="8">limitó vuestro mojón;</l>
+     <l n="5" met="-+++-+-" line_length="7">de tiro hizo un tirón</l>
+     <l n="6" met="--+---+-" line_length="8">vuestra ropa damasquina,</l>
+     <l n="7" met="-+--+-+-" line_length="8">porque era de seda fina,</l>
+     <l n="8" met="-+++--+-" line_length="8">que solo es bien se conceda</l>
+     <l n="9" met="---+--+-" line_length="8">a los mojones la seda</l>
+     <l n="10" met="----+-+-" line_length="8">que se concedió a la China.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

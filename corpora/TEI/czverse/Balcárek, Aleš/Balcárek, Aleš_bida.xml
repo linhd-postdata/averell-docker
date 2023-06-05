@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Bída.</title>
+    <author>Balcárek, Aleš</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Balcárek, Aleš_bida</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Bída.</title>
+     <author>Balcárek, Aleš</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Bída.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101010" line_length="8">„Je to bída na tom světě,</l>
+     <l n="2" met="001010" rhyme="1" line_length="6">kam se noha šine;</l>
+     <l n="3" met="10101010" line_length="8">sotva přejdeš jedny hory,</l>
+     <l n="4" met="001010" rhyme="1" line_length="6">již se najdou jiné.“</l>
+     <l n="5" met="10101010" line_length="8">Na mou kuši, měl ten pravdu,</l>
+     <l n="6" met="001010" rhyme="2" line_length="6">kdo tu notu zpíval;</l>
+     <l n="7" met="10001010" line_length="8">jistě že ho bída hnětla,</l>
+     <l n="8" met="101010" rhyme="2" line_length="6">třebas Boha vzýval.</l>
+     <l n="9" met="10101010" line_length="8">Na tom světě panna Bída</l>
+     <l n="10" met="100010" rhyme="3" line_length="6">ukrutně si řádí;</l>
+     <l n="11" met="10101010" line_length="8">a však študent a ta panna</l>
+     <l n="12" met="001000" rhyme="3" line_length="6">vždy jsou kamarádi.</l>
+     <l n="13" met="00101010" line_length="8">On si hvízdá, ona zpívá,</l>
+     <l n="14" met="101010" rhyme="4" line_length="6">kmotr, ten si výská;</l>
+     <l n="15" met="10100010" line_length="8">rád bych věděl, kdo v té švandě</l>
+     <l n="16" met="100100" rhyme="4" line_length="6">nejvíc si vyzíská.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

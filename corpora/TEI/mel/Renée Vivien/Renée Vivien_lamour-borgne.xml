@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L’AMOUR BORGNE</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">3</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_lamour-borgne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L’AMOUR BORGNE</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L’AMOUR BORGNE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Je t’aime de mon œil unique, je te lorgne</l>
+    </lg>
+    <lg n="2">
+     <l n="2" rhyme="a" line_length="6+6">Je te suis du regard, lubrique comme un singe.</l>
+    </lg>
+    <lg n="3">
+     <l n="3" rhyme="b" line_length="6+6">Ton visage s’estompe à travers les courtines ;</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

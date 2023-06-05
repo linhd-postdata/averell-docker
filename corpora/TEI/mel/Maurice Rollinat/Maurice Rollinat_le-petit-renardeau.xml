@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LE PETIT RENARDEAU</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_le-petit-renardeau</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LE PETIT RENARDEAU</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LE PETIT RENARDEAU</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="5+6">Au bord de l'étang, le petit renardeau</l>
+     <l n="2" rhyme="b" line_length="5+6">Suit à pas de loup sa mère la renarde,</l>
+     <l n="3" rhyme="b" line_length="5+6">Qui s'en va guettant, sournoise et goguenarde,</l>
+     <l n="4" rhyme="a" line_length="5+6">Le canard sauvage ou bien la poule d'eau.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="5+6">— Des nuages bruns couvrent d'un noir bandeau</l>
+     <l n="6" rhyme="b" line_length="5+6">Le soleil sanglant que l'âpre nuit poignarde.</l>
+     <l n="7" rhyme="a" line_length="5+6">Au bord de l'étang, le petit renardeau</l>
+     <l n="8" rhyme="b" line_length="5+6">Suit à pas de loup sa mère la renarde.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="5+6">Sur un bois flottant qui lui sert de radeau,</l>
+     <l n="10" rhyme="b" line_length="5+6">Soudain la rôdeuse en tremblant se hasarde ;</l>
+     <l n="11" rhyme="b" line_length="5+6">Et moi, curieux et ravi, je regarde,</l>
+     <l n="12" rhyme="a" line_length="5+6">Caché par les joncs comme par un rideau,</l>
+     <l n="13" rhyme="a" line_length="5+6">Au bord de l'étang le petit renardeau.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

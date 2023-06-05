@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SEN</title>
+    <author>Ráž, Arnošt</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ráž, Arnošt_sen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SEN</title>
+     <author>Ráž, Arnošt</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SEN</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" rhyme="1" line_length="8">Večerní, dlouhá idylla,</l>
+     <l n="2" met="11000100" rhyme="1" line_length="8">má duše tak ji vysnila:</l>
+     <l n="3" met="10010101" rhyme="2" line_length="8">Na širém nebi vzkvete len</l>
+     <l n="4" met="01010100" rhyme="2" line_length="8">a žlutý měsíc u oken.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00010100" rhyme="3" line_length="8">Já pak Vám tiše řeknu: Ty.</l>
+     <l n="6" met="01010100" rhyme="3" line_length="8">To budou lampy shasnuty</l>
+     <l n="7" met="01010000" rhyme="2" line_length="8">a měsíc zádumčivý jen</l>
+     <l n="8" met="01010100" rhyme="2" line_length="8">se bude toulat’ u oken.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010100" rhyme="4" line_length="8">Šero se zjiskří polibky</l>
+     <l n="10" met="01010100" rhyme="4" line_length="8">a změkčí kyvem kolíbky,</l>
+     <l n="11" met="11010101" rhyme="2" line_length="8">tré duší splyne v sladký sen</l>
+     <l n="12" met="01010100" rhyme="2" line_length="8">a měsíc vzdychne u oken. –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

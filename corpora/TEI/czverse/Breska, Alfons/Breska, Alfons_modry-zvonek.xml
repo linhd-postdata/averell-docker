@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Modrý zvonek.</title>
+    <author>Breska, Alfons</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Breska, Alfons_modry-zvonek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Modrý zvonek.</title>
+     <author>Breska, Alfons</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Modrý zvonek.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" rhyme="1" line_length="8">Na tmavé lesní pěšině</l>
+     <l n="2" met="1000" rhyme="2" line_length="4">z azuru stkán,</l>
+     <l n="3" met="10010100" rhyme="1" line_length="8">pod stromy zvonek ve stíně</l>
+     <l n="4" met="0100" rhyme="2" line_length="4">kvet zadumán.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010101" rhyme="3" line_length="8">Nepronik’ listím světla třpyt</l>
+     <l n="6" met="0101" rhyme="4" line_length="4">sem v lesů stín,</l>
+     <l n="7" met="01010101" rhyme="3" line_length="8">a modrý zvonek světu skryt</l>
+     <l n="8" met="1100" rhyme="4" line_length="4">lkal z kapradin.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" rhyme="5" line_length="8">Zde marně kvetu ubohý,</l>
+     <l n="10" met="1101" rhyme="6" line_length="4">lkal zvonku hlas,</l>
+     <l n="11" met="10010100" rhyme="5" line_length="8">nevidím kousek oblohy</l>
+     <l n="12" met="0101" rhyme="6" line_length="4">ni slunce jas.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01000100" rhyme="7" line_length="8">A zvoneček se rozplakal,</l>
+     <l n="14" met="1001" rhyme="8" line_length="4">v kapradí kles,</l>
+     <l n="15" met="10010101" rhyme="7" line_length="8">dojatý k slzám tiše štkal</l>
+     <l n="16" met="0101" rhyme="8" line_length="4">s ním celý les.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Churavím.</title>
+    <author>Červenka, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červenka, Jan_churavim</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Churavím.</title>
+     <author>Červenka, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Churavím.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001100" line_length="7">Churavím, ó, churavím,</l>
+     <l n="2" met="100010" rhyme="1" line_length="6">na duchu i těle,</l>
+     <l n="3" met="10101010" rhyme="2" line_length="8">a jak listy v jeseň chladnou,</l>
+     <l n="4" met="10100010" rhyme="2" line_length="8">tiše padají, až spadnou</l>
+     <l n="5" met="101010" rhyme="1" line_length="6">v prach mé touhy smělé.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="1000100" line_length="7">Nevrátí se nikdy víc</l>
+     <l n="7" met="001010" rhyme="3" line_length="6">to, co bylo kdysi!</l>
+     <l n="8" met="10101010" rhyme="4" line_length="8">A ta duše, dřív tak činná,</l>
+     <l n="9" met="00101000" rhyme="4" line_length="8">je teď jako pavučina,</l>
+     <l n="10" met="100010" rhyme="3" line_length="6">se stěny jež visí.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="0010100" line_length="7">Však ta smutná pohádka</l>
+     <l n="12" met="100010" rhyme="5" line_length="6">ukončí se v krátku!</l>
+     <l n="13" met="00101010" rhyme="6" line_length="8">Jen to srdce ještě bije, –</l>
+     <l n="14" met="11101000" rhyme="6" line_length="8">oh, má paní, nechte si je,</l>
+     <l n="15" met="101000" rhyme="5" line_length="6">nechte na památku.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

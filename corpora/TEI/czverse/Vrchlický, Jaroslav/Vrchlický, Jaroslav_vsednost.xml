@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Všednost.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_vsednost</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Všednost.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Všednost.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101010" rhyme="1" line_length="10">Všední den, ba tuze, tuze všední,</l>
+     <l n="2" met="1010101000" rhyme="1" line_length="10">všecko všední, kam se poohledni!</l>
+     <l n="3" met="1001101010" rhyme="2" line_length="10">Ale kdo ví, co můž’ večer snésti?</l>
+     <l n="4" met="1010001010" rhyme="2" line_length="10">Přišel večer – co tu náhle štěstí!</l>
+     <l n="5" met="1001101000" rhyme="3" line_length="10">Největších snů rázem vyplnění,</l>
+     <l n="6" met="1000101000" rhyme="3" line_length="10">od přítele tklivé pozdravení,</l>
+     <l n="7" met="1010101010" rhyme="4" line_length="10">trochu na noc vlastní dobré práce –</l>
+     <l n="8" met="1001101010" rhyme="4" line_length="10">Po všedním dnu lze tak usnout sladce!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

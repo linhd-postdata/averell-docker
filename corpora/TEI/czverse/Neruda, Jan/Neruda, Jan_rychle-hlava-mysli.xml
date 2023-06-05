@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Rychle hlava myslí,</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_rychle-hlava-mysli</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Rychle hlava myslí,</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Rychle hlava myslí,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010" line_length="6">Rychle hlava myslí, </l>
+     <l n="2" met="101010" rhyme="1" line_length="6">rychle srdce bije,</l>
+     <l n="3" met="101010" line_length="6">tužba rychle zraje,</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">člověk rychle žije.</l>
+     <l n="5" met="101000" line_length="6">Náhle u nového</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">člověk jara stojí,</l>
+     <l n="7" met="101010" line_length="6">neví, proč se třese,</l>
+     <l n="8" met="101010" rhyme="2" line_length="6">neví, proč se bojí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

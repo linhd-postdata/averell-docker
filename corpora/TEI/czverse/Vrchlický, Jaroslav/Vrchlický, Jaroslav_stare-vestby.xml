@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Staré věštby</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_stare-vestby</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Staré věštby</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Staré věštby</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" rhyme="1" line_length="11">Jak v ucho zní ty dávné věštby staré,</l>
+     <l n="2" met="01010100010" rhyme="2" line_length="11">hned nová naděj do srdce se vrací;</l>
+     <l n="3" met="11010100010" rhyme="2" line_length="11">ó mythu drazí, bělokřídlí ptáci</l>
+     <l n="4" met="01000101010" rhyme="1" line_length="11">nám holubice buďte v jitro charé!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101010" rhyme="1" line_length="11">Zpět, draku, zlobo, a zpět, zmije, sváre!</l>
+     <l n="6" met="01010101000" rhyme="2" line_length="11">Když vnuk se marnou tužbou utrmácí,</l>
+     <l n="7" met="01010101010" rhyme="2" line_length="11">jak zvony jitra zněte v jeho práci</l>
+     <l n="8" met="01010101010" rhyme="1" line_length="11">a vlijte v svaly víno síly jaré!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000100010" rhyme="3" line_length="11">Vy nelžete, neb zbásnila vás víra,</l>
+     <l n="10" met="01010001000" rhyme="4" line_length="11">jež z hymny Vojtěcha i z Václavovy</l>
+     <l n="11" met="01010101000" rhyme="5" line_length="11">i z písně zněla starých Táboritů.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="01010101010" rhyme="4" line_length="11">Kde víra, tam je síla, život nový</l>
+     <l n="13" met="01000100110" rhyme="3" line_length="11">tam pučí zas a mdloba, jež hruď svírá,</l>
+     <l n="14" met="01011101010" rhyme="5" line_length="11">jak noční stín mře v jitra plesném svitu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

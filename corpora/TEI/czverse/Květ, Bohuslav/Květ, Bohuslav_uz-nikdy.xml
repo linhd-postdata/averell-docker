@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Už nikdy...</title>
+    <author>Květ, Bohuslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Květ, Bohuslav_uz-nikdy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Už nikdy...</title>
+     <author>Květ, Bohuslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Už nikdy...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000101010" rhyme="1" line_length="11">Už nikdy nám tak sladkým život není,</l>
+     <l n="2" met="0101010100" rhyme="2" line_length="10">když někdo drahý navždy odejde</l>
+     <l n="3" met="1001001001000" rhyme="1" line_length="13">do ticha věčného, do říše zapomnění,</l>
+     <l n="4" met="010100010101" rhyme="2" line_length="12">kde věčnost bez konce, kde není noci, dne.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11010100010101" rhyme="3" line_length="14">Stín těžký leží na duši a každá radost v ráz</l>
+     <l n="6" met="1001000100010" rhyme="4" line_length="13">zanikne v zamyšlení nad marností všeho,</l>
+     <l n="7" met="10010101001001" rhyme="3" line_length="14">pod nohou cítíš půdu nejistou, divoký sráz,</l>
+     <l n="8" met="010101010101000" rhyme="4" line_length="15">kde chví se dole ve tmě hrůza čehos’ tajemného...</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0100010101000" rhyme="5" line_length="13">Už nikdy nám tak sladce slunce nezazáří,</l>
+     <l n="10" met="010100010100" rhyme="6" line_length="12">tak nikdy květy vstříc nám vonět nebudou,</l>
+     <l n="11" met="010101010001010" rhyme="5" line_length="15">neb na všem zůstal smutek pohledu těch drahých tváří,</l>
+     <l n="12" met="01010101010100" rhyme="6" line_length="14">jež, červů kořist, tlejí zvolna země pod hrudou...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

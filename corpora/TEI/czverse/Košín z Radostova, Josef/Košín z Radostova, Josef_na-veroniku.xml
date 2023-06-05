@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Na Veroniku.</title>
+    <author>Košín z Radostova, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Košín z Radostova, Josef_na-veroniku</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Na Veroniku.</title>
+     <author>Košín z Radostova, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Na Veroniku.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100000101010" rhyme="1" line_length="12">Nevybírej si tak! Lidí v české zemi</l>
+     <l n="2" met="000010101010" rhyme="1" line_length="12">sic je dost, však mužských mezi lidmi těmi</l>
+     <l n="3" met="1000101010100" rhyme="2" line_length="13">millionů dvé a tisíc sto jen čtvero jest,</l>
+     <l n="4" met="1010001010101" rhyme="2" line_length="13">ženských millionů dvé a tisíc set však šest.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

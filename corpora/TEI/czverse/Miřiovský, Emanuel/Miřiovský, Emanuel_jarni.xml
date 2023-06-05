@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jarní.</title>
+    <author>Miřiovský, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Miřiovský, Emanuel_jarni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jarní.</title>
+     <author>Miřiovský, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jarní.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" line_length="8">Naše stráň se opyšnila</l>
+     <l n="2" met="1000100" rhyme="1" line_length="7">lístečky a poupaty,</l>
+     <l n="3" met="10001000" line_length="8">za kratičko rozkvete se</l>
+     <l n="4" met="1010100" rhyme="1" line_length="7">keř a plot nám bohatý.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" line_length="8">Do výsosti skřivan letí,</l>
+     <l n="6" met="1010100" rhyme="2" line_length="7">za ním bujné pěničky,</l>
+     <l n="7" met="10101010" line_length="8">jedním zvukem všude hude</l>
+     <l n="8" met="1010100" rhyme="2" line_length="7">ptačí národ maličký.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="00101010" line_length="8">A s ním zazní plným hrdlem</l>
+     <l n="10" met="1010101" rhyme="3" line_length="7">dětský hlas a dětský smích –</l>
+     <l n="11" met="00101010" line_length="8">což je v dětech plno písní,</l>
+     <l n="12" met="0010100" rhyme="3" line_length="7">což je štěstí, blaha v nich!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="00101000" line_length="8">Již se tlačí na výsluní</l>
+     <l n="14" met="1010100" rhyme="4" line_length="7">první lístek poupěte –</l>
+     <l n="15" met="10001000" line_length="8">všude se to vyjasnilo</l>
+     <l n="16" met="1010100" rhyme="4" line_length="7">okem mého dítěte!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

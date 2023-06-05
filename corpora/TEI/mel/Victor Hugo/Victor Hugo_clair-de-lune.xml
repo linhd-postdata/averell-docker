@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Clair de lune</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_clair-de-lune</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Clair de lune</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Clair de lune</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">La lune était sereine et jouait sur les flots. —</l>
+     <l n="2" rhyme="b" line_length="6+6">La fenêtre enfin libre est ouverte à la brise,</l>
+     <l n="3" rhyme="b" line_length="6+6">La sultane regarde, et la mer qui se brise,</l>
+     <l n="4" rhyme="a" line_length="6+6">Là-bas, d'un flot d'argent brode les noirs îlots.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">De ses doigts en vibrant s'échappe la guitare.</l>
+     <l n="6" rhyme="b" line_length="6+6">Elle écoute… Un bruit sourd frappe les sourds échos.</l>
+     <l n="7" rhyme="b" line_length="6+6">Est-ce un lourd vaisseau turc qui vient des eaux de Cos,</l>
+     <l n="8" rhyme="a" line_length="6+6">Battant l'archipel grec de sa rame tartare ?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Sont-ce des cormorans qui plongent tour à tour,</l>
+     <l n="10" rhyme="b" line_length="6+6">Et coupent l'eau, qui roule en perles sur leur aile ?</l>
+     <l n="11" rhyme="b" line_length="6+6">Est-ce un djinn qui là-haut siffle d'une voix grêle,</l>
+     <l n="12" rhyme="a" line_length="6+6">Et jette dans la mer les créneaux de la tour ?</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="6+6">Qui trouble ainsi les flots près du sérail des femmes ?</l>
+     <l n="14" rhyme="b" line_length="6+6">Ni le noir cormoran, sur la vague bercé,</l>
+     <l n="15" rhyme="b" line_length="6+6">Ni les pierres du mur, ni le bruit cadencé</l>
+     <l n="16" rhyme="a" line_length="6+6">Du lourd vaisseau, rampant sur l'onde avec des rames.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" rhyme="a" line_length="6+6">Ce sont des sacs pesants, d'où partent des sanglots.</l>
+     <l n="18" rhyme="b" line_length="6+6">On verrait, en sondant la mer qui les promène,</l>
+     <l n="19" rhyme="b" line_length="6+6">Se mouvoir dans leurs flancs comme une forme humaine…</l>
+     <l n="20" rhyme="a" line_length="6+6">La lune était sereine et jouait sur les flots.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

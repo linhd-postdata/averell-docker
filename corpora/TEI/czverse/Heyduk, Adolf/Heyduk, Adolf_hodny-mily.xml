@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>HODNÝ MILÝ.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_hodny-mily</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>HODNÝ MILÝ.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>HODNÝ MILÝ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010001010" rhyme="1" line_length="10">Ženské pokolení, zda je znáte?</l>
+     <l n="2" met="0100101000" rhyme="1" line_length="10">Mě podvedlo žen už padesáte;</l>
+     <l n="3" met="1010101010" rhyme="2" line_length="10">v každé, v každé byla duše černá,</l>
+     <l n="4" met="1010101010" rhyme="2" line_length="10">první po půl stu však byla věrná!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010101010" rhyme="3" line_length="10">Chvála bohu, aspoň jedna milá,</l>
+     <l n="6" met="1010101010" rhyme="3" line_length="10">aspoň jedna ze všech hodná byla,</l>
+     <l n="7" met="1010101010" rhyme="4" line_length="10">aspoň jednu tedy, chvála bohu,</l>
+     <l n="8" met="1010101010" rhyme="4" line_length="10">aspoň jednu ze všech podvést mohu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

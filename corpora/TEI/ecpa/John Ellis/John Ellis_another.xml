@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Another.</title>
+    <author>John Ellis</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>John Ellis_another</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Eighteenth Century Poetry Archive</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Another.</title>
+     <author>John Ellis</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Another.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="quatrain">
+     <l n="1" met="-+|--+|--+|--+|-" line_length="12">SUE venal Belinda to grant you the blessing</l>
+     <l n="2" met="-+|--+|--+|--+|-" line_length="12">As Jove courted Danae, or vain's your addressing;</l>
+     <l n="3" met="-+|--+|--+|--+|-" line_length="12">For love, she asserts, all that's generous inspires,</l>
+     <l n="4" met="-+|--+|--+|--+|-" line_length="12">And therefore rich tokens of love she requires.</l>
+    </lg>
+    <lg n="2" stanza_type="quatrain">
+     <l n="5" met="-+|--+|--+|--+|-" line_length="12">Such suitors as nothing but ardours are boasting,</l>
+     <l n="6" met="-+|--+|--+|--+|-" line_length="12">Will ne'er reach Elysium, but ever be coasting,</l>
+     <l n="7" met="-+|--+|--+|--+|-" line_length="12">Like pennyless ghosts deny'd passage by Charon,</l>
+     <l n="8" met="-+|--+|--+|--+|-" line_length="12">They'll find, without fee, unrelenting the .</l>
+    </lg>
+    <lg n="3" stanza_type="quatrain">
+     <l n="9" met="-+|--+|--+|--+|-" line_length="12">But give me the nymph not ungrateful to wooing,</l>
+     <l n="10" met="-+|--+|--+|--+|-" line_length="12">Who love pays with love, and caresses with cooing,</l>
+     <l n="11" met="-+|--+|--+|--+|-" line_length="12">By whom a true heart is accepted as sterling,</l>
+     <l n="12" met="-+|--+|--+|--+|-" line_length="12">And Cupid alone makes her lover her darling.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LOGIQUE</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_logique</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LOGIQUE</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LOGIQUE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6">QUAND même tu dirais</l>
+     <l n="2" rhyme="a" line_length="6">Que tu me trahirais</l>
+     <l n="3" rhyme="b" line_length="6">Si c’était ton caprice,</l>
+     <l n="4" rhyme="c" line_length="6">Qu’est-ce que me ferait</l>
+     <l n="5" rhyme="c" line_length="6">Ce terrible secret</l>
+     <l n="6" rhyme="b" line_length="6">Si c’était mon caprice ?</l>
+    </lg>
+    <lg n="2">
+     <l n="7" rhyme="a" line_length="6">De quand même t’aimer,</l>
+     <l n="8" rhyme="a" line_length="6">– Dusses-tu le blâmer,</l>
+     <l n="9" rhyme="b" line_length="6">Ou plaindre mon caprice,</l>
+     <l n="10" rhyme="c" line_length="6">D’être si bien à toi</l>
+     <l n="11" rhyme="c" line_length="6">Qu’il ne m’est dieu ni roi</l>
+     <l n="12" rhyme="b" line_length="6">Ni rien que ton caprice ?</l>
+    </lg>
+    <lg n="3">
+     <l n="13" rhyme="a" line_length="6">Quand tu me trahirais,</l>
+     <l n="14" rhyme="a" line_length="6">Eh bien donc, j’en mourrais</l>
+     <l n="15" rhyme="b" line_length="6">Adorant ton caprice ;</l>
+     <l n="16" rhyme="c" line_length="6">Alors que me ferait</l>
+     <l n="17" rhyme="c" line_length="6">Un malheur qui serait</l>
+     <l n="18" rhyme="b" line_length="6">Conforme à mon caprice ?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

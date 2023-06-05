@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Alonso de Castillo y Solorzano</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alonso de Castillo y Solorzano_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Alonso de Castillo y Solorzano</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+-+-+-">Siete veces IGNACIO vio el Aurora</l>
+     <l n="2" met="-+---+---+-">en éxtasis divino arrebatado,</l>
+     <l n="3" met="+-+-++-+-+-">siete veces le mira el sol dorado,</l>
+     <l n="4" met="-++--+-+-+-">y ve que él de justicia le enamora.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+-+-+-">Siete veces Faetón estrellas dora</l>
+     <l n="6" met="----+-+--+-">mientras con Dios IGNACIO está elevado,</l>
+     <l n="7" met="-+-+-+-+++-">siete veces Diana luz ha dado,</l>
+     <l n="8" met="+-+--+---+-">y él en tanto su dicha se mejora.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-+++-+-">¡O celestial varón, qué bien supiste</l>
+     <l n="10" met="--+--+---+-">escoger la mansión a que aspiraste,</l>
+     <l n="11" met="---+-++-+-+-">desde que al mundo infiel d emano diste!</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+-+++-">Con Dios suma deidad, deidad te hallaste</l>
+     <l n="13" met="--+--++-++-">y a su excelsa virtud tanto te uniste,</l>
+     <l n="14" met="-----+---+-">cuando mortalidades despreciaste.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

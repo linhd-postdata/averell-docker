@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La muerte del tirano</title>
+    <author>Vicente Riba Palacio</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vicente Riba Palacio_la-muerte-del-tirano</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La muerte del tirano</title>
+     <author>Vicente Riba Palacio</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La muerte del tirano</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+---+-">Herido está de muerte, vacilante</l>
+     <l n="2" met="---+-+-+-+-">y con el paso torpe y mal seguro</l>
+     <l n="3" met="-+-+---+-+-">apoyo busca en el cercano muro</l>
+     <l n="4" met="-+---+---+-">pero antes se desploma palpitante.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">El que en rico palacio deslumbrante</l>
+     <l n="6" met="-+-+---+-+-">manchó el ambiente con su aliento impuro,</l>
+     <l n="7" met="-+-+---+-+-">de ajeno hogar en el recinto oscuro</l>
+     <l n="8" met="-+---++--+-">la negra eternidad mira delante.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">Se extiende sin calor la corrompida</l>
+     <l n="10" met="-+-+---+-+-">y negra sangre que en seno vierte</l>
+     <l n="11" met="--+--+-+-+-">de sus cárdenos labios la ancha herida,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">y el mundo dice al contemplar inerte:</l>
+     <l n="13" met="-+---++--+-">«Escarnio a la virtud era su vida:</l>
+     <l n="14" met="-+---+-+-+-">vindicta del derecho fue su muerte».</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JARNÍ.</title>
+    <author>Květ, Bohuslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Květ, Bohuslav_jarni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JARNÍ.</title>
+     <author>Květ, Bohuslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JARNÍ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010100" line_length="10">Zas jaro... Duše křídla rozpíná</l>
+     <l n="2" met="010001010" rhyme="1" line_length="9">a se skřivanem vzletět touží,</l>
+     <l n="3" met="1101000100" line_length="10">sníh stírá měkce se svých perutí</l>
+     <l n="4" met="000101010" rhyme="1" line_length="9">a s ním vše, co nás v zimě souží.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010001" line_length="10">Zas cítím růsti konvalinek běl</l>
+     <l n="6" met="010100010" rhyme="2" line_length="9">a dýchám opojnou jich vůni,</l>
+     <l n="7" met="1101010100" line_length="10">zří na mne z travin skromnost fialek</l>
+     <l n="8" met="100101010" rhyme="2" line_length="9">tajemným modrem horských tůní...</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101010100" line_length="10">Tu náhle tušíš dávnou minulost,</l>
+     <l n="10" met="010001010" rhyme="3" line_length="9">jak láká tě zpět v klamy mládí,</l>
+     <l n="11" met="0101010001" line_length="10">a děti, kterým šediví juž vlas,</l>
+     <l n="12" met="010001010" rhyme="3" line_length="9">si s illusí zas hrají rády...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

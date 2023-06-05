@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vrány.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_vrany</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vrány.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vrány.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" rhyme="1" line_length="9">Je smutno v horách zimní doby</l>
+     <l n="2" met="01010101" rhyme="2" line_length="8">a není cest a není drah,</l>
+     <l n="3" met="010101010" rhyme="1" line_length="9">a jako velké, bílé hroby</l>
+     <l n="4" met="01010100" rhyme="2" line_length="8">jsou nízké střechy na chatách.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010001010" rhyme="3" line_length="9">Jak vymřelé jsou všecky strany,</l>
+     <l n="6" met="01010001" rhyme="4" line_length="8">a stále zamračen je den,</l>
+     <l n="7" met="010101010" rhyme="3" line_length="9">a z pláně tíhnou lačné vrány</l>
+     <l n="8" met="11000100" rhyme="4" line_length="8">v les za srnem, jenž postřelen.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101010" rhyme="5" line_length="9">On zrádně raněn oči klopě</l>
+     <l n="10" met="11010101" rhyme="6" line_length="8">mře někde v houští temných dřev,</l>
+     <l n="11" met="110101010" rhyme="5" line_length="9">vran mladší třebou v sněhu stopě</l>
+     <l n="12" met="01010101" rhyme="6" line_length="8">a starší v boku stydlou krev.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="110001010" rhyme="7" line_length="9">Smrt horalova druhdy stejna</l>
+     <l n="14" met="01001101" rhyme="8" line_length="8">je se srnčí: kol sníh a led,</l>
+     <l n="15" met="010100010" rhyme="7" line_length="9">a nad ním krvelačná hejna</l>
+     <l n="16" met="01010101" rhyme="8" line_length="8">těch starých i těch mladých běd.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

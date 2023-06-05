@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nechoď!</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_nechod</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nechoď!</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nechoď!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010100" rhyme="1" line_length="8">Žij sobě a svým milým jen,</l>
+     <l n="2" met="10010100" rhyme="1" line_length="8">a když tě touha vábí ven,</l>
+     <l n="3" met="010" line_length="3">ty nechoď!</l>
+     <l n="4" met="01000101" rhyme="2" line_length="8">Co zlata jest, co slávy zář?</l>
+     <l n="5" met="01010101" rhyme="2" line_length="8">Radš k dítku viň se tváří v tvář</l>
+     <l n="6" met="010" line_length="3">a nechoď!</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="01010001" rhyme="3" line_length="8">Jeť sláva sirena, to věz,</l>
+     <l n="8" met="01000100" rhyme="3" line_length="8">svou duši bys jí v oběť nes’,</l>
+     <l n="9" met="110" line_length="3">ó nechoď!</l>
+     <l n="10" met="01000101" rhyme="4" line_length="8">Je bludička to, stín jen, lež,</l>
+     <l n="11" met="01000100" rhyme="4" line_length="8">a stíháš-li ji, zahyneš,</l>
+     <l n="12" met="110" line_length="3">ó nechoď!</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="11010010" rhyme="5" line_length="8">Jdeš nadšen za ní sem a tam,</l>
+     <l n="14" met="01010101" rhyme="5" line_length="8">leč poznáš záhy, že to klam,</l>
+     <l n="15" met="110" line_length="3">ó nechoď!</l>
+     <l n="16" met="00110101" rhyme="6" line_length="8">Jen ten má duše mír a klid,</l>
+     <l n="17" met="01010101" rhyme="6" line_length="8">jenž duši dává za svůj lid,</l>
+     <l n="18" met="10010" line_length="5">za jiným nechoď!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

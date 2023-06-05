@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Imitación de Lamartine</title>
+    <author>Juan Valera</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Valera_imitacion-de-lamartine</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Imitación de Lamartine</title>
+     <author>Juan Valera</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Imitación de Lamartine</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+---+-+-">Cuando los años con veloz carrera</l>
+     <l n="2" met="--+--+---+-">arrebaten la flor de tu hermosura,</l>
+     <l n="3" met="-+---+---+-">y en lágrimas bañados de amargura</l>
+     <l n="4" met="-+-+---+-+-">tus ojos lloren tu beldad primera,</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">no en el cristal tu imagen lisonjera</l>
+     <l n="6" met="+--+---+-+-">busques entonces con falaz locura,</l>
+     <l n="7" met="---+---+-+-">ni del arroyo en la corriente pura</l>
+     <l n="8" met="-+---+---+-">que blanda fertiliza la pradera;</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+---+-+-">sino en mi pecho, donde eternas viven</l>
+     <l n="10" met="--+--+---+-">mi ternura y mi fe; de tu belleza</l>
+     <l n="11" met="---+---+-+-">bajo el abrigo de mi amor florece;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+---+-+-">de tus recuerdos sin cesar reviven;</l>
+     <l n="13" met="---+---+-+-">de tu virtud y virginal pureza</l>
+     <l n="14" met="+-++---+-+-">tienen un templo que jamás fenece.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

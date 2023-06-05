@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NOVINA Z PRAHY</title>
+    <author>Havlíček Borovský, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Havlíček Borovský, Karel_novina-z-prahy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NOVINA Z PRAHY</title>
+     <author>Havlíček Borovský, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NOVINA Z PRAHY</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010001" rhyme="1" line_length="9">Na nábřeží podívat se běž,</l>
+     <l n="2" met="100010101" rhyme="1" line_length="9">gotická se na něm staví věž.</l>
+     <l n="3" met="1000101010" rhyme="2" line_length="10">Okolo ní českých krajů chlouba,</l>
+     <l n="4" met="01001010" rhyme="2" line_length="8">a ve věži bude – trouba.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

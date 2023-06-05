@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L'été</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_l-ete</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L'été</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L'été</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Il brille, le sauvage Été,</l>
+     <l n="2" rhyme="b" line_length="8">La poitrine pleine de roses.</l>
+     <l n="3" rhyme="b" line_length="8">Il brûle tout, hommes et choses,</l>
+     <l n="4" rhyme="a" line_length="8">Dans sa placide cruauté.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Il met le désir effronté</l>
+     <l n="6" rhyme="b" line_length="8">Sur les jeunes lèvres décloses ;</l>
+     <l n="7" rhyme="a" line_length="8">Il brille, le sauvage Été,</l>
+     <l n="8" rhyme="b" line_length="8">La poitrine pleine de roses.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Roi superbe, il plane irrité</l>
+     <l n="10" rhyme="b" line_length="8">Dans des splendeurs d'apothéoses</l>
+     <l n="11" rhyme="b" line_length="8">Sur les horizons grandioses ;</l>
+     <l n="12" rhyme="a" line_length="8">Fauve dans la blanche clarté,</l>
+     <l n="13" rhyme="a" line_length="8">Il brille, le sauvage Été.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

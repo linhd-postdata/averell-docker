@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mlhy podjeseně.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_mlhy-podjesene</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mlhy podjeseně.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mlhy podjeseně.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" rhyme="1" line_length="8">Podjeseně mlhy chladné</l>
+     <l n="2" met="1000101" rhyme="2" line_length="7">ovily mi skráň i hruď,</l>
+     <l n="3" met="00101010" rhyme="1" line_length="8">co dřív kvetlo, chřadne, vadne –</l>
+     <l n="4" met="1010100" rhyme="2" line_length="7">blaho, štěstí s Bohem buď!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00101000" rhyme="3" line_length="8">Už vás srdce nenalezne,</l>
+     <l n="6" met="0010100" rhyme="4" line_length="7">už vás marně volám zpět,</l>
+     <l n="7" met="10001010" rhyme="3" line_length="8">před očima hory mezné,</l>
+     <l n="8" met="1010101" rhyme="4" line_length="7">za mnou, cizí – prázdný svět!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

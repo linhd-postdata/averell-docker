@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Rozmarina.</title>
+    <author>Burgerstein, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Burgerstein, Josef_rozmarina</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Rozmarina.</title>
+     <author>Burgerstein, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Rozmarina.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101000" rhyme="1" line_length="8">Když jsem ondy na okýnku</l>
+     <l n="2" met="10001000" rhyme="1" line_length="8">Dívky mé zhled’ rozmarinku,</l>
+     <l n="3" met="1000101" rhyme="2" line_length="7">Chtěl jsem se již s plesem ptát:</l>
+     <l n="4" met="1010101" rhyme="2" line_length="7">Má-li k naší svatbě zvát?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001000" rhyme="3" line_length="8">Napadl mi mládeneček,</l>
+     <l n="6" met="001010" rhyme="4" line_length="6">Že, když v rakvi leží,</l>
+     <l n="7" met="10101000" rhyme="3" line_length="8">Povždy v ruce růženeček</l>
+     <l n="8" met="100010" rhyme="4" line_length="6">S rozmarinou střeží.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" rhyme="5" line_length="8">Jedno kvítí k svatbě, k hrobu? –</l>
+     <l n="10" met="1001100" rhyme="6" line_length="7">Dívčino, ach dělme se!</l>
+     <l n="11" met="10001010" rhyme="5" line_length="8">Ruka tvá je v blahou dobu,</l>
+     <l n="12" met="1010100" rhyme="6" line_length="7">Má pak v rakvi ponese.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

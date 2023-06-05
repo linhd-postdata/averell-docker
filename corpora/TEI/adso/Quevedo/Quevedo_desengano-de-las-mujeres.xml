@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Desengaño de las mujeres </title>
+    <author>Quevedo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quevedo_desengano-de-las-mujeres</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Desengaño de las mujeres </title>
+     <author>Quevedo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Desengaño de las mujeres </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+---+-+-">Puto es el hombre que de putas fía,</l>
+     <l n="2" met="-+---+---+-">y puto el que sus gustos apetece;</l>
+     <l n="3" met="++---+---+-">puto es el estipendio que se ofrece</l>
+     <l n="4" met="-+---+---+-">en pago de su puta compañía.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++-+-+---+-">Puto es el gusto, y puta la alegría</l>
+     <l n="6" met="-+---+---+-">que el rato putaril nos encarece;</l>
+     <l n="7" met="-+-+++---+-">y yo diré que es puto a quien parece</l>
+     <l n="8" met="-+++-+-+-+-">que no sois puta vos, señora mía.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">Mas llámenme a mi puto enamorado,</l>
+     <l n="10" met="-+---+-+-+-">si al cabo para puta no os dejare;</l>
+     <l n="11" met="---+-+-+-+-">y como puto muera yo quemado,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">si de otras tales putas me pagare;</l>
+     <l n="13" met="---+-+-+-+-">porque las putas graves son costosas,</l>
+     <l n="14" met="---+-+---+-">y las putillas viles, afrentosas.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

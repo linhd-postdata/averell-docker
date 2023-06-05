@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ÉCRIT EN VOYAGE</title>
+    <author>Auguste Brizeux</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Auguste Brizeux_ecrit-en-voyage</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ÉCRIT EN VOYAGE</title>
+     <author>Auguste Brizeux</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ÉCRIT EN VOYAGE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">À toi, riant Létâ, mes amours sont restés,</l>
+     <l n="2" rhyme="a" line_length="6+6">Mais je vais voir le monde en ses variétés.</l>
+     <l n="3" rhyme="b" line_length="6+6">La sagesse m'a dit, cette muse que j'aime :</l>
+     <l n="4" rhyme="b" line_length="6+6">" Barde, n'excluez rien du monde et de vous-même !</l>
+     <l n="5" rhyme="a" line_length="6+6">Il est sage, celui qui, dans de saints transports,</l>
+     <l n="6" rhyme="a" line_length="6+6">Fait vibrer chaque idée avec tous ses accords ;</l>
+     <l n="7" rhyme="b" line_length="6+6">Ainsi qu'aux anciens jours la lyre à triple corde</l>
+     <l n="8" rhyme="b" line_length="6+6">Vibre comme un seul chant sous la main qui l'accorde,</l>
+     <l n="9" rhyme="a" line_length="6+6">Ainsi les chants du barde, ensemble harmonieux,</l>
+     <l n="10" rhyme="a" line_length="6+6">Comme une seule voix vont de la terre aux cieux. "</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>OUVERTURA.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_ouvertura</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>OUVERTURA.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>OUVERTURA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010100010" rhyme="1" line_length="9">Ta stará komedie Máje</l>
+     <l n="2" met="10010101" rhyme="2" line_length="8">začíná: Kvítí, písně, jas!</l>
+     <l n="3" met="001001000" rhyme="1" line_length="9">Jak vždy výborně sehraná je</l>
+     <l n="4" met="01001100" rhyme="2" line_length="8">a podmaní sta duší zas.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010001010" rhyme="3" line_length="9">Však zrovna to s ní jako s láskou,</l>
+     <l n="6" met="01010101" rhyme="4" line_length="8">to známá hra a stará lež,</l>
+     <l n="7" met="110101010" rhyme="3" line_length="9">hruď bolem zryta, čelo vráskou –</l>
+     <l n="8" met="01010100" rhyme="4" line_length="8">Co platno? Přijde – Podlehneš!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

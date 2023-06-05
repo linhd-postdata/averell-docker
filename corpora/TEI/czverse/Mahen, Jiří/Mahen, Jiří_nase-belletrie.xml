@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NAŠE BELLETRIE.</title>
+    <author>Mahen, Jiří</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mahen, Jiří_nase-belletrie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NAŠE BELLETRIE.</title>
+     <author>Mahen, Jiří</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NAŠE BELLETRIE.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" line_length="8">Naše česká belletrie –</l>
+     <l n="2" met="1010100" rhyme="1" line_length="7">achich, jak to dohrála!</l>
+     <l n="3" met="00101010" line_length="8">Kdo nám píše dneska román?</l>
+     <l n="4" met="1010100" rhyme="1" line_length="7">Samá ženská bezmála!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10000010" line_length="8">Do sukní jak si ho strojí</l>
+     <l n="6" met="1010100" rhyme="2" line_length="7">a jak babsky fintí ho,</l>
+     <l n="7" met="10001010" line_length="8">ale což pak není Román</l>
+     <l n="8" met="0010100" rhyme="2" line_length="7">už snad rodu samčího?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001010" line_length="8">Zastavte ho, lidé dobří,</l>
+     <l n="10" met="0000100" rhyme="3" line_length="7">vždyť je to přec pantáta!</l>
+     <l n="11" met="10101000" line_length="8">Ježíš-marjá – svlékněte ho</l>
+     <l n="12" met="0100100" rhyme="3" line_length="7">a dejte mu gaťata!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

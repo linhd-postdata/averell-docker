@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Dios</title>
+    <author>Rafael María Baralt</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Rafael María Baralt_a-dios</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Dios</title>
+     <author>Rafael María Baralt</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Dios</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">Cielos, orbes y abismos reverentes</l>
+     <l n="2" met="+--+-+---+-">narran tu gloria, ¡oh Dios!, y tu grandeza;</l>
+     <l n="3" met="--+--+---+-">y ante el sol inmortal de tu belleza</l>
+     <l n="4" met="+--+---+-+-">postran los santos las radiosas frentes.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+---+-">Materia y forma, especies y vivientes</l>
+     <l n="6" met="-+-+-+---+-">sacaste a luz con próvida largueza;</l>
+     <l n="7" met="-+---+---+-">y bebe, sin cesar, naturaleza</l>
+     <l n="8" met="-+-+---+-+-">copiosa vida en tus eternas fuentes.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+-+-+-">Diste al hombre tu imagen, y un destello</l>
+     <l n="10" met="+--+---+-+-">es su razón de tu razón sublime,</l>
+     <l n="11" met="---+-+-+-+-">con que pusiste al gran prodigio el sello;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+++---+-">pues sólo aquel es digno de adorarte</l>
+     <l n="13" met="-+-+---+-+-">que en libre estadio el pensamiento esgrime,</l>
+     <l n="14" met="-+-+---+-+-">y libre puedo, aunque en error, negarte.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

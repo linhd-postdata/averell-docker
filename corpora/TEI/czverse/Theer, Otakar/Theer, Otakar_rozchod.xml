@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ROZCHOD</title>
+    <author>Theer, Otakar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Theer, Otakar_rozchod</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ROZCHOD</title>
+     <author>Theer, Otakar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ROZCHOD</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1101001001000" rhyme="1" line_length="13">Šly s nyvým úsměvem, úsměvem žalující,</l>
+     <l n="2" met="1101001101000" rhyme="1" line_length="13">šly v řízách stříbrných, šly tiše při měsíci,</l>
+     <l n="3" met="1001010101010" rhyme="1" line_length="13">na rukou démant plál a slza v bledé líci.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="0101001101010" rhyme="2" line_length="13">Kdos mluvil o lásce, muk, snů a touhy plné,</l>
+     <l n="5" met="1101000101010" rhyme="2" line_length="13">hlas jeho zněl jak ten, jenž pláče, sténá, klne,</l>
+     <l n="6" met="0101010101000" rhyme="2" line_length="13">a tiše snášel v svit se řeky stříbrovlné.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="0101000101000" rhyme="3" line_length="13">Však ony, aniž víc se nazpět ohlédnuly,</l>
+     <l n="8" met="0101011100010" rhyme="3" line_length="13">dál byly krok co krok, čís odváděny vůlí,</l>
+     <l n="9" met="0101010101010" rhyme="3" line_length="13">jen vanem zřejmy rouch, jež v náhlém větru duly.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

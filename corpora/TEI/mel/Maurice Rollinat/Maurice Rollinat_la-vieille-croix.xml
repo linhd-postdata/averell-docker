@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LA VIEILLE CROIX</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_la-vieille-croix</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LA VIEILLE CROIX</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LA VIEILLE CROIX</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Au bas de la route inclinée,</l>
+     <l n="2" rhyme="b" line_length="8">Où se croisent quatre chemins,</l>
+     <l n="3" rhyme="b" line_length="8">Comme un grand fantôme sans mains</l>
+     <l n="4" rhyme="a" line_length="8">Se dresse une croix surannée.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Mais la farouche abandonnée</l>
+     <l n="6" rhyme="b" line_length="8">Brave encor bien des lendemains,</l>
+     <l n="7" rhyme="a" line_length="8">Au bas de la route inclinée</l>
+     <l n="8" rhyme="b" line_length="8">Où se croisent quatre chemins.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Et la croix manchote et minée,</l>
+     <l n="10" rhyme="b" line_length="8">De l'âge des vieux parchemins,</l>
+     <l n="11" rhyme="b" line_length="8">Épouvante les yeux humains</l>
+     <l n="12" rhyme="a" line_length="8">Comme une potence damnée,</l>
+     <l n="13" rhyme="a" line_length="8">Au bas de la route inclinée.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CHANSON A BOIRE</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_chanson-a-boire</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CHANSON A BOIRE</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CHANSON A BOIRE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">A Bacchus, biberon insigne,</l>
+     <l n="2" rhyme="b" line_length="8">Crions : «Masse !» et chantons en chœur :</l>
+     <l n="3" rhyme="a" line_length="8">Vive le pur sang de la vigne</l>
+     <l n="4" rhyme="a" line_length="8">Qui sort des grappes qu'on trépigne !</l>
+     <l n="5" rhyme="b" line_length="8">Vive ce rubis en liqueur !</l>
+    </lg>
+    <lg n="2">
+     <l n="6" rhyme="a" line_length="8">Nous autres prêtres de la treille,</l>
+     <l n="7" rhyme="b" line_length="8">Du vin nous portons les couleurs.</l>
+     <l n="8" rhyme="a" line_length="8">Notre fard est dans la bouteille</l>
+     <l n="9" rhyme="a" line_length="8">Qui nous fait la trogne vermeille</l>
+     <l n="10" rhyme="b" line_length="8">Et sur le nez nous met des fleurs.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" rhyme="a" line_length="8">Honte à qui d'eau claire se mouille</l>
+     <l n="12" rhyme="b" line_length="8">Au lieu de boire du vin frais.</l>
+     <l n="13" rhyme="a" line_length="8">Devant les brocs qu'il s'agenouille !</l>
+     <l n="14" rhyme="a" line_length="8">Ou soit mué d'homme en grenouille</l>
+     <l n="15" rhyme="b" line_length="8">Et barbotte dans les marais !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

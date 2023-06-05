@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Píseň k hvězdám.</title>
+    <author>Marek, Jan Jindřich</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Marek, Jan Jindřich_pisen-k-hvezdam</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Píseň k hvězdám.</title>
+     <author>Marek, Jan Jindřich</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Píseň k hvězdám.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010" line_length="6">Hvězdy tiché, o jak</l>
+     <l n="2" met="0010" rhyme="1" line_length="4">Jste tak krásné,</l>
+     <l n="3" met="100100" line_length="6">Vůkol co tíhnete</l>
+     <l n="4" met="1010" rhyme="1" line_length="4">Luny jasné!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010100" line_length="6">Již ode dávna tam</l>
+     <l n="6" met="1010" rhyme="2" line_length="4">S modré výše</l>
+     <l n="7" met="101010" line_length="6">Zříte na nás lidi</l>
+     <l n="8" met="1010" rhyme="2" line_length="4">Vlídně, tiše.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="001010" line_length="6">Jak se na nás libě</l>
+     <l n="10" met="1000" rhyme="3" line_length="4">Usmíváte,</l>
+     <l n="11" met="010010" line_length="6">Když mateně v modru</l>
+     <l n="12" met="1000" rhyme="3" line_length="4">Bloudíváte!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100100" line_length="6">Bluďte si vezdy jen,</l>
+     <l n="14" met="1010" rhyme="4" line_length="4">Světla krásná! –</l>
+     <l n="15" met="110100" line_length="6">Má mezi vámi je</l>
+     <l n="16" met="1010" rhyme="4" line_length="4">Hvězda jasná.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="010010" line_length="6">K vám, o tiché, mne to</l>
+     <l n="18" met="1010" rhyme="5" line_length="4">Vábně táhne;</l>
+     <l n="19" met="010010" line_length="6">Tam blažený duše</l>
+     <l n="20" met="1100" rhyme="5" line_length="4">Mír dosáhne.</l>
+    </lg>
+    <lg n="6">
+     <l n="21" met="010100" line_length="6">K vám, moje vůdkyně,</l>
+     <l n="22" met="1100" rhyme="6" line_length="4">Duch zalítne;</l>
+     <l n="23" met="001010" line_length="6">Tam mu nový zase</l>
+     <l n="24" met="1100" rhyme="6" line_length="4">Ráj vykvitne.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

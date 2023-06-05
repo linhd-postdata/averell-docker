@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Oči panny.</title>
+    <author>Picek, Václav Jaromír</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Picek, Václav Jaromír_oci-panny</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Oči panny.</title>
+     <author>Picek, Václav Jaromír</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Oči panny.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" line_length="8">Znáte něco krásnějšího,</l>
+     <l n="2" met="001010" rhyme="1" line_length="6">Než jsou oči panny?</l>
+     <l n="3" met="10011000" line_length="8">Projděte svět nejšířejší</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">Na vše čtyry strany.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" line_length="8">V oku děvy slity máte</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">Země, nebe slasti,</l>
+     <l n="7" met="10100100" line_length="8">Hleďte do nich, tam uzříte</l>
+     <l n="8" met="100110" rhyme="2" line_length="6">Najednou dvě vlasti.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" rhyme="1" line_length="8">Hleďte v oči zbožné panny,</l>
+     <l n="10" met="101010" rhyme="3" line_length="6">Srdce musí plesat,</l>
+     <l n="11" met="10001000" line_length="8">Budete co před svátostí</l>
+     <l n="12" met="100110" rhyme="3" line_length="6">K modlitbě chtít klesat.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101000" line_length="8">A což očí políbení!</l>
+     <l n="14" met="100110" rhyme="4" line_length="6">Líbáte dva světy,</l>
+     <l n="15" met="10101010" line_length="8">Jeden časný, druhý věčný;</l>
+     <l n="16" met="101010" rhyme="4" line_length="6">Slité ve dva květy.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XXX. Že bych snad se přecenil,</title>
+    <author>Panýrek, Duchoslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Panýrek, Duchoslav_xxx-ze-bych-snad-se-precenil</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XXX. Že bych snad se přecenil,</title>
+     <author>Panýrek, Duchoslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XXX. Že bych snad se přecenil,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0000100" line_length="7">Že bych snad se přecenil, </l>
+     <l n="2" met="001010" rhyme="1" line_length="6">jsou jen pouhé klamy,</l>
+     <l n="3" met="1000100" line_length="7">dělám já sám na sebe</l>
+     <l n="4" met="101000" rhyme="1" line_length="6">ostré epigramy.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010100" line_length="7">Vtipy dělám na sebe,</l>
+     <l n="6" met="010010" rhyme="2" line_length="6">ne o Pavlech, Petřích –</l>
+     <l n="7" met="0101100" line_length="7">a kdybych znal metriku,</l>
+     <l n="8" met="101000" rhyme="2" line_length="6">psal bych v hexametřích.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

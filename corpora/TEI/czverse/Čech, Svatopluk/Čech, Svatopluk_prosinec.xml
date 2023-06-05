@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Prosinec.</title>
+    <author>Čech, Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čech, Svatopluk_prosinec</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Prosinec.</title>
+     <author>Čech, Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Prosinec.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101" rhyme="1" line_length="6">Prosinec v mrtvý luh</l>
+     <l n="2" met="100101" rhyme="1" line_length="6">nadzemských pěje tuch</l>
+     <l n="3" met="10010" rhyme="2" line_length="5">anjelskou sloku,</l>
+     <l n="4" met="100101" rhyme="3" line_length="6">vánočních září jas</l>
+     <l n="5" met="100101" rhyme="3" line_length="6">na sněžný sype vlas</l>
+     <l n="6" met="10010" rhyme="2" line_length="5">starému roku.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>– Sirotek –</title>
+    <author>Holý, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Holý, Josef_sirotek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>– Sirotek –</title>
+     <author>Holý, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>– Sirotek –</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001001000" rhyme="1" line_length="10">V oboře žežulka zakukala</l>
+     <l n="2" met="10" line_length="2">třikrát,</l>
+     <l n="3" met="100101000" rhyme="1" line_length="9">třikráte na mě zavolala,</l>
+     <l n="4" met="10" line_length="2">třikrát</l>
+     <l n="5" met="01001000" rhyme="1" line_length="8">má hlavinka zaplakala.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="010100" rhyme="2" line_length="6">Když nesli tatíčka,</l>
+     <l n="7" met="100100" rhyme="1" line_length="6">ponejprv plakala,</l>
+     <l n="8" met="100100" rhyme="1" line_length="6">a to s ní zalkala</l>
+     <l n="9" met="100100" rhyme="2" line_length="6">zelená travička.</l>
+    </lg>
+    <lg n="3">
+     <l n="10" met="100010100" rhyme="3" line_length="9">Podruhy, to hruda poslední</l>
+     <l n="11" met="1001001000" rhyme="4" line_length="10">zapadla na truhlu maminčinu,</l>
+     <l n="12" met="10010100" rhyme="3" line_length="8">plakalo dřevo suché s ní.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10010001001" rhyme="5" line_length="11">Potřetí zvonili jí, zvonili jed,</l>
+     <l n="14" met="100010" rhyme="4" line_length="6">zvonili mou vinu.</l>
+    </lg>
+    <lg n="5">
+     <l n="15" met="010001000100" rhyme="5" line_length="12">To srdce mé s ní zaplakalo naposled.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

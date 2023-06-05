@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A San Isidro</title>
+    <author>Juan Córdoba y Campofrío</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Córdoba y Campofrío_a-san-isidro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A San Isidro</title>
+     <author>Juan Córdoba y Campofrío</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A San Isidro</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+-+-+-">Los campos de Madrid, Isidro santo,</l>
+     <l n="2" met="+--+-+-+-+-">labra cantando a Dios humildemente,</l>
+     <l n="3" met="+--+-+-+-+-">tal, que del cielo abriéndose el Oriente,</l>
+     <l n="4" met="+--+---+-+-">Ángeles bajan a entonar su canto.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+-+-+-">Y si la fe causara al cielo espanto,</l>
+     <l n="6" met="--+--+---+-">espantado creyera, que pendiente</l>
+     <l n="7" met="-+++---+-+-">de fe tan grande despachó obediente</l>
+     <l n="8" met="--+--+-+-+-">a sus manos ayuda, gozo al llanto.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---++--+-">Los Ángeles de hoy son labradores</l>
+     <l n="10" met="-+---+-+-+-">del suelo, como Isidro en este día</l>
+     <l n="11" met="--+--+---+-">labrador celestial por atributo.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+---+-+-">Huellen sus plantas celestiales flores,</l>
+     <l n="13" met="-+---+---+-">y triunfe, pues labró con alegría,</l>
+     <l n="14" met="-+-+-+---+-">sembrando aquí sus lágrimas, el fruto.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El regreso</title>
+    <author>E. Rebaque Thuillier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>E. Rebaque Thuillier_el-regreso</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El regreso</title>
+     <author>E. Rebaque Thuillier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El regreso</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+-+-+-">Implorando el perdón de aquel desvío</l>
+     <l n="2" met="-+-+-+-+-+-">que abrió en mi pecho tan profunda herida,</l>
+     <l n="3" met="-+-+-+---+-">volviste a mí, cuitada y abatida</l>
+     <l n="4" met="--+--+---+-">por los males, el mundo y el hastío.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+-+-+-">Tu acento de dolor movió mi pío</l>
+     <l n="6" met="-+---+---+-">espíritu al perdón, y conmovida,</l>
+     <l n="7" met="+--+-+---+-">la honda ansiedad en tu alma contenida</l>
+     <l n="8" met="-+-+---+-+-">vertiste entonces sobre el pecho mío.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-----+-">Y fue rotundo tu arrepentimiento...</l>
+     <l n="10" met="---+---+-+-">Sobre el miraje de ancestral tormento</l>
+     <l n="11" met="--+--+---+-">esparció claridad tu desagravio.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+------+-">Y tu llanto, no obstante su amargura,</l>
+     <l n="13" met="-+-+-+---+-">como un licor de amor y de ventura</l>
+     <l n="14" met="-+-+---+-+-">gustó con loca exaltación mi labio!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Přání.</title>
+    <author>Stašek, Antal</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Stašek, Antal_prani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Přání.</title>
+     <author>Stašek, Antal</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Přání.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Mně někdy chce se králem býť,</l>
+     <l n="2" met="000101010" rhyme="1" line_length="9">ne tím, co s nebe zákon hřímá,</l>
+     <l n="3" met="00010100" line_length="8">ni tím, co s trůnu zlatého</l>
+     <l n="4" met="010100010" rhyme="1" line_length="9">svou berlu nad otroky třímá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">Však králem dívek chtěl bych slouť,</l>
+     <l n="6" met="010101010" rhyme="2" line_length="9">v jich srdci míti mocné říše,</l>
+     <l n="7" met="01010100" line_length="8">a lásky právem panovať,</l>
+     <l n="8" met="010101010" rhyme="2" line_length="9">v jich kruhu prázniť slasti číše.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="00010100" line_length="8">Až pak bych umřel nebožák,</l>
+     <l n="10" met="010001010" rhyme="3" line_length="9">tu napsali by na mém hrobě:</l>
+     <l n="11" met="01010100" line_length="8">„To král byl králů nejlepší,</l>
+     <l n="12" met="010001010" rhyme="3" line_length="9">jenž podobného neměl sobě.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01010101" line_length="8">„Ač krásných říší mocný pán,</l>
+     <l n="14" met="110001010" rhyme="4" line_length="9">daň jedinou jen brával v žití:</l>
+     <l n="15" met="11010100" line_length="8">z úst dívek malin několik,</l>
+     <l n="16" met="010101010" rhyme="4" line_length="9">z jich ruček pohár vína k pití.“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

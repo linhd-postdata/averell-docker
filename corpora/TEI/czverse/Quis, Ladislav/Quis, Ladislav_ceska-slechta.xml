@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Česká šlechta.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_ceska-slechta</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Česká šlechta.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Česká šlechta.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" rhyme="1" line_length="8">Mrzí mne již stálé šplechty,</l>
+     <l n="2" met="00101010" rhyme="1" line_length="8">že prý není české šlechty,</l>
+     <l n="3" met="00101000" rhyme="2" line_length="8">že jsme národ demokratů.</l>
+     <l n="4" met="1010" rhyme="2" line_length="4">U všech katů!</l>
+     <l n="5" met="10100" rhyme="3" line_length="5">Právě naopak!</l>
+     <l n="6" met="1010100" rhyme="3" line_length="7">Každý Čech je šlechtic. – Jak!?</l>
+     <l n="7" met="100" rhyme="3" line_length="3">Inu tak:</l>
+     <l n="8" met="10101010" line_length="8">Všickni Češi mají předky,</l>
+     <l n="9" met="10111" rhyme="3" line_length="5">každý Čech má znak.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

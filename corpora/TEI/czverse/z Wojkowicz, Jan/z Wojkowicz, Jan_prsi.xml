@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PRŠÍ...</title>
+    <author>z Wojkowicz, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>z Wojkowicz, Jan_prsi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PRŠÍ...</title>
+     <author>z Wojkowicz, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PRŠÍ...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="000100100" line_length="9">Je mi tak smutně a malátně,</l>
+     <l n="2" met="011010010" rhyme="1" line_length="9">jak déšť drobně studený padá,</l>
+     <l n="3" met="100100100100" line_length="12">jako by hladit mě znenáhla přestala</l>
+     <l n="4" met="10010010" rhyme="1" line_length="8">ruka, jež hladila ráda...</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="000100100" line_length="9">Je mi tak čisto, tak do pláče,</l>
+     <l n="6" met="011010010" rhyme="2" line_length="9">to sen dávný klavírem zvoní – – –</l>
+     <l n="7" met="010010100100" line_length="12">zas plakal bych po těch ručinkách běloučkých,</l>
+     <l n="8" met="10010010" rhyme="2" line_length="8">jako jsem plakával loni...</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010100100" line_length="9">To bylo taky tak do písní,</l>
+     <l n="10" met="010110010" rhyme="3" line_length="9">kdy puky snů mízení věští –</l>
+     <l n="11" met="010100100100" line_length="12">a smutek po slunci taky tak v něze chřad’</l>
+     <l n="12" met="10010010" rhyme="3" line_length="8">v plačícím, tesklivém dešti...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

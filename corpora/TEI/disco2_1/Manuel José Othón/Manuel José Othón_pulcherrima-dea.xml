@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>«Pulcherrima dea»</title>
+    <author>Manuel José Othón</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel José Othón_pulcherrima-dea</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>«Pulcherrima dea»</title>
+     <author>Manuel José Othón</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>«Pulcherrima dea»</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Del mar de Chipre en la rosada orilla,</l>
+     <l n="2" met="+------+-+-">blonda, a través de transparente bruma,</l>
+     <l n="3" met="--+--+---+-">aparece flotando entre la espuma</l>
+     <l n="4" met="--+--+---+-">de Citeres la virgen sin mancilla.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++---+---+-">Es blanca la color de su mejilla</l>
+     <l n="6" met="---+---+-+-">como del cisne de Estrimón la pluma,</l>
+     <l n="7" met="+--+---+-+-">viste el fulgor de la Belleza suma</l>
+     <l n="8" met="---+---+-+-">y de las Gracias la expresión sencilla.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+----+--+-">Extático el Olimpo adora en ella</l>
+     <l n="10" met="---+--+-">y se siente feliz. De polo a polo</l>
+     <l n="11" met="++-+---+-+-">un himno Pan enamorado entona.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+---+-+-">Toca en la playa la gentil doncella,</l>
+     <l n="13" met="---+---+-+-">y a su palacio de marfil Apolo</l>
+     <l n="14" met="++-+---+-+-">la lleva y ciñe con triunfal corona.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

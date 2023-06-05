@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Muška.</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_muska</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Muška.</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Muška.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" rhyme="1" line_length="6">Na mechovém lůžku</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">komár budí mušku:</l>
+     <l n="3" met="101" rhyme="2" line_length="3">„Honem vstaň,</l>
+     <l n="4" met="100010" rhyme="3" line_length="6">mušky jsou už v kole,</l>
+     <l n="5" met="11010" rhyme="3" line_length="5">pták letí s pole,</l>
+     <l n="6" met="101" rhyme="2" line_length="3">sbírá daň.“</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="101010" rhyme="4" line_length="6">Muška honem vstává,</l>
+     <l n="8" met="101000" rhyme="4" line_length="6">vlasy pročesává,</l>
+     <l n="9" met="101" rhyme="5" line_length="3">spíná pás,</l>
+     <l n="10" met="101010" rhyme="6" line_length="6">aby byla lepá. –</l>
+     <l n="11" met="100010" rhyme="6" line_length="6">Komár zas už klepá:</l>
+     <l n="12" met="101" rhyme="5" line_length="3">„Pojď, je čas!“</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="101010" rhyme="7" line_length="6">A už letí muška,</l>
+     <l n="14" met="101010" rhyme="7" line_length="6">sama krajka, stužka,</l>
+     <l n="15" met="101" rhyme="8" line_length="3">samý květ,</l>
+     <l n="16" met="100010" rhyme="9" line_length="6">sukničku si zdvihla –</l>
+     <l n="17" met="10010" rhyme="9" line_length="5">vzduchem se mihla,</l>
+     <l n="18" met="100" rhyme="8" line_length="3">pták ji sněd’.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

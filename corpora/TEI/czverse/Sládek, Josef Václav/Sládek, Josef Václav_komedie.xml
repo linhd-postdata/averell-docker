@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KOMEDIE.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_komedie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KOMEDIE.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KOMEDIE.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">TRUBKY troubí, buben bije,</l>
+     <l n="2" met="10101000" rhyme="1" line_length="8">večer bude komedie!</l>
+     <l n="3" met="10001000" rhyme="2" line_length="8">na bidlech a na provaze</l>
+     <l n="4" met="10101010" rhyme="2" line_length="8">zrovna, jak to hrajou v Praze.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001000" rhyme="3" line_length="8">S medvědem a vlkodlaky,</l>
+     <l n="6" met="10001010" rhyme="3" line_length="8">s opicemi, hady, draky,</l>
+     <l n="7" met="10001010" rhyme="4" line_length="8">s paňácou a jeho tátou,</l>
+     <l n="8" met="10001010" rhyme="4" line_length="8">s královničkou celou zlatou.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001000" rhyme="5" line_length="8">Takové jste jaktěživi</l>
+     <l n="10" met="10001010" rhyme="5" line_length="8">neviděli u nás divy; –</l>
+     <l n="11" met="10001010" rhyme="6" line_length="8">komediant starý tuhle</l>
+     <l n="12" met="10101010" rhyme="6" line_length="8">všecko má to v jedné truhle!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10001000" rhyme="7" line_length="8">Nesejde mu na diváku, –</l>
+     <l n="14" met="10011000" rhyme="7" line_length="8">každému dá po zlaťáku,</l>
+     <l n="15" met="00101010" rhyme="8" line_length="8">kdo to víko truhly zvedne,</l>
+     <l n="16" met="10001010" rhyme="8" line_length="8">a to vše tam spatří – ve dne.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10001010" rhyme="9" line_length="8">Ale až jen večer bude,</l>
+     <l n="18" met="10001010" rhyme="9" line_length="8">vytáhne to všecko všude!</l>
+     <l n="19" met="10011000" rhyme="10" line_length="8">A kdo se chce podívati,</l>
+     <l n="20" met="10101010" rhyme="10" line_length="8">za vše jenom krejcar platí!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

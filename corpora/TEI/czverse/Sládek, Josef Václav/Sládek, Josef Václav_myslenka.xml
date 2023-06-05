@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MYŠLÉNKA.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_myslenka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MYŠLÉNKA.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MYŠLÉNKA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010" rhyme="1" line_length="4">VLHCE, bílo</l>
+     <l n="2" met="1010" rhyme="2" line_length="4">hvězdné světlo</l>
+     <l n="3" met="1010" rhyme="2" line_length="4">na zem slétlo</l>
+     <l n="4" met="10001010" rhyme="1" line_length="8">v samotě kde poupě snilo,</l>
+     <l n="5" met="10101000" rhyme="2" line_length="8">ale ještě nerozkvetlo.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="0010" rhyme="3" line_length="4">Jak se třese</l>
+     <l n="7" met="1010" rhyme="4" line_length="4">brva zraku,</l>
+     <l n="8" met="1010" rhyme="4" line_length="4">polo v mraku</l>
+     <l n="9" met="10101010" rhyme="3" line_length="8">světlý sen když čela tkne se,</l>
+     <l n="10" met="00111000" rhyme="4" line_length="8">tak se květ chvěl do soumraku.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="1110" line_length="4">Noc šla jasná;</l>
+     <l n="12" met="1010" rhyme="5" line_length="4">lidé spali.</l>
+     <l n="13" met="1010" rhyme="5" line_length="4">Pro ně v dáli</l>
+     <l n="14" met="10101010" line_length="8">světlem nebes, rosou země</l>
+     <l n="15" met="10011000" rhyme="5" line_length="8">rozvil se květ dokonalý.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

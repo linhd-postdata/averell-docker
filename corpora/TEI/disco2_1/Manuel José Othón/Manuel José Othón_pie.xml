@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pie</title>
+    <author>Manuel José Othón</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel José Othón_pie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pie</title>
+     <author>Manuel José Othón</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pie</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---+-">Ancas de rana en son de batahola</l>
+     <l n="2" met="+--++----+-">van del sijú al pulso en la torcaza.</l>
+     <l n="3" met="+-+--+---+-">Cuatro hijos en cruz de calabaza</l>
+     <l n="4" met="--+--+---+-">perfilando la güira cimarrona.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">El caimito dorado, si la loma</l>
+     <l n="6" met="--+----+-+-">empercude de cundiamor su falda.</l>
+     <l n="7" met="--+--+-+-+-">La rabiche midiéndose en el gualda</l>
+     <l n="8" met="--+--+---+-">del conuco sembrado fuera de hora.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-++--+-+-+-">Allá lejos la alzada de un bohío;</l>
+     <l n="10" met="-++--+-+-+-">aquí cerca la sombra de un guajiro</l>
+     <l n="11" met="--+--+---+-">en la rama que esconde el boniato.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+---+-">Y un cebú que padrea a cada rato.</l>
+     <l n="13" met="--+--+---+-">La gallina pujando su postura.</l>
+     <l n="14" met="+-+--+---+-">Una mata con rayo, que perdura.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

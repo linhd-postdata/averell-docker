@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MŮRY.</title>
+    <author>Opolský, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Opolský, Jan_mury</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MŮRY.</title>
+     <author>Opolský, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MŮRY.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100010" rhyme="1" line_length="11">Když vosí báně přestaly se chvěti</l>
+     <l n="2" met="0101000100" rhyme="2" line_length="10">a noční únos jakž takž prozrazen,</l>
+     <l n="3" met="1001110100" rhyme="2" line_length="10">ze žlabů skal lkal vítr vypuzen</l>
+     <l n="4" met="01001100010" rhyme="1" line_length="11">jak pod vodou zpěv pohrobených dětí,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010001010" rhyme="3" line_length="11">když temné pánvi, v níž se stříbro smálo,</l>
+     <l n="6" met="1001010100" rhyme="4" line_length="10">lakomec chystal spánek do hlíny,</l>
+     <l n="7" met="0101010100" rhyme="4" line_length="10">kde bahno hříchem dusíc rostliny</l>
+     <l n="8" met="10000101000" rhyme="3" line_length="11">pod bublinami plynů usínalo,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101010100" rhyme="5" line_length="10">tu jemné můry, o nichž nevíme,</l>
+     <l n="10" met="10010100010" rhyme="6" line_length="11">se znakem smrti vrátily se z honu</l>
+     <l n="11" met="01010101010" rhyme="6" line_length="11">a chtíce usnout v květech svadlých tónů,</l>
+     <l n="12" met="0100100100" rhyme="5" line_length="10">se motaly po hrobech touhy mé.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

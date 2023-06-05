@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>RISPETTI.</title>
+    <author>Frída, Vladimír</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Frída, Vladimír_rispetti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>RISPETTI.</title>
+     <author>Frída, Vladimír</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>RISPETTI.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101" rhyme="1" line_length="8">Mně život přece mnoho dal</l>
+     <l n="2" met="10010101" rhyme="2" line_length="8">a snad též bude mnoho chtít.</l>
+     <l n="3" met="01010101" rhyme="1" line_length="8">Já v mládí jenom radost znal,</l>
+     <l n="4" met="01010101" rhyme="2" line_length="8">já mohl štěstí ve tvář zřít.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101" rhyme="3" line_length="8">Snad bude žádat plody květ...</l>
+     <l n="6" met="11001001" rhyme="3" line_length="8">Ó možno se před žitím chvět?</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="00010101" rhyme="2" line_length="8">„Ne, ne, já volám, dále žít!</l>
+     <l n="8" met="01010101" rhyme="2" line_length="8">Kdo lásku poznal, nechce mřít!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

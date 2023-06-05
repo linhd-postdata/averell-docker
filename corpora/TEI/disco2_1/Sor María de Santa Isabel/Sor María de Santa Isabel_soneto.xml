@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Sor María de Santa Isabel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sor María de Santa Isabel_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Sor María de Santa Isabel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">Cuando borda de perlas el aurora</l>
+     <l n="2" met="-+---+-+-+-">tapices que matizan bellas flores,</l>
+     <l n="3" met="--+--+---+-">en lisonjas retornan los favores</l>
+     <l n="4" met="--+--+---+-">con que las enriquece y enamora.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-++-+-+-+-">Luego la sigue el sol, que a rayos dora</l>
+     <l n="6" met="---+-+---+-">la variedad vistosa de colores,</l>
+     <l n="7" met="---+---+-+-">a quien las aves repitiendo amores</l>
+     <l n="8" met="+-+--+---+-">hacen salva con música sonora.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-++--+-+-+-">Así yo cuando vi la aurora hermosa</l>
+     <l n="10" met="-+---+-+-+-">del sol que desterró la niebla oscura</l>
+     <l n="11" met="+-+--+++-+-">de una ausencia, si ya no sol ni ave</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">racional, la belleza milagrosa</l>
+     <l n="13" met="-+---+-+-+-">venero con verdad sencilla y pura,</l>
+     <l n="14" met="-+-+-+-+-+-">y el premio fue un desdén severo y grave.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

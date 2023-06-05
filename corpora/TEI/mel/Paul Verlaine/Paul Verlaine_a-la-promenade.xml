@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>À la Promenade</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_a-la-promenade</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>À la Promenade</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>À la Promenade</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+6">Le ciel si pâle et les arbres si grêles</l>
+     <l n="2" rhyme="b" line_length="4+6">Semblent sourire à nos costumes clairs</l>
+     <l n="3" rhyme="b" line_length="4+6">Qui vont flottant légers avec des airs</l>
+     <l n="4" rhyme="a" line_length="4+6">De nonchalance et des mouvements d’ailes.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="4+6">Et le vent doux ride l’humble bassin,</l>
+     <l n="6" rhyme="b" line_length="4+6">Et la lueur du soleil qu’atténue</l>
+     <l n="7" rhyme="b" line_length="4+6">L’ombre des bas tilleuls de l’avenue</l>
+     <l n="8" rhyme="a" line_length="4+6">Nous parvient bleue et mourante à dessein.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="4+6">Trompeurs exquis et coquettes charmantes,</l>
+     <l n="10" rhyme="b" line_length="4+6">Cœurs tendres mais affranchis du serment,</l>
+     <l n="11" rhyme="b" line_length="4+6">Nous devisons délicieusement,</l>
+     <l n="12" rhyme="a" line_length="4+6">Et les amants lutinent les amantes</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="4+6">De qui la main imperceptible sait</l>
+     <l n="14" rhyme="b" line_length="4+6">Parfois donner un soufflet qu’on échange</l>
+     <l n="15" rhyme="b" line_length="4+6">Contre un baiser sur l’extrême phalange</l>
+     <l n="16" rhyme="a" line_length="4+6">Du petit doigt, et comme la chose est</l>
+    </lg>
+    <lg n="5">
+     <l n="17" rhyme="a" line_length="4+6">Immensément excessive et farouche,</l>
+     <l n="18" rhyme="b" line_length="4+6">On est puni par un regard très sec,</l>
+     <l n="19" rhyme="b" line_length="4+6">Lequel contraste, au demeurant, avec</l>
+     <l n="20" rhyme="a" line_length="4+6">La moue assez clémente de la bouche.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

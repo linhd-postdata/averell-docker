@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Tobě, mé peklo a mé nebe,</title>
+    <author>Toman, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Toman, Karel_tobe-me-peklo-a-me-nebe</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Tobě, mé peklo a mé nebe,</title>
+     <author>Toman, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Tobě, mé peklo a mé nebe,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101010" rhyme="1" line_length="9">Tobě, mé peklo a mé nebe, </l>
+     <l n="2" met="100101010" rhyme="1" line_length="9">vyzpívat chtěl jsem svět i sebe,</l>
+     <l n="3" met="110101000" rhyme="2" line_length="9">snů zrádnou hru a komedii</l>
+     <l n="4" met="01010101010" rhyme="2" line_length="11">a pudy, které v černých nocech vyjí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101010" rhyme="3" line_length="9">A písně šerem v slzy tály,</l>
+     <l n="6" met="100101010" rhyme="3" line_length="9">na slunci divým rytmem hrály</l>
+     <l n="7" met="010101010" rhyme="4" line_length="9">a ve všech, ve všech věčně hoří</l>
+     <l n="8" met="10011100010" rhyme="4" line_length="11">reflexy dvou hvězd, tancující v moři.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

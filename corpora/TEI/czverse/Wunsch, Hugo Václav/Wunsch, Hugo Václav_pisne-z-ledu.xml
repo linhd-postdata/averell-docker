@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Písně z ledu.</title>
+    <author>Wunsch, Hugo Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Wunsch, Hugo Václav_pisne-z-ledu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Písně z ledu.</title>
+     <author>Wunsch, Hugo Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Písně z ledu.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" line_length="6">Nesluší se dívce,</l>
+     <l n="2" met="010010" rhyme="1" line_length="6">když za muži chodí,</l>
+     <l n="3" met="001000" line_length="6">když se každodenně</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">s jiným pánem vodí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="001010" line_length="6">Však co říci máme,</l>
+     <l n="6" met="001010" rhyme="2" line_length="6">zda to dívčí něha,</l>
+     <l n="7" met="010010" line_length="6">když na ledě děvče</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">za mužskými běhá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010100" line_length="8">Na ledě stojí slečinka,</l>
+     <l n="10" met="1001000" rhyme="3" line_length="7">pohlíží na šviháky,</l>
+     <l n="11" met="01010100" line_length="8">ti kola robí prazvláštní</l>
+     <l n="12" met="0101010" rhyme="3" line_length="7">a jiné kliky-háky.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01010100" line_length="8">Ký div, když na to dívenka</l>
+     <l n="14" met="0101010" rhyme="4" line_length="7">k své matce náhle zvolá:</l>
+     <l n="15" met="11010100" line_length="8">„Ach, mamá, mně se dělají</l>
+     <l n="16" met="0100010" rhyme="4" line_length="7">ňák před očima kola!“</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10001010" line_length="8">„Nepřístojno, Lauro drahá,</l>
+     <l n="18" met="10001000" rhyme="5" line_length="8">objímati Otakara!“</l>
+     <l n="19" met="01001000" line_length="8">tak tetinka v pokojíku</l>
+     <l n="20" met="10100010" rhyme="5" line_length="8">moji sestřenici kárá.</l>
+    </lg>
+    <lg n="6">
+     <l n="21" met="10001010" line_length="8">Na ledě však v náruč chopí</l>
+     <l n="22" met="10101010" rhyme="6" line_length="8">muž ji často cizí zcela:</l>
+     <l n="23" met="10100100" line_length="8">vděčí teta, že zachránil</l>
+     <l n="24" met="10011000" rhyme="6" line_length="8">od pádu jí archanděla.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

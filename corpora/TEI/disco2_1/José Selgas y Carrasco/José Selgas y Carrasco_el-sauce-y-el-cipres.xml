@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El sauce y el ciprés</title>
+    <author>José Selgas y Carrasco</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Selgas y Carrasco_el-sauce-y-el-cipres</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El sauce y el ciprés</title>
+     <author>José Selgas y Carrasco</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El sauce y el ciprés</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+---+-+-">Cuando a las puertas de la noche umbría</l>
+     <l n="2" met="-+-+---+-+-">dejando el prado y la floresta amena,</l>
+     <l n="3" met="-+---+---+-">la tarde melancólica y serena</l>
+     <l n="4" met="---+-+---+-">su misterioso manto recogía,</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">un macilento sauce se mecía</l>
+     <l n="6" met="-+-+---+-+-">por dar alivio a su constante pena</l>
+     <l n="7" met="-++----+-+-">y en voz suave y de suspiros llena,</l>
+     <l n="8" met="-+-+---+-+-">al son del viento murmurar se oía:</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+-+-">-«¡Triste nací!... mas en el mundo moran</l>
+     <l n="10" met="+--+---+-+-">seres felices, que el penoso duelo,</l>
+     <l n="11" met="-+-+---+-+-">y el llanto oculto y la tristeza ignoran.»</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+---+-+-">Dijo, y sus ramas esparció en el suelo.</l>
+     <l n="13" met="-+-----+-+-">-«¡Dichosos, ¡ay!, los que en la tierra lloran!»</l>
+     <l n="14" met="+--+-+-+-+-">le contestó un ciprés, mirando al cielo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

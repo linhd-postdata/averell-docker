@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ariosto.</title>
+    <author>Karas, Josef František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Karas, Josef František_ariosto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ariosto.</title>
+     <author>Karas, Josef František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ariosto.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101010" rhyme="1" line_length="11">Zuřivý Roland. Veršů hlučným tryskem</l>
+     <l n="2" met="0100010101" rhyme="2" line_length="10">jsi oslavoval jeho vzruch i vztek.</l>
+     <l n="3" met="01000101010" rhyme="1" line_length="11">Tvůj Orlando vše drtil ruky stiskem.</l>
+     <l n="4" met="01000100010" rhyme="1" line_length="11">Zalk’ Roland by se ve ovzduší nízkém</l>
+     <l n="5" met="0101000100" rhyme="2" line_length="10">těch našich krtounů i putiček!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

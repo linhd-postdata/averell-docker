@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sonetos -- V</title>
+    <author>Miguel W. Garaycochea</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Miguel W. Garaycochea_sonetos-v</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sonetos -- V</title>
+     <author>Miguel W. Garaycochea</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sonetos -- V</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="--++-+-+-+-">¿Para qué hacer, Adolfo, estudio serio</l>
+     <l n="2" met="--+--+---+-">de natura, sus obras y excelencia,</l>
+     <l n="3" met="-+++-+-+-+-">si todo es un arcano y un misterio</l>
+     <l n="4" met="--+--+---+-">que supera a la humana inteligencia?</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="--+--+---+-">¿Para qué sujetar a nuestro imperio</l>
+     <l n="6" met="--+--+---+-">los principios abstractos de la ciencia</l>
+     <l n="7" met="--+--+---+-">para sólo sacar, con magisterio,</l>
+     <l n="8" met="+-+--+---+-">una oscura o errada consecuencia?</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">¿Para dar solución a los engaños</l>
+     <l n="10" met="+-+---+--+-">de una inútil sofistica disputa</l>
+     <l n="11" met="-+-+---+-+-">con tono seco, retumbante y grave?</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+++----+-+-">Yo veo, Adolfo, que el mortal sus años</l>
+     <l n="13" met="--+--+-+-+-">a Minerva por más que los tributa,</l>
+     <l n="14" met="+-+--+-+-+-">sólo llega a saber que sabe nada.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

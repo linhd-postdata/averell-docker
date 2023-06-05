@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Lili</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_lili</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Lili</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Lili</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">La pauvre petite Lili</l>
+     <l n="2" rhyme="b" line_length="8">Cherche en vain les rêves magiques</l>
+     <l n="3" rhyme="a" line_length="8">Envolés de son front pâli,</l>
+     <l n="4" rhyme="b" line_length="8">Et lève au ciel ses bras tragiques.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Si le frisson du désespoir</l>
+     <l n="6" rhyme="b" line_length="8">S'agite dans sa main crispée</l>
+     <l n="7" rhyme="a" line_length="8">Et fait flamber son grand œil noir,</l>
+     <l n="8" rhyme="b" line_length="8">C'est qu'on a tué sa poupée.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Oui, Petit Paul, un sacripant,</l>
+     <l n="10" rhyme="b" line_length="8">Hier a massacré Zéphyrine</l>
+     <l n="11" rhyme="a" line_length="8">Dont la tête est brisée, et pend</l>
+     <l n="12" rhyme="b" line_length="8">Horriblement sur sa poitrine.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">Elle est froide comme un glaçon ;</l>
+     <l n="14" rhyme="b" line_length="8">Et c'est vainement qu'on le rentre,</l>
+     <l n="15" rhyme="a" line_length="8">Toujours on voit sortir le son</l>
+     <l n="16" rhyme="b" line_length="8">Par la blessure de son ventre.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" rhyme="a" line_length="8">Elle est froide comme un glaçon ;</l>
+     <l n="18" rhyme="b" line_length="8">Et c'est vainement qu'on le rentre,</l>
+     <l n="19" rhyme="a" line_length="8">Toujours on voit sortir le son</l>
+     <l n="20" rhyme="b" line_length="8">Par la blessure de son ventre.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

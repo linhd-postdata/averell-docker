@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El mar</title>
+    <author>Rafael María Baralt</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Rafael María Baralt_el-mar</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El mar</title>
+     <author>Rafael María Baralt</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El mar</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+---+-+-">Te admiro, ¡oh mar!, si la movible arena</l>
+     <l n="2" met="+--+-+---+-">besas rendida al pie de tu muralla,</l>
+     <l n="3" met="--+--+---+-">o si bramas furioso cuando estalla</l>
+     <l n="4" met="-+---+-+-+-">la ronca tempestad que al mundo atruena.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">¡Cuán majestuosa y grande si serena!</l>
+     <l n="6" met="+-+--+---+-">¡Cuán terrible si agitas en batalla,</l>
+     <l n="7" met="-+---+-+-+-">pugnando por romper la eterna valla,</l>
+     <l n="8" met="-+---+---+-">con cólera de esclavo tu cadena!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+---+-">Tienes, mar, como el cielo, tempestades;</l>
+     <l n="10" met="-+---+---+-">de mundos escogidos, prodigiosa</l>
+     <l n="11" met="+--+---+-+-">suma infinita que tu mole oprime.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">Y son tu abismo y vastas soledades,</l>
+     <l n="13" met="--+--+-+-+-">como imagen de Dios, la más grandiosa;</l>
+     <l n="14" met="--+--+-+-+-">como hechura de Dios, la más sublime.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

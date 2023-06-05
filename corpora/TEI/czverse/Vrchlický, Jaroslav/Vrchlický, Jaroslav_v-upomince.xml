@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V upomínce.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_v-upomince</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V upomínce.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V upomínce.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="001010100" rhyme="1" line_length="9">Kam jen hledneš, mrtvé počítáš.</l>
+     <l n="2" met="100010001" rhyme="1" line_length="9">Stárnu tak? se mimovolně ptáš.</l>
+     <l n="3" met="1010101010" rhyme="2" line_length="10">Možná – ale tito mrtví zmládnou</l>
+     <l n="4" met="1010101010" rhyme="3" line_length="10">v novém žití, co ty stárneš zvolna,</l>
+     <l n="5" met="1010001010" rhyme="2" line_length="10">sotva upomínkou rty ti sládnou,</l>
+     <l n="6" met="1100101010" rhyme="3" line_length="10">a i ta jest v jádru bolná – bolná!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

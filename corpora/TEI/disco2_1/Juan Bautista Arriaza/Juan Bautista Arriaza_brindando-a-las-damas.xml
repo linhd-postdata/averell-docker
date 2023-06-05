@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Brindando a las damas</title>
+    <author>Juan Bautista Arriaza</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Bautista Arriaza_brindando-a-las-damas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Brindando a las damas</title>
+     <author>Juan Bautista Arriaza</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Brindando a las damas</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+---+-">Venus Divina, madre de placeres</l>
+     <l n="2" met="+----+---+-">baja de tu mansión afortunada,</l>
+     <l n="3" met="-+-+-+---+-">pues miras esta mesa coronada</l>
+     <l n="4" met="---+-+---+-">de la brillante flor de las mujeres.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">baja gozosa y si dejar sintieres</l>
+     <l n="6" met="-+---+---+-">el coro de quien eres festejada,</l>
+     <l n="7" met="+--+-++--+-">ninfa verás aquí más agraciada</l>
+     <l n="8" met="---+-+---+-">que cuantas te acompañan en Citeres.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-----+---+-">Y si de tu jardín entre las flores</l>
+     <l n="10" met="-+----+-+-">al dejas y al amor dormidos</l>
+     <l n="11" met="++-+---+-+-">no los despiertes, ni su ausencia llores.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-++--+-">Baja, que aquí hallarás nuevos Cupidos</l>
+     <l n="13" met="-+-+-+-+-+-">pues tienen estas damas mil amores</l>
+     <l n="14" met="---+-+---+-">en sus hermosos ojos escondidos.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

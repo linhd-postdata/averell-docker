@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Lorenzo Laso de la Vega y Cerdá</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lorenzo Laso de la Vega y Cerdá_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Lorenzo Laso de la Vega y Cerdá</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-++--+---+-">Dorada isla de Cuba o Fernandina,</l>
+     <l n="2" met="---+-+---+-">de cuyas altas cumbres eminentes</l>
+     <l n="3" met="+----+-+-+-">bajan a los arroyos, ríos y fuentes</l>
+     <l n="4" met="---++--+-+-">el acendrado oro y plata fina.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+---+-">Si el dulce canto y música divina</l>
+     <l n="6" met="-+-+---+-+-">de aquél que vio las infernales gentes,</l>
+     <l n="7" met="-+---++--+-">las penas suspendió tan diferentes</l>
+     <l n="8" met="--+--+---+-">y movió a compasión a Proserpina.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-++--+-">Con cuánta más razón. isla dichosa,</l>
+     <l n="10" met="-+++-+---+-">estáis vos dando al Orbe admiración</l>
+     <l n="11" met="-+-+-+-+-+-">con este nuevo Homero y fértil yedra.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+++-+-+-">Pues su dulzura os hace más famosa</l>
+     <l n="13" met="-+---+---+-">que aquélla a quien la lira de Anfión</l>
+     <l n="14" met="+--+---+-+-">hizo los muros de ladrillo y piedra.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

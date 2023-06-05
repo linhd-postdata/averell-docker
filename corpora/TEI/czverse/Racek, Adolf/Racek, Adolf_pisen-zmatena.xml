@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PÍSEŇ ZMATENÁ.</title>
+    <author>Racek, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Racek, Adolf_pisen-zmatena</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PÍSEŇ ZMATENÁ.</title>
+     <author>Racek, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PÍSEŇ ZMATENÁ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="000101000" line_length="9">Než se všech stromů utrhneme,</l>
+     <l n="2" met="101101" line_length="6">bude noc, bude noc!</l>
+     <l n="3" met="000101000" line_length="9">Než se všech vášní okusíme,</l>
+     <l n="4" met="101101" line_length="6">bude noc, bude noc!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101000" line_length="11">Ne, ani jeden, jeden nevynechme,</l>
+     <l n="6" met="100100" line_length="6">rychle jen, rychle jen!</l>
+     <l n="7" met="10010101000" line_length="11">Lakotni všeho pranic nevynechme,</l>
+     <l n="8" met="100100" line_length="6">rychle jen, rychle jen!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101000" line_length="9">V ty kraje nikdy nepřijdeme,</l>
+     <l n="10" met="100100" line_length="6">nikdy zpět, nikdy zpět!</l>
+     <l n="11" met="10101000" line_length="8">Hodně zásob, nepřijdeme,</l>
+     <l n="12" met="100100" line_length="6">nikdy zpět, nikdy zpět!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="101010010" line_length="9">Cesta nocí nejistá, dlouhá,</l>
+     <l n="14" met="100100" line_length="6">rychle jen, nikdy zpět!</l>
+     <l n="15" met="10101000100" line_length="11">Hodně zásob nachystejme jedenkrát!</l>
+     <l n="16" met="101100" line_length="6">Bude noc. Jedenkrát!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

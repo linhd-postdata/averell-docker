@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Záhon květů.</title>
+    <author>Krásnohorská, Eliška</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Krásnohorská, Eliška_zahon-kvetu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Záhon květů.</title>
+     <author>Krásnohorská, Eliška</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Záhon květů.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010010" rhyme="1" line_length="9">Na záhoně se květy sloní</l>
+     <l n="2" met="10010100" rhyme="2" line_length="8">ve vroucích jitra pohledech;</l>
+     <l n="3" met="010001010" rhyme="1" line_length="9">jak v objetí se k sobě kloní,</l>
+     <l n="4" met="010001010" rhyme="1" line_length="9">a z různobarvých korun roní</l>
+     <l n="5" met="01010100" rhyme="2" line_length="8">se jeden sladký libodech.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="110001010" rhyme="3" line_length="9">Ó svornosti, jež pojíš kvítí,</l>
+     <l n="7" met="01010100" rhyme="4" line_length="8">tys lidských srdcí vládkyně!</l>
+     <l n="8" met="010001010" rhyme="3" line_length="9">jak svorni jsou, kdy slunce svítí –</l>
+     <l n="9" met="010001010" rhyme="3" line_length="9">však zuřivě se rvou a řítí,</l>
+     <l n="10" met="01010100" rhyme="4" line_length="8">kdy zavál větřík mezi ně!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

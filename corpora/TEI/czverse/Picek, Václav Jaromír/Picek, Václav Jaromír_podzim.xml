@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PODZIM.</title>
+    <author>Picek, Václav Jaromír</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Picek, Václav Jaromír_podzim</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PODZIM.</title>
+     <author>Picek, Václav Jaromír</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PODZIM.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101000" rhyme="1" line_length="6">Listí opadává,</l>
+     <l n="2" met="10101010" rhyme="2" line_length="8">Žloutne v borku javor krásný,</l>
+     <l n="3" met="101010" rhyme="1" line_length="6">Ptactvo s bohem dává,</l>
+     <l n="4" met="11001010" rhyme="2" line_length="8">Zpěv umírá v houští hlasný.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100" rhyme="3" line_length="6">Listy jen padejte,</l>
+     <l n="6" met="10100100" rhyme="4" line_length="8">Žloutni javore důvěrný,</l>
+     <l n="7" met="101000" rhyme="3" line_length="6">Zpěvy umírejte,</l>
+     <l n="8" met="01101010" rhyme="4" line_length="8">Mně dal podzim osud černý.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100010" rhyme="5" line_length="6">Javore ty hustý,</l>
+     <l n="10" met="10100010" rhyme="6" line_length="8">Pokud zelený jsi býval,</l>
+     <l n="11" met="101010" rhyme="5" line_length="6">Nebyl svět mi pustý,</l>
+     <l n="12" met="10001010" rhyme="6" line_length="8">Pod tebou jsem s Mínou dlíval.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100110" rhyme="6" line_length="6">Dlíval jsem, ach dlíval</l>
+     <l n="14" met="10100010" rhyme="7" line_length="8">Ve tvém libodechném stínu,</l>
+     <l n="15" met="100010" rhyme="6" line_length="6">Rozkoší jsem zpíval,</l>
+     <l n="16" met="10101010" rhyme="7" line_length="8">V loktech maje ráj svůj – Mínu.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="101010" rhyme="8" line_length="6">Po tom ráji veta!</l>
+     <l n="18" met="10100010" rhyme="7" line_length="8">Poušť je javore v tvém klínu!</l>
+     <l n="19" met="101010" rhyme="8" line_length="6">Mřete slasti světa,</l>
+     <l n="20" met="01101010" rhyme="7" line_length="8">Mně vzal podzim všecko – Mínu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Teskný okamžik.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_teskny-okamzik</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Teskný okamžik.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Teskný okamžik.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010110" rhyme="1" line_length="8">Zas země mládne, ven a ven</l>
+     <l n="2" met="10010010" rhyme="2" line_length="8">šumí to, zvučí a zvoní –</l>
+     <l n="3" met="00010100" rhyme="1" line_length="8">Proč jsem hloub duše rozechvěn?</l>
+     <l n="4" met="00010010" rhyme="2" line_length="8">Vždyť je to všecko jak loni,</l>
+     <l n="5" met="10010010" rhyme="2" line_length="8">jenom má hlava se kloní.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="01010101" rhyme="3" line_length="8">Zas země všecka samý květ,</l>
+     <l n="7" met="10010010" rhyme="4" line_length="8">červený, modrý a bílý,</l>
+     <l n="8" met="10110100" rhyme="3" line_length="8">srdce chce k nebi vyletět,</l>
+     <l n="9" met="10010010" rhyme="4" line_length="8">jásá, – a padá a kvílí, –</l>
+     <l n="10" met="10010010" rhyme="4" line_length="8">umřít by chtělo v tu chvíli.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

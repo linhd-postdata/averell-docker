@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El alma de Cervantes</title>
+    <author>Ricardo del Monte</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ricardo del Monte_el-alma-de-cervantes</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El alma de Cervantes</title>
+     <author>Ricardo del Monte</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El alma de Cervantes</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Luchó con su infortunio; en el combate,</l>
+     <l n="2" met="---+-+-+-+-">como en Lepanto, le vejó la suerte;</l>
+     <l n="3" met="+-+--+-+++-">lo apresó la miseria, y lo halló fuerte</l>
+     <l n="4" met="---+---+-+-">como en Argel, pero faltó el rescate.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+---+-">Lo abandona el amigo y el magnate;</l>
+     <l n="6" met="-+-+---+-+-">la Envidia hiel en sus heridas vierte,</l>
+     <l n="7" met="-+---+---+-">¡y el pobre! «con las ansias de la muerte»,</l>
+     <l n="8" met="+-+--+---+-">ni maldice, ni llora, ni se abate.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+-+---+-">Ve en torno el mundo sordo a su lamento,</l>
+     <l n="10" met="+--+-+---+-">y alma viril, bendice la pobreza,</l>
+     <l n="11" met="+--+-+---+-">«dádiva santa nunca agradecida».</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++-+-+---+-">¡Sí, que ella fue crisol de su pureza</l>
+     <l n="13" met="--+--+---+-">y a su amparo labróse el monumento</l>
+     <l n="14" met="--+--+---+-">que vengó los ultrajes de su vida!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

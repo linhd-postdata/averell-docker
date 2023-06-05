@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VELÍŠSKÉ MELODIE. (1.)</title>
+    <author>Geisslová, Irma</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Geisslová, Irma_velisske-melodie-1</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VELÍŠSKÉ MELODIE. (1.)</title>
+     <author>Geisslová, Irma</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VELÍŠSKÉ MELODIE. (1.)</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010100" line_length="8">Mák vlčí rdí se na poli</l>
+     <l n="2" met="010101010" rhyme="1" line_length="9">jak kapky české krve vroucí,</l>
+     <l n="3" met="01010100" line_length="8">snad srdce pánů z Velíše</l>
+     <l n="4" met="010101010" rhyme="1" line_length="9">tu v bojích haslo, v lásce žhoucí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">Snad všecko dali pro svou vlasť,</l>
+     <l n="6" met="000101010" rhyme="2" line_length="9">co jen kdy lidskou tužbu vzpíná,</l>
+     <l n="7" met="01000001" line_length="8">přec není z nich teď víc než prach,</l>
+     <l n="8" met="010001000" rhyme="2" line_length="9">a ze hradu jich zřícenina.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

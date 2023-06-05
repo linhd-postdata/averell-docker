@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>„Slovanské Listy.“</title>
+    <author>Pokorný, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný, Rudolf_slovanske-listy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>„Slovanské Listy.“</title>
+     <author>Pokorný, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>„Slovanské Listy.“</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Slyš to, světe, v plné kráse,</l>
+     <l n="2" met="00101000" rhyme="1" line_length="8">nám zde kauce ztratila se.</l>
+     <l n="3" met="10001000" rhyme="2" line_length="8">Poctivý ať nálezci ji</l>
+     <l n="4" met="10101000" rhyme="2" line_length="8">u nás brzy odevzdají:</l>
+     <l n="5" met="100010" rhyme="3" line_length="6">za odměnu dáme –</l>
+     <l n="6" met="101000" rhyme="4" line_length="6">slib to jistojistý –</l>
+     <l n="7" met="10000100" line_length="8">„Za svobodu“ a nádavkem</l>
+     <l n="8" met="010010" rhyme="4" line_length="6">též „Slovanské Listy“;</l>
+     <l n="9" met="101010" rhyme="3" line_length="6">obé posud máme.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

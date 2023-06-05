@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>U bez kolečka a Ů s kolečkem.</title>
+    <author>Wenzig, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">2</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Wenzig, Josef_u-bez-kolecka-a-u-s-koleckem</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>U bez kolečka a Ů s kolečkem.</title>
+     <author>Wenzig, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>U bez kolečka a Ů s kolečkem.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10000100" rhyme="1" line_length="8">Bez regimentu nejde to,</l>
+     <l n="2" met="10000001" rhyme="1" line_length="8">Bez regimentů by to šlo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

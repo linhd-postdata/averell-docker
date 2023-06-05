@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VEČERNÍ PÍSEŇ.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_vecerni-pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VEČERNÍ PÍSEŇ.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VEČERNÍ PÍSEŇ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101000" rhyme="1" line_length="10">Za Strahovskou branou kolovrátek</l>
+     <l n="2" met="1000101000" rhyme="2" line_length="10">kvílíval, tou pěkně malovanou,</l>
+     <l n="3" met="1001101010" rhyme="1" line_length="10">ve všední den někdy, vždy však v svátek</l>
+     <l n="4" met="100010" rhyme="2" line_length="6">za Strahovskou branou.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1000101010" rhyme="2" line_length="10">Mládenec tam chodil s pěknou pannou,</l>
+     <l n="6" met="1010101010" rhyme="1" line_length="10">v klidný večer jako v živlu zmatek,</l>
+     <l n="7" met="1010101000" rhyme="2" line_length="10">k sobě tisk tu duši milovanou.</l>
+    </lg>
+    <lg n="3">
+     <l n="8" met="1000101010" rhyme="1" line_length="10">Kolovrátek! – Láska! – Jistě v sňatek</l>
+     <l n="9" met="1010101000" rhyme="2" line_length="10">oba vejdou shodou svrchovanou,</l>
+     <l n="10" met="1000101010" rhyme="1" line_length="10">u paláce bran i u chat vrátek,</l>
+     <l n="11" met="1010010000" rhyme="1" line_length="10">v polích stejně jak u křižovatek</l>
+     <l n="12" met="100010" rhyme="2" line_length="6">za Strahovskou branou.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

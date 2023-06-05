@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Všude ples mě vítá,</title>
+    <author>Furch, Vincenc</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Furch, Vincenc_vsude-ples-me-vita</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Všude ples mě vítá,</title>
+     <author>Furch, Vincenc</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Všude ples mě vítá,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010" rhyme="1" line_length="6">Všude ples mě vítá, </l>
+     <l n="2" met="100010" rhyme="2" line_length="6">Po kvetoucím sadě</l>
+     <l n="3" met="101010" rhyme="1" line_length="6">Oko moje lítá</l>
+     <l n="4" met="101010" rhyme="2" line_length="6">Ode vnady k vnadě:</l>
+     <l n="5" met="100010" rhyme="3" line_length="6">S pějícími ptáky</l>
+     <l n="6" met="101000" rhyme="4" line_length="6">S hory do doliny,</l>
+     <l n="7" met="100010" rhyme="3" line_length="6">S plovoucími mraky</l>
+     <l n="8" met="101000" rhyme="4" line_length="6">Pružně do vyšiny.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

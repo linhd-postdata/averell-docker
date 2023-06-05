@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Zapomeň!</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_zapomen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Zapomeň!</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Zapomeň!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" rhyme="1" line_length="8">Zapomeň! Však ze slz vláhy</l>
+     <l n="2" met="1010101" rhyme="2" line_length="7">marná stkvoucích perel žeň...</l>
+     <l n="3" met="10001010" rhyme="1" line_length="8">vyrvala’s se příliš záhy</l>
+     <l n="4" met="1001100" line_length="7">z duše mé – ó zapomeň!</l>
+     <l n="5" met="100" line_length="3">Zapomeň!</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="10001000" rhyme="3" line_length="8">Zapomeň, že našli jsme se,</l>
+     <l n="7" met="1010101" rhyme="2" line_length="7">zjev můj z duše svojí zpleň,</l>
+     <l n="8" met="10101010" rhyme="3" line_length="8">čas ti klid a štěstí snese,</l>
+     <l n="9" met="1010100" line_length="7">na mé blaho zapomeň!</l>
+     <l n="10" met="100" line_length="3">Zapomeň!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

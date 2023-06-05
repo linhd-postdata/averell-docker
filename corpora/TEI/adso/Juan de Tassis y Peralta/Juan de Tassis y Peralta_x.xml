@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- X - </title>
+    <author>Juan de Tassis y Peralta</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan de Tassis y Peralta_x</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- X - </title>
+     <author>Juan de Tassis y Peralta</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- X - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+----++-">¡Cuán diferente de lo que algún día,</l>
+     <l n="2" met="+-+--++--+-">y aún en parte también bien diferente</l>
+     <l n="3" met="---+-+-+-+-">de lo que el tiempo ya me tiene ausente,</l>
+     <l n="4" met="+-+--+-+-+-">vi correr de Pisuerga el agua fría!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">Que ya trocada la fortuna mía</l>
+     <l n="6" met="-+-+-+-+-+-">en mal mudó este bien, y no consiente</l>
+     <l n="7" met="---+-+---+-">que el corazón declare el accidente</l>
+     <l n="8" met="-++--+---+-">del que hoy muere y también del que vivía.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+-+-">Siga conmigo su costumbre el hado,</l>
+     <l n="10" met="+-+--+---+-">no se alteren las leyes de mudanza,</l>
+     <l n="11" met="+--+---+-+-">muera envidioso el que vivió envidiado;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+-+-+-">busque medios quien medios nunca alcanza</l>
+     <l n="13" met="-+-+-+---+-">porfíe cuánto más desengañado</l>
+     <l n="14" met="-----+---+-">el que se desterró de la esperanza.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

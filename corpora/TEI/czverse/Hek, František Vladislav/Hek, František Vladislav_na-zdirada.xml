@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Na Zdirada.</title>
+    <author>Hek, František Vladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hek, František Vladislav_na-zdirada</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Na Zdirada.</title>
+     <author>Hek, František Vladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Na Zdirada.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101001010" rhyme="1" line_length="11">Jestli Zdirad v poli je, meč ho krásí,</l>
+     <l n="2" met="00101001001" line_length="11">je-li časem v pokoji, uměny ctí;</l>
+     <l n="3" met="00101001010" rhyme="1" line_length="11">čím se koli obírá, jenom vlasti</l>
+     <l n="4" met="10010" line_length="5">prospěti žádá.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

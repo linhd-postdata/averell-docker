@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Diciembre</title>
+    <author>Carlos Mendoza</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Carlos Mendoza_diciembre</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Diciembre</title>
+     <author>Carlos Mendoza</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Diciembre</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+++-++---+-">Es un mes del que hay mucho que decir,</l>
+     <l n="2" met="-+++-++---+-">pues no hay otro tan lleno como él:</l>
+     <l n="3" met="+--+---+-+-">mes delicioso, abominable, cruel,</l>
+     <l n="4" met="+-+---+---+-">muy bueno de llorar y de reír.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">El ricacho se puede divertir</l>
+     <l n="6" met="-+----++-+-">y encuentra que diciembre es todo miel;</l>
+     <l n="7" met="---+--++-+-">pero al pobrete se le antoja hiel,</l>
+     <l n="8" met="-+---+---+-">llegando hasta el extremo su sufrir.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">El premio gordo, el pavo, los turrones,</l>
+     <l n="10" met="-+---+-+-+-">la hartura de los buches ya repletos,</l>
+     <l n="11" met="-+---+---+-">alternan con los agrios lagrimones</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">que vierten mil vivientes esqueletos;</l>
+     <l n="13" met="-+++-----+-">y aquí doy punto a mis lucubraciones</l>
+     <l n="14" met="--+--+----+-">y se acaban el año... y los sonetos.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

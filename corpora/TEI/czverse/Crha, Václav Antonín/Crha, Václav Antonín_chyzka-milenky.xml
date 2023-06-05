@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Chyžka milenky.</title>
+    <author>Crha, Václav Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Crha, Václav Antonín_chyzka-milenky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Chyžka milenky.</title>
+     <author>Crha, Václav Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Chyžka milenky.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110101000" rhyme="1" line_length="9">Viz loďku tamo na jezeru,</l>
+     <l n="2" met="01010100" rhyme="2" line_length="8">ten stežeň skromně vztyčený,</l>
+     <l n="3" met="010100010" rhyme="1" line_length="9">kol plátna, bělící se v šeru – –</l>
+     <l n="4" met="01010100" rhyme="2" line_length="8">a mír je všemu vnořený.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010001000" rhyme="3" line_length="9">To dědina je osamělá,</l>
+     <l n="6" met="11010100" rhyme="4" line_length="8">střed – s vížkou malý kostelík,</l>
+     <l n="7" met="100101010" rhyme="3" line_length="9">pod nímž se věnec chyží bělá, –</l>
+     <l n="8" met="01000100" rhyme="4" line_length="8">vše utěšený krajolík.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101010" rhyme="5" line_length="9">Však jedna chyžka kapli blízká</l>
+     <l n="10" met="01010100" rhyme="6" line_length="8">mi nad vše v světě milená:</l>
+     <l n="11" met="010101010" rhyme="5" line_length="9">tam perlu svoji chová víska,</l>
+     <l n="12" met="01010100" rhyme="6" line_length="8">tam bydlí moje Růžena.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="010101010" rhyme="7" line_length="9">Tam růže rajská v prostřed pláně</l>
+     <l n="14" met="10010100" rhyme="8" line_length="8">neznanou vnadou vykvétá, –</l>
+     <l n="15" met="110101010" rhyme="7" line_length="9">dlí na ní vezdy ruka Páně, – –</l>
+     <l n="16" met="01010100" rhyme="8" line_length="8">tam v lásce duch můj zalétá.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Román žití.</title>
+    <author>Škampa, Alois</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Škampa, Alois_roman-ziti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Román žití.</title>
+     <author>Škampa, Alois</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Román žití.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101000100" rhyme="1" line_length="10">Ten román žiti – jak mi připadá?</l>
+     <l n="2" met="01000101010" rhyme="2" line_length="11">Toť pohádka, jež jedněm srdce blaží,</l>
+     <l n="3" met="0100000100" rhyme="1" line_length="10">a pro jiné zas je v něm záhada,</l>
+     <l n="4" met="01010100010" rhyme="2" line_length="11">již marně dlouho proniknout se snaží!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0100010000" rhyme="3" line_length="10">Jak’s narozen – jsi uchvácen už jím;</l>
+     <l n="6" met="01000100010" rhyme="4" line_length="11">pak pestře v něm tvé osudy se mění,</l>
+     <l n="7" met="0100010001" rhyme="3" line_length="10">a konečně – vše rozplývá se v dým</l>
+     <l n="8" met="01010101000" rhyme="4" line_length="11">a každý najde jiné rozluštění!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0100010100" rhyme="5" line_length="10">Kdos v lásce s ním se potká vítězné,</l>
+     <l n="10" met="0100010100" rhyme="5" line_length="10">kdos u bran zas je slávy nalezne,</l>
+     <l n="11" met="01000100010" rhyme="6" line_length="11">a jiný snad až ve smrti a v hrobě...</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="0101010100" rhyme="7" line_length="10">Ten v přísných shledá věd je hlubině,</l>
+     <l n="13" met="0100010100" rhyme="7" line_length="10">ten ve kláštera svaté tišině,</l>
+     <l n="14" met="01010100010" rhyme="6" line_length="11">a jenom básník – nejčastěji v sobě!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

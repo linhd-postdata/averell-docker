@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El llanto del soltero</title>
+    <author>Pedro Antonio de Alarcón</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pedro Antonio de Alarcón_el-llanto-del-soltero</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El llanto del soltero</title>
+     <author>Pedro Antonio de Alarcón</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El llanto del soltero</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+++--+-+-">Sin ti...¡cuán negra y angustiosa y larga</l>
+     <l n="2" met="-+-+-+-+-+-">pasé la noche toda, amada mía!</l>
+     <l n="3" met="-+++---+-+-">¡Sin ti me encuentra el implacable día;</l>
+     <l n="4" met="-+-+---+-+-">sin ti y en honda soledad amarga!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++---+---+-">Ya el sueño, que mis párpados embarga,</l>
+     <l n="6" met="-+-+---+-+-">sin ti mis pasos hacia el lecho guía;</l>
+     <l n="7" met="--++-+-+-+-">y pues no estás en él, en él querría</l>
+     <l n="8" met="-+-+---+-+-">dejar por siempre del vivir la carga.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---++-+--+-">Pero ¿quién eres tú? ¿Luz postrimera</l>
+     <l n="10" met="+--+-+-+-+-">eres del bien perdido, o vaga sombra</l>
+     <l n="11" met="++-+---+-+-">de un nuevo bien que al porvenir demando?</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++++++---+-">No sé, no sé quién eres. «Compañera»</l>
+     <l n="13" met="++---+--++-">te llama el corazón cuando te nombra,</l>
+     <l n="14" met="--+--++--+-">y las noches sin ti paso llorando.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A una tonta</title>
+    <author>Rafael María Baralt</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Rafael María Baralt_a-una-tonta</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A una tonta</title>
+     <author>Rafael María Baralt</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A una tonta</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-++-+-+-+-">Nadie lo niega, Elisa, y yo el primero,</l>
+     <l n="2" met="-+-+-+-+-+-">si alguno lo negara, lo diría:</l>
+     <l n="3" met="+--+-++--+-">todo en tu cara hermosa es simetría;</l>
+     <l n="4" met="+-+--+-+-+-">cada cual de tus ojos un lucero.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+---+-">Y nada excede en garbo al hechicero</l>
+     <l n="6" met="+--+-+---+-">talle gentil, ni en noble bizarría</l>
+     <l n="7" met="--+--+---+-">la cadera, que al sesgo se desvía</l>
+     <l n="8" met="--+--+-+-+-">y columpia amoroso el pie ligero.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-++-+---+-">Nadie lo niega, hermosa, y quien delira</l>
+     <l n="10" met="-+-+---+-+-">por tu albo seno que al placer provoca:</l>
+     <l n="11" met="--+--++--+-">quien, tu cuello al mirar, tiembla y suspira,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+++-+-+-+-">pero hay dos gracia sen tu linda boca</l>
+     <l n="13" met="-+-+---+-+-">que el mundo sabio, sobre todo admira:</l>
+     <l n="14" met="-+-+---+-+-">tu charla eterna, y tu reír de loca.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Trosky.</title>
+    <author>Mužík, Augustin Eugen</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mužík, Augustin Eugen_trosky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Trosky.</title>
+     <author>Mužík, Augustin Eugen</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Trosky.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" line_length="9">Kde rodný krb můj dříve stával,</l>
+     <l n="2" met="01010100" rhyme="1" line_length="8">tam vítr hvízdá divoce,</l>
+     <l n="3" met="010001010" line_length="9">a bez opory visí v sadu</l>
+     <l n="4" met="10010100" rhyme="1" line_length="8">podzimní, těžké ovoce.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101010" line_length="9">A větry táhnou, smutek roste</l>
+     <l n="6" met="01010100" rhyme="2" line_length="8">v tom starém našem přístřeší,</l>
+     <l n="7" met="010001010" line_length="9">kde za dubovým, velkým stolem</l>
+     <l n="8" met="11010100" rhyme="2" line_length="8">druh druha více netěší.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100101010" line_length="9">Na dlouhých stopkách pozdní růže</l>
+     <l n="10" met="01010100" rhyme="3" line_length="8">jen trpkou voní bolestí,</l>
+     <l n="11" met="110101010" line_length="9">dvůr prázden, jakby skládat mělo</l>
+     <l n="12" met="01000100" rhyme="3" line_length="8">svá břemena tam neštěstí.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="010100010" line_length="9">A nikdo na zapadlém prahu</l>
+     <l n="14" met="01000100" rhyme="4" line_length="8">by volal mne, se nejeví,</l>
+     <l n="15" met="010101010" line_length="9">jen stará pověst v srdci vstává</l>
+     <l n="16" met="01010100" rhyme="4" line_length="8">a plaší z něho úlevy.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="100101010" line_length="9">S pokleslých týčí na zem padá</l>
+     <l n="18" met="01010100" rhyme="5" line_length="8">i réva mdlá a zcuchaná,</l>
+     <l n="19" met="010101010" line_length="9">a prahu pes můj mrtev leží,</l>
+     <l n="20" met="01010100" rhyme="5" line_length="8">jenž zhynul steskem pro pána.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

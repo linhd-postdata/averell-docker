@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Proroctví slepého mládence</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_proroctvi-slepeho-mladence</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Proroctví slepého mládence</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Proroctví slepého mládence</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010010100" rhyme="1" line_length="9">Zde Polák a Prus a Japonec,</l>
+     <l n="2" met="01001000" rhyme="2" line_length="8">tam porůzní protivníci.</l>
+     <l n="3" met="01000100" rhyme="1" line_length="8">Kdo vyhraje to na konec,</l>
+     <l n="4" met="10001010" rhyme="2" line_length="8">prozatím je těžko říci.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101000" rhyme="2" line_length="9">Snad Bílý dům. Snad Japončíci.</l>
+    </lg>
+    <lg n="3">
+     <l n="6" met="100100100" rhyme="1" line_length="9">Něco však předvídat možno přec:</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="010101000" rhyme="2" line_length="9">Ten konec bude nekončící.</l>
+     <l n="8" met="010101000" rhyme="2" line_length="9">A yen i dolar neplatící.</l>
+     <l n="9" met="0100101000" rhyme="2" line_length="10">A z bílých i žlutých bolševíci.</l>
+     <l n="10" met="010100100" rhyme="1" line_length="9">A slunce zrudne jak červonec.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

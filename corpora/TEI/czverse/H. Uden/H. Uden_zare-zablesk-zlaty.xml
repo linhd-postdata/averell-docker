@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Záře záblesk zlatý</title>
+    <author>H. Uden</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>H. Uden_zare-zablesk-zlaty</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Záře záblesk zlatý</title>
+     <author>H. Uden</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Záře záblesk zlatý</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010" rhyme="1" line_length="6">Záře záblesk zlatý </l>
+     <l n="2" met="10001" rhyme="2" line_length="5">do zahrady sjel,</l>
+     <l n="3" met="10100" rhyme="2" line_length="5">sotva doletěl,</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">zlíbal stromu paty,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100010" rhyme="1" line_length="6">spěchavými chvaty</l>
+     <l n="6" met="10001" rhyme="2" line_length="5">po větvích se chvěl,</l>
+     <l n="7" met="10101" rhyme="2" line_length="5">a zas za mrak vjel</l>
+     <l n="8" met="101010" rhyme="1" line_length="6">jako větrem svátý.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="101000" rhyme="3" line_length="6">V sladkém roznícení,</l>
+     <l n="10" met="10100" rhyme="4" line_length="5">v tichém povzdechu</l>
+     <l n="11" met="11100" rhyme="5" line_length="5">strom děl k ořeší:</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="101000" rhyme="3" line_length="6">„Ze všech políbení</l>
+     <l n="13" met="10100" rhyme="4" line_length="5">krátké ve spěchu</l>
+     <l n="14" met="10100" rhyme="5" line_length="5">nejvíc potěší.“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

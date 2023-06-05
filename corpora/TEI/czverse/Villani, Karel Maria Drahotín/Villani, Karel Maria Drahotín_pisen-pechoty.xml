@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Píseň pěchoty.</title>
+    <author>Villani, Karel Maria Drahotín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Villani, Karel Maria Drahotín_pisen-pechoty</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Píseň pěchoty.</title>
+     <author>Villani, Karel Maria Drahotín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Píseň pěchoty.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Zpříma nesu hrdě hlavu,</l>
+     <l n="2" met="1010101" rhyme="2" line_length="7">Nohou pevně šlapu zem,</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">Sloužím vlasti – králi – právu –</l>
+     <l n="4" met="1010100" rhyme="2" line_length="7">Věrnýť syn své vlasti jsem.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="3" line_length="8">V boji v husté řadě stojím,</l>
+     <l n="6" met="1010100" rhyme="2" line_length="7">V seč se ženu s jekotem,</l>
+     <l n="7" met="10101010" rhyme="3" line_length="8">Smrtné lůžko tomu strojím,</l>
+     <l n="8" met="1010100" rhyme="2" line_length="7">Jehož stíhám outokem.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001000" rhyme="4" line_length="8">Ručnici svou nabíjeti,</l>
+     <l n="10" met="1010101" rhyme="5" line_length="7">Bodlo nésti pěší zná,</l>
+     <l n="11" met="10001000" rhyme="4" line_length="8">Do boje se pobízeti,</l>
+     <l n="12" met="1100100" rhyme="5" line_length="7">V čas potřeby nenechá.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

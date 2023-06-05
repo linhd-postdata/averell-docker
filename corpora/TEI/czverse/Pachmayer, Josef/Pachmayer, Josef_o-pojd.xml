@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ó pojď!</title>
+    <author>Pachmayer, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pachmayer, Josef_o-pojd</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ó pojď!</title>
+     <author>Pachmayer, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ó pojď!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1101010" line_length="7">Ó pojď, mé dítě, ke mně,</l>
+     <l n="2" met="1100" rhyme="1" line_length="4">pojď ke mně zas’!</l>
+     <l n="3" met="0101010" line_length="7">Z mé duše prchly chmury,</l>
+     <l n="4" met="0100" line_length="4">je zaplašil</l>
+     <l n="5" met="01" line_length="2">Tvůj smích,</l>
+     <l n="6" met="0101" rhyme="1" line_length="4">Tvých očí jas –</l>
+     <l n="7" met="1111010" line_length="7">ó pojď, ó pojď se líbat</l>
+     <l n="8" met="0100" rhyme="1" line_length="4">a líbat zas!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

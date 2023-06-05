@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Valvins</title>
+    <author>Paul Valéry</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Valéry_valvins</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Valvins</title>
+     <author>Paul Valéry</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Valvins</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="6+6">Si tu veux dénouer la forêt qui t’aère</l>
+     <l n="2" line_length="6+6">Heureuse, tu te fonds aux feuilles, si tu es</l>
+     <l n="3" line_length="6+6">Dans la fluide yole à jamais littéraire,</l>
+     <l n="4" line_length="6+6">Traînant quelques soleils ardemment situés</l>
+    </lg>
+    <lg n="2">
+     <l n="5" line_length="6+6">Aux blancheurs de son flanc que la Seine caresse</l>
+     <l n="6" line_length="6+6">Émue, ou pressentant l’après-midi chanté,</l>
+     <l n="7" line_length="6+6">Selon que le grand bois trempe une longue tresse,</l>
+     <l n="8" line_length="6+6">Et mélange ta voile au meilleur de l’été.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" line_length="6+6">Mais toujours près de toi que le silence livre</l>
+     <l n="10" line_length="6+6">Aux cris multipliés de tout le brut azur,</l>
+     <l n="11" line_length="6+6">L’ombre de quelque page éparse d’aucun livre</l>
+    </lg>
+    <lg n="4">
+     <l n="12" line_length="6−6">Tremble, reflet de voile vagabonde sur</l>
+     <l n="13" line_length="6−6">La poudreuse peau de la rivière verte</l>
+     <l n="14" line_length="6+6">Parmi le long regard de la Seine entr’ouverte.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Den.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_den</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Den.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Den.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010001010" rhyme="1" line_length="11">Den mladý z hluboka se noci noří</l>
+     <l n="2" met="01000101000" line_length="11">a rozpíná svá křídla purpurová,</l>
+     <l n="3" met="01010101010" rhyme="1" line_length="11">a světlé zraky stínem, jasem hoří.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="01010101000" rhyme="2" line_length="11">A éther chví se jeho pod kročejí</l>
+     <l n="5" met="01010011010" line_length="11">a hvězdy blednou a den mladý jásá:</l>
+     <l n="6" met="01011001010" rhyme="2" line_length="11">„Jsem žití zdroj, mnou vše se věci dějí!“</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="01010100010" rhyme="3" line_length="11">A bílým jasem zaskvěly se skráně,</l>
+     <l n="8" met="01000101010" line_length="11">a na zem shled: „Co tobě nesu?“ pravil,</l>
+     <l n="9" met="01000101010" rhyme="3" line_length="11">a usmál se, a k očím přitisk dlaně. –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

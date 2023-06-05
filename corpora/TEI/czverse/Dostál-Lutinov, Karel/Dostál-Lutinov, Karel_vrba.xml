@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VRBA.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_vrba</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VRBA.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VRBA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001000" line_length="8">Ale to se podivéme</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">na to našo vrbo!</l>
+     <l n="3" met="10101000" line_length="8">V zémě bela osekaná,</l>
+     <l n="4" met="101100" rhyme="1" line_length="6">černé hrb na hrbo.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01101010" line_length="8">A včel stoji jako Manda,</l>
+     <l n="6" met="001000" rhyme="2" line_length="6">dež de do kostela.</l>
+     <l n="7" met="10011000" line_length="8">Hlavo jak koš kadeřavó,</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">vefrnděná celá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001000" line_length="8">Osekale, zotinale</l>
+     <l n="10" met="101010" rhyme="3" line_length="6">z jara próti všecko –</l>
+     <l n="11" met="10001000" line_length="8">obrustla a omládla zas</l>
+     <l n="12" met="101010" rhyme="3" line_length="6">tajak maly děcko.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10000100" line_length="8">Takovi sme me Hanáce:</l>
+     <l n="14" met="011010" rhyme="4" line_length="6">Ať hrom do nás pere,</l>
+     <l n="15" met="10001010" line_length="8">otne-le nám jedno roko,</l>
+     <l n="16" met="100010" rhyme="4" line_length="6">vehrozime štere!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

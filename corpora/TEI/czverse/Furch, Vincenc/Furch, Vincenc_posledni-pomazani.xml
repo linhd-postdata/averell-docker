@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poslední pomazání.</title>
+    <author>Furch, Vincenc</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Furch, Vincenc_posledni-pomazani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Poslední pomazání.</title>
+     <author>Furch, Vincenc</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Poslední pomazání.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00010010" rhyme="1" line_length="8">Když sme se loučiti měli,</l>
+     <l n="2" met="10000100" rhyme="2" line_length="8">Objal si ty mě hynoucí,</l>
+     <l n="3" met="00101010" rhyme="1" line_length="8">A z tvých očí tekl skvělý</l>
+     <l n="4" met="10101100" rhyme="2" line_length="8">Na mé čelo tok planoucí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" rhyme="3" line_length="8">I já sem v srdci tušila</l>
+     <l n="6" met="10100010" rhyme="4" line_length="8">V jistém, nevyvratném zdání:</l>
+     <l n="7" met="00101010" rhyme="3" line_length="8">Že ta tvoje slza byla</l>
+     <l n="8" met="01001000" rhyme="4" line_length="8">Mé poslední pomazání.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

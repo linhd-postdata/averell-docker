@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Baignée</title>
+    <author>Paul Valéry</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Valéry_baignee</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Baignée</title>
+     <author>Paul Valéry</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Baignée</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Un fruit de chair se baigne en quelque jeune vasque,</l>
+     <l n="2" rhyme="b" line_length="6+6">(Azur dans les jardins tremblants) mais hors de l’eau,</l>
+     <l n="3" rhyme="a" line_length="6+6">Isolant la torsade aux puissances de casque,</l>
+     <l n="4" rhyme="b" line_length="6+6">Luit le chef d’or que tranche à la nuque un tombeau.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">Éclose la beauté par la rose et l’épingle !</l>
+     <l n="6" rhyme="d" line_length="6+6">Du miroir même issue où trempent ses bijoux,</l>
+     <l n="7" rhyme="c" line_length="6+6">Bizarres feux brisés dont le bouquet dur cingle</l>
+     <l n="8" rhyme="d" line_length="6+6">L’oreille abandonnée aux mots nus des flots doux.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="6+6">Un bras vague inondé dans le néant limpide</l>
+     <l n="10" rhyme="f" line_length="6+6">Pour une ombre de fleur à cueillir vainement</l>
+     <l n="11" rhyme="e" line_length="6+6">S’effile, ondule, dort par le délice vide,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="f" line_length="6+6">Si l’autre, courbé pur sous le beau firmament,</l>
+     <l n="13" rhyme="g" line_length="6+6">Parmi la chevelure immense qu’il humecte,</l>
+     <l n="14" rhyme="g" line_length="6+6">Capture dans l’or simple un vol ivre d’insecte.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PLEČKA.</title>
+    <author>Mužík, Augustin Eugen</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mužík, Augustin Eugen_plecka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PLEČKA.</title>
+     <author>Mužík, Augustin Eugen</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PLEČKA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101000" rhyme="1" line_length="6">Ráno poráníčko</l>
+     <l n="2" met="101000" rhyme="1" line_length="6">pleju obilíčko.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="100010" rhyme="2" line_length="6">Napadala rosa</l>
+     <l n="4" met="100010" rhyme="2" line_length="6">na lístečky prosa,</l>
+     <l n="5" met="010010" rhyme="3" line_length="6">jak slziček řady</l>
+     <l n="6" met="101010" rhyme="3" line_length="6">na ten život mladý.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="101000" rhyme="4" line_length="6">Pleju, nevypleju,</l>
+     <l n="8" met="101010" rhyme="4" line_length="6">jenom slzy leju.</l>
+     <l n="9" met="1010100100" rhyme="5" line_length="10">Slzy lásky – deštíček májový,</l>
+     <l n="10" met="1010101000" rhyme="5" line_length="10">a mé slzy – déšť to podzimkový.</l>
+    </lg>
+    <lg n="4">
+     <l n="11" met="101010" line_length="6">Rosu, ranní rosu</l>
+     <l n="12" met="101010" rhyme="6" line_length="6">teplé slunce ruší,</l>
+     <l n="13" met="101010" line_length="6">ale moje líce</l>
+     <l n="14" met="101000" rhyme="6" line_length="6">nikdo neosuší.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Píseň o tkaní.</title>
+    <author>Chládek, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Chládek, František_pisen-o-tkani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Píseň o tkaní.</title>
+     <author>Chládek, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Píseň o tkaní.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Dívko, pohleď v oko moje,</l>
+     <l n="2" met="10101000" rhyme="1" line_length="8">budeš vidět do pokoje,</l>
+     <l n="3" met="0010100" rhyme="2" line_length="7">kde mé srdce přebývá!</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="10001000" rhyme="3" line_length="8">Uvidíš, co zhotovuje:</l>
+     <l n="5" met="10010010" rhyme="3" line_length="8">hedvábnou osnovu snuje,</l>
+     <l n="6" met="1010101" rhyme="2" line_length="7">zlaté květy do ní tká.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="00100100" rhyme="4" line_length="8">Jak se leskne to hedvábí –</l>
+     <l n="8" met="00101010" rhyme="4" line_length="8">jak ty zlaté květy vábí! –</l>
+     <l n="9" met="1100101" rhyme="5" line_length="7">Aj, jaký to krásný stav.</l>
+    </lg>
+    <lg n="4">
+     <l n="10" met="10101010" rhyme="6" line_length="8">Dívko! povel srdci svému,</l>
+     <l n="11" met="01001010" rhyme="6" line_length="8">ať pomůže srdci mému</l>
+     <l n="12" met="1010100" rhyme="5" line_length="7">tkáti lásky zlatohlav!</l>
+    </lg>
+    <lg n="5">
+     <l n="13" met="10101000" rhyme="7" line_length="8">Vidím, dívko, do pokoje,</l>
+     <l n="14" met="01001010" rhyme="7" line_length="8">kde přebývá srdce tvoje,</l>
+     <l n="15" met="1010101" rhyme="8" line_length="7">vidím, že též lásku tká.</l>
+    </lg>
+    <lg n="6">
+     <l n="16" met="10101010" rhyme="6" line_length="8">Blaze, blaze srdci mému</l>
+     <l n="17" met="10010010" rhyme="6" line_length="8">přeblaze, přeblaze jemu,</l>
+     <l n="18" met="1010001" rhyme="8" line_length="7">ano tovaryše má!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MARIE</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_marie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MARIE</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MARIE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Ainsi, quand la fleur printanière</l>
+     <l n="2" rhyme="b" line_length="8">Dans les bois va s'épanouir,</l>
+     <l n="3" rhyme="b" line_length="8">Au premier souffle du zéphyr</l>
+     <l n="4" rhyme="a" line_length="8">Elle sourit avec mystère ;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Et sa tige, fraîche et légère,</l>
+     <l n="6" rhyme="b" line_length="8">Sentant son calice s'ouvrir,</l>
+     <l n="7" rhyme="a" line_length="8">Jusque dans le sein de la terre</l>
+     <l n="8" rhyme="b" line_length="8">Frémit de joie et de désir.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="8">Ainsi, quand ma douce Marie</l>
+     <l n="10" rhyme="c" line_length="8">Entr'ouvre sa lèvre chérie,</l>
+     <l n="11" rhyme="d" line_length="8">Et lève, en chantant, ses yeux bleus,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="8">Dans l'harmonie et la lumière</l>
+     <l n="13" rhyme="e" line_length="8">Son âme semble tout entière</l>
+     <l n="14" rhyme="d" line_length="8">Monter en tremblant vers les cieux.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

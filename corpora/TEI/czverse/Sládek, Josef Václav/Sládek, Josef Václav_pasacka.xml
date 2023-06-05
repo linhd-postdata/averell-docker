@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PASAČKA.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_pasacka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PASAČKA.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PASAČKA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" line_length="8">Krůpěje rosy na trávě</l>
+     <l n="2" met="01010010" rhyme="1" line_length="8">se třpytí v slunečném jasu,</l>
+     <l n="3" met="10010101" line_length="8">na květu motýl ještě spí</l>
+     <l n="4" met="10010010" rhyme="1" line_length="8">a já už kravičku pasu.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" line_length="8">Na hlavě čerstvý věneček,</l>
+     <l n="6" met="1010010" rhyme="2" line_length="7">nožky bílé a bosé,</l>
+     <l n="7" met="01000100" rhyme="3" line_length="8">a podkasanou sukničku,</l>
+     <l n="8" met="01010010" rhyme="2" line_length="8">se brouzdám v perlivé rose.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010100" line_length="8">Žežulka kuká vesele</l>
+     <l n="10" met="1010010" rhyme="4" line_length="7">do luk od lesa kraje</l>
+     <l n="11" met="10010100" rhyme="3" line_length="8">a já si zpívám písničku</l>
+     <l n="12" met="10010010" rhyme="4" line_length="8">milou jak dechnutí máje:</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01010001" line_length="8">„Jen má-li hoch můj přec mne rád?“</l>
+     <l n="14" met="01010010" rhyme="5" line_length="8">a v trávě čtyřlístek hledám.</l>
+     <l n="15" met="11000100" line_length="8">Ó, najdu-li ho, nikomu,</l>
+     <l n="16" met="01010010" rhyme="5" line_length="8">než jemu, v světě ho nedám!</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="01010001" rhyme="6" line_length="8">„Jen má-li hoch můj přec mne rád?“</l>
+     <l n="18" met="10010010" rhyme="7" line_length="8">žežulko zakukej, – ano?</l>
+     <l n="19" met="10010100" rhyme="6" line_length="8">Ona mi kukla nastokrát</l>
+     <l n="20" met="01010010" rhyme="7" line_length="8">v to krásné, slunečné ráno.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

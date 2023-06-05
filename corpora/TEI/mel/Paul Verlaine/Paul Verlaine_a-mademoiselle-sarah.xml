@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>À MADEMOISELLE SARAH</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_a-mademoiselle-sarah</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>À MADEMOISELLE SARAH</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>À MADEMOISELLE SARAH</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">O Mademoiselle Sarah,</l>
+     <l n="2" rhyme="a" line_length="8">C'est à qui de nous deux sera</l>
+     <l n="3" rhyme="b" line_length="8">Le mieux encore épris de l'autre.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="c" line_length="8">Hélas ! crois-je, c'est toujours moi</l>
+     <l n="5" rhyme="c" line_length="8">Que tracasse bien trop d'émoi.</l>
+     <l n="6" rhyme="b" line_length="8">Mais votre émoi ? Quel est le vôtre ?</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="a" line_length="8">Je crains qu'il ne soit trop menu</l>
+     <l n="8" rhyme="a" line_length="8">Si je vois votre cœur à nu…</l>
+     <l n="9" rhyme="b" line_length="8">Heureusement c'est l'inconnu !</l>
+    </lg>
+    <lg n="4">
+     <l n="10" rhyme="b" line_length="8">Et je veux que cette fleurette</l>
+     <l n="11" rhyme="a" line_length="8">Ne vous trouve point mal seulette,</l>
+     <l n="12" rhyme="a" line_length="8">Dussé-je y, moi, risquer ma tête.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

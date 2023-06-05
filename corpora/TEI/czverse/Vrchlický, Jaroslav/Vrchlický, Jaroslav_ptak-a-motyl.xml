@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PTÁK A MOTÝL.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_ptak-a-motyl</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PTÁK A MOTÝL.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PTÁK A MOTÝL.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101000" rhyme="1" line_length="10">Viděls, kterak rychle za motýlem</l>
+     <l n="2" met="010101" rhyme="2" line_length="6">se honil malý pták?</l>
+     <l n="3" met="0010110010" rhyme="1" line_length="10">Byl to vír a rej ve shonu čilém,</l>
+     <l n="4" met="010001" rhyme="2" line_length="6">až přecházel mi zrak,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010101010" rhyme="3" line_length="10">kolem keře, přes plot, kolem stromů,</l>
+     <l n="6" met="010100" rhyme="4" line_length="6">teď zpátky a zas v před.</l>
+     <l n="7" met="1010100010" rhyme="3" line_length="10">Dítě s chutí zasměje se tomu,</l>
+     <l n="8" met="010001" rhyme="4" line_length="6">však zamyslí se kmet.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010101010" rhyme="5" line_length="10">Ptáče, píseň, motýl květ je živý,</l>
+     <l n="10" met="010000" rhyme="6" line_length="6">jak s azuru by spad’,</l>
+     <l n="11" met="1000100010" rhyme="5" line_length="10">v nejkrásnějším, příroda co živí,</l>
+     <l n="12" met="110100" rhyme="6" line_length="6">zmar vládne napořád.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

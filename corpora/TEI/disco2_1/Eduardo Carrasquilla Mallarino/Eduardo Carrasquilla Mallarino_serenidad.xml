@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Serenidad</title>
+    <author>Eduardo Carrasquilla Mallarino</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Eduardo Carrasquilla Mallarino_serenidad</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Serenidad</title>
+     <author>Eduardo Carrasquilla Mallarino</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Serenidad</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="---+-+---+--+-">Como lejano todo, como etérea la vida,</l>
+     <l n="2" met="--+--+---+--+-">como inertes los centros del sentir corporal;</l>
+     <l n="3" met="---+-+----++-">el corazón sin ritmos y la mirada ida</l>
+     <l n="4" met="-+---+---+--+-">por un maravilloso panorama ideal.</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="+-+-+----+-+-">Un vacío insondable donde la mente flota</l>
+     <l n="6" met="--+-------+-+-">pitagóricamente, bajo la flora astral;</l>
+     <l n="7" met="+-+--+----+-+-">un abismo sin límites en que, gota por gota,</l>
+     <l n="8" met="--++-+--+---+-">exacerba una fuente su rezo musical.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+-+---+--+-">Un largo viento cálido, sedoso, como una</l>
+     <l n="10" met="-+---+------+-">caricia de tus manos, o como tus cabellos,</l>
+     <l n="11" met="+-+--+--+---+-">y un raudal luminoso que llena la oquedad.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+--+-">Plenitud del espíritu, esotérico instante</l>
+     <l n="13" met="--+--+---+--+-">en que -lejos la ausencia de vivir en la tierra-</l>
+     <l n="14" met="--+--+------+-">invadimos el reino de la serenidad.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

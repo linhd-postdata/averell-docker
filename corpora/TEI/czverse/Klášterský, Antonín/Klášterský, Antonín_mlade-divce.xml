@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MLADÉ DÍVCE.</title>
+    <author>Klášterský, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Klášterský, Antonín_mlade-divce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MLADÉ DÍVCE.</title>
+     <author>Klášterský, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MLADÉ DÍVCE.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010" rhyme="1" line_length="7">Je z jara, ale záhy,</l>
+     <l n="2" met="110100" rhyme="2" line_length="6">vzduch vínem opíjí;</l>
+     <l n="3" met="0101010" rhyme="1" line_length="7">je z jara, ale záhy,</l>
+     <l n="4" met="1111010" rhyme="1" line_length="7">zem bok má ještě nahý,</l>
+     <l n="5" met="110100" rhyme="2" line_length="6">par závoj halí ji.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="0100010" rhyme="3" line_length="7">A skřivánek již jásá,</l>
+     <l n="7" met="0101010" rhyme="3" line_length="7">že máj zde, jas a krása,</l>
+     <l n="8" met="0100100" line_length="7">což teprv až se květy,</l>
+     <l n="9" met="110100" rhyme="2" line_length="6">ó, země, rozvijí!</l>
+    </lg>
+    <lg n="3">
+     <l n="10" met="0101010" rhyme="4" line_length="7">Tys dosud jenom dítě,</l>
+     <l n="11" met="110100" rhyme="2" line_length="6">vlas skvoucí na šíji;</l>
+     <l n="12" met="0101010" rhyme="4" line_length="7">tys dosud jenom dítě,</l>
+     <l n="13" met="0101010" rhyme="4" line_length="7">kdo ví, co dřímá skrytě</l>
+     <l n="14" met="010100" rhyme="2" line_length="6">v tvé duše liliji.</l>
+    </lg>
+    <lg n="4">
+     <l n="15" met="0101010" rhyme="3" line_length="7">A píseň má již jásá,</l>
+     <l n="16" met="0101010" rhyme="3" line_length="7">že’s máj, že’s jas a krása,</l>
+     <l n="17" met="0100100" line_length="7">což teprv až se květy</l>
+     <l n="18" met="010100" rhyme="2" line_length="6">tvé duše rozvijí!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

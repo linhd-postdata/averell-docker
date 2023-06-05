@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Matce!</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_matce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Matce!</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Matce!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101" line_length="8">Matičko moje, mám vás rád</l>
+     <l n="2" met="10010101" rhyme="1" line_length="8">více než celý Boží svět;</l>
+     <l n="3" met="10110101" rhyme="1" line_length="8">kdybych měl žíti tisíc let,</l>
+     <l n="4" met="10000100" rhyme="1" line_length="8">nemohl vás bych zapomnět.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00010100" line_length="8">Byl bych to žebrák ubohý,</l>
+     <l n="6" met="10010100" rhyme="2" line_length="8">matičko moje, nebýt vás:</l>
+     <l n="7" met="10010101" rhyme="2" line_length="8">srdce by žehal trudu mráz,</l>
+     <l n="8" met="10010101" rhyme="2" line_length="8">na rtech by úsměv smutně has.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="00010100" line_length="8">Ať by mně žití oblohou</l>
+     <l n="10" met="10010101" rhyme="3" line_length="8">zaplál kdy zlatý štěstí svit,</l>
+     <l n="11" met="10010101" rhyme="3" line_length="8">neměl bych přece – teskný cit! –</l>
+     <l n="12" met="10010100" rhyme="3" line_length="8">komu své srdce otevřít.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10010100" line_length="8">A teď, kdy duši trnovím,</l>
+     <l n="14" met="10010100" rhyme="4" line_length="8">hořký mně smutek rozbodal,</l>
+     <l n="15" met="10010101" rhyme="4" line_length="8">neměl bych, neměl – jaký žal! –</l>
+     <l n="16" met="00010100" rhyme="4" line_length="8">kde bych se z duše vyplakal.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MINUIT</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_minuit</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MINUIT</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MINUIT</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="8">ET je t’attends en ce café,</l>
+     <l n="2" line_length="8">Comme je le fis en tant d’autres.</l>
+     <l n="3" line_length="8">Comme je le ferais, en outre,</l>
+     <l n="4" line_length="8">Pour tout le bien que tu me fais.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Tu sais, parbleu ! que cela m’est</l>
+     <l n="6" rhyme="b" line_length="8">Égal aussi bien que possible :</l>
+     <l n="7" rhyme="b" line_length="8">Car mon cœur il n’est telles cibles…</l>
+     <l n="8" rhyme="a" line_length="8">Témoin les belles que j’aimais…</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Et ce ne m’est plus un lapin</l>
+     <l n="10" rhyme="b" line_length="8">Que tu me poses, salle rosse,</l>
+     <l n="11" rhyme="b" line_length="8">C’est un civet que tu opposes</l>
+     <l n="12" rhyme="a" line_length="8">Vers midi à mes goûts sans freins.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

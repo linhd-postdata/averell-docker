@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Corina ausente</title>
+    <author>Juan Nicasio Gallego</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Nicasio Gallego_a-corina-ausente</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Corina ausente</title>
+     <author>Juan Nicasio Gallego</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Corina ausente</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+-+-+-">Mi solo y dulce amor, Corina hermosa,</l>
+     <l n="2" met="--+--+-+-+-">anhelada mitad del alma mía,</l>
+     <l n="3" met="---+-+-+-+-">de cuyos bellos ojos nace el día</l>
+     <l n="4" met="+------+-+-">puro como en abril purpúrea rosa:</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+-+-+-">El alma que sin ti jamás reposa,</l>
+     <l n="6" met="-++--+---+-">sin ti, su única gloria y su alegría,</l>
+     <l n="7" met="-+-+---+++-">en un gemido el para bien te envía,</l>
+     <l n="8" met="-+-+-+---+-">pues Febo dio su vuelta presurosa.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-----+-">Vuelan los años ¡ay! y sin estruendo</l>
+     <l n="10" met="-+++---+-+-">fugaz los sigue juventud florida,</l>
+     <l n="11" met="-+---+-+-+-">su mágica ilusión con ella huyendo.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">¡Feliz quien goza el sol de su querida!</l>
+     <l n="13" met="-+-+---+-+-">¡Y triste aquel, que en soledad gimiendo,</l>
+     <l n="14" met="-+-+-----+-">ausente pasa el mayo de la vida!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

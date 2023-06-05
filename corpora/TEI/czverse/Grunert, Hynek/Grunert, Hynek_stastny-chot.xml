@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Šťastný choť.</title>
+    <author>Grunert, Hynek</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">2</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Grunert, Hynek_stastny-chot</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Šťastný choť.</title>
+     <author>Grunert, Hynek</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Šťastný choť.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0001010100" rhyme="1" line_length="10">Já bych se smál, an plakat nelze už –</l>
+     <l n="2" met="1100100001" rhyme="1" line_length="10">má žena pryč – o přešťastný já muž!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

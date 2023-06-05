@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ROSES DU SOIR</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_roses-du-soir</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ROSES DU SOIR</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ROSES DU SOIR</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Des roses sur la mer, des roses dans le soir,</l>
+     <l n="2" rhyme="b" line_length="6+6">Et Toi, qui viens de loin, les mains lourdes de roses…</l>
+     <l n="3" rhyme="a" line_length="6+6">J’aspire ta beauté. Le couchant fait pleuvoir</l>
+     <l n="4" rhyme="b" line_length="6+6">De fines cendres d’or et des poussières roses…</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Des roses sur la mer, des roses dans le soir…</l>
+    </lg>
+    <lg n="3">
+     <l n="6" rhyme="a" line_length="6+6">Ah ! tes yeux verts où tremble un reflet de feuillages !</l>
+     <l n="7" rhyme="b" line_length="6+6">L’heure mêle du vin, de la pourpre et du sang</l>
+     <l n="8" rhyme="a" line_length="6+6">À tes rouges cheveux de Bacchante… Les plages</l>
+     <l n="9" rhyme="b" line_length="6+6">Brillent, comme un miroir du ciel éblouissant…</l>
+    </lg>
+    <lg n="4">
+     <l n="10" rhyme="a" line_length="6+6">Ah ! tes yeux verts, où tremble un reflet de feuillages !…</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

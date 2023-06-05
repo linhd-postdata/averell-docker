@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PELCL.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_pelcl</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PELCL.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PELCL.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010100" rhyme="1" line_length="10">Se stupně k stupni: Vůdce moderny,</l>
+     <l n="2" met="10010100" rhyme="1" line_length="8">měsíčník vedl nádherný,</l>
+     <l n="3" met="01000100010" rhyme="2" line_length="11">pak ve principech lavíroval trošku,</l>
+     <l n="4" met="10010100010" rhyme="2" line_length="11">Kočímu z bláta vytahoval drožku,</l>
+     <l n="5" met="01010000" rhyme="3" line_length="8">až posléz z likvidatora</l>
+     <l n="6" met="0101000100" rhyme="3" line_length="10">se stala výdělečná potvora,</l>
+     <l n="7" met="01010101010" rhyme="4" line_length="11">jež lidu místo chleba – natruc žida –</l>
+     <l n="8" met="110001010" rhyme="4" line_length="9">hnůj Casanovův na stůl kydá.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

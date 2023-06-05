@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LA FERME</title>
+    <author>Émile Verhaeren</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Émile Verhaeren_la-ferme</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LA FERME</title>
+     <author>Émile Verhaeren</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LA FERME</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">A voir la ferme au loin monter avec ses toits.</l>
+     <l n="2" rhyme="b" line_length="6+6">Monter, avec sa tour et ses meules en dômes</l>
+     <l n="3" rhyme="b" line_length="6+6">Et ses greniers coiffés de tuiles et de chaumes,</l>
+     <l n="4" rhyme="a" line_length="6+6">Avec ses pignons blancs coupés par angles droits ;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">A voir la ferme au loin monter dans les verdures.</l>
+     <l n="6" rhyme="d" line_length="6+6">Reluire et s'étaler dans la splendeur des Mais,</l>
+     <l n="7" rhyme="d" line_length="6+6">Quand l'été la chauffait de ses feux rallumés</l>
+     <l n="8" rhyme="c" line_length="6+6">Et que les hêtres bruns l'éventaient de ramures :</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="6+6">Si grande semblait-elle, avec ses rangs de fours,</l>
+     <l n="10" rhyme="e" line_length="6+6">Ses granges, ses hangars, ses étables, ses cours,</l>
+     <l n="11" rhyme="f" line_length="6+6">Ses poternes de vieux clous noirs bariolées,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="6+6">Son verger luisant d'herbe et grand comme un chantier,</l>
+     <l n="13" rhyme="f" line_length="6+6">Sa masse se carrant au bout de trois allées.</l>
+     <l n="14" rhyme="g" line_length="6+6">Qu'on eût dit le hameau tassé là, tout entier.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

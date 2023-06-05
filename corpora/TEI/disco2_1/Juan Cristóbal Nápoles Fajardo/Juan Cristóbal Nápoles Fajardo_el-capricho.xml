@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El capricho</title>
+    <author>Juan Cristóbal Nápoles Fajardo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Cristóbal Nápoles Fajardo_el-capricho</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El capricho</title>
+     <author>Juan Cristóbal Nápoles Fajardo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El capricho</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+---+-">Son los ojos de Elvira matadores,</l>
+     <l n="2" met="-+---+-+-+-">su boca purpurina y muy pequeña,</l>
+     <l n="3" met="--+--+---+-">su nariz diminuta y aguileña</l>
+     <l n="4" met="-+---+---+-">y todos sus modales seductores.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--++--+-">Al igual del carmín son los colores</l>
+     <l n="6" met="--+-++---+-">que hermosean su faz tersa y trigueña,</l>
+     <l n="7" met="--+-++---+-">su mirada muy dulce y halagüeña,</l>
+     <l n="8" met="+--+-+-+-+-">y es adornada, en fin, de mil primores.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+++--+---+-">Es muy rica también, y por lo dicho,</l>
+     <l n="10" met="+-+--+---+-">tiene mil aspirantes la muchacha,</l>
+     <l n="11" met="+-+--++--+-">y ella tiene también cierto capricho.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++++-+-+++-">Yo no sé, vive Dios, si es mal facha,</l>
+     <l n="13" met="---+---+-+-">el que de noche por distintas rejas,</l>
+     <l n="14" met="--+--+-+-+-">de distintos amantes tenga quejas.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

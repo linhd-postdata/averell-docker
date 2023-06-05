@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sonetos -- - II -</title>
+    <author>Fray Luis de León</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fray Luis de León_sonetos-ii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sonetos -- - II -</title>
+     <author>Fray Luis de León</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sonetos -- - II -</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+-+-+-">Alargo enfermo el paso, y vuelvo, cuanto</l>
+     <l n="2" met="-+-+-+---+-">alargo el paso, atrás el pensamiento.</l>
+     <l n="3" met="++-+-+-+-+-">No vuelvo, que antes miro siempre atento</l>
+     <l n="4" met="-+---+---+-">la causa de mi gozo y de mi llanto.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+++-+---+-">Allí estoy firme y quedo, mas en tanto</l>
+     <l n="6" met="-+---+---+-">llevado del contrario movimiento,</l>
+     <l n="7" met="++---+---+-">cual hace el extendido en el tormento,</l>
+     <l n="8" met="-+-+-++--+-">padezco fiero mal, fiero quebranto.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">En partes, pues, diversas dividida</l>
+     <l n="10" met="-+---+++-+-">el alma, por huir tan cruda pena</l>
+     <l n="11" met="-+-++++--+-">quisiera dar ya al suelo estos despojos.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+---+-">Gime, suspira y llora desvalida</l>
+     <l n="13" met="-----+++-+-">y en medio del llorar sólo esto suena,</l>
+     <l n="14" met="+---++-+-+-">¡cuándo volveré, Nise, a ver tus ojos!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

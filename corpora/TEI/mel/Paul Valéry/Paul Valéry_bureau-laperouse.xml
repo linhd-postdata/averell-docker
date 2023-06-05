@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>BUREAU LAPÉROUSE</title>
+    <author>Paul Valéry</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Valéry_bureau-laperouse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>BUREAU LAPÉROUSE</title>
+     <author>Paul Valéry</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>BUREAU LAPÉROUSE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="5">Crois-tu qu'il soit chose</l>
+     <l n="2" rhyme="a" line_length="5">Diamant ou Rose</l>
+     <l n="3" rhyme="b" line_length="5">De prix plus certain</l>
+     <l n="4" rhyme="c" line_length="5">Qui fit plus de joie</l>
+     <l n="5" rhyme="c" line_length="5">Qu'une heure de soie</l>
+     <l n="6" rhyme="b" line_length="5">Comme ce matin ?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NOC V MĚSTĚ.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_noc-v-meste</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NOC V MĚSTĚ.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NOC V MĚSTĚ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101001101010" line_length="13">Kdes’ v dáli spozděné zní vozu ještě hřmění...</l>
+     <l n="2" met="1001010101010" rhyme="1" line_length="13">Do ulic stichlých noc se zvolna měkce schvívá,</l>
+     <l n="3" met="1101001001010" line_length="13">v tmu bledé, žlutavé luceren světlo padá,</l>
+     <l n="4" met="0101000101010" rhyme="1" line_length="13">a prázdných do ulic kdes’ s věže úder splývá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1101000101010" line_length="13">Jdu zvolna nábřežím – je cítit zápach vody,</l>
+     <l n="6" met="1001000101010" rhyme="2" line_length="13">ze sadu omamnou a silnou vůni bezu;</l>
+     <l n="7" met="1001001101010" rhyme="3" line_length="13">nad strání Petřína tkví měsíc velký, bílý –</l>
+     <l n="8" met="0101000101010" rhyme="2" line_length="13">v tom tichu noci jen je slyšet hukot jezu.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101001001000" line_length="13">A tichem v ulicích z výčepu harmoniky,</l>
+     <l n="10" met="0101001101010" rhyme="3" line_length="13">jen zvuky táhlé a zpěv drsný slyšíš chvílí,</l>
+     <l n="11" met="0101010101000" line_length="13">kdes’ chodců pozdních hluk, a hlasy pomísené –</l>
+     <l n="12" met="1001010101010" rhyme="3" line_length="13">do prázdných ulic v tmu se měsíc dívá bílý.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

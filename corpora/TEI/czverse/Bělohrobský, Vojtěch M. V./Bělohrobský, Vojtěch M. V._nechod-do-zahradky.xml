@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nechoď do zahrádky!</title>
+    <author>Bělohrobský, Vojtěch M. V.</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Bělohrobský, Vojtěch M. V._nechod-do-zahradky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nechoď do zahrádky!</title>
+     <author>Bělohrobský, Vojtěch M. V.</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nechoď do zahrádky!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" rhyme="1" line_length="8">Nechoď, milá, do zahrádky,</l>
+     <l n="2" met="1010001" rhyme="2" line_length="7">nechoď v jabloňový sad,</l>
+     <l n="3" met="00101000" rhyme="1" line_length="8">jsou tam včely se žahátky:</l>
+     <l n="4" met="1000100" rhyme="2" line_length="7">mohly by Tě popíchat!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101000" line_length="8">Pojď radš sednout na lavičku</l>
+     <l n="6" met="0110100" rhyme="3" line_length="7">sem hle! před dům pod lípu,</l>
+     <l n="7" met="10001010" line_length="8">přej mi pak Svá ústka zlíbat –</l>
+     <l n="8" met="0100100" rhyme="3" line_length="7">já, milenko, neštípu!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

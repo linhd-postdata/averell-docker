@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mé písně.</title>
+    <author>Dvořáková-Mráčková, Albína</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořáková-Mráčková, Albína_me-pisne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mé písně.</title>
+     <author>Dvořáková-Mráčková, Albína</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mé písně.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" line_length="8">Odletěly písně moje,</l>
+     <l n="2" met="00101000" rhyme="1" line_length="8">jak to ptactvo o jeseni,</l>
+     <l n="3" met="01000010" line_length="8">ba poznávám, že v mém srdci</l>
+     <l n="4" met="10101010" rhyme="1" line_length="8">není více jara, není.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" line_length="8">Táhne zima v srdce moje</l>
+     <l n="6" met="10101010" rhyme="2" line_length="8">ve svém ledném, sněžném šatu,</l>
+     <l n="7" met="10101000" line_length="8">v kraje lepší, láskohřivé</l>
+     <l n="8" met="10101010" rhyme="2" line_length="8">písně moje prchly v chvatu.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001000" rhyme="3" line_length="8">Divně jsem je šatívala,</l>
+     <l n="10" met="00101010" rhyme="4" line_length="8">ty své písně, drahé děti;</l>
+     <l n="11" met="10000010" line_length="8">mnívali jste; že to purpur?</l>
+     <l n="12" met="10101010" rhyme="4" line_length="8">srdce krev vám bylo zřeti.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10001000" rhyme="3" line_length="8">Divně jsem je zdobívala,</l>
+     <l n="14" met="01101000" rhyme="5" line_length="8">ký div, že si povylítly?</l>
+     <l n="15" met="10001000" line_length="8">mnívali jste démanty je?</l>
+     <l n="16" met="10001010" rhyme="5" line_length="8">zoufalství to slzy třpytly.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

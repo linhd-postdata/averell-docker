@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>DRAMA.</title>
+    <author>Hašek, Roman</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hašek, Roman_drama</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>DRAMA.</title>
+     <author>Hašek, Roman</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>DRAMA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101000" rhyme="1" line_length="9">Rozvleklé drama na jevišti</l>
+     <l n="2" met="10010101" rhyme="2" line_length="8">autora, jehož nemám rád.</l>
+     <l n="3" met="100101010" rhyme="1" line_length="9">Myšlenky moje stále tříští</l>
+     <l n="4" met="11000100" rhyme="2" line_length="8">slov pathetických vodopád.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100101010" rhyme="3" line_length="9">Na scéně skví se v hlavní roli</l>
+     <l n="6" met="01010001" rhyme="4" line_length="8">ta, již jsem intimně kdys znal.</l>
+     <l n="7" met="010101010" rhyme="3" line_length="9">Je pravda, přec to trochu bolí.</l>
+     <l n="8" met="10010100" rhyme="4" line_length="8">A já bych nerad vzpomínal. –</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100101010" rhyme="5" line_length="9">Poslední výkřik marně zapad’</l>
+     <l n="10" met="01000101" rhyme="6" line_length="8">v ten lhostejný a fadní šum.</l>
+     <l n="11" met="100100010" rhyme="5" line_length="9">Publikum nedovede chápat,</l>
+     <l n="12" met="10010100" rhyme="6" line_length="8">vybrané, vážné publikum.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Rêve</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_le-reve</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Rêve</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Rêve</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">La Reine, dans sa chambre vide,</l>
+     <l n="2" rhyme="b" line_length="8">S'éveille éperdue et lassée,</l>
+     <l n="3" rhyme="a" line_length="8">Et sur son visage livide</l>
+     <l n="4" rhyme="b" line_length="8">Ruisselle une sueur glacée.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Eh quoi ! Votre Majesté pleure !</l>
+     <l n="6" rhyme="b" line_length="8">Quel est, dit la dame suivante,</l>
+     <l n="7" rhyme="a" line_length="8">Le rêve affreux dont à cette heure</l>
+     <l n="8" rhyme="b" line_length="8">Votre Majesté s'épouvante ?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Mais la Reine, comme en furie,</l>
+     <l n="10" rhyme="b" line_length="8">Garde son angoisse terrible.</l>
+     <l n="11" rhyme="a" line_length="8">En vain sa suivante la prie :</l>
+     <l n="12" rhyme="b" line_length="8">Non, dit-elle, c'est trop horrible !</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">Toute à la douleur qui l'accable,</l>
+     <l n="14" rhyme="b" line_length="8">Elle passe une heure mortelle,</l>
+     <l n="15" rhyme="a" line_length="8">Puis la vision implacable</l>
+     <l n="16" rhyme="b" line_length="8">Revient se poser devant elle !</l>
+    </lg>
+    <lg n="5">
+     <l n="17" rhyme="a" line_length="8">Alors cette mère affolée,</l>
+     <l n="18" rhyme="b" line_length="8">Comme une lionne en son antre</l>
+     <l n="19" rhyme="a" line_length="8">Tragiquement échevelée,</l>
+     <l n="20" rhyme="b" line_length="8">Pose ses deux mains sur son ventre.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

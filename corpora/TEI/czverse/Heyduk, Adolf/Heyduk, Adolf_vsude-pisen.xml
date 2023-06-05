@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Všude píseň!</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_vsude-pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Všude píseň!</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Všude píseň!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100010" rhyme="1" line_length="10">Všude píseň! Tajemně a tiše</l>
+     <l n="2" met="110010100" line_length="9">Bůh na nivy blanách zlacených</l>
+     <l n="3" met="1010101010" rhyme="1" line_length="10">snivé zemi vonné básně píše,</l>
+     <l n="4" met="1100101010" rhyme="1" line_length="10">luh obloze kvítím lásku dýše;</l>
+     <l n="5" met="1010100010" rhyme="2" line_length="10">setby moře zeleně se vlní,</l>
+     <l n="6" met="1010101010" rhyme="2" line_length="10">zvonky ptačích srdcí blankyt plní,</l>
+     <l n="7" met="1010101010" rhyme="3" line_length="10">sny se rodí v temném hvozdu lůně;</l>
+     <l n="8" met="101000100" rhyme="4" line_length="9">vínem jara zas jsem opojen,</l>
+     <l n="9" met="101000101" rhyme="4" line_length="9">ó kéž navždy bych už v taký den</l>
+     <l n="10" met="1000101010" rhyme="3" line_length="10">utonul v tom moři květné vůně,</l>
+     <l n="11" met="0100101010" rhyme="5" line_length="10">jež vlnami krásy v hruď mi bije;</l>
+     <l n="12" met="001000101000" rhyme="5" line_length="12">kéž bych v náručí tvém zhynul – poesie!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

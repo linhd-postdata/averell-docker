@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- X -</title>
+    <author>Juan de Arguijo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan de Arguijo_x</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- X -</title>
+     <author>Juan de Arguijo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- X -</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+-+-+-">En la pequeña luz de Sesto pone</l>
+     <l n="2" met="--+--+---+-">desde el puerto los ojos, y atrevido</l>
+     <l n="3" met="+-+-+----+-">rompe Leandro el mar, que embravecido,</l>
+     <l n="4" met="---+---+-+-">a sus intentos con furor se opone.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+--++-+-">Mas él, cuidando que le muerte abone</l>
+     <l n="6" met="-+-+-+---+-">su grande amor, se ofrece al conocido</l>
+     <l n="7" met="-+---+-+-+-">peligro, y de las ondas ya vencido,</l>
+     <l n="8" met="--+--+---+-">a amansallas en vano se dispone.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+---+-">«Ondas, dijo muriendo, si consiente</l>
+     <l n="10" met="---+++-+-+-">vuestro furor de un triste amante el ruego,</l>
+     <l n="11" met="+-++---+-+-">sed por un rato a mi dolor piadosas;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">frenar el curso a la veloz corriente:</l>
+     <l n="13" met="-++-+-+---+-">mostraos benignas sólo mientras llego</l>
+     <l n="14" met="---+-+-+-+-">y cuando vuelva me anegad furiosas».</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

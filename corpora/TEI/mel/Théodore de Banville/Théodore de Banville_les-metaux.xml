@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les Métaux</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_les-metaux</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Les Métaux</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Les Métaux</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Les Métaux, les divins Métaux</l>
+     <l n="2" rhyme="b" line_length="8">Que toujours l'homme voit en rêve,</l>
+     <l n="3" rhyme="b" line_length="8">Ornent la couronne ou le glaive</l>
+     <l n="4" rhyme="a" line_length="8">De tous les Péchés capitaux.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">L'Orgueil jette sur ses manteaux</l>
+     <l n="6" rhyme="b" line_length="8">Pour cette vie, ô Dieu ! si brève,</l>
+     <l n="7" rhyme="a" line_length="8">Les Métaux, les divins Métaux</l>
+     <l n="8" rhyme="b" line_length="8">Que toujours l'homme voit en rêve.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">L'or gémit sous les vils râteaux</l>
+     <l n="10" rhyme="b" line_length="8">Que toujours le banquier soulève,</l>
+     <l n="11" rhyme="b" line_length="8">Et pour parer les filles d'Ève</l>
+     <l n="12" rhyme="a" line_length="8">Nous tourmentons de nos marteaux</l>
+     <l n="13" rhyme="a" line_length="8">Les Métaux, les divins Métaux.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

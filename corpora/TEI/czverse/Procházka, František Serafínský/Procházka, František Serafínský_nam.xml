@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NÁM.</title>
+    <author>Procházka, František Serafínský</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">7</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Procházka, František Serafínský_nam</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NÁM.</title>
+     <author>Procházka, František Serafínský</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NÁM.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0010100" line_length="7">My, my, my a pořád my,</l>
+     <l n="2" met="101001100" rhyme="1" line_length="9">„koncert národů, střed Evropy“!!</l>
+     <l n="3" met="101000100" rhyme="1" line_length="9">Jenom z frázi těch se pochopí,</l>
+     <l n="4" met="0100" rhyme="2" line_length="4">jak slaboučcí</l>
+     <l n="5" met="0100" rhyme="2" line_length="4">jsme pavoučci,</l>
+     <l n="6" met="0010101010" rhyme="3" line_length="10">jak své nitky předem v denním smetí,</l>
+     <l n="7" met="1010101000" rhyme="3" line_length="10">a náš hlas ni k humnám nedoletí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

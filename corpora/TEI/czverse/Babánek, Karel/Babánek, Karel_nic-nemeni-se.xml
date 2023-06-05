@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NIC NEMĚNÍ SE.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_nic-nemeni-se</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NIC NEMĚNÍ SE.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NIC NEMĚNÍ SE.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000101000" line_length="11">Nic nemění se v žití komedii,</l>
+     <l n="2" met="01000101010" rhyme="1" line_length="11">jen kulisy jsou jiné, jiná slova,</l>
+     <l n="3" met="010100110" line_length="9">jen v nové úpravě hra stará</l>
+     <l n="4" met="0100010" rhyme="1" line_length="7">se opakuje znova.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

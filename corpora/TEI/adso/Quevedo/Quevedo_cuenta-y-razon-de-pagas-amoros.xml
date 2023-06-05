@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Cuenta y razón de pagas amorosas </title>
+    <author>Quevedo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quevedo_cuenta-y-razon-de-pagas-amoros</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Cuenta y razón de pagas amorosas </title>
+     <author>Quevedo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Cuenta y razón de pagas amorosas </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++++-++--+-">Dar un real a una dama es menosprecio;</l>
+     <l n="2" met="+--+++---+-">dos la daréis, si es prenda conocida:</l>
+     <l n="3" met="-++--+-+-+-">y tres cuado, conforme a estado y vida,</l>
+     <l n="4" met="+-+--+-+-+-">darla cuatro os parezca caso recio;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++---+-+-+-">cuatro es el moderado y justo precio;</l>
+     <l n="6" met="---+-+-+-+-">mas si la prenda fuese tan subida,</l>
+     <l n="7" met="+--+-+-+-+-">seis la daréis, con tal que no os los pida</l>
+     <l n="8" met="--+--+-+-+-">si la diéredes más, quedáis por necio.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+++---+-">Esta doctrina es llana y resoluta:</l>
+     <l n="10" met="+-+--+---+-">ha lugar si la dama que os agrada</l>
+     <l n="11" met="---+-+---+-">os pareciese libre y disoluta;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+-++---+-">mas si fuese tan grave y entonada</l>
+     <l n="13" met="---+-+---+-">que menosprecie el título de puta,</l>
+     <l n="14" met="---+-++-++-">si la queréis pagar, no la deis nada.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

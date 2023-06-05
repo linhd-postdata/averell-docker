@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>-CLII-</title>
+    <author>Fernando de Herrera</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fernando de Herrera_clii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>ADSO 100 poems corpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>-CLII-</title>
+     <author>Fernando de Herrera</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>-CLII-</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++--++--++-">No puedo sufrir más el dolor fiero</l>
+     <l n="2" met="-+--++-+-+-">ni ya tolerar más el duro asalto</l>
+     <l n="3" met="---+-+-+-+-">de vuestras bellas luces, antes falto</l>
+     <l n="4" met="--+--+---+-">de paciencia y valor, en el postrero</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">trance, arrojando el yugo, desespero,</l>
+     <l n="6" met="---+-+-+-+-">y por do voy huyendo el suelo esmalto</l>
+     <l n="7" met="-+-+---+-+-">de lazos rotos, y levanto en alto</l>
+     <l n="8" met="-+-+---+-+-">el cuello osado y libertad espero.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-++--++--+-">Mas ¿qué vale mostrar estos despojos</l>
+     <l n="10" met="---+---+-+-">y la ufanía de alcanzar la palma</l>
+     <l n="11" met="++---+---+-">de un vano atrevimiento sin provecho?</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">El rayo, que salió de vuestros ojos,</l>
+     <l n="13" met="+--+---+-+-">puso su fuerza en abrasar mi alma</l>
+     <l n="14" met="-+-+---+-+-">dejando casi sin tocar el pecho.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

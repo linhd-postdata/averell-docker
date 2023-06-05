@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pohádka.</title>
+    <author>Forman, Bohumil</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Forman, Bohumil_pohadka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pohádka.</title>
+     <author>Forman, Bohumil</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pohádka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010100010" rhyme="1" line_length="11">Ó matko má v tom prokvetalém vlase,</l>
+     <l n="2" met="0101010100" rhyme="2" line_length="10">ty dětství mého živá pohádko, –</l>
+     <l n="3" met="11000101010" rhyme="1" line_length="11">ó povídej mi o tom krásném čase,</l>
+     <l n="4" met="0001010100" rhyme="2" line_length="10">když byl jsem ještě drobné robátko:</l>
+     <l n="5" met="01010101010" rhyme="3" line_length="11">jak ohněm lásky oči tvoje plály,</l>
+     <l n="6" met="0101010100" rhyme="4" line_length="10">když klad jsem hlavu tobě do klína –</l>
+     <l n="7" met="11000101010" rhyme="3" line_length="11">ó potěš mne – vždyť žaly růže svály</l>
+     <l n="8" met="0101000100" rhyme="4" line_length="10">a mladost, mladost ta již zhasíná. – –</l>
+    </lg>
+    <lg n="2">
+     <l n="9" met="01010101010" rhyme="5" line_length="11">A matka má tak krásnou zlatou niti</l>
+     <l n="10" met="0100010100" rhyme="6" line_length="10">tu ze vzpomínek dávných vypředla,</l>
+     <l n="11" met="01010101010" rhyme="5" line_length="11">že láskou opět staré oko svítí,</l>
+     <l n="12" met="0100010100" rhyme="6" line_length="10">že po ní zpět mne v mládí zavedla – –</l>
+     <l n="13" met="11010100010" rhyme="7" line_length="11">Ó matko, matko v prokvetalém vlase –</l>
+     <l n="14" met="0101010100" rhyme="8" line_length="10">ty dětství mého krásná pohádko –</l>
+     <l n="15" met="01010001010" rhyme="7" line_length="11">já u tvých nohou jsem tak šťasten zase,</l>
+     <l n="16" met="0001010100" rhyme="8" line_length="10">jak když jsem býval tvoje robátko! – –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

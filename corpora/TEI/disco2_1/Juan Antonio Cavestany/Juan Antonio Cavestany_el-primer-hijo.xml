@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El primer hijo</title>
+    <author>Juan Antonio Cavestany</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Antonio Cavestany_el-primer-hijo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El primer hijo</title>
+     <author>Juan Antonio Cavestany</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El primer hijo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">En rosa de magnífica opulencia</l>
+     <l n="2" met="--+--++--+-">el capullo de ayer se ha convertido.</l>
+     <l n="3" met="++-+-++-+-">¡Tan niña y madre ya...! Dios ha querido</l>
+     <l n="4" met="-+-+-+---+-">partir en dos mitades tu existencia.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+++--+---+-">Yo te he visto nacer, y en tu presencia</l>
+     <l n="6" met="+++--+---+-">hoy me siento turbado y conmovido;</l>
+     <l n="7" met="-+---+-+-+-">¿por qué la que en mis brazos he tenido</l>
+     <l n="8" met="---+++---+-">veneración me inspira y reverencia?</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+---+-+-">¡Ah! Porque emblemas del amor sagrado</l>
+     <l n="10" met="---+---+-+-">del sacrificio que con él se aduna,</l>
+     <l n="11" met="++-+-+---+-">de un bien perfecto, puro, inmaculado,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-++-+---+-">sólo dos nos ofrece la fortuna:</l>
+     <l n="13" met="-+--+----+-">primero, el Hombre Dios crucificado;</l>
+     <l n="14" met="-++--+-+-+-">después, una mujer junto a una cuna!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

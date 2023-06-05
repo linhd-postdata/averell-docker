@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>INTERPRETKA.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_interpretka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>INTERPRETKA.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>INTERPRETKA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010100" rhyme="1" line_length="10">Maminka s knihou jezdí po Lhotách</l>
+     <l n="2" met="01000100010" rhyme="2" line_length="11">a vyzařuje Macharovu duši.</l>
+     <l n="3" met="1100010100" rhyme="1" line_length="10">Hoch v roztrhaných běhá kalhotách</l>
+     <l n="4" met="01001100010" rhyme="2" line_length="11">a ve škole má neumyté uši.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

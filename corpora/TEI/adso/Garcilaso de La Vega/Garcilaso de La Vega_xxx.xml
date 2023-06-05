@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>-XXX-</title>
+    <author>Garcilaso de La Vega</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Garcilaso de La Vega_xxx</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>-XXX-</title>
+     <author>Garcilaso de La Vega</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>-XXX-</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Sospechas que, en mi triste fantasía</l>
+     <l n="2" met="+--+-+---+-">puestas, hacéis la guerra a mi sentido,</l>
+     <l n="3" met="-+---+---+-">volviendo y revolviendo el afligido</l>
+     <l n="4" met="+--+-+-+-+-">pecho, con dura mano, noche y día;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">ya se acabó la resistencia mía</l>
+     <l n="6" met="--+--+-+-+-">y la fuerza del alma; ya rendido</l>
+     <l n="7" met="-+-+-+---+-">vencer de vos me dejo, arrepentido</l>
+     <l n="8" met="-+---+-+-+-">de haberos contrastado en tal porfía.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">Llevadme a aquel lugar tan espantable,</l>
+     <l n="10" met="--++-+-+-+-">do por no ver mi muerte allí esculpida</l>
+     <l n="11" met="-+---++--+-">cerrados hasta aquí tuve los ojos.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">Las armas pongo ya, que concedida</l>
+     <l n="13" met="+-+--+---+-">no es tan larga defensa al miserable;</l>
+     <l n="14" met="-+---+---+-">colgad en vuestro carro mis despojos.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

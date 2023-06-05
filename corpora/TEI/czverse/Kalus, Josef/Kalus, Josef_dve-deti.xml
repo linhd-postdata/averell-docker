@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dvě děti.</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_dve-deti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dvě děti.</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dvě děti.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101000" line_length="6">Dítě boháčovo,</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">dítě z chaty nuzné –</l>
+     <l n="3" met="100010" line_length="6">zásluhy jsou stejné,</l>
+     <l n="4" met="100010" rhyme="1" line_length="6">osudy tak různé.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101010" line_length="6">Jedno kryje hedbáv,</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">druhé prostá plena,</l>
+     <l n="7" met="101010" line_length="6">jedno líbá kněžna,</l>
+     <l n="8" met="101010" rhyme="2" line_length="6">druhé z lidu žena.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="101010" line_length="6">Jedno roste k slávě,</l>
+     <l n="10" met="101000" rhyme="3" line_length="6">druhé ku neštěstí –</l>
+     <l n="11" met="101010" line_length="6">a přec pučí z jedné</l>
+     <l n="12" met="101000" rhyme="3" line_length="6">lidstva ratolesti.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

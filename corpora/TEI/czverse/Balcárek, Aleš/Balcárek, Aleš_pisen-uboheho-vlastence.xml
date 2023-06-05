@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Píseň ubohého vlastence.</title>
+    <author>Balcárek, Aleš</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Balcárek, Aleš_pisen-uboheho-vlastence</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Píseň ubohého vlastence.</title>
+     <author>Balcárek, Aleš</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Píseň ubohého vlastence.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101000" line_length="8">Já jsem synek z Kojetína,</l>
+     <l n="2" met="100010" rhyme="1" line_length="6">z Němec už se klidím,</l>
+     <l n="3" met="10101010" line_length="8">neboť u těch Švábů více</l>
+     <l n="4" met="100100" rhyme="1" line_length="6">radosti nevidím.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10000100" line_length="8">Přicházím zas k své matičce, –</l>
+     <l n="6" met="100010" rhyme="2" line_length="6">ona je přec hodná!</l>
+     <l n="7" met="10101000" line_length="8">Želím, že mne pokazila</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">Augšburkyně svodná.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001010" line_length="8">Přijmi mne zas, drahá máti,</l>
+     <l n="10" met="101010" rhyme="3" line_length="6">mezi syny svoje!</l>
+     <l n="11" met="10001010" line_length="8">nepůjdu víc proti tobě</l>
+     <l n="12" met="100100" rhyme="3" line_length="6">s cizinci do boje.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101010" line_length="8">Nechci žádných řádů více</l>
+     <l n="14" met="100100" rhyme="4" line_length="6">za takou udatnosť,</l>
+     <l n="15" met="10100100" line_length="8">nebo cítím, že nemají</l>
+     <l n="16" met="100010" rhyme="4" line_length="6">pranižádnou platnosť.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="11001010" line_length="8">Ach, jak mě teď srdce bolí,</l>
+     <l n="18" met="000100" rhyme="5" line_length="6">že jsem to udělal,</l>
+     <l n="19" met="00101000" line_length="8">že jsem tomu Velehradu</l>
+     <l n="20" met="101010" rhyme="5" line_length="6">svatý pokoj nedal.</l>
+    </lg>
+    <lg n="6">
+     <l n="21" met="10101000" line_length="8">Musím nyní na pokání</l>
+     <l n="22" met="101010" rhyme="6" line_length="6">zalézt do své cely,</l>
+     <l n="23" met="00100010" line_length="8">by mne nezasáhly více</l>
+     <l n="24" met="110010" rhyme="6" line_length="6">zlých vlastencův střely.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

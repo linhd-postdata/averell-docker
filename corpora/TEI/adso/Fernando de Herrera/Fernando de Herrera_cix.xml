@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- CIX - </title>
+    <author>Fernando de Herrera</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fernando de Herrera_cix</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- CIX - </title>
+     <author>Fernando de Herrera</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- CIX - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+-+-+-+-">Yo voy ¡oh bello sol de alma mía!</l>
+     <l n="2" met="-+-+-+-+-+-">buscando el nuevo ardor del sol luciente,</l>
+     <l n="3" met="-----+---+-">porque desamparado el occidente,</l>
+     <l n="4" met="---+++---+-">vuestro esplendor no veo y mi alegría.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+-+-+-">Podré decir que voy en noche fría</l>
+     <l n="6" met="---+-+-+-+-">por donde humano paso no se siente;</l>
+     <l n="7" met="-+---+-+-+-">mas llévame el osado amor presente,</l>
+     <l n="8" met="-+---+-+-+-">pensando que a nacerme torna el día.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">Encúbrense las luces que aparecen,</l>
+     <l n="10" met="--+--+-+-+-">cuando en ellas humilde a vos me inclino,</l>
+     <l n="11" met="---+-+---+-">y el oriente tardo se me aparta;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+---+--+-">que las muestras en Ispal resplandecen,</l>
+     <l n="13" met="--+--+-+-+-">y la tersa corona de oro fino,</l>
+     <l n="14" met="+-+--+-+-+-">do procuro que el cuerpo a veros parta.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

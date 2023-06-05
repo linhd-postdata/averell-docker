@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Výslovnost.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_vyslovnost</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Výslovnost.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Výslovnost.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010101000" rhyme="1" line_length="12">Jinak Francouz píše, jinak vyslovuje,</l>
+     <l n="2" met="1010001000" rhyme="1" line_length="10">mnohý Čech i v tom jej následuje;</l>
+     <l n="3" met="1000101010" rhyme="2" line_length="10">zatím tak, že slovo jinak v duchu,</l>
+     <l n="4" met="1010100010" rhyme="2" line_length="10">jinak vyzní blížnímu zas v sluchu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

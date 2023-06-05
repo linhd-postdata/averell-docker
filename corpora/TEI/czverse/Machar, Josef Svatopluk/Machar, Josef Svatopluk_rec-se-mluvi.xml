@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ŘEČ SE MLUVÍ</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_rec-se-mluvi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ŘEČ SE MLUVÍ</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ŘEČ SE MLUVÍ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101010" rhyme="1" line_length="10">Vážíce vše v spustě svojich „ismů“</l>
+     <l n="2" met="0010001010" rhyme="2" line_length="10">my se nezmýlíme ani o gram –</l>
+     <l n="3" met="0010101000" rhyme="1" line_length="10">tak jsme všudy proti fanatismu,</l>
+     <l n="4" met="0010100010" rhyme="2" line_length="10">neb, jak známo, Tábor je náš program.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

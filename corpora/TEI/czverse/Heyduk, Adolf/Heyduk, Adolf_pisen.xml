@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Píseň.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Píseň.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Píseň.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" line_length="6">V hněvu se rozešly</l>
+     <l n="2" met="110100" rhyme="1" line_length="6">dvě duše nebohy,</l>
+     <l n="3" met="101100" line_length="6">jako dvě bludičky</l>
+     <l n="4" met="100100" rhyme="1" line_length="6">na klenbě oblohy.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101100" line_length="6">Jako dvě bludičky,</l>
+     <l n="6" met="010100" rhyme="2" line_length="6">jež slunce ovládá,</l>
+     <l n="7" met="010100" line_length="6">až jedna vznítí se</l>
+     <l n="8" met="010100" rhyme="2" line_length="6">a druhá zapadá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100100" line_length="6">Pojednou ztratí se</l>
+     <l n="10" met="100100" rhyme="3" line_length="6">z hvězdného útvoří:</l>
+     <l n="11" met="010100" line_length="6">ta jedna utone,</l>
+     <l n="12" met="010100" rhyme="3" line_length="6">ta druhá uhoří.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

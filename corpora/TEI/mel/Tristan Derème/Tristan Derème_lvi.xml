@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LVI</title>
+    <author>Tristan Derème</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tristan Derème_lvi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LVI</title>
+     <author>Tristan Derème</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LVI</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">En l'honneur de ton nom je veux sonner du luth,</l>
+     <l n="2" rhyme="a" line_length="6+6">Donner ma voix, donner mon cœur et donner l'ut !</l>
+     <l n="3" rhyme="b" line_length="6+6">Mon cœur dans le matin s'ouvre comme une rose ;</l>
+     <l n="4" rhyme="b" line_length="6+6">Mon cœur est la pantoufle où ton orteil repose ;</l>
+     <l n="5" rhyme="a" line_length="6+6">Aux baguettes du sort mon cœur est un tambour ;</l>
+     <l n="6" rhyme="a" line_length="6+6">Mon cœur est une flûte aux lèvres de l'amour ;</l>
+     <l n="7" rhyme="b" line_length="6+6">Mon cœur est le vieux puits où se mirent les branches</l>
+     <l n="8" rhyme="b" line_length="6+6">D'octobre et, par les soirs tristes, des robes blanches…</l>
+     <l n="9" rhyme="a" line_length="6+6">Et je pourrais ainsi lâcher du bout des dents</l>
+     <l n="10" rhyme="a" line_length="6+6">Des vers qui me vaudraient l'estime des pédants.</l>
+     <l n="11" rhyme="b" line_length="6+6">Car leur troupe se plaît à de telles sottises</l>
+     <l n="12" rhyme="b" line_length="6+6">Comme les boucs parmi les feuilles des cytises.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

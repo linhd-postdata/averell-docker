@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hadas</title>
+    <author>Luz Gay</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Luz Gay_hadas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hadas</title>
+     <author>Luz Gay</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hadas</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Las hadas que en las tardes bonancibles</l>
+     <l n="2" met="-+---+---+-">descienden a la margen de la fuente,</l>
+     <l n="3" met="--+--+---+-">cuando rizan la onda transparente</l>
+     <l n="4" met="-+---+---+-">los besos de las brisas apacibles;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+---+-">las que en los juncos verdes y flexibles</l>
+     <l n="6" met="-+-+---+-+-">reclinan mustia la abatida frente</l>
+     <l n="7" met="-+-+-+---+-">buscando alguna tregua a la doliente</l>
+     <l n="8" met="-+---+---+-">memoria de desdichas ostensibles;</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++---+---+-">no son «las desposadas del ensueño»,</l>
+     <l n="10" met="++---+---+-">son hadas que errabundas peregrinan</l>
+     <l n="11" met="-+-+---+-+-">desierta el alma del placer risueño,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+-+-+-">y sin ver en su senda flor alguna,</l>
+     <l n="13" met="--+--+---+-">sollozantes y pálidas caminan</l>
+     <l n="14" met="+----+---+-">huérfanas del amor y la fortuna.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

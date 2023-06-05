@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Májová píseň.</title>
+    <author>Květ, Bohuslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Květ, Bohuslav_majova-pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Májová píseň.</title>
+     <author>Květ, Bohuslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Májová píseň.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00011011000" line_length="11">Dnes už je máj... a jak jdu zahradami,</l>
+     <l n="2" met="0101010101" line_length="10">vše mluví ke mně, každý strom i květ:</l>
+     <l n="3" met="1101011101010" line_length="13">Hle, jak je krásný svět, ó věř a miluj znova,</l>
+     <l n="4" met="10010101001100" line_length="14">krásná je dívky tvář a lahodná řeč přítele!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00011001001010" line_length="14">Dnes už je máj... ale v mém srdci je zima ještě</l>
+     <l n="6" met="010010010010110" line_length="15">a ledová Nenávisť drtí vše, co by kvést mohlo –</l>
+     <l n="7" met="1100100100100" line_length="13">oh, daleko ještě je do máje v srdci mém,</l>
+     <l n="8" met="011100100100" line_length="12">a Bůh ví, zda juž to někdy tam rozkvete!...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

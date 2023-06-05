@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Zatoužení.</title>
+    <author>Pokorný, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný, Rudolf_zatouzeni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Zatoužení.</title>
+     <author>Pokorný, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Zatoužení.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010" rhyme="1" line_length="6">Tmavo, chladno venku,</l>
+     <l n="2" met="101000" rhyme="1" line_length="6">smutno ve přístěnku;</l>
+     <l n="3" met="10010010" line_length="8">jenom ten měsíček bílý</l>
+     <l n="4" met="101000" rhyme="1" line_length="6">bdí mně na okénku.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100" rhyme="2" line_length="6">Kdybys byl, měsíčku,</l>
+     <l n="6" met="100100" rhyme="2" line_length="6">míval kdy matičku,</l>
+     <l n="7" met="10001010" line_length="8">zaletěl bys jako ptáček</l>
+     <l n="8" met="101000" rhyme="2" line_length="6">v dálku nad světničku.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100010" rhyme="3" line_length="6">Nad světničku nízkou,</l>
+     <l n="10" met="100010" rhyme="3" line_length="6">kostelíku blízkou,</l>
+     <l n="11" met="10001000" line_length="8">pod travičkou pod zelenou</l>
+     <l n="12" met="101010" rhyme="3" line_length="6">za mou rodnou vískou...</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="001000" rhyme="4" line_length="6">Až by na klekání</l>
+     <l n="14" met="101010" rhyme="4" line_length="6">zvonku znělo lkání,</l>
+     <l n="15" met="10001000" line_length="8">pověděl bys matičce mé,</l>
+     <l n="16" met="010010" rhyme="4" line_length="6">jak vzpomínám na ni!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

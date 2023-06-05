@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Lesem.</title>
+    <author>Brabec, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Brabec, Adolf_lesem</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Lesem.</title>
+     <author>Brabec, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Lesem.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010001" rhyme="1" line_length="8">Když lesem smutným kdys jsem jel,</l>
+     <l n="2" met="0100010" rhyme="2" line_length="7">tak jednotvárným lesem,</l>
+     <l n="3" met="10010001" rhyme="1" line_length="8">na nebi mráček jen se chvěl</l>
+     <l n="4" met="0101010" rhyme="2" line_length="7">a strom se splétal s vřesem.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000100" rhyme="3" line_length="8">Již soumrak jím se překlonil,</l>
+     <l n="6" met="01010100" rhyme="4" line_length="8">a vánek zvonil listím kdes,</l>
+     <l n="7" met="01010100" rhyme="3" line_length="8">tam ptáček píseň odzvonil</l>
+     <l n="8" met="01010100" rhyme="4" line_length="8">a v hnízdo skryl se za útes.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

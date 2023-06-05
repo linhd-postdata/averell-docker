@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>TRINQUONS</title>
+    <author>Pierre-Jean de Béranger</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pierre-Jean de Béranger_trinquons</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>TRINQUONS</title>
+     <author>Pierre-Jean de Béranger</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>TRINQUONS</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="8">Le verre en main, en rond nous attaquer,</l>
+    </lg>
+    <lg n="2">
+     <l n="2" line_length="8">Le verre en main, tous en rond s'attaquer,</l>
+    </lg>
+    <lg n="3">
+     <l n="3" line_length="8">Le verre en main, chacun à l'attaquer :</l>
+    </lg>
+    <lg n="4">
+     <l n="4" line_length="8">Le verre en main, tous en rond s'attaquer,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

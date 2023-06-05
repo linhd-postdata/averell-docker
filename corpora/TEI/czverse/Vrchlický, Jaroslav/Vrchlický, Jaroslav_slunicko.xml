@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SLUNÍČKO.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_slunicko</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SLUNÍČKO.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SLUNÍČKO.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101010" rhyme="1" line_length="9">Sluníčko drobné vidím lézti,</l>
+     <l n="2" met="10010101" rhyme="2" line_length="8">na rudém štítku teček pět.</l>
+     <l n="3" met="010001010" rhyme="1" line_length="9">Já plakal bych, toť lidské štěstí</l>
+     <l n="4" met="01010101" rhyme="2" line_length="8">tak malé v tento velký svět,</l>
+     <l n="5" met="010001010" rhyme="1" line_length="9">by neulétlo, jak je nésti!</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="100101000" rhyme="1" line_length="9">Po květné leze ratolesti,</l>
+     <l n="7" met="01010000" rhyme="2" line_length="8">ni klásku neohýbne snět;</l>
+     <l n="8" met="010101010" rhyme="1" line_length="9">tak tiše jde a blaho věstí</l>
+     <l n="9" met="100" line_length="3">sluníčko.</l>
+    </lg>
+    <lg n="3">
+     <l n="10" met="110101010" rhyme="1" line_length="9">Pták v houští zpívá jara zvěsti,</l>
+     <l n="11" met="01000101" rhyme="2" line_length="8">jak malina tvůj hoří ret,</l>
+     <l n="12" met="11010000" rhyme="2" line_length="8">ó nech mne zlíbati jej hned,</l>
+     <l n="13" met="010100010" rhyme="1" line_length="9">má lásko, úsměv tvůj mi klestí</l>
+     <l n="14" met="110101010" rhyme="1" line_length="9">v ráj cestu, štěstí tobě jesti,</l>
+     <l n="15" met="100" line_length="3">sluníčko!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La beata</title>
+    <author>José Manuel Álvarez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Manuel Álvarez_la-beata</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La beata</title>
+     <author>José Manuel Álvarez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La beata</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="---+-+------+-">Con el pesado fardo de las supersticiones,</l>
+     <l n="2" met="+-+--+-+----+-">va viviendo su vida, vida de oscuridad;</l>
+     <l n="3" met="+++--+-+----+-">es un tipo que tienen todas las religiones,</l>
+     <l n="4" met="---+-+------+-">encarnación humana de la vulgaridad.</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="+--+-+--+---+-">Lleva en la mano izquierda su libro de oraciones</l>
+     <l n="6" met="--+--+---+--+-">y en la mano derecha su rosario... ¡Observad!</l>
+     <l n="7" met="+----+-+----+-">tiene dentro del pecho todas las sinrazones,</l>
+     <l n="8" met="--+--+-+----+-">abomina del mundo y odia la claridad...</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+-+---+--+-">Es la vieja beata de las tocas oscuras,</l>
+     <l n="10" met="--+--+---+--+-">la que veis de continuo conversando con curas;</l>
+     <l n="11" met="---+-++----+-">que cotidianamente anda en las sacristías;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+--+---+-">es la vieja que reza con tono lastimero</l>
+     <l n="13" met="-----+---+--+-">y que, cuando se muera, dejará su dinero</l>
+     <l n="14" met="---+-+-------+">para aumentar el número de las capellanías.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

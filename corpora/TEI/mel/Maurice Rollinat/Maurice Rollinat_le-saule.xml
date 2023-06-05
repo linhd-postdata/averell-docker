@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Saule</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_le-saule</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Saule</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Saule</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Tout à l'heure, sous les éclats</l>
+     <l n="2" rhyme="b" line_length="8">Et les souffles de la tempête,</l>
+     <l n="3" rhyme="b" line_length="8">Le saule brandillait sa tête,</l>
+     <l n="4" rhyme="a" line_length="8">Et l'étang cognait ses bords plats.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="8">Avec de mortelles alarmes,</l>
+     <l n="6" rhyme="d" line_length="8">Par ce vent, ces rumeurs, ces feux,</l>
+     <l n="7" rhyme="d" line_length="8">L'arbre tordait ses longs cheveux</l>
+     <l n="8" rhyme="c" line_length="8">Sur l'eau qui balayait ses larmes.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="8">Calme, à présent, l'étang reluit,</l>
+     <l n="10" rhyme="e" line_length="8">Le ciel illumine la nuit,</l>
+     <l n="11" rhyme="f" line_length="8">Et, sans qu'une brise l'effleure,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="8">Le Narcisse des végétaux</l>
+     <l n="13" rhyme="g" line_length="8">Admire encore dans les eaux</l>
+     <l n="14" rhyme="f" line_length="8">Sa figure verte qui pleure.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

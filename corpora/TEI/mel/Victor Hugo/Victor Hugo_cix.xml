@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CIX</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_cix</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CIX</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CIX</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="6+6">Ce qui rend la vieillesse auguste et vénérable,</l>
+     <l n="2" rhyme="a" line_length="6+6">Ce n'est' point la lenteur des pas froids et pesants,</l>
+     <l n="3" rhyme="a" line_length="6+6">La blancheur des cheveux ni le nombre des ans,</l>
+     <l n="4" rhyme="b" line_length="6+6">Non, c'est la bienveillance et l'absence de haine,</l>
+     <l n="5" rhyme="b" line_length="6+6">C'est la douceur qui fait vers la vertu sereine</l>
+     <l n="6" rhyme="a" line_length="6+6">Monter de toutes parts les bénédictions,</l>
+     <l n="7" rhyme="a" line_length="6+6">C'est cette majesté des bonnes actions</l>
+     <l n="8" rhyme="b" line_length="6+6">Qui dans l'œil du vieillard met une pure flamme,</l>
+     <l n="9" rhyme="b" line_length="6+6">Et que la longue vie ajoute à la grande âme !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dítky jara.</title>
+    <author>Krásnohorská, Eliška</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Krásnohorská, Eliška_ditky-jara</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dítky jara.</title>
+     <author>Krásnohorská, Eliška</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dítky jara.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110100100100" rhyme="1" line_length="12">„Hoj! svátek vzkříšení!“ zvonečky na poli</l>
+     <l n="2" met="0100010100" rhyme="1" line_length="10">a skřivánkové svorně hlaholí;</l>
+     <l n="3" met="11010101000" rhyme="2" line_length="11">hle, první motýl! zdá se přepyšnému,</l>
+     <l n="4" met="01000101010" rhyme="2" line_length="11">že veškerá ta sláva září jemu,</l>
+     <l n="5" met="10010101000" rhyme="2" line_length="11">klaní se vděčně květu každičkému.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="1001010100" rhyme="3" line_length="10">Jásejte, skromné dítky přírody!</l>
+     <l n="7" met="1001010100" rhyme="3" line_length="10">přilétá jaro, posel svobody;</l>
+     <l n="8" met="01001001000" rhyme="4" line_length="11">vám, chudobky, ve zlatém probuzení,</l>
+     <l n="9" met="01010101000" rhyme="4" line_length="11">vám kyne první jeho pozdravení;</l>
+     <l n="10" met="11000101000" rhyme="4" line_length="11">hoj, ubožátka, dost již utrpení!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

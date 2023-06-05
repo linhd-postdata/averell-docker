@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NEROZHODNÁ.</title>
+    <author>Kaminský, Bohdan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kaminský, Bohdan_nerozhodna</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NEROZHODNÁ.</title>
+     <author>Kaminský, Bohdan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NEROZHODNÁ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" line_length="6">Pod našimi okny</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">v noci někdo chodil,</l>
+     <l n="3" met="100010" line_length="6">otevřeným oknem</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">dovnitř růži hodil.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101000" line_length="6">Který z hochů byl to,</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">srdce marně hádá,</l>
+     <l n="7" met="100010" line_length="6">vezmu-li to kolem,</l>
+     <l n="8" met="101010" rhyme="2" line_length="6">mám je všecky ráda!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ptáčník.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_ptacnik</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ptáčník.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ptáčník.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" rhyme="1" line_length="8">Chytal ptáky při roháči,</l>
+     <l n="2" met="101010" rhyme="2" line_length="6">žena jeho dbalá</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">žhavým drátem očka ptačí</l>
+     <l n="4" met="101000" rhyme="2" line_length="6">jasu zbavovala.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01001000" rhyme="3" line_length="8">Vždyť slavíci oslepeni</l>
+     <l n="6" met="101010" rhyme="4" line_length="6">pějí dnem i nocí,</l>
+     <l n="7" met="10001010" rhyme="3" line_length="8">za vábného jejich pění</l>
+     <l n="8" met="101010" rhyme="4" line_length="6">lze se jiných zmoci.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10100010" rhyme="5" line_length="8">Hrozná ženina je píle,</l>
+     <l n="10" met="000010" rhyme="6" line_length="6">však co tak se dělo,</l>
+     <l n="11" met="10011010" rhyme="5" line_length="8">pod srdcem jí téže chvíle</l>
+     <l n="12" met="101010" rhyme="6" line_length="6">náhle cos se chvělo.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101010" rhyme="7" line_length="8">A když přišla doba k době –</l>
+     <l n="14" met="101010" rhyme="8" line_length="6">divné cesty boží –</l>
+     <l n="15" met="10001010" rhyme="7" line_length="8">na očka je slepo obě</l>
+     <l n="16" met="101010" rhyme="8" line_length="6">dítko v jejím loži.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

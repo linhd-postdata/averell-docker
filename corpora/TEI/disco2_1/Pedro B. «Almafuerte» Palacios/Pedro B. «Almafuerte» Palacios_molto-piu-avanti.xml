@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Molto più avanti!</title>
+    <author>Pedro B. «Almafuerte» Palacios</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pedro B. «Almafuerte» Palacios_molto-piu-avanti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Molto più avanti!</title>
+     <author>Pedro B. «Almafuerte» Palacios</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Molto più avanti!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">Los que viertan sus lágrimas amantes</l>
+     <l n="2" met="---+-++-+-">sobre las penas que no son sus penas;</l>
+     <l n="3" met="--+--+---+-">los que olvidan el son de sus cadenas</l>
+     <l n="4" met="---+---+-+-">para limar las de los otros antes;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">los que van por el mundo delirantes</l>
+     <l n="6" met="--+---+---+-">repartiendo sus amor a manos llenas,</l>
+     <l n="7" met="+--+---+-+-">caen, bajo el peso de sus obras buenas,</l>
+     <l n="8" met="+--+-+---+-">sucios, enfermos, trágicos, sobrantes.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+---+--+-">¡Ah! Nunca quieras remediar entuertos;</l>
+     <l n="10" met="+-+--+---+-">nunca sigas impulsos compasivos;</l>
+     <l n="11" met="+-+--+-+-+-">ten los garfios del Odio siempre activos</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--++--+-">y los ojos del juez siempre despiertos...</l>
+     <l n="13" met="--++-+---+-">¡y al echarte en la caja de los muertos,</l>
+     <l n="14" met="--+--+---+-">menosprecia los llantos de los vivos!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

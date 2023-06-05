@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>GRAMATICKÝ</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_gramaticky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>GRAMATICKÝ</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>GRAMATICKÝ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Slůvka dvě – kdys bylo psáno,</l>
+     <l n="2" met="1010001" rhyme="2" line_length="7">platí do dnešního dne:</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">vaše řeč buď: ano, ano,</l>
+     <l n="4" met="1010000" rhyme="2" line_length="7">nebo určité zas: ne –</l>
+     <l n="5" met="10101010" rhyme="3" line_length="8">prvé kývá, druhé žene,</l>
+     <l n="6" met="1010100" rhyme="4" line_length="7">prvé stáří, druhé mláď –</l>
+     <l n="7" met="10101010" rhyme="3" line_length="8">tvoje řeč buď raděj: ne ne –</l>
+     <l n="8" met="1000101" rhyme="4" line_length="7">neklaň se a spíše mlať!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

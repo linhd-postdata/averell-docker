@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Bouquetière</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_la-bouquetiere</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Bouquetière</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Bouquetière</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Elle pleure, et n'est pas au bout.</l>
+     <l n="2" rhyme="b" line_length="8">Pendant la matinée entière,</l>
+     <l n="3" rhyme="a" line_length="8">On n'a rien acheté du tout</l>
+     <l n="4" rhyme="b" line_length="8">A la petite Bouquetière.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Elle est à jeun. Le sang pourpré</l>
+     <l n="6" rhyme="b" line_length="8">A déserté sa lèvre, pâle</l>
+     <l n="7" rhyme="a" line_length="8">Comme un linge blanc sur le pré,</l>
+     <l n="8" rhyme="b" line_length="8">Et sa pauvre poitrine râle.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Frêle victime du guignon,</l>
+     <l n="10" rhyme="b" line_length="8">Elle croise son châle, mince</l>
+     <l n="11" rhyme="a" line_length="8">Comme une pelure d'oignon,</l>
+     <l n="12" rhyme="b" line_length="8">Quand le froid trop aigu la pince.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">Mais c'est bien d'elle qu'il s'agit !</l>
+     <l n="14" rhyme="b" line_length="8">Elle offre en vain sa violette ;</l>
+     <l n="15" rhyme="a" line_length="8">Et toujours la bise rougit</l>
+     <l n="16" rhyme="b" line_length="8">Ses tout petits doigts de squelette.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

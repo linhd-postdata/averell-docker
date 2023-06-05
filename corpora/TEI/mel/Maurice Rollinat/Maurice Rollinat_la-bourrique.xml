@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LA BOURRIQUE</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_la-bourrique</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LA BOURRIQUE</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LA BOURRIQUE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">La bourrique luisante et forte</l>
+     <l n="2" rhyme="b" line_length="8">Brait tous les jours, à la même heure,</l>
+     <l n="3" rhyme="b" line_length="8">Devant la rustique demeure,</l>
+     <l n="4" rhyme="a" line_length="8">De la plus lamentable sorte.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Ses hi-han disent : « Je suis morte</l>
+     <l n="6" rhyme="b" line_length="8">De soif ! un peu d'eau ! la meilleure ! »</l>
+     <l n="7" rhyme="a" line_length="8">La bourrique luisante et forte</l>
+     <l n="8" rhyme="b" line_length="8">Brait tous les jours, à la même heure.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Et ma foi ! le seau qu'on lui porte</l>
+     <l n="10" rhyme="b" line_length="8">N'est pas un de ceux qu'elle effleure :</l>
+     <l n="11" rhyme="b" line_length="8">Elle y boit que son mufle en pleure !</l>
+     <l n="12" rhyme="a" line_length="8">Et puis elle broute à la porte,</l>
+     <l n="13" rhyme="a" line_length="8">La bourrique luisante et forte.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

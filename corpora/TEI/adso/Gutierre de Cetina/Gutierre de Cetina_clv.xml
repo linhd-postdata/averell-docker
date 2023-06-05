@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- CLV - </title>
+    <author>Gutierre de Cetina</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Gutierre de Cetina_clv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- CLV - </title>
+     <author>Gutierre de Cetina</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- CLV - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+-+-+-">Golfo de mar con gran fortuna airado</l>
+     <l n="2" met="-+---+-+-+-">se puede comparar la vida mía;</l>
+     <l n="3" met="+-+--+---+-">van las ondas do el viento las envía</l>
+     <l n="4" met="-----+-+-+-">y las de mi vivir do quiere el hado;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++-+-+---+-">no hallan suelo al golfo, ni hallado</l>
+     <l n="6" met="-++--+---+-">será cabo jamás en mi porfía;</l>
+     <l n="7" met="--++++--++-">en el golfo hay mil monstruos que el mar cría,</l>
+     <l n="8" met="--+-++-+-+-">mi recelo mil monstruos ha criado;</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--++-+-+-+-">en el mar guía el norte, a mí una estrella;</l>
+     <l n="10" met="+--+-+-+-+-">nadie se fía del mar, de nada fío;</l>
+     <l n="11" met="+-+--++--+-">vase allí con temor, yo temeroso;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-++--+-">por mis cuidados van, naves por ella.</l>
+     <l n="13" met="--+--+--++-">Y si en algo difiere el vivir mío,</l>
+     <l n="14" met="+--+-+++-+-">es que se aplaca el mar, yo no reposo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

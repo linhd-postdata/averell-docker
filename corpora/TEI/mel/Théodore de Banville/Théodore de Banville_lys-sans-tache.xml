@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Lys sans tache</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_lys-sans-tache</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Lys sans tache</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Lys sans tache</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Oui, quoique les soupirs, les pleurs et les sanglots</l>
+     <l n="2" rhyme="a" line_length="6+6">Vers tes yeux soient montés, amers comme des flots,</l>
+     <l n="3" rhyme="b" line_length="6+6">Chère âme ! ton amour céleste nous demeure,</l>
+     <l n="4" rhyme="b" line_length="6+6">Toujours épanoui dans ton âme qui pleure.</l>
+     <l n="5" rhyme="a" line_length="6+6">Sous l'orage et le vent tel le Lys glorieux,</l>
+     <l n="6" rhyme="a" line_length="6+6">Toujours ouvrant son pur calice vers les cieux,</l>
+     <l n="7" rhyme="b" line_length="6+6">Garde encore, meurtri, sa beauté souveraine,</l>
+     <l n="8" rhyme="b" line_length="6+6">Et rien ne fait de tache à sa blancheur sereine.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

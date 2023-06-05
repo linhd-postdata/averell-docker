@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Rebouteux</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_le-rebouteux</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Rebouteux</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Rebouteux</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Fixe, de la queue à la tête,</l>
+     <l n="2" rhyme="b" line_length="8">La truie est là sur les cailloux.</l>
+     <l n="3" rhyme="b" line_length="8">Auprès, une vieille à genoux,</l>
+     <l n="4" rhyme="a" line_length="8">Gesticule, pleure et tempête.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Et, mains au dos, plus d'un s'arrête,</l>
+     <l n="6" rhyme="b" line_length="8">Supputant d'un air neutre et doux</l>
+     <l n="7" rhyme="b" line_length="8">Combien de lard et de saindoux</l>
+     <l n="8" rhyme="a" line_length="8">Pourrait fournir l'énorme bête,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="8">Quand le rebouteux de l'endroit,</l>
+     <l n="10" rhyme="c" line_length="8">Rouge, empêché de marcher droit</l>
+     <l n="11" rhyme="d" line_length="8">Par une vineuse cuvée,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="8">Arrive et dit, plein d'onction :</l>
+     <l n="13" rhyme="e" line_length="8">« Il y a complication. »</l>
+     <l n="14" rhyme="d" line_length="8">Je crois bien ! la truie est crevée.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

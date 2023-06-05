@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Láska v písních.</title>
+    <author>Tůma, Jan Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tůma, Jan Václav_laska-v-pisnich</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Láska v písních.</title>
+     <author>Tůma, Jan Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Láska v písních.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">Složte péra, pěvci lásky,</l>
+     <l n="2" met="00101010" rhyme="1" line_length="8">co pak byste o ní psali?</l>
+     <l n="3" met="00100010" line_length="8">vždyť ti staří nám ji celou,</l>
+     <l n="4" met="10001000" rhyme="1" line_length="8">celičkou už vyzpívali.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001000" line_length="8">Vyzpívali, vychválili</l>
+     <l n="6" met="10101010" rhyme="2" line_length="8">city srdce, oči, líce,</l>
+     <l n="7" met="00001000" line_length="8">tak že nám teď k opěvání</l>
+     <l n="8" met="10001010" rhyme="2" line_length="8">nezbylo už pranic více.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001000" rhyme="1" line_length="8">Vyzpívali, vyvzdychali,</l>
+     <l n="10" met="00101000" rhyme="3" line_length="8">jak se sluší na rytíře,</l>
+     <l n="11" met="00101010" line_length="8">tak že máme za dob našich</l>
+     <l n="12" met="10101000" rhyme="3" line_length="8">celou lásku – na papíře!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="00100010" line_length="8">Tak že studovat se může</l>
+     <l n="14" met="10000100" rhyme="4" line_length="8">starožitné jak památky,</l>
+     <l n="15" met="00101010" line_length="8">ti pak, co už po nás přijdou,</l>
+     <l n="16" met="10100100" rhyme="4" line_length="8">znát ji budou jen – z pohádky!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

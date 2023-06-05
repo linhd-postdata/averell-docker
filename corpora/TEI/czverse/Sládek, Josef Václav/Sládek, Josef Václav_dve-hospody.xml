@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dvě hospody.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_dve-hospody</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dvě hospody.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dvě hospody.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101" line_length="7">V hospodě je pravý ráj,</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">– jinde na vsi není, –</l>
+     <l n="3" met="1010100" line_length="7">proto u nás hrozí všem</l>
+     <l n="4" met="101000" rhyme="1" line_length="6">věčné zatracení.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010100" line_length="7">Ráno na mši z hospody</l>
+     <l n="6" met="001010" rhyme="2" line_length="6">to se zrovna hodí,</l>
+     <l n="7" met="1010100" line_length="7">ale z ráje do ráje</l>
+     <l n="8" met="101010" rhyme="2" line_length="6">po vsi čert nás vodí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1011100" line_length="7">Kdyby pán bůh modlení</l>
+     <l n="10" met="100010" rhyme="3" line_length="6">šenkýřovo slyšel,</l>
+     <l n="11" met="1000100" line_length="7">sotva že by do nebe</l>
+     <l n="12" met="011010" rhyme="3" line_length="6">sám pan farář přišel.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1000100" line_length="7">Zavítá-li k Jirošům,</l>
+     <l n="14" met="101010" rhyme="4" line_length="6">Mikeš klne víru,</l>
+     <l n="15" met="0010100" line_length="7">sem-li zajde, to zas tam</l>
+     <l n="16" met="101010" rhyme="4" line_length="6">s čoudem vaří síru.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="1000100" line_length="7">Blažen-li je na faře,</l>
+     <l n="18" met="101010" rhyme="5" line_length="6">– zvláště, když tak derou! –</l>
+     <l n="19" met="1000100" line_length="7">u Mikšů i Jirošů</l>
+     <l n="20" met="101010" rhyme="5" line_length="6">kmotry čerti berou.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

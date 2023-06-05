@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XCII</title>
+    <author>Tristan Derème</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tristan Derème_xcii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XCII</title>
+     <author>Tristan Derème</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XCII</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Laisse. La passion vaut seule que je vive</l>
+     <l n="2" rhyme="a" line_length="6−6">Et qu'ébloui sous les feuillages de la rive</l>
+     <l n="3" rhyme="b" line_length="6+6">Je dédie à l'azur cette coupe où je bois,</l>
+     <l n="4" rhyme="b" line_length="6+6">Et que pareil à l'eau qui reflète les bois,</l>
+     <l n="5" rhyme="c" line_length="6+6">Les nuages, la lune et la voûte profonde,</l>
+     <l n="6" rhyme="c" line_length="6+6">Je ne sois plus qu'un hymne à la gloire du monde.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

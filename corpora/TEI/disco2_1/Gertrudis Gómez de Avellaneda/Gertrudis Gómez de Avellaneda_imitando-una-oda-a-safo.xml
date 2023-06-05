@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Imitando una oda a Safo</title>
+    <author>Gertrudis Gómez de Avellaneda</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Gertrudis Gómez de Avellaneda_imitando-una-oda-a-safo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Imitando una oda a Safo</title>
+     <author>Gertrudis Gómez de Avellaneda</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Imitando una oda a Safo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+-+-+-">¡Feliz quien junto a ti por ti suspira,</l>
+     <l n="2" met="-+-+---+-+-">quien oye el eco de tu voz sonora,</l>
+     <l n="3" met="---+---+-+-">quien el halago de tu risa adora,</l>
+     <l n="4" met="-+-+---+-+-">y el blando aroma de tu aliento aspira!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">Ventura tanta que envidiosa admira</l>
+     <l n="6" met="---+---+-+-">el querubín que en el empíreo mora,</l>
+     <l n="7" met="-+-+---+-+-">el alma turba, el corazón devora,</l>
+     <l n="8" met="-+-+---+++-">y el torpe acento, al expresarla, expira.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+---+-+-">Ante mis ojos desfallece el mundo,</l>
+     <l n="10" met="---+---+-+-">y por mis venas circular ligero</l>
+     <l n="11" met="-+-+---+-+-">el fuego siento del amor profundo.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+---+++-">Trémula, en vano resistirte quiero...</l>
+     <l n="13" met="-+-+---+-+-">de ardiente llanto la mejilla inundo...</l>
+     <l n="14" met="-+-+-+-+-+-">¡delirio, gozo, te bendigo y muero!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

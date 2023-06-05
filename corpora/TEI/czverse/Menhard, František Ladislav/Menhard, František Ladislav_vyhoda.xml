@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Výhoda.</title>
+    <author>Menhard, František Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Menhard, František Ladislav_vyhoda</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Výhoda.</title>
+     <author>Menhard, František Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Výhoda.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10100010" rhyme="1" line_length="8">Čech, jenž v „uzavřeném“ žije,</l>
+     <l n="2" met="10010100" rhyme="1" line_length="8">šťastnějším nežli jiný je;</l>
+     <l n="3" met="10101010" rhyme="2" line_length="8">blaho kyne jemu čisté:</l>
+     <l n="4" met="10011010" rhyme="2" line_length="8">po smrti má nebe jisté –</l>
+     <l n="5" met="1000100" rhyme="3" line_length="7">neboť on již za živa</l>
+     <l n="6" met="1000100" rhyme="3" line_length="7">„očistec“ si odbývá!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

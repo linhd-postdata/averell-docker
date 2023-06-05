@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Čarodějka.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_carodejka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Čarodějka.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Čarodějka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">Horskou cestou noha chvátá,</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">oko v dálku hledí,</l>
+     <l n="3" met="10001000" line_length="8">Šumava kde čarodějka</l>
+     <l n="4" met="100010" rhyme="1" line_length="6">zadumána sedí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" line_length="8">Její plášť, toť kyprá zeleň,</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">říza – samé kvítí,</l>
+     <l n="7" met="10011000" rhyme="3" line_length="8">veliké tři diamanty</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">na prsou jí svítí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" line_length="8">A když hovor zpěvných ptáků</l>
+     <l n="10" met="101010" rhyme="4" line_length="6">v nočním tuchne šeře,</l>
+     <l n="11" met="10001000" rhyme="3" line_length="8">hvězdnaté si brilianty</l>
+     <l n="12" met="101000" rhyme="4" line_length="6">vije do kadeře.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

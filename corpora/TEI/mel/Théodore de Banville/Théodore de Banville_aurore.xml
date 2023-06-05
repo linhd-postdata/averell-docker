@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Aurore</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_aurore</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Aurore</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Aurore</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Jusqu'à toi, jusqu'à toi, mère, divinement</l>
+     <l n="2" rhyme="a" line_length="6+6">Nos vœux s'envoleront dans un rêve charmant.</l>
+     <l n="3" rhyme="b" line_length="6+6">Tu le sais, tes enfants silencieux t'adorent.</l>
+     <l n="4" rhyme="b" line_length="6+6">Que les bois dépouillés, et les cieux qui se dorent,</l>
+     <l n="5" rhyme="a" line_length="6+6">Veillent sur ta demeure avec un soin jaloux !</l>
+     <l n="6" rhyme="a" line_length="6+6">Que le soirs, que les jours et l'ombre te soient doux !</l>
+     <l n="7" rhyme="b" line_length="6+6">Car tu fis ton bonheur de veiller sur nos âmes.</l>
+     <l n="8" rhyme="b" line_length="6+6">Grâce à toi, depuis l'heure obscure où nous pensâmes,</l>
+     <l n="9" rhyme="a" line_length="6+6">Notre matin riant, céleste et couronné</l>
+     <l n="10" rhyme="a" line_length="6+6">Brilla comme une aurore, et tu nous as donné</l>
+     <l n="11" rhyme="b" line_length="6+6">L'amour du Beau, par qui tout s'éclaire et flamboie</l>
+     <l n="12" rhyme="b" line_length="6+6">Et ta bonté fidèle, et ta force et ta joie.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

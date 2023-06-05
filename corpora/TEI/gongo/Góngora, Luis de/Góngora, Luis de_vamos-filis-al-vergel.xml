@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vamos, Filis, al vergel,</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_vamos-filis-al-vergel</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vamos, Filis, al vergel,</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vamos, Filis, al vergel,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="+-+---+-" line_length="8">Vamos, Filis, al vergel,</l>
+     <l n="2" met="---+--+-" line_length="8">y dejarás invidiosa</l>
+     <l n="3" met="---+--+-" line_length="8">de tus mejillas, la rosa,</l>
+     <l n="4" met="--+---+-" line_length="8">de tus labios, el clavel;</l>
+     <l n="5" met="--++--+-" line_length="8">libaré en ellos la miel</l>
+     <l n="6" met="--++-++-" line_length="8">de quien son vaso y son flores</l>
+     <l n="7" met="---+--+-" line_length="8">a los enjambres de amores.</l>
+     <l n="8" met="++--+-+-" line_length="8">Ven, Fili, que tardas ya;</l>
+     <l n="9" met="----+-+-" line_length="8">mas ay, quien palabras da</l>
+     <l n="10" met="+-+-+-+-" line_length="8">bien sabrá mentir favores.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

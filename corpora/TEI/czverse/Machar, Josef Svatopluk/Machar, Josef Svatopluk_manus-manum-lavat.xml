@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MANUS MANUM LAVAT</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_manus-manum-lavat</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MANUS MANUM LAVAT</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MANUS MANUM LAVAT</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010100" rhyme="1" line_length="9">Perlu státu v bojích překrutých</l>
+     <l n="2" met="1010011010" rhyme="2" line_length="10">Pruskem nedaly vzít Národ. Listy,</l>
+     <l n="3" met="101010100" rhyme="1" line_length="9">začež hlídá v chvílích pohnutých</l>
+     <l n="4" met="1010101000" rhyme="2" line_length="10">stát jich okna svými policisty.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

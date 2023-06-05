@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Populace</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_la-populace</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Populace</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Populace</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Qui t'aidera, prince ou bandit,</l>
+     <l n="2" rhyme="b" line_length="8">Qui veux te mettre à notre place ?</l>
+     <l n="3" rhyme="a" line_length="8">Monsieur de Bismarck nous l'a dit :</l>
+     <l n="4" rhyme="b" line_length="8">Il compte sur La Populace !</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Sur ce qui se vautre à genoux,</l>
+     <l n="6" rhyme="b" line_length="8">Sur ce qu'on pille et qu'on assomme.</l>
+     <l n="7" rhyme="a" line_length="8">Nous n'avons pas cela chez nous ;</l>
+     <l n="8" rhyme="b" line_length="8">Vous pouvez repasser, brave homme.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Ici, nous sommes Peuple, et non</l>
+     <l n="10" rhyme="b" line_length="8">Populace (erreur n'est pas compte !)</l>
+     <l n="11" rhyme="a" line_length="8">Le doux mot : France est notre nom ;</l>
+     <l n="12" rhyme="b" line_length="8">Enfin chez nous, monsieur le comte,</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">L'enfant même, aux hommes pareil,</l>
+     <l n="14" rhyme="b" line_length="8">Porte en lui les biens qu'il adore :</l>
+     <l n="15" rhyme="a" line_length="8">L'Amour, clair rayon du soleil,</l>
+     <l n="16" rhyme="b" line_length="8">Et la Liberté, cette aurore !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ŽLUTÁ RŮŽE</title>
+    <author>Dyk, Viktor</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dyk, Viktor_zluta-ruze</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ŽLUTÁ RŮŽE</title>
+     <author>Dyk, Viktor</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ŽLUTÁ RŮŽE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11001100010" rhyme="1" line_length="11">Vím, stmívá se, vím, obzor se mi úží...</l>
+     <l n="2" met="01000101010" rhyme="1" line_length="11">Nic nechci již, jen onu žlutou růži!</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="01010100010" rhyme="2" line_length="11">Z ní přísný chlad tak zádumčivě padá...</l>
+     <l n="4" met="01010101010" rhyme="2" line_length="11">S vším vezme za vděk moje duše ráda!</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="01010100010" rhyme="3" line_length="11">Kdys chtěl jsem nach, jenž krvácí a plane...</l>
+     <l n="6" met="01000100010" rhyme="3" line_length="11">Jsem klidný již, nechť cokoliv se stane!</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="01010100010" rhyme="1" line_length="11">Můj duch je mdlý. A obzor můj se úží...</l>
+     <l n="8" met="01010101010" rhyme="1" line_length="11">Viď, ty mi dáš tu chladnou, žlutou růži!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

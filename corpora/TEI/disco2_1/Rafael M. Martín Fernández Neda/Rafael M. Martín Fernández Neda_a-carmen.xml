@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Carmen</title>
+    <author>Rafael M. Martín Fernández Neda</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Rafael M. Martín Fernández Neda_a-carmen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Carmen</title>
+     <author>Rafael M. Martín Fernández Neda</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Carmen</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--++-++-">Gozo tanto en mirarte, que me olvido</l>
+     <l n="2" met="--+--+--++-">de lo mucho que sufro con no verte,</l>
+     <l n="3" met="-+---+--++-">y vivo con tu vida de tal suerte</l>
+     <l n="4" met="-+-+-+-+-+-">que me figuro que antes no he vivido.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+++-">Tu amor el rayo fulgurante ha sido</l>
+     <l n="6" met="-++--+-+-+-">que dio aliento vital al pecho inerte:</l>
+     <l n="7" met="-+-+---+-+-">el ángel eres que arrancó a la muerte</l>
+     <l n="8" met="-+-+---+-+-">la vaga sombra de mi bien perdido.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++--+----+-">No hay un solo recuerdo en mi memoria</l>
+     <l n="10" met="-+---++--+-">que no te pertenezca; un pensamiento</l>
+     <l n="11" met="-+++--++-+-">que tú no inspires, y te adoro tanto,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+---+-">que no envidio la dicha de la Gloria</l>
+     <l n="13" met="--+--++--+-">mientras guarde la fe de un juramento</l>
+     <l n="14" met="--+--+-+++-">que por ser de tus labios es tan santo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

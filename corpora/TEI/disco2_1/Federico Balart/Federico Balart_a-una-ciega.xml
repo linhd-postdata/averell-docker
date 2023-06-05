@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A una ciega</title>
+    <author>Federico Balart</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Federico Balart_a-una-ciega</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A una ciega</title>
+     <author>Federico Balart</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A una ciega</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+---+-+-">No temas, no, que con esfuerzo vano</l>
+     <l n="2" met="-++--+---+-">tras ti, ciega Fortuna, me remonte;</l>
+     <l n="3" met="-+---+---+-">espera que tus ímpetus afronte,</l>
+     <l n="4" met="+-+--+---+-">no que tienda a tus dádivas la mano.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++-+-+---+-">Sé que he de hallar abrojos en el llano;</l>
+     <l n="6" met="++-+-+---+-">sé que he de hallar espinos en el monte,</l>
+     <l n="7" met="--+--+---+-">y en el linde fatal de tu horizonte,</l>
+     <l n="8" met="+--+-+---+-">árido yermo, o fétido pantano.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+++-+-">Toda gran esperanza es gran quimera;</l>
+     <l n="10" met="-+---+---+-">por eso, sin afanes ni porfías,</l>
+     <l n="11" met="--+--+---+-">resignado prosigo mi carrera,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">sabiendo que, al extremo de mis días</l>
+     <l n="13" met="---+-+--++-">el Desengaño sórdido me espera</l>
+     <l n="14" met="--+--+---+-">con las manos abiertas y vacías.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

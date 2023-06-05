@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>AŤ LEŽÍ!</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_at-lezi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>AŤ LEŽÍ!</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>AŤ LEŽÍ!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101" rhyme="1" line_length="8">Ať leží třeba ještě sníh</l>
+     <l n="2" met="100010010" rhyme="2" line_length="9">na stráni i na spícím luhu,</l>
+     <l n="3" met="01010100" rhyme="1" line_length="8">přec v zlatých slunce paprscích</l>
+     <l n="4" met="010100110" rhyme="2" line_length="9">juž vítám kvetoucích niv duhu</l>
+     <l n="5" met="01010101" rhyme="1" line_length="8">a slyším zvonit ptačí smích.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="01010100" rhyme="1" line_length="8">Nechť jeden štěbot v závějích</l>
+     <l n="7" met="010100110" rhyme="2" line_length="9">se tulí vrabčáci druh k druhu</l>
+     <l n="8" met="01000100" rhyme="1" line_length="8">a diamanty na větvích</l>
+     <l n="9" met="010" line_length="3">ať leží!</l>
+    </lg>
+    <lg n="3">
+     <l n="10" met="01010100" rhyme="1" line_length="8">Však brzy v slzných krůpějích</l>
+     <l n="11" met="010101010" rhyme="2" line_length="9">ty skanou, listí sedne v kruhu</l>
+     <l n="12" met="100101010" rhyme="2" line_length="9">na haluz, rolník sáhne k pluhu.</l>
+     <l n="13" met="01010101" rhyme="1" line_length="8">Tak v jaro věčné patřím tich</l>
+     <l n="14" met="01011000" rhyme="1" line_length="8">a stáří sníh na vlasech mých</l>
+     <l n="15" met="010" line_length="3">ať leží!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

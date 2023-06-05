@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NA HORÁCH (I)</title>
+    <author>Jelínek, Hanuš</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jelínek, Hanuš_na-horach-i</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NA HORÁCH (I)</title>
+     <author>Jelínek, Hanuš</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NA HORÁCH (I)</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" rhyme="1" line_length="8">Hořce už kvetou na stráních</l>
+     <l n="2" met="10000" rhyme="2" line_length="5">pod Dvoračkami.</l>
+     <l n="3" met="100100100" rhyme="1" line_length="9">Bolestnou otázku čtu já z nich:</l>
+     <l n="4" met="01010" rhyme="2" line_length="5">Proč nejsi s námi?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="110100100" rhyme="3" line_length="9">Déšť padá na Lysou, Kokrháč,</l>
+     <l n="6" met="10010" rhyme="2" line_length="5">Kotelné jámy.</l>
+     <l n="7" met="01011001" rhyme="3" line_length="8">To není déšť, vždyť je to pláč,</l>
+     <l n="8" met="01010" rhyme="2" line_length="5">že nejsi s námi!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010100" rhyme="4" line_length="8">Naslouchám: zpívá vodopád</l>
+     <l n="10" met="10010" rhyme="2" line_length="5">nápěv svůj známý.</l>
+     <l n="11" met="10010100" rhyme="4" line_length="8">Měl jsi přec ještě posečkat</l>
+     <l n="12" met="01010" rhyme="2" line_length="5">zde mezi námi!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MLADÉ PŘÍTELKYNI.</title>
+    <author>Procházka, František Serafínský</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Procházka, František Serafínský_mlade-pritelkyni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MLADÉ PŘÍTELKYNI.</title>
+     <author>Procházka, František Serafínský</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MLADÉ PŘÍTELKYNI.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" line_length="8">Nejlepší rád bych písničku,</l>
+     <l n="2" met="1001010" rhyme="1" line_length="7">nejsladší a tak skvělou</l>
+     <l n="3" met="10000101" line_length="8">zazpíval Vám, jak nejlíp znám,</l>
+     <l n="4" met="1001010" rhyme="1" line_length="7">na tuto stránku celou.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010101" line_length="8">Ale kde vzít ji? Těžká věc, –</l>
+     <l n="6" met="10010010" rhyme="2" line_length="8">zpěváku naslouchat zbývá,</l>
+     <l n="7" met="10010100" line_length="8">ano ji právě místo mne</l>
+     <l n="8" met="01010010" rhyme="2" line_length="8">to Vaše mládí si zpívá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" line_length="8">Tak tedy jenom v mlčení</l>
+     <l n="10" met="10010010" rhyme="3" line_length="8">zelenou větvičkou mávám</l>
+     <l n="11" met="11010100" line_length="8">a, zpěv jak zvučí zahrádkou,</l>
+     <l n="12" met="0101000" rhyme="3" line_length="7">s ním v takt si podupávám.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

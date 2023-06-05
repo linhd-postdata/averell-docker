@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>EPITAPH.</title>
+    <author>‘Christian Carstairs’</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>‘Christian Carstairs’_epitaph</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Eighteenth Century Poetry Archive</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>EPITAPH.</title>
+     <author>‘Christian Carstairs’</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>EPITAPH.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="quatrain">
+     <l n="1" met="-+|-+|-+|-+" line_length="8">TO darkest deeds the fairest tombs</l>
+     <l n="2" met="-+|-+|-+" line_length="6">Erected are by pride;</l>
+     <l n="3" met="-+|-+|-+|-+" line_length="8">But modest virtue never tries,</l>
+     <l n="4" met="-+|-+|-+" line_length="6">By art your steps to guide.</l>
+     <l n="5" met="-+|-+|-+|-+" line_length="8">Truth was her search while here below,</l>
+     <l n="6" met="-+|-+|-+" line_length="6">She's found it now in heaven;</l>
+     <l n="7" met="-+|-+|-+|-+" line_length="8">The soul's set free, while to this earth</l>
+     <l n="8" met="-+|-+|-+" line_length="6">The dust alone is given.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

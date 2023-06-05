@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hielos</title>
+    <author>Carlos Valverde López</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Carlos Valverde López_hielos</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hielos</title>
+     <author>Carlos Valverde López</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hielos</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+---+-">Han llegado los hielos a mi vida</l>
+     <l n="2" met="-+---+---+-">y al hondo de mi ser la campanada</l>
+     <l n="3" met="---+-+---+-">de la implacable y ronca carcajada</l>
+     <l n="4" met="---+-+---+-">con la que dios rubrica mi partida.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++---+---+-">¿Qué voz entonará la bienvenida</l>
+     <l n="6" met="+--+-+---+-">a ese lugar ignoto en la alborada</l>
+     <l n="7" met="---+-+-+-+-">de mi postrer andar? ¿qué cruel celada</l>
+     <l n="8" met="---+-+---+-">esconderá el turbión de mi caída?</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Aunque el alma resiste, prisionera</l>
+     <l n="10" met="-+---+-+-+-">del vórtice fatal que ya describe</l>
+     <l n="11" met="-+---+---+-">el último eslabón de mi cadena</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---++--+-">anhelo rebasar esa frontera</l>
+     <l n="13" met="--+--+---+-">y escribir con mi pluma donde escribe</l>
+     <l n="14" met="+-+--+---+-">un convicto de muerte su condena.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

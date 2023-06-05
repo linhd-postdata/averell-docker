@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les djinns</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">15</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_les-djinns</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Les djinns</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Les djinns</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" />
+    <lg n="2" />
+    <lg n="3" />
+    <lg n="4" />
+    <lg n="5" />
+    <lg n="6" />
+    <lg n="7" />
+    <lg n="8">
+     <l n="1" rhyme="a" line_length="4+6">Cris de l'enfer ! voix qui hurle et qui pleure !</l>
+     <l n="2" rhyme="b" line_length="4+6">L'horrible essaim, poussé par l'aquilon,</l>
+     <l n="3" rhyme="a" line_length="4+6">Sans doute, ô ciel ! s'abat sur ma demeure.</l>
+     <l n="4" rhyme="b" line_length="4+6">Le mur fléchit sous le noir bataillon.</l>
+     <l n="5" rhyme="c" line_length="4+6">La maison crie et chancelle penchée,</l>
+     <l n="6" rhyme="c" line_length="4+6">Et l'on dirait que, du sol arrachée,</l>
+     <l n="7" rhyme="c" line_length="4+6">Ainsi qu'il chasse une feuille séchée,</l>
+     <l n="8" rhyme="b" line_length="4+6">Le vent la roule avec leur tourbillon !</l>
+    </lg>
+    <lg n="9" />
+    <lg n="10" />
+    <lg n="11" />
+    <lg n="12" />
+    <lg n="13" />
+    <lg n="14" />
+    <lg n="15" />
+   </lg>
+  </body>
+ </text>
+</TEI>

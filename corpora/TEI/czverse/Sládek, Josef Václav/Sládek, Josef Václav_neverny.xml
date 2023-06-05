@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nevěrný.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_neverny</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nevěrný.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nevěrný.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100" line_length="7">Jiné znovu slibuješ,</l>
+     <l n="2" met="001010" rhyme="1" line_length="6">co jsi lhával jedné,</l>
+     <l n="3" met="0010100" line_length="7">však ti proto srdéčko</l>
+     <l n="4" met="101000" rhyme="1" line_length="6">žalem neusedne.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1000100" line_length="7">A když já jsem zůstala</l>
+     <l n="6" met="001010" rhyme="2" line_length="6">jak ta hruše v poli,</l>
+     <l n="7" met="0010100" line_length="7">však tě proto, holečku,</l>
+     <l n="8" met="101000" rhyme="2" line_length="6">hlava nezabolí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010100" line_length="7">A když její hlavičku,</l>
+     <l n="10" met="100010" rhyme="3" line_length="6">jako mou to skosí,</l>
+     <l n="11" met="1000100" line_length="7">proto se ti slzičkou</l>
+     <l n="12" met="101000" rhyme="3" line_length="6">oči nezarosí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

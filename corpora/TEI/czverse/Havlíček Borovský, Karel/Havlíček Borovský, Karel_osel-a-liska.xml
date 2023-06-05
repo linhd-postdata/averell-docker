@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>OSEL A LIŠKA</title>
+    <author>Havlíček Borovský, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Havlíček Borovský, Karel_osel-a-liska</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>OSEL A LIŠKA</title>
+     <author>Havlíček Borovský, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>OSEL A LIŠKA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010101" rhyme="1" line_length="9">Osel člověk, ten se lehce zná,</l>
+     <l n="2" met="101000000" rhyme="1" line_length="9">pořád zpívá: já, já, já, já, já!</l>
+     <l n="3" met="101010000" line_length="9">Zato trpce cítí vás, vám, vy,</l>
+     <l n="4" met="101010010" line_length="9">nosí za vás přetěžké žoky.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101010100" rhyme="1" line_length="9">Liška člověk, ten vždy myslí: já,</l>
+     <l n="6" met="100010010" line_length="9">jenomže to neřekne nikdy,</l>
+     <l n="7" met="101010000" line_length="9">nýbrž zpívá pořád: vás, vám, vy,</l>
+     <l n="8" met="101010101" rhyme="1" line_length="9">a své žoky jiným nosit dá.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

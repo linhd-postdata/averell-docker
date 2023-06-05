@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Selské písničky. (V.)</title>
+    <author>Karas, Josef František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Karas, Josef František_selske-pisnicky-v</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Selské písničky. (V.)</title>
+     <author>Karas, Josef František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Selské písničky. (V.)</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Jsem člověk mírný, říkají.</l>
+     <l n="2" met="0101010" rhyme="1" line_length="7">Kdo dobrý, posměch sklízí.</l>
+     <l n="3" met="10000100" line_length="8">Na hroudu svou však nenechám</l>
+     <l n="4" met="0101010" rhyme="1" line_length="7">si rukou sahat cizí!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11010101" line_length="8">Mám oči modré, bodrý smích –</l>
+     <l n="6" met="1001010" rhyme="2" line_length="7">na pažích sval však tuhý.</l>
+     <l n="7" met="10010100" line_length="8">Od stodol svojich dovedu</l>
+     <l n="8" met="1101000" rhyme="2" line_length="7">hnát různé dobrodruhy.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000101" line_length="8">A leckdy snes’ jsem trpký žert,</l>
+     <l n="10" met="0101010" rhyme="3" line_length="7">však nesnes’ vlasti hanbu.</l>
+     <l n="11" met="10000001" line_length="8">Na otčinu mou kdo by sáh,</l>
+     <l n="12" met="0101010" rhyme="3" line_length="7">nu, tomu pomoz pánbů!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

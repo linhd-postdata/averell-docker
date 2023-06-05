@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Býk.</title>
+    <author>Langer, Josef Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Langer, Josef Jaroslav_byk</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Býk.</title>
+     <author>Langer, Josef Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Býk.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01011010" rhyme="1" line_length="8">Když neměl býk ještě rohy,</l>
+     <l n="2" met="10100010" rhyme="1" line_length="8">Aj tu pokořiv své nohy,</l>
+     <l n="3" met="10010010" rhyme="2" line_length="8">O milost Peruna prosil,</l>
+     <l n="4" met="11001010" rhyme="2" line_length="8">Řka: „Učiň, bych také nosil</l>
+     <l n="5" met="1001010" rhyme="3" line_length="7">Na silném čele rohy,</l>
+     <l n="6" met="1010100" rhyme="3" line_length="7">Jako jelen parohy.“</l>
+     <l n="7" met="10101010" rhyme="4" line_length="8">Na to slyšán hluk je hromů,</l>
+     <l n="8" met="11001010" rhyme="4" line_length="8">Býk s rohama chvátá domů.</l>
+    </lg>
+    <lg n="2">
+     <l n="9" met="1100101000" rhyme="5" line_length="10">Pán uviděv býka rohatého</l>
+     <l n="10" met="1000100" rhyme="6" line_length="7">Počne se mu diviti,</l>
+     <l n="11" met="1010100" rhyme="6" line_length="7">Počne rohy chváliti;</l>
+     <l n="12" met="1000101010" rhyme="5" line_length="10">Zavolá i hnedky sluhu svého:</l>
+     <l n="13" met="1010100" rhyme="3" line_length="7">„Honem! provaz na rohy!“</l>
+     <l n="14" met="1010100" rhyme="3" line_length="7">Za roh táhne ubohý.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

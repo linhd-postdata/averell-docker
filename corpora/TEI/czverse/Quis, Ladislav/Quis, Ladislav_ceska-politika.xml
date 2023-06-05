@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Česká politika.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_ceska-politika</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Česká politika.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Česká politika.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000100" rhyme="1" line_length="11">Taká české politiky podstata:</l>
+     <l n="2" met="101110100" rhyme="1" line_length="9">Jedni: Bum, bum! Druzí: Ra-ta-ta!</l>
+     <l n="3" met="10001010100" line_length="11">Pomohli-li oni z bláta do louže,</l>
+     <l n="4" met="00100010100" rhyme="1" line_length="11">ti zas pomohou nám z louže do bláta.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

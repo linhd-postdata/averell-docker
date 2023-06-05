@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A San Acacio</title>
+    <author>Cristóbal de Villarroel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cristóbal de Villarroel_a-san-acacio</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A San Acacio</title>
+     <author>Cristóbal de Villarroel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A San Acacio</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+-+-+-+-">De un golpe dio el amor diez mil heridas,</l>
+     <l n="2" met="++-+-+-+-+-">un solo arnés armó diez mil soldados,</l>
+     <l n="3" met="++-+-+---+-">hizo una cruz diez mil crucificados,</l>
+     <l n="4" met="--++-+--++-">y produjo una muerte diez mil vidas;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++---+-+-+-">un palio se cortó a diez mil medidas,</l>
+     <l n="6" met="++---+---+-">y un hábito a diez mil encomendados,</l>
+     <l n="7" met="+--+-+-+-+-">una venera honró diez mil cruzados,</l>
+     <l n="8" met="---+-+--++-">y enriqueció un cruzado diez mil Midas;</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+-+-+-">juntó una adversidad diez mil amigos,</l>
+     <l n="10" met="+-+--+--++-">a una misa se cantan diez mil glorias,</l>
+     <l n="11" met="+-+--+-+-+-">y una gloria llevó diez mil espacios;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+-+-+-">concordó una verdad diez mil testigos,</l>
+     <l n="13" met="+--+-+-+-+-">un testador dejó diez mil memorias.</l>
+     <l n="14" met="+-+--+-+-+-">y un Acacio heredó diez mil Acacios.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

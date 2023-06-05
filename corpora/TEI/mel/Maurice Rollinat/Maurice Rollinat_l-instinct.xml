@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L'Instinct</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_l-instinct</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L'Instinct</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L'Instinct</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Heureux l'homme qui se guérit</l>
+     <l n="2" rhyme="b" line_length="8">De la vénéneuse lecture,</l>
+     <l n="3" rhyme="a" line_length="8">Du projet, du songe, et nourrit</l>
+     <l n="4" rhyme="b" line_length="8">Sa pensée avec la nature !</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="b" line_length="8">Il sent flotter à l'aventure</l>
+     <l n="6" rhyme="a" line_length="8">Sur les friches de son esprit</l>
+     <l n="7" rhyme="a" line_length="8">L'âme des choses, il sourit</l>
+     <l n="8" rhyme="b" line_length="8">À tout, même à la sépulture !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="8">Oh ! s'échapper enfin des mots,</l>
+     <l n="10" rhyme="c" line_length="8">Rêver comme les animaux,</l>
+     <l n="11" rhyme="d" line_length="8">Ravoir la vision première !</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="8">Seulement d'instinct, savourer</l>
+     <l n="13" rhyme="e" line_length="8">La création ! S'enivrer</l>
+     <l n="14" rhyme="d" line_length="8">De l'espace et de la lumière !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

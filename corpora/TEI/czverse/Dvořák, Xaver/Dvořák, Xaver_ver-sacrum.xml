@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VER SACRUM.</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_ver-sacrum</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VER SACRUM.</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VER SACRUM.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100" rhyme="1" line_length="8">Už jaro jest, už jaro jest,</l>
+     <l n="2" met="11010101" rhyme="1" line_length="8">chce všecko mřít a všecko kvést;</l>
+     <l n="3" met="010111010" rhyme="2" line_length="9">než vykvést dá zem lačná, prve</l>
+     <l n="4" met="111101010" rhyme="2" line_length="9">chce ssát, chce ssát i z tvojí krve.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="110101010" rhyme="3" line_length="9">Ó hoďte rychle zrna v pole,</l>
+     <l n="6" met="000100010" rhyme="3" line_length="9">ať mrou, ať práchnivějí dole,</l>
+     <l n="7" met="010101010" rhyme="4" line_length="9">však květ svůj vznesou ze hrud vlny:</l>
+     <l n="8" met="11010001000" rhyme="4" line_length="11">ó přerod bolestný a tajuplný!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="110101010" rhyme="5" line_length="9">Chceš tělo v zem? má duše hoří!</l>
+     <l n="10" met="010101000" rhyme="5" line_length="9">dřív květ svůj k slunci nevynoří!</l>
+     <l n="11" met="11010101" rhyme="6" line_length="8">v svět záhad má se v plese vznést?</l>
+     <l n="12" met="11001101" rhyme="6" line_length="8">Čas mřít jest – kdo chce věčně kvést!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

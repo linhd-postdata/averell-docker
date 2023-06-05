@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Al mundo</title>
+    <author>León de Arroyal</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>León de Arroyal_al-mundo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Al mundo</title>
+     <author>León de Arroyal</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Al mundo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--++--+-">¿Qué eres, mundo falaz? ¿Por qué apetece</l>
+     <l n="2" met="-+--+-++-+-">el hombre en ti vivir? ¿Por qué codicia</l>
+     <l n="3" met="-+-+-+---+-">tus falsos gustos llenos de injusticia?</l>
+     <l n="4" met="-+---+---+-">¿Por qué en tus vanidades permanece?</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">Por qué su entendimiento se oscurece?</l>
+     <l n="6" met="-+++++---+-">¿Por qué, di, no le empacha tu inmundicia?</l>
+     <l n="7" met="-+-+-+---+-">¿Por qué jamás conoce tu malicia?</l>
+     <l n="8" met="-+---+---+-">¿Por qué tus tiranías obedece?</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-++--++--+-">¿Por qué le es la vedad tan amargosa?</l>
+     <l n="10" met="-+---++--+-">¿Por qué huye de la luz tan obcecado?</l>
+     <l n="11" met="-+---++--+-">¿Por qué ama tu maldad tan corrompido?</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+--+-+--+-">¿Por qué? Porque apariencia tengo hermosa;</l>
+     <l n="13" met="---+-++--+-">porque quien me domina es el pecado;</l>
+     <l n="14" met="--+--++--+-">porque el hombre en pecado es concebido.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

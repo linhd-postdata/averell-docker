@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Prázdný je ten život,</title>
+    <author>Furch, Vincenc</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Furch, Vincenc_prazdny-je-ten-zivot</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Prázdný je ten život,</title>
+     <author>Furch, Vincenc</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Prázdný je ten život,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" line_length="6">Prázdný je ten život, </l>
+     <l n="2" met="100100" rhyme="1" line_length="6">Cíl svůj my neznáme,</l>
+     <l n="3" met="100010" line_length="6">Náhradu jen v tobě,</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">Krásná lásko, máme:</l>
+     <l n="5" met="100100" line_length="6">Našemu otvíráš</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">Duchu hvězdné světy,</l>
+     <l n="7" met="001010" line_length="6">Ty nám na zem bídnou</l>
+     <l n="8" met="101010" rhyme="2" line_length="6">Házíš nebes květy.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

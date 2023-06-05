@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Dionisio de Solís</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dionisio de Solís_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Dionisio de Solís</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+++-+-+-+-">¡En media hora un soneto! ¿A qué cristiano</l>
+     <l n="2" met="-++--+-+-+-">a tan bárbaro afán se le condena?</l>
+     <l n="3" met="++--++-+-+-">¿Y es Filis quien lo quiere? ¿A qué otra pena</l>
+     <l n="4" met="+--+++---+-">me sentenciara un Fálaris tirano?</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+++-++--+-">Pues qué, ¿no hay más? O ¿están tan a la mano</l>
+     <l n="6" met="---+---+-+-">los consonantes como en esta amena</l>
+     <l n="7" met="+--+---+-+-">margen del Turia la menuda arena</l>
+     <l n="8" met="---+-+-+-+-">en que tu blanco pie se imprime ufano?</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+-+-+-+-">No, cara Filis; mándame otra cosa,</l>
+     <l n="10" met="+--+-+---+-">ora de riesgo sea, ora de afrenta;</l>
+     <l n="11" met="-+---+---+-">que a cuanto de mis órdenes concedo.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+-+++-">Pero ¿un soneto, y qué, por ser tú hermosa,</l>
+     <l n="13" met="-+-+---+-+-">en ello, al fin, mi necedad consienta?</l>
+     <l n="14" met="++-+-+-+++-">No, Filis, no; perdóname: ¡no puedo!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El jugador</title>
+    <author>Carlos Valverde López</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Carlos Valverde López_el-jugador</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El jugador</title>
+     <author>Carlos Valverde López</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El jugador</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+--++---+-">Sin Dios, porque lo olvida en su locura;</l>
+     <l n="2" met="-+---+-+-+-">sin ley, porque atrevido, la vulnera;</l>
+     <l n="3" met="--+--+-+-+-">sin hogar, porque, infame, lo perdiera;</l>
+     <l n="4" met="-+---+++-+-">sin hijos, porque pan no les procura.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">Sin salud, porque tiene calentura:</l>
+     <l n="6" met="-+---+---+-">sin fe, porque del cielo desespera...</l>
+     <l n="7" met="++---+---+-">Tal es del jugador la verdadera</l>
+     <l n="8" met="--+--+---+-">imponente, fatídica figura.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+++--+---+-">Vedle: llega al tapete; su atonía</l>
+     <l n="10" met="-+---+-+-+-">en sorda excitación se torna luego;</l>
+     <l n="11" met="+----+-+-+-">late su corazón con furia impía;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+--+++--+-">el vértigo le invade, olas de fuego</l>
+     <l n="13" met="-+---+----+-">azotan su cerebro... y todavía</l>
+     <l n="14" met="---+-+-+-+-">con cavernosa voz exclama: «¡Juego!»</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

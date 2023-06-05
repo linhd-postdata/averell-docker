@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Velké či malé.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">7</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_velke-ci-male</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Velké či malé.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Velké či malé.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="001000100" rhyme="1" line_length="9">Zas už hádat se vás napadlo,</l>
+     <l n="2" met="10100010" rhyme="2" line_length="8">má-li velké být či malé</l>
+     <l n="3" met="10100" rhyme="1" line_length="5">druhé divadlo.</l>
+     <l n="4" met="1001101000" rhyme="2" line_length="10">Vyhovět lze snadno neskonale</l>
+     <l n="5" met="1000100" rhyme="3" line_length="7">nesnázi tu všeliké:</l>
+     <l n="6" met="100000100" rhyme="3" line_length="9">Významem svým ať je veliké,</l>
+     <l n="7" met="0010100010" rhyme="2" line_length="10">vždy pak bude obecenstvu malé.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Noční duma.</title>
+    <author>Šmilovský, Alois Vojtěch</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Šmilovský, Alois Vojtěch_nocni-duma</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Noční duma.</title>
+     <author>Šmilovský, Alois Vojtěch</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Noční duma.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">Šumí řeka nočním dolem,</l>
+     <l n="2" met="1010101" rhyme="1" line_length="7">dřímá bor i dřímá sad –</l>
+     <l n="3" met="10010010" line_length="8">na vrchu s měsícem bílým</l>
+     <l n="4" met="1010101" rhyme="1" line_length="7">vede hovor starý hrad.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" line_length="8">Hoj, ty hrade, starče šedý,</l>
+     <l n="6" met="1000100" rhyme="2" line_length="7">pohádko ty pověčná!</l>
+     <l n="7" met="10101010" line_length="8">zřímli k tobě, z hrobu vstává</l>
+     <l n="8" met="1010100" rhyme="2" line_length="7">doba slávy báječná.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10110010" line_length="8">Řinčí zbraň, pochodně planou,</l>
+     <l n="10" met="1010100" rhyme="3" line_length="7">oři půdu tepají,</l>
+     <l n="11" met="10001010" line_length="8">na železných křídlech letí</l>
+     <l n="12" met="1010100" rhyme="3" line_length="7">hlahol k válce po kraji;</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101010" line_length="8">z brány houf se řítí tryskem</l>
+     <l n="14" met="1010100" rhyme="4" line_length="7">národ hájit v údolí – –</l>
+     <l n="15" met="10001010" line_length="8">Procitnu – a horkým bolem</l>
+     <l n="16" met="1010100" rhyme="4" line_length="7">srdce v těle zabolí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

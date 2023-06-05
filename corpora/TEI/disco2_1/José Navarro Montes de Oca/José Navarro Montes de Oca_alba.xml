@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Alba</title>
+    <author>José Navarro Montes de Oca</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Navarro Montes de Oca_alba</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Alba</title>
+     <author>José Navarro Montes de Oca</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Alba</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">¡Oh, el blanco alborear de la mañana</l>
+     <l n="2" met="--+--+---+-">sobre el monte que al alba se refresca!</l>
+     <l n="3" met="---+-+---+-">¡Oh, la sonora voz de la campana</l>
+     <l n="4" met="--+--+---+-">que despierta la aldea pintoresca!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+---+-+-">¡Las golondrinas! De la fuente mana</l>
+     <l n="6" met="-+-+---+-+-">el chorro de agua cristalina y fresca,</l>
+     <l n="7" met="---+-+---+-">en donde llena, idílica y lozana,</l>
+     <l n="8" met="-+---+---+-">su cántaro la moza picaresca.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+-++---+-">Las comadres van juntas a la iglesia,</l>
+     <l n="10" met="---++--+-+-">y la pastora -hembra garbosa y recia-</l>
+     <l n="11" met="++-+---+-+-">guía un rebaño de corderos blancos.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+++-+---+-">¡Ah qué buena esta vida campesina!</l>
+     <l n="13" met="--+--+---+-">Se despierta la aldea pueblerina</l>
+     <l n="14" met="--+--+---+-">y en la sombra negrean los barrancos.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

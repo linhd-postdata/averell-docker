@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Esta en forma elegante, oh peregrino,</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_esta-en-forma-elegante-oh-pere</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Esta en forma elegante, oh peregrino,</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Esta en forma elegante, oh peregrino,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="+-+--+---+-" line_length="11">Esta en forma elegante, oh peregrino,</l>
+     <l n="2" met="-+---+-+-+-" line_length="11">de pórfido luciente dura llave,</l>
+     <l n="3" met="--++-+-++-" line_length="10">el pincel niega al mundo, más süave</l>
+     <l n="4" met="-++--+-+-+-" line_length="11">que dio espíritu a leño, vida a lino.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="-+---+-+-+-" line_length="11">Su nombre, aun de mayor aliento dino</l>
+     <l n="6" met="---+---+-+-" line_length="11">que en los clarines de la Fama cabe,</l>
+     <l n="7" met="-+-+-+-+-+-" line_length="11">el campo ilustra de ese mármol grave:</l>
+     <l n="8" met="-+---+---+-" line_length="11">venéralo, y prosigue tu camino.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="+-+--+---+-" line_length="11">Yace el Griego. Heredó naturaleza</l>
+     <l n="10" met="+-+-++--+-" line_length="10">arte, y el arte estudio, Iris colores,</l>
+     <l n="11" met="+-+--++--+-" line_length="11">Febo luces, si no sombras Morfeo.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="++--+---+-" line_length="10">Tanta urna, a pesar de su dureza,</l>
+     <l n="13" met="+--+---+-+-" line_length="11">lágrimas beba, y cuantos suda olores</l>
+     <l n="14" met="-+---++--+-" line_length="11">corteza funeral de árbol sabeo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

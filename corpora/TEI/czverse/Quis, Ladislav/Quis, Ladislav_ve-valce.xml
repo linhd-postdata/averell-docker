@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ve válce.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_ve-valce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ve válce.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ve válce.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" line_length="9">Kdo může písně lásky pěti,</l>
+     <l n="2" met="01010100" rhyme="1" line_length="8">kdy vládne zášť jen plamenná,</l>
+     <l n="3" met="010101010" line_length="9">co slast i žal, jenž v jednom srdci,</l>
+     <l n="4" met="01010100" rhyme="1" line_length="8">kdy sta jich hyne, znamená? –</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101010" line_length="9">Kdo může pěti, vše kdy pláče,</l>
+     <l n="6" met="01010100" rhyme="2" line_length="8">jen svoji bolest jedinou? –</l>
+     <l n="7" met="010101010" line_length="9">Já za žalm měním lásky písně,</l>
+     <l n="8" met="01010100" rhyme="2" line_length="8">kéž za meč měl bych lyru svou.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

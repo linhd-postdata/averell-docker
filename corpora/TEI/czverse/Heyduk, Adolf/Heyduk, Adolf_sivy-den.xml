@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sivý den.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_sivy-den</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sivý den.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sivý den.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11000101" rhyme="1" line_length="8">Jde od východu sivý den</l>
+     <l n="2" met="100001010" rhyme="2" line_length="9">do zakrytého mlhou kraje,</l>
+     <l n="3" met="01000101" rhyme="1" line_length="8">a západního větru sten</l>
+     <l n="4" met="010101010" rhyme="2" line_length="9">si v stromů zvadlém listí hraje.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010001" rhyme="3" line_length="8">To smutný, úzkostný je vzdech</l>
+     <l n="6" met="100101010" rhyme="4" line_length="9">pro niv a luhu květné zdoby,</l>
+     <l n="7" met="01010100" rhyme="3" line_length="8">a s vláhou slznou na křídlech</l>
+     <l n="8" met="110010010" rhyme="4" line_length="9">duch na drahé se spouští hroby. –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

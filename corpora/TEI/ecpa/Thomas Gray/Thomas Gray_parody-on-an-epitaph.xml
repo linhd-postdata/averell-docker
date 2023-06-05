@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>[Parody on an Epitaph]</title>
+    <author>Thomas Gray</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">3</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Thomas Gray_parody-on-an-epitaph</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Eighteenth Century Poetry Archive</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>[Parody on an Epitaph]</title>
+     <author>Thomas Gray</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>[Parody on an Epitaph]</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="triplet">
+     <l n="1" met="-+|-+|-+|-+|-+" line_length="10">Now clean, now hideous, mellow now, now gruff,</l>
+     <l n="2" met="-+|-+|-+|-+|-+" line_length="10">She swept, she hissed, she ripened and grew rough,</l>
+     <l n="3" met="-+|-+|-+|-+|-+" line_length="10">At Broom, Pendragon, Appleby and Brough.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

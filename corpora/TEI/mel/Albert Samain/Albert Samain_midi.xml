@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MIDI</title>
+    <author>Albert Samain</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Albert Samain_midi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MIDI</title>
+     <author>Albert Samain</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MIDI</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Au zénith aveuglant brûle un globe de flamme.</l>
+     <l n="2" rhyme="b" line_length="6+6">Le ciel entier frémit criblé de flèches d'or.</l>
+     <l n="3" rhyme="b" line_length="6+6">Immobile et ridée à peine la mer dort,</l>
+     <l n="4" rhyme="a" line_length="6+6">La mer dort au soleil comme une belle femme.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Çà et là, dans le creux des rochers, une lame</l>
+     <l n="6" rhyme="b" line_length="6+6">Blanchit, et par degrés d'un insensible effort</l>
+     <l n="7" rhyme="b" line_length="6+6">Les vagues, expirant sur le sable du bord,</l>
+     <l n="8" rhyme="a" line_length="6+6">Allongent leur ourlet tiède jusqu'à mon âme.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Mon âme a fui !… Mon âme est dans la mer sacrée !</l>
+     <l n="10" rhyme="a" line_length="6+6">Mon âme est l'eau qui brille et la clarté dorée.</l>
+     <l n="11" rhyme="b" line_length="6+6">Et l'écume et la nacre, et la brise et le sel !</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="c" line_length="6+6">Et mon essence unie à l'essence du monde</l>
+     <l n="13" rhyme="c" line_length="6+6">Court, miroite, étincelle, et se perd, vagabonde,</l>
+     <l n="14" rhyme="b" line_length="6+6">Ainsi qu'un grain d'encens consumé sur l'autel</l>
+     <l n="15" rhyme="b" line_length="6+6">Dans la splendeur sans bords de l'être universel.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

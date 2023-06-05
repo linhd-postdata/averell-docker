@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L'HORLOGE ARRÊTÉE</title>
+    <author>Marceline Desbordes-Valmore</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Marceline Desbordes-Valmore_l-horloge-arretee</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L'HORLOGE ARRÊTÉE</title>
+     <author>Marceline Desbordes-Valmore</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L'HORLOGE ARRÊTÉE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Horloge d'où s'élançait l'heure</l>
+     <l n="2" rhyme="b" line_length="8">Vibrante en passant dans l'or pur,</l>
+     <l n="3" rhyme="a" line_length="8">Comme l'oiseau qui chante, ou pleure</l>
+     <l n="4" rhyme="b" line_length="8">Dans un arbre où son nid est sûr :</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Ton haleine égale et sonore,</l>
+     <l n="6" rhyme="b" line_length="8">Dans le froid cadran ne bat plus ;</l>
+     <l n="7" rhyme="a" line_length="8">Tout s'éteint-il comme l'aurore</l>
+     <l n="8" rhyme="b" line_length="8">Des beaux jours qu'à ton front j'ai lus !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

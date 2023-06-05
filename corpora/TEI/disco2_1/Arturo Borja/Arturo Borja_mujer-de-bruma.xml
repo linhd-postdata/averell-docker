@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mujer de bruma</title>
+    <author>Arturo Borja</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Arturo Borja_mujer-de-bruma</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mujer de bruma</title>
+     <author>Arturo Borja</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mujer de bruma</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-++-+---+-">Fue como un cisne blanco que se aleja</l>
+     <l n="2" met="---+-+-+-+-">y se aleja, suave, dulcemente,</l>
+     <l n="3" met="---+-+---+-">por el cristal azul de la corriente,</l>
+     <l n="4" met="-+-+---+-+-">como una vaga y misteriosa queja.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++---++--+-">Me queda su visión. Era una vieja</l>
+     <l n="6" met="+-+-+----+-">tarde fría de lluvia intermitente;</l>
+     <l n="7" met="+----+---+-">ella, bajo la máscara indolente</l>
+     <l n="8" met="--+--+---+-">de su enigma, pasó por la calleja.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-++-+---+-">Fue como un cisne blanco. Fue como una</l>
+     <l n="10" met="---+-+---+-">aparición nostálgica y alada,</l>
+     <l n="11" met="--+--+---+-">entrevista ilusión de la fortuna...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-++-+---+-">Fue como un cisne blanco y misterioso</l>
+     <l n="13" met="---+-+-+-+-">que en la leyenda de un país brumoso</l>
+     <l n="14" met="+----+---+-">surge como la luna inmaculada.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

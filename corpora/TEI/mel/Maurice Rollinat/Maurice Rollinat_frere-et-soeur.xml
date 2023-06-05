@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Frère et sœur</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_frere-et-soeur</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Frère et sœur</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Frère et sœur</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Frère et sœur, les petiots, se tenant par la main,</l>
+     <l n="2" rhyme="b" line_length="6+6">Vont au rythme pressé de leurs bras qu'ils balancent ;</l>
+     <l n="3" rhyme="b" line_length="6+6">Des hauteurs et des fonds de grands souffles s'élancent,</l>
+     <l n="4" rhyme="a" line_length="6+6">Devant eux le soir lourd assombrit le chemin.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Survient l'orage ! avec tout l'espace qui gronde,</l>
+     <l n="6" rhyme="b" line_length="6+6">Avec le rouge éclair qui les drape de sang,</l>
+     <l n="7" rhyme="b" line_length="6+6">Les barbouille de flamme en les éblouissant ;</l>
+     <l n="8" rhyme="a" line_length="6+6">Enfin, la nuit les perd dans la forêt profonde.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">La lune qui verdit ses nuages de marbre</l>
+     <l n="10" rhyme="a" line_length="8">Admire en les gazant ces deux êtres humains</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

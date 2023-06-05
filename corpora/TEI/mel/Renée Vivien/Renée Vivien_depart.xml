@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>DÉPART</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_depart</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>DÉPART</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>DÉPART</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">J’ai vu s’éteindre en moi le brûlant désespoir…</l>
+     <l n="2" rhyme="b" line_length="6+6">Ma bouche cessera de ravager ta bouche,</l>
+     <l n="3" rhyme="b" line_length="6+6">Je ne connaîtrai plus les veilles sur la couche</l>
+     <l n="4" rhyme="b" line_length="6+6">De la moite Insomnie et du Désir farouche,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Car la Mer et la Mort me rappellent, ce soir…</l>
+    </lg>
+    <lg n="3">
+     <l n="6" rhyme="a" line_length="6+6">La nuit vient assombrir tes cheveux d’asphodèle,</l>
+     <l n="7" rhyme="a" line_length="6+6">Et les chauves-souris ont frappé de leur aile</l>
+     <l n="8" rhyme="b" line_length="6+6">Bleue et longue ma porte où l’ombre vient pleuvoir…</l>
+     <l n="9" rhyme="a" line_length="6+6">J’ai fait taire mon cœur que l’angoisse martèle,</l>
+    </lg>
+    <lg n="4">
+     <l n="10" rhyme="b" line_length="6+6">Car la Mer et la Mort me rappellent, ce soir…</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

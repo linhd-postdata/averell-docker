@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>POUR UNE</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_pour-une</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>POUR UNE</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>POUR UNE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="5+6">Dans l’avenir gris comme une aube incertaine,</l>
+     <l n="2" rhyme="b" line_length="5+6">Quelqu’un, je le crois, se souviendra de nous,</l>
+     <l n="3" rhyme="a" line_length="5+6">En voyant brûler sur l’ambre de la plaine</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="a" line_length="5+6">Un être, parmi les êtres de la terre,</l>
+     <l n="5" rhyme="b" line_length="5+6">Ô ma Volupté ! se souviendra de nous,</l>
+     <l n="6" rhyme="a" line_length="5+6">Une femme, ayant à son front le mystère</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="a" line_length="5+6">Elle chérira l’embrun léger qui fume</l>
+     <l n="8" rhyme="b" line_length="5+6">Et les oliviers aussi beaux que la mer,</l>
+     <l n="9" rhyme="a" line_length="5+6">La fleur de la neige et la fleur de l’écume,</l>
+    </lg>
+    <lg n="4">
+     <l n="10" rhyme="a" line_length="5+6">Attristant d’adieux les rives et les berges,</l>
+     <l n="11" rhyme="b" line_length="5+6">Sous les gravités d’un soleil obscurci,</l>
+     <l n="12" rhyme="a" line_length="5+6">Elle connaîtra l’amour sacré des vierges,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

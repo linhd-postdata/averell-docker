@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kolébka.</title>
+    <author>Klášterský, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Klášterský, Antonín_kolebka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kolébka.</title>
+     <author>Klášterský, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kolébka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" rhyme="1" line_length="8">U kamen stojí kolébka –</l>
+     <l n="2" met="10010010" rhyme="2" line_length="8">venku se nevlídně smráká –</l>
+     <l n="3" met="01010100" rhyme="1" line_length="8">je jako prázdná skořepka,</l>
+     <l n="4" met="10101010" rhyme="2" line_length="8">jako klec, v níž není ptáka.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" rhyme="3" line_length="8">Ženě se večír, v poledne</l>
+     <l n="6" met="10110010" rhyme="4" line_length="8">jizba zdá pustá a sirá,</l>
+     <l n="7" met="010100100" rhyme="3" line_length="9">jak na tu kolébku pohlédne,</l>
+     <l n="8" met="10010010" rhyme="4" line_length="8">slzu si před mužem stírá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010100" rhyme="5" line_length="8">Z okna ten sešlý od trudů</l>
+     <l n="10" met="10010010" rhyme="6" line_length="8">dívá se, dívá a mračí.</l>
+     <l n="11" met="10010100" rhyme="5" line_length="8">„Odnes to, ženo, na půdu,</l>
+     <l n="12" met="00010010" rhyme="6" line_length="8">když tě to svádí jen k pláči!“</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10010101" rhyme="7" line_length="8">Říká to stále, celé dni,</l>
+     <l n="14" met="10010010" rhyme="8" line_length="8">žena ji na místě nechá,</l>
+     <l n="15" met="10100100" rhyme="7" line_length="8">pláče, vždyť přec jen poslední</l>
+     <l n="16" met="10010010" rhyme="8" line_length="8">v slzách je každého těcha!</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10010100" rhyme="9" line_length="8">Nechá ji státi na světle,</l>
+     <l n="18" met="10010110" rhyme="10" line_length="8">jako se nechá klec státi,</l>
+     <l n="19" met="10010100" rhyme="9" line_length="8">zdali snad přece uletlé</l>
+     <l n="20" met="10010010" rhyme="10" line_length="8">ptačátko do ní se vrátí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

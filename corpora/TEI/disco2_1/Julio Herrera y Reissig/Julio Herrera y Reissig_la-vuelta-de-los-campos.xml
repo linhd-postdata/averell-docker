@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La vuelta de los campos</title>
+    <author>Julio Herrera y Reissig</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Julio Herrera y Reissig_la-vuelta-de-los-campos</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La vuelta de los campos</title>
+     <author>Julio Herrera y Reissig</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La vuelta de los campos</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+--+--+-">La tarde paga en oro divino las faenas...</l>
+     <l n="2" met="-++--+--+---+-">Se ven limpias mujeres vestidas de percales,</l>
+     <l n="3" met="-+---+--+---+-">trenzando sus cabellos con tilos y azucenas</l>
+     <l n="4" met="-+---+--+---+-">o haciendo sus labores de aguja en los umbrales.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+--+---+-">Zapatos claveteados y báculos y chales...</l>
+     <l n="6" met="++---+----+--+">Dos mozas con sus cántaros se deslizan apenas.</l>
+     <l n="7" met="+-+--+----+--+">Huye el vuelo sonámbulo de las horas serenas.</l>
+     <l n="8" met="+-+--+-+----+-">Un suspiro de Arcadia peina los matorrales...</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+-+--+---+-">Cae un silencio austero... Del charco que se nimba</l>
+     <l n="10" met="-++--+--+---+-">estalla una gangosa balada de marimba.</l>
+     <l n="11" met="-+---+----+-+-">Los lagos se amortiguan con espectrales lampos,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+---+">las cumbres, ya quiméricas, corónanse de rosas...</l>
+     <l n="13" met="-+--+--+---+-">Y humean a lo lejos las rutas polvorosas</l>
+     <l n="14" met="-----+--+---+-">por donde los labriegos regresan de los campos.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

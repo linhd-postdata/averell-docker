@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LXIII</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_lxiii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LXIII</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LXIII</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="7">Oh ! de mon ardente fièvre</l>
+     <l n="2" rhyme="b" line_length="7">Un baiser peut me guérir.</l>
+     <l n="3" rhyme="a" line_length="7">Laisse ma lèvre à ta lèvre</l>
+     <l n="4" rhyme="b" line_length="7">S'attacher pour y mourir.</l>
+     <l n="5" rhyme="c" line_length="7">Ta bouche, c'est le ciel même.</l>
+     <l n="6" rhyme="d" line_length="7">Mon âme veut s'y poser.</l>
+     <l n="7" rhyme="c" line_length="7">Puisse mon souffle suprême</l>
+     <l n="8" rhyme="d" line_length="7">S'en aller dans un baiser !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

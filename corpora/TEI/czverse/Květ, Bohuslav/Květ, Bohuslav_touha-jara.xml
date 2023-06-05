@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>TOUHA JARA.</title>
+    <author>Květ, Bohuslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Květ, Bohuslav_touha-jara</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>TOUHA JARA.</title>
+     <author>Květ, Bohuslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>TOUHA JARA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101" rhyme="1" line_length="8">Je únor ještě... mráz a sníh!</l>
+     <l n="2" met="10010100" rhyme="1" line_length="8">Na holých ale na větvích</l>
+     <l n="3" met="01010100" rhyme="2" line_length="8">svou píseň pták již cvrliká,</l>
+     <l n="4" met="01010100" rhyme="2" line_length="8">ač mráz mu tílkem proniká.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" rhyme="3" line_length="8">Tak také duše člověka</l>
+     <l n="6" met="10010100" rhyme="3" line_length="8">po jaru touží zdaleka.</l>
+     <l n="7" met="10010001" rhyme="4" line_length="8">V mrazivých únorových dnech</l>
+     <l n="8" met="01010101" rhyme="4" line_length="8">si půvab máje kouzlí v snech...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

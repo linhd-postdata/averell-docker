@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PAN RADA.</title>
+    <author>Klášterský, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Klášterský, Antonín_pan-rada</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PAN RADA.</title>
+     <author>Klášterský, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PAN RADA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100110" rhyme="1" line_length="11">Dnes v znamenité míře je pan rada,</l>
+     <l n="2" met="10010100110" rhyme="2" line_length="11">úsměvem září, veselé má hledy,</l>
+     <l n="3" met="01000100010" rhyme="1" line_length="11">dnes přehlíží, že pod podložkou skládá</l>
+     <l n="4" met="10010101010" rhyme="2" line_length="11">milostné verše dívce písař bledý.</l>
+     <l n="5" met="01010100010" rhyme="1" line_length="11">Hned kývne, jak kdo o zálohu žádá.</l>
+     <l n="6" met="01001101000" rhyme="2" line_length="11">Snad záslužný kříž čeká naposledy?</l>
+     <l n="7" met="01000100010" rhyme="1" line_length="11">Ne, president dnes poklepal mu v záda:</l>
+     <l n="8" met="00011001010" rhyme="2" line_length="11">"Wie geht's Herr Rat? – Na karty přijdou tedy."</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sudden Light</title>
+    <author>Dante Gabriel Rossetti</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dante Gabriel Rossetti_sudden-light</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>For Better For Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sudden Light</title>
+     <author>Dante Gabriel Rossetti</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sudden Light</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cinquain">
+     <l n="1" met="+--+-+|+-+--+|-+-+-+|-++--+|--++-+">I have been here before,</l>
+     <l n="2" met="-+-+-+-+">But when or how I cannot tell:</l>
+     <l n="3" met="-+-+-+-+">I know the grass beyond the door,</l>
+     <l n="4" met="-+++">The sweet keen smell,</l>
+     <l n="5" met="-+-+-+-+-+">The sighing sound, the lights around the shore.</l>
+    </lg>
+    <lg n="2" stanza_type="cinquain">
+     <l n="6" met="+--+-+">You have been mine before,--</l>
+     <l n="7" met="-+-+-+-+">How long ago I may not know:</l>
+     <l n="8" met="-++--+-+">But just when at that swallow's soar</l>
+     <l n="9" met="-+++">Your neck turned so,</l>
+     <l n="10" met="-+-+-+-+-+|++-+-+-+-+">Some veil did fall,--I knew it all of yore.</l>
+    </lg>
+    <lg n="3" stanza_type="cinquain">
+     <l n="11" met="++-+-+">Then, now,--perchance again!</l>
+     <l n="12" met="-+-+-+-+|++-+-+-+">O round mine eyes your tresses shake!</l>
+     <l n="13" met="-+-+-+-+|+--+-+-+|--++--++|+-++--++">Shall we not lie as we have lain</l>
+     <l n="14" met="+-++">Thus for Love's sake,</l>
+     <l n="15" met="-+-+-+-+-+">And sleep, and wake, yet never break the chain?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

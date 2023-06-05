@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kohoutova píseň.</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_kohoutova-pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kohoutova píseň.</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kohoutova píseň.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" rhyme="1" line_length="8">Kykyryký! Dost je spánku,</l>
+     <l n="2" met="10101000" rhyme="1" line_length="8">den se budí do červánků,</l>
+     <l n="3" met="1000100" rhyme="2" line_length="7">do růží a do zlata:</l>
+     <l n="4" met="10101010" rhyme="3" line_length="8">vzhůru, lidé, vzhůru, zvěři,</l>
+     <l n="5" met="10101010" rhyme="3" line_length="8">zapěj, ptáčku, skrytý v keři,</l>
+     <l n="6" met="1010100" rhyme="2" line_length="7">vůni dyšte, poupata!</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="10001010" rhyme="4" line_length="8">Kykyryký! Pejsku, taky</l>
+     <l n="8" met="10100010" rhyme="4" line_length="8">promni ospalé své zraky,</l>
+     <l n="9" met="1010100" rhyme="5" line_length="7">vylez z boudy trochu ven,</l>
+     <l n="10" met="10110010" rhyme="6" line_length="8">řetěz shoď se šíje svojí,</l>
+     <l n="11" met="10101010" rhyme="6" line_length="8">hlas svůj připoj k písni mojí:</l>
+     <l n="12" met="1000101" rhyme="5" line_length="7">kykyryký, už je den!</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="10001010" rhyme="7" line_length="8">Kykyryký! Vstaňte, slípky,</l>
+     <l n="14" met="10101000" rhyme="7" line_length="8">vstaňte honem bez pobídky,</l>
+     <l n="15" met="1010101" rhyme="8" line_length="7">jitrem hoří celý svět;</l>
+     <l n="16" met="10001010" rhyme="9" line_length="8">hospodyňka, jasné líčko,</l>
+     <l n="17" met="10001000" rhyme="9" line_length="8">přichází už pro vajíčko. –</l>
+     <l n="18" met="1010100" rhyme="8" line_length="7">I ty, Petře, vstávej hned!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

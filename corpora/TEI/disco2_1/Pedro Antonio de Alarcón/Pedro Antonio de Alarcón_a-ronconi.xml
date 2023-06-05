@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Ronconi</title>
+    <author>Pedro Antonio de Alarcón</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pedro Antonio de Alarcón_a-ronconi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Ronconi</title>
+     <author>Pedro Antonio de Alarcón</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Ronconi</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Errante nube al africano suelo</l>
+     <l n="2" met="+-+--+---+-">llega en alas del viento adormecida;</l>
+     <l n="3" met="+-++-+---+-">rómpese al fin, y en lluvia convertida,</l>
+     <l n="4" met="+--+---+-+-">templa la sed del abrasado suelo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">Al alma estéril que agostara el duelo,</l>
+     <l n="6" met="+--+-+---+-">tú eres, Ronconi, lluvia bendecida,</l>
+     <l n="7" met="-++--+---+-">que le das con tus lágrimas la vida</l>
+     <l n="8" met="-+---+---+-">y flores al dolor para consuelo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+++-++-+-+-">Hoy, al verte partir, sigo esas flores</l>
+     <l n="10" met="--++-+---+-">y recojo esas perlas de rocío,</l>
+     <l n="11" met="-+---+---++-">con ramos de laurel para tejerlas...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+---+-">Si, pues, al son de públicos honores,</l>
+     <l n="13" met="+--+---+++-">una corona con mi adiós te envío,</l>
+     <l n="14" met="+--+-+---+-">tuyas sus flores son tuyas sus perlas.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

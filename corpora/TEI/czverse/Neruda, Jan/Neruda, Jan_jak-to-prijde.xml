@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jak to přijde</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_jak-to-prijde</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jak to přijde</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jak to přijde</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101010" line_length="8">„Jak to přijde, stromku bílý,</l>
+     <l n="2" met="00101010" line_length="8">žes tak malý a tak mladý</l>
+     <l n="3" met="10101010" line_length="8">a už tolik neseš květů?“</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="00101010" line_length="8">„„Jak to přijde, děvče milé,</l>
+     <l n="5" met="00101010" line_length="8">žes tak malá a tak mladá</l>
+     <l n="6" met="10101010" line_length="8">a už tolik cítíš lásky?““</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

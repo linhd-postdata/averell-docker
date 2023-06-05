@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vlastenecká.</title>
+    <author>Chládek, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Chládek, František_vlastenecka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vlastenecká.</title>
+     <author>Chládek, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vlastenecká.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001000" rhyme="1" line_length="8">Spojujme se – dokázáno,</l>
+     <l n="2" met="10001010" rhyme="2" line_length="8">spojená co zmůže síla;</l>
+     <l n="3" met="10011010" rhyme="1" line_length="8">zázračně jí tvořit dáno</l>
+     <l n="4" met="10001010" rhyme="2" line_length="8">velkolepá, slavná díla.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00101010" rhyme="3" line_length="8">Jen když síla sílu nese,</l>
+     <l n="6" met="11001010" rhyme="4" line_length="8">lze docílit zlatou spásu,</l>
+     <l n="7" met="10001000" rhyme="4" line_length="8">nepodlehnem ve zápasu</l>
+     <l n="8" met="1000" line_length="4">s cizozemci.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001000" rhyme="3" line_length="8">Milujme se, vzdělejme se,</l>
+     <l n="10" met="10001000" rhyme="3" line_length="8">spojujme se, nedejme se,</l>
+     <l n="11" met="10001000" rhyme="3" line_length="8">přičiňme se, vyviňme se,</l>
+     <l n="12" met="101000" rhyme="3" line_length="6">bratři, spojujme se!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>RONDEAU</title>
+    <author>Vincent Voiture</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vincent Voiture_rondeau</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>RONDEAU</title>
+     <author>Vincent Voiture</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>RONDEAU</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="4+6">Ma foy, c'est fait de moy, car Isabeau</l>
+     <l n="2" line_length="4+6">M'a conjuré de luy faire un Rondeau.</l>
+     <l n="3" line_length="4+6">Cela me met en une peine extréme.</l>
+     <l n="4" line_length="4+6">Quoy treize vers, huit en eau, cinq en eme !</l>
+     <l n="5" line_length="4+6">Je luy ferois aussi-tost un bateau !</l>
+    </lg>
+    <lg n="2">
+     <l n="6" line_length="4+6">En voila cinq pourtant en un monceau.</l>
+     <l n="7" line_length="4+6">Faisons-en huict, en invoquant Brodeau,</l>
+     <l n="8" line_length="4+6">Et puis mettons, par quelque stratagéme,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" line_length="4+6">Si je pouvois encor de mon cerveau</l>
+     <l n="10" line_length="4+6">Tirer cinq vers, l'ouvrage seroit beau.</l>
+     <l n="11" line_length="4+6">Mais cependant, je suis dedans l'onziéme,</l>
+     <l n="12" line_length="4+6">Et si je croy que je fais le douziéme ;</l>
+     <l n="13" line_length="4+6">En voila treize ajustez au niveau.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

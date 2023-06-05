@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Otázka.</title>
+    <author>Lešetický, Vojtěch</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lešetický, Vojtěch_otazka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Otázka.</title>
+     <author>Lešetický, Vojtěch</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Otázka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" rhyme="1" line_length="6">,Pověz mi, tatíčku,</l>
+     <l n="2" met="001000" rhyme="1" line_length="6">Co tam na nebíčku</l>
+     <l n="3" met="001010" line_length="6">Tak se pěkně modrá</l>
+     <l n="4" met="101000" rhyme="1" line_length="6">Dneska při měsíčku?‘</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101000" rhyme="2" line_length="6">„Pánbůh s andělíčky</l>
+     <l n="6" met="100100" rhyme="2" line_length="6">Hezounké kytičky</l>
+     <l n="7" met="100100" rhyme="3" line_length="6">Z modráčkův uvili,</l>
+     <l n="8" met="000100" rhyme="2" line_length="6">Ty jsou tak modřičky.“</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100100" rhyme="1" line_length="6">,Pověz mi, tatíčku,</l>
+     <l n="10" met="101000" rhyme="1" line_length="6">Jaká na nebíčku</l>
+     <l n="11" met="010010" line_length="6">Tam světýlka visí</l>
+     <l n="12" met="101000" rhyme="1" line_length="6">Dneska při měsíčku?‘</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="101000" rhyme="2" line_length="6">„Pánbůh s andělíčky</l>
+     <l n="14" met="100100" rhyme="2" line_length="6">Modré ty kytičky</l>
+     <l n="15" met="100100" rhyme="3" line_length="6">K nebíčku přibili</l>
+     <l n="16" met="100100" rhyme="2" line_length="6">Zlatými hřebíčky.“</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="100100" rhyme="4" line_length="6">,Ukaž mi, tatíčku,</l>
+     <l n="18" met="100100" rhyme="4" line_length="6">Do nebe cestičku,</l>
+     <l n="19" met="100100" line_length="6">Poprosím Pánbíčka</l>
+     <l n="20" met="100100" rhyme="4" line_length="6">Za jednu kytičku!‘</l>
+    </lg>
+    <lg n="6">
+     <l n="21" met="101010" rhyme="5" line_length="6">„Chceš-li na to dbáti,</l>
+     <l n="22" met="011010" rhyme="5" line_length="6">Co chce otec, máti,</l>
+     <l n="23" met="001010" line_length="6">Pak, co sobě žádáš,</l>
+     <l n="24" met="101010" rhyme="5" line_length="6">Anděl strážný dá ti!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

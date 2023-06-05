@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Vin perdu</title>
+    <author>Paul Valéry</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Valéry_le-vin-perdu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Vin perdu</title>
+     <author>Paul Valéry</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Vin perdu</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">J’ai, quelque jour, dans l’Océan,</l>
+     <l n="2" rhyme="b" line_length="8">(Mais je ne sais plus sous quels cieux),</l>
+     <l n="3" rhyme="a" line_length="8">Jeté, comme offrande au néant,</l>
+     <l n="4" rhyme="b" line_length="8">Tout un peu de vin précieux…</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="8">Qui voulut ta perte, ô liqueur ?</l>
+     <l n="6" rhyme="d" line_length="8">J’obéis peut-être au devin ?</l>
+     <l n="7" rhyme="c" line_length="8">Peut-être au souci de mon cœur,</l>
+     <l n="8" rhyme="d" line_length="8">Songeant au sang, versant le vin ?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="8">Sa transparence accoutumée</l>
+     <l n="10" rhyme="e" line_length="8">Après une rose fumée</l>
+     <l n="11" rhyme="f" line_length="8">Reprit aussi pure la mer…</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="8">Perdu ce vin, ivres les ondes !…</l>
+     <l n="13" rhyme="f" line_length="8">J’ai vu bondir dans l’air amer</l>
+     <l n="14" rhyme="g" line_length="8">Les figures les plus profondes…</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ŽEŇ.</title>
+    <author>Kvapil, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kvapil, František_zen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ŽEŇ.</title>
+     <author>Kvapil, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ŽEŇ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1101000101010" rhyme="1" line_length="13">Žeň kvetla bohatá, jak zlato klasy svítí,</l>
+     <l n="2" met="0001000101000" rhyme="1" line_length="13">však bouř se přihnala, s ní vichr, krupobití.</l>
+     <l n="3" met="010100010101" rhyme="2" line_length="12">Kde niva jásala vstříc nebi plná vnad,</l>
+     <l n="4" met="110100010100" rhyme="2" line_length="12">poušť, zkáza, neštěstí teď zeje odevšad.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101001101010" rhyme="3" line_length="13">A přišel hospodář: měl hořkou slzu v oku,</l>
+     <l n="6" met="0101000111010" rhyme="3" line_length="13">když zřel, že zmařeno, co dal trud těžký roku.</l>
+     <l n="7" met="010100010100" rhyme="4" line_length="12">Však dlouho neváhal – on chopil rádlo zas,</l>
+     <l n="8" met="110001010101" rhyme="4" line_length="12">v zem zasadil a děl: – Je k nové setbě čas!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

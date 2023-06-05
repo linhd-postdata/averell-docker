@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Angelu de Gubernatis</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_angelu-de-gubernatis</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Angelu de Gubernatis</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Angelu de Gubernatis</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">Jedním oknem duše Tvojí</l>
+     <l n="2" met="100010" rhyme="1" line_length="6">Orient se skvěje,</l>
+     <l n="3" met="10101000" line_length="8">druhým oknem Italie</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">jásá a se směje;</l>
+     <l n="5" met="10101010100010" line_length="14">krásný život, velké cíle, svoboda a lidskost;</l>
+     <l n="6" met="10001001101000" rhyme="1" line_length="14">základní ty balvany dva lidské epopeje.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

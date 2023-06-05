@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>K SRDCI.</title>
+    <author>Sabina, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sabina, Karel_k-srdci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>K SRDCI.</title>
+     <author>Sabina, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>K SRDCI.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100" line_length="7">Ticho, ticho, srdce mé,</l>
+     <l n="2" met="100100" rhyme="1" line_length="6">Nezahyň v bolesti!</l>
+     <l n="3" met="1010100" line_length="7">Zlé se rány osudu</l>
+     <l n="4" met="100110" rhyme="1" line_length="6">Životem uč nésti.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1000100" line_length="7">Nad plesem i nad želem</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">Jedna zem se spojí;</l>
+     <l n="7" met="10010000" line_length="8">Rána zde krvácející</l>
+     <l n="8" met="100100" rhyme="2" line_length="6">Pod ní se zahojí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010100" line_length="7">Všeho zajde památka;</l>
+     <l n="10" met="100100" rhyme="3" line_length="6">Aniž se u tvého</l>
+     <l n="11" met="100010" line_length="6">Zastaví kdo hrobu</l>
+     <l n="12" met="100000" rhyme="3" line_length="6">Zapomenutého;</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1010100" line_length="7">Tráva nad ním poroste,</l>
+     <l n="14" met="101010" rhyme="4" line_length="6">Hvězdy nad ním vzplanou; –</l>
+     <l n="15" met="1010100" line_length="7">Kromě slzí rosních ti</l>
+     <l n="16" met="101000" rhyme="4" line_length="6">Žádné nepokanou!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

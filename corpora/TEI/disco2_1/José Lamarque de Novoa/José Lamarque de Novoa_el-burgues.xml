@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El burgués</title>
+    <author>José Lamarque de Novoa</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Lamarque de Novoa_el-burgues</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El burgués</title>
+     <author>José Lamarque de Novoa</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El burgués</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--++--+-">En constante labor, serio, inclinado</l>
+     <l n="2" met="--+--+-+-+-">sobre humilde carpeta todo el día,</l>
+     <l n="3" met="-+-+---+-+-">luchando a veces con la suerte impía,</l>
+     <l n="4" met="--+--++--+-">al negocio el burgués vive entregado.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++-+---+-+-">Cual padre amante, como esposo honrado,</l>
+     <l n="6" met="--++-+-+-+-">su familia es su gloria, en Dios confía,</l>
+     <l n="7" met="---+-+---+-">y, si ventajas logra en su porfía,</l>
+     <l n="8" met="--+-++---+-">utilízase en ellas el Estado.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+-++-+-+-">Mas, ¡ay de él cuando es rico! Se le apoda</l>
+     <l n="10" met="-+-+--++++-">ladrón y avaro, y obligarle es moda</l>
+     <l n="11" met="---+-+---+-">a sacrificios mil por el obrero.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">Y, por huelgas e insultos perseguido,</l>
+     <l n="13" met="-+---++--+-">recorre a su pesar, casi rendido,</l>
+     <l n="14" met="+-+--++--+-">de un Calvario sin fin brusco sendero.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

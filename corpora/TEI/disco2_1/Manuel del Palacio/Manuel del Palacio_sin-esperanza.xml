@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sin esperanza</title>
+    <author>Manuel del Palacio</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel del Palacio_sin-esperanza</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sin esperanza</title>
+     <author>Manuel del Palacio</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sin esperanza</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">Como van hacia el mar precipitadas</l>
+     <l n="2" met="-+---+---+-">las aguas del torrente rumorosas,</l>
+     <l n="3" met="---+---+-+-">atropellando las humildes rosas</l>
+     <l n="4" met="--+--+---+-">que a su cauce crecieron asomadas,</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">así mi corazón y mis miradas</l>
+     <l n="6" met="+--+-++--+-">fueron, amante aquel y estas ansiosas,</l>
+     <l n="7" met="-+-+-+---+-">al mar que les copiaron engañosas</l>
+     <l n="8" met="--+--+---+-">tus pupilas profundas y rasgadas.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+---+-">Hoy, bebiendo en sus olas la amargura,</l>
+     <l n="10" met="--+--+---+-">por sus fieras corrientes absorbida</l>
+     <l n="11" met="-+-+---+-+-">navega el alma en la tiniebla oscura,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--++-+---+-">sin que le den consuelo en su caída</l>
+     <l n="13" met="--+--+---+-">la inocencia, la paz y la ventura,</l>
+     <l n="14" met="---+-+---+-">que atropelló el torrente de mi vida.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

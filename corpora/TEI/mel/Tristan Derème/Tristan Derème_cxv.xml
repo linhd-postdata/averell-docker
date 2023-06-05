@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CXV</title>
+    <author>Tristan Derème</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tristan Derème_cxv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CXV</title>
+     <author>Tristan Derème</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CXV</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">C'est février, le mois des chattes et du givre</l>
+     <l n="2" rhyme="a" line_length="6−6">Dans les ténèbres. Tu reviens. Je vais revivre.</l>
+     <l n="3" rhyme="b" line_length="6+6">C'est toi. Je ne sais plus si j'ai pleuré. C'est toi.</l>
+     <l n="4" rhyme="b" line_length="6+6">Et tous les rossignols gazouillent sous mon toit.</l>
+     <l n="5" rhyme="a" line_length="6+6">C'est toi. Voici un an que tu n'es revenue</l>
+     <l n="6" rhyme="a" line_length="6−6">Dans cette chambre où tu as dansé toute nue</l>
+     <l n="7" rhyme="b" line_length="6+6">En ouvrant ton ombrelle afin de ne pas voir</l>
+     <l n="8" rhyme="b" line_length="8+4">Ton corps souple se refléter dans le miroir.</l>
+     <l n="9" rhyme="a" line_length="6+6">Tu t'en allas. Le soir, j'alignais des distiques</l>
+     <l n="10" rhyme="a" line_length="4+4+4">Mélancoliques. Souvenirs, vol de moustiques !</l>
+     <l n="11" rhyme="b" line_length="6+6">C'est toi. Je veux chanter ton rire et février,</l>
+     <l n="12" rhyme="b" line_length="6+6">Et piquer un lilas sur le calendrier.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

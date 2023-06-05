@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>De El rufián arrepentido</title>
+    <author>Cervantes</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cervantes_de-el-rufian-arrepentido</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>De El rufián arrepentido</title>
+     <author>Cervantes</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>De El rufián arrepentido</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+---+-">Maestro era de esgrima Campuzano,</l>
+     <l n="2" met="-+-+-+---+-">de espada y daga diestro a maravilla,</l>
+     <l n="3" met="--+--+---+-">rebanaba narices en Castilla</l>
+     <l n="4" met="-+---+-+-+-">y siempre le quedaba el brazo sano.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+-+-+-">Quiso pasarse a Indias un verano,</l>
+     <l n="6" met="-+---+---+-">y vino con Montalvo el de Sevilla;</l>
+     <l n="7" met="+--+++---+-">cojo quedó de un pie de la rencilla,</l>
+     <l n="8" met="+-++-+-+-+-">tuerto de un ojo, manco de una mano.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+----+-+-+-">Vínose a recoger aquesta ermita</l>
+     <l n="10" met="--+--+---+-">con su palo en la mano, y su rosario,</l>
+     <l n="11" met="---+---+-+-">y su ballesta de matar pardales.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-----+---+-">Y con su Magdalena, que le quita</l>
+     <l n="13" met="++--+++--+-">mil canas, está hecho un San Hilario.</l>
+     <l n="14" met="++-+-+---+-">¡Ved cómo nacen bienes de los males!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

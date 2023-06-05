@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Luna</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_luna</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Luna</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Luna</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Ce soir, la Lune est ronde, et sa tête fantasque</l>
+     <l n="2" rhyme="b" line_length="6+6">Comme un domino, passe entre les peupliers.</l>
+     <l n="3" rhyme="a" line_length="6+6">Peste la folle nuit et vous avez, beau masque,</l>
+     <l n="4" rhyme="b" line_length="6+6">Choisi là, sur ma foi, d'étranges cavaliers.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Quoi, jusqu'au noir clocher, qui, coiffé de son casque,</l>
+     <l n="6" rhyme="b" line_length="6+6">Semble prêt à vous suivre Et, parmi les halliers,</l>
+     <l n="7" rhyme="a" line_length="6+6">L'âpre Éole intrigué, qui suspend sa bourrasque</l>
+     <l n="8" rhyme="b" line_length="6+6">Pour ne pas déranger vos projets singuliers</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Partez donc, o Luna! Le ciel clair et sans voiles</l>
+     <l n="10" rhyme="c" line_length="6+6">A pour vous rallumé ses claustrales étoiles.</l>
+     <l n="11" rhyme="d" line_length="6+6">Et moi, qu'a su charmer votre air leste et fringant,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Voyant vos doigts si blancs rayer la toile verte</l>
+     <l n="13" rhyme="e" line_length="6+6">De mes rideaux, je dis « Sur ma fenêtre ouverte,</l>
+     <l n="14" rhyme="d" line_length="6+6">« Ma mie, n'auriez-vous pas laissé choir votre gant ? »</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

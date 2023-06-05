@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V lese.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_v-lese</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V lese.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V lese.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">V hloubi lesa mech se chvěje,</l>
+     <l n="2" met="1010100" rhyme="2" line_length="7">jakby tížen tajemstvím,</l>
+     <l n="3" met="10101000" rhyme="1" line_length="8">ptáče ani nezapěje,</l>
+     <l n="4" met="10101000" rhyme="1" line_length="8">cosi jako beznaděje</l>
+     <l n="5" met="1000100" rhyme="2" line_length="7">vznáší se tu nade vším.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="10101010" rhyme="3" line_length="8">V hloubi srdce jako v lese</l>
+     <l n="7" met="1010101" rhyme="4" line_length="7">na dně leží těžký stín,</l>
+     <l n="8" met="10101010" rhyme="3" line_length="8">v tříšti snů když cosi hne se</l>
+     <l n="9" met="10100010" rhyme="3" line_length="8">a když písní se to vznese –</l>
+     <l n="10" met="1000101" rhyme="4" line_length="7">smutnílek to, nebo blín.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

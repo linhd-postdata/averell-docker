@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dicho me han por una carta</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_dicho-me-han-por-una-carta</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dicho me han por una carta</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dicho me han por una carta</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="+-+-+-+-" line_length="8">Dicho me han por una carta</l>
+     <l n="2" met="+-+---+-" line_length="8">que es tu cómica persona</l>
+     <l n="3" met="----+-+-" line_length="8">sobre los manteles mona,</l>
+     <l n="4" met="---+--+-" line_length="8">y entre las sábanas, marta;</l>
+     <l n="5" met="--+-++-" line_length="7">agudeza tiene harta</l>
+     <l n="6" met="---+--+-" line_length="8">lo que me advierten después,</l>
+     <l n="7" met="--+---+-" line_length="8">que tu nombre, del revés,</l>
+     <l n="8" met="+-+--+-" line_length="7">siendo Lope de la haz,</l>
+     <l n="9" met="-+-+-+-" line_length="7">en haz del mundo, y en paz,</l>
+     <l n="10" met="+-+-++-" line_length="7">pelo de esta marta es.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

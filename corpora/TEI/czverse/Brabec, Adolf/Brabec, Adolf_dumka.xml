@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>DUMKA.</title>
+    <author>Brabec, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Brabec, Adolf_dumka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>DUMKA.</title>
+     <author>Brabec, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>DUMKA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100110" rhyme="1" line_length="6">Samoten, sám a sám!</l>
+     <l n="2" met="010100" rhyme="2" line_length="6">To slovo značí víc –</l>
+     <l n="3" met="100100" rhyme="1" line_length="6">nebesy patřit tam,</l>
+     <l n="4" met="011100" rhyme="2" line_length="6">kde hvězd plá na tisíc.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010100" rhyme="3" line_length="6">Vše ztajit těžké jest</l>
+     <l n="6" met="010100" rhyme="4" line_length="6">i bolest neznámou,</l>
+     <l n="7" met="110101" rhyme="3" line_length="6">zřít růže kolem kvést,</l>
+     <l n="8" met="100100" rhyme="4" line_length="6">v prach jež se rozpadnou.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="110101" rhyme="5" line_length="6">Čas mění, mění dech,</l>
+     <l n="10" met="010101" rhyme="6" line_length="6">jenž mládí líčil tvář,</l>
+     <l n="11" met="100101" rhyme="5" line_length="6">neznámý děsný spěch</l>
+     <l n="12" met="110101" rhyme="6" line_length="6">zří věčný starý snář.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="011100" rhyme="7" line_length="6">Těch let pár uplyne,</l>
+     <l n="14" met="100101" rhyme="8" line_length="6">zalétne hudba v sluch,</l>
+     <l n="15" met="010100" rhyme="7" line_length="6">kol skráně ovine</l>
+     <l n="16" met="100101" rhyme="8" line_length="6">se času, času pruh.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="100110" rhyme="9" line_length="6">Samoten, sám a sám!</l>
+     <l n="18" met="010100" rhyme="10" line_length="6">To slovo značí víc –</l>
+     <l n="19" met="100100" rhyme="9" line_length="6">nebesy patřit tam</l>
+     <l n="20" met="100100" rhyme="10" line_length="6">jediné hvězdě vstříc.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

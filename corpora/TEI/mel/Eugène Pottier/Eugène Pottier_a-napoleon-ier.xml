@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A NAPOLÉON Ier</title>
+    <author>Eugène Pottier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Eugène Pottier_a-napoleon-ier</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A NAPOLÉON Ier</title>
+     <author>Eugène Pottier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A NAPOLÉON Ier</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Les Droits de l'Homme avaient tracé</l>
+     <l n="2" rhyme="b" line_length="8">Son nouvel orbite à la terre.</l>
+     <l n="3" rhyme="b" line_length="8">Ton aventure militaire</l>
+     <l n="4" rhyme="a" line_length="8">La replongea dans le passé.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="b" line_length="8">Ton crime fut héréditaire</l>
+     <l n="6" rhyme="a" line_length="8">Et Décembre t'a dépassé.</l>
+     <l n="7" rhyme="b" line_length="8">La Commune te mit par terre,</l>
+     <l n="8" rhyme="a" line_length="8">Mais depuis — on t'a ramassé !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="8">O bandit de la grande espèce,</l>
+     <l n="10" rhyme="c" line_length="8">S'il faut que l'avenir connaisse</l>
+     <l n="11" rhyme="d" line_length="8">Tes forfaits et ton nom flétri,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="8">Viens, forçat, qu'on te reboulonne.</l>
+     <l n="13" rhyme="e" line_length="8">Et, debout, sur cette colonne</l>
+     <l n="14" rhyme="d" line_length="8">Reste toujours au pilori !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

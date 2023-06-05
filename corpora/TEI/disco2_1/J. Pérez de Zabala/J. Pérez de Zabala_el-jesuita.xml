@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El jesuita</title>
+    <author>J. Pérez de Zabala</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>J. Pérez de Zabala_el-jesuita</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El jesuita</title>
+     <author>J. Pérez de Zabala</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El jesuita</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+-+-+-">Brotó de la lujuria en torpe orgía</l>
+     <l n="2" met="----++---+-">al calor de algún beso maldecido,</l>
+     <l n="3" met="+--+---+-+-">cuna teniendo en el lascivo nido</l>
+     <l n="4" met="-+---+---+-">de sucia y repugnante mancebía.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">A la sombra vivió de su hidalguía,</l>
+     <l n="6" met="---+---+-+-">a la maldad y al improperio unido;</l>
+     <l n="7" met="-+--+----+-">brindóle San Ignacio su vestido</l>
+     <l n="8" met="-++--+---+-">por darle a la conciencia compañía.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+---+-+-">Bajo el color del miserable paño</l>
+     <l n="10" met="-+---++--+-">sus vicios disfrazó, no su figura,</l>
+     <l n="11" met="--+--+---+-">caridad repicando con amaño,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">y vendiendo perdón hasta la usura.</l>
+     <l n="13" met="-+-+-+++-+-">Murió, se le enterró, y aún hace daño...</l>
+     <l n="14" met="+--+---+-+-">¡dando a la tierra su ceniza impura!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JARO.</title>
+    <author>Mužík, Augustin Eugen</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mužík, Augustin Eugen_jaro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JARO.</title>
+     <author>Mužík, Augustin Eugen</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JARO.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100100" rhyme="1" line_length="7">V mém srdci teď jaro je,</l>
+     <l n="2" met="1000100" rhyme="1" line_length="7">radost se v něm rozlije,</l>
+     <l n="3" met="10001010" line_length="8">jako když se pěkný kvítek</l>
+     <l n="4" met="100100" rhyme="1" line_length="6">na louce rozvije.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="001010" rhyme="2" line_length="6">Tak mé srdce zase</l>
+     <l n="6" met="100010" rhyme="2" line_length="6">rozpučí v tom čase,</l>
+     <l n="7" met="010110" line_length="6">a kolem svět celý</l>
+     <l n="8" met="101000" rhyme="2" line_length="6">na mne usmívá se.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010100" line_length="6">Jak ptáčci zpěváčci</l>
+     <l n="10" met="001000" rhyme="3" line_length="6">když se rozzpívají,</l>
+     <l n="11" met="100100" line_length="6">jako když v kostele</l>
+     <l n="12" met="101000" rhyme="3" line_length="6">zvonky zacinkají.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="001000" rhyme="4" line_length="6">To jen promluvila</l>
+     <l n="14" met="110100" rhyme="4" line_length="6">má holka rozmilá,</l>
+     <l n="15" met="100010" line_length="6">a to jen svým zlatým</l>
+     <l n="16" met="101000" rhyme="4" line_length="6">smíchem zazvonila.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

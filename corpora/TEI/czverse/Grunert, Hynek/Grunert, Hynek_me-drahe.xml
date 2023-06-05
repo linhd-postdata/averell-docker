@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mé drahé.</title>
+    <author>Grunert, Hynek</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Grunert, Hynek_me-drahe</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mé drahé.</title>
+     <author>Grunert, Hynek</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mé drahé.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010100" line_length="8">Ach, jak jsi krásná, spanilá –</l>
+     <l n="2" met="1001010" rhyme="1" line_length="7">a přec tak divná v žití! –</l>
+     <l n="3" met="01000100" line_length="8">Já nemohu být bez Tebe</l>
+     <l n="4" met="0101010" rhyme="1" line_length="7">a ani s Tebou býti! –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>TIŠE..</title>
+    <author>Medek, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Medek, Rudolf_tise</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>TIŠE..</title>
+     <author>Medek, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>TIŠE..</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001001000" rhyme="1" line_length="10">Nikdy mi srdce mé nevelelo</l>
+     <l n="2" met="010010" rhyme="2" line_length="6">tak tiše.. tak tiše..</l>
+     <l n="3" met="100001000" rhyme="1" line_length="9">Oddávalo se, oddávalo</l>
+     <l n="4" met="010" rhyme="2" line_length="3">i pýše.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100001010" rhyme="3" line_length="9">Ale dnes mi to srdce velí,</l>
+     <l n="6" met="1010010000" rhyme="4" line_length="10">abych na tebe nezapomínal,</l>
+     <l n="7" met="1000010010" rhyme="3" line_length="10">nezapomínal, cite můj vřelý,</l>
+     <l n="8" met="010101001" rhyme="4" line_length="9">ty mého srdce radost i žal.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="101101010" rhyme="5" line_length="9">Člověk má srdce jenom jedno</l>
+     <l n="10" met="0100101010" rhyme="6" line_length="10">a může s ním živ být jenom jednou.</l>
+     <l n="11" met="1001001010" rhyme="5" line_length="10">Padne-li hoři a smutku v bezdno,</l>
+     <l n="12" met="100101010" rhyme="6" line_length="9">najdou se ruce, jež je zvednou?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

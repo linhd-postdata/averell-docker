@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A la Pologne</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_a-la-pologne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A la Pologne</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A la Pologne</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Jusqu’au jour, ô Pologne ! où tu nous montreras</l>
+     <l n="2" rhyme="b" line_length="6+6">Quelque désastre affreux, comme ceux de la Grèce,</l>
+     <l n="3" rhyme="b" line_length="6+6">Quelque Missolonghi d’une nouvelle espèce,</l>
+     <l n="4" rhyme="a" line_length="6+6">Quoi que tu puisses faire, on ne te croira pas.</l>
+     <l n="5" rhyme="c" line_length="6+6">Battez-vous et mourez, braves gens. — L’heure arrive.</l>
+     <l n="6" rhyme="c" line_length="6+6">Battez-vous ; la pitié de l’Europe est tardive ;</l>
+     <l n="7" rhyme="d" line_length="6+6">Il lui faut des levains qui ne soient point usés.</l>
+     <l n="8" rhyme="d" line_length="6+6">Battez-vous et mourez, car nous sommes blasés !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

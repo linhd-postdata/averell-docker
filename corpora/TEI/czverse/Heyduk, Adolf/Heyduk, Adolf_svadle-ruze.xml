@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Svadlé růže.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_svadle-ruze</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Svadlé růže.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Svadlé růže.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11000101010" rhyme="1" line_length="11">Ach svadly už ty krásné jarní chvíle,</l>
+     <l n="2" met="0101010100" rhyme="2" line_length="10">jež v plných růžích nesly lásku mou,</l>
+     <l n="3" met="10010101010" rhyme="1" line_length="11">a nechť bych žil snad příštích věků dýle,</l>
+     <l n="4" met="0101010100" rhyme="2" line_length="10">už pro mne nikdy rosu nesnesou.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01001100010" rhyme="3" line_length="11">Už marné vše, čas nevrátí se více,</l>
+     <l n="6" met="0100010101" rhyme="4" line_length="10">a nevrátí se srdce mého druž,</l>
+     <l n="7" met="01000101010" rhyme="3" line_length="11">a písně mé, v svém bouřném stánku sníce,</l>
+     <l n="8" met="0100010100" rhyme="4" line_length="10">ty znějí jen, že svadly růže už.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

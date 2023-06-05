@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El mar...</title>
+    <author>José Navarro Montes de Oca</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Navarro Montes de Oca_el-mar</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El mar...</title>
+     <author>José Navarro Montes de Oca</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El mar...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">El mar se prolongaba en tus pupilas</l>
+     <l n="2" met="---+--+--+-">de esmeraldas oblicuas. Se borraba</l>
+     <l n="3" met="-+-----+-+-">la tarde, y sobre del confín temblaba</l>
+     <l n="4" met="++---+-+-+-">un último fulgor de tintas lilas.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">Las olas remansadas y tranquilas,</l>
+     <l n="6" met="-+---+-">morían en la playa. Semejaba</l>
+     <l n="7" met="-+++-+---+-">la costa un vientre herido que sangraba</l>
+     <l n="8" met="-+-+-+---+-">entre un temblor de acuáticas esquilas.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">El triángulo latino de la vela</l>
+     <l n="10" met="+-+--+---+-">de una barca, en el aire opalescente,</l>
+     <l n="11" met="+-++--+--+-">era un ala tendida. Blanca estela</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">quedó en la solas tras la frágil barca;</l>
+     <l n="13" met="---+-+-+-+-">obscureció después. Y el mar durmiente</l>
+     <l n="14" met="---+---+-+-">se prolongaba en tu pupila zarca.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

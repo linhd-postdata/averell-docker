@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>RÊVE</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_reve</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>RÊVE</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>RÊVE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">JE renonce à la poésie !</l>
+     <l n="2" rhyme="b" line_length="8">Je vais être riche demain.</l>
+     <l n="3" rhyme="b" line_length="8">A d’autres je passe la main :</l>
+     <l n="4" rhyme="a" line_length="8">Qui veut, qui veut m’être un Sosie ?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Bel emploi, j’en prends à témoin</l>
+     <l n="6" rhyme="b" line_length="8">Les bonnes heures de ballade,</l>
+     <l n="7" rhyme="b" line_length="8">Où, rimaillant quelque ballade,</l>
+     <l n="8" rhyme="a" line_length="8">Je passais mes nuits tard et loin.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Sous la lune lucide et claire</l>
+     <l n="10" rhyme="b" line_length="8">Les ponts luisaient insidieux,</l>
+     <l n="11" rhyme="b" line_length="8">L’eau baignait de flots gracieux</l>
+     <l n="12" rhyme="a" line_length="8">Paris gai comme un cimetière.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">Je renonce à tout ce bonheur</l>
+     <l n="14" rhyme="b" line_length="8">Et je lègue aux jeunes ma lyre !</l>
+     <l n="15" rhyme="b" line_length="8">Enfants, héritez mon délire,</l>
+     <l n="16" rhyme="a" line_length="8">Moi j’hérite un sac suborneur.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

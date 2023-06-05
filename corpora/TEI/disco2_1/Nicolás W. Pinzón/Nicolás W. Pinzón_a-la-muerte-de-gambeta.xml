@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A la muerte de Gambeta</title>
+    <author>Nicolás W. Pinzón</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nicolás W. Pinzón_a-la-muerte-de-gambeta</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A la muerte de Gambeta</title>
+     <author>Nicolás W. Pinzón</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A la muerte de Gambeta</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">Por cipreses cambiad, republicanos,</l>
+     <l n="2" met="--++-+-+++-">el laurel que os ciñó la Patria un día;</l>
+     <l n="3" met="---+-+---+-">vuestro dolor iguale a la ufanía</l>
+     <l n="4" met="--+--+---+-">que ostentaran doquiera los tiranos:</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">Aquel que los esfuerzos soberanos</l>
+     <l n="6" met="-+---+---+-">burló de despechada oligarquía;</l>
+     <l n="7" met="+-++-+---+-">Atlas que un nuevo mundo sostenía</l>
+     <l n="8" met="--+--+-+-+-">-el Derecho- cayó, cayó, ¡oh hermanos!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+++---+-">Mas aun en paz no yace: su memoria</l>
+     <l n="10" met="---+-+---+-">el homenaje espera - el que al coloso</l>
+     <l n="11" met="+--+-+---+-">pueda llegar- el digno de su gloria:</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++-+-+---+-">No débil llanto o mármol ostentoso...</l>
+     <l n="13" met="--++-+---+-">ofrendadle ¡soldados! la victoria,</l>
+     <l n="14" met="+--+---+-+-">y él satisfecho se dará al reposo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

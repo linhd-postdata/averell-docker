@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Koubek a kost.</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_koubek-a-kost</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Koubek a kost.</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Koubek a kost.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010" rhyme="1" line_length="5">Zlomil si Koubek</l>
+     <l n="2" met="10010" rhyme="1" line_length="5">na kosti zoubek:</l>
+     <l n="3" met="01010" line_length="5">„Má milá kosti,</l>
+     <l n="4" met="11010" rhyme="1" line_length="5">máš u mne vroubek.“</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010" rhyme="2" line_length="5">„Můj milý Koubku,</l>
+     <l n="6" met="11010" rhyme="2" line_length="5">máš více zoubků,</l>
+     <l n="7" met="11010" line_length="5">zlom ještě jeden,</l>
+     <l n="8" met="01110" rhyme="2" line_length="5">ať mám víc vroubků!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

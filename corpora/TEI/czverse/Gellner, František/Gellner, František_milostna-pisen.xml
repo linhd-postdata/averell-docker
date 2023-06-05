@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MILOSTNÁ PÍSEŇ</title>
+    <author>Gellner, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Gellner, František_milostna-pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MILOSTNÁ PÍSEŇ</title>
+     <author>Gellner, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MILOSTNÁ PÍSEŇ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100001010" rhyme="1" line_length="9">Přes povinnosti příkaz svatý</l>
+     <l n="2" met="010001010" rhyme="1" line_length="9">můj život s tvým je úzce spiatý.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="010100010" rhyme="2" line_length="9">V svých snech, jež smiřují mě s žitím,</l>
+     <l n="4" met="010101010" rhyme="2" line_length="9">tvou ruku na svých prsou cítím.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="010101010" rhyme="3" line_length="9">Jsem jako ďáblu zapsán tobě,</l>
+     <l n="6" met="010001010" rhyme="3" line_length="9">ať žiješ kdes, ať hniješ v hrobě.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

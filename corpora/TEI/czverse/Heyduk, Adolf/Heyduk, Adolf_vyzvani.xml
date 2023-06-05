@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vyzvání.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_vyzvani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vyzvání.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vyzvání.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101010" rhyme="1" line_length="10">Hvozdy, sady, luka, pole, skály</l>
+     <l n="2" met="1010101010" rhyme="1" line_length="10">sňaly mlžný závoj, sněhu plný,</l>
+     <l n="3" met="0100100010" rhyme="1" line_length="10">a na břehy vodné blíž i v dáli</l>
+     <l n="4" met="1010001010" rhyme="1" line_length="10">perly naházely bystřin vlny!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010101010" rhyme="2" line_length="10">Aj, vy družné lípy blíže vísky!</l>
+     <l n="6" met="1010101010" rhyme="3" line_length="10">Vzhůru větve, dolů sněžné žely,</l>
+     <l n="7" met="1010100010" rhyme="2" line_length="10">jižní vánek s polibky je blízký,</l>
+     <l n="8" met="1010101000" rhyme="3" line_length="10">svoje květné blaho tušíte-li?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0010001000" rhyme="4" line_length="10">Což vám tajemnými perutěmi</l>
+     <l n="10" met="1000101000" rhyme="5" line_length="10">nad hlavami jaro nešumělo?</l>
+     <l n="11" met="1010101010" rhyme="4" line_length="10">toužíť dávno těkat zkvetlou zemí,</l>
+     <l n="12" met="1010100010" rhyme="5" line_length="10">toužíť dávno zlíbati vám čelo.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1010100010" rhyme="6" line_length="10">Země slunným vzkázáním se chvěla,</l>
+     <l n="14" met="0110100010" rhyme="7" line_length="10">že bůh krásy touží k ní se snésti,</l>
+     <l n="15" met="1010001000" rhyme="6" line_length="10">rouchem naděje se přioděla</l>
+     <l n="16" met="1010101010" rhyme="7" line_length="10">jako mladá žena v prvním štěstí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

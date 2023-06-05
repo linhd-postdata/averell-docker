@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Přítel.</title>
+    <author>Hek, František Vladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hek, František Vladislav_pritel</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Přítel.</title>
+     <author>Hek, František Vladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Přítel.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="001000010010010" line_length="15">Svým kdo přítelem jest, nechť zůstane přítelem ctnosti,</l>
+     <l n="2" met="1010001010010010" line_length="16">jinák nebude s to, by si věrného přítele zjednal.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="1010001011010010" line_length="16">Čas jest vrtkavý tak, že co mám, mohu ztratiti zítra,</l>
+     <l n="4" met="10010001010010010" line_length="17">věrného přítele však ani smrt mi tu nevezme z hrobu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

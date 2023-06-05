@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Trudno mně – dřív jinak bylo...</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_trudno-mne-driv-jinak-bylo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Trudno mně – dřív jinak bylo...</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Trudno mně – dřív jinak bylo...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" line_length="8">Trudno mně – dřív jinak bylo,</l>
+     <l n="2" met="10101010" rhyme="1" line_length="8">srdce hoří, hlava hoří,</l>
+     <l n="3" met="10101000" line_length="8">rád bych letěl na komoni</l>
+     <l n="4" met="10100010" rhyme="1" line_length="8">s bouří o závod až k moři.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00101010" rhyme="2" line_length="8">Ba, až v moře, jako tuče</l>
+     <l n="6" met="10001010" rhyme="2" line_length="8">s koněm bych se snesl ruče,</l>
+     <l n="7" met="10001010" rhyme="3" line_length="8">kdybych tím jen svému rodu</l>
+     <l n="8" met="10101010" rhyme="3" line_length="8">pomoh' navždy z hanby brodu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

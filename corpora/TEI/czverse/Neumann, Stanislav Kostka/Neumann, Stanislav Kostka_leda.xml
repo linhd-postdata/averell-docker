@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LEDA</title>
+    <author>Neumann, Stanislav Kostka</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neumann, Stanislav Kostka_leda</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LEDA</title>
+     <author>Neumann, Stanislav Kostka</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LEDA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010010" line_length="10">Mnoho se mluví o jakés Ledě.</l>
+     <l n="2" met="01001010" rhyme="1" line_length="8">Prý v antické žila době.</l>
+     <l n="3" met="01000010010" line_length="11">Tu historii jsem zapomněl skoro.</l>
+     <l n="4" met="110100010" rhyme="1" line_length="9">Čti bližší ve Slovníku sobě.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101001000" line_length="10">Ji Zeus, pánbu, si zamiloval,</l>
+     <l n="6" met="01001010" rhyme="2" line_length="8">že přesličnou byla Leda.</l>
+     <l n="7" met="0100101000" line_length="10">Však jestli se dobře pamatuji,</l>
+     <l n="8" met="01001010" rhyme="2" line_length="8">ta řekla si, že mu nedá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101001000" line_length="10">Tu Zeus v zázracích obeznalý</l>
+     <l n="10" met="1100010" rhyme="3" line_length="7">lest vymyslil si čilou.</l>
+     <l n="11" met="100100100" line_length="9">Nechal si mužské své pohlaví</l>
+     <l n="12" met="010010010" rhyme="3" line_length="9">a v labuť se proměnil bílou.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="010101001" line_length="9">Tou chudák Leda dala se svést.</l>
+     <l n="14" met="01000010" rhyme="4" line_length="8">To neskončilo jen pusou...</l>
+     <l n="15" met="10010010010" rhyme="2" line_length="11">Vzpomněl jsem na ni... I v Čechách je Leda...</l>
+     <l n="16" met="00010010" rhyme="4" line_length="8">To je však páření s husou.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

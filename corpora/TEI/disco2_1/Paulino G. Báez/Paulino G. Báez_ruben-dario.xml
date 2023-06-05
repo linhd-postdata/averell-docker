@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Rubén Darío</title>
+    <author>Paulino G. Báez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paulino G. Báez_ruben-dario</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Rubén Darío</title>
+     <author>Paulino G. Báez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Rubén Darío</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="-+---+--+---+-">Rubén Darío: dicen que fuiste de los astros</l>
+     <l n="2" met="--+--+--+---+-">centurión, en palacios irídeos del vacío;</l>
+     <l n="3" met="--+--+-+---+-">que por ti comulgaron todos los Zaroastros,</l>
+     <l n="4" met="+----+--+-+--">todos los Jesucristos... ¡Verdad, Rubén Darío!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+--+-+-+-">Un pedestal glorioso la suerte te depara</l>
+     <l n="6" met="--+--+-----++-">y tu fama, al pináculo, Padre Darío llega,</l>
+     <l n="7" met="-+--++-++--+-">pues fuiste quien un día su amor le declarara</l>
+     <l n="8" met="+--+-+---+-+-">-claro de sol y luna- a la bacante griega.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+----+--++--+-">Deja a los detractores seguir su obra malvada;</l>
+     <l n="10" met="-+-+----+-+-+-">tu gloria, Padre nuestro, tu gloria está salvada...</l>
+     <l n="11" met="+----+---+-+-">Deja, pues, que la Envidia irreverente ladre.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+--+-">El mastín de la inquina ladrará hasta cansarse</l>
+     <l n="13" met="-+-+-+--++-++-">y el cuervo, el negro cuervo de Poe, irá a posarse</l>
+     <l n="14" met="---+-+--+-+-+-">sobre tus viñas muertas... ¡Dios te bendiga, Padre!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Osmicepní.</title>
+    <author>Vinařický, Karel Alois</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vinařický, Karel Alois_osmicepni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Osmicepní.</title>
+     <author>Vinařický, Karel Alois</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Osmicepní.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" rhyme="1" line_length="8">Chutě, chutě na robotu,</l>
+     <l n="2" met="10001010" rhyme="1" line_length="8">Nebojte se, hoši, potu!</l>
+     <l n="3" met="10101000" rhyme="2" line_length="8">Podlé noty robotiti</l>
+     <l n="4" met="10001000" rhyme="2" line_length="8">Veselé je živobití.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="3" line_length="8">Cepy tady kolo mají,</l>
+     <l n="6" met="10001000" rhyme="3" line_length="8">Klepajíce dupotají;</l>
+     <l n="7" met="10001010" rhyme="4" line_length="8">Nebolejí ruce více,</l>
+     <l n="8" met="10101000" rhyme="4" line_length="8">Jako nohy po muzice.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Klam.</title>
+    <author>Sova, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sova, Antonín_klam</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Klam.</title>
+     <author>Sova, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Klam.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101" rhyme="1" line_length="8">Že nemám slz, teď smích jen mám...</l>
+     <l n="2" met="10010101" rhyme="1" line_length="8">Ku stolu mému sedl Klam,</l>
+     <l n="3" met="100100010" rhyme="2" line_length="9">otroku o volnosti zpíval,</l>
+     <l n="4" met="100101010" rhyme="2" line_length="9">nahotu žen mi ctností skrýval,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010101" rhyme="1" line_length="8">v pozadí lidských všedních dram</l>
+     <l n="6" met="01010101" rhyme="1" line_length="8">můj vzbouzel soucit, lásky plam,</l>
+     <l n="7" met="100101010" rhyme="2" line_length="9">a já byl dobrý, žití příval</l>
+     <l n="8" met="100100010" rhyme="2" line_length="9">o cíli nadějí mi zpíval...</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010011" rhyme="3" line_length="8">A v ruku děcka, jež má hlad,</l>
+     <l n="10" met="01010101" rhyme="4" line_length="8">vtisk’ minci žití – na ni zřím,</l>
+     <l n="11" met="10010001" rhyme="3" line_length="8">a byl jsem nadšen tak a mlád,</l>
+     <l n="12" met="01010101" rhyme="4" line_length="8">že všecko mám a všecko zvím...</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01010101" rhyme="5" line_length="8">Ne, pravil Klam, – toť zvláštní kov,</l>
+     <l n="14" met="0101" rhyme="5" line_length="4">toť zvláštní kov!</l>
+     <l n="15" met="01001101" rhyme="5" line_length="8">Tím vyplatit lze pouze rov!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

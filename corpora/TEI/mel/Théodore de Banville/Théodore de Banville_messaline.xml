@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Messaline</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_messaline</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Messaline</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Messaline</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Furieuse, et toujours en proie à son tourment,</l>
+     <l n="2" rhyme="b" line_length="6+6">Messaline, que nul festin ne désaltère,</l>
+     <l n="3" rhyme="b" line_length="6+6">Ayant sur son épaule une peau de panthère,</l>
+     <l n="4" rhyme="a" line_length="6+6">Célèbre la vendange avec son jeune amant.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Elle serre en ses bras de neige éperdument</l>
+     <l n="6" rhyme="b" line_length="6+6">Silius, et lui dit : « Je voudrais sans mystère</l>
+     <l n="7" rhyme="b" line_length="6+6">Me coucher à tes pieds devant toute la terre ! »</l>
+     <l n="8" rhyme="a" line_length="6+6">Et le vin coule à flots dans le pressoir fumant.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Puis, tandis que le chœur danse au bruit de la lyre,</l>
+     <l n="10" rhyme="c" line_length="6+6">La Bacchante déchire et brise en son délire</l>
+     <l n="11" rhyme="d" line_length="6+6">De noirs raisins pourprés, et laissant à dessein</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Leur sang vermeil couler sur ses belles chaussures,</l>
+     <l n="13" rhyme="d" line_length="6+6">Elle baise le cou du jeune homme et son sein,</l>
+     <l n="14" rhyme="e" line_length="6+6">Et sa bouche affamée y laisse des morsures.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

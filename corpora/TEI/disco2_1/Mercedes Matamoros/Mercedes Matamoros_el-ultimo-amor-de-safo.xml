@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El último amor de Safo</title>
+    <author>Mercedes Matamoros</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mercedes Matamoros_el-ultimo-amor-de-safo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El último amor de Safo</title>
+     <author>Mercedes Matamoros</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El último amor de Safo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--++--+-+-">¡Vengo a ofrecerte mi mayor tesoro!</l>
+     <l n="2" met="+--++--+-+-">¡Vengo a brindarte mi glorioso encanto!</l>
+     <l n="3" met="---+---+-+-">¡La que recoge de mi amor el llanto!</l>
+     <l n="4" met="--++---+-+-">¡La que te dice sin cesar: te adoro!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+-+-+--+-">¡Es mi lira! La dulce lira de oro</l>
+     <l n="6" met="---+---+-+-">con que tu hechizo irresistible canto;</l>
+     <l n="7" met="--+--+---+-">cuyos himnos en gozo y en quebranto</l>
+     <l n="8" met="+--+--++-+-">son ruiseñores que te forman coro.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">En ella enlazo notas y colores,</l>
+     <l n="10" met="---+---+-+-">porque a tus plantas elocuente sea</l>
+     <l n="11" met="+----+---+-">símbolo de mi vida y mis amores;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+---+-+-">¡qué es en mis manos la vibrante lira,</l>
+     <l n="13" met="+--+-+---+-">flor que se abre, llama que chispea,</l>
+     <l n="14" met="+--+-+---+-">onda que ruge, cisne que suspira...!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

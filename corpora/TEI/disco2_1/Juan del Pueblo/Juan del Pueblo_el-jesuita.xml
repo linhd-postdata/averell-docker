@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El jesuita</title>
+    <author>Juan del Pueblo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan del Pueblo_el-jesuita</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El jesuita</title>
+     <author>Juan del Pueblo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El jesuita</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-++--+-">Al ver en coche a un padre jesuita</l>
+     <l n="2" met="+--+---+-+-">fatuo, soberbio, petulante y vano,</l>
+     <l n="3" met="+++--+---+-">le dijo un reverendo franciscano:</l>
+     <l n="4" met="--+-+-+--+-">«Jesuita, non ibat Jesuita.»</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+---+-+-">Mas si su loca vanidad irrita,</l>
+     <l n="6" met="+--+---+-+-">no por envidia, como aquel hermano,</l>
+     <l n="7" met="+-+--+-+-+-">dan enojo y vergüenza a todo humano,</l>
+     <l n="8" met="-+-+---+-+-">su vil doblez y su ambición maldita.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+---+-">Fija en la ajena bolsa su mirada,</l>
+     <l n="10" met="-+-+---+-+-">y atento al logro de su empresa odiosa,</l>
+     <l n="11" met="++-+-+-+-+-">ni tiene amor, ni fe, ni honor, ni nada.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++---+---+-">No cede ante el dolor ni ante la fosa,</l>
+     <l n="13" met="+--+-+---+-">que es con su inicua mónita malvada</l>
+     <l n="14" met="+-+--+---+-">una hiena con cara de raposa.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

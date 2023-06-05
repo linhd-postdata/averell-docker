@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Au Lion de Belfort</title>
+    <author>François Coppée</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>François Coppée_au-lion-de-belfort</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Au Lion de Belfort</title>
+     <author>François Coppée</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Au Lion de Belfort</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Si je gravais des vers sur ton socle de pierre,</l>
+     <l n="2" rhyme="b" line_length="6+6">Certes, j'exalterais tes combats glorieux,</l>
+     <l n="3" rhyme="b" line_length="6+6">O monstre colossal, qui, seul victorieux,</l>
+     <l n="4" rhyme="a" line_length="6+6">Seul peux montrer les crocs et froncer la paupière.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Je dirais qu'on t'a vu, jusqu'à l'heure dernière,</l>
+     <l n="6" rhyme="b" line_length="6+6">Fauve géant qui fus digne des fiers aïeux,</l>
+     <l n="7" rhyme="b" line_length="6+6">Rejeter loin de toi, sanglant et furieux,</l>
+     <l n="8" rhyme="a" line_length="6+6">L'assaut de cent chacals pendus à ta crinière.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Mais je voudrais encore ajouter : « Grand lion,</l>
+     <l n="10" rhyme="c" line_length="6+6">Symbole de colère et de rébellion,</l>
+     <l n="11" rhyme="d" line_length="6+6">D'un moins sombre avenir tu nous es l'assurance.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">« Attends, sois, comme tous, patient et muet ;</l>
+     <l n="13" rhyme="e" line_length="6+6">Mais, si la haine sainte en nous diminuait,</l>
+     <l n="14" rhyme="d" line_length="6+6">Rugis pour rappeler son devoir à la France ! »</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

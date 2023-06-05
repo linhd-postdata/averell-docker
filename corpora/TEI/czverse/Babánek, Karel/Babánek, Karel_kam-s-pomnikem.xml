@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KAM S POMNÍKEM?</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_kam-s-pomnikem</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KAM S POMNÍKEM?</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KAM S POMNÍKEM?</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Tak národ ctí své básníky:</l>
+     <l n="2" met="10010100010" rhyme="1" line_length="11">za živa zemřít nechal by je hlady,</l>
+     <l n="3" met="0100010100" line_length="10">a po smrti i dobrý národ ten</l>
+     <l n="4" met="0101010" rhyme="1" line_length="7">si neví s nimi rady.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

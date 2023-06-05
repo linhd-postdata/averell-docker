@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Brigitte</title>
+    <author>Alexandre Ducros</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alexandre Ducros_brigitte</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Brigitte</title>
+     <author>Alexandre Ducros</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Brigitte</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Parmi les blés, les fleurs écloses,</l>
+     <l n="2" rhyme="b" line_length="8">Nous allions, et notre entretien</l>
+     <l n="3" rhyme="a" line_length="8">Roulait toujours sur mille choses,</l>
+     <l n="4" rhyme="b" line_length="8">Des choses qui ne disaient rien…</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Plus tard, nous eûmes bouches closes,</l>
+     <l n="6" rhyme="b" line_length="8">Plus de babil, plus d'entretien.</l>
+     <l n="7" rhyme="b" line_length="8">Pensifs, nous ne nous disions rien</l>
+     <l n="8" rhyme="a" line_length="8">Mais ce rien disait bien des choses !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

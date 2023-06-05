@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vlaštovky.</title>
+    <author>Jesenská, Růžena</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jesenská, Růžena_vlastovky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vlaštovky.</title>
+     <author>Jesenská, Růžena</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vlaštovky.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" line_length="6">Vlaštovky již sněmy</l>
+     <l n="2" met="100010" rhyme="1" line_length="6">pod nebem si strojí,</l>
+     <l n="3" met="101000" line_length="6">a ty nevracíš se</l>
+     <l n="4" met="100010" rhyme="1" line_length="6">k domovině svojí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100010" line_length="6">Vzpomeneš-li někdy</l>
+     <l n="6" met="101000" rhyme="2" line_length="6">v dálce za horami,</l>
+     <l n="7" met="001010" line_length="6">jak jsme byli šťastni,</l>
+     <l n="8" met="001010" rhyme="2" line_length="6">když tu byly s námi?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="001010" line_length="6">Až je potkáš někde,</l>
+     <l n="10" met="100010" rhyme="3" line_length="6">neotálej déle,</l>
+     <l n="11" met="001000" line_length="6">ať mi neuvadne</l>
+     <l n="12" met="101010" rhyme="3" line_length="6">štěstí moje celé.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

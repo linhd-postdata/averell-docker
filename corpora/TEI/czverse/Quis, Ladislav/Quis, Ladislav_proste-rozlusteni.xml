@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Prosté rozluštění.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_proste-rozlusteni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Prosté rozluštění.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Prosté rozluštění.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010100" rhyme="1" line_length="11">Umrtvuj své tělo, učí asketa,</l>
+     <l n="2" met="100010100" rhyme="1" line_length="9">Epikur zas hlásá do světa:</l>
+     <l n="3" met="10101" rhyme="2" line_length="5">„Jez a pij a hraj.“</l>
+     <l n="4" met="101010101" rhyme="2" line_length="9">Vepřík doved’ spojit s krajem kraj.</l>
+     <l n="5" met="1000101000" rhyme="3" line_length="10">Oběma on krásně vyhovuje:</l>
+     <l n="6" met="1000101000" rhyme="3" line_length="10">Rozkoší své tělo umrtvuje.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

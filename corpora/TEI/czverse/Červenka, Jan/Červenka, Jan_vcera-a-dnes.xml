@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Včera a dnes.</title>
+    <author>Červenka, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červenka, Jan_vcera-a-dnes</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Včera a dnes.</title>
+     <author>Červenka, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Včera a dnes.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">Moje paní, moje paní,</l>
+     <l n="2" met="10100010" rhyme="1" line_length="8">včera poprvé to bylo,</l>
+     <l n="3" met="00101010" line_length="8">co se žhavé oko Vaše</l>
+     <l n="4" met="10101000" rhyme="1" line_length="8">v moje oko pohroužilo.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" line_length="8">Včera, včera, paní moje,</l>
+     <l n="6" met="10001010" rhyme="2" line_length="8">poprvé, co Vaše malá,</l>
+     <l n="7" met="10100010" line_length="8">bílá, chvějící se ruka,</l>
+     <l n="8" met="10001010" rhyme="2" line_length="8">v ruce mé se stisknout dala:</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101000" line_length="8">A již v plamen sálající</l>
+     <l n="10" met="10001010" rhyme="3" line_length="8">v duši mé Váš pohled vzrůstá,</l>
+     <l n="11" met="10001010" line_length="8">skráně vrou a Vaše jméno</l>
+     <l n="12" met="10100010" rhyme="3" line_length="8">s bázní šepotají ústa...</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101010" line_length="8">Hleďte, moje paní krásná,</l>
+     <l n="14" met="00101010" rhyme="4" line_length="8">tak se člověk za den změní!</l>
+     <l n="15" met="10111010" line_length="8">Včera led měl místo srdce</l>
+     <l n="16" met="10101010" rhyme="4" line_length="8">a dnes v žilách cítí vření.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10101010" line_length="8">Včera s hrdým čelem shlížel</l>
+     <l n="18" met="10101000" rhyme="5" line_length="8">dolů na svět malicherný,</l>
+     <l n="19" met="00101000" line_length="8">dnes se plazí po kolenou</l>
+     <l n="20" met="10101010" rhyme="5" line_length="8">a je otrok z něho věrný.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

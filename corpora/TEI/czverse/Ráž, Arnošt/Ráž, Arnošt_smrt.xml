@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SMRŤ</title>
+    <author>Ráž, Arnošt</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ráž, Arnošt_smrt</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SMRŤ</title>
+     <author>Ráž, Arnošt</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SMRŤ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" rhyme="1" line_length="8">Mraky se točí nad lesy,</l>
+     <l n="2" met="10010100" rhyme="1" line_length="8">bojácné chodce poděsí.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="10010100" rhyme="2" line_length="8">Někam se vichr žene v dál,</l>
+     <l n="4" met="01010100" rhyme="2" line_length="8">kde rád by někdo stroskotal. –</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="10010100" rhyme="3" line_length="8">Marno je chvátat’ na pomoc,</l>
+     <l n="6" met="100101" rhyme="3" line_length="6">zahyne ještě noc..</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="1010101" rhyme="4" line_length="7">S mrazným smíchem (pohřbil strach)</l>
+     <l n="8" met="10010100" rhyme="4" line_length="8">houpat se bude na vlnách</l>
+     <l n="9" met="01000100" rhyme="5" line_length="8">a vítat’ bouř, jež přinesla</l>
+     <l n="10" met="01010100" rhyme="5" line_length="8">mu smrti příval na vesla –</l>
+     <l n="11" met="01010100" rhyme="6" line_length="8">a vítat’ blesků signály,</l>
+     <l n="12" met="01010100" rhyme="6" line_length="8">jež smutnou bárku zapálí. –</l>
+    </lg>
+    <lg n="5">
+     <l n="13" met="11010100" rhyme="7" line_length="8">Má duše, pověz, co ti je?</l>
+     <l n="14" met="00000100" rhyme="7" line_length="8">kdy nás bouř as tak rozbije? –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

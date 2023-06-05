@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>U CESTY.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_u-cesty</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>U CESTY.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>U CESTY.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11000101010" line_length="11">Svah zelený se mírně k cestě sklání,</l>
+     <l n="2" met="1101000101010" rhyme="1" line_length="13">dech cítit obilí a hořkou vůni trávy,</l>
+     <l n="3" met="11010001010" line_length="11">mák rudě zahořel a písní hmyzu</l>
+     <l n="4" met="0101000100110" rhyme="1" line_length="13">jak struna kovová se zachvívá vzduch žhavý.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010011010" line_length="11">Na svahu u cesty spí vojín mladý</l>
+     <l n="6" met="01000101000" rhyme="2" line_length="11">a zapomenut v místě osamělém.</l>
+     <l n="7" met="1101000100110" line_length="13">Svah celý zkvetlý je a šípkový keř růží</l>
+     <l n="8" met="1001001001010" rhyme="2" line_length="13">se květem nachýlil nad bledým jeho čelem.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1101001101010" line_length="13">Spí v svahu rozkvetlém, krev prýští z jeho rány,</l>
+     <l n="10" met="1101011101010" rhyme="3" line_length="13">proud světla svítí v tvář, zní ptáků píseň plesná,</l>
+     <l n="11" met="1101000100010" line_length="13">vzduch písní vášnivou se rozezvučel léta,</l>
+     <l n="12" met="0101000100010" rhyme="3" line_length="13">však jeho nevzbudí nic tichého už ze sna.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

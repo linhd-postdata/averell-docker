@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les deux Mendiants</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_les-deux-mendiants</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Les deux Mendiants</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Les deux Mendiants</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6">Reprenant leur chemin,</l>
+     <l n="2" rhyme="a" line_length="6">Tête basse, une main</l>
+     <l n="3" rhyme="b" line_length="6">Au sac bossu qu'ils portent,</l>
+     <l n="4" rhyme="b" line_length="6">Dans la cour, comme ils sortent,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6">Le petit pauvre épais</l>
+     <l n="6" rhyme="a" line_length="6">Lorgne d'un œil mauvais</l>
+     <l n="7" rhyme="b" line_length="6">Le petit monsieur mince</l>
+     <l n="8" rhyme="b" line_length="6">Dont la bouche se pince.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6">Le vieux s'en aperçoit.</l>
+     <l n="10" rhyme="a" line_length="6">« T'es jaloux ? Ya pas d'quoi !</l>
+     <l n="11" rhyme="b" line_length="6">Fait-il, d'une voix douce :</l>
+     <l n="12" rhyme="b" line_length="6">Entends-l'donc comme i' tousse.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="6">I' cache un sang d'navets</l>
+     <l n="14" rhyme="a" line_length="6">Sous tous ses beaux effets,</l>
+     <l n="15" rhyme="b" line_length="6">Tandis q'toi, sans q'tu triches,</l>
+    </lg>
+    <lg n="5">
+     <l n="16" rhyme="c" line_length="6">Tu fais rirʼ vermillons</l>
+     <l n="17" rhyme="c" line_length="6">Tous les trous d'tes haillons,</l>
+     <l n="18" rhyme="b" line_length="6">Ça t'vengʼ ben d'êtʼ pas riche ! »</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

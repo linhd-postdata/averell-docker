@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Westron Wynde</title>
+    <author>Anonymous</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Anonymous_westron-wynde</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>For Better For Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Westron Wynde</title>
+     <author>Anonymous</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Westron Wynde</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="quatrain">
+     <l n="1" met="+-++--+">Westron wynde when wyll thow blow</l>
+     <l n="2" met="-+++-+">The smalle rayne downe can rayne</l>
+     <l n="3" met="+--+-+-+">Chryst yf my love wer in my armes</l>
+     <l n="4" met="-+--+-+">And I yn my bed agayne</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

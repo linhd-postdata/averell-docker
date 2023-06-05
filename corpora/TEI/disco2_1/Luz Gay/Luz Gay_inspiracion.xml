@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Inspiración</title>
+    <author>Luz Gay</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Luz Gay_inspiracion</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Inspiración</title>
+     <author>Luz Gay</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Inspiración</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Recorren las agujas silenciosas,</l>
+     <l n="2" met="-+---+---+-">las horas, en la esfera señaladas,</l>
+     <l n="3" met="---+-+---+-">y en el reloj las doce campanadas</l>
+     <l n="4" met="+--+-+---+-">una tras otra vibran sonorosas.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+----+---+-">Duerme la creación; y las hermosas</l>
+     <l n="6" met="-+---+---+-">fantásticas visiones de las «hadas»</l>
+     <l n="7" met="---+-+---+-">de su aligero vuelo fatigadas,</l>
+     <l n="8" met="+----+---+-">mueren entre las brumas tenebrosas.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+----+---+-">Solo mi pensamiento, delirante</l>
+     <l n="10" met="---+---+-+-">en la región de las ideas vela,</l>
+     <l n="11" met="-+---+---+-">vagando entre la rima, el consonante</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+---+-+-">y las estrofas, porque loco anhela,</l>
+     <l n="13" met="-+-+---+-+-">hallar en ello el eficaz calmante</l>
+     <l n="14" met="---+-+-+-+-">del agitado afán que me desvela.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

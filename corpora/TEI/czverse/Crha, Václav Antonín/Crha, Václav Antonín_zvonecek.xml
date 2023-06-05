@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Zvoneček.</title>
+    <author>Crha, Václav Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Crha, Václav Antonín_zvonecek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Zvoneček.</title>
+     <author>Crha, Václav Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Zvoneček.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00010010" rhyme="1" line_length="8">Co se v té věžičce skrývá?</l>
+     <l n="2" met="1001000" rhyme="2" line_length="7">Zvoneček visí to v ní;</l>
+     <l n="3" met="00010010" rhyme="1" line_length="8">ten když svým srdičkem kývá,</l>
+     <l n="4" met="0101001" rhyme="2" line_length="7">vždy ke cti Boží jen zní.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00001010" rhyme="3" line_length="8">Co pak tu v nás ťuká stále?</l>
+     <l n="6" met="1001000" rhyme="4" line_length="7">Malé to srdéčko jest:</l>
+     <l n="7" met="10010010" rhyme="3" line_length="8">ťukej jen ku Boží chvále</l>
+     <l n="8" met="1001001" rhyme="4" line_length="7">se zvonkem na Boží čest.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010010" rhyme="5" line_length="8">V poledne, k večeru, z rána</l>
+     <l n="10" met="0101000" rhyme="6" line_length="7">když zvoní na klekání,</l>
+     <l n="11" met="10101010" rhyme="5" line_length="8">zvonek i já chválím Pána</l>
+     <l n="12" met="1001000" rhyme="6" line_length="7">odtud až do skonání.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

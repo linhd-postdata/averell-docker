@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Z POHROBNÍCH VZPOMÍNEK</title>
+    <author>Šimeček, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Šimeček, František_z-pohrobnich-vzpominek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Z POHROBNÍCH VZPOMÍNEK</title>
+     <author>Šimeček, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Z POHROBNÍCH VZPOMÍNEK</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Tys moje byla královna,</l>
+     <l n="2" met="01000101" rhyme="1" line_length="8">já poslušen jsem k tobě zřel, –</l>
+     <l n="3" met="01000101" line_length="8">tys velela mi s bohem jít</l>
+     <l n="4" met="10011001" rhyme="1" line_length="8">a já jsem šel – a já jsem šel.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01100100" line_length="8">Ta noc byla tak děsivá,</l>
+     <l n="6" met="01010101" rhyme="1" line_length="8">jak rubáš kolem mrtvých těl. –</l>
+     <l n="7" met="01000100" line_length="8">Má královno, tys velela</l>
+     <l n="8" met="10011001" rhyme="1" line_length="8">a já jsem šel – a já jsem šel.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

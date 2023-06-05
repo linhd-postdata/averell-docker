@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PONOCENSKÁ.</title>
+    <author>Opolský, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Opolský, Jan_ponocenska</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PONOCENSKÁ.</title>
+     <author>Opolský, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PONOCENSKÁ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="000001010" rhyme="1" line_length="9">Tu když jsem sám a ticho keřů</l>
+     <l n="2" met="01010100" rhyme="2" line_length="8">mne zvonem hlubin potápí,</l>
+     <l n="3" met="010101010" rhyme="1" line_length="9">si vznítím louč a žaltář béřu</l>
+     <l n="4" met="01000100" rhyme="2" line_length="8">a srdce už mne netrápí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100001010" rhyme="3" line_length="9">Za pocestné... Kdož v hanbě úpí...</l>
+     <l n="6" met="01000100" rhyme="4" line_length="8">A za zbloudilé matrosy...</l>
+     <l n="7" met="010101010" rhyme="3" line_length="9">Můj vlastní věk, jsa příliš tupý,</l>
+     <l n="8" met="01000100" rhyme="4" line_length="8">se o přímluvu neprosí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101000" rhyme="5" line_length="9">A za hněv církve... Za obilí...</l>
+     <l n="10" met="01000100" rhyme="6" line_length="8">A za vojáky ve zbrani...</l>
+     <l n="11" met="010001010" rhyme="5" line_length="9">Tu u chalupy zase kvílí</l>
+     <l n="12" met="01000100" rhyme="6" line_length="8">vše jímající klekání.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100101010" rhyme="7" line_length="9">A tu je čas, kdy louč se láme</l>
+     <l n="14" met="01010100" rhyme="8" line_length="8">a nutno vkročit do noci...</l>
+     <l n="15" met="110001000" rhyme="7" line_length="9">Ach, žijeme a umíráme,</l>
+     <l n="16" met="01000100" rhyme="8" line_length="8">si nevědouce pomoci.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

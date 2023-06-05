@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Slunce mládí...</title>
+    <author>Lošťák, Ludvík</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lošťák, Ludvík_slunce-mladi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Slunce mládí...</title>
+     <author>Lošťák, Ludvík</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Slunce mládí...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">Slunce mládí – moji snové</l>
+     <l n="2" met="11011010" rhyme="1" line_length="8">den ode dne smutně hynou,</l>
+     <l n="3" met="01001010" line_length="8">a na další pouť mně mraky</l>
+     <l n="4" met="10101010" rhyme="1" line_length="8">jako prapor smutku kynou.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" line_length="8">A tak vždy to bylo se mnou;</l>
+     <l n="6" met="10100010" rhyme="2" line_length="8">jasný den byl vždy mně řídký, –</l>
+     <l n="7" met="01001010" line_length="8">ba i když jsem děckem býval,</l>
+     <l n="8" met="10101000" rhyme="2" line_length="8">dul mi vichr do kolíbky!...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

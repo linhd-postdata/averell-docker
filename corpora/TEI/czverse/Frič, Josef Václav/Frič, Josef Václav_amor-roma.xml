@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Amor – Róma.</title>
+    <author>Frič, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Frič, Josef Václav_amor-roma</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Amor – Róma.</title>
+     <author>Frič, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Amor – Róma.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101100100" rhyme="1" line_length="10">Chtě zvalit Řím, na bídném kříži zdech’,</l>
+     <l n="2" met="01010010010" rhyme="2" line_length="11">když lásku provolal mroucíma rtoma;</l>
+     <l n="3" met="0101010001" rhyme="1" line_length="10">A mor byl ohlas, záhubný ten dech,</l>
+     <l n="4" met="1001000100010" rhyme="2" line_length="13">kterým se ozvala ta sedmiprsá Róma.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

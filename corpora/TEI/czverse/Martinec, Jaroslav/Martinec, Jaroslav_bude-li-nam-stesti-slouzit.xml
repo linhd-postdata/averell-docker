@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Bude-li nám štěstí sloužit,</title>
+    <author>Martinec, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Martinec, Jaroslav_bude-li-nam-stesti-slouzit</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Bude-li nám štěstí sloužit,</title>
+     <author>Martinec, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Bude-li nám štěstí sloužit,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" line_length="8">Bude-li nám štěstí sloužit, </l>
+     <l n="2" met="10101000" rhyme="1" line_length="8">něco přece zachováme.</l>
+     <l n="3" met="10001010" line_length="8">Do truhly se vejde mnoho,</l>
+     <l n="4" met="01001010" rhyme="1" line_length="8">má panenko, tam to dáme.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001000" line_length="8">Na kolíbku javorovou</l>
+     <l n="6" met="00101000" rhyme="1" line_length="8">snad si také vyděláme.</l>
+     <l n="7" met="10101011" line_length="8">Ale párek dá-li pán bůh –</l>
+     <l n="8" met="01001010" rhyme="1" line_length="8">má panenko, kam je dáme!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

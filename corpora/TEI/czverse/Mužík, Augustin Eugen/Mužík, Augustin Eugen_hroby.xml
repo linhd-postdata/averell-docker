@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>HROBY.</title>
+    <author>Mužík, Augustin Eugen</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mužík, Augustin Eugen_hroby</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>HROBY.</title>
+     <author>Mužík, Augustin Eugen</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>HROBY.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1101010" rhyme="1" line_length="7">Zem, kam jen hledí oko,</l>
+     <l n="2" met="010" rhyme="2" line_length="3">jsou hroby.</l>
+     <l n="3" met="0101000" rhyme="1" line_length="7">Tam výše převysoko</l>
+     <l n="4" met="010" rhyme="2" line_length="3">jsou hroby.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0100010" rhyme="3" line_length="7">A hluboko tam v moři</l>
+     <l n="6" met="010" rhyme="2" line_length="3">jsou hroby.</l>
+     <l n="7" met="1001010" rhyme="3" line_length="7">A kde se hvězdy tvoří,</l>
+     <l n="8" met="010" rhyme="2" line_length="3">jsou hroby.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0110010" rhyme="4" line_length="7">Jest hrob – jarního kvítí</l>
+     <l n="10" met="010" rhyme="2" line_length="3">ty zdoby,</l>
+     <l n="11" met="0101010" rhyme="4" line_length="7">a láska, lidské žití,</l>
+     <l n="12" met="010" rhyme="2" line_length="3">toť hroby.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="0101010" rhyme="5" line_length="7">Vše, co zde dýchá, hrobu</l>
+     <l n="14" met="010" rhyme="6" line_length="3">jest robem.</l>
+     <l n="15" met="0101010" rhyme="5" line_length="7">A Bůh sám všechněch hrobů</l>
+     <l n="16" met="010" rhyme="6" line_length="3">jest hrobem.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

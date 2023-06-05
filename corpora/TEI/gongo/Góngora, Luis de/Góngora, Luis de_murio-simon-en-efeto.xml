@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Murió Simón, en efeto,</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_murio-simon-en-efeto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Murió Simón, en efeto,</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Murió Simón, en efeto,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="-+-+--+-" line_length="8">Murió Simón, en efeto,</l>
+     <l n="2" met="+-+---+-" line_length="8">que una piedra lo mató,</l>
+     <l n="3" met="+--+-++-" line_length="8">que otro instrumento no halló</l>
+     <l n="4" met="-+--+-+-" line_length="8">la muerte para un discreto;</l>
+     <l n="5" met="++-+--+-" line_length="8">si este es enano conceto,</l>
+     <l n="6" met="+-++--+-" line_length="8">otro va más gentilhombre:</l>
+     <l n="7" met="-+--+-+-" line_length="8">debió de la muerte al nombre</l>
+     <l n="8" met="+---+-+-" line_length="8">más que al privilegio humano,</l>
+     <l n="9" met="--+---+-" line_length="8">pues viviendo como enano,</l>
+     <l n="10" met="+--+-+-" line_length="7">vino a morir como hombre.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

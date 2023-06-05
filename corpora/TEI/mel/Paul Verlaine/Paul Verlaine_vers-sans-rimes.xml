@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VERS SANS RIMES</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_vers-sans-rimes</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VERS SANS RIMES</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VERS SANS RIMES</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="6+6">LE bruit de ton aiguille et celui de ma plume</l>
+     <l n="2" line_length="6+6">Sont le silence d’or dont on parla d’argent.</l>
+     <l n="3" line_length="6+6">Ah ! cessons de nous plaindre, insensés que nous fûmes</l>
+     <l n="4" line_length="4+4+4">Et travaillons tranquillement au nez des gens !</l>
+    </lg>
+    <lg n="2">
+     <l n="5" line_length="6−6">Quant à souffrir, quant à mourir, c’est nos affaires</l>
+     <l n="6" line_length="6−6">Ou plutôt celles des tocs tocs et des tic tacs</l>
+     <l n="7" line_length="4+4+4">De la pendule en garni dont la voix sévère</l>
+     <l n="8" line_length="6+6">Voudrait persévérer à nous donner le trac</l>
+    </lg>
+    <lg n="3">
+     <l n="9" line_length="6+6">De mourir le premier ou le dernier. Qu’importe,</l>
+     <l n="10" line_length="6+6">Si l’on doit, ô mon Dieu, se revoir à jamais ?</l>
+     <l n="11" line_length="6+6">Qu’importe la pendule et notre vie, ô Mort,</l>
+     <l n="12" line_length="4+8">Ce n’est plus nous que l’ennui de tant vivre effraye !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

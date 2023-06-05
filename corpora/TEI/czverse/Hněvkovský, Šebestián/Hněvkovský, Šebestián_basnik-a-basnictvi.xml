@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Básník a básnictví.</title>
+    <author>Hněvkovský, Šebestián</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hněvkovský, Šebestián_basnik-a-basnictvi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Básník a básnictví.</title>
+     <author>Hněvkovský, Šebestián</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Básník a básnictví.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101010" rhyme="1" line_length="10">Práhneš po mé přízni? – přání matné!</l>
+     <l n="2" met="011010101" rhyme="2" line_length="9">Tam ční sláva! – Vidíš ostrý chlum?</l>
+     <l n="3" met="0010001010" rhyme="1" line_length="10">Tam jsou neustále snahy platné!</l>
+     <l n="4" met="101010101" rhyme="2" line_length="9">Posměch trpět, nouzi, statku rum;</l>
+     <l n="5" met="1010100010" rhyme="3" line_length="10">Přitom splácím mílkům svým jen bobkem,</l>
+     <l n="6" met="1000100010" rhyme="3" line_length="10">Některým jen maličičkým drobkem.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="0010100010" rhyme="4" line_length="10">Jsou to k slávě závazky předc tuhé;</l>
+     <l n="8" met="100010001" rhyme="5" line_length="9">Nežádám jí – nemalá to strast!</l>
+     <l n="9" met="1010001010" rhyme="4" line_length="10">Nechám milerád tam dojít druhé,</l>
+     <l n="10" met="100010101" rhyme="5" line_length="9">Odříkám se bobku; přej mi: vlast</l>
+     <l n="11" met="1010101010" rhyme="6" line_length="10">Zpěvem zbudit. Žehnej tuto dráhu!</l>
+     <l n="12" met="1010011010" rhyme="6" line_length="10">Pro ni podstoupit chci pracnou snahu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

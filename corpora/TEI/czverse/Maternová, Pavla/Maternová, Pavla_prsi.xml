@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PRŠÍ!</title>
+    <author>Maternová, Pavla</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maternová, Pavla_prsi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PRŠÍ!</title>
+     <author>Maternová, Pavla</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PRŠÍ!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010100010" rhyme="1" line_length="11">Ach, prší! Tmavé, bez listí už stojí</l>
+     <l n="2" met="0100010100" rhyme="2" line_length="10">tu hustovětvé stromy aleje,</l>
+     <l n="3" met="11000101010" rhyme="1" line_length="11">pláč větru v nich se s pláčem deště pojí</l>
+     <l n="4" met="1001010100" rhyme="2" line_length="10">na píseň stesku prázdnou naděje.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100010" rhyme="3" line_length="11">Ač zní ta píseň šeptanými slovy,</l>
+     <l n="6" met="0100010100" rhyme="4" line_length="10">přec do hloubi se v duši dotírá,</l>
+     <l n="7" met="01010101010" rhyme="3" line_length="11">a z dola, z řeky kalný proud co poví,</l>
+     <l n="8" met="0101010100" rhyme="4" line_length="10">jen smutku dvéře v srdce otvírá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000101010" rhyme="5" line_length="11">Kde v akátech se seschlé třesou plody,</l>
+     <l n="10" met="1101010100" rhyme="6" line_length="10">hle! tmí se pomník prostřed zahrady,</l>
+     <l n="11" met="01010100010" rhyme="5" line_length="11">a s něho – jaký pleonasmus vody! –</l>
+     <l n="12" met="0101010100" rhyme="6" line_length="10">se řinou šumně lesklé kaskády.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01000101010" rhyme="7" line_length="11">Ba, chápeš: on, ten mrtvý kámen ztmělý</l>
+     <l n="14" met="1100010100" rhyme="8" line_length="10">má nezkalené rmutem ručeje...</l>
+     <l n="15" met="01010101010" rhyme="7" line_length="11">Však nebe, řeka, i tvůj pohled vřelý</l>
+     <l n="16" met="0101000100" rhyme="8" line_length="10">jen kalnou slzou zde se zaleje!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

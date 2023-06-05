@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ČESKÉ ZÁBAVY</title>
+    <author>Neumann, Stanislav Kostka</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neumann, Stanislav Kostka_ceske-zabavy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ČESKÉ ZÁBAVY</title>
+     <author>Neumann, Stanislav Kostka</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ČESKÉ ZÁBAVY</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101" rhyme="1" line_length="7">Máme v Čechách dobrý zvyk</l>
+     <l n="2" met="100010" rhyme="2" line_length="6">pobavit se mile...</l>
+     <l n="3" met="1000100" rhyme="1" line_length="7">Masařík či Masaryk,</l>
+     <l n="4" met="100010" rhyme="2" line_length="6">debatí se čile.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010100" rhyme="3" line_length="7">Křestní list teď promluvil.</l>
+     <l n="6" met="001010" rhyme="4" line_length="6">Snad se někdo stydí,</l>
+     <l n="7" met="1010100" rhyme="3" line_length="7">stud-li ovšem někdy byl</l>
+     <l n="8" met="101010" rhyme="4" line_length="6">u těch dobrých lidí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

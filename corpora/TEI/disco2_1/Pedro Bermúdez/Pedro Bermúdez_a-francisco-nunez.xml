@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Francisco Núñez</title>
+    <author>Pedro Bermúdez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pedro Bermúdez_a-francisco-nunez</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Francisco Núñez</title>
+     <author>Pedro Bermúdez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Francisco Núñez</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+++-+-">Magnífico señor, yo no defiendo</l>
+     <l n="2" met="+--+-+---+-">ni favorezco caso deshonesto,</l>
+     <l n="3" met="----++-+-+-">sino con amor limpio y muy honesto</l>
+     <l n="4" met="--+-++-+++-">como Alpino le entiende y yo le entiendo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+-+-+-">Y así en lo que escribo no pretendo</l>
+     <l n="6" met="---+-+--++-">sino mostralle el punto en que está puesto</l>
+     <l n="7" met="--+--+---+-">y la causa y razón que para esto</l>
+     <l n="8" met="++--++-+-+-">le sobra, por ser tal se la encomiendo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+-+----+-">Que acto tan insigne y virtuoso</l>
+     <l n="10" met="++---+-+-+-">no es justo que ninguno le resista,</l>
+     <l n="11" met="-+--++-+-+-">y menos quien no sabe aquel secreto.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">Por do sería juicio temeroso</l>
+     <l n="13" met="-+-+---+-+-">constando clara la experiencia y vista</l>
+     <l n="14" met="-+---+---+-">mudar ni las palabras ni el sujeto.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

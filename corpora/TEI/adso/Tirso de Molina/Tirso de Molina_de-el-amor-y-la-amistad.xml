@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>De El amor y la amistad </title>
+    <author>Tirso de Molina</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tirso de Molina_de-el-amor-y-la-amistad</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>De El amor y la amistad </title>
+     <author>Tirso de Molina</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>De El amor y la amistad </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---++--+-">El águila que al sol da en sacrificio</l>
+     <l n="2" met="-+---+---+-">los hijos que en sus rayos legitima,</l>
+     <l n="3" met="-+---+---+-">aquellos por bastardos desestima</l>
+     <l n="4" met="-+-+-+-+-+-">que no osan ver su luz: hasta este indicio.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-++--+-">Examen hace un lúcido juicio</l>
+     <l n="6" met="---+---+-+-">de los polluelos cuya vista anima</l>
+     <l n="7" met="---+---+-+-">para mirarle, y al cobarde intima,</l>
+     <l n="8" met="-+-+-+---+-">en vez de amor materno precipicio.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-----+++-+-">En la prosperidad que es sol luciente,</l>
+     <l n="10" met="++---+-+-+-">no es mucho que sus rayos sean testigos</l>
+     <l n="11" met="---+-+-+-+-">de su nobleza, que es hermoso Febo.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+---+-">Mas yo, al águila en esto diferente,</l>
+     <l n="13" met="+--+---+-+-">¿cómo me atrevo a examinar amigos,</l>
+     <l n="14" met="---+-+-+-+-">si en la tiniebla, no en la luz, los pruebo?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

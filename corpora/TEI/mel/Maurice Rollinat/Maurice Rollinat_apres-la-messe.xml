@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Après la messe</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_apres-la-messe</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Après la messe</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Après la messe</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">On venait de sortir de l'église ; ici, là,</l>
+     <l n="2" rhyme="b" line_length="6+6">Les hommes se groupaient, lents, les mains dans les poches ;</l>
+     <l n="3" rhyme="b" line_length="6+6">Entrant au cimetière, aux derniers sons des cloches,</l>
+     <l n="4" rhyme="a" line_length="6+6">Les femmes rabattaient leur grand capuchon plat.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">Deux vieux — large chapeau, veste courte, air propret,</l>
+     <l n="6" rhyme="d" line_length="6+6">Rasés, cravate énorme et noueusement mise</l>
+     <l n="7" rhyme="d" line_length="6+6">D'où montaient les pointus d'un haut col de chemise, —</l>
+     <l n="8" rhyme="c" line_length="6+6">Du même pas tranquille allaient au cabaret…</l>
+    </lg>
+    <lg n="3" />
+    <lg n="4" />
+   </lg>
+  </body>
+ </text>
+</TEI>

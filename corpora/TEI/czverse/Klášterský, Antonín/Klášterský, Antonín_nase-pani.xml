@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Náše paní.</title>
+    <author>Klášterský, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Klášterský, Antonín_nase-pani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Náše paní.</title>
+     <author>Klášterský, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Náše paní.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Náše paní, té vám paní,</l>
+     <l n="2" met="10001010" rhyme="1" line_length="8">nemuším se stydít za ni,</l>
+     <l n="3" met="1001110" rhyme="2" line_length="7">třijců jen má šest párů,</l>
+     <l n="4" met="1010100" rhyme="2" line_length="7">šatů plnou halmaru.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="1" line_length="8">Náše paní, té vám paní,</l>
+     <l n="6" met="10001010" rhyme="1" line_length="8">chlapci se jen fantí za ní,</l>
+     <l n="7" met="1010100" rhyme="3" line_length="7">přídou večer ke dvoru,</l>
+     <l n="8" met="1000100" rhyme="3" line_length="7">koukají se nahoru.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01001010" rhyme="4" line_length="8">Náš pán si ji pěkně strojí,</l>
+     <l n="10" met="00001010" rhyme="4" line_length="8">von se vo ní tůlik bojí:</l>
+     <l n="11" met="0010100" rhyme="5" line_length="7">„Di vod vokna, Mankydla,</l>
+     <l n="12" met="1000100" rhyme="5" line_length="7">eště bys mňe nastydla!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

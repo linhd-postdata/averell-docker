@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ČESKÝM NIVÁM.</title>
+    <author>Tomek, Ferdinand</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tomek, Ferdinand_ceskym-nivam</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ČESKÝM NIVÁM.</title>
+     <author>Tomek, Ferdinand</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ČESKÝM NIVÁM.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010101" line_length="9">České nivy, proč vás mám tak rád?</l>
+     <l n="2" met="1000101010" rhyme="1" line_length="10">V osení se lesknou šperky z rosy,</l>
+     <l n="3" met="1010101010" rhyme="1" line_length="10">z něho skřivan písně v modro nosí,</l>
+     <l n="4" met="1000100" rhyme="2" line_length="7">o závod s ním hlaholí</l>
+     <l n="5" met="1010100" rhyme="2" line_length="7">písně dívek na poli;</l>
+     <l n="6" met="100010101" line_length="9">proto snad vás, nivy, mám tak rád!</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="001010101" line_length="9">Až pak na vás, nivy, padne sníh,</l>
+     <l n="8" met="1010101010" rhyme="3" line_length="10">zmlknou vašich pěvců písně všude,</l>
+     <l n="9" met="1010100010" rhyme="3" line_length="10">ale zato častěji zas bude</l>
+     <l n="10" met="1010100" rhyme="4" line_length="7">hlahol zvonků slyšeti</l>
+     <l n="11" met="1000100" rhyme="4" line_length="7">u saní, jež poletí</l>
+     <l n="12" met="100010001" line_length="9">přes umrzlý, zamodralý sníh.</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="101010100" line_length="9">Po vás těkat – jakou rozkoší!</l>
+     <l n="14" met="1000101010" rhyme="5" line_length="10">Kdyby mne snad zavál osud v zlosti</l>
+     <l n="15" met="1000101010" rhyme="5" line_length="10">do ciziny, kéž jen moje kosti</l>
+     <l n="16" met="1010100" rhyme="6" line_length="7">splynou se svou otčinou,</l>
+     <l n="17" met="1010100" rhyme="6" line_length="7">v lůně vašem spočinou!</l>
+     <l n="18" met="101010100" line_length="9">Ve vás hrob též mít je rozkoší...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

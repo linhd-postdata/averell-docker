@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NEMOCNÝ NÁROD!</title>
+    <author>Zavřel, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Zavřel, František_nemocny-narod</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NEMOCNÝ NÁROD!</title>
+     <author>Zavřel, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NEMOCNÝ NÁROD!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101000" rhyme="1" line_length="10">Přejedl se pana Masaryka,</l>
+     <l n="2" met="0010101000" rhyme="1" line_length="10">teď je z toho velká chaotika,</l>
+     <l n="3" met="00001000" rhyme="1" line_length="8">nic se ho už nedotýká,</l>
+     <l n="4" met="10001000" rhyme="1" line_length="8">proto se též nepotýká,</l>
+     <l n="5" met="10001000" rhyme="1" line_length="8">nanejvýš si zanaříká.</l>
+     <l n="6" met="1010" line_length="4">Marod, marod.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

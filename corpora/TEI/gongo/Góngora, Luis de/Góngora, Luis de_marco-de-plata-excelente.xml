@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Marco de plata excelente</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_marco-de-plata-excelente</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Marco de plata excelente</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Marco de plata excelente</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="+--+--+-" line_length="8">Marco de plata excelente</l>
+     <l n="2" met="-+--++-" line_length="7">y torre segura y alta,</l>
+     <l n="3" met="---+--+-" line_length="8">pues Monsïur de Peralta</l>
+     <l n="4" met="+-+-+-+-" line_length="8">ha llegado alegremente,</l>
+     <l n="5" met="+--+--+-" line_length="8">baje el espíritu ardiente</l>
+     <l n="6" met="-+-+--+-" line_length="8">hablando en lenguas de fuego,</l>
+     <l n="7" met="--+--++-" line_length="8">que seremos allá luego</l>
+     <l n="8" met="-+--+-+-" line_length="8">con naipes, dinero y gana,</l>
+     <l n="9" met="--++--+-" line_length="8">y quizá iremos por lana</l>
+     <l n="10" met="-----++-" line_length="8">y nos trasquilará el juego.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CYPŘIŠ</title>
+    <author>Toman, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Toman, Karel_cypris</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CYPŘIŠ</title>
+     <author>Toman, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CYPŘIŠ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010" line_length="5">Mám v knize cypřiš.</l>
+     <l n="2" met="010101010" line_length="9">Je jiný, než jsou naše stromy,</l>
+     <l n="3" met="010101010" line_length="9">než smrky, jedle našich lesů.</l>
+     <l n="4" met="010100110101" rhyme="1" line_length="12">Když knihu otevru, jih vidím, mořský břeh,</l>
+     <l n="5" met="100101010101" rhyme="1" line_length="12">vápenné skály, do nichž pere slunce žeh</l>
+     <l n="6" met="010101010" line_length="9">a vidím hroby, hroby, hroby.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="01010" line_length="5">Jsou naši mrtví</l>
+     <l n="8" met="010100010" line_length="9">tam v hrobech dalekého jihu,</l>
+     <l n="9" met="010101010" line_length="9">k nim padá rosa našich očí.</l>
+     <l n="10" met="0101000101000" rhyme="2" line_length="13">Má kniha neříká, proč za nás umírali,</l>
+     <l n="11" met="0100000100110" rhyme="2" line_length="13">však tisíce jsou nás, jež potupná smrt pálí</l>
+     <l n="12" met="010100010" line_length="9">těch mrtvých na dalekém jihu.</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="11010" line_length="5">Mám v srdci cypřiš.</l>
+     <l n="14" met="010001000" line_length="9">Je ostnitý a nelítostný,</l>
+     <l n="15" met="100101010" line_length="9">jehlami bodá, mučí, jitří.</l>
+     <l n="16" met="1001011001010" rhyme="3" line_length="13">Tatínku, každou noc putuji s květy k tobě,</l>
+     <l n="17" met="1001001000010" rhyme="3" line_length="13">vděčně tě zulíbám ve vápencovém hrobě,</l>
+     <l n="18" met="010110010" line_length="9">žes tolik rád měl nás a domov.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

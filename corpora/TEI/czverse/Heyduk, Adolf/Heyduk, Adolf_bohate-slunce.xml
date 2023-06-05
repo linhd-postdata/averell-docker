@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Bohaté slunce.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_bohate-slunce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Bohaté slunce.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Bohaté slunce.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101010" rhyme="1" line_length="10">Za soumraku slunce nebem spělo:</l>
+     <l n="2" met="1010101010" rhyme="1" line_length="10">v zlaté loďce v mořskou lázeň jelo,</l>
+     <l n="3" met="1010100010" rhyme="2" line_length="10">v zlaté loďce za rána se vrátí</l>
+     <l n="4" met="1010010010" rhyme="2" line_length="10">a přec loďky vždy nechává státi.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0010101000" rhyme="3" line_length="10">Což mu o ty! Je tak přebohato,</l>
+     <l n="6" met="0010101010" rhyme="3" line_length="10">že kam kročí, všecko mění v zlato;</l>
+     <l n="7" met="1010001000" rhyme="4" line_length="10">jeho loďmistr mu do zásoby</l>
+     <l n="8" met="0110101010" rhyme="4" line_length="10">co den dvojí loďku z něho robí. –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

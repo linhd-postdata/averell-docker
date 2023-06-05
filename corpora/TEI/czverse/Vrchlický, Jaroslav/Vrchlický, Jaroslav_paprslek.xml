@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PAPRSLEK.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_paprslek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PAPRSLEK.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PAPRSLEK.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010010" rhyme="1" line_length="10">Paprslek mračen pronikl řasy,</l>
+     <l n="2" met="010100100" rhyme="2" line_length="9">co barev vsypal mi do šera,</l>
+     <l n="3" met="10010110010" rhyme="1" line_length="11">z prachu si nitě tká podivné krásy,</l>
+     <l n="4" met="1001010010" rhyme="1" line_length="10">elfů a vil jak duhové vlasy,</l>
+     <l n="5" met="10010100" rhyme="2" line_length="8">jaký to lesk a nádhera!</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="1001010010" rhyme="1" line_length="10">Po hřbetech knih, jež odřely časy,</l>
+     <l n="7" met="010100100" rhyme="2" line_length="9">v nichž světa moudrost je veškerá,</l>
+     <l n="8" met="10010010010" rhyme="1" line_length="11">skotačí, míhá se vesele, hrá si</l>
+     <l n="9" met="100" line_length="3">paprslek.</l>
+    </lg>
+    <lg n="3">
+     <l n="10" met="1001010010" rhyme="1" line_length="10">Odkud jen ke mně zabloudil asi</l>
+     <l n="11" met="10010100" rhyme="2" line_length="8">v pochmurné stíny večera?</l>
+     <l n="12" met="100100100" rhyme="2" line_length="9">Přišla s ním síla a důvěra,</l>
+     <l n="13" met="1011010010" rhyme="1" line_length="10">setba snů v duši vlní se v klasy,</l>
+     <l n="14" met="10010010010" rhyme="1" line_length="11">cítím, že příbuzný k němu se hlásí</l>
+     <l n="15" met="100" line_length="3">paprslek!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

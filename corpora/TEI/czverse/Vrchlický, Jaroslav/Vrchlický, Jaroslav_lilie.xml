@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LILIE.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_lilie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LILIE.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LILIE.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010" rhyme="1" line_length="7">Já pil tvé slzy žhavé,</l>
+     <l n="2" met="010001" rhyme="2" line_length="6">s tvých víček jsem je pil,</l>
+     <l n="3" met="0100110" rhyme="1" line_length="7">já k bolesti řek: Ave!</l>
+     <l n="4" met="010100" rhyme="2" line_length="6">a při tom šťastný byl.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010" rhyme="3" line_length="7">V mou duši ony padly,</l>
+     <l n="6" met="010100" rhyme="4" line_length="6">v ní každá rozvíjí</l>
+     <l n="7" met="1000110" rhyme="3" line_length="7">nad chmurnými dum bradly</l>
+     <l n="8" met="010100" rhyme="4" line_length="6">se v prales lilií.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101010" rhyme="5" line_length="7">Tam kvetou v žití lednu,</l>
+     <l n="10" met="010100" rhyme="6" line_length="6">jich vůni dýchám sám,</l>
+     <l n="11" met="0100010" rhyme="5" line_length="7">však utrhnouti jednu,</l>
+     <l n="12" met="110100" rhyme="6" line_length="6">ó věř, se obávám!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="0101010" rhyme="7" line_length="7">Tam kvetou v denní hluši</l>
+     <l n="14" met="010100" rhyme="8" line_length="6">hloub, než se naděješ,</l>
+     <l n="15" met="0101010" rhyme="7" line_length="7">svou, vím to, s nimi duši</l>
+     <l n="16" met="010000" rhyme="8" line_length="6">že vytrhnul bych též!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

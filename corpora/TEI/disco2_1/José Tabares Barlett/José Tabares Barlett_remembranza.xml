@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Remembranza</title>
+    <author>José Tabares Barlett</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Tabares Barlett_remembranza</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Remembranza</title>
+     <author>José Tabares Barlett</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Remembranza</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">Marco el postigo a su hermosura era,</l>
+     <l n="2" met="+-+-+--+++-">¡ha cincuenta años! ¡con dolor lo digo!</l>
+     <l n="3" met="+-+--+---+-">Hoy pasé por su calle y el postigo</l>
+     <l n="4" met="-+-+---+-+-">abierto vi, como diciendo: -¡Espera!-</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">Ni un compañero de mi edad primera</l>
+     <l n="6" met="-+-+---+-+-">existe ya, de mi pasión testigo;</l>
+     <l n="7" met="-+---+---+-">de aquellos que rondábanla conmigo</l>
+     <l n="8" met="--+--+---+-">por las losas gastadas de la acera.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+---+-">¡Ella, núbil, bajó a la sepultura</l>
+     <l n="10" met="-+-+-+---+-">llevándose un ensueño de ventura!</l>
+     <l n="11" met="+------+-+-">Cruzo delante de su hogar desierto...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+---+-">Vuelvo atrás la mirada entristecida,</l>
+     <l n="13" met="--++-+---+-">y se le antoja al alma dolorida</l>
+     <l n="14" met="+-+-+++--+-">hoy, el postigo aquel, un nicho abierto.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

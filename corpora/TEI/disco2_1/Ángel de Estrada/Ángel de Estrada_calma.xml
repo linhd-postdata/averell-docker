@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Calma</title>
+    <author>Ángel de Estrada</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ángel de Estrada_calma</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Calma</title>
+     <author>Ángel de Estrada</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Calma</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">La estatua inmóvil al silencio inspira</l>
+     <l n="2" met="-+-+---+-+-">y en torno vierte su fulgor de diosa,</l>
+     <l n="3" met="++---+---+-">tan muda como el agua misteriosa</l>
+     <l n="4" met="---+-+---+-">de la profunda fuente en que se mira.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">Luchando el alma, en su dolor aspira</l>
+     <l n="6" met="+--+---+-+-">a esos silencios para ser dichosa,</l>
+     <l n="7" met="-+-+---+-+-">y augustamente entre los dos reposa</l>
+     <l n="8" met="-+-+---+-+-">con noble gesto de callada lira.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+---+-">Nívea nube en la fuente se refleja</l>
+     <l n="10" met="-+-+---+-+-">y más inmóvil a la linfa deja</l>
+     <l n="11" met="--+--+---+-">al cruzar por el diáfano paisaje</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+---+-">de alma, fuente y estatua, con anhelo</l>
+     <l n="13" met="-+++-+---+-">de darle a aquel espejo su mensaje</l>
+     <l n="14" met="---+---+-+-">de la feliz serenidad del cielo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

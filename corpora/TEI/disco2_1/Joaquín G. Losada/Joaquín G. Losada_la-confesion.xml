@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La confesión</title>
+    <author>Joaquín G. Losada</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Joaquín G. Losada_la-confesion</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La confesión</title>
+     <author>Joaquín G. Losada</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La confesión</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+-+-+-">-¿Y te enmendaste ya de aquel pecado?</l>
+     <l n="2" met="++-+-++-++-">No, Padre, no he podido, harto lo siento:</l>
+     <l n="3" met="+-+--+---+-">sigo amando a la niña de Sarmiento</l>
+     <l n="4" met="---+---+--">y a la consorte de Simón Cuadrado.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-">-¡Réprobo! ¡Libertino! ¡Condenado!</l>
+     <l n="6" met="++---+---+-">-Un día, tras las tapias del convento</l>
+     <l n="7" met="-++-++---+-">hablé a Juana... -¿Tú ignoras el tormento</l>
+     <l n="8" met="---+++---+-">que Satanás te tiene reservado?</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+---+-">-Otra vez en la senda del cortijo...</l>
+     <l n="10" met="+-----+--+-">-¡Piensa en la eternidad! ¡Piensa en la muerte!</l>
+     <l n="11" met="-+---+-++-">-Después en el molino... -Amado hijo,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++---+---++-">no puedo de tus culpas absolverte.-</l>
+     <l n="13" met="+-+--+-+-+-">Fuese el joven y luego el cura dijo:</l>
+     <l n="14" met="--+--+-+-+-">-Pero ¡qué atrocidad! ¡Jesús, qué suerte!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

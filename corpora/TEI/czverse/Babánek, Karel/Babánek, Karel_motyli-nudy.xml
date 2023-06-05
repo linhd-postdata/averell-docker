@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MOTÝLI NUDY.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_motyli-nudy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MOTÝLI NUDY.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MOTÝLI NUDY.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101" rhyme="1" line_length="8">Nad mořem klasů žlutých vzduch</l>
+     <l n="2" met="01010100" rhyme="2" line_length="8">se chvěje sluncem rozžhaven,</l>
+     <l n="3" met="01010101" rhyme="1" line_length="8">v něm bzučí líně roje much.</l>
+     <l n="4" met="01010100" rhyme="2" line_length="8">Je v zlato věže roztaven</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11010100" rhyme="3" line_length="8">kříž, který svití modravem.</l>
+     <l n="6" met="10010100" rhyme="4" line_length="8">Na krajích bílých u silnic,</l>
+     <l n="7" met="01010101" rhyme="3" line_length="8">jichž kolem vsí se vine lem,</l>
+     <l n="8" met="11010100" rhyme="4" line_length="8">schne tráva v slunci, dřímajíc.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010100" rhyme="5" line_length="8">Nad morem klasů motýli</l>
+     <l n="10" met="01010100" rhyme="3" line_length="8">se chvějí bílí v letu v něm, –</l>
+     <l n="11" met="01010100" rhyme="5" line_length="8">v mé duši nudy motýli</l>
+     <l n="12" met="01010101" rhyme="3" line_length="8">se chvějí bílí – kraj byl něm.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

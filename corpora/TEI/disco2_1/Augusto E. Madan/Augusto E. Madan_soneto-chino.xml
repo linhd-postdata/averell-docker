@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto chino</title>
+    <author>Augusto E. Madan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Augusto E. Madan_soneto-chino</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto chino</title>
+     <author>Augusto E. Madan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto chino</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++---+-+-+-">¡Qué higiénico resulta el té Houlong,</l>
+     <l n="2" met="-+--++---+-">mezclado con un poco de gin-seng,</l>
+     <l n="3" met="-+-+---+-+-">cuando es del puro que recibe Weng</l>
+     <l n="4" met="---+-+--+-">el mercader de efectos de Hong-Kong!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+--++-+-+-">Comprendo que no teman a un Armstrong</l>
+     <l n="6" met="-+----+-+-">los chinos de Tsung-Hái y de Tái-Yuéng,</l>
+     <l n="7" met="-+---+---+-">de Kwansi, de Ning-Kiang y de Chung-Tiéng,</l>
+     <l n="8" met="--+--+---+-">de Ning-Pó, de Nankín y de Souchóng.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+++---+-">Bebido el té, me pongo el Smocking;</l>
+     <l n="10" met="--+--+---+-">y fumando mi pipa de Kwantúng,</l>
+     <l n="11" met="++++----+-+">me paso un rato en el Skáting-Ríng.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+---+-">Vuelvo a casa: reposo la Zeitúng;</l>
+     <l n="13" met="-----+++-+-">y después de saber que aún vive el King,</l>
+     <l n="14" met="+-++-+--+-">pido el sueño a otra taza de Yuén-Súng.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

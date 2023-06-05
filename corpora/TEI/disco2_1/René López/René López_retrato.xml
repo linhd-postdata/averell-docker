@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Retrato</title>
+    <author>René López</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>René López_retrato</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Retrato</title>
+     <author>René López</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Retrato</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Nariz gascona de afilada punta,</l>
+     <l n="2" met="+--+---+-+-">rubia, sedosa, medieval melena;</l>
+     <l n="3" met="-+-+---+-+-">redonda cara que la carne llena,</l>
+     <l n="4" met="+--+---+-+-">rudo entrecejo que las cejas junta.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+---+-">Mirada torva, fiera y cejijunta;</l>
+     <l n="6" met="+--+---+-+-">boca delgada que al hablar ordena,</l>
+     <l n="7" met="---+---+-+-">y en cuyos labios de elegancia helena</l>
+     <l n="8" met="-+-+---+-+-">ligero bozo juvenil despunta.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+-+-">Anchas espaldas y robustos brazos;</l>
+     <l n="10" met="-+-+---+-+-">jubón que adornan brilladores lazos;</l>
+     <l n="11" met="-+-+---+-+-">oscuras botas, toledano acero.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+---+-+-">Y hasta la línea que su vista alcanza,</l>
+     <l n="13" met="---+---+++-">en ademán de retador nos lanza</l>
+     <l n="14" met="+--+---+-+-">todo el desdén de su mirar austero.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

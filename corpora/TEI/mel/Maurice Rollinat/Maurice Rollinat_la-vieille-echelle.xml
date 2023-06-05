@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La vieille Échelle</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_la-vieille-echelle</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La vieille Échelle</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La vieille Échelle</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Gisant à plat dans la pierraille,</l>
+     <l n="2" rhyme="b" line_length="8">Veuve à jamais du pied humain,</l>
+     <l n="3" rhyme="b" line_length="8">L'échelle, aux tons de parchemin,</l>
+     <l n="4" rhyme="a" line_length="8">Pourrit au bas de la muraille.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="8">Jadis, beaux gars et belles filles,</l>
+     <l n="6" rhyme="d" line_length="8">Poulettes, coqs, chats tigrés</l>
+     <l n="7" rhyme="d" line_length="8">Montaient, obliques, ses degrés,</l>
+    </lg>
+    <lg n="3">
+     <l n="8" rhyme="e" line_length="8">Mais, une margot sur le puits</l>
+     <l n="9" rhyme="e" line_length="8">Se perche… une autre encore ! et puis,</l>
+     <l n="10" rhyme="f" line_length="8">Toutes deux quittant la margelle</l>
+    </lg>
+    <lg n="4">
+     <l n="11" rhyme="g" line_length="8">Pour danser sur ses échelons,</l>
+     <l n="12" rhyme="g" line_length="8">Leurs petits sauts, tout de son long,</l>
+     <l n="13" rhyme="f" line_length="8">Ressuscitent la pauvre échelle.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

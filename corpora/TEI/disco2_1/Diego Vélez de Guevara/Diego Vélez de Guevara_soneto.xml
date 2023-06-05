@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Diego Vélez de Guevara</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Diego Vélez de Guevara_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Diego Vélez de Guevara</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+-+-+-">Ora en la fiel cosecha, Lisis grata,</l>
+     <l n="2" met="-+---+---+-">la tierra corresponda a el aldeano</l>
+     <l n="3" met="--++-+-+-+-">labrador, ora en leche pierda el grano</l>
+     <l n="4" met="-+---+---+-">la piedra, que las mieses desbarata;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-++--+-">o el mar tranquilo ya, la índica plata</l>
+     <l n="6" met="---+-+-+-+-">en salvamento llegue al puerto hispano,</l>
+     <l n="7" met="-++--+---+-">o ya parte se trague el Océano,</l>
+     <l n="8" met="-+-+---+-+-">y parte roba el albión pirata;</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+++--+---+-">no lo siento, ni anhelo los fatales</l>
+     <l n="10" met="-+---+-+-+-">destinos estorbar con dar al viento</l>
+     <l n="11" met="-++--+---+-">y a Dios votos y voces desiguales.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-++--+-">No porque yo del mal tenga contento,</l>
+     <l n="13" met="---+---+-+-">mas porque el curso de seguir tus males</l>
+     <l n="14" met="+++--+---+-">no me deja lugar al sentimiento.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

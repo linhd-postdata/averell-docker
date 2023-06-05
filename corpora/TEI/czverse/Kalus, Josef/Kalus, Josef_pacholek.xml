@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PACHOLEK.</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_pacholek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PACHOLEK.</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PACHOLEK.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010" rhyme="1" line_length="8">Pacholek křižuje tebe,</l>
+     <l n="2" met="01010100" rhyme="2" line_length="8">aťs vinný nebo nevinný,</l>
+     <l n="3" met="100100010" rhyme="1" line_length="9">strhne tě z vysokého nebe</l>
+     <l n="4" met="10010100" rhyme="2" line_length="8">do prachu, temna, hlubiny:</l>
+     <l n="5" met="10010001" rhyme="3" line_length="8">působí satanskou mu slast,</l>
+     <l n="6" met="10010101" rhyme="3" line_length="8">umučit Krista, národ, vlast.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

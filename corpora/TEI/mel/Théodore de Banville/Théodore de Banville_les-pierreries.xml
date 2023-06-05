@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les Pierreries</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_les-pierreries</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Les Pierreries</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Les Pierreries</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Les flamboyantes Pierreries</l>
+     <l n="2" rhyme="b" line_length="8">Qui parent les glaives des rois</l>
+     <l n="3" rhyme="b" line_length="8">Et les mors de leurs palefrois,</l>
+     <l n="4" rhyme="a" line_length="8">Brillent dans les rouges tueries.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">La foule, amante des féeries,</l>
+     <l n="6" rhyme="b" line_length="8">Admire, en ses humbles effrois,</l>
+     <l n="7" rhyme="a" line_length="8">Les flamboyantes Pierreries</l>
+     <l n="8" rhyme="b" line_length="8">Qui parent les glaives des rois.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Et, dans les louanges nourries,</l>
+     <l n="10" rhyme="b" line_length="8">Les Princesses aux regards froids</l>
+     <l n="11" rhyme="b" line_length="8">Sèment sur leurs corsages droits</l>
+     <l n="12" rhyme="a" line_length="8">Et sur leurs jupes d'or fleuries</l>
+     <l n="13" rhyme="a" line_length="8">Les flamboyantes Pierreries.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

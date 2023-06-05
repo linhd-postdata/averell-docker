@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mrtvé lásce.</title>
+    <author>Pachmayer, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pachmayer, Josef_mrtve-lasce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mrtvé lásce.</title>
+     <author>Pachmayer, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mrtvé lásce.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101" line_length="8">V mé duši přestal zpívat pták</l>
+     <l n="2" met="01010" rhyme="1" line_length="5">a soumrak přišel,</l>
+     <l n="3" met="01010011" line_length="8">mé štěstí na věky šlo spat...</l>
+     <l n="4" met="01010" rhyme="1" line_length="5">a měsíc vyšel...</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01011101" line_length="8">A duše má šla ve tmy spat,</l>
+     <l n="6" met="0101" rhyme="2" line_length="4">když jeho svit</l>
+     <l n="7" met="01010100" line_length="8">v Tvých očích spících na věky</l>
+     <l n="8" met="1001" rhyme="2" line_length="4">se v posled kmit!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000101" line_length="8">A sklonila se k věčným tmám</l>
+     <l n="10" met="0101" rhyme="3" line_length="4">mé duše tvář –</l>
+     <l n="11" met="01010100" line_length="8">když věčná vešla do nebes</l>
+     <l n="12" met="0101" rhyme="3" line_length="4">již s tebou zář – –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- LX - </title>
+    <author>Gutierre de Cetina</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Gutierre de Cetina_lx</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- LX - </title>
+     <author>Gutierre de Cetina</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- LX - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">Si de Roma el ardor, si el de Sagunto,</l>
+     <l n="2" met="-+---+---+-">de Troya, de Numancia y de Cartago,</l>
+     <l n="3" met="-----+-+-+-">si de Jerusalén el fiero estrago,</l>
+     <l n="4" met="-+-+---+-+-">Belgrado, Rodas y Bizancio junto;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+-+-+-">si puede a piedad moveros punto</l>
+     <l n="6" met="+++--+-+-+-">cuanto ha habido de mal del Indo al Tago,</l>
+     <l n="7" met="-+-+---+-+-">¿por qué del fuego que llorando apago</l>
+     <l n="8" met="--+--+-+-+-">ni dolor, ni piedad en vos barrunto?</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+--++-">Pasó la pena de éstos, y en un hora</l>
+     <l n="10" met="--+--+---+-">acabaron la vida y el tormento,</l>
+     <l n="11" met="+----+-+-+-">puestos del enemigo a sangre y fuego.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+++--+---+-">Vos dais pena inmortal al que os adora,</l>
+     <l n="13" met="-+---+++-+-">y así vuestra crueldad no llega a cuento</l>
+     <l n="14" met="-+-+-+---+-">romano, turco, bárbaro ni griego.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

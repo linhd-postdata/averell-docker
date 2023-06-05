@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SNY</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_sny</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SNY</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SNY</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110101000" rhyme="1" line_length="9">Sny bájné ke mně chodívaly</l>
+     <l n="2" met="100100010" rhyme="1" line_length="9">s princi a princeznami, králi,</l>
+     <l n="3" met="100101000" rhyme="2" line_length="9">s rytířstvem v zbroji ocelové –</l>
+     <l n="4" met="110101010" rhyme="2" line_length="9">Ach, kde jste, zlatí moji snové?</l>
+     <l n="5" met="10010100" rhyme="3" line_length="8">Někam jste cestou zbloudily?</l>
+     <l n="6" met="01010100" rhyme="3" line_length="8">Či bouře loď vám rozbily</l>
+     <l n="7" met="100101000" rhyme="4" line_length="9">na širém moři o skaliska?</l>
+     <l n="8" met="010101000" rhyme="5" line_length="9">Kdes na dně mořském spočíváte?</l>
+     <l n="9" met="100101010" rhyme="5" line_length="9">Vraťte se ke mně, sny mé zlaté:</l>
+     <l n="10" met="100101010" rhyme="4" line_length="9">srdci se mému po vás stýská!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Andrógino</title>
+    <author>Amado Nervo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Amado Nervo_androgino</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Andrógino</title>
+     <author>Amado Nervo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Andrógino</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+----+-">Por ti, por ti clamaba, cuando surgiste,</l>
+     <l n="2" met="--+--+--+-+-">infernal arquetipo, del hondo Erebo,</l>
+     <l n="3" met="--+--+--++-+">con tus neutros encantos, tu faz d efebo,</l>
+     <l n="4" met="-+---+--+-+-">sus senos pectorales y a mí viniste.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-++-+-++-+-">Sombra y luz, yema y polen a un tiempo fuiste,</l>
+     <l n="6" met="--+--+--+-+-">despertando en las almas el crimen nuevo,</l>
+     <l n="7" met="+----+--+-+-">ya con virilidades de dios mancebo,</l>
+     <l n="8" met="+-+--+---++-">ya con mustios halagos de mujer triste.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+++--+--+-+-">Yo te amé porque, a trueque de ingenuas gracias,</l>
+     <l n="10" met="-+--+----+-">tenías las supremas aristocracias:</l>
+     <l n="11" met="+-++-+-+--+-">sangre azul, alma huraña, vientre infecundo;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---++--+-+--">porque sabías mucho y amabas poco,</l>
+     <l n="13" met="+-+--+-++-+-">y eras síntesis rara de un siglo loco</l>
+     <l n="14" met="---+-+-++-+-">y floración malsana de un viejo mundo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PÍSEŇ SVATEBNÍ.</title>
+    <author>Škampa, Alois</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Škampa, Alois_pisen-svatebni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PÍSEŇ SVATEBNÍ.</title>
+     <author>Škampa, Alois</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PÍSEŇ SVATEBNÍ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100010" rhyme="1" line_length="11">Jsme svoji tak, že nemůžeme býti</l>
+     <l n="2" met="1000" rhyme="2" line_length="4">svými už víc!</l>
+     <l n="3" met="00010011010" rhyme="1" line_length="11">Vše jsme si řekli, co hruď naše cítí,</l>
+     <l n="4" met="0101010100" rhyme="2" line_length="10">co naše srdce chtěla sobě říc’...</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11000100010" rhyme="3" line_length="11">Dej ruku mi, ať cokoli se stane –</l>
+     <l n="6" met="1100" rhyme="4" line_length="4">rád dám Ti svou!</l>
+     <l n="7" met="10010100010" rhyme="3" line_length="11">Hvězdička lásky na cestu nám plane,</l>
+     <l n="8" met="0100010001" rhyme="4" line_length="10">ta ochrání nás před závistí zlou...</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101010" rhyme="5" line_length="11">Ta hvězda lásky značí naše ráno</l>
+     <l n="10" met="1100" rhyme="6" line_length="4">v den svatební:</l>
+     <l n="11" met="01000001000" rhyme="5" line_length="11">kéž neuhasne dřív, až dokonáno</l>
+     <l n="12" met="0101010100" rhyme="6" line_length="10">v náš večer bude písní pohřební...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

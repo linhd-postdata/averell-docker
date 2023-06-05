@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kalině.</title>
+    <author>Jesenská, Růžena</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jesenská, Růžena_kaline</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kalině.</title>
+     <author>Jesenská, Růžena</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kalině.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" line_length="8">Kalino bílá, běloučká,</l>
+     <l n="2" met="10010010" rhyme="1" line_length="8">pošli mi květy své dolů,</l>
+     <l n="3" met="10000100" line_length="8">pokropím já je slzami,</l>
+     <l n="4" met="10000010" rhyme="1" line_length="8">rozkutálejí se spolu.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" line_length="8">Alespoň jedna kulička</l>
+     <l n="6" met="10010010" rhyme="2" line_length="8">pravou si pěšinu zvolí,</l>
+     <l n="7" met="10010100" line_length="8">kudy můj milý chodívá,</l>
+     <l n="8" met="1000010" rhyme="2" line_length="7">u srdce když ho bolí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010100" line_length="8">Kalino bílá, přiveď ho</l>
+     <l n="10" met="10010010" rhyme="3" line_length="8">po stopě kuličky svojí,</l>
+     <l n="11" met="00010100" line_length="8">snad že mu moje objetí</l>
+     <l n="12" met="10010010" rhyme="3" line_length="8">bolesti u srdce zhojí!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

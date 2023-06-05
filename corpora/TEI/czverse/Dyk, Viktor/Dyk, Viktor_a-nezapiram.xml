@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A NEZAPÍRÁM</title>
+    <author>Dyk, Viktor</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dyk, Viktor_a-nezapiram</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A NEZAPÍRÁM</title>
+     <author>Dyk, Viktor</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A NEZAPÍRÁM</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000101010" rhyme="1" line_length="11">A nezapírám, těžké byly chvíle,</l>
+     <l n="2" met="11010100" rhyme="2" line_length="8">dny zlé a horší večery.</l>
+     <l n="3" met="01010101010" rhyme="1" line_length="11">Leč jako nikdy přišel těše, síle</l>
+     <l n="4" met="01000100" rhyme="2" line_length="8">dnes masopustní úterý.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000101000" rhyme="3" line_length="11">Sem nezabloudí mumraj karnevalu,</l>
+     <l n="6" met="01010100" rhyme="4" line_length="8">je vážné ticho v cele mé.</l>
+     <l n="7" met="01000101010" rhyme="3" line_length="11">Než, zbytečnost jsem poznal všeho žalu</l>
+     <l n="8" met="01000100" rhyme="4" line_length="8">ať přežijem’, ať zhyneme!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010100010" rhyme="5" line_length="11">Přežijem’: v krásné vzpomínce se vrátí</l>
+     <l n="10" met="10010100" rhyme="6" line_length="8">okamžik mnohý zoufalý.</l>
+     <l n="11" met="10010000110" rhyme="5" line_length="11">Zemřeme: život vše-li, co lze dáti,</l>
+     <l n="12" met="01000100" rhyme="6" line_length="8">jak bychom své vše nedali?</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10010100010" rhyme="7" line_length="11">Otevru okno: noci van ať dýše</l>
+     <l n="14" met="10010001" rhyme="8" line_length="8">v předjarní, důvěřivý sen.</l>
+     <l n="15" met="11001001010" rhyme="7" line_length="11">Řev opilých odkudsi z dálky slyše</l>
+     <l n="16" met="10010100" rhyme="8" line_length="8">u okna stojím opojen.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

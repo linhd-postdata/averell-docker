@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Smích.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_smich</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Smích.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Smích.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000101010" rhyme="1" line_length="11">Tak perlivě jí úsměv ze rtů zvonil,</l>
+     <l n="2" met="0101000100" rhyme="2" line_length="10">jak tisíc ptáků když se rozpěje,</l>
+     <l n="3" met="1001010100" rhyme="2" line_length="10">a my jsme byli, jak když zavěje</l>
+     <l n="4" met="10010101010" rhyme="1" line_length="11">přes klasy vítr, – tak nás všechny sklonil</l>
+     <l n="5" met="0101" rhyme="3" line_length="4">ten její smích.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="01011001010" rhyme="4" line_length="11">To děvče, bůh ví jak to všechno bralo;</l>
+     <l n="7" met="010001011010" rhyme="4" line_length="12">nám každému se, že nás má rádo, zdálo,</l>
+     <l n="8" met="0100010010" rhyme="5" line_length="10">a ona jen se smála, tak smála!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000100010" rhyme="6" line_length="11">Nic zlého jen si nemyslete o ní,</l>
+     <l n="10" met="0001" rhyme="3" line_length="4">to byl by hřích!</l>
+     <l n="11" met="01000101010" rhyme="6" line_length="11">Nám každému se do dnes stýská po ní,</l>
+     <l n="12" met="010100" rhyme="3" line_length="6">z nás do dnes každý stich,</l>
+     <l n="13" met="0100010101" rhyme="3" line_length="10">když vzpomene kdo na ten dětský smích,</l>
+     <l n="14" met="01000101000" rhyme="5" line_length="11">jímž zasmála se, a pak dokonala...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

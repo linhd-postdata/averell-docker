@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Evropští poetové.</title>
+    <author>Pokorný, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný, Rudolf_evropsti-poetove</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Evropští poetové.</title>
+     <author>Pokorný, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Evropští poetové.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101000101000" rhyme="1" line_length="12">Slavný poeta, jenž pláče na nelásku,</l>
+     <l n="2" met="100010101010" rhyme="1" line_length="12">nemluví co napsal, ale kolik svazků;</l>
+     <l n="3" met="10101000101010" rhyme="2" line_length="14">a to svaté vědomí ho ještě v smrti blaží,</l>
+     <l n="4" met="1000010010" rhyme="2" line_length="10">Dantea že i s Homerem zváží!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

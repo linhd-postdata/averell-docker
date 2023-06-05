@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Zvoneček.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_zvonecek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Zvoneček.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Zvoneček.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1100100" line_length="7">Mám v srdéňku zvoneček:</l>
+     <l n="2" met="001010" rhyme="1" line_length="6">když se slunko kloní</l>
+     <l n="3" met="1000" rhyme="2" line_length="4">z pomalenka</l>
+     <l n="4" met="1000" rhyme="2" line_length="4">z hrdélenka</l>
+     <l n="5" met="100010" rhyme="1" line_length="6">písňonkami zvoní.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="0100100" line_length="7">A víšli kdo zvoníkem?</l>
+     <l n="7" met="001010" rhyme="3" line_length="6">Tys to, šuhaj rusý! –</l>
+     <l n="8" met="1010" rhyme="4" line_length="4">ladné dítě,</l>
+     <l n="9" met="0010" rhyme="4" line_length="4">ne tak hbitě,</l>
+     <l n="10" met="101010" rhyme="3" line_length="6">sice puknouť musí!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

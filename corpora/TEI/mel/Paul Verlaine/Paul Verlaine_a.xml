@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A***</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">11</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_a</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A***</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A***</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="5+4">MAUVAISE, criarde, et ça vaut mieux</l>
+     <l n="2" rhyme="b" line_length="5+4">Qu’en somme bavarde et muette.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="6+4">Ce poète, bavard et curieux,</l>
+     <l n="4" rhyme="b" line_length="5+4">Amoureux avant tout de sa tête</l>
+     <l n="5" rhyme="b" line_length="9">Et de ses émotions d’esthète,</l>
+     <l n="6" rhyme="a" line_length="5+4">Se creuse sa tête d’envieux,</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="c" line_length="5+4">D’envieux plutôt d’être tranquille</l>
+     <l n="8" rhyme="c" line_length="5+4">Comme un naufragé nageant vers l’île</l>
+     <l n="9" rhyme="d" line_length="4+5">Où se sécher des flots furieux…</l>
+    </lg>
+    <lg n="4">
+     <l n="10" rhyme="e" line_length="6+4">Et comme il se cramponne, le poète,</l>
+     <l n="11" rhyme="e" line_length="10">Avec son bagage lâché d’esthète</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

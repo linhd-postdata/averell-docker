@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kdo jest bratr?</title>
+    <author>Nejedlý, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">2</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nejedlý, Jan_kdo-jest-bratr</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kdo jest bratr?</title>
+     <author>Nejedlý, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kdo jest bratr?</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00100010100" rhyme="1" line_length="11">Kdo ti nepomáhá, bratrem nebývá,</l>
+     <l n="2" met="10001010100" rhyme="1" line_length="11">Ale kdo ti raddou, skutkem přispívá.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

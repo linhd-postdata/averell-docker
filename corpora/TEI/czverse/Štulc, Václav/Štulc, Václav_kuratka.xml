@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kuřátka.</title>
+    <author>Štulc, Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Štulc, Václav_kuratka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kuřátka.</title>
+     <author>Štulc, Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kuřátka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="000110100" rhyme="1" line_length="9">Kde jste mi, má drahá kuřátka,</l>
+     <l n="2" met="101001100" rhyme="1" line_length="9">Skrejte honem se, má chuďátka,</l>
+     <l n="3" met="1000010100" rhyme="2" line_length="10">Slyšíte-li, jak matka běduje,</l>
+     <l n="4" met="1000010100" rhyme="2" line_length="10">Vidíte-li tam toho krahuje?</l>
+     <l n="5" met="010101010" rhyme="3" line_length="9">Tam hle jest kolna, do ní honem,</l>
+     <l n="6" met="010011010" rhyme="3" line_length="9">Než krahujec zlý padne na zem.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="10100100100" rhyme="1" line_length="11">Tiše skryla se ubohá kuřátka,</l>
+     <l n="8" met="10100100010" rhyme="1" line_length="11">Kolem běhá tu pečlivá ta matka,</l>
+     <l n="9" met="10100100100" rhyme="4" line_length="11">O své miláčky leká se slepice.</l>
+     <l n="10" met="00100100100" rhyme="4" line_length="11">V tom tu vypráskla na sadě ručnice,</l>
+     <l n="11" met="100100010010" rhyme="1" line_length="12">Krahujce není víc, tu milá ta matka</l>
+     <l n="12" met="100100010100" rhyme="1" line_length="12">Svolává vesele svá drahá kuřátka,</l>
+     <l n="13" met="010100100100" rhyme="1" line_length="12">A křídly zakrývá malá ta chuďátka.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

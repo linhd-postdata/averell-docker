@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NEBE.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_nebe</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NEBE.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NEBE.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010100110" rhyme="1" line_length="9">Ty vroucí objetí máš hříchem?</l>
+     <l n="2" met="010001010" rhyme="1" line_length="9">To s útrpným jsem vyslech’ smíchem;</l>
+     <l n="3" met="010100110" rhyme="2" line_length="9">nač v nebi po smrti mám býti;</l>
+     <l n="4" met="010100010" rhyme="2" line_length="9">když můžem’ za živa je míti?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010001000" rhyme="3" line_length="9">Spěš do nebe - mé do náruče –</l>
+     <l n="6" met="010100010" rhyme="3" line_length="9">mé srdce na vrata mu tluče,</l>
+     <l n="7" met="010100010" rhyme="4" line_length="9">já vím, že Pánbůh sám už velí,</l>
+     <l n="8" met="010001000" rhyme="4" line_length="9">by andělé nám otevřeli.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

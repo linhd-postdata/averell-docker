@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Co jest to.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_co-jest-to</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Co jest to.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Co jest to.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="000101010" rhyme="1" line_length="9">Snad je to kletba, co mne tíží,</l>
+     <l n="2" met="00010001" rhyme="2" line_length="8">snad je to zšílenělý sen,</l>
+     <l n="3" met="010001010" rhyme="1" line_length="9">že nemohu být v tiché blíži</l>
+     <l n="4" met="10010100" rhyme="2" line_length="8">horoucí lásky spokojen.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101010" rhyme="3" line_length="9">Tu první láska v středu dráhy</l>
+     <l n="6" met="10010100" rhyme="4" line_length="8">slzíc se před mne postaví,</l>
+     <l n="7" met="010101010" rhyme="3" line_length="9">a dává srdci nové vláhy,</l>
+     <l n="8" met="00100100" rhyme="4" line_length="8">leč tou podá i otravy.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ZAHRADNÍK</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_zahradnik</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ZAHRADNÍK</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ZAHRADNÍK</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100101010" line_length="10">Tak vyprahlá byla v květnu země!</l>
+     <l n="2" met="10101100010" line_length="11">Stromy vadly, prach na všecko se věsil,</l>
+     <l n="3" met="1001001010" rhyme="1" line_length="10">květiny skláněly něžnou hlavu</l>
+     <l n="4" met="01001001000" rhyme="1" line_length="11">jak beránci, vedení na popravu.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11001010010" line_length="11">Aj! Zrána vše bylo zkropeno rosou,</l>
+     <l n="6" met="010001010100" line_length="12">jež blyštěla se stromů v těžkých krůpějích,</l>
+     <l n="7" met="1001001001010100" rhyme="2" line_length="16">dláždění ulic i červené střechy čistě umyty</l>
+     <l n="8" met="01001010010100" rhyme="2" line_length="14">a záhony černé, šťavnaté, vodou napity!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010010100100" line_length="14">Vše novým dýchalo žitím, osení bujelo,</l>
+     <l n="10" met="101001001010" line_length="12">stromy smály se v blankytné, slunné nebe,</l>
+     <l n="11" met="11010010010" rhyme="3" line_length="11">květ každý osvěžen k slunci se díval</l>
+     <l n="12" met="01010010010" rhyme="3" line_length="11">a ptáček ve větvích radostně zpíval!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="0101010010" line_length="10">To v noci přišel Zahradník světa,</l>
+     <l n="14" met="100101010010" line_length="12">zaléval velkou konvou těžkých svých mraků,</l>
+     <l n="15" met="100100101001001" rhyme="4" line_length="15">zaléval pečlivě velkou zahradu stromů a trav,</l>
+     <l n="16" met="010010010100" rhyme="4" line_length="12">ni místečka suchého nikde nenechav.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

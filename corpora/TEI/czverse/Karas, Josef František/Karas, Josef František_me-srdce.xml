@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mé srdce.</title>
+    <author>Karas, Josef František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Karas, Josef František_me-srdce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mé srdce.</title>
+     <author>Karas, Josef František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mé srdce.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010001100100" rhyme="1" line_length="15">Serenáda Kythéřina! Duch v citovém vzplanutí,</l>
+     <l n="2" met="101010101001100" rhyme="1" line_length="15">jako pták, jenž moře brázdí, rozepne touh peruti.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="101010101010101" rhyme="2" line_length="15">Bude kvílet, úpět, volat, plakat, smát se a zas lkát,</l>
+     <l n="4" met="100010001000101" rhyme="2" line_length="15">roztoužený, rozvášněný, o štěstí se bude rvát.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="101000101010101" rhyme="3" line_length="15">A až – vím už – tak to skončí, jak mi šeptá vnitřní hlas,</l>
+     <l n="6" met="101010001010100" rhyme="3" line_length="15">srdce, ze sna probuzené, dlouhým spánkem usne zas.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

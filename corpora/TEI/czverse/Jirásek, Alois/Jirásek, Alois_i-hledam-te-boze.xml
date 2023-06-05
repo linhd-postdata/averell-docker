@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>I. Hledám tě, bože!</title>
+    <author>Jirásek, Alois</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jirásek, Alois_i-hledam-te-boze</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>I. Hledám tě, bože!</title>
+     <author>Jirásek, Alois</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>I. Hledám tě, bože!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010" line_length="5">Hledám tě, bože! </l>
+     <l n="2" met="01010100" rhyme="1" line_length="8">Jsem poutník bludný o holi,</l>
+     <l n="3" met="11010100" rhyme="2" line_length="8">hlas jehož ve tmě zaniká.</l>
+     <l n="4" met="11010100" rhyme="1" line_length="8">Kol bludná světla po poli –</l>
+     <l n="5" met="11001100" rhyme="2" line_length="8">tma veliká, tma veliká.</l>
+     <l n="6" met="10010101" rhyme="3" line_length="8">Za světlem jdu. Zas jiný svit –</l>
+     <l n="7" met="11010100" rhyme="1" line_length="8">jdu za ním na vrch, v oudolí.</l>
+     <l n="8" met="01011001" rhyme="3" line_length="8">Můj marný krok. – Nenajde klid</l>
+     <l n="9" met="01010100" rhyme="1" line_length="8">ten poutník bludný o holi! –</l>
+     <l n="10" met="10010" line_length="5">Hledám tě, bože!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

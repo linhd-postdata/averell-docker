@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>À l'Aube</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_a-l-aube</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>À l'Aube</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>À l'Aube</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Brûlé par l'énorme lumière</l>
+     <l n="2" rhyme="b" line_length="8">Irradiant du ciel caillé,</l>
+     <l n="3" rhyme="b" line_length="8">— Stupéfait, recroquevillé,</l>
+     <l n="4" rhyme="a" line_length="8">Hâlé, sali par la poussière,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="8">Le pauvre paysage mort</l>
+     <l n="6" rhyme="d" line_length="8">Se ranime à l'heure nocturne,</l>
+     <l n="7" rhyme="d" line_length="8">Et puis, murmurant taciturne,</l>
+     <l n="8" rhyme="c" line_length="8">Extasié, rêve et s'endort.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="8">La bonne ombre le rafraîchit ;</l>
+     <l n="10" rhyme="e" line_length="8">Et toute propre resurgit</l>
+     <l n="11" rhyme="f" line_length="8">Sa mélancolique peinture.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="8">Avec l'aurore se levant,</l>
+     <l n="13" rhyme="g" line_length="8">La rosée, au souffle du vent,</l>
+     <l n="14" rhyme="f" line_length="8">Pleure pour laver la nature.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

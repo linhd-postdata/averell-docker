@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>AUX TUILERIES</title>
+    <author>René-François Sully Prudhomme</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>René-François Sully Prudhomme_aux-tuileries</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>AUX TUILERIES</title>
+     <author>René-François Sully Prudhomme</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>AUX TUILERIES</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Tu les feras pleurer, enfant belle et chérie,</l>
+     <l n="2" rhyme="b" line_length="8">Qui plus tard suspendront leur jeune rêverie</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="6+6">Ils aiment de ta voix la roulade sonore,</l>
+     <l n="4" rhyme="b" line_length="8">Ce qu'ils peuvent à peine y discerner encore,</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="6+6">Ils touchent, sans jamais en sentir de brûlure,</l>
+     <l n="6" rhyme="b" line_length="8">Dont l'or fait ressembler ta fauve chevelure</l>
+    </lg>
+    <lg n="4">
+     <l n="7" rhyme="a" line_length="6+6">Ils ne devinent pas, aux jeux où tu te mêles,</l>
+     <l n="8" rhyme="b" line_length="8">Rieuse, indifférente, et douce, tu décèles</l>
+    </lg>
+    <lg n="5">
+     <l n="9" rhyme="a" line_length="6+6">Tu t'exerces déjà, quand tu crois que tu joues</l>
+     <l n="10" rhyme="b" line_length="8">Tes lèvres ont déjà, plus faites que tes joues,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

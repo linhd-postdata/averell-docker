@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>INQUIETO</title>
+    <author>Frída, Vladimír</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Frída, Vladimír_inquieto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>INQUIETO</title>
+     <author>Frída, Vladimír</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>INQUIETO</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010010010" line_length="11">Jen ještě chvíli, než soumrak se schýlí,</l>
+     <l n="2" met="100100" rhyme="1" line_length="6">tiše mne poceluj!</l>
+     <l n="3" met="10110010010" line_length="11">Srdce, pták plachý, jenž chvěje se strachy</l>
+     <l n="4" met="1001000" rhyme="1" line_length="7">v dlani Tvé o úděl svůj.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100010" line_length="11">V dáli se blýská a mně se tak stýská,</l>
+     <l n="6" met="1001001" rhyme="2" line_length="7">v duši tíž budoucích dní.</l>
+     <l n="7" met="1001001010" line_length="10">Líbej mne dlouze, ať zemru v touze,</l>
+     <l n="8" met="100100" rhyme="2" line_length="6">nežli se rozední.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1001001010" line_length="10">Zítřek je cizí, snad v ráz vše zmizí,</l>
+     <l n="10" met="1001001" rhyme="3" line_length="7">vichřice osudu, duj!</l>
+     <l n="11" met="01010010010" line_length="11">Jen ještě chvíli, než soumrak se schýlí,</l>
+     <l n="12" met="100100" rhyme="3" line_length="6">tiše mne poceluj!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

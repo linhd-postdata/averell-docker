@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pax</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_pax</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pax</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pax</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Cítím jeho křídel šumy,</l>
+     <l n="2" met="1010101" rhyme="2" line_length="7">zvolna tuhne srdce žár;</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">smrti křečí bolest ztlumí,</l>
+     <l n="4" met="1010001" rhyme="2" line_length="7">znám ten milosrdný spár.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" rhyme="3" line_length="8">Utiší tu běsnou vřavu,</l>
+     <l n="6" met="0010100" rhyme="4" line_length="7">v níž se život potácí,</l>
+     <l n="7" met="10001010" rhyme="3" line_length="8">ochladí mou žhavou hlavu,</l>
+     <l n="8" met="1010100" rhyme="4" line_length="7">ale srdce zkrvácí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" rhyme="5" line_length="8">Na vše touhy, snění mladá,</l>
+     <l n="10" met="1001001" rhyme="6" line_length="7">na vše co žhavilo krev,</l>
+     <l n="11" met="10001010" rhyme="5" line_length="8">bez šelestu tvrdě padá</l>
+     <l n="12" met="1010100" rhyme="6" line_length="7">jako víko na rakev.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

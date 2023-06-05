@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>I. Muzika, muzika</title>
+    <author>Jirásek, Alois</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jirásek, Alois_i-muzika-muzika</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>I. Muzika, muzika</title>
+     <author>Jirásek, Alois</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>I. Muzika, muzika</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" line_length="6">Muzika, muzika </l>
+     <l n="2" met="101100" rhyme="1" line_length="6">divná řeč bez slova,</l>
+     <l n="3" met="100100" line_length="6">rozhřeje, potěší,</l>
+     <l n="4" met="010100" rhyme="1" line_length="6">kdy zazní poznova.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101100" rhyme="1" line_length="6">Divná řeč bez slova,</l>
+     <l n="6" met="010100" rhyme="2" line_length="6">přec všechno vypoví,</l>
+     <l n="7" met="100100" line_length="6">zapláče, zavýská,</l>
+     <l n="8" met="010100" rhyme="2" line_length="6">co v srdci vysloví.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100100" line_length="6">Srdéčko se srdcem</l>
+     <l n="10" met="100100" rhyme="3" line_length="6">uzounce spojuje,</l>
+     <l n="11" met="100100" line_length="6">ještě k ní dědeček</l>
+     <l n="12" met="100100" rhyme="3" line_length="6">dupne si, notuje.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100100" line_length="6">Muzika, muzika</l>
+     <l n="14" met="101100" rhyme="4" line_length="6">divná řeč bez slova,</l>
+     <l n="15" met="110100" line_length="6">hoj, páni šumaři,</l>
+     <l n="16" met="100100" rhyme="4" line_length="6">zahrejte poznova!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Divadlo králů.</title>
+    <author>Mráz, Stanislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mráz, Stanislav_divadlo-kralu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Divadlo králů.</title>
+     <author>Mráz, Stanislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Divadlo králů.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010010" rhyme="1" line_length="11">Colosné tapety divadla boha,</l>
+     <l n="2" met="0101000100" rhyme="2" line_length="10">pstré scény decorace svíjejte</l>
+     <l n="3" met="0101010100" rhyme="2" line_length="10">se, v řad a směru figur kývejte,</l>
+     <l n="4" met="11000101010" rhyme="1" line_length="11">hle, galerie postav Clio sloha!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1101010101" rhyme="3" line_length="10">Spřež medus, menad osu táhnou v voj</l>
+     <l n="6" met="1001010100" rhyme="3" line_length="10">heroů dob a pólů v zvědy skoj.</l>
+     <l n="7" met="0100110101" rhyme="4" line_length="10">Vnov Lyaea zříš triomf v Gangu břeh</l>
+     <l n="8" met="11001001000" rhyme="5" line_length="11">v prah výčtu a počátek panorama</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1001100101" rhyme="4" line_length="10">pradoby v děj mlhavý, Nestor v spěch,</l>
+     <l n="10" met="11010010010" rhyme="5" line_length="11">skráň v sněhu Pirenny, Ulyss, sám fama.</l>
+     <l n="11" met="100000010101" rhyme="4" line_length="12">Tyranobijci pstří, leč Caesar v zvůle dech,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="10010001010" rhyme="5" line_length="11">Hanibal k Minotauru, králů v drama,</l>
+     <l n="13" met="10010101010" rhyme="5" line_length="11">Bourbon i Carnot. Doba různá klamá!</l>
+     <l n="14" met="01000" line_length="5">Zda František též? –</l>
+     <l n="15" met="001101" rhyme="4" line_length="6">Ne, ten zbyl kdesi v snech!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

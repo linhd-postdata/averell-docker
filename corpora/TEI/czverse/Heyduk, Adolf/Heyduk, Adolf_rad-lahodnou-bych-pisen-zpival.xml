@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Rád lahodnou bych píseň zpíval.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_rad-lahodnou-bych-pisen-zpival</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Rád lahodnou bych píseň zpíval.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Rád lahodnou bych píseň zpíval.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110100010" rhyme="1" line_length="9">Rád píseň lahodnou bych zpíval</l>
+     <l n="2" met="01010101" rhyme="2" line_length="8">jak šepot háje, vesny dech,</l>
+     <l n="3" met="010101010" rhyme="1" line_length="9">jak úsměv zory, květů příval,</l>
+     <l n="4" met="01010100" rhyme="2" line_length="8">jak něha dětských na ústech.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101000" rhyme="3" line_length="9">A plnou zjevů pološera,</l>
+     <l n="6" met="01010001" rhyme="4" line_length="8">a plnou červánků a hvězd,</l>
+     <l n="7" met="010001000" rhyme="3" line_length="9">a pocitu, jenž za večera</l>
+     <l n="8" met="11000100" rhyme="4" line_length="8">v dvou milujících duších jest.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101010" rhyme="5" line_length="9">A plnou kouzla, plnou vnady</l>
+     <l n="10" met="01010101" rhyme="6" line_length="8">jak mladé luny lesní pout,</l>
+     <l n="11" met="010001010" rhyme="5" line_length="9">a na růžích pak, květech Lady</l>
+     <l n="12" met="01010100" rhyme="6" line_length="8">jak povzdech lásky zahynout.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Na věky!</title>
+    <author>Škampa, Alois</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Škampa, Alois_na-veky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Na věky!</title>
+     <author>Škampa, Alois</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Na věky!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010101" rhyme="1" line_length="10">Tak často ještě chodíš ke mně v snách,</l>
+     <l n="2" met="01010100010" rhyme="2" line_length="11">ty růže bílá nejkrasších mých písní,</l>
+     <l n="3" met="0101010101" rhyme="1" line_length="10">a pomluv kal a cizí hany prach</l>
+     <l n="4" met="01010101000" rhyme="2" line_length="11">mi světlý zjev Tvůj nikdy nepotřísní!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1101010100" rhyme="3" line_length="10">Hle, ze všech dívek, jež jsem miloval –</l>
+     <l n="6" met="01000101000" rhyme="4" line_length="11">přec k Tobě jen já přilnul nejvroucněji!</l>
+     <l n="7" met="0100010100" rhyme="3" line_length="10">Já Tobě jen jsem lásku zachoval,</l>
+     <l n="8" met="01000101010" rhyme="4" line_length="11">a pro Tebe jen moje verše znějí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100010" rhyme="5" line_length="11">A láska tato půjde teď již se mnou,</l>
+     <l n="10" met="01010100010" rhyme="5" line_length="11">byť ves můj život nocí jen byl temnou</l>
+     <l n="11" met="0101010100" rhyme="6" line_length="10">a svět kol něho bez vší ozdoby...</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="01000101010" rhyme="7" line_length="11">A čarovnou a vlídnou svojí září</l>
+     <l n="13" met="01010100010" rhyme="7" line_length="11">mi plát již bude v mládí mém i stáří</l>
+     <l n="14" met="0101000100" rhyme="6" line_length="10">a sluncem zářit – až tam za hroby!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

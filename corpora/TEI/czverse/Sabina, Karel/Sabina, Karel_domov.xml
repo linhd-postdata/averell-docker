@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>DOMOV.</title>
+    <author>Sabina, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sabina, Karel_domov</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>DOMOV.</title>
+     <author>Sabina, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>DOMOV.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010" line_length="8">K domovu večerem chladným</l>
+     <l n="2" met="10101000" rhyme="1" line_length="8">Volné ptáče polétává;</l>
+     <l n="3" met="10010010" line_length="8">K domovu pospíchá poutník,</l>
+     <l n="4" met="00101000" rhyme="1" line_length="8">Kde jej poklid očekává.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00011010" line_length="8">Proč bych já měl dlouho bloudit</l>
+     <l n="6" met="10100010" rhyme="2" line_length="8">Chladem nepokojné země?</l>
+     <l n="7" met="10101010" line_length="8">Známť já ještě jiný domov,</l>
+     <l n="8" met="10101010" rhyme="2" line_length="8">Po němž touha plane ve mně.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" line_length="8">Domov tichý, domov věčný,</l>
+     <l n="10" met="00100010" rhyme="3" line_length="8">Žel kde nezrodí se žádný;</l>
+     <l n="11" met="10101010" line_length="8">Duch kde v jarmu poután nedlí,</l>
+     <l n="12" met="10100010" rhyme="3" line_length="8">Blud kde nesvede mne zrádný.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="00100010" line_length="8">Než však domov ten mne pojme,</l>
+     <l n="14" met="10011010" rhyme="4" line_length="8">Znamenat chci dráhu činem,</l>
+     <l n="15" met="10001010" line_length="8">Pozemské bych matky drahé,</l>
+     <l n="16" met="10101010" rhyme="4" line_length="8">Vlasti, sloul vždy vděčným synem!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

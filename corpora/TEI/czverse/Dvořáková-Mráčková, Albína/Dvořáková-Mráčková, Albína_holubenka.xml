@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Holuběnka.</title>
+    <author>Dvořáková-Mráčková, Albína</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořáková-Mráčková, Albína_holubenka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Holuběnka.</title>
+     <author>Dvořáková-Mráčková, Albína</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Holuběnka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" rhyme="1" line_length="8">Holuběnky křídla bělá</l>
+     <l n="2" met="10001000" rhyme="1" line_length="8">nad hlavou mou zašuměla,</l>
+     <l n="3" met="10001010" rhyme="2" line_length="8">zašuměla letem v dáli –</l>
+     <l n="4" met="00101010" rhyme="2" line_length="8">tam – kde sladké oči ždály.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="2" line_length="8">Sladké oči – touží v dáli –</l>
+     <l n="6" met="10101010" rhyme="2" line_length="8">bouřně krev se k srdci valí –</l>
+     <l n="7" met="00101010" rhyme="3" line_length="8">kéž by křídla rozpnout smělo,</l>
+     <l n="8" met="10101000" rhyme="3" line_length="8">aby k tobě zaletělo! –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

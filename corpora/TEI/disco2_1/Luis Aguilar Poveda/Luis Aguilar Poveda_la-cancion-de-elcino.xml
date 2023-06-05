@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La canción de Elcino</title>
+    <author>Luis Aguilar Poveda</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Luis Aguilar Poveda_la-cancion-de-elcino</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La canción de Elcino</title>
+     <author>Luis Aguilar Poveda</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La canción de Elcino</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+---+-+-">Elcino, el buen pastor, con la manada huraña</l>
+     <l n="2" met="-+-+-+--++--+-">de cabras, paso a paso, cruzó el valle florido;</l>
+     <l n="3" met="-+-+-+----+-+-">vibró en los aires puros su peculiar silbido,</l>
+     <l n="4" met="-++-+---+---+-">y al oírle siguiéronle, camino a la montaña.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-++-+--+---+-">Al oír un lejano cantar de pipitaña</l>
+     <l n="6" met="--+--+---+--+-">recordó la tragedia de su amor sin olvido;</l>
+     <l n="7" met="--+--+---+--+-">requirió de sus hombros el rabel, y mordido</l>
+     <l n="8" met="--+--+-+-+-+-">por la pena, llamó su tierna musa extraña.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-----+---+---+">En mitad de su música miró que amanecía:</l>
+     <l n="10" met="+-+--+--+---+-">Toda, toda la noche, su canto suprahumano</l>
+     <l n="11" met="--+--+--+---+-">relató en la montaña su enorme desconsuelo...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+--+--+-">Quebró Elcino el rabel con su larga armonía,</l>
+     <l n="13" met="-----+-+--+-+-">y cuando la postrera cuerda rompió su mano,</l>
+     <l n="14" met="-+--+-+--++-">tras la última nota su alma voló al cielo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

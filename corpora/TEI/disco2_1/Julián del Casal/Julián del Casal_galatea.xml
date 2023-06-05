@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Galatea</title>
+    <author>Julián del Casal</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Julián del Casal_galatea</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Galatea</title>
+     <author>Julián del Casal</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Galatea</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">En el seno radioso de su gruta</l>
+     <l n="2" met="--+--+---+-">alfombrada de anémonas marinas,</l>
+     <l n="3" met="+-+--+---+-">verdes algas y ramas coralinas,</l>
+     <l n="4" met="--+--+-+-+-">Galatea, del sueño bien disfruta.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+---+-+-">Desde la orilla de dorada ruta</l>
+     <l n="6" met="--+--+---+-">donde baten las ondas cristalinas,</l>
+     <l n="7" met="--+--+---+-">salpicando de espumas diamantinas</l>
+     <l n="8" met="-+-+---+-+-">el pico negro de la roca bruta.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Polifemo, extasiado ante el desnudo</l>
+     <l n="10" met="+--+---+-+-">cuerpo gentil de la dormida diosa,</l>
+     <l n="11" met="-+---+--++-">olvida su fiereza, el vigor pierde,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-----+-+-+-">y mientras permanece absorto y mudo</l>
+     <l n="13" met="-+-+-+-+-+-">mirando aquella piel color de rosa,</l>
+     <l n="14" met="-+---+-+-+-">incendia la lujuria su ojo verde.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

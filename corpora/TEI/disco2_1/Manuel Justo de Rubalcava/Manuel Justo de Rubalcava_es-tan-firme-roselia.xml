@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Es tan firme, Roselia...</title>
+    <author>Manuel Justo de Rubalcava</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel Justo de Rubalcava_es-tan-firme-roselia</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Es tan firme, Roselia...</title>
+     <author>Manuel Justo de Rubalcava</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Es tan firme, Roselia...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+++--+--++-">Es tan firme, Roselia, el amor mío,</l>
+     <l n="2" met="--+--+-+-+-">que primero verás sin orden luego</l>
+     <l n="3" met="-+-+-+-+-+-">arder la blanca nieve, helar el fuego</l>
+     <l n="4" met="---+-+-+-+-">y revolver atrás el curso el río:</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+----+---+-">Antes que experimentes mi desvío</l>
+     <l n="6" met="-+-+-++--+-">saldrá en la noche el sol pálido y ciego,</l>
+     <l n="7" met="-+---+---+-">pues antes que me mude sin sosiego</l>
+     <l n="8" met="--++-+-+-+-">por si lo hará un peñasco innoble y frío.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--++--+-">Nacerá del temor dulce esperanza</l>
+     <l n="10" met="-+---+-+-+-">y tierna compasión del bronce duro</l>
+     <l n="11" met="-+--++---+-">primero que yo intente abandonarte.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+---+-">Todo verás sujeto a la mudanza;</l>
+     <l n="13" met="+--+-+-+-+-">todo tendrá su fin, mas te aseguro</l>
+     <l n="14" met="---+-+---+-">que lograré morir sin olvidarte.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

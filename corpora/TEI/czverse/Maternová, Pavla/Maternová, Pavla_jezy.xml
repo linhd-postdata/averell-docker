@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JEZY.</title>
+    <author>Maternová, Pavla</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maternová, Pavla_jezy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JEZY.</title>
+     <author>Maternová, Pavla</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JEZY.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010" line_length="6">Jezy, šumné jezy</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">na té řece hravé!</l>
+     <l n="3" met="10001010" line_length="8">V symfonii její hudby</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">místo vaše pravé.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100110" line_length="6">Hrajete part zprudka,</l>
+     <l n="6" met="001010" rhyme="2" line_length="6">kdy je velká voda,</l>
+     <l n="7" met="10101010" line_length="8">vrchem na vás fagot hučí,</l>
+     <l n="8" met="101010" rhyme="2" line_length="6">basy ode spoda.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100110" line_length="6">Hrajete part mírně,</l>
+     <l n="10" met="001010" rhyme="3" line_length="6">kdy je vody zmála,</l>
+     <l n="11" met="10100010" line_length="8">stříbrem praménky z vás kanou,</l>
+     <l n="12" met="001010" rhyme="3" line_length="6">jak by harfa hrála.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="101010" line_length="6">A kdy jaro plesné</l>
+     <l n="14" met="100010" rhyme="4" line_length="6">rozehrává vlny,</l>
+     <l n="15" met="00101010" line_length="8">jsou ty vaše tvrdé pulty</l>
+     <l n="16" met="101010" rhyme="4" line_length="6">smavých houslí plny.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="101010" line_length="6">Pod vás, šumné jezy,</l>
+     <l n="18" met="100010" rhyme="5" line_length="6">srdce by si přálo...</l>
+     <l n="19" met="10101010" line_length="8">Při té vaší věčné hudbě –</l>
+     <l n="20" met="000010" rhyme="5" line_length="6">to by se to spalo!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

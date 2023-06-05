@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Con Marfisa en la estacada</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_con-marfisa-en-la-estacada</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Con Marfisa en la estacada</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Con Marfisa en la estacada</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="--+---+-" line_length="8">Con Marfisa en la estacada</l>
+     <l n="2" met="-+--+-+-" line_length="8">entrastes tan mal guarnido,</l>
+     <l n="3" met="--+--+-" line_length="7">que su escudo, aunque hendido,</l>
+     <l n="4" met="+--+--+-" line_length="8">no lo rajó vuestra espada.</l>
+     <l n="5" met="++----+-" line_length="8">¿Qué mucho, si levantada</l>
+     <l n="6" met="+-++--+-" line_length="8">no se vio en trance tan crudo,</l>
+     <l n="7" met="----+-+-" line_length="8">ni vuestra vergüenza pudo</l>
+     <l n="8" met="+-+---+-" line_length="8">cuatro lágrimas llorar,</l>
+     <l n="9" met="-+----+-" line_length="8">siquiera para dejar</l>
+     <l n="10" met="-+-+--+-" line_length="8">de orín tomado el escudo?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

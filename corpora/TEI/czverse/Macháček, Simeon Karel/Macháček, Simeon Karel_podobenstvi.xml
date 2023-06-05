@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Podobenství.</title>
+    <author>Macháček, Simeon Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Macháček, Simeon Karel_podobenstvi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Podobenství.</title>
+     <author>Macháček, Simeon Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Podobenství.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010" rhyme="1" line_length="4">V hustém mraku</l>
+     <l n="2" met="1010" rhyme="1" line_length="4">Jeví zraku</l>
+     <l n="3" met="110000" rhyme="2" line_length="6">Dub se zpráchnivělý:</l>
+     <l n="4" met="100010" rhyme="2" line_length="6">Podoben mu celý,</l>
+     <l n="5" met="000010" rhyme="3" line_length="6">Kdo chtě sám se skvíti</l>
+     <l n="6" met="101000" rhyme="3" line_length="6">Bratrů neosvítí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

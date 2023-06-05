@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Blatouch.</title>
+    <author>Simerská, Anna</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Simerská, Anna_blatouch</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Blatouch.</title>
+     <author>Simerská, Anna</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Blatouch.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001001001" rhyme="1" line_length="10">Lučinou potůček ubíhá v spěch,</l>
+     <l n="2" met="1001001001" rhyme="1" line_length="10">zlatem mu blatouchy ovíjí břeh,</l>
+     <l n="3" met="100101001" rhyme="2" line_length="9">ve zlatě květů mušek se rod</l>
+     <l n="4" met="1001001001" rhyme="2" line_length="10">koupá, i ve stříbře pěnivých vod.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100101001" rhyme="3" line_length="9">Mládí nám zlatem ovíjí skráň,</l>
+     <l n="6" met="100101001" rhyme="3" line_length="9">žluté jak květy lučnatou pláň,</l>
+     <l n="7" met="100101001" rhyme="4" line_length="9">člověku plní myšlenek chvat</l>
+     <l n="8" met="100101001" rhyme="4" line_length="9">hlavu i duši, pokud je mlád.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="101101001" rhyme="5" line_length="9">Zlatý květ vroubí života břeh,</l>
+     <l n="10" met="1001001001" rhyme="5" line_length="10">blatouchu květy jak potůčku běh,</l>
+     <l n="11" met="101101001" rhyme="6" line_length="9">zlatý květ mládí, nebeský dar,</l>
+     <l n="12" met="010101001" rhyme="6" line_length="9">kéž v žádné duši nepřijde v zmar.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

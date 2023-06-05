@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Na herce.</title>
+    <author>Wunsch, Hugo Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Wunsch, Hugo Václav_na-herce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Na herce.</title>
+     <author>Wunsch, Hugo Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Na herce.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Tys vskutku herec všestranný,</l>
+     <l n="2" met="0100010" rhyme="1" line_length="7">když v truchlohře Ty v tichu</l>
+     <l n="3" met="01000100" line_length="8">jen šepotáš a vzkřikneš, pak</l>
+     <l n="4" met="0101010" rhyme="1" line_length="7">to všechněm tuze k smíchu;</l>
+     <l n="5" met="01000100" line_length="8">když ve frašce však postava</l>
+     <l n="6" met="0100010" rhyme="2" line_length="7">Tvá po jevišti kráčí,</l>
+     <l n="7" met="01000101" line_length="8">to smutné jest, tak smutné, ach,</l>
+     <l n="8" met="0100010" rhyme="2" line_length="7">tak smutné až – až k pláči.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Já Čecháček...</title>
+    <author>Písecký, Ferdinand</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Písecký, Ferdinand_ja-cechacek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Já Čecháček...</title>
+     <author>Písecký, Ferdinand</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Já Čecháček...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010010" rhyme="1" line_length="6">Já Čecháček malý</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">koukám pěkně zdáli.</l>
+     <l n="3" met="10101010" line_length="8">Vím, kdo prsty v oheň strká,</l>
+     <l n="4" met="001010" rhyme="1" line_length="6">že se často spálí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

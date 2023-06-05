@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vamos a la playa</title>
+    <author>Lope de Vega</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lope de Vega_vamos-a-la-playa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Poesía Lírica Castellana Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vamos a la playa</title>
+     <author>Lope de Vega</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vamos a la playa</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="Seguidillas">
+     <l n="1" met="+---+-">Vamos a la playa</l>
+     <l n="2" met="+--+-">noche de San Juan</l>
+     <l n="3" met="-+--+-">que alegra la tierra</l>
+     <l n="4" met="--+-+-">y retumba el mar.</l>
+     <l n="5" met="--+-+-">En la paya hagamos</l>
+     <l n="6" met="+--+-">fiestas de mil modos,</l>
+     <l n="7" met="--+-+-">coronados todos</l>
+     <l n="8" met="--+-+-">de verbena y ramos.</l>
+     <l n="9" met="--+-+-">A su arena vamos,</l>
+     <l n="10" met="+--+-">noche de San Juan,</l>
+     <l n="11" met="-+--+-">que alegra la tierra</l>
+     <l n="12" met="--+-+-">y retumba el mar.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

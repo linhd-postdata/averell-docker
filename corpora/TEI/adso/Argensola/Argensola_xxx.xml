@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- XXX - </title>
+    <author>Argensola</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Argensola_xxx</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- XXX - </title>
+     <author>Argensola</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- XXX - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---+-">Vuelve del cielo al peso que le oprime,</l>
+     <l n="2" met="-+---+---+-">mi espíritu, si en rapto se divierte</l>
+     <l n="3" met="+--+-+---+-">de este inferior distrito de la muerte,</l>
+     <l n="4" met="---+---+-+-">donde en sus graves eslabones gime.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+-+-+-">«Vengo, dice, de ver la ley sublime</l>
+     <l n="6" met="++-+---+-+-">(no arbitrio vago de improvisa suerte),</l>
+     <l n="7" met="-+-+---+-+-">que acá, encubierta en mansedumbre fuerte,</l>
+     <l n="8" met="-+-+-+---+-">su acción en ambos términos comprime».</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">Y así, pues Filis (émulo divino)</l>
+     <l n="10" met="--+--+---+-">con benigna eficacia la ejercita,</l>
+     <l n="11" met="+++--+---+-">ya no más diversión de sus desdenes.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">Esfuérzate a esperar que los remita;</l>
+     <l n="13" met="-+-+---+-+-">que no por sed de peregrinos bienes</l>
+     <l n="14" met="+-+--+---+-">te han de ver las estrellas peregrino.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

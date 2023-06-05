@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Tužby upoutané.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_tuzby-upoutane</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Tužby upoutané.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Tužby upoutané.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010101010" rhyme="1" line_length="14">Oděly se mladé tužby v květná písně slova,</l>
+     <l n="2" met="10001010101000" rhyme="1" line_length="14">vyletěly mladé tužby z ňádra junákova,</l>
+     <l n="3" met="10001010101010" rhyme="2" line_length="14">přeletěly hory, doly, luhy, řeky, moře,</l>
+     <l n="4" met="10001010100010" rhyme="2" line_length="14">přinesly jen střely v boku, na perutích hoře.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010101010" rhyme="3" line_length="14">Škoda je vás, tužby mladé, s rudou skvrnou v boku,</l>
+     <l n="6" met="00001000101010" rhyme="3" line_length="14">zle jste vy se proměnily za pár bujných roků:</l>
+     <l n="7" met="10101010100010" rhyme="4" line_length="14">jestřáb žití jal vás pánem do otrocké služby...</l>
+     <l n="8" met="10001000100010" rhyme="4" line_length="14">odpočiňte poraněné, upoutané tužby!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

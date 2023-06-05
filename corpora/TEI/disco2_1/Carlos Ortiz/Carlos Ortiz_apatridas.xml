@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Apátridas</title>
+    <author>Carlos Ortiz</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Carlos Ortiz_apatridas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Apátridas</title>
+     <author>Carlos Ortiz</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Apátridas</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">Apartidas, el viento y aguacero,</l>
+     <l n="2" met="--+--+---+-">desconocen impuesto enclavamiento</l>
+     <l n="3" met="--+--+---+-">del humano, que fija el nacimiento,</l>
+     <l n="4" met="--+--+-+-+-">y cercena del hombre libre fuero.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">Mas el cielo sin dueño, aventurero,</l>
+     <l n="6" met="+-+--+---+-">da el consejo cautivo de su viento,</l>
+     <l n="7" met="--+--+---+-">sobre el agua, indómito sustento,</l>
+     <l n="8" met="--+--+---+-">a los tímpanos blancos del velero.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Pues natura en su díscolo deseo,</l>
+     <l n="10" met="--+---+--+-">con sus manos, apartidas, furtivas,</l>
+     <l n="11" met="--+--+---+-">desmenuza la ley del papeleo;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++---+---+-">quía al nómada en tránsito de vida,</l>
+     <l n="13" met="--+--+---+-">desechando las normas decisivas</l>
+     <l n="14" met="--+--+--++-">sin que número humano se lo impida.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

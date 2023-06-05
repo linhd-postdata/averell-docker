@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Podobenství.</title>
+    <author>Chládek, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Chládek, František_podobenstvi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Podobenství.</title>
+     <author>Chládek, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Podobenství.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Jako vítr lehkou plevu</l>
+     <l n="2" met="00101000" rhyme="2" line_length="8">sem tam volně zanášívá,</l>
+     <l n="3" met="00101010" rhyme="1" line_length="8">tak i často mnohou děvu</l>
+     <l n="4" met="10101000" rhyme="2" line_length="8">láska leckams zavádívá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10000010" rhyme="3" line_length="8">Nese ji a s ní si hraje;</l>
+     <l n="6" met="10001000" rhyme="4" line_length="8">na dolinu na výšinu</l>
+     <l n="7" met="10001010" rhyme="3" line_length="8">nese ji buď v slunné ráje –</l>
+     <l n="8" met="00101000" rhyme="4" line_length="8">neb ji vrhá v kalužinu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

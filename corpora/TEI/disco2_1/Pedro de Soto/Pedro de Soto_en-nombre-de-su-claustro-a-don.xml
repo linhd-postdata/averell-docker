@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>En nombre de su claustro a don Diego Mejía por su Parnaso</title>
+    <author>Pedro de Soto</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pedro de Soto_en-nombre-de-su-claustro-a-don</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>En nombre de su claustro a don Diego Mejía por su Parnaso</title>
+     <author>Pedro de Soto</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>En nombre de su claustro a don Diego Mejía por su Parnaso</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-------+-">Clarísimo Mejía, en quien derrama</l>
+     <l n="2" met="-+---+-+-+-">el cielo, cuanto bien conoce el suelo,</l>
+     <l n="3" met="+--+---+-+-">tanto alargáis con vuestra pluma el vuelo</l>
+     <l n="4" met="-+-+-+---+-">que al Orbe a dado vueltas vuestra fama.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">Salió del Betis la eminente llama</l>
+     <l n="6" met="-----+---+-">de vuestro resplandor, y sin recelo</l>
+     <l n="7" met="+--+-+---+-">llega del Sur al Ártico, y el velo</l>
+     <l n="8" met="--+--+-+-+-">del olvido abrasando, a Febo inflama.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-----+---+-">Las Musas del Parnaso, y de Helicona,</l>
+     <l n="10" met="-+-+-+---+-">hallando en vos su Ovidio transformado,</l>
+     <l n="11" met="-+++---+-+-">del lauro os tejen inmortal corona.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--++-+-+++-">Y pues tal hijo al mundo nuevo has dado,</l>
+     <l n="13" met="-+-+-+---+-">(o gran Sevilla célebre matrona)</l>
+     <l n="14" met="-+-+-+++++-">mas le riqueza le das, que él te ha enviado.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

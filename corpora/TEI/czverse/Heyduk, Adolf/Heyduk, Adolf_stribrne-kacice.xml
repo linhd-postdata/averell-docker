@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Stříbrné kačice.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_stribrne-kacice</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Stříbrné kačice.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Stříbrné kačice.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" line_length="6">Na Váhu, na Váhu,</l>
+     <l n="2" met="101000" rhyme="1" line_length="6">u té zátočice</l>
+     <l n="3" met="101000" line_length="6">plavou za večera</l>
+     <l n="4" met="100100" rhyme="1" line_length="6">stříbrné kačice.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100" line_length="6">Okolo dědinky</l>
+     <l n="6" met="100010" rhyme="2" line_length="6">po Váhu se točí,</l>
+     <l n="7" met="101000" line_length="6">aby uviděli</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">Janíkovy oči.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="101000" line_length="6">A když uviděli</l>
+     <l n="10" met="101010" rhyme="3" line_length="6">jejich ohník sivý,</l>
+     <l n="11" met="101000" line_length="6">smutno dávají se</l>
+     <l n="12" met="101000" rhyme="3" line_length="6">v pokřik žalostivý.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100100" line_length="6">Ještě se obrátí</l>
+     <l n="14" met="100100" rhyme="4" line_length="6">každičká po oku</l>
+     <l n="15" met="010010" line_length="6">a tratí se v řece</l>
+     <l n="16" met="010100" rhyme="4" line_length="6">a v zlatém homoku...</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="100100" line_length="6">Na Váhu, na Váhu</l>
+     <l n="18" met="101000" rhyme="5" line_length="6">šumná koupel je to,</l>
+     <l n="19" met="100010" line_length="6">viděli jste kačky</l>
+     <l n="20" met="100010" rhyme="5" line_length="6">na rátoči této?</l>
+    </lg>
+    <lg n="6">
+     <l n="21" met="100100" line_length="6">Nejsou to kačice...</l>
+     <l n="22" met="100010" rhyme="6" line_length="6">slovenské jsou víly,</l>
+     <l n="23" met="001000" line_length="6">co se pro Janíka</l>
+     <l n="24" met="101000" rhyme="6" line_length="6">žalem utopily!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

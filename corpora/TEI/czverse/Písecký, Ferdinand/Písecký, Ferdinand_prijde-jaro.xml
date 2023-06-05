@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Přijde jaro.</title>
+    <author>Písecký, Ferdinand</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Písecký, Ferdinand_prijde-jaro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Přijde jaro.</title>
+     <author>Písecký, Ferdinand</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Přijde jaro.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101010" rhyme="1" line_length="11">Sluníčko bílé blesklo v modru tichém</l>
+     <l n="2" met="01000101010" rhyme="1" line_length="11">a zasmálo se sladkým, teplým smíchem.</l>
+     <l n="3" met="11000100010" rhyme="2" line_length="11">Sníh zažehl se oslnivou bělí,</l>
+     <l n="4" met="10010100010" line_length="11">protkanou svitem nesčíslných jisker,</l>
+     <l n="5" met="010101000" rhyme="2" line_length="9">až oči moje zaslzely.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="10010100010" rhyme="3" line_length="11">Vrány i kavky zmizely kdes v dáli</l>
+     <l n="7" met="01000100110" rhyme="3" line_length="11">a na střeše se holubi dva smáli.</l>
+     <l n="8" met="01010001010" rhyme="4" line_length="11">Své sáňky zastavily drobné děti,</l>
+     <l n="9" met="10010001010" line_length="11">vrabčáci bláznivě se kolem honí,</l>
+     <l n="10" met="010001010" rhyme="4" line_length="9">pak na holé se hřejí sněti.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="10010101010" rhyme="5" line_length="11">Duší mou táhne touhy píseň tichá</l>
+     <l n="12" met="01010001010" rhyme="5" line_length="11">a láska na čelo mi zlehka dýchá.</l>
+     <l n="13" met="01010101000" rhyme="6" line_length="11">V mém srdci všecky struny zasaženy</l>
+     <l n="14" met="01010101010" line_length="11">a náhle cítím kolem šíje svojí</l>
+     <l n="15" met="01010101010" rhyme="6" line_length="11">se vinout ruce mojí dobré ženy.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

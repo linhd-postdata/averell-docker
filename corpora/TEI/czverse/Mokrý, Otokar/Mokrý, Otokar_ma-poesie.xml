@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Má poesie.</title>
+    <author>Mokrý, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mokrý, Otokar_ma-poesie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Má poesie.</title>
+     <author>Mokrý, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Má poesie.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101000" line_length="11">Nevěsta sličná – mladá poesie –</l>
+     <l n="2" met="0101010100" rhyme="1" line_length="10">mi v mrtvém ňádru sladce zdřímnula,</l>
+     <l n="3" met="10010101010" line_length="11">balvanu tíha – žití chmura tmavá</l>
+     <l n="4" met="0101010100" rhyme="1" line_length="10">jí snivá víčka pevně přimknula.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101000" line_length="11">Já k prsům kloním hlavu zamyšlenou,</l>
+     <l n="6" met="0001010100" rhyme="2" line_length="10">jak ten, jenž všecko dávno oplakal,</l>
+     <l n="7" met="01010100010" line_length="11">mne bolí nitro bez vášně a zpěvu</l>
+     <l n="8" met="0100010101" rhyme="2" line_length="10">a bez ohlasu – lůno němých skal.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101010" line_length="11">Já marně skrápím vlahou slzou oka</l>
+     <l n="10" met="1001010001" rhyme="3" line_length="10">myšlének mrtvých odekvetlý sad,</l>
+     <l n="11" met="01010101010" line_length="11">ten němý klid, to svaté ticho hrobu</l>
+     <l n="12" met="0101010100" rhyme="3" line_length="10">se v píseň sladkou nechce rozehřát.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01010100010" line_length="11">Až s hlavy osten trnový se smekne</l>
+     <l n="14" met="1001010100" rhyme="4" line_length="10">a mně tak bude k skonu nejlépe,</l>
+     <l n="15" met="10010101000" line_length="11">nevěsta švarná v pozdním procítání</l>
+     <l n="16" met="0101010100" rhyme="4" line_length="10">snad růžným prstem v balvan zaklepe.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

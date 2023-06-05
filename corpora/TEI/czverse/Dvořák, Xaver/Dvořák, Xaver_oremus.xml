@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>OREMUS.</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_oremus</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>OREMUS.</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>OREMUS.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110101010100" rhyme="1" line_length="12">Ó Bože, shlédni v srdce mého úkryty,</l>
+     <l n="2" met="01010101000" rhyme="2" line_length="11">kde rostou moje prosby nejtajnější,</l>
+     <l n="3" met="010101000100" rhyme="1" line_length="12">jež čísti můžeš, Shovívavý, jenom Ty,</l>
+     <l n="4" met="01010001010" rhyme="2" line_length="11">jichž vroucnost neunesou slova vnější.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101010100" rhyme="3" line_length="12">Mou slabost všecku, křehkost lidskou zjeví Ti</l>
+     <l n="6" met="01000101000" rhyme="4" line_length="11">mé zoufalství, jež volá po pomoci,</l>
+     <l n="7" met="010101000100" rhyme="3" line_length="12">ať Láska Tvoje nekonečná zasvítí</l>
+     <l n="8" met="01010011010" rhyme="4" line_length="11">jak měsíc stříbrný v tmy mojí noci.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101010000" rhyme="5" line_length="12">Ať milost Tvoje, která vysvobozuje,</l>
+     <l n="10" met="11000001010" rhyme="6" line_length="11">kříž hořkosti mé se mne vlídně sejme,</l>
+     <l n="11" met="010100010100" rhyme="5" line_length="12">a v chladné hlubině, jež naděj zmrazuje,</l>
+     <l n="12" met="11010001010" rhyme="6" line_length="11">žár lásky radostné se k Tobě vzejme.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="010101010101" rhyme="7" line_length="12">To rač mi skrze Syna Svého Krista dát,</l>
+     <l n="14" met="01000101010" rhyme="8" line_length="11">skrz stigmata, jež v těle jeho plají,</l>
+     <l n="15" met="010000010101" rhyme="7" line_length="12">jimž Spravedlnost Tvá se musí tiše vzdát,</l>
+     <l n="16" met="01000101000" rhyme="8" line_length="11">když krvavé své hloubky otvírají.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

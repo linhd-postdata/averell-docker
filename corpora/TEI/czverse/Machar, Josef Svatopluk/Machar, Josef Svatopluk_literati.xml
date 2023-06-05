@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LITERÁTI</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_literati</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LITERÁTI</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LITERÁTI</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100010" rhyme="1" line_length="11">Z papíru duše, papírem jsou živi,</l>
+     <l n="2" met="01010101010" rhyme="2" line_length="11">a inkoust místo krve v žilách mají,</l>
+     <l n="3" met="10010001000" rhyme="1" line_length="11">o papír, inkoust jsou jen starostlivi</l>
+     <l n="4" met="10010001010" rhyme="2" line_length="11">a pak, zda z papíru jim pomník dají.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

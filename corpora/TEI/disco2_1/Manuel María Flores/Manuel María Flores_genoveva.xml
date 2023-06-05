@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Genoveva</title>
+    <author>Manuel María Flores</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel María Flores_genoveva</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Genoveva</title>
+     <author>Manuel María Flores</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Genoveva</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+----+-+-">Sola y oculta en el rincón del huerto</l>
+     <l n="2" met="-+---+---+-">exhala su perfume la violeta;</l>
+     <l n="3" met="+--+---+-+-">sola se queja en escondida grieta</l>
+     <l n="4" met="-+-+---+-+-">gentil paloma en el pensil desierto.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">Sola, del cielo en el confín incierto,</l>
+     <l n="6" met="+--+---+-+-">brilla y derrama inspiración secreta</l>
+     <l n="7" met="+-+--+---+-">esa estrella querida del poeta,</l>
+     <l n="8" met="---+---+++-">que resplandece cuando el sol ha muerto.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">Así violeta de fragante aroma</l>
+     <l n="10" met="--+--+---+-">que perfuma los místicos altares,</l>
+     <l n="11" met="--+--+---+-">solitaria y dulcísima paloma</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">ajena de este mundo a los azares</l>
+     <l n="13" met="-+-+---+-+-">y blanca estrella que apacible asoma,</l>
+     <l n="14" met="+-+--+---+-">eres tú, Genoveva, en tus hogares.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

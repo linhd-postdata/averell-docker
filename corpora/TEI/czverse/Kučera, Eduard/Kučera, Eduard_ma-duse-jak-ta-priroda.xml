@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Má duše jak ta příroda</title>
+    <author>Kučera, Eduard</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kučera, Eduard_ma-duse-jak-ta-priroda</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Má duše jak ta příroda</title>
+     <author>Kučera, Eduard</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Má duše jak ta příroda</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11000100" line_length="8">Má duše jak ta příroda </l>
+     <l n="2" met="0101010" rhyme="1" line_length="7">když k spánku hlavu skládá –</l>
+     <l n="3" met="11100100" line_length="8">ach vím, že jsi mne neměla</l>
+     <l n="4" met="0101010" rhyme="1" line_length="7">a dosud nemáš ráda...</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">Když květen ve svět zadýchal,</l>
+     <l n="6" met="0101010" rhyme="2" line_length="7">jen teplo dýchal v kraje.</l>
+     <l n="7" met="01010100" line_length="8">A dodnes keři holému</l>
+     <l n="8" met="0101010" rhyme="2" line_length="7">to teplo ve snách hraje.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" line_length="8">A dodnes duše v bolestech</l>
+     <l n="10" met="1100010" rhyme="1" line_length="7">sny o jaře si spřádá –</l>
+     <l n="11" met="01000100" line_length="8">a přece jen jsi neměla</l>
+     <l n="12" met="0101010" rhyme="1" line_length="7">mne nikdy – nikdy ráda...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A San Isidro</title>
+    <author>Antonio de Vargas Gentil</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Antonio de Vargas Gentil_a-san-isidro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A San Isidro</title>
+     <author>Antonio de Vargas Gentil</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A San Isidro</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+-+-+-">Los campos de Madrid, Isidro santo,</l>
+     <l n="2" met="+--+-+-+-+-">labra con duro afán y corva reja,</l>
+     <l n="3" met="-----+-+-+-">y cuando del labrar tal vez se aleja,</l>
+     <l n="4" met="++---++--+-">no deja que su cuerpo huelgue en tanto.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+-+----+-">Ora, si ara Isidro, y entre tanto</l>
+     <l n="6" met="+-+--+---+-">aran, que ora, y rigen su pareja</l>
+     <l n="7" met="+---++---+-">Ángeles, que le sirven, porque deja</l>
+     <l n="8" met="--+--+---+-">obligados los cielos con su llanto.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+--++-">Obras y mieses siembra con fe pura,</l>
+     <l n="10" met="---+-+---+-">de que en felices tiempos a su celo</l>
+     <l n="11" met="-+-+-+---+-">la tierra y cielo rinden su tributo.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-++-+-+-+-">Colmo le da la tierra, gloria el cielo,</l>
+     <l n="13" met="---+-+-+-+-">con que de todo saca en paz segura,</l>
+     <l n="14" met="-+-+-+---+-">sembrando aquí sus lágrimas, el fruto.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

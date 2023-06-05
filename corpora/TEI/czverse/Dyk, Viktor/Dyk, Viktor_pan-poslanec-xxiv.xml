@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PAN POSLANEC (XXIV.)</title>
+    <author>Dyk, Viktor</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dyk, Viktor_pan-poslanec-xxiv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PAN POSLANEC (XXIV.)</title>
+     <author>Dyk, Viktor</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PAN POSLANEC (XXIV.)</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100100" line_length="9">Jedeme mlčící krajinou,</l>
+     <l n="2" met="10010010" rhyme="1" line_length="8">Týdenní odbyto dílo.</l>
+     <l n="3" met="010100100" line_length="9">Co bylo, můžeme věděti.</l>
+     <l n="4" met="10000010" rhyme="1" line_length="8">Netěší nás však, co bylo.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100100" line_length="9">Jedeme mlčící krajinou,</l>
+     <l n="6" met="10010010" rhyme="2" line_length="8">jedeme přes pláně chudé.</l>
+     <l n="7" met="010100100" line_length="9">Co bude, můžeme věděti,</l>
+     <l n="8" met="10000010" rhyme="2" line_length="8">netěší nás však, co bude!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

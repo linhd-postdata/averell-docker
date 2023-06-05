@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hudba siesty.</title>
+    <author>Karásek ze Lvovic, Jiří</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Karásek ze Lvovic, Jiří_hudba-siesty</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hudba siesty.</title>
+     <author>Karásek ze Lvovic, Jiří</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hudba siesty.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1101000101010" rhyme="1" line_length="13">Kraj vymřel dokola. Jak mrtvo! Nikde ruchu.</l>
+     <l n="2" met="010100110101" rhyme="2" line_length="12">Vše tichu podlehá. V snů jemně modrý klam</l>
+     <l n="3" met="1101000101010" rhyme="1" line_length="13">klid spících linií se kreslí v měkkém vzduchu.</l>
+     <l n="4" met="010101010100" rhyme="2" line_length="12">Vše jemné jako dech a slabé ke mdlobám.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1101000101010" rhyme="3" line_length="13">Hlas Ticha promlouvá a dech se v bázni úží,</l>
+     <l n="6" met="010100010000" rhyme="4" line_length="12">jak v nocích kathedrál bych před Tajemstvím klek’,</l>
+     <l n="7" met="0101000101010" rhyme="3" line_length="13">co vůně provlhlé a syté rosou růží</l>
+     <l n="8" met="010101100100" rhyme="4" line_length="12">strou lázeň kyprých šťáv na záhon myšlének.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101011101010" rhyme="5" line_length="13">A nitrem hudba zní, kvil táhlý, jakby slila</l>
+     <l n="10" met="110100010100" rhyme="6" line_length="12">v tón Psyche jediný, čím všechny touhy mrou:</l>
+     <l n="11" met="0101000100010" rhyme="5" line_length="13">vždy hledět v oblaka, v ta šedivá a bílá,</l>
+     <l n="12" met="010100010100" rhyme="6" line_length="12">jež, snění zpozděná, se táhnou oblohou...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

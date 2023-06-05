@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Esperanza</title>
+    <author>José Jacinto Milanés</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Jacinto Milanés_esperanza</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Esperanza</title>
+     <author>José Jacinto Milanés</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Esperanza</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+---+-+-">Cuando despunta en el dormido cielo</l>
+     <l n="2" met="-+-+-+++-+-">la blanca y pura luz de un almo día,</l>
+     <l n="3" met="+--+---+-+-">suelo decir a la ventura mía:</l>
+     <l n="4" met="-+-+---+-+-">¿Vendrás tal vez a coronar mi anhelo?</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+---+-+-">Mas cuando tiende el sonrosado velo</l>
+     <l n="6" met="-+-+---+-+-">la muelle tarde por la esfera umbría,</l>
+     <l n="7" met="+--+-++--+-">llora perdido al fin mi alma vacía</l>
+     <l n="8" met="-+-+---+++-">aquel placer, que examinado es duelo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--++--+-">¿Esperar, esperar es la sentencia</l>
+     <l n="10" met="-----+---+-">que la fatalidad aterradora</l>
+     <l n="11" met="-+-+---+-+-">señala a aquel que nuestras breñas pisa?</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+---+-">Pero mentí: la dulce Providencia</l>
+     <l n="13" met="++++--++-+-">me ofrece un sol, como me dio una aurora,</l>
+     <l n="14" met="+--+-++--+-">y es esplendente sol brilla en Beliza.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

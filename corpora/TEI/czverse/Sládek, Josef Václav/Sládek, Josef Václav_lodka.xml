@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Loďka.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_lodka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Loďka.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Loďka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000100" line_length="7">Kolíbej mne, kolíbej,</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">moje loďko snivá; –</l>
+     <l n="3" met="1010100" line_length="7">řeka šplouná, povídá,</l>
+     <l n="4" met="001010" rhyme="1" line_length="6">v dál jak s námi splývá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1000100" line_length="7">Na břehu se rákosí</l>
+     <l n="6" met="100010" rhyme="2" line_length="6">šepotavě sklání,</l>
+     <l n="7" met="1010100" line_length="7">větřík duje, potichu</l>
+     <l n="8" met="001000" rhyme="2" line_length="6">v dál nás popohání</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010101" line_length="7">Hlava klesá, ruka mdlá</l>
+     <l n="10" met="100010" rhyme="3" line_length="6">pustila se vesla,</l>
+     <l n="11" met="0100100" line_length="7">jest jakoby dřímotou</l>
+     <l n="12" met="001010" rhyme="3" line_length="6">nás ta loďka nesla.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1001100" line_length="7">Daleko, ó daleko</l>
+     <l n="14" met="100010" rhyme="4" line_length="6">radostí i hoře,</l>
+     <l n="15" met="0010100" line_length="7">kams, v to velké, neznámé,</l>
+     <l n="16" met="100010" rhyme="4" line_length="6">mlčenlivé moře.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

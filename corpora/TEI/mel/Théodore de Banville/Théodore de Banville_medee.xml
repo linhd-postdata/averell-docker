@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Médée</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_medee</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Médée</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Médée</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Médée au grand cœur plein d'un amour indompté</l>
+     <l n="2" rhyme="b" line_length="6+6">Chante avec l'onde obscure, et le fleuve en délire</l>
+     <l n="3" rhyme="b" line_length="6+6">Où ses longs regards voient les étoiles sourire</l>
+     <l n="4" rhyme="a" line_length="6+6">Reflète vaguement sa blanche nudité.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Pâle et charmante, près du Phase épouvanté</l>
+     <l n="6" rhyme="b" line_length="6+6">Elle chante, et la brise errante qu'elle attire,</l>
+     <l n="7" rhyme="b" line_length="6+6">S'unissant à ses vers avec un bruit de lyre,</l>
+     <l n="8" rhyme="a" line_length="6+6">Emporte ses cheveux comme un flot de clarté.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Ses yeux brûlants fixés sur le ciel sombre, où flambe</l>
+     <l n="10" rhyme="c" line_length="6+6">Une lueur sanglante, elle chante. Sa jambe</l>
+     <l n="11" rhyme="d" line_length="6+6">A des éclairs de neige à travers les gazons.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Elle cueille à l'entour sur la montagne brune</l>
+     <l n="13" rhyme="d" line_length="6+6">Les plantes dont les sucs formeront des poisons,</l>
+     <l n="14" rhyme="e" line_length="6+6">Et son jeune sein luit sous les rayons de lune.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

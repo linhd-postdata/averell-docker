@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Slzičky. (1.)</title>
+    <author>Tůma, Jan Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tůma, Jan Václav_slzicky-1</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Slzičky. (1.)</title>
+     <author>Tůma, Jan Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Slzičky. (1.)</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" line_length="6">Chudý je, chudičký,</l>
+     <l n="2" met="101101" rhyme="1" line_length="6">a by svět celý měl,</l>
+     <l n="3" met="000100" line_length="6">kdo je tu bez citu,</l>
+     <l n="4" met="100100" rhyme="1" line_length="6">jakoby oněměl.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100" line_length="6">Neví-li, co je to,</l>
+     <l n="6" met="100100" rhyme="2" line_length="6">zaplakat v radosti,</l>
+     <l n="7" met="100100" line_length="6">nebo-li nepoznal</l>
+     <l n="8" met="100100" rhyme="2" line_length="6">slzičku bolesti.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100100" rhyme="2" line_length="6">Neplakal v neštěstí</l>
+     <l n="10" met="100100" rhyme="3" line_length="6">pro blaho stracené,</l>
+     <l n="11" met="100100" line_length="6">zlá je to chudoba,</l>
+     <l n="12" met="010100" rhyme="3" line_length="6">to srdce z kamene!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LX</title>
+    <author>Tristan Derème</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tristan Derème_lx</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LX</title>
+     <author>Tristan Derème</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LX</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Va ! tu n'es qu'une femme, une fleur vide, rien !</l>
+     <l n="2" rhyme="a" line_length="6+6">Tu me tiens, je le sais, par un souple lien</l>
+     <l n="3" rhyme="b" line_length="6+6">Qui raille les ciseaux et se moque des limes,</l>
+     <l n="4" rhyme="b" line_length="6+6">Et je sais que malgré mes révoltes sublimes</l>
+     <l n="5" rhyme="a" line_length="6+6">Tu n'auras qu'à paraître avec ton chapeau blanc</l>
+     <l n="6" rhyme="a" line_length="6+6">Pour que ce loup devienne un caniche tremblant.</l>
+     <l n="7" rhyme="b" line_length="6+6">Oui, je le sais ! Il faut ployer ! Il faut te suivre !</l>
+     <l n="8" rhyme="b" line_length="6+6">Je t'aime et je te hais ! Hélas ! le plus beau livre</l>
+     <l n="9" rhyme="a" line_length="6+6">S'effeuille quand paraît l'éclat de tes cheveux,</l>
+     <l n="10" rhyme="a" line_length="6+6">Et je suis un coussin sous tes pieds ! Mais je veux,</l>
+     <l n="11" rhyme="b" line_length="6+6">Et que ce fier aveu te flagelle ou te grise,</l>
+     <l n="12" rhyme="b" line_length="6+6">Que tu saches du moins comme je me méprise !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

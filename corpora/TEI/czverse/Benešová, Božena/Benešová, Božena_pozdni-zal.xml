@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>POZDNÍ ŽAL</title>
+    <author>Benešová, Božena</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Benešová, Božena_pozdni-zal</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>POZDNÍ ŽAL</title>
+     <author>Benešová, Božena</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>POZDNÍ ŽAL</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010101" rhyme="1" line_length="8">Ó marně voněl jarní květ</l>
+     <l n="2" met="01010101000" rhyme="2" line_length="11">a marně věnce pro tě uchystané!</l>
+     <l n="3" met="0010" rhyme="1" line_length="4">Proč teď, proč teď</l>
+     <l n="4" met="01010100010" rhyme="2" line_length="11">z tvých očí smutek zářijový vane?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0100110101" rhyme="3" line_length="10">Je sychravo, čas místo tebe bral</l>
+     <l n="6" met="01010101010" rhyme="4" line_length="11">a květy zvadly v jeho suché dlani...</l>
+     <l n="7" met="1010" rhyme="3" line_length="4">Jdi dál, jdi dál,</l>
+     <l n="8" met="11010101000" rhyme="4" line_length="11">žal dvojí není lásky zmrtvýchvstání!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0100010101" rhyme="5" line_length="10">Ne, nevyčítám... Ale k čemu pláč?</l>
+     <l n="10" met="01010101000" rhyme="6" line_length="11">Mé slzy v srdci vždycky zjedovatí...</l>
+     <l n="11" met="100" rhyme="5" line_length="3">Ach zač, zač,</l>
+     <l n="12" met="00010001000" rhyme="6" line_length="11">zač vše jsem mohla dnes ti děkovati!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

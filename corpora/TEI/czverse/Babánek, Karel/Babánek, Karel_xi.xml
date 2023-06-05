@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XI.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_xi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XI.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XI.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010" line_length="7">Obláčky, modré nebe.</l>
+     <l n="2" met="100101" rhyme="1" line_length="6">Zelený šumí háj.</l>
+     <l n="3" met="1001010" line_length="7">Na stráni pastýř mladý</l>
+     <l n="4" met="010100" rhyme="1" line_length="6">tam hraje na šalmaj.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101000" line_length="7">A písní roztoužený</l>
+     <l n="6" met="100100" rhyme="2" line_length="6">do dálky haleká,</l>
+     <l n="7" met="1101000" line_length="7">hlas dívčí odpovídá</l>
+     <l n="8" met="010100" rhyme="2" line_length="6">mu na stráň z daleka.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

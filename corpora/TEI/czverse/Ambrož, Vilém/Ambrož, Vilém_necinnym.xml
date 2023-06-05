@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nečinným.</title>
+    <author>Ambrož, Vilém</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ambrož, Vilém_necinnym</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nečinným.</title>
+     <author>Ambrož, Vilém</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nečinným.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" rhyme="1" line_length="8">Nelajte vždy světu zlému,</l>
+     <l n="2" met="1010100" rhyme="2" line_length="7">není lék to pro nemoc;</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">buďte svící lidu svému,</l>
+     <l n="4" met="1010101" rhyme="2" line_length="7">v jasný den se změní noc!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" rhyme="3" line_length="8">Toužíte-li na zlé chmury,</l>
+     <l n="6" met="0010100" rhyme="4" line_length="7">tím se bouři nebrání –</l>
+     <l n="7" met="10101010" rhyme="3" line_length="8">bořte sami stinné mury,</l>
+     <l n="8" met="0010100" rhyme="4" line_length="7">jež vám slunce zaclání!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10100010" rhyme="5" line_length="8">Vlastní budujte vždy rukou</l>
+     <l n="10" met="1000101" rhyme="6" line_length="7">velebný ten blaha stan;</l>
+     <l n="11" met="10101010" rhyme="5" line_length="8">komu práce jesti mukou,</l>
+     <l n="12" met="1010001" rhyme="6" line_length="7">tomu nepožehná Pán.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

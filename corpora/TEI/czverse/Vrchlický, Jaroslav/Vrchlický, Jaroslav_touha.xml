@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Touha.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_touha</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Touha.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Touha.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010101010" rhyme="1" line_length="11">Ach, dlouhé, černé, dlouhé zimní deště!</l>
+     <l n="2" met="01010" rhyme="1" line_length="5">Co chtíti ještě?</l>
+     <l n="3" met="110100" rhyme="2" line_length="6">Kol obzor zamlžen,</l>
+     <l n="4" met="110101" rhyme="2" line_length="6">den každý jako sen,</l>
+     <l n="5" met="010101" rhyme="2" line_length="6">jen z ňader tryská sten</l>
+     <l n="6" met="101" rhyme="2" line_length="3">v noc i den:</l>
+     <l n="7" met="11010101010" rhyme="1" line_length="11">Ach, dlouhé, černé, dlouhé zimní deště!</l>
+    </lg>
+    <lg n="2">
+     <l n="8" met="0101010" rhyme="3" line_length="7">Já chtěl bych věčně spáti,</l>
+     <l n="9" met="01010" rhyme="3" line_length="5">ne více vstáti,</l>
+     <l n="10" met="01000100010" rhyme="3" line_length="11">mně o tobě by musilo se zdáti...</l>
+     <l n="11" met="1001000101010" rhyme="1" line_length="13">Ó pak bych žehnal vám, vy dlouhé zimní deště.</l>
+     <l n="12" met="01010" rhyme="1" line_length="5">Co chtít pak ještě?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

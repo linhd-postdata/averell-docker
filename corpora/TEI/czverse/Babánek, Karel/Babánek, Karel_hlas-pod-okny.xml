@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>HLAS POD OKNY.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_hlas-pod-okny</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>HLAS POD OKNY.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>HLAS POD OKNY.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1011001001010" line_length="13">Letní noc neklidná. Ulice města, domy.</l>
+     <l n="2" met="1001010100010" rhyme="1" line_length="13">Studené světlo lamp se do oken ti dívá.</l>
+     <l n="3" met="1101000100010" line_length="13">Hlas jakby opilý se v únavu ti vtírá,</l>
+     <l n="4" met="0101000100010" rhyme="1" line_length="13">to život zjitřený a pod okny si zpívá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001010100010" rhyme="1" line_length="13">Studené světlo lamp se do oken ti dívá.</l>
+     <l n="6" met="0101001000010" rhyme="2" line_length="13">Ten hlučně vtíravý hlas jak už je ti cizí!</l>
+     <l n="7" met="1001000100010" line_length="13">A teď už z dálky jen jak slyšel bys ho zpívat,</l>
+     <l n="8" met="01000101010" rhyme="2" line_length="11">a doznívá a ve tmách nocí mizí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

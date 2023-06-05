@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JE SUIS UN POÈTE ENTRE DEUX…</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_je-suis-un-poete-entre-deux</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JE SUIS UN POÈTE ENTRE DEUX…</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JE SUIS UN POÈTE ENTRE DEUX…</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Je suis un poète entre deux</l>
+     <l n="2" rhyme="b" line_length="1">Mais n'ayant pas tout à fait deux</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="8">Je préfère surtout ce que</l>
+     <l n="4" rhyme="b" line_length="1">Et j'aime beaucoup ! trop ce que</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="8">Bonne et belle, n'importe qui</l>
+     <l n="6" rhyme="b" line_length="8">Et m'en sais gré, quiriquiqui</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

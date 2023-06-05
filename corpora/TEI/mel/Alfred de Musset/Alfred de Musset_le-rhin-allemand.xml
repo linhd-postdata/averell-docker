@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LE RHIN ALLEMAND</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_le-rhin-allemand</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LE RHIN ALLEMAND</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LE RHIN ALLEMAND</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+6">Du pied de nos chevaux, marqué dans votre sang ?</l>
+    </lg>
+    <lg n="2">
+     <l n="2" rhyme="a" line_length="4+6">Où le père a passé, passera bien l'enfant.</l>
+    </lg>
+    <lg n="3">
+     <l n="3" rhyme="a" line_length="4+6">Où donc est-il tombé, ce dernier ossement ?</l>
+    </lg>
+    <lg n="4">
+     <l n="4" rhyme="a" line_length="4+6">Elles nous ont versé votre petit vin blanc.</l>
+    </lg>
+    <lg n="5">
+     <l n="5" rhyme="a" line_length="4+6">Étiez-vous de corbeaux contre l'aigle expirant ?</l>
+    </lg>
+    <lg n="6">
+     <l n="6" rhyme="a" line_length="4+6">Ne réveillent les morts de leur repos sanglant.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

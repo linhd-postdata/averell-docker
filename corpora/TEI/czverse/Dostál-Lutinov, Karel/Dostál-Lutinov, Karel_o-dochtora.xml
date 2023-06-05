@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>O DOCHTORA.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_o-dochtora</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>O DOCHTORA.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>O DOCHTORA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100" rhyme="1" line_length="7">Přešil stréček Poledňa</l>
+     <l n="2" met="1000100" rhyme="1" line_length="7">k dochtorovi do Brna:</l>
+     <l n="3" met="0010100" rhyme="2" line_length="7">Co si počno obohé?</l>
+     <l n="4" met="1010100" rhyme="2" line_length="7">Vrce v palco od nohe!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010100" rhyme="1" line_length="7">Milý pane Poledna,</l>
+     <l n="6" met="1010101" rhyme="1" line_length="7">tohle asi bude dna!</l>
+     <l n="7" met="1010100" rhyme="3" line_length="7">Není jiné cestičky,</l>
+     <l n="8" met="1010100" rhyme="3" line_length="7">leda nechat bečičky!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010100" rhyme="4" line_length="7">Na to stréček v gurážo:</l>
+     <l n="10" met="0110100" rhyme="4" line_length="7">„To rač palec podvážo,</l>
+     <l n="11" met="1010101" rhyme="5" line_length="7">abe šelma, dež chco pit,</l>
+     <l n="12" met="1000100" rhyme="5" line_length="7">nemuhl se .přeževit.“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

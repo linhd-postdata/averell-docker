@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El sueño engañoso</title>
+    <author>José Marchena y Ruiz de Cueto</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Marchena y Ruiz de Cueto_el-sueno-enganoso</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El sueño engañoso</title>
+     <author>José Marchena y Ruiz de Cueto</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El sueño engañoso</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-----+---+-">Al tiempo que los hombres y animales</l>
+     <l n="2" met="-+-+-+---+-">en hondo sueño yacen sepultados,</l>
+     <l n="3" met="-+-+-+-+-+-">soñé ante mí los pueblos ver postrados</l>
+     <l n="4" met="-+++-+---+-">alzarme rey de todos los mortales.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-++--+---+-">Rendí el cetro a las plantas celestiales</l>
+     <l n="6" met="-+---+---+-">de Alcinda, y mis suspiros inflamados</l>
+     <l n="7" met="-+-+-+---+-">benignamente fueron escuchados;</l>
+     <l n="8" met="+-+--+---+-">me envidiaron los dioses inmortales.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-++--+--++-">Huyó lejos el sueño, mas no huyeron</l>
+     <l n="10" met="--+--+---+-">las memorias con él de mi ventura,</l>
+     <l n="11" met="-+-+---+-+-">la triste imagen de mi bien fingido.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">El mando y el poder desparecieron.</l>
+     <l n="13" met="-+---+-+-+-">¡Oh de un desventurado suerte dura!</l>
+     <l n="14" met="-+-+---+++-">Amor quedó, mas lo demás es ido.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

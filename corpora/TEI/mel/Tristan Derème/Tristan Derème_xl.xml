@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XL</title>
+    <author>Tristan Derème</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tristan Derème_xl</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XL</title>
+     <author>Tristan Derème</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XL</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Maintenant que tes yeux sont clos et que ta voix</l>
+     <l n="2" rhyme="a" line_length="6+6">Ne murmurera plus les phrases d'autrefois ;</l>
+     <l n="3" rhyme="b" line_length="6+6">Puisque je l'ai perdue, hélas ! et que la vie</l>
+     <l n="4" rhyme="b" line_length="6+6">Est pareille au jardin solitaire, j'envie</l>
+     <l n="5" rhyme="a" line_length="6+6">Le guerrier embrasé d'une tragique ardeur,</l>
+     <l n="6" rhyme="a" line_length="6+6">Qui, vêtu d'or, le glaive au poing, dans la splendeur,</l>
+     <l n="7" rhyme="b" line_length="6+6">Blasphémant et dressé, farouche, sur la selle,</l>
+     <l n="8" rhyme="b" line_length="6+6">Au milieu du tumulte et du sang qui ruisselle,</l>
+     <l n="9" rhyme="a" line_length="6+6">S'élance, frappe et meurt, troué de mille dards,</l>
+     <l n="10" rhyme="a" line_length="6+6">Dans les plis triomphaux des rouges étendards !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

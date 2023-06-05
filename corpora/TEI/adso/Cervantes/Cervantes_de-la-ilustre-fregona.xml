@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>De La ilustre fregona 	                </title>
+    <author>Cervantes</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cervantes_de-la-ilustre-fregona</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>De La ilustre fregona 	                </title>
+     <author>Cervantes</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>De La ilustre fregona 	                </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+---+-">Raro, humilde sujeto, que levantas</l>
+     <l n="2" met="-+-+-+---+-">a tan excelsa cumbre la belleza,</l>
+     <l n="3" met="-+---+---+-">que en ella se excedió naturaleza</l>
+     <l n="4" met="-++--+---+-">a sí misma, y al cielo la adelantas;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">si hablas, o si ríes, o si cantas,</l>
+     <l n="6" met="-+---+---+-">si muestras mansedumbre o aspereza</l>
+     <l n="7" met="-+-+-----+-">(efecto sólo de tu gentileza),</l>
+     <l n="8" met="--+--+---+-">las potencias del alma nos encantas.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-++--+-">Para que pueda ser más conocida</l>
+     <l n="10" met="--+--+---+-">la sin par hermosura que contienes</l>
+     <l n="11" met="-+---+---+-">y la alta honestidad de que blasonas,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+-+-+-">deja el servir, pues debes ser servida</l>
+     <l n="13" met="-+-+-+---+-">de cuantos ven sus manos y sus sienes</l>
+     <l n="14" met="---+-+---+-">resplandecer por cetros y coronas.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

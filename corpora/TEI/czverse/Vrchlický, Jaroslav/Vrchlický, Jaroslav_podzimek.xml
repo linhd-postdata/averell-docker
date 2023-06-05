@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PODZIMEK.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_podzimek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PODZIMEK.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PODZIMEK.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010011010" rhyme="1" line_length="9">Je tady už? Znám toho kmeta,</l>
+     <l n="2" met="10010000" rhyme="2" line_length="8">ke krbu usedl k nám blíž,</l>
+     <l n="3" met="010101010" rhyme="1" line_length="9">kol bledých skrání jemu zkvétá</l>
+     <l n="4" met="10010001" rhyme="2" line_length="8">ocúnů jedovatá číš.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101000" rhyme="3" line_length="9">To má být konec? Zapomnění?</l>
+     <l n="6" met="10010101" rhyme="4" line_length="8">Na sebe zříme jako v snách,</l>
+     <l n="7" met="010001010" rhyme="3" line_length="9">on vzpomíná mi louky v snění,</l>
+     <l n="8" met="01010100" rhyme="4" line_length="8">kde stíny táhnou ve mlhách.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101010" rhyme="5" line_length="9">To má být konec? Pravím k sobě,</l>
+     <l n="10" met="01000100" rhyme="6" line_length="8">což octl jsem se u vrátek,</l>
+     <l n="11" met="010101010" rhyme="5" line_length="9">kde štvaná noha klesá v mdlobě</l>
+     <l n="12" met="01010100" rhyme="6" line_length="8">si lhouc, že hrob zas počátek?</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="110101000" rhyme="7" line_length="9">Dí vlídně kmet: „V tom koloběhu</l>
+     <l n="14" met="01010100" rhyme="8" line_length="8">jsem přišel, bych ti připomněl,</l>
+     <l n="15" met="010101010" rhyme="7" line_length="9">když v duši květ, čím trocha sněhu</l>
+     <l n="16" met="10010101" rhyme="8" line_length="8">na skráních?“ – Řek’ a dále šel.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Zakleté jaro.</title>
+    <author>Kaminský, Bohdan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kaminský, Bohdan_zaklete-jaro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Zakleté jaro.</title>
+     <author>Kaminský, Bohdan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Zakleté jaro.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010" rhyme="1" line_length="5">Kam oko hledne,</l>
+     <l n="2" met="010101010" rhyme="1" line_length="9">tam není ještě růže jedné</l>
+     <l n="3" met="01010100" rhyme="2" line_length="8">a není ani poupěte</l>
+     <l n="4" met="01010" rhyme="1" line_length="5">a ke dni ze dne</l>
+     <l n="5" met="010001010" rhyme="1" line_length="9">jen jinovatka na vše sedne</l>
+     <l n="6" met="01000100" rhyme="2" line_length="8">a jaro je jak zakleté.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="01010" rhyme="3" line_length="5">Tak člověk čeká</l>
+     <l n="8" met="010001010" rhyme="3" line_length="9">tu na lásku, až píseň měkká</l>
+     <l n="9" met="01010100" rhyme="2" line_length="8">se zachví sladké chvíle té,</l>
+     <l n="10" met="10010" rhyme="3" line_length="5">a zas se leká,</l>
+     <l n="11" met="010101000" rhyme="3" line_length="9">a dnové táhnou do daleka –</l>
+     <l n="12" met="01010100" rhyme="2" line_length="8">ah, to je jaro zakleté.</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="01010" rhyme="4" line_length="5">A dosní tady</l>
+     <l n="14" met="010001010" rhyme="4" line_length="9">a dotouží ten snílek mladý –</l>
+     <l n="15" met="01010100" rhyme="2" line_length="8">a z hrobu růže vykvete</l>
+     <l n="16" met="01010" rhyme="4" line_length="5">tak plná vnady –</l>
+     <l n="17" met="100001010" rhyme="4" line_length="9">a čím jsou pak ty vzdušné hrady</l>
+     <l n="18" met="01010100" rhyme="2" line_length="8">i žití jaro zakleté!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

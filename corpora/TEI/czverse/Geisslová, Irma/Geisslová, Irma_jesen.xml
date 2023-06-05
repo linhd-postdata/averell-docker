@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JESEŇ.</title>
+    <author>Geisslová, Irma</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Geisslová, Irma_jesen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JESEŇ.</title>
+     <author>Geisslová, Irma</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JESEŇ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" line_length="6">Roviny, planiny,</l>
+     <l n="2" met="00010" rhyme="1" line_length="5">jak mi to líto,</l>
+     <l n="3" met="000100" line_length="6">že už je požata</l>
+     <l n="4" met="10010" rhyme="1" line_length="5">pšenice, žito;</l>
+     <l n="5" met="10010" line_length="5">pšenice, žito,</l>
+     <l n="6" met="10010" rhyme="2" line_length="5">vlnivé klásky,</l>
+     <l n="7" met="010100" line_length="6">že s nimi umlkly</l>
+     <l n="8" met="10010" rhyme="2" line_length="5">skřivánčí hlásky.</l>
+    </lg>
+    <lg n="2">
+     <l n="9" met="100100" line_length="6">Jeseni, jeseni,</l>
+     <l n="10" met="10010" rhyme="3" line_length="5">k čemu ty spěchy?</l>
+     <l n="11" met="010100" line_length="6">dost ještě ochladíš</l>
+     <l n="12" met="10010" rhyme="3" line_length="5">teplejší dechy,</l>
+     <l n="13" met="10010" line_length="5">oškubeš sady –</l>
+     <l n="14" met="00010" rhyme="4" line_length="5">jak už to bývá, –</l>
+     <l n="15" met="101100" line_length="6">a kdo ví, na přesrok</l>
+     <l n="16" met="10010" rhyme="4" line_length="5">budu-li živa! –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

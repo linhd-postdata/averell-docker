@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Algo extraño...</title>
+    <author>Rafael Verson Brunet</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Rafael Verson Brunet_algo-extrano</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Algo extraño...</title>
+     <author>Rafael Verson Brunet</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Algo extraño...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="+-+--+--+--+-">Algo extraño se anuncia en mi cuerpo sensible</l>
+     <l n="2" met="-+--+--+--+-">que en lo íntimo turba y conmueve mi vida,</l>
+     <l n="3" met="-++--++-+--+-">y me clava, en la carne, una garra invisible</l>
+     <l n="4" met="--+--+---+--+-">el recuerdo lejano de tu cuerpo suicida.</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="--+--+---+--+-">Y se anima la llama del anhelo inextinto</l>
+     <l n="6" met="-+--+---+-+-">que antaño, insinuante, me obsedía por verte:</l>
+     <l n="7" met="--+--++-+--+-">en mi ser inferior me predice el instinto</l>
+     <l n="8" met="--++++-----+-">que de hallarte muy pronto a través de la muerte.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-+-">De mi cuerpo terreno, se diría que vibra</l>
+     <l n="10" met="+----+-+--+-">un estremecimiento, en la íntima fibra</l>
+     <l n="11" met="--+--+----+--">por tu ser abolido, por tu psiqui olvidada.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+--+-">Y al lejano conjuro que mi interno conmueve,</l>
+     <l n="13" met="+-+--+-+-++++-">me revela el instinto que he de hallarte muy breve</l>
+     <l n="14" met="-----+---+--+-">a través de la muerte, del abismo y la nada.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

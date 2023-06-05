@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>¡10 de octubre!</title>
+    <author>José Martí</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Martí_10-de-octubre</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>¡10 de octubre!</title>
+     <author>José Martí</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>¡10 de octubre!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++++-++--+-">No es un sueño, es verdad: grito de guerra</l>
+     <l n="2" met="+--+-+---+-">lanza el cubano pueblo, enfurecido;</l>
+     <l n="3" met="-+--++-+-+-">el pueblo que tres siglos ha sufrido</l>
+     <l n="4" met="+--+---+-+-">cuanto de negro la opresión encierra.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">Del ancho Cauto a la Escambraica sierra</l>
+     <l n="6" met="+--+-+---+-">ruge el cañón y al bélico estampido</l>
+     <l n="7" met="-+---+---+-">el bárbaro opresor, estremecido</l>
+     <l n="8" met="+--+-+---+-">gime, solloza y tímido se aterra.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">De su fuerza y heroica valentía</l>
+     <l n="10" met="+--+-+---+-">tumbas los campos son y su grandeza</l>
+     <l n="11" met="-+-+-+---+-">degrada y mancha horrible cobardía.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">Gracias a Dios que ¡al fin con entereza</l>
+     <l n="13" met="+-+--+-+-+-">rompe Cuba el dogal que le oprimía</l>
+     <l n="14" met="-+-+-+---+-">y altiva y libre yergue la cabeza!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

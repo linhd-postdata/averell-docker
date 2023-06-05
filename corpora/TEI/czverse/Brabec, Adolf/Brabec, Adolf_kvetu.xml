@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Květu.</title>
+    <author>Brabec, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Brabec, Adolf_kvetu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Květu.</title>
+     <author>Brabec, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Květu.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Květe starý, věčně nový,</l>
+     <l n="2" met="0010101" rhyme="2" line_length="7">zas tě vidím vonět, kvést,</l>
+     <l n="3" met="10101000" rhyme="1" line_length="8">věnec kolem řetězový,</l>
+     <l n="4" met="1010101" rhyme="2" line_length="7">druhů chce mne bájí vést.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="3" line_length="8">Chce mně stezku sypat bílou,</l>
+     <l n="6" met="10101010" rhyme="4" line_length="8">dávnou cestu, dávno svátou,</l>
+     <l n="7" met="10001010" rhyme="3" line_length="8">obdařit mne novou silou,</l>
+     <l n="8" met="10101000" rhyme="4" line_length="8">provést říší květenatou.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01101010" rhyme="5" line_length="8">Přec chci, květe, míti tebe,</l>
+     <l n="10" met="00101010" rhyme="6" line_length="8">když mně dáváš zdarma vůni,</l>
+     <l n="11" met="00101010" rhyme="6" line_length="8">tak již člověk, když i trůní,</l>
+     <l n="12" met="11101110" rhyme="5" line_length="8">chce mít více, – chce mít nebe.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

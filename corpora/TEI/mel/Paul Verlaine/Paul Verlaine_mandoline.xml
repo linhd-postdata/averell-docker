@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mandoline</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_mandoline</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mandoline</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mandoline</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="7">Les donneurs de sérénades</l>
+     <l n="2" rhyme="b" line_length="7">Et les belles écouteuses</l>
+     <l n="3" rhyme="a" line_length="7">Échangent des propos fades</l>
+     <l n="4" rhyme="b" line_length="7">Sous les ramures chanteuses.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="7">C’est Tircis et c’est Aminte,</l>
+     <l n="6" rhyme="b" line_length="7">Et c’est l’éternel Clitandre,</l>
+     <l n="7" rhyme="a" line_length="7">Et c’est Damis qui pour mainte</l>
+     <l n="8" rhyme="b" line_length="7">Cruelle fait maint vers tendre.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="7">Leurs courtes vestes de soie,</l>
+     <l n="10" rhyme="b" line_length="7">Leurs longues robes à queues,</l>
+     <l n="11" rhyme="a" line_length="7">Leur élégance, leur joie</l>
+     <l n="12" rhyme="b" line_length="7">Et leurs molles ombres bleues</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="7">Tourbillonnent dans l’extase</l>
+     <l n="14" rhyme="b" line_length="7">D’une lune rose et grise,</l>
+     <l n="15" rhyme="a" line_length="7">Et la mandoline jase</l>
+     <l n="16" rhyme="b" line_length="7">Parmi les frissons de brise.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

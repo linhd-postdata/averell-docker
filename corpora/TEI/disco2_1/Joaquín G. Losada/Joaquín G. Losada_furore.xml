@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Furore</title>
+    <author>Joaquín G. Losada</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Joaquín G. Losada_furore</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Furore</title>
+     <author>Joaquín G. Losada</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Furore</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+--++-">«Ni aun el altar bendito en que te amparas</l>
+     <l n="2" met="--+--+--++-">a mi justa venganza pondrá freno.</l>
+     <l n="3" met="--++-+-+-+-">¡He de verte morir de gozo lleno!</l>
+     <l n="4" met="---+++-+-+-">¡He departirte en esas mismas aras!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+----+---+-">Antes que de mi cólera escaparas</l>
+     <l n="6" met="-+---+-+-+-">nublárase por siempre el sol sereno,</l>
+     <l n="7" met="-+---+-+-+-">cruzara el tiburón el valle a mano,</l>
+     <l n="8" met="-+-+---+-+-">nadara el tigre por las ondas claras.»</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+---+-">Dijo sacando airado su cuchillo,</l>
+     <l n="10" met="---+--+--+-">que a la luz del augusto santuario</l>
+     <l n="11" met="-+-+---+-+-">lanzaba rayos de siniestro brillo,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">y luego... el sacristán de Candelario</l>
+     <l n="13" met="-+-+--++-+-">cortó la vela, se la echó al bolsillo,</l>
+     <l n="14" met="--++-+---+-">y se fue a dar el toque del rosario.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

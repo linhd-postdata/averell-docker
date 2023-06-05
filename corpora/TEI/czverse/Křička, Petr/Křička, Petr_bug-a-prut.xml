@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Bug a Prut</title>
+    <author>Křička, Petr</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Křička, Petr_bug-a-prut</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Bug a Prut</title>
+     <author>Křička, Petr</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Bug a Prut</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101010" rhyme="1" line_length="10">Z Ukrajiny Švábi berou švába.</l>
+     <l n="2" met="10001000" rhyme="2" line_length="8">Pražáci se usmívají.</l>
+     <l n="3" met="1000101010" rhyme="1" line_length="10">Povídala v trhu bábě bába:</l>
+     <l n="4" met="101000" rhyme="3" line_length="6">„Mušej upalovat!</l>
+     <l n="5" met="01000100010" rhyme="3" line_length="11">Když za bukem se nedovedli schovat,</l>
+     <l n="6" met="1000101000" rhyme="2" line_length="10">za prutem se teprv neschovají!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dorince.</title>
+    <author>Chmelenský, Josef Krasoslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">2</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Chmelenský, Josef Krasoslav_dorince</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dorince.</title>
+     <author>Chmelenský, Josef Krasoslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dorince.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100101000010" line_length="15">Státi se krásnější myslíš, předělavši si kroj svůj,</l>
+     <l n="2" met="01001001010100" line_length="14">Tvé raději kdyby tys mohla tělo předělat.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

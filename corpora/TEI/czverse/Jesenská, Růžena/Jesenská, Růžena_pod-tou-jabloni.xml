@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pod tou jabloní...</title>
+    <author>Jesenská, Růžena</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jesenská, Růžena_pod-tou-jabloni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pod tou jabloní...</title>
+     <author>Jesenská, Růžena</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pod tou jabloní...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010010100" line_length="10">Pod tou jabloní, pod tou jabloní</l>
+     <l n="2" met="1010010101" rhyme="1" line_length="10">tiše skloněnou tíží dlouhých let,</l>
+     <l n="3" met="1010010100" line_length="10">zemí prohnutou drn se zelená,</l>
+     <l n="4" met="1010010001" rhyme="1" line_length="10">vadne růžový, napadaný květ.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010010001" rhyme="2" line_length="10">Obzor daleký s důvěrnými sny</l>
+     <l n="6" met="1010010101" rhyme="3" line_length="10">s teplem linií svítí v její stín,</l>
+     <l n="7" met="1010010100" rhyme="2" line_length="10">drne zelený, slzou kropený,</l>
+     <l n="8" met="1010010001" rhyme="3" line_length="10">sama klesám dnes v svěcený tvůj klín.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0010010100" line_length="10">A s těch zkřivených ramen jabloně</l>
+     <l n="10" met="1010010100" rhyme="4" line_length="10">visí tajemně jako v kostele</l>
+     <l n="11" met="1010010100" line_length="10">lampa krvavá – nikdo nevidí,</l>
+     <l n="12" met="0010110100" rhyme="4" line_length="10">že mi její zář kane po čele.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

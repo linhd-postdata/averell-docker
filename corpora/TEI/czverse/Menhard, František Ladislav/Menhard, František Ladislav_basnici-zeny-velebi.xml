@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Básníci ženy velebí</title>
+    <author>Menhard, František Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Menhard, František Ladislav_basnici-zeny-velebi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Básníci ženy velebí</title>
+     <author>Menhard, František Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Básníci ženy velebí</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" line_length="8">Básníci ženy velebí </l>
+     <l n="2" met="01000100" rhyme="1" line_length="8">a rovnají je květinám;</l>
+     <l n="3" met="01000100" line_length="8">já nepatrný veršovec</l>
+     <l n="4" met="01000100" rhyme="1" line_length="8">jen k lianám je přirovnám.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000100" line_length="8">Než s lianou je nemohu</l>
+     <l n="6" met="10010100" rhyme="2" line_length="8">porovnat s jinou rostlinou –</l>
+     <l n="7" met="01010100" line_length="8">ať hůlka, bidlo, poleno:</l>
+     <l n="8" met="10010100" rhyme="2" line_length="8">ony se o vše „ovinou“!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

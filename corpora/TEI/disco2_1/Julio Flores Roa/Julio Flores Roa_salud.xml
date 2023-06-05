@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>¡Salud!</title>
+    <author>Julio Flores Roa</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Julio Flores Roa_salud</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>¡Salud!</title>
+     <author>Julio Flores Roa</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>¡Salud!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="--+--+---+-">Para no darme cuenta de la vida,</l>
+     <l n="2" met="++-+-+---+-">hoy vivo en un constante aturdimiento:</l>
+     <l n="3" met="-+++---+-+-">así no lloro la ilusión perdida,</l>
+     <l n="4" met="-+++-+---+-">así no sufro el mal del pensamiento.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+++-">Así las horas de pesar no cuento,</l>
+     <l n="6" met="-+---+-+-+-">ni me hace sollozar la doble herida</l>
+     <l n="7" met="-+-+-+---+-">que tú dejaste en mi alma dolorida</l>
+     <l n="8" met="---+---+-+-">y en mi profundo corazón sangriento.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+-+++--+-">Ves, mi copa está llena; alzo mi copa</l>
+     <l n="10" met="-+---++--+-">y bebo a tu salud... Huye la pena,</l>
+     <l n="11" met="+--+---+-+-">surgen los sueños como alada tropa.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+-+-+-">Todo pasa de prisa... muy de prisa...</l>
+     <l n="13" met="-+-+---+-+-">y soy feliz: ante la copa llena,</l>
+     <l n="14" met="-+---+-+-+-">el gesto del dolor se cambia en risa.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

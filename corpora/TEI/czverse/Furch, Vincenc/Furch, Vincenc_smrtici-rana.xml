@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Smrtící rána.</title>
+    <author>Furch, Vincenc</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Furch, Vincenc_smrtici-rana</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Smrtící rána.</title>
+     <author>Furch, Vincenc</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Smrtící rána.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101001100010" rhyme="1" line_length="12">Chrabrý bojovník smrt od onoho vzývá,</l>
+     <l n="2" met="100010100100" rhyme="1" line_length="12">Kterýžto mu býval nejdražší za živa.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="001000101010" rhyme="2" line_length="12">Též se potýkalo dlouho srdce moje,</l>
+     <l n="4" met="010010010010" rhyme="2" line_length="12">Též poslední vzalo tu odměnu boje.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="010000100010" rhyme="3" line_length="12">Už mnohonásobně raněna sem byla:</l>
+     <l n="6" met="001000101000" rhyme="3" line_length="12">Tu mě nejmilejší ruka dorazila.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

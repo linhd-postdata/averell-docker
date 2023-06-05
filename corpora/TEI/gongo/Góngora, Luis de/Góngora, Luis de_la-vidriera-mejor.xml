@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La vidrïera mejor</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">7</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_la-vidriera-mejor</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La vidrïera mejor</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La vidrïera mejor</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="---+--+-" line_length="8">La vidrïera mejor</l>
+     <l n="2" met="--+---+-" line_length="8">en sus brazos de cristal</l>
+     <l n="3" met="+-++--+-" line_length="8">entra al Sol, hoy, celestial</l>
+     <l n="4" met="---+--+-" line_length="8">en la capilla mayor,</l>
+     <l n="5" met="-----+-" line_length="7">a cuyo resplandor,</l>
+     <l n="6" met="--++-+-" line_length="7">sin que más luz espere,</l>
+     <l n="7" met="-++-+-+-+-" line_length="10">Simeón fénix arde y cisne muere.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

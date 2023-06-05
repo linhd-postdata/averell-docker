@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Konvalinko, kytko má,</title>
+    <author>Holý, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Holý, Josef_konvalinko-kytko-ma</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Konvalinko, kytko má,</title>
+     <author>Holý, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Konvalinko, kytko má,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101" rhyme="1" line_length="7">Konvalinko, kytko má, </l>
+     <l n="2" met="010100" rhyme="2" line_length="6">ty pěkná, bělounká,</l>
+     <l n="3" met="1000100" rhyme="1" line_length="7">na jaře tě trhává</l>
+     <l n="4" met="110100" rhyme="2" line_length="6">má zlatá panenka,</l>
+     <l n="5" met="1000101" rhyme="1" line_length="7">konvalinko, kytko má!</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="1000100" rhyme="3" line_length="7">Do lesa s ní pojuchám</l>
+     <l n="7" met="10001000" rhyme="4" line_length="8">přes cesty i necestičky,</l>
+     <l n="8" met="10101000" rhyme="4" line_length="8">budem trhat do kytičky,</l>
+     <l n="9" met="1000010000" rhyme="3" line_length="10">konvalinka sem, konvalinka tam.</l>
+    </lg>
+    <lg n="3">
+     <l n="10" met="10100010100" rhyme="5" line_length="11">Jednu na klobouček, jednu do pasu,</l>
+     <l n="11" met="100110000" rhyme="6" line_length="9">do rukou dvě, do šněrování,</l>
+     <l n="12" met="10100" rhyme="5" line_length="5">jednu do vlasu.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1000100" rhyme="7" line_length="7">Panenka se schovává,</l>
+     <l n="14" met="1010" rhyme="6" line_length="4">za ní, za ní!</l>
+    </lg>
+    <lg n="5">
+     <l n="15" met="1000101" rhyme="7" line_length="7">Konvalinko, kytko má!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

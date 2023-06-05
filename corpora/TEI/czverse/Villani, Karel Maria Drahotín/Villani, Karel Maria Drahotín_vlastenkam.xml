@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vlastenkám.</title>
+    <author>Villani, Karel Maria Drahotín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Villani, Karel Maria Drahotín_vlastenkam</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vlastenkám.</title>
+     <author>Villani, Karel Maria Drahotín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vlastenkám.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Česká země – krásná země,</l>
+     <l n="2" met="1000100" rhyme="2" line_length="7">Nejkrásnější z vlastí všech,</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">Chová v lůně statné plémě,</l>
+     <l n="4" met="1000101" rhyme="2" line_length="7">Věrností svou slyne Čech.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001000" rhyme="3" line_length="8">V Čechách jsem se narodila,</l>
+     <l n="6" met="1010101" rhyme="4" line_length="7">Také stálost, věrnost znám;</l>
+     <l n="7" met="10110010" rhyme="3" line_length="8">Česká zem i mně je milá,</l>
+     <l n="8" met="0010101" rhyme="4" line_length="7">Já též české srdce mám.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101100" rhyme="5" line_length="8">Vroucně drahou vlast milujme,</l>
+     <l n="10" met="1000101" rhyme="6" line_length="7">Jazyk náš nám svatým sluj;</l>
+     <l n="11" met="10101010" rhyme="5" line_length="8">Při svém rodu věrně stůjme,</l>
+     <l n="12" met="1010100" rhyme="6" line_length="7">Češka Čecha pomiluj!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

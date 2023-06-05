@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Rukopisy.</title>
+    <author>Karas, Josef František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Karas, Josef František_rukopisy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Rukopisy.</title>
+     <author>Karas, Josef František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Rukopisy.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010100" line_length="11">Věřme, že je peklo, nic to nestojí,</l>
+     <l n="2" met="1001101010" rhyme="1" line_length="10">věřme, že čert z lidí kůži loupe,</l>
+     <l n="3" met="10100010000" line_length="11">věřme ve strašidla, v rukopisy též,</l>
+     <l n="4" met="1001101010" rhyme="1" line_length="10">vůbec v co chcem, je to stejně hloupé.</l>
+     <l n="5" met="10010010100" line_length="11">Pravda je, že nic ta víra nestojí,</l>
+     <l n="6" met="1010011010" rhyme="2" line_length="10">hloupým zvykům tak rád člověk hoví</l>
+     <l n="7" met="10101000110" line_length="11">a pak naši „věrozvěsti“, ti i ti</l>
+     <l n="8" met="1010101010" rhyme="2" line_length="10">v kalných vodách rádi občas loví.</l>
+     <l n="9" met="00101010100" line_length="11">Proč jim nepřát, nic to přece nestojí –</l>
+     <l n="10" met="0010100010" rhyme="3" line_length="10">proč si něčím otravovat žití:</l>
+     <l n="11" met="10101010100" line_length="11">u nás v modě, jinde asi nešlo by</l>
+     <l n="12" met="1000101010" rhyme="3" line_length="10">rybou dnes a zítra rakem býti.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

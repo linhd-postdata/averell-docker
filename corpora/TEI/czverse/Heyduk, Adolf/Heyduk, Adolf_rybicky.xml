@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Rybičky.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_rybicky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Rybičky.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Rybičky.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" line_length="6">Rybičky, rybičky,</l>
+     <l n="2" met="100100" rhyme="1" line_length="6">z dálky vy plaváte;</l>
+     <l n="3" met="000100" line_length="6">jest-li pak miláčka</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">mého také znáte.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="001000" line_length="6">On je myslivečkem,</l>
+     <l n="6" met="101000" rhyme="2" line_length="6">střelil do srnečka,</l>
+     <l n="7" met="101000" line_length="6">střelil do holoubka –</l>
+     <l n="8" met="100100" rhyme="2" line_length="6">do mého srdéčka.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100100" line_length="6">Povězte rybičky,</l>
+     <l n="10" met="000100" rhyme="3" line_length="6">jest-li se nesouží,</l>
+     <l n="11" met="000010" line_length="6">jest-li mu ta láska</l>
+     <l n="12" met="100100" rhyme="3" line_length="6">srdéčko neouží.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="000100" line_length="6">„My jsme ho viděly,</l>
+     <l n="14" met="101000" rhyme="4" line_length="6">nebyl utrápený;</l>
+     <l n="15" met="101010" line_length="6">ležel v čisté vodě</l>
+     <l n="16" met="101000" rhyme="4" line_length="6">tiše – utopený.”</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

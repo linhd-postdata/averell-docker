@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Veuve</title>
+    <author>Anatole France</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Anatole France_la-veuve</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Veuve</title>
+     <author>Anatole France</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Veuve</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Celle à qui rien n'est plus, dont le cœur était sûr,</l>
+     <l n="2" rhyme="b" line_length="6+6">Songe en son deuil : depuis qu'à ses hanches altières</l>
+     <l n="3" rhyme="b" line_length="6+6">Le veuvage a noué les sombres cordelières,</l>
+     <l n="4" rhyme="a" line_length="6+6">Son front, tel que son sort, est immuable et dur.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Sous les fleurs de lys d'or et les guivres d'azur,</l>
+     <l n="6" rhyme="b" line_length="6+6">Elle goûte l'orgueil de ses douleurs dernières.</l>
+     <l n="7" rhyme="b" line_length="6+6">Près d'elle, les enfants, blonds, aux fraîches paupières,</l>
+     <l n="8" rhyme="a" line_length="6+6">Décrochent en jouant un heaume au long du mur.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Et les yeux de la dame, en la rouge vesprée.</l>
+     <l n="10" rhyme="c" line_length="6+6">Suivent d'une lueur froide et désespérée</l>
+     <l n="11" rhyme="d" line_length="6+6">Le bâtard de l'époux, cause des pleurs anciens.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Sans qu un soupir encor gonfle son noir corsage.</l>
+     <l n="13" rhyme="d" line_length="6+6">Elle songe qu'il est plus brave que les siens,</l>
+     <l n="14" rhyme="e" line_length="6+6">Et qu'il lui fut volé, ce fils au fier visage.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

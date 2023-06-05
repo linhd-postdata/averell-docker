@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nový Mozart.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_novy-mozart</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nový Mozart.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nový Mozart.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="001000100" rhyme="1" line_length="9">Náš on Mozart? – Jak! vždyť operu</l>
+     <l n="2" met="10001000100" rhyme="1" line_length="11">při prvním mu vysyčeli večeru.</l>
+     <l n="3" met="101010100" rhyme="2" line_length="9">Právě proto! Vždyť též bezděky</l>
+     <l n="4" met="100010100" rhyme="2" line_length="9">requiem si napsal na věky.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

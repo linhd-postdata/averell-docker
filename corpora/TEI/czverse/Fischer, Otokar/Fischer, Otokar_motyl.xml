@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MOTÝL</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_motyl</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MOTÝL</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MOTÝL</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" rhyme="1" line_length="11">Já stiskl hruď. Neb mrtvých pochyb můra,</l>
+     <l n="2" met="1100010100" rhyme="2" line_length="10">z tmy vyplašena, sedla na srdce.</l>
+     <l n="3" met="01010100010" rhyme="1" line_length="11">Tu tvého hlasu perlící se šňůra</l>
+     <l n="4" met="0100000100" rhyme="2" line_length="10">se rozkutálela mi po ruce.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11010101010" rhyme="3" line_length="11">Rte sladkých slov, můj smíre, slibe, smíšku,</l>
+     <l n="6" met="1100010100" rhyme="4" line_length="10">sne bez mámení, touho nevinná,</l>
+     <l n="7" met="01010101010" rhyme="3" line_length="11">jež zpěvně šla jsi za mnou v sráz i výšku,</l>
+     <l n="8" met="0101010100" rhyme="4" line_length="10">ty, slávou slunce zpita bez vína!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01110101010" rhyme="5" line_length="11">Já hlas mám rád, jenž můru v tmu zas plaší,</l>
+     <l n="10" met="1100010101" rhyme="6" line_length="10">smích miluji, když sad v mém srdci zpust,</l>
+     <l n="11" met="01010001010" rhyme="5" line_length="11">však motýl věčna se mi na dlaň snáší,</l>
+     <l n="12" met="0100010101" rhyme="6" line_length="10">když světlespící úsměv zřím tvých úst.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mým epigramům.</title>
+    <author>Písecký, Ferdinand</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Písecký, Ferdinand_mym-epigramum</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mým epigramům.</title>
+     <author>Písecký, Ferdinand</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mým epigramům.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10000" rhyme="1" line_length="5">Epigrámku můj,</l>
+     <l n="2" met="10101" rhyme="1" line_length="5">vždycky při mně stůj.</l>
+     <l n="3" met="00101010" rhyme="2" line_length="8">Co mě mrzí, co mě svrbí,</l>
+     <l n="4" met="10010010" rhyme="2" line_length="8">nešeptám do staré vrby.</l>
+     <l n="5" met="10101010" rhyme="3" line_length="8">Tobě všecko povím zticha</l>
+     <l n="6" met="10001010" rhyme="3" line_length="8">a hned se mi lehčej dýchá.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

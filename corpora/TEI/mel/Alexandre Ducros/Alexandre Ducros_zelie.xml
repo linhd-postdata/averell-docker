@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Zélie</title>
+    <author>Alexandre Ducros</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alexandre Ducros_zelie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Zélie</title>
+     <author>Alexandre Ducros</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Zélie</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Celle à qui j'ai voué toute mon existence,</l>
+     <l n="2" rhyme="b" line_length="6+6">Comme l'étoile d'or qui brille au front des cieux</l>
+     <l n="3" rhyme="a" line_length="6+6">Est trop haut, loin de moi, je l'adore en silence,</l>
+     <l n="4" rhyme="b" line_length="6+6">Et ma bouche jamais ne lui dira mes vœux ;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Elle ne saura pas de quel amour immense</l>
+     <l n="6" rhyme="b" line_length="6+6">Je voudrais entourer son destin glorieux ;</l>
+     <l n="7" rhyme="a" line_length="6+6">Elle n'entendra pas le cri de ma démence,</l>
+     <l n="8" rhyme="b" line_length="6+6">Elle ne verra pas les larmes de mes yeux !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Ses jours seront comptés par des bonheurs sans nombre.</l>
+     <l n="10" rhyme="c" line_length="6+6">Les miens, comme une fleur, se faneront dans l'ombre ;</l>
+     <l n="11" rhyme="d" line_length="6+6">Elle vivra bénie, heureuse, sans remord ;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Triste, je m'en irai vers le sombre domaine</l>
+     <l n="13" rhyme="d" line_length="6+6">Où pour l'éternité toute douleur s'endort ;</l>
+     <l n="14" rhyme="e" line_length="6+6">Sans la lui dire, hélas ! je mourrai de ma peine</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

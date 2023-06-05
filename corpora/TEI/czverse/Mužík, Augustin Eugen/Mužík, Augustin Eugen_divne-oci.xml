@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>DIVNÉ OČI.</title>
+    <author>Mužík, Augustin Eugen</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mužík, Augustin Eugen_divne-oci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>DIVNÉ OČI.</title>
+     <author>Mužík, Augustin Eugen</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>DIVNÉ OČI.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010100101010" rhyme="1" line_length="12">Má milá, jaké to divné oči máte,</l>
+     <l n="2" met="001010101000" rhyme="1" line_length="12">že mně celou duši z těla vykoukáte?!</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="100010101010" rhyme="2" line_length="12">Není to mou vinou, je to soudem božím,</l>
+     <l n="4" met="010010101010" rhyme="2" line_length="12">když vykoukám vaši, svou zas do vás vložím.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

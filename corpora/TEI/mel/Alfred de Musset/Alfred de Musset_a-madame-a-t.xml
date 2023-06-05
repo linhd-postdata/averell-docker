@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Madame A. T.</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_a-madame-a-t</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Madame A. T.</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Madame A. T.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Qu’un jeune amour plein de mystère</l>
+     <l n="2" rhyme="b" line_length="8">Pardonne à la vieille amitié</l>
+     <l n="3" rhyme="a" line_length="8">D’avoir troublé son sanctuaire.</l>
+     <l n="4" rhyme="a" line_length="8">D’une belle âme qui m’est chère</l>
+     <l n="5" rhyme="b" line_length="8">Si j’ai jamais eu la moitié,</l>
+     <l n="6" rhyme="a" line_length="8">Je vous la lègue tout entière.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

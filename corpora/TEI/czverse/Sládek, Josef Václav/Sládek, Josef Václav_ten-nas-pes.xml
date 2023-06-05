@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ten náš pes.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_ten-nas-pes</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ten náš pes.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ten náš pes.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="001" rhyme="1" line_length="3">Ten náš pes,</l>
+     <l n="2" met="100" rhyme="1" line_length="3">skákal dnes,</l>
+     <l n="3" met="101010" rhyme="2" line_length="6">skákal také včera;</l>
+     <l n="4" met="100" rhyme="3" line_length="3">bude as</l>
+     <l n="5" met="100" rhyme="3" line_length="3">skákat zas</l>
+     <l n="6" met="101000" rhyme="2" line_length="6">zejtra do večera.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="100" rhyme="3" line_length="3">Pejsku náš,</l>
+     <l n="8" met="001" rhyme="3" line_length="3">co to máš,</l>
+     <l n="9" met="001010" rhyme="4" line_length="6">žes tak vesel stále?</l>
+     <l n="10" met="000" rhyme="5" line_length="3">„Řek’ bych vám,</l>
+     <l n="11" met="100" rhyme="5" line_length="3">nevím sám –</l>
+     <l n="12" met="001010" rhyme="4" line_length="6">hop!“ – a skákal dále.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

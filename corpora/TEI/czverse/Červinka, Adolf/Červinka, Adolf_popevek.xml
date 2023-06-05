@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>POPĚVEK.</title>
+    <author>Červinka, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červinka, Adolf_popevek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>POPĚVEK.</title>
+     <author>Červinka, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>POPĚVEK.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" rhyme="1" line_length="6">Dýmem svých cigaret</l>
+     <l n="2" met="100101" rhyme="1" line_length="6">vesel se dívám v svět,</l>
+     <l n="3" met="100100" line_length="6">na retu, Hâfizi,</l>
+     <l n="4" met="10110" rhyme="2" line_length="5">s písní jdu tvojí,</l>
+     <l n="5" met="100100" line_length="6">pravda je ve víně,</l>
+     <l n="6" met="10110" rhyme="2" line_length="5">které žal hojí.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="101100" rhyme="3" line_length="6">Básník spí s břečťany,</l>
+     <l n="8" met="010100" rhyme="3" line_length="6">já někdy s vřešťany,</l>
+     <l n="9" met="100100" line_length="6">doufám však, mistře můj,</l>
+     <l n="10" met="10010" rhyme="4" line_length="5">moudrosti kámen</l>
+     <l n="11" met="010100" line_length="6">že najdu v sklenici</l>
+     <l n="12" met="10010" rhyme="4" line_length="5">vína, v níž plamen!</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="100100" rhyme="5" line_length="6">Džungle jak tajemná</l>
+     <l n="14" met="100101" rhyme="5" line_length="6">hrdlo mé nemá dna,</l>
+     <l n="15" met="100100" line_length="6">krčmář ho naplní</l>
+     <l n="16" met="10010" rhyme="6" line_length="5">bez dlouhých řečí,</l>
+     <l n="17" met="010101" line_length="6">co na tom, že můj řád</l>
+     <l n="18" met="01010" rhyme="6" line_length="5">je zase větší!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

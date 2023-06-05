@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Večerní pobožnost.</title>
+    <author>Martinec, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Martinec, Jaroslav_vecerni-poboznost</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Večerní pobožnost.</title>
+     <author>Martinec, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Večerní pobožnost.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101010" rhyme="1" line_length="8">Když má milá na mne hledí,</l>
+     <l n="2" met="00101000" rhyme="1" line_length="8">jest mi jako u zpovědi,</l>
+     <l n="3" met="00100010" rhyme="2" line_length="8">a k mým retům když se sklání,</l>
+     <l n="4" met="00110000" rhyme="2" line_length="8">jak bych šel ku přijímání.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

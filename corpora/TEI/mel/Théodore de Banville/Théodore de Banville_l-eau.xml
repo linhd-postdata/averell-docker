@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L'Eau</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_l-eau</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L'Eau</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L'Eau</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Jeanne en riant marchait dans l'Eau,</l>
+     <l n="2" rhyme="b" line_length="8">Baignant au flot sa jambe nue.</l>
+     <l n="3" rhyme="b" line_length="8">Sur cette blancheur inconnue</l>
+     <l n="4" rhyme="a" line_length="8">Frissonnait l'ombre d'un bouleau.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">L'alouette par un solo</l>
+     <l n="6" rhyme="b" line_length="8">Vint célébrer sa bienvenue ;</l>
+     <l n="7" rhyme="a" line_length="8">Jeanne en riant marchait dans l'Eau,</l>
+     <l n="8" rhyme="b" line_length="8">Baignant au flot sa jambe nue.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Lorsque sur le front d'Apollo</l>
+     <l n="10" rhyme="b" line_length="8">Se déchirait soudain la nue,</l>
+     <l n="11" rhyme="b" line_length="8">Elle folâtrait, l'ingénue,</l>
+     <l n="12" rhyme="a" line_length="8">O gracieux et clair tableau !</l>
+     <l n="13" rhyme="a" line_length="8">Jeanne en riant marchait dans l'Eau.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

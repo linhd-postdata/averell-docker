@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>TOUHA.</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">25</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_touha</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>TOUHA.</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>TOUHA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0" line_length="1">Tvým!</l>
+     <l n="2" met="01001100" line_length="8">toť touhy mé sen nejsladší,</l>
+     <l n="3" met="0101010" rhyme="1" line_length="7">to plamen, jenž mě sžírá;</l>
+     <l n="4" met="01" line_length="2">to stesk,</l>
+     <l n="5" met="0101000" rhyme="1" line_length="7">jenž nikdy neumírá.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="0" line_length="1">Tvým!</l>
+     <l n="7" met="01010100" line_length="8">Když srdce musí milovat,</l>
+     <l n="8" met="0101000" rhyme="2" line_length="7">je tobě zapaluji;</l>
+     <l n="9" met="01" line_length="2">tys ráj,</l>
+     <l n="10" met="0101000" rhyme="2" line_length="7">kam běh svůj naměřuji.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="0" line_length="1">Tvým!</l>
+     <l n="12" met="01010000" line_length="8">Je tobě posvěceno vše,</l>
+     <l n="13" met="0100010" rhyme="3" line_length="7">nic nenazývám svojím;</l>
+     <l n="14" met="01" line_length="2">bys chtěl,</l>
+     <l n="15" met="0101010" rhyme="3" line_length="7">se v hloubi duše bojím.</l>
+    </lg>
+    <lg n="4">
+     <l n="16" met="0" line_length="1">Tvým!</l>
+     <l n="17" met="01000100" line_length="8">tož oltářem i obětí,</l>
+     <l n="18" met="0101000" rhyme="4" line_length="7">kam patříš, Usmívavý;</l>
+     <l n="19" met="10" line_length="2">ach, být</l>
+     <l n="20" met="0100010" rhyme="4" line_length="7">jen stupínkem tvé slávy.</l>
+    </lg>
+    <lg n="5">
+     <l n="21" met="0" line_length="1">Tvým!</l>
+     <l n="22" met="01010100" line_length="8">to meta sladce vábivá,</l>
+     <l n="23" met="0101010" rhyme="5" line_length="7">a tryskem dnů tak blízká;</l>
+     <l n="24" met="01" line_length="2">to smrt,</l>
+     <l n="25" met="0101010" rhyme="5" line_length="7">z níž věčnost Lásky tryská.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

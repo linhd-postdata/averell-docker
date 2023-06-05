@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dr. K. KRAMÁŘ.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_dr-k-kramar</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dr. K. KRAMÁŘ.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dr. K. KRAMÁŘ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100" rhyme="1" line_length="7">Karel Kramář – jenerál,</l>
+     <l n="2" met="0010100" rhyme="1" line_length="7">by ho člověk pohledal!</l>
+     <l n="3" met="100110" rhyme="2" line_length="6">Jedinou má vadu:</l>
+     <l n="4" met="011010" rhyme="2" line_length="6">že má oči v zadu.</l>
+     <l n="5" met="1010000" rhyme="3" line_length="7">Kdyby viděl vpřed jak vzad,</l>
+     <l n="6" met="1010100" rhyme="3" line_length="7">krále měl by Vyšehrad...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

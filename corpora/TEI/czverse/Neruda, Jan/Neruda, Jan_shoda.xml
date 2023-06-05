@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SHODA</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_shoda</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SHODA</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SHODA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010101000" rhyme="1" line_length="13">Pod stromem muž si s mužem tuze naříkali,</l>
+     <l n="2" met="0101010" rhyme="2" line_length="7">že žena zřídka věrna.</l>
+     <l n="3" met="1001010001000" rhyme="1" line_length="13">Na stromě špaček s havranem se křížovali,</l>
+     <l n="4" met="0100010" rhyme="2" line_length="7">že vrána je tak černa.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

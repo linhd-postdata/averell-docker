@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>U splavu.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_u-splavu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>U splavu.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>U splavu.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101" rhyme="1" line_length="7">U mlýnského splavu stál,</l>
+     <l n="2" met="100010" rhyme="2" line_length="6">do vody se díval,</l>
+     <l n="3" met="1000100" rhyme="1" line_length="7">kdyby si byl nestýskal,</l>
+     <l n="4" met="100010" rhyme="2" line_length="6">býval by si zpíval.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1000100" line_length="7">Mlynářova dceruška</l>
+     <l n="6" met="101010" rhyme="3" line_length="6">kolem šla, – ten šíbal! –</l>
+     <l n="7" met="1000100" line_length="7">kdyby si byl pospíšil,</l>
+     <l n="8" met="100010" rhyme="3" line_length="6">býval by ji líbal.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0010100" line_length="7">Tak mu láska utekla,</l>
+     <l n="10" met="100010" rhyme="2" line_length="6">se splavu jak příval. –</l>
+     <l n="11" met="1010100" line_length="7">Celý život vzpomínal:</l>
+     <l n="12" met="100010" rhyme="2" line_length="6">Kdybych byl jen býval!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

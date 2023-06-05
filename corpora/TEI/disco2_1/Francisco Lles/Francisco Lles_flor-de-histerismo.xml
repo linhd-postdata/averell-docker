@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Flor de histerismo</title>
+    <author>Francisco Lles</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco Lles_flor-de-histerismo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Flor de histerismo</title>
+     <author>Francisco Lles</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Flor de histerismo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+---+-">Conoces tú la historia del viandante</l>
+     <l n="2" met="--+--+---+-">que dejara en las rocas del camino</l>
+     <l n="3" met="--+--+---+-">sus sandalias de oscuro peregrino</l>
+     <l n="4" met="--+--+---+-">y su trágico amor de trashumante.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++---+---+-">Tú sabes como huyó de la alquería,</l>
+     <l n="6" met="+----+-+-+-">sabes porque su vida noble y franca</l>
+     <l n="7" met="---+---+-+-">abandonara la casita blanca,</l>
+     <l n="8" met="-+---+---+-">paloma de la agreste serranía.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+---+++-">Tú le conoces, tu piedad le espera,</l>
+     <l n="10" met="--++-+---+-">tu piedad que es gloriosa primavera</l>
+     <l n="11" met="+----+---+-">tiene, para el errante caballero,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+-+-+-">pereza de jardín, rumor de fuente,</l>
+     <l n="13" met="--+--+---+-">milagrosa frescura de torrente</l>
+     <l n="14" met="---+-+---+-">y campesina calma de sendero.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

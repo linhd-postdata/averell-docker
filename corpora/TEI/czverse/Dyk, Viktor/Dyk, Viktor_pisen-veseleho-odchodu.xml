@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PÍSEŇ VESELÉHO ODCHODU</title>
+    <author>Dyk, Viktor</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dyk, Viktor_pisen-veseleho-odchodu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PÍSEŇ VESELÉHO ODCHODU</title>
+     <author>Dyk, Viktor</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PÍSEŇ VESELÉHO ODCHODU</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101" rhyme="1" line_length="8">Ne, nemám, proč se strachem chvít,</l>
+     <l n="2" met="0101010" rhyme="2" line_length="7">a nemám, co bych hlídal.</l>
+     <l n="3" met="10010101" rhyme="1" line_length="8">Na stráni nutká Prokšů Vít</l>
+     <l n="4" met="1001010" rhyme="2" line_length="7">pomalou kravku „Jdi dál“.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000101" rhyme="3" line_length="8">Ta přes Vítův se šourá lán,</l>
+     <l n="6" met="0101010" rhyme="4" line_length="7">a pluh ten vleče polem.</l>
+     <l n="7" met="01010101" rhyme="3" line_length="8">Já chodím jako Kristus Pán</l>
+     <l n="8" met="0101010" rhyme="4" line_length="7">a káži lidem kolem.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" rhyme="5" line_length="8">Mně vzchází jitra růžová,</l>
+     <l n="10" met="1100010" rhyme="6" line_length="7">kraj daleký mne vítá.</l>
+     <l n="11" met="01010100" rhyme="5" line_length="8">Já bral jsem příliš doslova</l>
+     <l n="12" met="0101010" rhyme="6" line_length="7">to „Jdi dál“ Prokšů Víta.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

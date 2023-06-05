@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>bez konce</title>
+    <author>Neumann, Stanislav Kostka</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neumann, Stanislav Kostka_bez-konce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>bez konce</title>
+     <author>Neumann, Stanislav Kostka</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>bez konce</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" rhyme="1" line_length="8">v otevřené rány žalu</l>
+     <l n="2" met="10101010" rhyme="2" line_length="8">úsměv luny sněží hebce.</l>
+     <l n="3" met="10001000" rhyme="1" line_length="8">po třeskutém intervalu</l>
+     <l n="4" met="10101010" rhyme="2" line_length="8">něha opět vánkem šepce.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001000" rhyme="3" line_length="8">milosrdná zahradnice</l>
+     <l n="6" met="10001010" rhyme="4" line_length="8">na hřbitově sází kvítí;</l>
+     <l n="7" met="10101000" rhyme="3" line_length="8">vzlétla bílá holubice</l>
+     <l n="8" met="10001010" rhyme="4" line_length="8">zpod ruky, jež měkce svítí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" rhyme="5" line_length="8">choré srdce sotva dýše,</l>
+     <l n="10" met="10101000" rhyme="6" line_length="8">choré srdce na kolenou:</l>
+     <l n="11" met="00100010" rhyme="5" line_length="8">je to paprsek jen z výše,</l>
+     <l n="12" met="10100100" rhyme="6" line_length="8">po níž beránci se ženou?</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="00101010" rhyme="7" line_length="8">je to přelud, rozmar chvíle</l>
+     <l n="14" met="10101000" rhyme="8" line_length="8">nebo posel vykoupení?</l>
+     <l n="15" met="10001010" rhyme="7" line_length="8">– pro žebráka z černé míle</l>
+     <l n="16" met="10100010" rhyme="8" line_length="8">není odpočinku, není...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

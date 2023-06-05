@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Matin</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_le-matin</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Matin</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Matin</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Lorsque s'éveille le Matin</l>
+     <l n="2" rhyme="b" line_length="8">Au Luxembourg encor désert,</l>
+     <l n="3" rhyme="b" line_length="8">En chantant dans le gazon vert</l>
+     <l n="4" rhyme="a" line_length="8">Les oiselets font leur festin.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Les feuilles sont comme un satin</l>
+     <l n="6" rhyme="b" line_length="8">Des larmes de la nuit couvert,</l>
+     <l n="7" rhyme="a" line_length="8">Lorsque s'éveille le Matin</l>
+     <l n="8" rhyme="b" line_length="8">Au Luxembourg encor désert.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Le moineau du quartier Latin,</l>
+     <l n="10" rhyme="b" line_length="8">Pour qui se donne le concert,</l>
+     <l n="11" rhyme="b" line_length="8">A des miettes pour son dessert,</l>
+     <l n="12" rhyme="a" line_length="8">Et folâtre comme un lutin</l>
+     <l n="13" rhyme="a" line_length="8">Lorsque s'éveille le Matin.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

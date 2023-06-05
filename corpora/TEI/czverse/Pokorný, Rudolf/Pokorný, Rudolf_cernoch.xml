@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Černoch.</title>
+    <author>Pokorný, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný, Rudolf_cernoch</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Černoch.</title>
+     <author>Pokorný, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Černoch.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101000" rhyme="1" line_length="9">Pro národ prsa rozjizvená</l>
+     <l n="2" met="100101000" rhyme="1" line_length="9">pojedu léčit do Berlína,</l>
+     <l n="3" met="00101010" rhyme="2" line_length="8">kam mi věrná moje žena</l>
+     <l n="4" met="10101010" rhyme="2" line_length="8">pošle ob čas otep sena,</l>
+     <l n="5" met="01001000" rhyme="3" line_length="8">bych nedělal v politice</l>
+     <l n="6" met="10001000" rhyme="3" line_length="8">separátní kotrmelce.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

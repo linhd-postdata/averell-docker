@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Na starého marnílka.</title>
+    <author>Hajniš, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hajniš, František_na-stareho-marnilka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Na starého marnílka.</title>
+     <author>Hajniš, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Na starého marnílka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100" rhyme="1" line_length="7">Ejhle, starý mládenec!</l>
+     <l n="2" met="0100100" rhyme="1" line_length="7">Sem bodláčí na věnec;</l>
+     <l n="3" met="00100010" rhyme="2" line_length="8">Jak se chlubí tou svou ctností,</l>
+     <l n="4" met="00101000" rhyme="2" line_length="8">Když se nažil do sytosti,</l>
+     <l n="5" met="0010100" rhyme="1" line_length="7">Ať se modlí růženec!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

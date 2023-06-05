@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dostaveníčko.</title>
+    <author>Cajthaml-Liberté, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cajthaml-Liberté, František_dostavenicko</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dostaveníčko.</title>
+     <author>Cajthaml-Liberté, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dostaveníčko.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100101" line_length="9">Bylo mi tentokrát dvacet let –</l>
+     <l n="2" met="01010010" rhyme="1" line_length="8">a junák rostlý jak svíce,</l>
+     <l n="3" met="000100100" line_length="9">když jsem se zadíval dívence</l>
+     <l n="4" met="10010010" rhyme="1" line_length="8">do očí trošičku více.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100100" line_length="9">– Zítra se shledáme v aleji –</l>
+     <l n="6" met="00010010" rhyme="2" line_length="8">tak jsme si slíbili spolu.</l>
+     <l n="7" met="010100100" line_length="9">Však „zítra“ vedli mne četníci</l>
+     <l n="8" met="10010010" rhyme="2" line_length="8">do krajské trestnice dolů.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010010100" line_length="9">A večer, kde stinnou alejí</l>
+     <l n="10" met="10010010" rhyme="3" line_length="8">cesta se k trestnici točí,</l>
+     <l n="11" met="010100100" line_length="9">tam pro mne upřímně plakaly</l>
+     <l n="12" met="11010010" rhyme="3" line_length="8">dvě černé hluboké oči.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="010100100" line_length="9">Pak prchly týdny a měsíce,</l>
+     <l n="14" met="01010010" rhyme="4" line_length="8">mně bledly v žaláři líce,</l>
+     <l n="15" met="010010100" line_length="9">a oči, jež pro mne plakaly,</l>
+     <l n="16" met="00100010" rhyme="4" line_length="8">ty jsem neuviděl více...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

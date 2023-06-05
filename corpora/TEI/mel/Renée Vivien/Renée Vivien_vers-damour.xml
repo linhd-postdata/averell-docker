@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VERS D’AMOUR</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_vers-damour</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VERS D’AMOUR</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VERS D’AMOUR</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Tu gardes dans tes yeux la volupté des nuits,</l>
+     <l n="2" rhyme="b" line_length="6+6">Ô Joie inespérée au fond des solitudes !</l>
+     <l n="3" rhyme="a" line_length="6+6">Ton baiser est pareil à la saveur des fruits</l>
+     <l n="4" rhyme="b" line_length="6+6">Et ta voix fait songer aux merveilleux préludes</l>
+     <l n="5" rhyme="a" line_length="6+6">Murmurés par la mer à la beauté des nuits.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" rhyme="a" line_length="6+6">Tu portes sur ton front la langueur et l’ivresse,</l>
+     <l n="7" rhyme="b" line_length="6+6">Les serments éternels et les aveux d’amour,</l>
+     <l n="8" rhyme="a" line_length="6+6">Tu sembles évoquer la craintive caresse</l>
+     <l n="9" rhyme="b" line_length="6+6">Dont l’ardeur se dérobe à la clarté du jour</l>
+     <l n="10" rhyme="a" line_length="6+6">Et qui te laisse au front la langueur et l’ivresse.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

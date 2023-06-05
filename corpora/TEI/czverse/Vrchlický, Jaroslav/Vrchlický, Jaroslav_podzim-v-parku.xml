@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PODZIM V PARKU</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_podzim-v-parku</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PODZIM V PARKU</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PODZIM V PARKU</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010101010" rhyme="1" line_length="14">Chmurná jeseň šerým stínem v starý park se vkrádá,</l>
+     <l n="2" met="10001000101010" rhyme="1" line_length="14">na Flory a na Pomony žluté listí padá.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="10001010101000" rhyme="2" line_length="14">Pod severu chladným větrem rybník zimomřivý</l>
+     <l n="4" met="10001010101010" rhyme="2" line_length="14">chvěje se a čeří, zdouvá – vzdychnou staré jívy.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="10101010100010" rhyme="3" line_length="14">Celá vesna, celé léto loučí se v tom vzdechu,</l>
+     <l n="6" met="00101010100010" rhyme="3" line_length="14">než vše dozní v chvíli pozdní ve posledním echu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

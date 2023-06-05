@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Velada</title>
+    <author>Carlos Póo Urbach</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Carlos Póo Urbach_velada</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Velada</title>
+     <author>Carlos Póo Urbach</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Velada</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">En la blanca frialdad de la neblina</l>
+     <l n="2" met="-+---+---+-">su lívido semblante verde-plata</l>
+     <l n="3" met="-+-+-+---+-">la luna arropa, y tenue se retrata</l>
+     <l n="4" met="--+-+----+-">tras su manto de aérea muselina.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+---+-">Cuando en su curso agónico declina</l>
+     <l n="6" met="---+---+-+-">hacia el ocaso, su cendal desata,</l>
+     <l n="7" met="-+---+---+-">y el nítido sudario desbarata</l>
+     <l n="8" met="-+-+-+---+-">su luz que argenta y pálida ilumina.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">Filtrando el cortinaje de la bruma,</l>
+     <l n="10" met="-+-+-+---+-">en la onda azul, crenchada por la espuma</l>
+     <l n="11" met="---+-+---+-">al irisar sus últimos fulgores,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+---+-+-">copia del tedio abrumador el astro</l>
+     <l n="13" met="--+--+-+-+-">que al surgir en mi cielo, deja el rastro</l>
+     <l n="14" met="--+--+---+-">de su fúnebre brillo en mis amores.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

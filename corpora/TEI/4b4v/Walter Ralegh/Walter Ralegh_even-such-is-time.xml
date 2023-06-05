@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Even Such Is Time</title>
+    <author>Walter Ralegh</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Walter Ralegh_even-such-is-time</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>For Better For Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Even Such Is Time</title>
+     <author>Walter Ralegh</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Even Such Is Time</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="octave">
+     <l n="1" met="--+-+-+-+">Even such is time, which takes in trust</l>
+     <l n="2" met="-+-+-+-+">Our youth, our joys, and all we have,</l>
+     <l n="3" met="-+-+-+-+">And pays us but with age and dust;</l>
+     <l n="4" met="+--+-+-+">Who in the dark and silent grave</l>
+     <l n="5" met="-+-+-+-+">When we have wandered all our ways</l>
+     <l n="6" met="++-+---+">Shuts up the story of our days;</l>
+     <l n="7" met="-+-+-+-+">And from which earth, and grave, and dust</l>
+     <l n="8" met="-+-+-+-+">The Lord shall raise me up, I trust.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

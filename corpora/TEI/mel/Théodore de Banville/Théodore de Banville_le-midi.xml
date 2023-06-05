@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Midi</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_le-midi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Midi</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Midi</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Je vais voir, quand il est Midi,</l>
+     <l n="2" rhyme="b" line_length="8">Les estampes du quai Voltaire,</l>
+     <l n="3" rhyme="b" line_length="8">Fragonard qui ne peut se taire,</l>
+     <l n="4" rhyme="a" line_length="8">Et Boucher toujours étourdi.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Debucourt est fort applaudi,</l>
+     <l n="6" rhyme="b" line_length="8">Boilly plaît au célibataire ;</l>
+     <l n="7" rhyme="a" line_length="8">Je vais voir, quand il est Midi,</l>
+     <l n="8" rhyme="b" line_length="8">Les estampes du quai Voltaire.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Mais Wateau, nautonier hardi,</l>
+     <l n="10" rhyme="b" line_length="8">C'est toi surtout, cœur solitaire,</l>
+     <l n="11" rhyme="b" line_length="8">C'est toi qu'en la triste Cythère</l>
+     <l n="12" rhyme="a" line_length="8">Où ton soleil a resplendi,</l>
+     <l n="13" rhyme="a" line_length="8">Je vais voir, quand il est Midi.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

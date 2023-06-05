@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>1. Měsíček na nebi svítí,</title>
+    <author>Nebeský, Václav Bolemír</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nebeský, Václav Bolemír_1-mesicek-na-nebi-sviti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>1. Měsíček na nebi svítí,</title>
+     <author>Nebeský, Václav Bolemír</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>1. Měsíček na nebi svítí,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010" line_length="8">Měsíček na nebi svítí, </l>
+     <l n="2" met="10100100" rhyme="1" line_length="8">Světlo v údolí v okénku;</l>
+     <l n="3" met="10100100" line_length="8">A já tiše si zpomínám</l>
+     <l n="4" met="10100100" rhyme="1" line_length="8">Na mou nemocnou milenku.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101000" line_length="8">Světlo zhaslo; přes měsíček</l>
+     <l n="6" met="10100100" rhyme="2" line_length="8">Černé mračno se přehání</l>
+     <l n="7" met="01000100" line_length="8">A přes duši mou tesklivou</l>
+     <l n="8" met="10101000" rhyme="2" line_length="8">Tiché smrti předzvídání.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

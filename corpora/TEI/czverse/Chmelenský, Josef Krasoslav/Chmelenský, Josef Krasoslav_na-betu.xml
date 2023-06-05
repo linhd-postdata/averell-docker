@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Na Bětu.</title>
+    <author>Chmelenský, Josef Krasoslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Chmelenský, Josef Krasoslav_na-betu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Na Bětu.</title>
+     <author>Chmelenský, Josef Krasoslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Na Bětu.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100101010" rhyme="1" line_length="10">Že za Bětou hoši nejdou, z toho</l>
+     <l n="2" met="1010001010" rhyme="1" line_length="10">Nesmíš, příteli! hned soudit, mnoho</l>
+     <l n="3" met="0100100" rhyme="2" line_length="7">Že nemusí na ni být.</l>
+     <l n="4" met="0101001010" rhyme="3" line_length="10">Když, až jí na hlavu bláto lítá,</l>
+     <l n="5" met="1010010010" rhyme="3" line_length="10">Sama vezdy se za nimi zmítá –</l>
+     <l n="6" met="1010101" rhyme="2" line_length="7">Pročby za ní měli jít?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

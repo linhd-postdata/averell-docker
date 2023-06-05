@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>BÁSNÍK.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_basnik</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>BÁSNÍK.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>BÁSNÍK.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010100" rhyme="1" line_length="10">Je básník jako včela z Hymettu,</l>
+     <l n="2" met="0101000100" rhyme="2" line_length="10">tu květu dotkne se a prchá hned,</l>
+     <l n="3" met="0100010100" rhyme="1" line_length="10">tam zastaví se v hravém přeletu,</l>
+     <l n="4" met="0101010101" rhyme="2" line_length="10">zde béře pel a onde ssaje med.</l>
+     <l n="5" met="1000100100" rhyme="1" line_length="10">Nad poupětem, nad růží v odkvetu</l>
+     <l n="6" met="1101010001" rhyme="2" line_length="10">dlí stejně rád jak dívčí by to ret;</l>
+     <l n="7" met="0100010100" rhyme="1" line_length="10">však žihadlo jak pouští v odvetu,</l>
+     <l n="8" met="0101010101" rhyme="2" line_length="10">tu jako včela ráně zmírá v sled.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Smrt.</title>
+    <author>Kamarýt, Josef Vlastimil</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">2</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kamarýt, Josef Vlastimil_smrt</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Smrt.</title>
+     <author>Kamarýt, Josef Vlastimil</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Smrt.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010001000100" line_length="15">Přijde Milek, zahodiv již prázdný toul i lučiště,</l>
+     <l n="2" met="1001001001001" line_length="13">Obrátí pochodeň. Má to je příteli, smrt.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

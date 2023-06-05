@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sonetos -- I</title>
+    <author>Miguel W. Garaycochea</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Miguel W. Garaycochea_sonetos-i</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sonetos -- I</title>
+     <author>Miguel W. Garaycochea</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sonetos -- I</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+-+-+-+-">¿No te ha buscado, Filis, un mancebo</l>
+     <l n="2" met="--+--+-+-+-">de gallarda presencia, rostro hermoso,</l>
+     <l n="3" met="--+--++--+-">halagüeño mirar, lindo y gracioso,</l>
+     <l n="4" met="+--+---+-+-">cual aparece por oriente Febo?</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--++--+-">Si a buscar tu beldad fuese de nuevo,</l>
+     <l n="6" met="-+-+++---+-">recíbele de un modo cariñoso,</l>
+     <l n="7" met="---+-+---+-">pues, aunque niño tierno y amoroso,</l>
+     <l n="8" met="+--+-+-+++-">es el terrible amor, decirte debo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+++---+-">Mi corazón te mando, entre tus manos,</l>
+     <l n="10" met="++-+-+--++-">cual una pira ardiendo en la cruel llama</l>
+     <l n="11" met="--+--+---+-">que prendieron tus ojos soberanos,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+-+-+-">que su quietud perdida te reclama;</l>
+     <l n="13" met="---+---+-+-">o que dejando los temores vanos</l>
+     <l n="14" met="+----+---+-">le ames en recompensa cuanto te ama.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

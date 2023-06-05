@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Cristóbal de León</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cristóbal de León_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Cristóbal de León</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+-+-+-">Del griego vemos hoy la lanza fiera,</l>
+     <l n="2" met="--+--+-+-+-">del troyano la fama muy abierta</l>
+     <l n="3" met="---+-+---+-">por sonorosa musa que despierta</l>
+     <l n="4" met="-+---+-+-+-">aquello que pasó y entonces era.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">Destos agora nunca se supiera</l>
+     <l n="6" met="+----+---+-">cosa que conociéramos por cierta,</l>
+     <l n="7" met="--+--+-+-+-">si la pluma de Homero fuera muerta,</l>
+     <l n="8" met="-----+-+-+-">y la del mantuano no viviera.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Obligados al uno los romanos,</l>
+     <l n="10" met="--+--+---+-">obligados al otro los argivos:</l>
+     <l n="11" met="-+-+-+---+-">oblíguense también a Castellanos</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+-+-+-">los varones en Indias más altivos.</l>
+     <l n="13" met="---+-+---+-">Pues con sus versos dulces y galanos</l>
+     <l n="14" met="+-+--+---+-">honran mucho los muertos y los vivos.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

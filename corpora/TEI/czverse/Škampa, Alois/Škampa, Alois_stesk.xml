@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Stesk.</title>
+    <author>Škampa, Alois</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Škampa, Alois_stesk</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Stesk.</title>
+     <author>Škampa, Alois</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Stesk.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1101010" rhyme="1" line_length="7">Hle, modrým okem dívá</l>
+     <l n="2" met="01000100" rhyme="2" line_length="8">se jaro k nám zas do oken</l>
+     <l n="3" met="0100010" rhyme="1" line_length="7">a trilkuje a zpívá</l>
+     <l n="4" met="01010100" rhyme="2" line_length="8">a svůdně láká z jizby ven,</l>
+     <l n="5" met="010101000" rhyme="3" line_length="9">kam úsměv jeho začtveračí –</l>
+     <l n="6" met="010001010" rhyme="3" line_length="9">hned rozplesá se píseň ptačí!</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="0100010" rhyme="4" line_length="7">Jak na výsluní kraje</l>
+     <l n="8" met="11010101" rhyme="5" line_length="8">luk zeleň vábná těší hled –</l>
+     <l n="9" met="0101010" rhyme="4" line_length="7">s tím sněhem jejich taje</l>
+     <l n="10" met="01010101" rhyme="5" line_length="8">též lidem v prsou starý led,</l>
+     <l n="11" met="010101000" rhyme="1" line_length="9">a každá duše zimomřivá</l>
+     <l n="12" met="100101000" rhyme="1" line_length="9">se v naděj opět rozehřívá.</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="0001010" rhyme="6" line_length="7">Jen mně je k smrti bědno,</l>
+     <l n="14" met="01000101" rhyme="7" line_length="8">a nevábí mne ples a smích,</l>
+     <l n="15" met="0101010" rhyme="6" line_length="7">když hrdé srdce jedno</l>
+     <l n="16" met="01010101" rhyme="7" line_length="8">tu pro mě má jen led a sníh</l>
+     <l n="17" met="010101000" rhyme="8" line_length="9">a pro mou lásku beznadějnou</l>
+     <l n="18" met="010101010" rhyme="8" line_length="9">jen stále chová zimu stejnou...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

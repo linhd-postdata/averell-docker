@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Stesk.</title>
+    <author>Klášterský, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Klášterský, Antonín_stesk</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Stesk.</title>
+     <author>Klášterský, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Stesk.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101010" rhyme="1" line_length="9">Od moře vlahý vítr duje,</l>
+     <l n="2" met="01011001000" rhyme="2" line_length="11">a příboj vln se tříští o skaliska;</l>
+     <l n="3" met="100101010" rhyme="1" line_length="9">od moře vlahý vítr duje</l>
+     <l n="4" met="010101000" rhyme="1" line_length="9">a horkou skráň mi ochlazuje,</l>
+     <l n="5" met="10010" rhyme="2" line_length="5">a mně se stýská.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="01010100010" rhyme="3" line_length="11">A každá vlna tančí si a pěje</l>
+     <l n="7" met="01010100010" rhyme="2" line_length="11">a láká, svádí, repotá a výská;</l>
+     <l n="8" met="01010100010" rhyme="3" line_length="11">ta každá vlna tančí si a pěje:</l>
+     <l n="9" met="01000101010" rhyme="3" line_length="11">Sem bláhový v ty naše hry a reje,</l>
+     <l n="10" met="10010" rhyme="2" line_length="5">a mně se stýská.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="100101010" rhyme="4" line_length="9">Po moři táhnou plachty bílé,</l>
+     <l n="12" met="01010101010" rhyme="2" line_length="11">jim mizí břehy, maják, město, víska:</l>
+     <l n="13" met="100101010" rhyme="4" line_length="9">po moři táhnou plachty bílé,</l>
+     <l n="14" met="10010101000" rhyme="4" line_length="11">za nimi cypřiš zírá zasmušile,</l>
+     <l n="15" met="10010" rhyme="2" line_length="5">a mně se stýská.</l>
+    </lg>
+    <lg n="4">
+     <l n="16" met="010101010" rhyme="5" line_length="9">Již tmí se, v dálce hrají zvony,</l>
+     <l n="17" met="01010101010" rhyme="2" line_length="11">je večer, večer, tmavá noc tak blízká;</l>
+     <l n="18" met="010101010" rhyme="5" line_length="9">již tmí se, v dálce hrají zvony,</l>
+     <l n="19" met="100101010" rhyme="5" line_length="9">ze zahrad vane pochlad vonný,</l>
+     <l n="20" met="10010" rhyme="2" line_length="5">a mně se stýská...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

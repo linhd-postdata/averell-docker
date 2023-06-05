@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Budoir</title>
+    <author>Carlos Póo Urbach</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Carlos Póo Urbach_budoir</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Budoir</title>
+     <author>Carlos Póo Urbach</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Budoir</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="-+---+---+-">Alcoba. En los tapices, el ramaje</l>
+     <l n="2" met="--+--+-+-+-">sobre malva entreabre blancas rosas</l>
+     <l n="3" met="-++--+---+-">con un tinte enfermizo. Un oleaje</l>
+     <l n="4" met="-+-+--+-">de blondas cae del lecho. Temblorosas</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="--+--+---+-">parpadean las joyas. El paisaje</l>
+     <l n="6" met="++-+-+---+-">de un biombo irradia luces misteriosas</l>
+     <l n="7" met="--+--+-">de crepúsculo pálido. Salvaje</l>
+     <l n="8" met="---+-+---+-">y voluptuoso olor de resinosas</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+--+-">maderas esculpidas. Grave escudo</l>
+     <l n="10" met="-+----+--+-">labrado en la cornisa. Espesa alfombra</l>
+     <l n="11" met="-+---+---+-">ahoga las pisadas. En la incierta</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+-+-+-">penumbra de la tarde, yace mudo</l>
+     <l n="13" met="--+--+---+-">el fastuosos budoir, donde la sombra</l>
+     <l n="14" met="+-+--+---+-">va envolviendo el recuerdo de la muerta!...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

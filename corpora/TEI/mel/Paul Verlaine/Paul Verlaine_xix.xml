@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XIX</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_xix</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XIX</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XIX</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+6">C’est la bonté naïve et rude un peu,</l>
+     <l n="2" rhyme="b" line_length="4+6">Le dévouement qui ne marchande ni</l>
+     <l n="3" rhyme="b" line_length="4+6">Reproche vif ni pardon infini ;</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="a" line_length="4+6">C’est l’amitié commencée en le bleu</l>
+     <l n="5" rhyme="a" line_length="4+6">D’une amourette orageuse parfois</l>
+     <l n="6" rhyme="a" line_length="6+4">Maintenant amitié, dis-je, de choix.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="b" line_length="4+6">La vie étant, à la force, à présent,</l>
+     <l n="8" rhyme="c" line_length="4+6">Douce plutôt aux cœurs atténués,</l>
+     <l n="9" rhyme="c" line_length="4+6">Nous dit : Enfants vieillis, continuez,</l>
+    </lg>
+    <lg n="4">
+     <l n="10" rhyme="b" line_length="4+6">Sens apaisés, cœurs jeunes s’apaisant,</l>
+     <l n="11" rhyme="a" line_length="4+6">Et vous verrez, au très proche horizon,</l>
+     <l n="12" rhyme="a" line_length="4+6">Poindre et grandir, si bonne ! la raison.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

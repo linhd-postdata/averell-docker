@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dafnis y Cloe</title>
+    <author>Luis Brun</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Luis Brun_dafnis-y-cloe</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dafnis y Cloe</title>
+     <author>Luis Brun</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dafnis y Cloe</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+---+--+-">Cloe la virgen, sobre el campo heleno</l>
+     <l n="2" met="-+--+---+-">duerme tranquila. Lejos el ganado</l>
+     <l n="3" met="-+---++--+-">sestea a su placer. De Cloe al lado</l>
+     <l n="4" met="+--+-+-+-+-">Dafnis está, de amor y dicha lleno.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">El sol abraza en el azul sereno.</l>
+     <l n="6" met="+--+---+-+-">Una cigarra que alegró el sembrado,</l>
+     <l n="7" met="--+--+---+-">perseguida, con vuelo arrebatado,</l>
+     <l n="8" met="-+---+---+-">se oculta de la Virgen en el seno.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">El susto a Cloe despertar consigue.</l>
+     <l n="10" met="--+--+---+-">De los tímidos pechos temblorosos</l>
+     <l n="11" met="+-++---+-+-">Dafnis la coge con su mano recia.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+-+-+-">Mas la cigarra audaz su canto sigue</l>
+     <l n="13" met="--+--+---+-">mientras Pan y las ninfas victoriosos</l>
+     <l n="14" met="+----+---+-">ríen bajo los cielos de la Grecia.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

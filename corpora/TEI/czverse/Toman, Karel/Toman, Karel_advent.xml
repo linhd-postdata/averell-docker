@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ADVENT</title>
+    <author>Toman, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Toman, Karel_advent</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ADVENT</title>
+     <author>Toman, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ADVENT</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010" line_length="7">I chodil anděl boží</l>
+     <l n="2" met="0101010100" line_length="10">v ten dlouhý truchlý advent po Čechách.</l>
+     <l n="3" met="100001010" rhyme="1" line_length="9">Na varhany mu větry hrály,</l>
+     <l n="4" met="10010101000" rhyme="1" line_length="11">dveře se před ním samy otvíraly</l>
+     <l n="5" met="0100001000010" rhyme="2" line_length="13">a provázely ho neviditelné kůry:</l>
+     <l n="6" met="101010010" rhyme="2" line_length="9">Rosu dejte, nebesa, s hůry.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="0101010" line_length="7">A mluvil anděl boží,</l>
+     <l n="8" met="0101010001" line_length="10">kde vešel v dům: Buď statečný a věř.</l>
+     <l n="9" met="010100010" rhyme="3" line_length="9">A dětem zahořely tváře</l>
+     <l n="10" met="10010100010" rhyme="3" line_length="11">radostí, silou z nebeské té záře</l>
+     <l n="11" met="010010101010" rhyme="4" line_length="12">a matkám i otcům spadla s prsou můra.</l>
+     <l n="12" met="10001000" rhyme="4" line_length="8">Alleluja, alleluja.</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="0101010" line_length="7">Tak žehnal anděl boží</l>
+     <l n="14" met="0101010001" line_length="10">a sílil mdlé. Buď statečný a věř.</l>
+     <l n="15" met="100001000" rhyme="5" line_length="9">Před osudem a před věčností</l>
+     <l n="16" met="010010010010" rhyme="5" line_length="12">jest víra a statečnost nejvyšší ctností.</l>
+     <l n="17" met="001010" rhyme="6" line_length="6">Všem, kdo pevně věří,</l>
+     <l n="18" met="10010101010" rhyme="6" line_length="11">vždycky se v dálce spasné jitro šeří.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

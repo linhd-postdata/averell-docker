@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vers l'encavement</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_vers-l-encavement</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vers l'encavement</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vers l'encavement</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="0" line_length="8">Le cadavre du grand cheval</l>
+     <l n="2" rhyme="1" line_length="8">Traîné par deux bœufs, dans la nuit,</l>
+     <l n="3" rhyme="0" line_length="8">Racle et bat les pierres du val,</l>
+     <l n="4" rhyme="2" line_length="8">Épine et broussaille après lui.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="0" line_length="8">Roide, en ce bas-fond sépulcral,</l>
+     <l n="6" rhyme="1" line_length="8">Va squelette, d'horreur enduit,</l>
+     <l n="7" rhyme="0" line_length="8">Le cadavre du grand cheval</l>
+     <l n="8" rhyme="1" line_length="8">Traîné par deux bœufs, dans la nuit.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="0" line_length="8">Un falot, dansant, fantomal,</l>
+     <l n="10" rhyme="1" line_length="8">Comme un feu follet, le conduit,</l>
+     <l n="11" rhyme="1" line_length="8">Et, d'arbre en arbre, un hibou suit</l>
+     <l n="12" rhyme="0" line_length="8">De son cri strident et fatal</l>
+     <l n="13" rhyme="0" line_length="8">Le cadavre du grand cheval.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

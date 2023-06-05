@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Píseň.</title>
+    <author>Tůma, Jan Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tůma, Jan Václav_pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Píseň.</title>
+     <author>Tůma, Jan Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Píseň.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" line_length="8">Krásné jsou ty písně živé,</l>
+     <l n="2" met="10101010" rhyme="1" line_length="8">které cit si v srdci pěje,</l>
+     <l n="3" met="00100010" line_length="8">když se v ukryté tam hloubce</l>
+     <l n="4" met="10101000" rhyme="1" line_length="8">tichou touhou porozchvěje.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" line_length="8">A jak vlnka z hloubky vody</l>
+     <l n="6" met="10001010" rhyme="2" line_length="8">v hladině se mžikem tratí,</l>
+     <l n="7" met="00101010" line_length="8">tak té písně vroucí slovo</l>
+     <l n="8" met="10101000" rhyme="2" line_length="8">mrtvým písmem ledovatí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" line_length="8">Živá píseň jako slunce</l>
+     <l n="10" met="10101010" rhyme="3" line_length="8">hřeje, živí, svítí světu,</l>
+     <l n="11" met="10001000" line_length="8">písmenem však rostlina je</l>
+     <l n="12" met="10001010" rhyme="3" line_length="8">bez vůně a beze květu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

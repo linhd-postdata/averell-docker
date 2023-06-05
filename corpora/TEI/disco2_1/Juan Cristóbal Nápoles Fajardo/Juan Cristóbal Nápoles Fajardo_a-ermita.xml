@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Ermita</title>
+    <author>Juan Cristóbal Nápoles Fajardo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Cristóbal Nápoles Fajardo_a-ermita</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Ermita</title>
+     <author>Juan Cristóbal Nápoles Fajardo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Ermita</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-++--+-">Si tú del bando azul eres adepto,</l>
+     <l n="2" met="--+--+---+-">y a tu reina defiendes cortesano,</l>
+     <l n="3" met="+-+-++-+-+-">yo a la lucha me lanzo, pluma en mano,</l>
+     <l n="4" met="--+-+++--+-">aunque soy en lidiar un poco inepto.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--++--+-">Yo defiendo el Punzó, que este precepto,</l>
+     <l n="6" met="--+--+--++-">por mi reina gentil cumpliré ufano,</l>
+     <l n="7" met="--+--++-++-">ni mi esfuerzo en vencerte será en vano,</l>
+     <l n="8" met="---+-+-+-+-">ni mi valor tendrás en mal concepto.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+-+-+-">Armate, pues, al punto, y pluma en ristre</l>
+     <l n="10" met="--+--+-+-+-">a tu reina suplica humildemente,</l>
+     <l n="11" met="--+--++--+-">que constancia y valor te suministre.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+-+++--+-">Encomiéndate al genio, alza la frente,</l>
+     <l n="13" met="--+--+---+-">y que cante mi bando sin demora</l>
+     <l n="14" met="-+---+---+-">el triunfo de mi reina encantadora.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

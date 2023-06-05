@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>To není mír...</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_to-neni-mir</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>To není mír...</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>To není mír...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" rhyme="1" line_length="11">To není mír, to není klid, jímž dýchá</l>
+     <l n="2" met="11010101010" rhyme="2" line_length="11">noc jarní, věnec hvězdný v skráni svitý,</l>
+     <l n="3" met="01010101010" rhyme="2" line_length="11">kdy vzduch jest sladkou vůní fial sytý,</l>
+     <l n="4" met="01010101010" rhyme="1" line_length="11">a šelest větví, zdá se, touhou vzdychá;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101010" rhyme="1" line_length="11">to není mír, to není klid, jak zticha</l>
+     <l n="6" met="01000101010" rhyme="2" line_length="11">když v šero hnizd se loudí luny svity,</l>
+     <l n="7" met="01010101000" rhyme="2" line_length="11">kdy slavík tichne blahem rozpačitý,</l>
+     <l n="8" met="01000101000" rhyme="1" line_length="11">a srdce jen se mluvit neostýchá;</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101010" rhyme="3" line_length="11">kdy rtové ret a ruka ruku hledá,</l>
+     <l n="10" met="01010100010" rhyme="3" line_length="11">a vlhne zrak, a ňadro výš se zvedá...</l>
+     <l n="11" met="0101010101000" rhyme="4" line_length="13">Ten minul dávno čas! jen jako v podjeseni,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="01001101010" rhyme="5" line_length="11">kdy žloutnoucí list padá hluše k zemi,</l>
+     <l n="13" met="01010100110" rhyme="5" line_length="11">jest bez hvězd nebe, bez kvetu kraj němý,</l>
+     <l n="14" met="0101000101010" rhyme="4" line_length="13">a v hlavě pusto je a v srdci touhy není. –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

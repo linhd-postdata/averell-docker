@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dobrá výmluva.</title>
+    <author>Menhard, František Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">7</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Menhard, František Ladislav_dobra-vymluva</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dobrá výmluva.</title>
+     <author>Menhard, František Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dobrá výmluva.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100010001" rhyme="1" line_length="10">Kdos bohatého „vlastence“ se ptal,</l>
+     <l n="2" met="0001010001" rhyme="1" line_length="10">zda též již něco na „Matici“ dal,</l>
+     <l n="3" met="01010101010100" rhyme="2" line_length="14">že jméno jeho mezi dárci dosud nestálo.</l>
+     <l n="4" met="1101010100" rhyme="2" line_length="10">„Aj, dal jsem,“ děl on, „a to nemálo;</l>
+     <l n="5" met="010101000100" rhyme="2" line_length="12">však – tento – víte – aby snad se nezdálo,</l>
+     <l n="6" met="00010100110" rhyme="3" line_length="11">že chtě se chlubit, v novinách rád stávám,</l>
+     <l n="7" met="0001010000010" rhyme="3" line_length="13">tož vždy co dárce „nejmenovaný“ jen dávám.“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

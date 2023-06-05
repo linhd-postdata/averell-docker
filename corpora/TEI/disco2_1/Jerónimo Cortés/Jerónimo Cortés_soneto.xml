@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Jerónimo Cortés</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jerónimo Cortés_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Jerónimo Cortés</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+---+-">Con dulce son de nuevo se derrama,</l>
+     <l n="2" met="---+-+---+-">de mi invencible abuelo la grandeza,</l>
+     <l n="3" met="--+--+---+-">los trabajos, peligros, y braveza,</l>
+     <l n="4" met="--+--+-+-+-">con que tiene ganada eterna fama.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-++--+-+-+-">Al más tímido pecho, y fuerza inflama,</l>
+     <l n="6" met="+--+-++--+-">viendo de tal varón tal fortaleza,</l>
+     <l n="7" met="-++--+---+-">que no pudo del hado la aspereza</l>
+     <l n="8" met="-+---+-+-+-">domar ni oscurecer su ardiente llama.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+-+-+-">Esto se debe a ti, divino Lasso,</l>
+     <l n="10" met="--+--+---+-">cuya Musa con plectro sublimado</l>
+     <l n="11" met="-++--+-+-+-">cantó el alto valor del fuerte pecho.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++---+++-+-">Bien muestras que beber te dio el Parnaso,</l>
+     <l n="13" met="+--+-+---+-">tanto licor, que el verso delicado</l>
+     <l n="14" met="---+-+-+-+-">en majestad iguala en todo al hecho.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

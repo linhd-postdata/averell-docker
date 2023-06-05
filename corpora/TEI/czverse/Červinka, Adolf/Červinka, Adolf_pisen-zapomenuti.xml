@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PÍSEŇ ZAPOMENUTÍ.</title>
+    <author>Červinka, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červinka, Adolf_pisen-zapomenuti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PÍSEŇ ZAPOMENUTÍ.</title>
+     <author>Červinka, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PÍSEŇ ZAPOMENUTÍ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101000" rhyme="1" line_length="9">Už bílé myši vyskákaly</l>
+     <l n="2" met="10010100" rhyme="2" line_length="8">ze shnilé lodi života,</l>
+     <l n="3" met="010101010" rhyme="1" line_length="9">jen jeden maják v širé dáli</l>
+     <l n="4" met="01010100" rhyme="2" line_length="8">se rudým okem blyskotá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101010" rhyme="3" line_length="9">Já pod ním bloudím, jak mne osud</l>
+     <l n="6" met="01010100" rhyme="4" line_length="8">sem zahnal v bouři před lety,</l>
+     <l n="7" met="010001010" rhyme="3" line_length="9">však v srdci mém se chvěje posud</l>
+     <l n="8" met="01010100" rhyme="4" line_length="8">ten přelud lásky zakletý...</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101010" rhyme="5" line_length="9">A myslím někdy, lásky slova</l>
+     <l n="10" met="01010100" rhyme="6" line_length="8">snad vyřknou ústa hedvábná...</l>
+     <l n="11" met="010101000" rhyme="5" line_length="9">či hlava moje, vyhnancova,</l>
+     <l n="12" met="11010010" rhyme="6" line_length="8">klid najde moře až u dna?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PÍSEŇ POUTNÍKA</title>
+    <author>Dyk, Viktor</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dyk, Viktor_pisen-poutnika</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PÍSEŇ POUTNÍKA</title>
+     <author>Dyk, Viktor</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PÍSEŇ POUTNÍKA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010" rhyme="1" line_length="7">V míjení těžkých roků</l>
+     <l n="2" met="0001000" rhyme="2" line_length="7">čím dál mi jasnější jest:</l>
+     <l n="3" met="1010010" rhyme="1" line_length="7">není ztracených kroků,</l>
+     <l n="4" met="101001" rhyme="2" line_length="6">není ztracených cest.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010010" rhyme="3" line_length="7">Echo zpozdí se možná,</l>
+     <l n="6" met="100100" rhyme="4" line_length="6">ozvěna nespěchá.</l>
+     <l n="7" met="1010010" rhyme="3" line_length="7">Víra veliká, zbožná</l>
+     <l n="8" met="100100" rhyme="4" line_length="6">nebude bez echa.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1001010" rhyme="5" line_length="7">Vrátí se v ztichlém kraji,</l>
+     <l n="10" met="100100" rhyme="6" line_length="6">pronikne mlhami.</l>
+     <l n="11" met="0101000" rhyme="5" line_length="7">Ti, kdož nás popírají,</l>
+     <l n="12" met="010100" rhyme="6" line_length="6">kdys půjdou za námi!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

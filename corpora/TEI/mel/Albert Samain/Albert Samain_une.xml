@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>UNE</title>
+    <author>Albert Samain</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Albert Samain_une</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>UNE</title>
+     <author>Albert Samain</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>UNE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Sphynx aux yeux d'émeraude, angélique vampire,</l>
+     <l n="2" rhyme="b" line_length="6+6">Elle rêve sous l'or cruel de ses frisons ;</l>
+     <l n="3" rhyme="b" line_length="6+6">La rougeur de sa bouche est pareille aux tisons.</l>
+     <l n="4" rhyme="a" line_length="6+6">Ses yeux sont faux, son cœur est faux, son amour pire.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Sous son front dur médite un songe obscur d'empire.</l>
+     <l n="6" rhyme="b" line_length="6+6">Elle est la fleur superbe et froide des poisons.</l>
+     <l n="7" rhyme="b" line_length="6+6">Et le péché mortel aux acres floraisons</l>
+     <l n="8" rhyme="a" line_length="6+6">De sa chair vénéneuse en parfums noirs transpire.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Sur son trône, qu'un art sombre sut tourmenter,</l>
+     <l n="10" rhyme="c" line_length="6+6">Immobile, elle écoute au loin se lamenter</l>
+     <l n="11" rhyme="d" line_length="6+6">La mer des pauvres cœurs qui saignent ses blessures ;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Et bercée aux sanglots, elle songe, et parfois</l>
+     <l n="13" rhyme="d" line_length="6+6">Brûle d'un regard lourd, où couvent des luxures,</l>
+     <l n="14" rhyme="e" line_length="6+6">L'âme vierge du lys qui se meurt dans ses doigts.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

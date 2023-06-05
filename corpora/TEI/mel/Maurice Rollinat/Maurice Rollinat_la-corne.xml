@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Corne</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_la-corne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Corne</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Corne</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">La nuit est noire opaque. Au bas d'une âpre côte</l>
+     <l n="2" rhyme="b" line_length="6+6">Paissent bœufs et taureaux, masses lentes, qui vont</l>
+     <l n="3" rhyme="b" line_length="6+6">Chargés d'horreur, avec un beuglement profond,</l>
+     <l n="4" rhyme="a" line_length="6+6">Dans le silence affreux de l'herbe humide et haute.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Ici rampe un crapaud, une grenouille saute,</l>
+     <l n="6" rhyme="b" line_length="6+6">Là, miaule un hibou dans un tronc d'arbre. Ils sont</l>
+     <l n="7" rhyme="b" line_length="6+6">Comme eux secrets, obscurs, invisibles, ils ont</l>
+     <l n="8" rhyme="a" line_length="6+6">Autour, dessus, dessous, le mystère pour hôte.</l>
+    </lg>
+    <lg n="3" />
+    <lg n="4" />
+   </lg>
+  </body>
+ </text>
+</TEI>

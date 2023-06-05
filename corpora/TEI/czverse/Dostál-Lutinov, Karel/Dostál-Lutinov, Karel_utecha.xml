@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ÚTĚCHA.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_utecha</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ÚTĚCHA.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ÚTĚCHA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" rhyme="1" line_length="11">Jen křídla noci temně v dálku šumí,</l>
+     <l n="2" met="1001000010" rhyme="2" line_length="10">a ty jsi v srdci svém tak sám, tak sám.</l>
+     <l n="3" met="01000101000" rhyme="1" line_length="11">Tu na světě ti nikdo nerozumí,</l>
+     <l n="4" met="0101010100" rhyme="2" line_length="10">i zdviháš oči k tmavým výšinám.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101000" rhyme="3" line_length="11">Tam jedna hvězda tomu podobá se,</l>
+     <l n="6" met="1001010100" rhyme="4" line_length="10">po čem ty toužíš, srdce šálené:</l>
+     <l n="7" met="00010101010" rhyme="3" line_length="11">Jest to té hvězdě rovno v jase, kráse,</l>
+     <l n="8" met="0001000100" rhyme="4" line_length="10">však jak ta hvězda je to vzdálené.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="11010101010" rhyme="5" line_length="11">Ó, duše, doufej! Rosa růži najde,</l>
+     <l n="10" met="1101010100" rhyme="6" line_length="10">zář luny najde kalich immortel,</l>
+     <l n="11" met="10010100010" rhyme="5" line_length="11">slunce i v kraje zazápadní zajde –</l>
+     <l n="12" met="0001010100" rhyme="6" line_length="10">proč by tvůj Bůh tvé srdce nenašel?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

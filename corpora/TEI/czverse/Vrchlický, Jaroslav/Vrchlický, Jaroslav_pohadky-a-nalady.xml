@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pohádky a nálady.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_pohadky-a-nalady</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pohádky a nálady.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pohádky a nálady.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000100" rhyme="1" line_length="7">Pohádky a nálady!</l>
+     <l n="2" met="00101010" rhyme="2" line_length="8">Kdo v nich nežil vždycky šťastný?</l>
+     <l n="3" met="10011010" rhyme="2" line_length="8">Mladosti sen kouzlí krásný</l>
+     <l n="4" met="1010100" rhyme="1" line_length="7">vábné jejich zahrady.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10100010" rhyme="3" line_length="8">První u kolébky stojí,</l>
+     <l n="6" met="1010010" rhyme="4" line_length="7">druhé životem jdou dál,</l>
+     <l n="7" met="10101010" rhyme="3" line_length="8">který v práci, sporech, boji</l>
+     <l n="8" met="0010100" rhyme="4" line_length="7">v nich svůj střeží ideál.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001010" rhyme="5" line_length="8">Bez pohádek mládí teskné,</l>
+     <l n="10" met="1010100" rhyme="6" line_length="7">život prázdný bez nálad;</l>
+     <l n="11" met="00101010" rhyme="5" line_length="8">když si nejvíc srdce steskne,</l>
+     <l n="12" met="1010100" rhyme="6" line_length="7">letí jejich do zahrad.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1010100" rhyme="7" line_length="7">Vřava, spory, úklady</l>
+     <l n="14" met="10101000" rhyme="8" line_length="8">mizí rázem, ustupují,</l>
+     <l n="15" met="00101010" rhyme="8" line_length="8">jak svá měkká vlákna snují</l>
+     <l n="16" met="1000100" rhyme="7" line_length="7">pohádky a nálady!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

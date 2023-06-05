@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Monsieur Alexandre</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_monsieur-alexandre</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Monsieur Alexandre</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Monsieur Alexandre</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Se trouvant trop à court d'argent,</l>
+     <l n="2" rhyme="b" line_length="8">Le joli monsieur Alexandre</l>
+     <l n="3" rhyme="a" line_length="8">Fume son cigare, en songeant,</l>
+     <l n="4" rhyme="b" line_length="8">Et du doigt fait tomber la cendre.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">En rêve il revoit les louis</l>
+     <l n="6" rhyme="b" line_length="8">Qui tombaient d'une main chérie</l>
+     <l n="7" rhyme="a" line_length="8">Pour charmer ses yeux éblouis ;</l>
+     <l n="8" rhyme="b" line_length="8">Et, triste, il pense à Pulchérie.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">C'est une femme de rapport.</l>
+     <l n="10" rhyme="b" line_length="8">Sa dent brille et son œil flamboie ;</l>
+     <l n="11" rhyme="a" line_length="8">Elle a le visage et le port,</l>
+     <l n="12" rhyme="b" line_length="8">Et sait faire onduler la soie.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">Mais le maître a beau la fouailler !</l>
+     <l n="14" rhyme="b" line_length="8">C'est à son gré qu'elle se mène ;</l>
+     <l n="15" rhyme="a" line_length="8">La folle ne veut travailler</l>
+     <l n="16" rhyme="b" line_length="8">Que deux ou trois fois par semaine.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

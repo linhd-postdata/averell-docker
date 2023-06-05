@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>TŘI SLOKY.</title>
+    <author>Klášterský, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Klášterský, Antonín_tri-sloky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>TŘI SLOKY.</title>
+     <author>Klášterský, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>TŘI SLOKY.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010101" rhyme="1" line_length="10">Dřív květem písní pln byl duše luh,</l>
+     <l n="2" met="1001010011" rhyme="1" line_length="10">a že jsem rád jej trhal všem – ví Bůh;</l>
+     <l n="3" met="01010001010" rhyme="2" line_length="11">však jaký květ to rost’ mi v duše jasu!</l>
+     <l n="4" met="01010101010" rhyme="2" line_length="11">Jen hodný svadnout za noc v dívčím vlasu!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010001" rhyme="3" line_length="10">Teď přešlo jaro, šerá je má síň,</l>
+     <l n="6" met="0101010010" rhyme="3" line_length="10">a v mojí duši květů míň a míň;</l>
+     <l n="7" met="01000101010" rhyme="4" line_length="11">leč zdá se mi, že více nežli prve</l>
+     <l n="8" met="01010100010" rhyme="4" line_length="11">je v každém mojí bytosti a krve.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0100010100" rhyme="5" line_length="10">Však vím, ni z těch ni jeden není vhod,</l>
+     <l n="10" met="0101011101" rhyme="5" line_length="10">by vzbudil lásku, mír dal, stišil hlod;</l>
+     <l n="11" met="01000100010" rhyme="6" line_length="11">zda aspoň pak, až jediný jen zvednu,</l>
+     <l n="12" met="01010101010" rhyme="6" line_length="11">ten jeden padne ve všech srdcích ke dnu?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

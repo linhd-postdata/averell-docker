@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Mademoiselle Anaïs</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_a-mademoiselle-anais</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Mademoiselle Anaïs</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Mademoiselle Anaïs</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="8">Que rien ne puisse en liberté</l>
+     <l n="2" line_length="8">Passer sous le sacré portique</l>
+     <l n="3" line_length="8">Sans être quelque peu heurté</l>
+     <l n="4" line_length="8">Par les bornes de la critique,</l>
+     <l n="5" line_length="8">C'est un axiome authentique.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" line_length="8">Pourquoi tant de sévérité ?</l>
+     <l n="7" line_length="8">Grétry disait avec gaîté :</l>
+     <l n="8" line_length="8">« J 'aime mieux un peu de musique</l>
+    </lg>
+    <lg n="3">
+     <l n="9" line_length="8">A ma Louison ce mot s'applique.</l>
+     <l n="10" line_length="8">Sur le théâtre elle a jeté</l>
+     <l n="11" line_length="8">Son petit bouquet poétique.</l>
+     <l n="12" line_length="8">Pourvu que vous l'ayez porté,</l>
+     <l n="13" line_length="8">Le reste est moins, en vérité,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

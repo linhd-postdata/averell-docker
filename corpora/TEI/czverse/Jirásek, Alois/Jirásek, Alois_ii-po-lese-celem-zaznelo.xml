@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>II. Po lese celém zaznělo</title>
+    <author>Jirásek, Alois</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jirásek, Alois_ii-po-lese-celem-zaznelo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>II. Po lese celém zaznělo</title>
+     <author>Jirásek, Alois</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>II. Po lese celém zaznělo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" rhyme="1" line_length="8">Po lese celém zaznělo </l>
+     <l n="2" met="1001010" rhyme="2" line_length="7">vanutí jasné, táhlé,</l>
+     <l n="3" met="10010100" rhyme="1" line_length="8">od stromu k stromu letělo</l>
+     <l n="4" met="0101010" rhyme="2" line_length="7">tak mocně a tak náhle.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" rhyme="3" line_length="8">A celý les tu zahučel,</l>
+     <l n="6" met="0101010" rhyme="4" line_length="7">vždyť poznal sílu svoji!</l>
+     <l n="7" met="01010100" rhyme="3" line_length="8">By v celém lidu zazvučel</l>
+     <l n="8" met="0110010" rhyme="4" line_length="7">tak zpěv k svatému boji!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

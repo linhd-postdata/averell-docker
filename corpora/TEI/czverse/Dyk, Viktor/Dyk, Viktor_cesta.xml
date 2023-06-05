@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CESTA.</title>
+    <author>Dyk, Viktor</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dyk, Viktor_cesta</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CESTA.</title>
+     <author>Dyk, Viktor</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CESTA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101" rhyme="1" line_length="6">Loučím se. Už je čas.</l>
+     <l n="2" met="1001010" rhyme="2" line_length="7">Loučím se. Ne má žalost.</l>
+     <l n="3" met="100100" rhyme="1" line_length="6">Za mnou je polojas,</l>
+     <l n="4" met="10010" rhyme="2" line_length="5">za mnou je malost.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100" rhyme="3" line_length="6">Silnice, pěšiny,</l>
+     <l n="6" met="0100010" rhyme="4" line_length="7">ty přede mnou se tratí.</l>
+     <l n="7" met="100100" rhyme="3" line_length="6">Do které končiny</l>
+     <l n="8" met="0101000" rhyme="4" line_length="7">se chci to ubírati?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100101" rhyme="5" line_length="6">Ztrácí se domů štít,</l>
+     <l n="10" met="10010010" rhyme="6" line_length="8">ztrácejí kostelů věže.</l>
+     <l n="11" met="100101" rhyme="5" line_length="6">A je-li nutno jít,</l>
+     <l n="12" met="0101000" rhyme="6" line_length="7">tož jděme bez přítěže!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="110101" rhyme="7" line_length="6">Lze, abych takto žil</l>
+     <l n="14" met="0101110" rhyme="8" line_length="7">v tom kole lsti, lži, šikan?</l>
+     <l n="15" met="110001" rhyme="7" line_length="6">Jdu: prostředek a cíl.</l>
+     <l n="16" met="0101010" rhyme="8" line_length="7">Jsem poutník. Tulák. Cikán.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="010101" rhyme="9" line_length="6">Je dojít vždycky div.</l>
+     <l n="18" met="0001010" rhyme="10" line_length="7">Dnes kde kdo věří v divy.</l>
+     <l n="19" met="010001" rhyme="9" line_length="6">Leč nebudu-li živ,</l>
+     <l n="20" met="0101010" rhyme="10" line_length="7">vy aspoň buďte živi!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

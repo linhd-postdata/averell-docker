@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SKŘIVÁNCI.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_skrivanci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SKŘIVÁNCI.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SKŘIVÁNCI.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101010" rhyme="1" line_length="9">Skřivánci, smích a jásot smavý</l>
+     <l n="2" met="10010100" rhyme="2" line_length="8">do modra letí vesele,</l>
+     <l n="3" met="100101010" rhyme="1" line_length="9">vylétli z klínu vlhké trávy</l>
+     <l n="4" met="01000100" rhyme="2" line_length="8">a z osení a z jetele;</l>
+     <l n="5" met="010101010" rhyme="1" line_length="9">v jich zpěvu jaro příchod slaví.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="110101010" rhyme="1" line_length="9">Hle, kterak hloh se pohnul tmavý,</l>
+     <l n="7" met="01010100" rhyme="2" line_length="8">i třešně květy z úběle,</l>
+     <l n="8" met="010001000" rhyme="1" line_length="9">co v zpěvu svém se neunaví</l>
+     <l n="9" met="100" line_length="3">skřivánci.</l>
+    </lg>
+    <lg n="3">
+     <l n="10" met="010001010" rhyme="1" line_length="9">A sedmikrásy opět baví</l>
+     <l n="11" met="01010100" rhyme="2" line_length="8">svou věštbou dívky nesmělé,</l>
+     <l n="12" met="01010100" rhyme="2" line_length="8">jež, růže studu na čele:</l>
+     <l n="13" met="110101010" rhyme="1" line_length="9">„Má rád mne, hodně, nejvíc!“ praví,</l>
+     <l n="14" met="010001000" rhyme="1" line_length="9">a v ňadrech se jim nezastaví</l>
+     <l n="15" met="100" line_length="3">skřivánci.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

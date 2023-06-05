@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Buď pěvcem!</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_bud-pevcem</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Buď pěvcem!</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Buď pěvcem!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" rhyme="1" line_length="8">Buď pěvcem svého národa!</l>
+     <l n="2" met="01010100" rhyme="1" line_length="8">A třeba skráň ti probodá</l>
+     <l n="3" met="100101000" rhyme="2" line_length="9">trním a hložím pohrdání –</l>
+     <l n="4" met="010101000" rhyme="2" line_length="9">ty trp a zpívej do skonání</l>
+     <l n="5" met="01010100" rhyme="1" line_length="8">jen slávu svého národa!</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="01000100" rhyme="3" line_length="8">Tvým údělem jsou bolesti –</l>
+     <l n="7" met="01010100" rhyme="3" line_length="8">jen těmi můžeš povznésti</l>
+     <l n="8" met="010001010" rhyme="4" line_length="9">se nad vřavou kol tebe všední;</l>
+     <l n="9" met="010101010" rhyme="4" line_length="9">tím výše čelo k hvězdám zvedni,</l>
+     <l n="10" met="01000100" rhyme="3" line_length="8">čím větší jsou tvé bolesti!</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="10010101" rhyme="5" line_length="8">Na dráhu lidstva růže stel,</l>
+     <l n="12" met="11010100" rhyme="5" line_length="8">pláč sobě nech i hořký žel;</l>
+     <l n="13" met="110101010" rhyme="6" line_length="9">krev svoji dej, když třeba vláhy,</l>
+     <l n="14" met="010011010" rhyme="6" line_length="9">sám žízniv buď, choď bos a nahý,</l>
+     <l n="15" met="01010101" rhyme="5" line_length="8">všem žehnej, cestou růže stel!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

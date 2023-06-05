@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Ressusciteuse</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_la-ressusciteuse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Ressusciteuse</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Ressusciteuse</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Je dis à la bergère : « Où donc est ta bessonne !</l>
+     <l n="2" rhyme="b" line_length="8">La fille soupira : « Ma sœur est mortʼ ! personne</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="c" line_length="6+6">C'est vrai que j'suis son doubʼ, son rʼvenant q'l'on dirait,</l>
+     <l n="4" rhyme="d" line_length="8">De visagʼ, de parler, d'taillʼ, j'suis tout son portrait :</l>
+    </lg>
+    <lg n="3" />
+    <lg n="4" />
+   </lg>
+  </body>
+ </text>
+</TEI>

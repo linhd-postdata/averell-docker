@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pole zpívá...</title>
+    <author>Mužík, Augustin Eugen</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mužík, Augustin Eugen_pole-zpiva</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pole zpívá...</title>
+     <author>Mužík, Augustin Eugen</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pole zpívá...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100010" rhyme="1" line_length="11">Zda slyšel’s pole jásající píseň,</l>
+     <l n="2" met="01010100010" rhyme="2" line_length="11">již jako dělník při práci si zpívá?</l>
+     <l n="3" met="01000101000" rhyme="2" line_length="11">Tak hluboká je, lehce zádumčivá,</l>
+     <l n="4" met="01010100010" rhyme="1" line_length="11">jak skládá vážnost chvíle ji a tíseň.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11010101010" rhyme="1" line_length="11">Strž zvuků jedna – klasů zlatá tříseň,</l>
+     <l n="6" met="01000101010" rhyme="2" line_length="11">jak varhany to zní ta hymna živá.</l>
+     <l n="7" met="01010100010" rhyme="2" line_length="11">V svých plných ňadrech od pravěků skrývá</l>
+     <l n="8" met="01010101010" rhyme="1" line_length="11">ji svěží role a ne hrobů plíseň.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101010" rhyme="3" line_length="11">Tak, jak ji zpíval Vojtěch v květech rolí,</l>
+     <l n="10" met="01010100010" rhyme="4" line_length="11">dnes ještě z plna obilí tu zvučí</l>
+     <l n="11" met="01010101010" rhyme="3" line_length="11">ta svatá, velká hymna českých polí.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="01010101010" rhyme="5" line_length="11">Ta píseň živá nade smrtmi všemi,</l>
+     <l n="13" met="01010101010" rhyme="4" line_length="11">jež každým jarem znovu s klasy pučí:</l>
+     <l n="14" met="11010101010" rhyme="5" line_length="11">„Dej mír a hojnost naší drahé zemi!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Lazar.</title>
+    <author>Leubner, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Leubner, František_lazar</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Lazar.</title>
+     <author>Leubner, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Lazar.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010101000" rhyme="1" line_length="11">Pán hořkou slzou plakal za přítelem.</l>
+     <l n="2" met="11000101000" rhyme="2" line_length="11">Dav o velké si lásce vypravuje,</l>
+     <l n="3" met="10010101000" rhyme="2" line_length="11">Marie pláče, hlasně hořekuje,</l>
+     <l n="4" met="01010101010" rhyme="1" line_length="11">a Marta vzlyká, stejným jata želem.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11010101000" rhyme="1" line_length="11">Lká zástup celý lidstva nad údělem.</l>
+     <l n="6" met="01010101000" rhyme="2" line_length="11">Tu slovo v úžas hoře zaměňuje:</l>
+     <l n="7" met="11010101010" rhyme="2" line_length="11">Jde Lazar tiše z černé hrobu sluje</l>
+     <l n="8" met="01010101010" rhyme="1" line_length="11">s tak vážným okem, přísným bledým čelem.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="11010101000" rhyme="3" line_length="11">Ples vede sestry bratru do objetí.</l>
+     <l n="10" met="01000100010" rhyme="4" line_length="11">Hned zákonníci s otázkou se blíží,</l>
+     <l n="11" met="01000101010" rhyme="5" line_length="11">zda zvěděl tam, kdy svitne spása lidu.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="11000101000" rhyme="3" line_length="11">Rty sevřené však slova neodvětí,</l>
+     <l n="13" met="11001101010" rhyme="4" line_length="11">zrak bádavý v den jasný teskně vzhlíží,</l>
+     <l n="14" met="01010100100" rhyme="5" line_length="11">kam člověk vrací z věčného se klidu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

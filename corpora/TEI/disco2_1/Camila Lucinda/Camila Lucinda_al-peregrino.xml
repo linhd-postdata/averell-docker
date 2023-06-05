@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Al peregrino</title>
+    <author>Camila Lucinda</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Camila Lucinda_al-peregrino</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Al peregrino</title>
+     <author>Camila Lucinda</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Al peregrino</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--++---+-+-">Mientras a un dulce epitalamio tiemplo</l>
+     <l n="2" met="-+-+---+-+-">la lira humilde de tu canto indina,</l>
+     <l n="3" met="+--+---+-+-">goza a tu Nise celestial divina,</l>
+     <l n="4" met="--+--++--+-">peregrino de amor único ejemplo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+++---+-+-">Si el centro es Nise, y de tu ardor contemplo</l>
+     <l n="6" met="-+---+---+-">la esfera en su hermosura peregrina,</l>
+     <l n="7" met="+--+-+---+-">cuelga el bordón, sombrero y esclavina</l>
+     <l n="8" met="---+-+---+-">en las sagradas aras de tu templo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+-+--++-">Pon una tabla, y di: Cuando me llama,</l>
+     <l n="10" met="+--+-+---+-">llego a su esfera -Lope con divinos</l>
+     <l n="11" met="+--+-+---+-">versos, llegó también hasta la fama-;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+++-+---+-">aquí dio fin amor a mis caminos,</l>
+     <l n="13" met="+--+---+++-">Lope a su historia, y a los dos nos llama</l>
+     <l n="14" met="-+-+-+---+-">el mundo en un sujeto peregrinos.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

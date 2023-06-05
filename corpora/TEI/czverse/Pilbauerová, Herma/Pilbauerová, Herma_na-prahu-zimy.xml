@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Na prahu zimy.</title>
+    <author>Pilbauerová, Herma</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pilbauerová, Herma_na-prahu-zimy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Na prahu zimy.</title>
+     <author>Pilbauerová, Herma</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Na prahu zimy.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">Ještě podzim v pestrém šatě</l>
+     <l n="2" met="10101010" rhyme="1" line_length="8">ztichlým lesem, sadem spěje,</l>
+     <l n="3" met="10101010" line_length="8">a již v jeho zlatou kadeř</l>
+     <l n="4" met="10101010" rhyme="1" line_length="8">zima bílé sněhy seje.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" line_length="8">V zeleni, co ještě zbyla</l>
+     <l n="6" met="10001010" rhyme="2" line_length="8">ze smavého léta doby,</l>
+     <l n="7" met="10001010" line_length="8">bělá se to jako z jara,</l>
+     <l n="8" met="00101010" rhyme="2" line_length="8">kdy ji na sta květů zdobí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101000" line_length="8">Teskní stromy, vzpomínají...</l>
+     <l n="10" met="10001010" rhyme="3" line_length="8">O poupatech, písni ptačí</l>
+     <l n="11" met="10001010" line_length="8">zdá se jim v tom bílém šatě – – –</l>
+     <l n="12" met="10001010" rhyme="3" line_length="8">Neúprosně zima kráčí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

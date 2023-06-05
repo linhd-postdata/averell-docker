@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>¡Madre!</title>
+    <author>Manuel Martínez Barrionuevo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel Martínez Barrionuevo_madre</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>¡Madre!</title>
+     <author>Manuel Martínez Barrionuevo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>¡Madre!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-++-+-+-+-">Siempre te miro, siempre, madre mía,</l>
+     <l n="2" met="--+--+-+-+-">de tu vida llevar la triste carga</l>
+     <l n="3" met="---+-+++-+-">y por tu santo amor, es menos larga</l>
+     <l n="4" met="-+---+---+-">y menos dolorosa mi agonía.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+++-+-+--+-">¡Qué no te quiero dices! ¿Quién podría</l>
+     <l n="6" met="---+-+--++-">asegurar la duda que te embarga?</l>
+     <l n="7" met="-+-+---+-+-">¡Si tú haces dulce mi existencia amarga!</l>
+     <l n="8" met="--+--+-+-+-">¡Si conviertes mi noche en claro día!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++++-+---+-">¿Qué no te beso nunca,? Lo confieso,</l>
+     <l n="10" met="--+--+++-+-">y que llegue a besarte nunca esperes</l>
+     <l n="11" met="---+---+-+-">aunque dudaras de mi amor por eso.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">¿Por qué mis besos y caricias quieres,</l>
+     <l n="13" met="-+-+-+-+-+-">si te pondrá una mancha a cada beso</l>
+     <l n="14" met="-+-+-++--+-">la boca que ha besado otras mujeres?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

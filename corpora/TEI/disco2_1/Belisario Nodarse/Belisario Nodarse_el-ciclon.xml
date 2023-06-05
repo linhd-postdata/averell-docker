@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El ciclón</title>
+    <author>Belisario Nodarse</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Belisario Nodarse_el-ciclon</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El ciclón</title>
+     <author>Belisario Nodarse</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El ciclón</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+---+-">Ara el buey con pausado movimiento</l>
+     <l n="2" met="-+-+---+-+-">la fértil vega y el fecundo llano;</l>
+     <l n="3" met="---+---+-+-">y, mientras canta el ruiseñor, lozano</l>
+     <l n="4" met="+--+---+-+-">carmen aroma la región del viento.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+---+-">El sol, como un volcán, el firmamento</l>
+     <l n="6" met="-+---+---+-">alumbra, y su destello soberano</l>
+     <l n="7" met="--+--+---+-">resplandores arranca al océano</l>
+     <l n="8" met="--+--+---+-">que conmueve la tierra con su acento.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+++---++--+-">Todo es bellos y gentil ; más, de repente</l>
+     <l n="10" met="-+-+-+---+-">gigante, oscura nube abrumadora,</l>
+     <l n="11" met="+--+---+-+-">cubre del sol la inmaculada frente;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">desátase la lluvia; y, precursora</l>
+     <l n="13" met="-+-+-+---+-">de espanto y ruina, el agua del torrente</l>
+     <l n="14" met="-+-+---+-+-">el bosque inunda y el pensil deflora.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

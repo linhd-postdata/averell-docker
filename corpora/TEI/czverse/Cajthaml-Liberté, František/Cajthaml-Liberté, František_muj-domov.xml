@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Můj domov.</title>
+    <author>Cajthaml-Liberté, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cajthaml-Liberté, František_muj-domov</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Můj domov.</title>
+     <author>Cajthaml-Liberté, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Můj domov.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100100" rhyme="1" line_length="9">Na polích plno je kamení –</l>
+     <l n="2" met="10001010" rhyme="2" line_length="8">kamení a tvrdé hrudy,</l>
+     <l n="3" met="100101100" rhyme="1" line_length="9">pro černý chléb se pot pramení</l>
+     <l n="4" met="01001010" rhyme="2" line_length="8">a člověk je věčně chudý.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100101101" rhyme="3" line_length="9">Odvál mne ostrý vír v širý svět,</l>
+     <l n="6" met="01010010" rhyme="4" line_length="8">a přivál za dvacet roků,</l>
+     <l n="7" met="100100101" rhyme="3" line_length="9">na skráni vypučel bílý květ</l>
+     <l n="8" met="01010010" rhyme="4" line_length="8">a oheň vyhasl v oku.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010100100" rhyme="5" line_length="9">Byl podzim. Domov můj opuštěn,</l>
+     <l n="10" met="11010010" rhyme="6" line_length="8">v ráz teplo ze srdce mizí.</l>
+     <l n="11" met="010010101" rhyme="5" line_length="9">Já zdál se být jako v poli peň,</l>
+     <l n="12" met="01000010" rhyme="6" line_length="8">tak osamělý a cizí...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

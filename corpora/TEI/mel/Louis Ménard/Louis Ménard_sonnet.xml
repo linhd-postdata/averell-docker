@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SONNET</title>
+    <author>Louis Ménard</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Louis Ménard_sonnet</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SONNET</title>
+     <author>Louis Ménard</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SONNET</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">J'ai lu, je ne sais où, la légende amoureuse</l>
+     <l n="2" rhyme="b" line_length="6+6">De Raymond Lulle. On dit qu'un jour il rencontra</l>
+     <l n="3" rhyme="b" line_length="6+6">Une femme fort belle, et l'amour pénétra</l>
+     <l n="4" rhyme="a" line_length="6+6">Dans son cœur calme et vint troubler sa vie heureuse.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Il quitta, comme Faust, la route ténébreuse</l>
+     <l n="6" rhyme="b" line_length="6+6">De l'austère science, et son amour dura</l>
+     <l n="7" rhyme="b" line_length="6+6">Jusqu'au jour où l'objet qu'il aimait lui montra</l>
+     <l n="8" rhyme="a" line_length="6+6">Un sein que dévorait une lèpre hideuse.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Miroirs de volupté, beaux lacs aux flots d'azur,</l>
+     <l n="10" rhyme="c" line_length="6+6">Où se cache toujours quelque reptile impur,</l>
+     <l n="11" rhyme="d" line_length="6+6">Anges d'illusion, démons aux corps de femme,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Sirènes et Circés, qu'il est triste le jour</l>
+     <l n="13" rhyme="e" line_length="6+6">Où, pour guérir nos cœurs des poisons de l'amour,</l>
+     <l n="14" rhyme="d" line_length="6+6">Vous nous montrez à nu la lèpre de vos âmes !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

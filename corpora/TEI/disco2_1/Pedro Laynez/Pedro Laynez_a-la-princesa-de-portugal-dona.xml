@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A la princesa de Portugal doña Juana</title>
+    <author>Pedro Laynez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pedro Laynez_a-la-princesa-de-portugal-dona</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A la princesa de Portugal doña Juana</title>
+     <author>Pedro Laynez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A la princesa de Portugal doña Juana</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Altísima princesa en quien el cielo</l>
+     <l n="2" met="---+-++--+-">con abundante mano ha derramado</l>
+     <l n="3" met="-+---++--+-">la gloria y el valor tan extremado,</l>
+     <l n="4" met="---+-+-+-+-">por quien se estima en alto precio el suelo;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+-+-+-">cuyo saber, beldad y honesto celo,</l>
+     <l n="6" met="+--+-+-+-+-">digno de eternamente ser loado,</l>
+     <l n="7" met="++-+-++--+-">nos muestra claro ser claro traslado</l>
+     <l n="8" met="-+-+-+-+-+-">de aquel que te levanta a tanto vuelo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Si en los altos oídos se consiente</l>
+     <l n="10" met="-+-+-+-+-+-">llegar alguna vez al bajo canto,</l>
+     <l n="11" met="-+--+----+-">disculpa hallará mi atrevimiento,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+-+-+-">pues ver los claros ojos y alta frente</l>
+     <l n="13" met="-+--++-+-+-">bañados con tan largo y alto llanto,</l>
+     <l n="14" met="-+++---+-+-">subió tan alto mi atrevido intento.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

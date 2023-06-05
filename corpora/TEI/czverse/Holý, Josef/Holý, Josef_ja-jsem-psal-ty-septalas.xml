@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Já jsem psal, Ty šeptalas;</title>
+    <author>Holý, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Holý, Josef_ja-jsem-psal-ty-septalas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Já jsem psal, Ty šeptalas;</title>
+     <author>Holý, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Já jsem psal, Ty šeptalas;</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0010100" rhyme="1" line_length="7">Já jsem psal, Ty šeptalas; </l>
+     <l n="2" met="10100" rhyme="2" line_length="5">v život celý můj</l>
+     <l n="3" met="1010101" rhyme="1" line_length="7">zněl Tvé lyry měkký hlas!</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="101010101" rhyme="2" line_length="9">Lanos dala, já se spouštěl v sluj,</l>
+     <l n="5" met="0010101010" rhyme="3" line_length="10">kdem jsem z kopřiv uvil věnec jeden,</l>
+     <l n="6" met="1010101010" rhyme="3" line_length="10">žebřík dalas, já se vkrádal v eden,</l>
+     <l n="7" met="0010101" rhyme="4" line_length="7">kde jsem z růží věnce plet,</l>
+    </lg>
+    <lg n="3">
+     <l n="8" met="1010100010" rhyme="5" line_length="10">echo Tvého růžového rtíku,</l>
+     <l n="9" met="1010101" rhyme="4" line_length="7">oček lesk a lící květ</l>
+     <l n="10" met="1010001000" rhyme="5" line_length="10">psal jsem do starého památníku.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

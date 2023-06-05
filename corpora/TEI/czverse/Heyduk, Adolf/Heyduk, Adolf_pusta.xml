@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PUSTA.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_pusta</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PUSTA.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PUSTA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11101000" rhyme="1" line_length="8">Hle, má pusta nedohledná,</l>
+     <l n="2" met="10101010" rhyme="1" line_length="8">nikde jakás cesta sledná,</l>
+     <l n="3" met="10101010" rhyme="2" line_length="8">sotva někde v řídkém křoví</l>
+     <l n="4" met="10001010" rhyme="2" line_length="8">unavený pták si hoví!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="3" line_length="8">Nikde cesty; k horám, k boru,</l>
+     <l n="6" met="00101000" rhyme="3" line_length="8">vše se ztrácí na obzoru;</l>
+     <l n="7" met="10100010" rhyme="4" line_length="8">stejna v slunci je i v bouři,</l>
+     <l n="8" met="10001010" rhyme="4" line_length="8">mlhami si klidně kouří.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="00101010" rhyme="5" line_length="8">Když v ní vlci v zimě vyjí</l>
+     <l n="10" met="01001000" rhyme="5" line_length="8">a beťáři proletí ji</l>
+     <l n="11" met="10001010" rhyme="6" line_length="8">spěchající k vína kvasu,</l>
+     <l n="12" met="10001000" rhyme="6" line_length="8">zaduní, leč bez ohlasu.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10010010" rhyme="7" line_length="8">Zaduní a zas je tichá,</l>
+     <l n="14" met="10001010" rhyme="7" line_length="8">nehovoří, sotva dýchá</l>
+     <l n="15" met="01001010" rhyme="8" line_length="8">a na ňadrech, s kytkou křoví</l>
+     <l n="16" met="10100010" rhyme="8" line_length="8">jako magnátka si hoví.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

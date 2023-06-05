@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La tzigane</title>
+    <author>Guillaume Apollinaire</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Guillaume Apollinaire_la-tzigane</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La tzigane</title>
+     <author>Guillaume Apollinaire</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La tzigane</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">La tzigane savait d'avance</l>
+     <l n="2" rhyme="b" line_length="8">Nos deux vies barrées par les nuits</l>
+     <l n="3" rhyme="b" line_length="8">Nous lui dîmes adieu et puis</l>
+     <l n="4" rhyme="a" line_length="8">De ce puits sortit l'Espérance</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">L'amour lourd comme un ours privé</l>
+     <l n="6" rhyme="b" line_length="8">Dansa debout quand nous voulûmes</l>
+     <l n="7" rhyme="b" line_length="8">Et l'oiseau bleu perdit ses plumes</l>
+     <l n="8" rhyme="a" line_length="8">Et les mendiants leurs Ave</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">On sait très bien que l'on se damne</l>
+     <l n="10" rhyme="b" line_length="8">Mais l'espoir d'aimer en chemin</l>
+     <l n="11" rhyme="b" line_length="8">Nous fait penser main dans la main</l>
+     <l n="12" rhyme="a" line_length="8">A ce qu'a prédit la tzigane</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

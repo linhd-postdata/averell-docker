@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Tonda.</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_tonda</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Tonda.</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Tonda.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" rhyme="1" line_length="8">Tonda s koňmi před úvozem</l>
+     <l n="2" met="10001010" rhyme="1" line_length="8">zatáčí se s plným vozem,</l>
+     <l n="3" met="10001010" rhyme="2" line_length="8">na koníky zlostně brouká,</l>
+     <l n="4" met="100100" rhyme="3" line_length="6">hubuje, hromuje</l>
+     <l n="5" met="01001000" rhyme="2" line_length="8">a mračí se zpod klobouka.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="10001010" rhyme="4" line_length="8">Za úvozem potká Hanku</l>
+     <l n="7" met="10001000" rhyme="4" line_length="8">nesoucí mu pomazánku:</l>
+     <l n="8" met="10100010" rhyme="2" line_length="8">Tonda blaženě se kouká,</l>
+     <l n="9" met="100100" rhyme="3" line_length="6">notuje, tancuje,</l>
+     <l n="10" met="10001000" rhyme="2" line_length="8">usmívá se zpod klobouka.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

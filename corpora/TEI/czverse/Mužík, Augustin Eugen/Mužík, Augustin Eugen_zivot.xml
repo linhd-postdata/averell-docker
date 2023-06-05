@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Život.</title>
+    <author>Mužík, Augustin Eugen</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mužík, Augustin Eugen_zivot</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Život.</title>
+     <author>Mužík, Augustin Eugen</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Život.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001" rhyme="1" line_length="4">Život je břeh –</l>
+     <l n="2" met="01010" rhyme="2" line_length="5">kol moře šumí.</l>
+     <l n="3" met="10100" rhyme="1" line_length="5">A kdo z lidí všech</l>
+     <l n="4" met="01000" rhyme="2" line_length="5">mu porozumí?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010" rhyme="3" line_length="5">Jen zříme v děse,</l>
+     <l n="6" met="01010" rhyme="3" line_length="5">jak stále rve se</l>
+     <l n="7" met="1001" rhyme="4" line_length="4">od pruhu pruh –</l>
+     <l n="8" met="01001" rhyme="4" line_length="5">tu bratr, tu druh.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010110" rhyme="5" line_length="6">Jen nehleď kol v bolu,</l>
+     <l n="10" met="0101" rhyme="6" line_length="4">co zvědět chceš?</l>
+     <l n="11" met="010010" rhyme="5" line_length="6">A záhy tam dolů</l>
+     <l n="12" met="100" rhyme="6" line_length="3">spadneš též!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

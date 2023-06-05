@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>En honor de Juan de Castellanos</title>
+    <author>Jerónimo Gálvez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jerónimo Gálvez_en-honor-de-juan-de-castellano</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>En honor de Juan de Castellanos</title>
+     <author>Jerónimo Gálvez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>En honor de Juan de Castellanos</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+----+---+-">Brazos de los insignes castellanos,</l>
+     <l n="2" met="---+-++--+-">engrandeciendo más honra ganada,</l>
+     <l n="3" met="-+---+---+-">llegaron con los filos de la espada</l>
+     <l n="4" met="++-+-+---+-">do no llegaron griegos ni romanos.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="----+-+--+-">Pues navegando mares océanos</l>
+     <l n="6" met="---+-+-+-+-">por donde no halló nación entrada,</l>
+     <l n="7" met="++---+---+-">han dado monarquía prosperada</l>
+     <l n="8" met="--++-+---+-">al mejor rey de todos los humanos.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">Estaban sus proezas en los pechos</l>
+     <l n="10" met="--+--+---+-">del olvido por falta de escritura,</l>
+     <l n="11" met="-+++-+---+-">mas vos las dais al siglo venidero.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+---+-+-">Dais, Castellanos, castellanos hechos.</l>
+     <l n="13" met="+-++-+-+-+-">¿Qué mayor bien, ni qué mayor ventura,</l>
+     <l n="14" met="--++-+---+-">que teneros a vos por pregonero?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

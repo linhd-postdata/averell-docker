@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>POZDĚ.</title>
+    <author>Jelínek, Hanuš</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jelínek, Hanuš_pozde</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>POZDĚ.</title>
+     <author>Jelínek, Hanuš</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>POZDĚ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" line_length="11">A můžeš prosit, můžeš ruce spínat</l>
+     <l n="2" met="0101010100" rhyme="1" line_length="10">a v prosbě zvedat bílá ramena</l>
+     <l n="3" met="01000100010" line_length="11">a naříkat a zoufale se svíjet</l>
+     <l n="4" met="0101010100" rhyme="1" line_length="10">a tiše vzlykat, duše zlomená,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000101010" line_length="11">je pozdě už a nelze jít už zpátky.</l>
+     <l n="6" met="0101010100" rhyme="2" line_length="10">Je šelma volná, praskly okovy.</l>
+     <l n="7" met="11000100010" line_length="11">Kříž udělej a otčenáš se modli!</l>
+     <l n="8" met="1101010100" rhyme="2" line_length="10">Krev lidskou zvětřil tygr hladový!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010001010" line_length="11">Tvé hrdlo z atlasu je měkké, bílé,</l>
+     <l n="10" met="0100010100" rhyme="3" line_length="10">však pozdě je. Už sotva vykřikne.</l>
+     <l n="11" met="01010101010" line_length="11">Jen jeden šelmy skok – a potom ticho –</l>
+     <l n="12" met="0101010100" rhyme="3" line_length="10">a rudá krev tvá z něho vystřikne.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01010101010" line_length="11">Teď pláče nech a osuš svoje oči;</l>
+     <l n="14" met="0100100100" rhyme="4" line_length="10">toť efekty otřelé z divadla:</l>
+     <l n="15" met="01010101010" line_length="11">své dej mi rty a svoje dej mi tělo,</l>
+     <l n="16" met="0001010100" rhyme="4" line_length="10">když už jsi duší peklu propadla...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

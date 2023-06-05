@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le voile</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">8</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_le-voile</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le voile</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le voile</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" />
+    <lg n="2">
+     <l n="1" rhyme="3" line_length="6+6">N'avez-vous pas levé votre voile aujourd'hui ?</l>
+    </lg>
+    <lg n="3" />
+    <lg n="4">
+     <l n="2" rhyme="6" line_length="6+6">Un homme alors passait ? un homme en caftan vert ?</l>
+    </lg>
+    <lg n="5" />
+    <lg n="6">
+     <l n="3" rhyme="12" line_length="6+6">Le soleil était rouge à son coucher ce soir !</l>
+    </lg>
+    <lg n="7" />
+    <lg n="8">
+     <l n="4" rhyme="x" line_length="6+6">C'en est un que du moins tu ne lèveras pas !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

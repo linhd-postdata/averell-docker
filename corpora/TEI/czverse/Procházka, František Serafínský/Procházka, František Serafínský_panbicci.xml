@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PÁNBÍČCI.</title>
+    <author>Procházka, František Serafínský</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Procházka, František Serafínský_panbicci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PÁNBÍČCI.</title>
+     <author>Procházka, František Serafínský</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PÁNBÍČCI.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01001010100" rhyme="1" line_length="11">Kdo vyčítá tuze české pánbíčky,</l>
+     <l n="2" met="001000101000" line_length="12">jak ty literární, tak ty politické</l>
+     <l n="3" met="10101010100" rhyme="1" line_length="11">a svých vtipů do nich vtlouká hřebíčky,</l>
+     <l n="4" met="100" line_length="3">řekl bych,</l>
+     <l n="5" met="010100" rhyme="2" line_length="6">že chtěl být jedním z nich.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

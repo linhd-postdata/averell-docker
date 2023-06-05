@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>[SONG from the Opera of ELPIDIA.]</title>
+    <author>Mary Jones</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mary Jones_song-from-the-opera-of-elpidia</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Eighteenth Century Poetry Archive</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>[SONG from the Opera of ELPIDIA.]</title>
+     <author>Mary Jones</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>[SONG from the Opera of ELPIDIA.]</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="quatrain">
+     <l n="1" met="-+|-+|-+|-+" line_length="8">radiant eyes who can withstand,</l>
+     <l n="2" met="-+|-+|-+" line_length="6">That ev'n in sleeping charm?</l>
+     <l n="3" met="-+|-+|-+|-+" line_length="8">Or who resist the soft command,</l>
+     <l n="4" met="-+|-+|-+" line_length="6">Since thro' their shades they warm?</l>
+    </lg>
+    <lg n="2" stanza_type="quatrain">
+     <l n="5" met="-+|-+|-+|-+" line_length="8">Insensible how much they shine,</l>
+     <l n="6" met="-+|-+|-+" line_length="6">As ah! how much I grieve;</l>
+     <l n="7" met="-+|-+|-+|-+" line_length="8">I greedy gaze, you sleep supine,</l>
+     <l n="8" met="-+|-+|-+" line_length="6">Nor know the wounds you give.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

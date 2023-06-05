@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LA FLEUR ET LE PAPILLON</title>
+    <author>Alexandre Ducros</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">3</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alexandre Ducros_la-fleur-et-le-papillon</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LA FLEUR ET LE PAPILLON</title>
+     <author>Alexandre Ducros</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LA FLEUR ET LE PAPILLON</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6">— « C'est pour toi mon parfum et ma riche couleur ; »</l>
+     <l n="2" rhyme="b" line_length="6">Sur mon calice d'or le bonheur se butine :</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="b" line_length="6+6">Le pauvre papillon s'envola confondu :</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

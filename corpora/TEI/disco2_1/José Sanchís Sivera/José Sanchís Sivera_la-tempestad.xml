@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La tempestad</title>
+    <author>José Sanchís Sivera</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Sanchís Sivera_la-tempestad</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La tempestad</title>
+     <author>José Sanchís Sivera</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La tempestad</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="unknown">
+     <l n="1" met="-+---+--+---+-">El cielo se encapota de negros nubarrones,</l>
+     <l n="2" met="-+---+--+---+-">la Luna que brillaba total se oscureció,</l>
+     <l n="3" met="-+---+--+---+-">de pronto se levantan los fieros aquilones</l>
+     <l n="4" met="--+--+----+-+-">produciendo en las aguas estrepitoso son.</l>
+    </lg>
+    <lg n="2" stanza_type="unknown">
+     <l n="5" met="-+---+------+-">Las olas se embravecen al compás de los vientos,</l>
+     <l n="6" met="-+---+-+----+-">se oculta en las estrellas todo su resplandor,</l>
+     <l n="7" met="-+-+-+--+-++-">angustias muy amargas, pesares muy cruentos,</l>
+     <l n="8" met="-+---+-+---+-">el cambio repentino anuncia al corazón.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+--+-+-+-">El blanco de las aguas, el fiero son del trueno,</l>
+     <l n="10" met="-+-+-+-+-+-+-">la lluvia espesa y fría que ya cayendo va,</l>
+     <l n="11" met="+--+-++----+-">hacen que el mar bravío diga desde su seno:</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+--+---+-">«Marino estar alerta que va la tempestad.</l>
+     <l n="13" met="+--+-++-++--+-">Buque, velero, tente, detente en tu camino;</l>
+     <l n="14" met="-+---+-+---+-">soldados de las naves, oíd al capitán.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Touha.</title>
+    <author>Pokorný, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný, Rudolf_touha</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Touha.</title>
+     <author>Pokorný, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Touha.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00001010" rhyme="1" line_length="8">Kde se ta má touha vzala?</l>
+     <l n="2" met="10001000" rhyme="1" line_length="8">Duše Tvá ji odchovala.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="10101010" rhyme="2" line_length="8">A mé srdce touží pro Tě,</l>
+     <l n="4" met="00101000" rhyme="2" line_length="8">jak ten slavík na samotě.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="10100010" rhyme="3" line_length="8">Slzy písně jsou mé touhy,</l>
+     <l n="6" met="10101010" rhyme="3" line_length="8">vzdech k nim nápěv teskný, dlouhý.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

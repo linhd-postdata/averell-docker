@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Yace en esta tierra fría,</title>
+    <author>Francisco de Quevedo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco de Quevedo_yace-en-esta-tierra-fria</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Poesía Lírica Castellana Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Yace en esta tierra fría,</title>
+     <author>Francisco de Quevedo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Yace en esta tierra fría,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="Redondillas">
+     <l n="1" met="+-+-+-+-">Yace en esta tierra fría,</l>
+     <l n="2" met="+--+-+-">digna de toda crianza,</l>
+     <l n="3" met="-+----+-">la vieja cuya alabanza</l>
+     <l n="4" met="+-+---+-">tantas plumas merecía.</l>
+     <l n="5" met="+--+-+-">No quiso en el cielo entrar</l>
+     <l n="6" met="--+---+-">a gozar de las estrellas,</l>
+     <l n="7" met="-+---+-">por no estar entre doncellas</l>
+     <l n="8" met="-+-+--+-">que no pudiese manchar.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

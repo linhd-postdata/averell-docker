@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>II</title>
+    <author>José Zorrilla</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Zorrilla_ii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>II</title>
+     <author>José Zorrilla</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>II</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">De la luna de miel el alborozo</l>
+     <l n="2" met="-++---+--+-">durando aún y de la boda el ruido,</l>
+     <l n="3" met="-+---+---+-">la muerte, de su ser con el destrozo,</l>
+     <l n="4" met="-+---++--+-">la hundió en la eternidad, no en el olvido.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-++--+---+-">Lloradla sin contén y sin rebozo</l>
+     <l n="6" met="-+---+-+-+-">llorad a la mujer que habéis perdido;</l>
+     <l n="7" met="-++--+-+++-">que no amenguan la prez de Rey tan mozo</l>
+     <l n="8" met="-+---+++-+-">las lágrimas del Rey tan buen marido.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-+-+-+-">Mientras su duelo el ánimo os destroce,</l>
+     <l n="10" met="-+---+--++-">llorad con vuestro pueblo que la llora,</l>
+     <l n="11" met="-++---+-+-">lloradla, Señor Rey Alfonso Doce;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+---+-">perlas son vuestras lágrimas de ahora,</l>
+     <l n="13" met="-+---+---+-">y el pueblo que su precio reconoce,</l>
+     <l n="14" met="--++-+---+-">para vos las recoge y atesora.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Desilusión</title>
+    <author>Vicente Sarthou Carreres</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vicente Sarthou Carreres_desilusion</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Desilusión</title>
+     <author>Vicente Sarthou Carreres</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Desilusión</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--++-+---+--+-">Porque nunca has logrado conseguir el anhelo</l>
+     <l n="2" met="--+++-+-+--+-">de encontrar un Lohengrin todo fuego y amor,</l>
+     <l n="3" met="--+--+-+-+--+-">el coral de tus labios ha perdido color</l>
+     <l n="4" met="--+--++-+--+-">y a tu pecho aprisiona un letal desconsuelo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--++-+-++--+-">Porque mucho has soñado en un mágico cielo,</l>
+     <l n="6" met="+-+--+--+++-+-">y un jardín donde nunca penetra un gran dolor,</l>
+     <l n="7" met="-+---+--+---+-">la sangre de tus venas se queda sin calor</l>
+     <l n="8" met="-+---+--++--+-">y muchas ilusiones de tu alma alzan el vuelo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+-+-+-">Y al pensar en el mundo un día y otro día</l>
+     <l n="10" met="-+---+---+--+-">tus tiernas esperanzas se deshojan cual flores;</l>
+     <l n="11" met="--+--+--+---+-">en tu rostro divino se esfuma la alegría,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+--+-">y los negros reflejos de tus hondos dolores</l>
+     <l n="13" met="++---+------+-">te encierran en la cárcel de tu melancolía</l>
+     <l n="14" met="-+--+---+--+-">sujeta en los hierras de tus muertos amores.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

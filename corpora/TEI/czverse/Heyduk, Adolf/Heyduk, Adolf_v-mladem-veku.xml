@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V mladém věku!</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_v-mladem-veku</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V mladém věku!</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V mladém věku!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100" rhyme="1" line_length="8">Jak vášnivě se miluje</l>
+     <l n="2" met="010101010" rhyme="2" line_length="9">v tom vášní plném mladém věku,</l>
+     <l n="3" met="01010100" rhyme="1" line_length="8">když srdce v písních hoduje,</l>
+     <l n="4" met="010101000" rhyme="2" line_length="9">a krev když hoří ve člověku.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" rhyme="3" line_length="8">Tu z pestra krásných myšlének</l>
+     <l n="6" met="100101000" rhyme="4" line_length="9">zvedá se jiskra plamenitá,</l>
+     <l n="7" met="01010101" rhyme="3" line_length="8">a dává srdci nový lék,</l>
+     <l n="8" met="010101010" rhyme="4" line_length="9">jímž nové jaro duši zkvítá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01011010" rhyme="5" line_length="8">Leč chladne krev, o žel, o žel,</l>
+     <l n="10" met="010101010" rhyme="6" line_length="9">a vzdušné hrady bouře kácí,</l>
+     <l n="11" met="01010101" rhyme="5" line_length="8">a život setře lásky pel,</l>
+     <l n="12" met="010101000" rhyme="6" line_length="9">a srdce? – srdce dokrvácí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VI</title>
+    <author>Albert Samain</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Albert Samain_vi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VI</title>
+     <author>Albert Samain</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VI</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Il pleut des pétales de fleurs.</l>
+     <l n="2" rhyme="b" line_length="8">La flamme se courbe au vent tiède</l>
+     <l n="3" rhyme="b" line_length="8">De mes deux yeux je te possède,</l>
+     <l n="4" rhyme="a" line_length="8">Et mes yeux ont besoin de pleurs.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Vieille argile faite aux douleurs,</l>
+     <l n="6" rhyme="b" line_length="8">Quel goût de souffrir sans remède</l>
+     <l n="7" rhyme="b" line_length="8">Harcèle ainsi le cœur qui cède…</l>
+     <l n="8" rhyme="a" line_length="8">Il pleut des pétales de fleurs.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="8">Les roses meurent, chaque et toutes.</l>
+     <l n="10" rhyme="c" line_length="8">Je ne dis rien, et tu m'écoutes</l>
+     <l n="11" rhyme="d" line_length="8">Sous tes immobiles cheveux.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="8">L'amour est lourd — Mon âme est lasse.</l>
+     <l n="13" rhyme="d" line_length="8">Quelle est donc, Chère, sur nous deux</l>
+     <l n="14" rhyme="e" line_length="8">Cette aile en silence qui passe ?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

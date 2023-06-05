@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Cikán.</title>
+    <author>Baše, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Baše, Josef_cikan</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Cikán.</title>
+     <author>Baše, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Cikán.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" rhyme="1" line_length="8">Válel se cikán po stráni,</l>
+     <l n="2" met="010101" rhyme="2" line_length="6">byl hladov jako chrt,</l>
+     <l n="3" met="01010100" rhyme="1" line_length="8">i dal se chuďas do lkání</l>
+     <l n="4" met="010101" rhyme="2" line_length="6">a volal kmotru smrt.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11010100" rhyme="3" line_length="8">Hoj slovo stuhlo v jazyku</l>
+     <l n="6" met="010101" rhyme="4" line_length="6">a kosti projel mráz.</l>
+     <l n="7" met="01010100" rhyme="3" line_length="8">„Jsem tady, vstávej, chlapíku,</l>
+     <l n="8" met="010101" rhyme="4" line_length="6">tak jakou? nemám čas!“</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010100" rhyme="5" line_length="8">Sebrala hrůza cikána,</l>
+     <l n="10" met="110100" rhyme="6" line_length="6">vtip ale v odvěť klad’:</l>
+     <l n="11" met="10010100" rhyme="5" line_length="8">„Vidíš tam toho havrana –</l>
+     <l n="12" met="101101" rhyme="6" line_length="6">a já mám velký hlad!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

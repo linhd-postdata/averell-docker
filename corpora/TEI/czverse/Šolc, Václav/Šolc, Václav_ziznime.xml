@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ŽÍZNÍME.</title>
+    <author>Šolc, Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Šolc, Václav_ziznime</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ŽÍZNÍME.</title>
+     <author>Šolc, Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ŽÍZNÍME.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" line_length="8">Žízníme, vyschl pramen náš,</l>
+     <l n="2" met="01010100" rhyme="1" line_length="8">pal sžírá úd nám po údu,</l>
+     <l n="3" met="10010100" line_length="8">vyprahlý jazyk blabolí</l>
+     <l n="4" met="01100100" rhyme="1" line_length="8">a klít nemůže osudu!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" line_length="8">Žízníme – rozpjat život náš,</l>
+     <l n="6" met="01000100" rhyme="2" line_length="8">jak na kříži pněl spasitel,</l>
+     <l n="7" met="11010100" line_length="8">v terč srdce naše vetknuto,</l>
+     <l n="8" met="01010100" rhyme="2" line_length="8">a k cíli míří nepřítel!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010101" line_length="8">Žízníme! žhavý šepce ret,</l>
+     <l n="10" met="01010101" rhyme="3" line_length="8">a dole chátra střežíc kříž</l>
+     <l n="11" met="10010101" line_length="8">s posměchem mísí s jedem žluč</l>
+     <l n="12" met="01010101" rhyme="3" line_length="8">a mok ten v naši leje číš!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10001000" line_length="8">Žízníme! – však neklite nám,</l>
+     <l n="14" met="01010101" rhyme="4" line_length="8">již taký hráte s námi zpěv,</l>
+     <l n="15" met="01010001" line_length="8">když žlučí napojený ret</l>
+     <l n="16" met="01010101" rhyme="4" line_length="8">zas žluč jen vlévá ve svůj zpěv!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

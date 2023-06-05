@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>En Bateau</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_en-bateau</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>En Bateau</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>En Bateau</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">L’étoile du berger tremblote</l>
+     <l n="2" rhyme="a" line_length="8">Dans l’eau plus noire et le pilote</l>
+     <l n="3" rhyme="a" line_length="8">Cherche un briquet dans sa culotte.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="a" line_length="8">C’est l’instant, Messieurs, ou jamais,</l>
+     <l n="5" rhyme="a" line_length="8">D’être audacieux, et je mets</l>
+     <l n="6" rhyme="a" line_length="8">Mes deux mains partout désormais !</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="a" line_length="8">Le chevalier Atys qui gratte</l>
+     <l n="8" rhyme="a" line_length="8">Sa guitare, à Chloris l’ingrate</l>
+     <l n="9" rhyme="a" line_length="8">Lance une œillade scélérate.</l>
+    </lg>
+    <lg n="4">
+     <l n="10" rhyme="a" line_length="8">L’abbé confesse bas Églé,</l>
+     <l n="11" rhyme="a" line_length="8">Et ce vicomte déréglé</l>
+     <l n="12" rhyme="a" line_length="8">Des champs donne à son cœur la clé.</l>
+    </lg>
+    <lg n="5">
+     <l n="13" rhyme="a" line_length="8">Cependant la lune se lève</l>
+     <l n="14" rhyme="a" line_length="8">Et l'esquif en sa course brève</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

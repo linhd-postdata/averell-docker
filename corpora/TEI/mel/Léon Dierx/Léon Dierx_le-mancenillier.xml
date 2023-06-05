@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LE MANCENILLIER</title>
+    <author>Léon Dierx</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Léon Dierx_le-mancenillier</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LE MANCENILLIER</title>
+     <author>Léon Dierx</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LE MANCENILLIER</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">La jeunesse est un arbre aux larges frondaisons,</l>
+     <l n="2" rhyme="b" line_length="6+6">Mancenillier vivace aux fruits inaccessibles ;</l>
+     <l n="3" rhyme="b" line_length="6+6">Notre âme et notre cœur sont les vibrantes cibles</l>
+     <l n="4" rhyme="a" line_length="6+6">De ces rameaux aigus d'où suintent les poisons.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Ô feuilles, dont la sève est notre sang ! Mirage</l>
+     <l n="6" rhyme="b" line_length="6+6">Masquant le ciel menteur des jours qui ne sont plus !</l>
+     <l n="7" rhyme="b" line_length="6+6">Ironiques espoirs qui croissez plus touffus !</l>
+     <l n="8" rhyme="a" line_length="6+6">Tous nos désirs vers vous sont dardés avec rage.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Nulle bouche n'a ri, nul oiseau n'a chanté,</l>
+     <l n="10" rhyme="b" line_length="6+6">Nulle fleur n'est éclose aux grappes jamais mûres.</l>
+     <l n="11" rhyme="b" line_length="6+6">D'où viennent ces parfums, ces rires, ces murmures,</l>
+     <l n="12" rhyme="a" line_length="6+6">Vains regrets de ce qui n'a jamais existé ?</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="6+6">Arbre vert du passé, mancenillier sonore,</l>
+     <l n="14" rhyme="b" line_length="6+6">Je plante avec effroi la hache dans ton flanc,</l>
+     <l n="15" rhyme="b" line_length="6+6">Bûcheron altéré d'azur, vengeur tremblant,</l>
+     <l n="16" rhyme="a" line_length="6+6">Qui crains de ne plus voir le ciel mentir encore !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

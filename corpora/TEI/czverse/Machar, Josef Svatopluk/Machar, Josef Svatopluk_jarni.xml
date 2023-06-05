@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JARNÍ.</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_jarni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JARNÍ.</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JARNÍ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110100010" rhyme="1" line_length="9">Vzduch šumí. Paprskové žární</l>
+     <l n="2" met="10010100" rhyme="2" line_length="8">lákají listy ze dřeva,</l>
+     <l n="3" met="010001010" rhyme="1" line_length="9">a opojivá lenost jarní</l>
+     <l n="4" met="10010100" rhyme="2" line_length="8">se všemi údy rozlévá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010001010" rhyme="3" line_length="9">Snad leností tou drží schvalně</l>
+     <l n="6" met="01010100" rhyme="4" line_length="8">nás v bytech nebes královna,</l>
+     <l n="7" met="010001010" rhyme="3" line_length="9">ji poslala a má být valně</l>
+     <l n="8" met="01000100" rhyme="4" line_length="8">to obrana jen žertovná,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="000101000" rhyme="5" line_length="9">by nás tak zimou umořené</l>
+     <l n="10" met="11010100" rhyme="6" line_length="8">v ráz zlatým okem nezhlídla,</l>
+     <l n="11" met="010101000" rhyme="5" line_length="9">ty líce žluté, zubožené,</l>
+     <l n="12" met="11010100" rhyme="6" line_length="8">zrak vpadlý, holá strašidla.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

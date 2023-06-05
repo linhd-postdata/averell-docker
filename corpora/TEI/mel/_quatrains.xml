@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>QUATRAINS</title>
+    <author />
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>_quatrains</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>QUATRAINS</title>
+     <author />
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>QUATRAINS</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Brisez les tristes fers du honteux esclavage</l>
+     <l n="2" rhyme="b" line_length="6+6">Où vous tient du Péché le commerce odieux,</l>
+     <l n="3" rhyme="a" line_length="6+6">Et venez recevoir le glorieux servage</l>
+     <l n="4" rhyme="b" line_length="6+6">Que vous tendent les mains de la Reyne des Cieux.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">L'un sur vous à vos sens donne pleine victoire,</l>
+     <l n="6" rhyme="b" line_length="6+6">L'autre sur vos désirs vous fait régner en Roys ;</l>
+     <l n="7" rhyme="a" line_length="6+6">L'un vous tire aux Enfers et l'autre dans la Gloire ;</l>
+     <l n="8" rhyme="b" line_length="6+6">Hélas, peut-on, Mortels, balancer sur ce choix ?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

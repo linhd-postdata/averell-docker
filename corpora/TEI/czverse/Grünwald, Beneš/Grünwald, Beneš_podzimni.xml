@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Podzimní.</title>
+    <author>Grünwald, Beneš</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Grünwald, Beneš_podzimni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Podzimní.</title>
+     <author>Grünwald, Beneš</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Podzimní.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101001100" rhyme="1" line_length="10">Jen dychla jeseň a jilm zkrvavěl,</l>
+     <l n="2" met="11000101000" rhyme="2" line_length="11">daň odvádí jí žlutá akacie,</l>
+     <l n="3" met="01001101010" rhyme="2" line_length="11">jí zarosen list psího vína hnije,</l>
+     <l n="4" met="0101010101" rhyme="1" line_length="10">a zvolna v česlo plynou mraky včel.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010101" rhyme="1" line_length="10">A zvolna slunce padá v mlhy běl,</l>
+     <l n="6" met="01010101010" rhyme="3" line_length="11">již celou oblil kosých blesků příval,</l>
+     <l n="7" met="01010101010" rhyme="3" line_length="11">v niž padnou v sled, jak mrtvý v rov by splýval.</l>
+     <l n="8" met="1101110100" rhyme="4" line_length="10">Jdi duchu spat, jdi, vše tu krátké jest,</l>
+     <l n="9" met="0001010101" rhyme="4" line_length="10">nic tvým... Co ze snů zbylo – holá klest:</l>
+     <l n="10" met="01010101010" rhyme="3" line_length="11">tys, pokud mohls, vždy ji v květy skrýval.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

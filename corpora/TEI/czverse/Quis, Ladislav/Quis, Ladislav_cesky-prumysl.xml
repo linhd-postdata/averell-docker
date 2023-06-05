@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Český průmysl.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_cesky-prumysl</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Český průmysl.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Český průmysl.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010001000" rhyme="1" line_length="11">My vždycky v průmyslu jsme vynikali:</l>
+     <l n="2" met="0101000101010" rhyme="1" line_length="13">Tak Němci za Žižky již české cepy znali,</l>
+     <l n="3" met="0100000101000" rhyme="1" line_length="13">jim za hranice jsme je tehda dodávali,</l>
+     <l n="4" met="0101000100000" rhyme="1" line_length="13">též kůže ve velkém jim vydělávávali.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

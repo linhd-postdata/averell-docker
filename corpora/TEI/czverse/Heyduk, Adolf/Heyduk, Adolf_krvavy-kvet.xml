@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Krvavý květ.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_krvavy-kvet</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Krvavý květ.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Krvavý květ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010001000" rhyme="1" line_length="9">Nic netěší, co těšívalo,</l>
+     <l n="2" met="010100" rhyme="2" line_length="6">teď těšíš jenom ty;</l>
+     <l n="3" met="010100010" rhyme="1" line_length="9">je skutkem, co se dřív mi zdálo,</l>
+     <l n="4" met="010001000" rhyme="1" line_length="9">že štěstí by se ukrývalo</l>
+     <l n="5" met="0101" rhyme="2" line_length="4">v tak malé rty?</l>
+     <l n="6" met="010001010" line_length="9">A přece! Vše, co srdce hněte,</l>
+     <l n="7" met="010101" rhyme="3" line_length="6">tvůj, Lilo, plaší ret;</l>
+     <l n="8" met="010010010" rhyme="4" line_length="9">tvůj pohled tak milostně svítá,</l>
+     <l n="9" met="010001010" rhyme="4" line_length="9">že z úhoru mých ňader zkvítá</l>
+     <l n="10" met="1001" rhyme="3" line_length="4">krvavý květ!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

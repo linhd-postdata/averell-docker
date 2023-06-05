@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Tichou nocí...</title>
+    <author>Nečas, Jan Evangelista</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nečas, Jan Evangelista_tichou-noci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Tichou nocí...</title>
+     <author>Nečas, Jan Evangelista</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Tichou nocí...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101010" rhyme="1" line_length="10">Tichou nocí plyne měsíc zlatý,</l>
+     <l n="2" met="1010101000" rhyme="1" line_length="10">slavík v sadě zdřímnul nad poupaty. –</l>
+     <l n="3" met="1010101010" rhyme="2" line_length="10">Cítím, jak mi vůní fial nočních,</l>
+     <l n="4" met="1000101000" rhyme="2" line_length="10">ve ševelu olší nadpotočních</l>
+     <l n="5" met="1010" line_length="4">mysl stoupá –</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="101010" rhyme="3" line_length="6">Země v klidu hluchém –</l>
+     <l n="7" met="0110100010" rhyme="3" line_length="10">a duch touží spojiti se s duchem,</l>
+     <l n="8" met="1010101000" rhyme="4" line_length="10">který dechem svého milování</l>
+     <l n="9" met="1010101010" rhyme="4" line_length="10">nese celou světů plnou báni</l>
+     <l n="10" met="1000100010" rhyme="5" line_length="10">nekonečným prostorem a časem,</l>
+     <l n="11" met="1010101010" rhyme="5" line_length="10">vládna vedrem, mrazem, tmou i jasem –</l>
+    </lg>
+    <lg n="3">
+     <l n="12" met="1010101010" rhyme="6" line_length="10">Tichou nocí plyne měsíc zlatý,</l>
+     <l n="13" met="1010101000" rhyme="6" line_length="10">slavík v sadě dřímá nad poupaty.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

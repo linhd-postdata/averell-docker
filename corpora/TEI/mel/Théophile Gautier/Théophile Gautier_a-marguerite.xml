@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A MARGUERITE</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_a-marguerite</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A MARGUERITE</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A MARGUERITE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Il est, dans la légende, une vierge martyre,</l>
+     <l n="2" rhyme="b" line_length="6+6">Qui mène en laisse une hydre aux tortueux replis.</l>
+     <l n="3" rhyme="b" line_length="6+6">Près d'une roue à dents, tenant en main un lis,</l>
+     <l n="4" rhyme="a" line_length="6+6">L'Ange d'Urbin l'a peinte et le monde l'admire.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Aux prés, pousse une fleur, qu'en son naïf délire,</l>
+     <l n="6" rhyme="b" line_length="6+6">L'inquiète amoureuse avec ses doigts pâlis,</l>
+     <l n="7" rhyme="b" line_length="6+6">Questionne, comptant les pétales cueillis,</l>
+     <l n="8" rhyme="a" line_length="6+6">Et suspendant son âme au dernier qu'elle tire.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Mystérieusement dans son nid de satin,</l>
+     <l n="10" rhyme="c" line_length="6+6">Brûle un joyau sans prix qui porte un nom latin</l>
+     <l n="11" rhyme="d" line_length="6+6">Et dont le troupeau vil dédaigne le mérite.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Ne cherchez pas le mot de l'énigme à côté :</l>
+     <l n="13" rhyme="e" line_length="6+6">Martyre, fleur, joyau, vertu, parfum, beauté,</l>
+     <l n="14" rhyme="d" line_length="6+6">Tout cela simplement veut dire : Marguerite !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

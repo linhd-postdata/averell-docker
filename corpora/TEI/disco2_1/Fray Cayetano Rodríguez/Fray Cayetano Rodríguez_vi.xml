@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VI</title>
+    <author>Fray Cayetano Rodríguez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fray Cayetano Rodríguez_vi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VI</title>
+     <author>Fray Cayetano Rodríguez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VI</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++---++--+-">¿Tú lleno de pavor pasas el día</l>
+     <l n="2" met="-+---+---+-">los males de tu patria contemplando,</l>
+     <l n="3" met="-+-+-+-+-+-">y huyendo de un amigo al ruego blando</l>
+     <l n="4" met="+--+-----+-">buscas ansioso la melancolía?</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++--++---+-">¿Qué hiciste infeliz hombre tu alegría</l>
+     <l n="6" met="-+---++-+-">los grillos al romper? ¿a do temblando</l>
+     <l n="7" met="+--+---+-+-">llevas la planta con tu sombra hablando?</l>
+     <l n="8" met="--++---+-+-">¡Infeliz patria, si de ti confía!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+---+-">Húndete, miserable; a tus hermanos</l>
+     <l n="10" met="-+-+-+-+-+-">devuélveles tu mal ceñida espada,</l>
+     <l n="11" met="++-+-+-+-+-">no la profanen tan cobardes manos.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+-+-+-">La augusta Libertad con faz airada</l>
+     <l n="13" met="+--+-----+-">te apartará de sus americanos,</l>
+     <l n="14" met="--+--+-+-+-">y en su templo jamás tendrás entrada.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

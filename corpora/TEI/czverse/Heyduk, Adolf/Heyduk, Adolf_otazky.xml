@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Otázky.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_otazky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Otázky.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Otázky.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Vločky sněhu! Jak to padá</l>
+     <l n="2" met="1000010" rhyme="2" line_length="7">k nohám mým vždy víc a víc;</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">slunce, kráso, Vesno mladá,</l>
+     <l n="4" met="1000100" rhyme="2" line_length="7">vyjdeš-li mi ještě vstříc,</l>
+     <l n="5" met="10001010" line_length="8">vyjdeš-li mi ještě jednou</l>
+     <l n="6" met="1000100" rhyme="2" line_length="7">s purpurovou růží vstříc?</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="10001010" rhyme="3" line_length="8">Budeš-li mi, paní smavá,</l>
+     <l n="8" met="1010101" rhyme="4" line_length="7">v luhu květné vínky vít,</l>
+     <l n="9" met="01001010" rhyme="3" line_length="8">či bude ta růže tmavá</l>
+     <l n="10" met="1010101" rhyme="4" line_length="7">v prsti mého hrobu tkvít?</l>
+     <l n="11" met="10001000" line_length="8">Dotouženo, dotrpěno</l>
+     <l n="12" met="1010100" rhyme="4" line_length="7">musí také jednou být!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A un navío</title>
+    <author>Federico Trujillo de la Peña</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Federico Trujillo de la Peña_a-un-navio</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A un navío</title>
+     <author>Federico Trujillo de la Peña</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A un navío</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-++-+-+-+-">Fuiste tú, roto leño, audaz navío</l>
+     <l n="2" met="--+--+---+-">que arrostraste la cólera del viento;</l>
+     <l n="3" met="-+---+-+-+-">¿por qué se estremeció tu firme asiento</l>
+     <l n="4" met="-+-+---+-+-">cuando árbol eras, en el bosque umbrío?</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">Mostrar quisiste tu potente brío,</l>
+     <l n="6" met="--+--++--+-">y buscando tu orgullo otro elemento,</l>
+     <l n="7" met="+-+--+---+-">te arrojaste en el Ponto turbulento,</l>
+     <l n="8" met="-+-+---+-+-">la frente alzando al huracán bravío:</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+-++++-+-">La tormenta te ve, ya te amenaza,</l>
+     <l n="10" met="+-++---+-+-">llega y te arranca la atrevida antena,</l>
+     <l n="11" met="-+-+---+++-">contigo lucha y con furor te abraza;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+---+--+-">y ¡ah infelice! a la desierta arena</l>
+     <l n="13" met="++---++--+-">te arroja, y con furor te despedaza:</l>
+     <l n="14" met="++-+-+-+-+-">¡ve cuánto fue tu orgullo y es tu pena!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

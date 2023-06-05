@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>En tu ausencia</title>
+    <author>Lisímaco Chavarría</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lisímaco Chavarría_en-tu-ausencia</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>En tu ausencia</title>
+     <author>Lisímaco Chavarría</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>En tu ausencia</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="+++--+--++-">Es un pétalo blanco de flor leve,</l>
+     <l n="2" met="-----++--+-">sobre la oscuridad de una tristeza,</l>
+     <l n="3" met="-+---++--+-">tu mano, de blancor terso de nieve,</l>
+     <l n="4" met="-++--+---+-">poniendo una caricia en mi cabeza.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+-++---+-">Murmurándome alguna gentileza,</l>
+     <l n="6" met="---+---+-+-">tu enamorado susurrar de ave</l>
+     <l n="7" met="++-+-+---+-">es una dulce música suave,</l>
+     <l n="8" met="-+---+---+-">fluyendo en el jardín de la tristeza.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+---+-">Queda el cielo, al triunfar de la tiniebla,</l>
+     <l n="10" met="-++--+---+-">en un huerto de rosas convertido:</l>
+     <l n="11" met="-++--+---+-">así, mi alma, en tu imagen deleitada...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+--++-+-+-">Mas queda, sobre un otro gris, perdido</l>
+     <l n="13" met="-+---+---+-">el cielo en los cendales de la niebla:</l>
+     <l n="14" met="-+---++--+-">¡así, lejos de ti, mi alma angustiada!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

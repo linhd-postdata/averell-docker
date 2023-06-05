@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Canción de la humana esperanza</title>
+    <author>María Alicia Domínguez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>María Alicia Domínguez_cancion-de-la-humana-esperanza</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Canción de la humana esperanza</title>
+     <author>María Alicia Domínguez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Canción de la humana esperanza</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+-+--++-">No todo está perdido, pues nos queda</l>
+     <l n="2" met="-++--+---+-">la luz de este crepúsculo morado,</l>
+     <l n="3" met="-+---+---+-">el viento de la tarde en el sembrado,</l>
+     <l n="4" met="-+-+-+---+-">algún racimo..., el sol tras la arboleda.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-----+-">Somos felices mientras que se pueda</l>
+     <l n="6" met="-+-+-+-+-+-">mirar el fuego vivo de un dorado</l>
+     <l n="7" met="+----+---+-">mundo sobre las sombras derramado.</l>
+     <l n="8" met="++-+-++-++-">No todo está perdido; algo nos queda.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">Verdad que no oficiamos en el ara</l>
+     <l n="10" met="-+---+-+-+-">del templo idealizado aquella cara</l>
+     <l n="11" met="--+--++--+-">religión que en silencio es nuestra y arde.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+-+-+-">No es la tierra lugar propicio al vuelo...</l>
+     <l n="13" met="--+-++-+-+-">Pero, ¡cómo nos va llevando al cielo</l>
+     <l n="14" met="+-+--+++-+-">este lento morirnos tarde a tarde!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

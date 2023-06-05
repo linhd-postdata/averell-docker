@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>FOG !</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_fog</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>FOG !</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>FOG !</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">CE brouillard de Paris est fade,</l>
+     <l n="2" rhyme="b" line_length="8">On dirait même qu’il est clair</l>
+     <l n="3" rhyme="a" line_length="8">Au prix de cette promenade</l>
+     <l n="4" rhyme="b" line_length="8">Que l’on appelle Leicester Square*.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Mais le brouillard de Londres est</l>
+     <l n="6" rhyme="b" line_length="8">Savoureux comme non pas d’autres ;</l>
+     <l n="7" rhyme="a" line_length="8">Je vous le dis et fermes et</l>
+     <l n="8" rhyme="b" line_length="8">Pires les opinions nôtres !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Pourtant dans ce brouillard hagard</l>
+     <l n="10" rhyme="b" line_length="8">Ce qu’il faut retenir quand même</l>
+     <l n="11" rhyme="a" line_length="8">C’est, en dépit de tout hasard,</l>
+     <l n="12" rhyme="b" line_length="8">Que je l’adore et qu’elle m’aime.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

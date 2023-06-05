@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NUIT TOMBANTE</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_nuit-tombante</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NUIT TOMBANTE</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NUIT TOMBANTE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Une forge là-bas flamboie au pied des monts.</l>
+     <l n="2" rhyme="b" line_length="6+6">Vois, ces deux forgerons que le feu montre et voile.</l>
+     <l n="3" rhyme="a" line_length="6+6">Le fer rouge étincelle. On dirait deux démons</l>
+     <l n="4" rhyme="b" line_length="6+6">À grands coups de marteaux écrasant ,une étoile.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Que forgent-ils donc là, ces deux sombres forgeurs ?</l>
+     <l n="6" rhyme="b" line_length="6+6">Font-ils une charrue ou font-ils une épée ?</l>
+     <l n="7" rhyme="b" line_length="6+6">Leur enclume sonore incessamment frappée</l>
+     <l n="8" rhyme="a" line_length="6+6">Fait sur la route au loin rêver les voyageurs.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Glaive ou soc, ce qu'ils font est l'œuvre de Dieu même.</l>
+     <l n="10" rhyme="b" line_length="6+6">Que ce soit l'humble fer ou l'acier belliqueux,</l>
+     <l n="11" rhyme="a" line_length="6+6">L'oiseau chante autour d'eux, l'eau palpite, l'ombre aime,</l>
+     <l n="12" rhyme="b" line_length="6+6">La nature profonde est en paix avec eux…</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

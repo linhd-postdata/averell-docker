@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SENTIMENTÁLNÍ PÍSEŇ.</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_sentimentalni-pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SENTIMENTÁLNÍ PÍSEŇ.</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SENTIMENTÁLNÍ PÍSEŇ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101000" line_length="9">Chudobko, zkvetlá o podzimi,</l>
+     <l n="2" met="10010100" rhyme="1" line_length="8">zrosená krve krůpějí,</l>
+     <l n="3" met="110101010" line_length="9">máš ještě víru v modré nebe</l>
+     <l n="4" met="01010100" rhyme="1" line_length="8">a v teplé slunce naději?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100101010" line_length="9">Nemoudrý kvítku, z kalných mračen</l>
+     <l n="6" met="01000100" rhyme="1" line_length="8">jen metelice zavějí –</l>
+     <l n="7" met="010100010" line_length="9">v té černé zemi je tak klidno,</l>
+     <l n="8" met="01000100" rhyme="1" line_length="8">proč nezůstals tam raději?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

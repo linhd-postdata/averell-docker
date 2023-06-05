@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PODZIM.</title>
+    <author>Křikava, Louis</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Křikava, Louis_podzim</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PODZIM.</title>
+     <author>Křikava, Louis</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PODZIM.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101010" rhyme="1" line_length="11">Nad ztichlým krajem mrak si uleh’ líně.</l>
+     <l n="2" met="1001010100" rhyme="2" line_length="10">Po zrudlém listí kapky šelestí.</l>
+     <l n="3" met="01011001000" rhyme="1" line_length="11">Jak závoj slz na líci nevěstině</l>
+     <l n="4" met="1000110100" rhyme="2" line_length="10">na duši mé chví tkáň se bolesti...</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11010101010" rhyme="3" line_length="11">Oh – není smrti velké vášni lidské...</l>
+     <l n="6" met="0101010100" rhyme="4" line_length="10">Jí lačná ústa země nevssají...</l>
+     <l n="7" met="10010101000" rhyme="3" line_length="11">S nadějí v jarní touhy erotické</l>
+     <l n="8" met="1001010100" rhyme="4" line_length="10">sesláblá křídla v podzim klesají...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

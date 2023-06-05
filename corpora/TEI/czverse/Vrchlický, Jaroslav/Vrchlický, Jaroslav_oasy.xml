@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Oasy.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_oasy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Oasy.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Oasy.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101001001010" rhyme="1" line_length="13">Jsou díla geniů oasy v písku pouště,</l>
+     <l n="2" met="0101000101010" rhyme="1" line_length="13">jsou husté pralesy a hvozdy maqui, houště,</l>
+     <l n="3" met="0101000101010" rhyme="2" line_length="13">jak Lukrec s Ayschilem a Dante, Shakespeare, Plato,</l>
+     <l n="4" met="0101001001010" rhyme="3" line_length="13">jsou tůně bezedné, lákají tajnou mocí,</l>
+     <l n="5" met="0101000101010" rhyme="3" line_length="13">v nich stromy zhlížejí se ve dne, hvězdy v noci,</l>
+     <l n="6" met="0101000101010" rhyme="2" line_length="13">v nich stříbro měsíce se mění v ryzí zlato,</l>
+     <l n="7" met="0101001100010" rhyme="4" line_length="13">že poutník bez dechu břeh travnatý když stihne,</l>
+     <l n="8" met="1001001100110" rhyme="4" line_length="13">ve dlani osmahlé tříšť perel vždy k rtům zdvihne.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

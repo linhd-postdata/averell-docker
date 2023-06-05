@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Al mismo Góngora </title>
+    <author>Quevedo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quevedo_al-mismo-gongora</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Al mismo Góngora </title>
+     <author>Quevedo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Al mismo Góngora </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+---+-+-">Sulquivagante, pretensor de Estolo,</l>
+     <l n="2" met="---+-+---+-">pues que lo expuesto al Noto solificas</l>
+     <l n="3" met="--+--+---+-">y obtusas speluncas comunicas,</l>
+     <l n="4" met="-+---+--++-">despecho de las musas a ti solo,</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-++---+-+-">huye, no carpa, de tu Dafne Apolo</l>
+     <l n="6" met="-+-+---+-+-">surculos slabros de teretes picas,</l>
+     <l n="7" met="-----+---+-">porque con tus perversos damnificas</l>
+     <l n="8" met="---+---+-+-">los institutos de tu sacro Tolo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+---+-">Has acabado aliundo su Parnaso;</l>
+     <l n="10" met="--+--+---+-">adulteras la casta poesía,</l>
+     <l n="11" met="-+-+-+---+-">ventilas blandos, niños inquïetas,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+---+-+-">parco, cerúleo, veterano vaso:</l>
+     <l n="13" met="-+---+---+-">piáculos perpetra su porfía,</l>
+     <l n="14" met="--+--+---+-">estuprando neotéricos poetas.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ČESKÁ MELODIE.</title>
+    <author>Kvapil, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kvapil, František_ceska-melodie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ČESKÁ MELODIE.</title>
+     <author>Kvapil, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ČESKÁ MELODIE.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100110" rhyme="1" line_length="11">V mé duši bolest – smutna jest, ó Pane!</l>
+     <l n="2" met="11000011010" rhyme="2" line_length="11">Zlo rozrostlo se jak pýr po vší zemi,</l>
+     <l n="3" met="01010101010" rhyme="2" line_length="11">zas křivda vládcem mezi lidmi všemi –</l>
+     <l n="4" met="01010011000" rhyme="1" line_length="11">ač vím, že moudrost Tvá bdít nepřestane,</l>
+     <l n="5" met="01010100110" rhyme="1" line_length="11">v mé duši bolest – smutna jest, ó Pane!</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="01010101000" rhyme="1" line_length="11">K nám jitro přišlo z dávna vyžádané,</l>
+     <l n="7" met="01000101010" rhyme="3" line_length="11">Tys vyprostil nás z rukou našich vrahů,</l>
+     <l n="8" met="00010101010" rhyme="3" line_length="11">leč jsme jak cizí při svém vlastním prahu,</l>
+     <l n="9" met="10010100110" rhyme="1" line_length="11">sobectví, podlost všude, kde krok stane –</l>
+     <l n="10" met="01010100110" rhyme="1" line_length="11">v mé duši bolest – smutna jest, ó Pane!</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="01000101010" rhyme="1" line_length="11">V nás čistý zas kdy oheň lásky vzplane?</l>
+     <l n="12" met="01010100110" rhyme="4" line_length="11">Kdy v našich srdcích neřesti rez spálí?</l>
+     <l n="13" met="11010101010" rhyme="4" line_length="11">Kol chmurná noc jen, ani hvězdy v dáli,</l>
+     <l n="14" met="01010101000" rhyme="1" line_length="11">Tys tvář svou ukryl v taje nezbádané...</l>
+     <l n="15" met="01010100110" rhyme="1" line_length="11">V mé duši bolest – smutna jest, ó Pane!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

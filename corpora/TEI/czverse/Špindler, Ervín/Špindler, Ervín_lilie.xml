@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Lilie.</title>
+    <author>Špindler, Ervín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Špindler, Ervín_lilie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Lilie.</title>
+     <author>Špindler, Ervín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Lilie.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001000" line_length="8">Vyletěla holubice,</l>
+     <l n="2" met="10101010" rhyme="1" line_length="8">bílá jako moře pěna,</l>
+     <l n="3" met="10100010" line_length="8">ale na bělostném křídle</l>
+     <l n="4" met="10101000" rhyme="1" line_length="8">černou krví zkrvácena.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001000" line_length="8">Vyletěla – zastenala</l>
+     <l n="6" met="10101010" rhyme="2" line_length="8">bolným pláčem v tmavém lese,</l>
+     <l n="7" met="10101010" line_length="8">žalné zvuky písně její</l>
+     <l n="8" met="10101010" rhyme="2" line_length="8">tichý sefír k hrobu nese.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001010" line_length="8">Všepce tam ty žaly její,</l>
+     <l n="10" met="01001010" rhyme="3" line_length="8">a o malé místo prosí,</l>
+     <l n="11" met="10001010" line_length="8">o kouteček v tichém hrobě,</l>
+     <l n="12" met="10101010" rhyme="3" line_length="8">na nějž z jara květy nosí. – –</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101010" line_length="8">Jestřáb sletěl – krátký zápas,</l>
+     <l n="14" met="11001010" rhyme="4" line_length="8">krev potůčkem teče z těla</l>
+     <l n="15" met="01001000" line_length="8">a na hrobě pod javorem</l>
+     <l n="16" met="10101000" rhyme="4" line_length="8">krásná lilje vypučela.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

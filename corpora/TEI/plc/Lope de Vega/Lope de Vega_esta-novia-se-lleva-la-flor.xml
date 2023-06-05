@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Esta novia se lleva la flor,</title>
+    <author>Lope de Vega</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lope de Vega_esta-novia-se-lleva-la-flor</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Poesía Lírica Castellana Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Esta novia se lleva la flor,</title>
+     <author>Lope de Vega</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Esta novia se lleva la flor,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="...">
+     <l n="1" met="+-+--+--+-">Esta novia se lleva la flor,</l>
+     <l n="2" met="--+-+-">que las otras no.</l>
+     <l n="3" met="-+-+--+-">Bendiga Dios el molino</l>
+     <l n="4" met="-+-+--+-">que tales novias sustenta,</l>
+     <l n="5" met="+--+--+-">muela su harina sin cuenta</l>
+     <l n="6" met="-+--+-+-">a costa de tal padrino.</l>
+     <l n="7" met="+-+---+-">Éstas muelen de lo fino</l>
+     <l n="8" met="-+--+-+-">del trigo que muele amor,</l>
+     <l n="9" met="--+-+-">que las otras no.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

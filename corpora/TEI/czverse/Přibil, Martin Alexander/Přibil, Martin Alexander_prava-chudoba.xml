@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pravá chudoba.</title>
+    <author>Přibil, Martin Alexander</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Přibil, Martin Alexander_prava-chudoba</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pravá chudoba.</title>
+     <author>Přibil, Martin Alexander</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pravá chudoba.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000" rhyme="1" line_length="4">Bez milosti</l>
+     <l n="2" met="0100" rhyme="1" line_length="4">By v hojnosti</l>
+     <l n="3" met="10010010" rhyme="2" line_length="8">Štěstí nám smálo se všude;</l>
+     <l n="4" met="1000" rhyme="1" line_length="4">Bez milosti</l>
+     <l n="5" met="0100" rhyme="1" line_length="4">Vší hojnosti</l>
+     <l n="6" met="10010010" rhyme="2" line_length="8">Srdečko naše jest chudé.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="1100" rhyme="1" line_length="4">Přej milosti,</l>
+     <l n="8" met="0100" rhyme="1" line_length="4">Sic v hojnosti</l>
+     <l n="9" met="10110010" rhyme="2" line_length="8">Srdce máš, milenko! chudé;</l>
+     <l n="10" met="0100" rhyme="1" line_length="4">A hojnosti</l>
+     <l n="11" met="1000" rhyme="1" line_length="4">Ku milosti</l>
+     <l n="12" met="11010010" rhyme="2" line_length="8">Svět žádá nynější všude.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

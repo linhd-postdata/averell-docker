@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- CI - </title>
+    <author>Juan de Tassis y Peralta</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan de Tassis y Peralta_ci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- CI - </title>
+     <author>Juan de Tassis y Peralta</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- CI - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++---+---+-">Mal haya el temerario, el ambicioso,</l>
+     <l n="2" met="--++---+-+-">en el mar monstruo cuando no marino,</l>
+     <l n="3" met="-+-+-+-+-+-">que hurtó al bosque el mal nacido pino,</l>
+     <l n="4" met="--+--+---+-">para darle a Neptuno proceloso;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+-+-+-">y fiero labrador de campo algoso</l>
+     <l n="6" met="-+-+---+-+-">sembró en el viento el porfiado lino,</l>
+     <l n="7" met="---+-+-+-+-">que entre aquilón y cierzo dio camino</l>
+     <l n="8" met="-+---++--+-">a náutico inculcar piélago undoso.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Porque a insultos piráticos el puro</l>
+     <l n="10" met="+-+--+---+-">rubio expuso, metal solicitado</l>
+     <l n="11" met="-+-+-+---+-">de tantas hoy fatigas perennales.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+-+-+-">Por cuya ya venganza el frigio muro</l>
+     <l n="13" met="-+---+-+-+-">de lágrimas sangrientas vio bañado</l>
+     <l n="14" met="---+-++--+-">cuando entre ciego honor, llamas fatales.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

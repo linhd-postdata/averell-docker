@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Píseň v reakci.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_pisen-v-reakci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Píseň v reakci.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Píseň v reakci.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110101010" rhyme="1" line_length="9">Ach, vím, že zmizím, pápěr květu</l>
+     <l n="2" met="010100" rhyme="2" line_length="6">a vločka sněhová,</l>
+     <l n="3" met="110101000" rhyme="1" line_length="9">čas, velkým tužbám za odvetu,</l>
+     <l n="4" met="0100" rhyme="2" line_length="4">vše pochová.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="111001010" rhyme="3" line_length="9">Ach, vím, že vše to kol je hříčka</l>
+     <l n="6" met="010100" rhyme="4" line_length="6">a stálý koloběh,</l>
+     <l n="7" met="010101010" rhyme="3" line_length="9">že každý pouze fantom hýčká</l>
+     <l n="8" met="0101" rhyme="4" line_length="4">si ve svých snech.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101010" rhyme="5" line_length="9">Ty, vlku, spi – ty ztiš se, čubko,</l>
+     <l n="10" met="01000101" rhyme="6" line_length="8">je pohodlná noční tiš,</l>
+     <l n="11" met="010001010" rhyme="5" line_length="9">však odboje ty doutnej, hubko,</l>
+     <l n="12" met="110100" rhyme="6" line_length="6">v sled všecko vyhodíš!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

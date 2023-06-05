@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SANCTUS</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_sanctus</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SANCTUS</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SANCTUS</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="3+6">Et si pur alors qu’il est la pureté suprême.</l>
+    </lg>
+    <lg n="2">
+     <l n="2" rhyme="a" line_length="3+6">De force sagace et de divine modestie.</l>
+    </lg>
+    <lg n="3">
+     <l n="3" rhyme="a" line_length="9">Et l’essor soudain vers des séjours enfin tranquilles.</l>
+    </lg>
+    <lg n="4">
+     <l n="4" rhyme="a" line_length="3+6">Béni soit celui qui vient au Nom qu’il nous faut croire !</l>
+    </lg>
+    <lg n="5">
+     <l n="5" rhyme="a" line_length="3+6">Trois fois hosanna pour Dieu miséricordieux.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

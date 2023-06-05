@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Bois amical</title>
+    <author>Paul Valéry</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Valéry_le-bois-amical</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Bois amical</title>
+     <author>Paul Valéry</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Bois amical</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="3+6">Nous avons pensé des choses pures</l>
+     <l n="2" rhyme="b" line_length="6+3">Côte à côte, le long des chemins,</l>
+     <l n="3" rhyme="b" line_length="6+3">Nous nous sommes tenus par les mains</l>
+     <l n="4" rhyme="a" line_length="9">Sans dire… parmi les fleurs obscures ;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="3+6">Nous marchions comme des fiancés</l>
+     <l n="6" rhyme="d" line_length="3−6">Seuls, dans la nuit verte des prairies ;</l>
+     <l n="7" rhyme="d" line_length="6+3">Nous partagions ce fruit de féeries</l>
+     <l n="8" rhyme="c" line_length="9">La lune amicale aux insensés</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="6+3">Et puis, nous sommes morts sur la mousse,</l>
+     <l n="10" rhyme="e" line_length="3+6">Très loin, tout seuls parmi l’ombre douce</l>
+     <l n="11" rhyme="f" line_length="3+6">De ce bois intime et murmurant ;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="3+6">Et là-haut, dans la lumière immense,</l>
+     <l n="13" rhyme="f" line_length="6+3">Nous nous sommes trouvés en pleurant</l>
+     <l n="14" rhyme="g" line_length="3+6">Ô mon cher compagnon de silence !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

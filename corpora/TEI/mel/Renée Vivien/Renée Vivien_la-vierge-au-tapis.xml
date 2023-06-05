@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LA VIERGE AU TAPIS</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_la-vierge-au-tapis</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LA VIERGE AU TAPIS</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LA VIERGE AU TAPIS</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Pâle et mélancolique ainsi qu’une malade,</l>
+     <l n="2" rhyme="b" line_length="5+5">Un fragile tapis languit sous tes pieds nus.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="6+6">Le tapis déployé sous tes pieds de malade</l>
+     <l n="4" rhyme="b" line_length="5+5">Monna Lisa, souriant à San Giovanni.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

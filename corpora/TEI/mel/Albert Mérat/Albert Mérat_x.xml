@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>X</title>
+    <author>Albert Mérat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Albert Mérat_x</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>X</title>
+     <author>Albert Mérat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>X</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Je n’aimerai jamais que toi…</l>
+     <l n="2" rhyme="b" line_length="8">A moins qu’une femme ne m’aime,</l>
+     <l n="3" rhyme="a" line_length="8">Et ne me donne aussi sa foi</l>
+     <l n="4" rhyme="b" line_length="8">Pour me la reprendre de même.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Car, vois-tu, nous ne pouvons pas,</l>
+     <l n="6" rhyme="b" line_length="8">Si forte qu’en soit notre envie,</l>
+     <l n="7" rhyme="a" line_length="8">Aux liens frêles de vos bras</l>
+     <l n="8" rhyme="b" line_length="8">Dérober jamais notre vie.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Nous prenons nos amours brisés</l>
+     <l n="10" rhyme="b" line_length="8">Pour nous en forger d’autres chaînes.</l>
+     <l n="11" rhyme="a" line_length="8">— O contagion des baisers,</l>
+     <l n="12" rhyme="b" line_length="8">Défaillances toujours prochaines !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

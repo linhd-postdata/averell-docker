@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Colibri</title>
+    <author>Charles-Marie Leconte de Lisle</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Charles-Marie Leconte de Lisle_le-colibri</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Colibri</title>
+     <author>Charles-Marie Leconte de Lisle</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Colibri</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="5+5">Le vert colibri, le roi des collines,</l>
+     <l n="2" rhyme="b" line_length="5+5">Voyant la rosée et le soleil clair</l>
+     <l n="3" rhyme="a" line_length="5+5">Luire dans son nid tissé d'herbes fines,</l>
+     <l n="4" rhyme="b" line_length="5+5">Comme un frais rayon s'échappe dans l'air</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="5+5">Il se hâte et vole aux sources voisines</l>
+     <l n="6" rhyme="b" line_length="5+5">Où les bambous font le bruit de la mer,</l>
+     <l n="7" rhyme="a" line_length="5+5">Où l'açoka rouge, aux odeurs divines,</l>
+     <l n="8" rhyme="b" line_length="5+5">S'ouvre et porte au cœur un humide éclair.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="5+5">Vers la fleur dorée il descend, se pose,</l>
+     <l n="10" rhyme="c" line_length="5+5">Et boit tant d'amour dans la coupe rose,</l>
+     <l n="11" rhyme="d" line_length="5+5">Qu'il meurt, ne sachant s'il l'a pu tarir.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="5+5">Sur ta lèvre pure, ô ma bien-aimée,</l>
+     <l n="13" rhyme="d" line_length="5+5">Telle aussi mon âme eût voulu mourir</l>
+     <l n="14" rhyme="e" line_length="5+5">Du premier baiser qui l'a parfumée !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

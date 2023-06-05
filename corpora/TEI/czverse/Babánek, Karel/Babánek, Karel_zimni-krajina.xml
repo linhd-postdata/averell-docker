@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ZIMNÍ KRAJINA.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_zimni-krajina</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ZIMNÍ KRAJINA.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ZIMNÍ KRAJINA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1101010100010" line_length="13">Mám lesy bílé rád i zasněžené lány</l>
+     <l n="2" met="1101001001010" rhyme="1" line_length="13">s vran křikem nad nimi, s jeřabin rudým plodem</l>
+     <l n="3" met="0101000101010" line_length="13">kol cesty umrzlé – ty vísky zpola v sněhu</l>
+     <l n="4" met="0101001001010" rhyme="1" line_length="13">kdes’ s křížem u cesty, zapadlým v závěj plotem.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1101010101010" line_length="13">Mám rád ten zimní kraj – jak mrtvé lesy stojí</l>
+     <l n="6" met="0101001001010" rhyme="2" line_length="13">s tou tíží sněhovou, pod níž se větve kloní,</l>
+     <l n="7" met="0100010101010" line_length="13">je ticho v nich i kol, jen cestou zmrzlou v sněhu</l>
+     <l n="8" met="1001001001010" rhyme="2" line_length="13">ve vzduchu mrazivém rolničky saní zvoní.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101011101010" line_length="13">Jak třpytných roje hvězd sníh tiše padá k zemi,</l>
+     <l n="10" met="0101011100010" rhyme="3" line_length="13">a zvolna bílý kraj v tmách večera se ztrácí...</l>
+     <l n="11" met="0101011100010" line_length="13">v to ticho s polí vran zní zasněžených hlasy,</l>
+     <l n="12" met="0001000101010" rhyme="3" line_length="13">jež zpět zas ku lesům se s křikem táhlým vrací.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

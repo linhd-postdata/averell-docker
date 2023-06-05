@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PŘÍZEŇ</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_prizen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PŘÍZEŇ</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PŘÍZEŇ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100000101010" rhyme="1" line_length="12">Nenáležím k těm, již české šlechtě naší</l>
+     <l n="2" met="100010101010" rhyme="1" line_length="12">závidí tu její tučnou s medem kaši:</l>
+     <l n="3" met="101010001010" rhyme="2" line_length="12">beze činův vlastních že tak pěkně žije,</l>
+     <l n="4" met="100110001010" rhyme="2" line_length="12">z toho, co má po otcích, že břich jí tyje.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101000100010" rhyme="3" line_length="12">Přeju šlechticům, co dědictví jim dalo,</l>
+     <l n="6" met="10100010101010" rhyme="4" line_length="14">přeju, nezkráceně aby podle něho žili,</l>
+     <l n="7" met="101000101010" rhyme="3" line_length="12">přeju, aby jim se ve všem, ve všem stalo,</l>
+     <l n="8" met="001000101000" rhyme="4" line_length="12">jak si otcové jich – u nás zasloužili!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

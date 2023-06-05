@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- I - La soledad </title>
+    <author>Diego Hurtado de Mendoza</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Diego Hurtado de Mendoza_i-la-soledad</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- I - La soledad </title>
+     <author>Diego Hurtado de Mendoza</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- I - La soledad </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---++--+-">Amable soledad, muda alegría,</l>
+     <l n="2" met="---+-+-+-+-">que ni escarmiento ves, ni ofensas lloras,</l>
+     <l n="3" met="-+---+---+-">segunda habitación de las auroras;</l>
+     <l n="4" met="---+-+---+-">de la verdad primera compañía.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+-+-+-">Tarde buscada paz del alma mía,</l>
+     <l n="6" met="--+--+-+-+-">que la vana inquietud del mundo ignoras,</l>
+     <l n="7" met="--+--++--+-">donde no la ambición hurta las horas,</l>
+     <l n="8" met="-+-+---+-+-">y entero nace para el hombre el día.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+-+-+-">¡Dichosa tú, que nunca das venganza,</l>
+     <l n="10" met="---+-+-+-+-">ni del palacio ves, con propio daño,</l>
+     <l n="11" met="--+--+---+-">la ofendida verdad de la mudanza,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">la sabrosa mentira del engaño,</l>
+     <l n="13" met="-+---+---+-">la dulce enfermedad de la esperanza,</l>
+     <l n="14" met="--+--+---+-">la pesada salud del desengaño!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

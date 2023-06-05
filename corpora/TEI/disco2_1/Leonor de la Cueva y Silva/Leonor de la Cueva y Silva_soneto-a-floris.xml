@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto a Floris</title>
+    <author>Leonor de la Cueva y Silva</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Leonor de la Cueva y Silva_soneto-a-floris</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto a Floris</title>
+     <author>Leonor de la Cueva y Silva</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto a Floris</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Ausente estoy de tus divinos ojos;</l>
+     <l n="2" met="-+-+-+---+-">en fin, ausente y lleno de desvelos;</l>
+     <l n="3" met="---+-++--+-">si al ausencia cruel siguen los celos,</l>
+     <l n="4" met="-+-+--++-+-">confieso, Floris, que me dan enojos.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+---+-+-">¡Ay! ¡Quién gozara de tus rayos rojos</l>
+     <l n="6" met="-+---+---+-">sin tantos sobresaltos ni desvelos,</l>
+     <l n="7" met="---+---+-+-">pues mientras duran los nublosos velos</l>
+     <l n="8" met="+--+-+---+-">he de tener la rienda a mis antojos!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--++--+-">¿Cuándo se ha de acabar, Floris divina,</l>
+     <l n="10" met="---+-+--++-">la rigurosa pena de no verte</l>
+     <l n="11" met="--+--+---+-">y el cobarde temor de tu mudanza?</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">Que aunque eres en firmeza peregrina,</l>
+     <l n="13" met="+--+-+---+-">vive mi amor dudoso de perderte,</l>
+     <l n="14" met="--++-+---+-">aunque más le sustenta la esperanza.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

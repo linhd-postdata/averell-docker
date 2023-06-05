@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Česká hvězda.</title>
+    <author>Mužík, Augustin Eugen</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mužík, Augustin Eugen_ceska-hvezda</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Česká hvězda.</title>
+     <author>Mužík, Augustin Eugen</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Česká hvězda.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010101000" rhyme="1" line_length="11">V běh pouti naší z Vesny po Moranu</l>
+     <l n="2" met="01000101010" rhyme="2" line_length="11">jsi svítila nám, česká hvězdo bílá,</l>
+     <l n="3" met="11000101010" rhyme="2" line_length="11">v krev Kressenbrunnu záři svoji lila</l>
+     <l n="4" met="01010110010" rhyme="1" line_length="11">a hrdě plála v žár mongolských stanů.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100010" rhyme="1" line_length="11">Tys vedla mečů táboritských ránu</l>
+     <l n="6" met="01010101010" rhyme="2" line_length="11">a s Jiřím silným kalich Páně pila,</l>
+     <l n="7" met="01010100010" rhyme="2" line_length="11">tys byla sláva, vítězství a síla,</l>
+     <l n="8" met="11010101000" rhyme="1" line_length="11">čest naši k sobě majíc připoutánu.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100010" rhyme="3" line_length="11">Už, běda, běda, nesvitneš nám více!</l>
+     <l n="10" met="01000100010" rhyme="4" line_length="11">Kde vítězná teď, prorocká tvá záře?</l>
+     <l n="11" met="01000101000" rhyme="4" line_length="11">Kdy z exultac se vrátí, ze žaláře?</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="01010100010" rhyme="3" line_length="11">Kdy svitne znovu v otrocké nám líce?</l>
+     <l n="13" met="0101010100" rhyme="5" line_length="10">Zda – pozdní vnuk – se tebe dočekám?</l>
+     <l n="14" met="1101010100" rhyme="5" line_length="10">Ó hvězdo česká! vyjdi, vyjdi nám!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

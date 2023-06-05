@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Un Dahlia</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_un-dahlia</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Un Dahlia</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Un Dahlia</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Courtisane au sein dur, à l’œil opaque et brun</l>
+     <l n="2" rhyme="b" line_length="6+6">S’ouvrant avec lenteur comme celui d’un bœuf,</l>
+     <l n="3" rhyme="b" line_length="6+6">Ton grand torse reluit ainsi qu’un marbre neuf.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="a" line_length="6+6">Fleur grasse et riche, autour de toi ne flotte aucun</l>
+     <l n="5" rhyme="a" line_length="6+6">Arome, et la beauté sereine de ton corps</l>
+     <l n="6" rhyme="b" line_length="6−6">Déroule, mate, ses impeccables accords.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="b" line_length="6+6">Tu ne sens même pas la chair, ce goût qu’au moins</l>
+     <l n="8" rhyme="a" line_length="6+6">Exhalent celles-là qui vont fanant les foins,</l>
+     <l n="9" rhyme="b" line_length="6+6">Et tu trônes, Idole insensible à l’encens.</l>
+    </lg>
+    <lg n="4">
+     <l n="10" rhyme="c" line_length="6+6">— Ainsi le Dahlia, roi vêtu de splendeur,</l>
+     <l n="11" rhyme="c" line_length="6+6">Élève sans orgueil sa tête sans odeur,</l>
+     <l n="12" rhyme="b" line_length="6+6">Irritant au milieu des jasmins agaçants !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

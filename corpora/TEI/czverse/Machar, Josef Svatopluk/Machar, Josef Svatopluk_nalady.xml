@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NÁLADY.</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_nalady</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NÁLADY.</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NÁLADY.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000101" rhyme="1" line_length="8">A časem se ti zase chce</l>
+     <l n="2" met="01000100" rhyme="1" line_length="8">tak milován být ze srdce</l>
+     <l n="3" met="01010100" rhyme="2" line_length="8">a doufat – zoufat nade vším</l>
+     <l n="4" met="01000100" rhyme="2" line_length="8">a houpat se tak žitím tím.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000100" rhyme="3" line_length="8">A časem zas jen zápasit,</l>
+     <l n="6" met="01010101" rhyme="3" line_length="8">neb věříš, doufáš – chceš se bít</l>
+     <l n="7" met="01000100" rhyme="4" line_length="8">a z pohádky být rytířem</l>
+     <l n="8" met="10010001" rhyme="4" line_length="8">od potvor čistícím svou zem. –</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000100" rhyme="5" line_length="8">A časem se ti zachce zas</l>
+     <l n="10" met="11011001" rhyme="5" line_length="8">kus lauru mít pro sporý vlas,</l>
+     <l n="11" met="01000100" rhyme="6" line_length="8">být oceněn a vážen tu,</l>
+     <l n="12" met="01000100" rhyme="6" line_length="8">být protektorem talentů.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01000100" rhyme="7" line_length="8">A časem zas bys nejraděj</l>
+     <l n="14" met="01010100" rhyme="7" line_length="8">byl neznám světu, neznal jej –</l>
+     <l n="15" met="01000101" rhyme="8" line_length="8">A časem zas, vším hodiv rád</l>
+     <l n="16" met="11010001" rhyme="8" line_length="8">chtěl spát bys, na dobro už spát. –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

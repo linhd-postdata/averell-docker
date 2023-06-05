@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>BÁSNÍCI ROND.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_basnici-rond</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>BÁSNÍCI ROND.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>BÁSNÍCI ROND.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010101" rhyme="1" line_length="8">Psát rondeau, to je krásná věc,</l>
+     <l n="2" met="010101000" rhyme="2" line_length="9">jak psal je Charles z Orleanu;</l>
+     <l n="3" met="01000101" rhyme="1" line_length="8">je slavíka si chytit v klec</l>
+     <l n="4" met="010101010" rhyme="2" line_length="9">a v květný kalich nebes mannu</l>
+     <l n="5" met="110" line_length="3">psát rondeau.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="100101000" rhyme="2" line_length="9">Voiture v boj i na obranu</l>
+     <l n="7" met="10010100" rhyme="3" line_length="8">pro dívčí smích a ruměnec</l>
+     <l n="8" met="010101000" rhyme="2" line_length="9">v ně spjal svých citů karavanu.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="11010100" rhyme="3" line_length="8">Ó kouzlo formy, zvoň mi přec,</l>
+     <l n="10" met="110101010" rhyme="2" line_length="9">chci také, v chválu tich i hanu,</l>
+     <l n="11" met="10010001" rhyme="3" line_length="8">za nimi, „opozděný žnec“,</l>
+     <l n="12" met="110" line_length="3">psát rondeau.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

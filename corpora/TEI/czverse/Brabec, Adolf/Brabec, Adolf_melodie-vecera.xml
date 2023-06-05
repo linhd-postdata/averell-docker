@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MELODIE VEČERA.</title>
+    <author>Brabec, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Brabec, Adolf_melodie-vecera</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MELODIE VEČERA.</title>
+     <author>Brabec, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MELODIE VEČERA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010100010" rhyme="1" line_length="9">Ta chvíle večerní když přijde</l>
+     <l n="2" met="100101010" rhyme="2" line_length="9">v rozkvětu jara, prostřed květů,</l>
+     <l n="3" met="010100010" rhyme="1" line_length="9">kdy měsíc labutí si vyjde</l>
+     <l n="4" met="100100010" rhyme="2" line_length="9">uprostřed nádhery a vznětu,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101010" rhyme="3" line_length="9">kdy voní květ a stonek zpívá</l>
+     <l n="6" met="100100010" rhyme="4" line_length="9">při tknutí jemného i vánku,</l>
+     <l n="7" met="010001010" rhyme="3" line_length="9">a záplava kdy rudá, tklivá</l>
+     <l n="8" met="100101000" rhyme="4" line_length="9">zhasíná sledním na červánku,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010001010" rhyme="5" line_length="9">vše modlí se a houslí zvuky</l>
+     <l n="10" met="010101010" rhyme="6" line_length="9">se chvějí jako bludné tony,</l>
+     <l n="11" met="100101010" rhyme="5" line_length="9">jako by z dlaní tajné ruky</l>
+     <l n="12" met="100101010" rhyme="6" line_length="9">na svět se sypal květ jen vonný.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

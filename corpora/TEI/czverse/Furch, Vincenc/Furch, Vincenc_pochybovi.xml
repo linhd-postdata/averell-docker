@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pochybovi.</title>
+    <author>Furch, Vincenc</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Furch, Vincenc_pochybovi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pochybovi.</title>
+     <author>Furch, Vincenc</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pochybovi.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="011000100" line_length="9">Tvůj duch pochybnostmi rozerván</l>
+     <l n="2" met="110100100" rhyme="1" line_length="9">Hle knihu života probírá,</l>
+     <l n="3" met="010010100" line_length="9">By nalezl jádro ukryté,</l>
+     <l n="4" met="100010010" rhyme="1" line_length="9">Do rakví a do hrobů zírá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100100" line_length="9">Ohromné, smrtící myšlenky</l>
+     <l n="6" met="101010010" rhyme="2" line_length="9">V tobě bitvu zoufalou bijí,</l>
+     <l n="7" met="010100100" line_length="9">Však noc ti odpověď nedává,</l>
+     <l n="8" met="010011010" rhyme="2" line_length="9">I poslední svit hvězdný míjí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="110100100" line_length="9">Věz, marné člověka bádání,</l>
+     <l n="10" met="100100100" rhyme="3" line_length="9">Pravda mu zůstane tajená,</l>
+     <l n="11" met="010010010" line_length="9">Nic neuzře na zemi, nebi,</l>
+     <l n="12" met="101001000" rhyme="3" line_length="9">Jestli nepadne na kolena.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

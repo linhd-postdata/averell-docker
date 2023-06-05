@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sancho Panza</title>
+    <author>Aurelio Yanguas</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Aurelio Yanguas_sancho-panza</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sancho Panza</title>
+     <author>Aurelio Yanguas</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sancho Panza</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">Ignorante, ladino, marrullero,</l>
+     <l n="2" met="--+--+---+-">hablador sin discurso ni templanza,</l>
+     <l n="3" met="-+---+---+-">prosélito ferviente de la holganza,</l>
+     <l n="4" met="-+--+----+-">egoísta. cobarde y embustero.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">Ridículo, soez y majadero,</l>
+     <l n="6" met="-+----+--+-">ayuno de instrucción y de crianza,</l>
+     <l n="7" met="-++--+---+-">sin más bello ideal que la pitanza,</l>
+     <l n="8" met="-+---+---+-">sin otro concebir que lo rastrero.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-++-+---+-">Este fue Sancho; pozo de simpleza,</l>
+     <l n="10" met="--+--+---+-">repugnante plantel de villanías,</l>
+     <l n="11" met="--+--+---+-">semillero fecundo de torpezas,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+----+---+-">rémora de sublimes hidalguías;</l>
+     <l n="13" met="-+-+-+---+-">compendio de ese ambiente de bajezas</l>
+     <l n="14" met="--+--+-+-+-">que respira la España de estos días.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

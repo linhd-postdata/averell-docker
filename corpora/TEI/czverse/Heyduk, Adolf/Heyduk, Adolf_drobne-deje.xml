@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Drobné děje.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_drobne-deje</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Drobné děje.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Drobné děje.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Drobné děje s vrchů, plání:</l>
+     <l n="2" met="10101" rhyme="2" line_length="5">žert i stesk i žal,</l>
+     <l n="3" met="00101010" rhyme="1" line_length="8">jež jsem cestou zhlédl maní,</l>
+     <l n="4" met="00100100" rhyme="1" line_length="8">když jsem do rodných se strání</l>
+     <l n="5" met="10100" rhyme="2" line_length="5">snivě zatoulal.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="10101010" rhyme="3" line_length="8">Děje žitím v kytku svity,</l>
+     <l n="7" met="10100" rhyme="4" line_length="5">všední kořist jen,</l>
+     <l n="8" met="00101010" rhyme="3" line_length="8">jak je horský, v lesích skrytý,</l>
+     <l n="9" met="10101000" rhyme="3" line_length="8">měkký, dumný, rázovitý</l>
+     <l n="10" met="10101" rhyme="4" line_length="5">žije lid co den.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="10101000" rhyme="5" line_length="8">Nedbám, zda kdo pohrdavě</l>
+     <l n="12" met="10101" rhyme="6" line_length="5">v úškleb stáhne ret,</l>
+     <l n="13" met="00101010" rhyme="5" line_length="8">mě ty zvěsti jaly právě;</l>
+     <l n="14" met="10101010" rhyme="5" line_length="8">v horské trávě, v horské hlavě</l>
+     <l n="15" met="10101" rhyme="6" line_length="5">mnohý pučí květ! –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

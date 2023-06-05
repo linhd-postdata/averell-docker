@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>My toneme, neb po vlnách</title>
+    <author>Jahn, Jiljí Vratislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jahn, Jiljí Vratislav_my-toneme-neb-po-vlnach</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>My toneme, neb po vlnách</title>
+     <author>Jahn, Jiljí Vratislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>My toneme, neb po vlnách</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100" line_length="8">My toneme, neb po vlnách </l>
+     <l n="2" met="1001010" rhyme="1" line_length="7">bez vůle dále jdeme,</l>
+     <l n="3" met="10011001" line_length="8">za cizí směr, neznámý cíl</l>
+     <l n="4" met="1001000" rhyme="1" line_length="7">bezděčně bojujeme.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" line_length="8">Našeho boje zástava</l>
+     <l n="6" met="0100010" rhyme="2" line_length="7">je mrákotami kryta</l>
+     <l n="7" met="01100100" line_length="8">a tvrz věčného pokroku</l>
+     <l n="8" met="0101000" rhyme="2" line_length="7">vždy ještě nedobyta.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010101" line_length="8">Špinavé snahy, zištné sny</l>
+     <l n="10" met="0100010" rhyme="3" line_length="7">k nám odvážně se mísí</l>
+     <l n="11" met="10100100" line_length="8">a tak nad naším snažením</l>
+     <l n="12" met="0101010" rhyme="3" line_length="7">vždy démon zhouby visí.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10010100" line_length="8">O, kdy to lidé pochopí,</l>
+     <l n="14" met="0101010" rhyme="4" line_length="7">že vůle pevná, čistá</l>
+     <l n="15" met="01000100" line_length="8">i ve žebráckém oděvu</l>
+     <l n="16" met="1001010" rhyme="4" line_length="7">národu spásu chystá!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

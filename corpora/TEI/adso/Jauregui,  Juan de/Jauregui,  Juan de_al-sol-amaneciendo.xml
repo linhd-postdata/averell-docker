@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Al sol, amaneciendo </title>
+    <author>Jauregui,  Juan de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jauregui,  Juan de_al-sol-amaneciendo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Al sol, amaneciendo </title>
+     <author>Jauregui,  Juan de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Al sol, amaneciendo </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">Rubio planeta, cuya lumbre pura</l>
+     <l n="2" met="-+-+-+-+-+-">del tiempo mide cada punto y hora,</l>
+     <l n="3" met="-+-+---+-+-">si el bello objeto que mi pecho adora</l>
+     <l n="4" met="+--+---+-+-">sólo le gozo entre la noche oscura,</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-++--+---+-">¿por qué ya se adelanta y se apresura</l>
+     <l n="6" met="-+-+---+-+-">tu luz injusta y el Oriente dora,</l>
+     <l n="7" met="-+---+---+-">las sombras alejando de la Aurora,</l>
+     <l n="8" met="---+---+-+-">y, con la sombras, mi feliz ventura?</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">Dirás que, el dulce espacio defraudado</l>
+     <l n="10" met="+--+---+-+-">ya de la noche, me darás el día,</l>
+     <l n="11" met="+--+++-+-+-">tal que de vida un punto no me debas.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">Si debes; causa del ausencia mía:</l>
+     <l n="13" met="++-+-+---+-">que es vida sólo el tiempo que me llevas;</l>
+     <l n="14" met="---+-+-+-+-">y el que me ofreces, un mortal cuidado.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

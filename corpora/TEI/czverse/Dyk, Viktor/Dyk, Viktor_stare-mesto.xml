@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>STARÉ MĚSTO</title>
+    <author>Dyk, Viktor</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dyk, Viktor_stare-mesto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>STARÉ MĚSTO</title>
+     <author>Dyk, Viktor</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>STARÉ MĚSTO</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101010" line_length="9">V měsíčním svitu pod mým oknem</l>
+     <l n="2" met="100101010" line_length="9">Vltavy vlny volně plynou</l>
+     <l n="3" met="10000001" line_length="8">ukolébávajíce v sen.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="100001010" line_length="9">Nad portály jsou růže, růže.</l>
+     <l n="5" met="010001010" line_length="9">A pod arkýři starých domů</l>
+     <l n="6" met="10010100" line_length="8">minulost splývá s budoucnem.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="100101000" line_length="9">V měsíčním svitu nad údolím</l>
+     <l n="8" met="010101010" line_length="9">se tiše tyčí tmavé lesy</l>
+     <l n="9" met="10001100" line_length="8">na národů dvou pomezí.</l>
+    </lg>
+    <lg n="4">
+     <l n="10" met="100100010" line_length="9">Mocněji bije-li tvé srdce</l>
+     <l n="11" met="010001010" line_length="9">a myšlenka tvá má-li křídla,</l>
+     <l n="12" met="10000100" line_length="8">probije se a doletí!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

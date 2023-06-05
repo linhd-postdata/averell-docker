@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>STROM.</title>
+    <author>Soldan, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Soldan, František_strom</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>STROM.</title>
+     <author>Soldan, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>STROM.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110101010" rhyme="1" line_length="9">Strom, který věky pjal se k výši,</l>
+     <l n="2" met="01010100" rhyme="2" line_length="8">byl včera k zemi povalen</l>
+     <l n="3" met="010010010" rhyme="1" line_length="9">a rozřezán a co to píši,</l>
+     <l n="4" met="00010100" rhyme="2" line_length="8">už byl i dávno rozkoupen.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101010" rhyme="3" line_length="9">A za pár dní už v peci zplane,</l>
+     <l n="6" met="01010001" rhyme="4" line_length="8">a děti nebudou už znát</l>
+     <l n="7" met="010101000" rhyme="3" line_length="9">ni místo ono zadumané,</l>
+     <l n="8" met="01010100" rhyme="4" line_length="8">kam děd se chodil modlívat.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101010" rhyme="5" line_length="9">A přejde čas – A přejdou věky –</l>
+     <l n="10" met="01010101" rhyme="6" line_length="8">a vzejde tvorstvo nových těl –</l>
+     <l n="11" met="010101010" rhyme="5" line_length="9">a kopne v zem – a zazní skřeky:</l>
+     <l n="12" met="01010100" rhyme="6" line_length="8">„Zde!“ řekne, „HOMO zkameněl!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

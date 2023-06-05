@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Luis Manuel Figueroa</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Luis Manuel Figueroa_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Luis Manuel Figueroa</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Por montes canos con el yerto invierno,</l>
+     <l n="2" met="---+-+---+-">de mi prisión arrastro la cadena,</l>
+     <l n="3" met="-+---+-+-+-">y sólo mi gemido ronco suena</l>
+     <l n="4" met="-+-+-+-+-+-">por huecos valles, no mi llanto tierno.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++-+---+-+-">Que aun no merezco, por mi mal gobierno,</l>
+     <l n="6" met="---+---+-+-">con mis gemidos publicar mi pena;</l>
+     <l n="7" met="--+--+-+-+-">que la justa ocasión que me condena</l>
+     <l n="8" met="+--+---+-+-">sella mi boca con silencio eterno.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-++--+---+-">Así, a costa de penas inmortales</l>
+     <l n="10" met="-+-+---+-+-">sustento el fuego que en mis venas arde;</l>
+     <l n="11" met="-+++---+++-">mas no me quejo de dolor tan fuerte.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--++--+-+-">Quiero morirme y publicar mis males;</l>
+     <l n="13" met="---+---+-+-">mas ¡ay! que llega el recuerdo tarde</l>
+     <l n="14" met="--+--+---+-">cuando el mal se descubre con la muerte.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

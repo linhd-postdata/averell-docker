@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mis resabios</title>
+    <author>Juan Cristóbal Nápoles Fajardo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Cristóbal Nápoles Fajardo_mis-resabios</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mis resabios</title>
+     <author>Juan Cristóbal Nápoles Fajardo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mis resabios</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">Despreciar a magnates orgullosos,</l>
+     <l n="2" met="+----+---+-">nunca vociferar mis padeceres,</l>
+     <l n="3" met="-+++-+---+-">tener siempre unos mismos pareceres</l>
+     <l n="4" met="-+---+---+-">y odiar a lenguaraces perniciosos.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">Criticar a los tontos y chismosos,</l>
+     <l n="6" met="-+---++--+-">del mundo despreciar varios placeres,</l>
+     <l n="7" met="+-+--+---+-">no fiar en promesas de mujeres</l>
+     <l n="8" met="--+--+---+-">y punzar a los hombres ambiciosos.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+-+-+-">Buscar de lo que callo gran renombre,</l>
+     <l n="10" met="-+---+---+-">decir sin subterfugios lo que siento,</l>
+     <l n="11" met="-++--++-++-">hablar poco y burlarme de aquel hombre</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+++-+-">que por sabio pasando, es un jumento.</l>
+     <l n="13" met="+-++---+-+-">Esto lo digo sin fruncir los labios:</l>
+     <l n="14" met="-++--+---+-">Serán toda la vida mis resabios.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

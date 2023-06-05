@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ludovíka.</title>
+    <author>Chmelenský, Josef Krasoslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Chmelenský, Josef Krasoslav_ludovika</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ludovíka.</title>
+     <author>Chmelenský, Josef Krasoslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ludovíka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101001010" line_length="11">Když vše vedro praží, a kytky vadnou,</l>
+     <l n="2" met="11010010010" line_length="11">Skot jarý v potocích napájí pastýř:</l>
+     <l n="3" met="10101010001" line_length="11">Žížeň i mne nutí k toku – v něm Tě zřím,</l>
+     <l n="4" met="1000" line_length="4">Ludovíko!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00101001000" line_length="11">Když se Luna kolébá stříbrolíčná</l>
+     <l n="6" met="10010010100" line_length="11">Vltavských ve vlnách šumem čeřících:</l>
+     <l n="7" met="00101010010" line_length="11">Tvůj se útvor i tam zableskne ladný,</l>
+     <l n="8" met="1000" line_length="4">Ludovíko!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010010010" line_length="11">Když Morfevs unylé oči mně klíží,</l>
+     <l n="10" met="10110000100" line_length="11">Hejno snů letavých mne dle zahrává:</l>
+     <l n="11" met="01001001010" line_length="11">Tvé vtkané je ve každém jméno krásné,</l>
+     <l n="12" met="1000" line_length="4">Ludovíko!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KRÁSNÝ VEČER</title>
+    <author>z Wojkowicz, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>z Wojkowicz, Jan_krasny-vecer</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KRÁSNÝ VEČER</title>
+     <author>z Wojkowicz, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KRÁSNÝ VEČER</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" rhyme="1" line_length="8">Takový krásný večer byl...</l>
+    </lg>
+    <lg n="2">
+     <l n="2" met="00010100" rhyme="1" line_length="8">Já jsem tak dlouho hovořil,</l>
+     <l n="3" met="00010100" rhyme="1" line_length="8">až jsem se celý roztesknil</l>
+     <l n="4" met="10010101" rhyme="2" line_length="8">po snivém kouzlu prchlých let...</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="01010100" line_length="8">Tam venku hvězdy vzdálené</l>
+     <l n="6" met="10010101" rhyme="3" line_length="8">zářily v kouzlo letních cest –</l>
+     <l n="7" met="01010101" rhyme="2" line_length="8">tam šuměl život, vířil svět</l>
+     <l n="8" met="10010001" rhyme="3" line_length="8">velkých a rozmařilých měst –</l>
+     <l n="9" met="01010010" rhyme="4" line_length="8">tam život v celou šíř i dál</l>
+     <l n="10" met="10011001" rhyme="4" line_length="8">šuměl a vál, blaženě štkal –</l>
+     <l n="11" met="10010100" rhyme="3" line_length="8">a že tak krásný, krásný jest,</l>
+     <l n="12" met="1001" rhyme="4" line_length="4">zval mě a zval...</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10010100" rhyme="5" line_length="8">Dlouho jsem blouznil do noci...</l>
+     <l n="14" met="01000100" line_length="8">Tak roztoužen, tak roztoužen –</l>
+     <l n="15" met="0100" rhyme="5" line_length="4">a v bezmoci...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

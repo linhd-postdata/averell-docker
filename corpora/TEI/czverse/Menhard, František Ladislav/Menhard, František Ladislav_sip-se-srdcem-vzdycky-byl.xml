@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Šíp se srdcem vždycky byl,</title>
+    <author>Menhard, František Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Menhard, František Ladislav_sip-se-srdcem-vzdycky-byl</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Šíp se srdcem vždycky byl,</title>
+     <author>Menhard, František Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Šíp se srdcem vždycky byl,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1100100" line_length="7">Šíp se srdcem vždycky byl, </l>
+     <l n="2" met="00101010" rhyme="1" line_length="8">jest a bude znakem lásky;</l>
+     <l n="3" met="1010100" line_length="7">a teď šípy na hlavách</l>
+     <l n="4" met="10101010" rhyme="1" line_length="8">nosí mnohé naše krásky.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0010100" line_length="7">Co to značí? Odpověď</l>
+     <l n="6" met="10011010" rhyme="2" line_length="8">zkušenosť má dát ti pravou:</l>
+     <l n="7" met="0010100" line_length="7">že teď dívky milují</l>
+     <l n="8" met="10101010" rhyme="2" line_length="8">méně srdcem, více hlavou.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

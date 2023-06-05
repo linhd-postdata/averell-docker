@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Damasio de Frías</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Damasio de Frías_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Damasio de Frías</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+-+-+-">Rompe la niebla de una gruta oscura</l>
+     <l n="2" met="++-+---+-+-">un Monstruo lleno de culebras pardas,</l>
+     <l n="3" met="---+-+---+-">y entre sangrientas puntas de alabardas</l>
+     <l n="4" met="-+-+---+-+-">morir matando con furor procura.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+---+-">Mas de la oscura horrenda sepultura</l>
+     <l n="6" met="+--+---+-+-">salen rabiando bramadoras guardas,</l>
+     <l n="7" met="--+--++--+-">de la noche, y Plutón hijas bastardas,</l>
+     <l n="8" met="-++--+---+-">que le quitan la vida, y la locura.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+-+-+-">De este Vestigio nacen tres gigantes,</l>
+     <l n="10" met="-+-+-+---+-">y de estos tres gigantes, Doralice,</l>
+     <l n="11" met="-+---+-+++-">y de esta Doralice nace un Vendo.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-++-+-+++-">Tú, mirón, que esto miras, no te espantes,</l>
+     <l n="13" met="-+++---+++-">si no lo entiendes, que aunque yo lo hice,</l>
+     <l n="14" met="-+++-+-+-+-">así me ayude Dios, que o lo entiendo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

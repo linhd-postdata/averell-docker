@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NÁPIS KNIHY</title>
+    <author>Toman, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">7</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Toman, Karel_napis-knihy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NÁPIS KNIHY</title>
+     <author>Toman, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NÁPIS KNIHY</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010" rhyme="1" line_length="7">Po bludné pouti světem,</l>
+     <l n="2" met="0101000101010" rhyme="2" line_length="13">jenž vyprah’ srdce mé a tvrdou rukou zkrušil,</l>
+     <l n="3" met="10010101" rhyme="3" line_length="8">vracím se pod tvůj věrný krov,</l>
+     <l n="4" met="0101001001010" rhyme="2" line_length="13">zas dítě, domove. Kdybys jen rubáš ušil</l>
+     <l n="5" met="01001101" rhyme="3" line_length="8">mým bludům, řek’ pár smírných slov</l>
+     <l n="6" met="010001010" rhyme="1" line_length="9">a provodil mou rakev květem,</l>
+     <l n="7" met="10010" line_length="5">učiníš dosti.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

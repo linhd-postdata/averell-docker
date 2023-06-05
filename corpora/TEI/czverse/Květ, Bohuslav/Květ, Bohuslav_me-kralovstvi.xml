@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mé království.</title>
+    <author>Květ, Bohuslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Květ, Bohuslav_me-kralovstvi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mé království.</title>
+     <author>Květ, Bohuslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mé království.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110100010001010" line_length="15">Znáš tiché Údolí, kde nad stajeným lesů pláčem</l>
+     <l n="2" met="10010100000101" rhyme="1" line_length="14">vášnivý reflex zapadajícího slunce hrá?</l>
+     <l n="3" met="0101000101010" line_length="13">Jsou dálky zamlklé... jen mezi stíny stromů</l>
+     <l n="4" met="01010101010" line_length="11">se někdy vzdušné zjevy dívčí kmitnou...</l>
+     <l n="5" met="0101011010010100" rhyme="1" line_length="16">pak vlažným vzduchem hlas Boha Myšlénkou k srdci promlouvá...</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="0001000100010100" rhyme="2" line_length="16">Toť mé je Království! A šťasten jsem, že v těchto končinách</l>
+     <l n="7" met="01010101000" line_length="11">se dosud nikdy půda nezachvěla</l>
+     <l n="8" met="10010100010100" line_length="14">pod lůzy písní zvířeckou, již z cizích Území</l>
+     <l n="9" met="01010100100100" rhyme="2" line_length="14">sem slyším časem zaznívat v stlumených ozvěnách...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

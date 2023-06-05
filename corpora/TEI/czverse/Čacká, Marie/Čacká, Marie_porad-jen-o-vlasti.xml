@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pořád jen o vlasti</title>
+    <author>Čacká, Marie</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čacká, Marie_porad-jen-o-vlasti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pořád jen o vlasti</title>
+     <author>Čacká, Marie</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pořád jen o vlasti</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" line_length="6">Pořád jen o vlasti </l>
+     <l n="2" met="101100" rhyme="1" line_length="6">Píseň má zaznívá:</l>
+     <l n="3" met="010100" line_length="6">Což divu, když se tak</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">Lehko o ní zpívá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010100" line_length="6">Ty pole úrodné</l>
+     <l n="6" met="100100" rhyme="2" line_length="6">Se svými skřivánky,</l>
+     <l n="7" met="101010" line_length="6">A ty hory v dáli</l>
+     <l n="8" met="100100" rhyme="2" line_length="6">S zlatými červánky.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100100" line_length="6">Zpěvavé potůčky</l>
+     <l n="10" met="100010" rhyme="3" line_length="6">V slouchajícím háji,</l>
+     <l n="11" met="101010" line_length="6">Valné řeky s městy,</l>
+     <l n="12" met="101010" rhyme="3" line_length="6">Tiché vísky v kraji.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="101010" line_length="6">Inu v celém světě,</l>
+     <l n="14" met="100100" rhyme="4" line_length="6">Není snad taková:</l>
+     <l n="15" met="101010" line_length="6">Ona sama sebou</l>
+     <l n="16" met="010100" rhyme="4" line_length="6">Je píseň hotová.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

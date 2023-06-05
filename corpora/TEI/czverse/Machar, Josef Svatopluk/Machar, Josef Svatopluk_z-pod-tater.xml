@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Z POD TATER...</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_z-pod-tater</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Z POD TATER...</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Z POD TATER...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100010" rhyme="1" line_length="9">Z pod Tater slyšet už jen stony,</l>
+     <l n="2" met="01000100" rhyme="2" line_length="8">kdos drahý nám tam shasíná –</l>
+     <l n="3" met="110001000" rhyme="1" line_length="9">mře na pravopis, maďarony,</l>
+     <l n="4" met="10000100" rhyme="2" line_length="8">na vlastence z Turč-Martina.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

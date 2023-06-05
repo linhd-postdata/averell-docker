@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ohlas.</title>
+    <author>Špindler, Ervín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Špindler, Ervín_ohlas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ohlas.</title>
+     <author>Špindler, Ervín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ohlas.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001000" rhyme="1" line_length="8">Zahučely, zastenaly</l>
+     <l n="2" met="10101000" rhyme="2" line_length="8">srdce tóny nadpozemské;</l>
+     <l n="3" met="10001000" rhyme="1" line_length="8">zaželaly, zaplakaly</l>
+     <l n="4" met="10100100" rhyme="2" line_length="8">jako z krajiny nebeské.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001000" rhyme="1" line_length="8">Zahučely, zahřímaly,</l>
+     <l n="6" met="10101000" rhyme="3" line_length="8">jako bouře hrůzyplná;</l>
+     <l n="7" met="10101000" rhyme="1" line_length="8">žasly, ztichly, zumlkaly,</l>
+     <l n="8" met="10101010" rhyme="3" line_length="8">jako mořských perlí vlna.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="00100010" rhyme="4" line_length="8">A v té bouři, a v tom ráji</l>
+     <l n="10" met="10001010" rhyme="5" line_length="8">duši mé tak volně, milo;</l>
+     <l n="11" met="10101000" rhyme="4" line_length="8">ó že věčně nenapájí,</l>
+     <l n="12" met="10101010" rhyme="5" line_length="8">aby srdce věčně žilo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

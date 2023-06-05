@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Lamartine.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_lamartine</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Lamartine.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Lamartine.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11000101010" rhyme="1" line_length="11">Hle, po jezeře táhne labuť snivá!</l>
+     <l n="2" met="01010101010" rhyme="2" line_length="11">Tak čistá, bílá, sotva vodu zčeří,</l>
+     <l n="3" met="01010100010" rhyme="2" line_length="11">a táhne mezi rozkvetlými keři,</l>
+     <l n="4" met="01010100010" rhyme="1" line_length="11">a jako harfa Aiolova zpívá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101010" rhyme="1" line_length="11">Jak duchů zpěv to v tvoji duši splývá,</l>
+     <l n="6" met="01000100010" rhyme="2" line_length="11">ta děckem je zas, miluje a věří,</l>
+     <l n="7" met="01010101010" rhyme="2" line_length="11">je čista jako ptáka toho peří,</l>
+     <l n="8" met="01010101010" rhyme="1" line_length="11">a hvězdě v mraku jako sestře kývá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000101000" rhyme="3" line_length="11">To poesie číše vrchovatá!</l>
+     <l n="10" met="11010101010" rhyme="4" line_length="11">Ó pij z ní, dokud můžeš, v květu mládí,</l>
+     <l n="11" met="01010101010" rhyme="5" line_length="11">a sedneš velký, silný mezi bohy!</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="01000101010" rhyme="3" line_length="11">V tom Mefisto již za tvou stopou chvátá.</l>
+     <l n="13" met="01010101010" rhyme="4" line_length="11">„To krásný pták, ta labuť,“ šeptat pádí,</l>
+     <l n="14" met="01000100010" rhyme="5" line_length="11">„však na její jen nedívej se nohy!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LESNÍ VILA.</title>
+    <author>Popelka, Stanislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Popelka, Stanislav_lesni-vila</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LESNÍ VILA.</title>
+     <author>Popelka, Stanislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LESNÍ VILA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100" line_length="8">Mně zjevila se v zátiší,</l>
+     <l n="2" met="01000100" rhyme="1" line_length="8">kde rozkvétaly sněženky,</l>
+     <l n="3" met="01010100" rhyme="2" line_length="8">kde potok spěchal z huštiny</l>
+     <l n="4" met="01000100" rhyme="1" line_length="8">a líbaly se pomněnky.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">A zněla v písní ptáčete,</l>
+     <l n="6" met="01010101" rhyme="3" line_length="8">jí voněl svěžích květů dech,</l>
+     <l n="7" met="1010100" line_length="7">její stopa lehounká</l>
+     <l n="8" met="10010101" rhyme="3" line_length="8">ztratila kyprý lesní mech.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" line_length="8">Mně pravdou byly pohádky,</l>
+     <l n="10" met="01010100" rhyme="4" line_length="8">jež světí Vesna památkou;</l>
+     <l n="11" met="01010100" rhyme="2" line_length="8">jen jeden zjev; ten jediný</l>
+     <l n="12" met="01010100" rhyme="4" line_length="8">mi bude věčně pohádkou!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pryč s obecními ústavy!</title>
+    <author>Pokorný, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný, Rudolf_pryc-s-obecnimi-ustavy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pryč s obecními ústavy!</title>
+     <author>Pokorný, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pryč s obecními ústavy!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Ničte školy na vše strany</l>
+     <l n="2" met="10101000" rhyme="1" line_length="8">jako Písek s Rokycany.</l>
+     <l n="3" met="10101010" rhyme="2" line_length="8">Hloupá mládež – pokrok všude.</l>
+     <l n="4" met="10001000" rhyme="2" line_length="8">Poslanců nám neubude!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

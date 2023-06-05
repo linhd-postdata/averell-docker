@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Manuel de Contreras</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel de Contreras_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Manuel de Contreras</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+++-+---+-">Que avive un leve ardor la competencia,</l>
+     <l n="2" met="-+-+---+-+-">de inmensa llama, y de pasión divina,</l>
+     <l n="3" met="---+++---+-">cuando exceder mil penas determina,</l>
+     <l n="4" met="+++--+---+-">todo un Dios, para ejemplo de paciencia.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-++-++---+-">Milagro es, pero es más que la dolencia</l>
+     <l n="6" met="--+--+---+-">de Javier, que al tormento se destina,</l>
+     <l n="7" met="-+---+---+-">parezca que a los golpes de su ruina,</l>
+     <l n="8" met="+--+-+-+-+-">va trasformando en Dios su misma esencia.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">¿Pues si crece el amor correspondido,</l>
+     <l n="10" met="--+--+---+-">y se alivia el dolor en el amante,</l>
+     <l n="11" met="+--+---+-+-">cuánto el amado sus congojas siente?</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+++--+---+-">Luego es nada en Javier lo padecido,</l>
+     <l n="13" met="++-+++-+-+-">y es todo incendio un pecho tan constante,</l>
+     <l n="14" met="-+-+-+-+-+-">que en él se aumenta amor eternamente.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

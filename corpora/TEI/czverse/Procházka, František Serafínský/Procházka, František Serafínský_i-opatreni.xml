@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>I. Opatření.</title>
+    <author>Procházka, František Serafínský</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Procházka, František Serafínský_i-opatreni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>I. Opatření.</title>
+     <author>Procházka, František Serafínský</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>I. Opatření.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010" rhyme="1" line_length="6">Píská vítr, píská</l>
+     <l n="2" met="101000" rhyme="1" line_length="6">od hor přes strniska,</l>
+     <l n="3" met="01101000" line_length="8">kdo má teplou beranici,</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">málo sobě stýská.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="011010" rhyme="2" line_length="6">Kdo má k tomu sínku</l>
+     <l n="6" met="101000" rhyme="2" line_length="6">třeba na vejminku,</l>
+     <l n="7" met="10001010" line_length="8">najeda se vleze sobě</l>
+     <l n="8" met="101000" rhyme="2" line_length="6">pěkně pod peřinku.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="011010" rhyme="3" line_length="6">Kdo má k tomu ještě</l>
+     <l n="10" met="100010" rhyme="3" line_length="6">černooké děvče,</l>
+     <l n="11" met="10001010" line_length="8">nebojí se větru, zejmy</l>
+     <l n="12" met="101010" rhyme="3" line_length="6">ani slot a deště.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="101010" rhyme="4" line_length="6">Píská vítr, píská</l>
+     <l n="14" met="101000" rhyme="4" line_length="6">od hor přes strniska –</l>
+     <l n="15" met="01001000" line_length="8">kdo má vše to pohromadě,</l>
+     <l n="16" met="001000" rhyme="4" line_length="6">ten si nezastýská.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

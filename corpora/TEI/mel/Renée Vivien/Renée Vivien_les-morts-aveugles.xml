@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LES MORTS AVEUGLES</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_les-morts-aveugles</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LES MORTS AVEUGLES</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LES MORTS AVEUGLES</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="6+6">Les Morts aveugles sont assis dans les tombeaux,</l>
+     <l n="2" line_length="5+5">Les Morts aveugles sont assis dans les tombeaux.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" line_length="6+6">Je viendrai m’accroupir sur la pierre lépreuse</l>
+     <l n="4" line_length="5+5">Je viendrai m’accroupir sur la pierre lépreuse.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" line_length="6+6">Mais je retrouverai mes regards d’autrefois,</l>
+     <l n="6" line_length="5+5">L’amour rallumera mes regards d’autrefois.</l>
+    </lg>
+    <lg n="4">
+     <l n="7" line_length="6+6">Tu viendras t’accroupir sur la pierre lépreuse</l>
+     <l n="8" line_length="5+5">Nous nous accroupirons sur la pierre lépreuse.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

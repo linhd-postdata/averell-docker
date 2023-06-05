@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LA BACCHANTE</title>
+    <author>Pierre-Jean de Béranger</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pierre-Jean de Béranger_la-bacchante</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LA BACCHANTE</title>
+     <author>Pierre-Jean de Béranger</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LA BACCHANTE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="3+6">Cher amant, je cède à tes désirs :</l>
+     <l n="2" rhyme="b" line_length="8">Inventons, s'il se peut, des plaisirs ;</l>
+     <l n="3" rhyme="a" line_length="3+6">Des amours épuisons la folie.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="a" line_length="3+6">Vois déja briller dans mes regards</l>
+     <l n="5" rhyme="b" line_length="8">Sur ton lit, de mes cheveux épars,</l>
+     <l n="6" rhyme="a" line_length="3+6">Fleur à fleur vois tomber ma couronne.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="a" line_length="3+6">Verse encor ! Mais pourquoi ces atours</l>
+     <l n="8" rhyme="b" line_length="8">Romps ces nœuds, oui, romps-les pour toujours :</l>
+     <l n="9" rhyme="a" line_length="3+6">Ma pudeur ne connaît plus d'alarmes.</l>
+    </lg>
+    <lg n="4">
+     <l n="10" rhyme="a" line_length="3+6">Dans mes bras tombe enfin à ton tour ;</l>
+     <l n="11" rhyme="b" line_length="8">Ne bois plus, et garde à mon amour</l>
+     <l n="12" rhyme="a" line_length="3+6">Ce nectar où tes feux s'amortissent.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

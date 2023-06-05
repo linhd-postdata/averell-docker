@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Con tantas ligas obligas</title>
+    <author>Jacinto Polo de Medina</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jacinto Polo de Medina_con-tantas-ligas-obligas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Poesía Lírica Castellana Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Con tantas ligas obligas</title>
+     <author>Jacinto Polo de Medina</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Con tantas ligas obligas</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="Epigrama">
+     <l n="1" met="-+-+--+-">Con tantas ligas obligas</l>
+     <l n="2" met="---+--+-">a que se dude, Damón,</l>
+     <l n="3" met="--+-+-+-">si tus flacas piernas son</l>
+     <l n="4" met="--+---+-">rapacejos de tus ligas.</l>
+     <l n="5" met="-+-+-+-">De no poder ser casado</l>
+     <l n="6" met="-+---+-">nos das claro testimonio,</l>
+     <l n="7" met="------+-">porque para matrimonio</l>
+     <l n="8" met="-+-+-+-">estás, Damón, muy ligado.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

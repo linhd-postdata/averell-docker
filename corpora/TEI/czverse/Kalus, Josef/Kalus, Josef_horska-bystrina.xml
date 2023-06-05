@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Horská bystřina.</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_horska-bystrina</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Horská bystřina.</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Horská bystřina.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101" line_length="6">Vesele spěchá v dol</l>
+     <l n="2" met="110100" rhyme="1" line_length="6">proud horské bystřiny –</l>
+     <l n="3" met="100100" line_length="6">myslí, že bude tam</l>
+     <l n="4" met="000100" rhyme="1" line_length="6">stláť si jen květiny.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100" line_length="6">V horách si pohrává</l>
+     <l n="6" met="100100" rhyme="2" line_length="6">s vonnými lupeny –</l>
+     <l n="7" met="101010" line_length="6">a pak musí točiť</l>
+     <l n="8" met="100100" rhyme="2" line_length="6">mlýnskými kameny.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

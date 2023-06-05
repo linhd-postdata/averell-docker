@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Lehká živnost.</title>
+    <author>Nevšímal, August</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nevšímal, August_lehka-zivnost</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Lehká živnost.</title>
+     <author>Nevšímal, August</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Lehká živnost.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" line_length="8">Nejsou lepší řemesníci,</l>
+     <l n="2" met="1010100" rhyme="1" line_length="7">jako páni poslanci:</l>
+     <l n="3" met="10001010" line_length="8">na sněmu jen kývne hlavou,</l>
+     <l n="4" met="0010100" rhyme="1" line_length="7">už si píše kvitanci.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VŮZ.</title>
+    <author>Čech, Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čech, Svatopluk_vuz</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VŮZ.</title>
+     <author>Čech, Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VŮZ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010100" rhyme="1" line_length="8">Vůz těžký brázdí silnici</l>
+     <l n="2" met="0101010" rhyme="2" line_length="7">a nad ním plachty krovy,</l>
+     <l n="3" met="10010100" rhyme="1" line_length="8">pod plachtou bledou dívčici</l>
+     <l n="4" met="0100010" rhyme="2" line_length="7">kam vezou – kdož mi poví?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000100" rhyme="3" line_length="8">Snad za hory a za lesy</l>
+     <l n="6" met="0101010" rhyme="4" line_length="7">ji naděj’ vábí lestná –</l>
+     <l n="7" met="11010100" rhyme="3" line_length="8">ó mezi čtyřmi kolesy</l>
+     <l n="8" met="0101010" rhyme="4" line_length="7">tak mnoho snů se směstná!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" rhyme="5" line_length="8">Snad hanba bič v ni zatíná</l>
+     <l n="10" met="1001010" rhyme="6" line_length="7">pudíc ji v cizí lány –</l>
+     <l n="11" met="11010100" rhyme="5" line_length="8">ó šedá plachta přepíná</l>
+     <l n="12" met="0101010" rhyme="6" line_length="7">tak mnohé srdce rány!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="11010100" rhyme="7" line_length="8">Kol pusto – topol s topolem</l>
+     <l n="14" met="0101010" rhyme="8" line_length="7">se podél cesty honí –</l>
+     <l n="15" met="01000100" rhyme="7" line_length="8">a vezmu-li to kolkolem,</l>
+     <l n="16" met="0101010" rhyme="8" line_length="7">ať jede, co mi po ní...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

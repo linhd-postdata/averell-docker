@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A mi amada ausente</title>
+    <author>Fernando Garrido y Tortosa</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fernando Garrido y Tortosa_a-mi-amada-ausente</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A mi amada ausente</title>
+     <author>Fernando Garrido y Tortosa</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A mi amada ausente</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+---+-">Gózase encantadora primavera</l>
+     <l n="2" met="--+--+---+-">ostentando sus mágicos colores;</l>
+     <l n="3" met="-+---++--+-">su cáliz perfumado abren las flores</l>
+     <l n="4" met="--+--+---+-">amorosas al aura lisonjera.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">Embelesan el bosque y la pradera</l>
+     <l n="6" met="+-+--+---+-">dulces trinos de amantes ruiseñores,</l>
+     <l n="7" met="+----+---+-">himnos de melancólicos amores</l>
+     <l n="8" met="-+-+-+---+-">que ardiente alumbra el sol desde su esfera.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+---+-">Todos gozan amando su ventura,</l>
+     <l n="10" met="-+-+-+---+-">y amor sonríe a todos placentero,</l>
+     <l n="11" met="+-+--+---+-">flores, aves y prados y espesura.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+-+-+-">Yo que su dicha envidio, en vano espero</l>
+     <l n="13" met="-+-+-+---+-">trocar en bien mi horrible desventura,</l>
+     <l n="14" met="---+-+-+-+-">que de mi hermosa amada ausente muero.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

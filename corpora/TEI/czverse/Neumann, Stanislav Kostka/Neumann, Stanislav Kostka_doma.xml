@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Doma</title>
+    <author>Neumann, Stanislav Kostka</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neumann, Stanislav Kostka_doma</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Doma</title>
+     <author>Neumann, Stanislav Kostka</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Doma</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100010010010" rhyme="1" line_length="15">Mlhy jsou v kotlinách a bez lesků sivé je nebe;</l>
+     <l n="2" met="100101001010010" rhyme="2" line_length="15">vejde-li člověk do lesů, hlavu zadumán svěsí.</l>
+     <l n="3" met="1001001010010" rhyme="1" line_length="13">Po rusých temenech vrchů zavřených v sebe</l>
+     <l n="4" met="10010101001010" rhyme="2" line_length="14">na šedých šlářích ticho skřehlými pluje lesy.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100010010010" rhyme="3" line_length="15">Datel jen odklepává hubený den svůj a těká</l>
+     <l n="6" met="10010001001010" rhyme="4" line_length="14">po sosnách fijalových. Sýkora v habří pískne.</l>
+     <l n="7" met="100001001010010" rhyme="3" line_length="15">Melancholická radost a barev dřímota měkká</l>
+     <l n="8" met="10010001010010" rhyme="4" line_length="14">pod nebem uzavřeným k zemi přátelsky tiskne.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100101010010010" rhyme="5" line_length="15">V teplém tak hnízdě ptáku dobře a veselo bývá,</l>
+     <l n="10" met="1001001010010" rhyme="6" line_length="13">hledí-li mřežovím větví s rodného stromu...</l>
+     <l n="11" met="100110101001000" rhyme="5" line_length="15">Obloha má ovšem slunce, ale je nepravdivá.</l>
+     <l n="12" met="1001001001010" rhyme="6" line_length="13">K zemi se navracíš. I když je chudá. Domů.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

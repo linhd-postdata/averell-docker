@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LE TOURISTE</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_le-touriste</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LE TOURISTE</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LE TOURISTE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Le plein midi darde ses flèches</l>
+     <l n="2" rhyme="b" line_length="8">Dans l'air chaud comme une fournaise.</l>
+     <l n="3" rhyme="b" line_length="8">Je chemine tout à mon aise,</l>
+     <l n="4" rhyme="a" line_length="8">Loin des fiacres et des calèches.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Ici, promenades et pêches.</l>
+     <l n="6" rhyme="b" line_length="8">J'aime ça, ne vous en déplaise ;</l>
+     <l n="7" rhyme="a" line_length="8">Le plein midi darde ses flèches</l>
+     <l n="8" rhyme="b" line_length="8">Dans l'air chaud comme une fournaise.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Cher pays, comme tu m'allèches</l>
+     <l n="10" rhyme="b" line_length="8">Par tes rocs et ta terre glaise !</l>
+     <l n="11" rhyme="b" line_length="8">Je n'ai pas de jument anglaise,</l>
+     <l n="12" rhyme="a" line_length="8">Mais j'ai deux jambes toujours fraîches.</l>
+     <l n="13" rhyme="a" line_length="8">Le plein midi darde ses flèches.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

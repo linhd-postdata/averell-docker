@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XVI. Nám chybí pepř, nám chybí sůl,</title>
+    <author>Martinec, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Martinec, Jaroslav_xvi-nam-chybi-pepr-nam-chybi-s</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XVI. Nám chybí pepř, nám chybí sůl,</title>
+     <author>Martinec, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XVI. Nám chybí pepř, nám chybí sůl,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101" line_length="8">Nám chybí pepř, nám chybí sůl, </l>
+     <l n="2" met="0101000" rhyme="1" line_length="7">leč proto neželíme.</l>
+     <l n="3" met="01010101" line_length="8">My máme zato český vtip,</l>
+     <l n="4" met="0101000" rhyme="1" line_length="7">tím dosti nasolíme.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">I pepře máme surrogát,</l>
+     <l n="6" met="0101000" rhyme="2" line_length="7">to nikdo neodepře:</l>
+     <l n="7" met="01010100" line_length="8">Kde český vtip již zasolil,</l>
+     <l n="8" met="0101010" rhyme="2" line_length="7">tam není třeba pepře!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

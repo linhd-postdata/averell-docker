@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Una estepa del Nazas</title>
+    <author>Manuel José Othón</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel José Othón_una-estepa-del-nazas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Una estepa del Nazas</title>
+     <author>Manuel José Othón</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Una estepa del Nazas</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-++--+-">¡Ni un verdecito alcor, ni una pradera!</l>
+     <l n="2" met="++-+---+-+-">Tan sólo miro, de mi vista enfrente,</l>
+     <l n="3" met="--+--++--+-">la llanura sin fin, seca y ardiente,</l>
+     <l n="4" met="---+-+---+-">donde jamás reinó la primavera.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+-+----+-">Rueda el río monótono en la austera</l>
+     <l n="6" met="+--+-++--+-">cuenca, sin un candil, ni una rompiente</l>
+     <l n="7" met="-+---+-+-+-">y al ras del horizonte, el sol poniente,</l>
+     <l n="8" met="+-+-++---+-">cual la boca de un horno, reverbera.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+-+-+-">Y en esta gama gris que no abrillanta</l>
+     <l n="10" met="-+-+-+++-+-">ningún color; aquí, do el aire azota</l>
+     <l n="11" met="-+-+---+-+-">con ígneo soplo la reseca planta,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+---+-">sólo al romper su cárcel, la bellota</l>
+     <l n="13" met="---+---+-+-">en el pajizo algodonal levanta</l>
+     <l n="14" met="--+--+-+-+-">de su cándido airón la blanca nota.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

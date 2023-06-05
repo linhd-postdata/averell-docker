@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Este de mimbres vestido</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_este-de-mimbres-vestido</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Este de mimbres vestido</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Este de mimbres vestido</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="+--+--+-" line_length="8">Este de mimbres vestido</l>
+     <l n="2" met="--+---+-" line_length="8">requesón de Colmenar</l>
+     <l n="3" met="+--+--+-" line_length="8">bien le podremos llamar</l>
+     <l n="4" met="-+-+--+-" line_length="8">panal de suero cocido.</l>
+     <l n="5" met="-+-++-+-" line_length="8">A leche y miel me ha sabido:</l>
+     <l n="6" met="-+-+--+-" line_length="8">decidme en otro papel</l>
+     <l n="7" met="----+-+-" line_length="8">lo que se confunde en él,</l>
+     <l n="8" met="--+-+-+-" line_length="8">que sin duda alada oveja,</l>
+     <l n="9" met="--+-+-+-" line_length="8">cuando no lanuda abeja,</l>
+     <l n="10" met="+--+--+-" line_length="8">leche le dieron, y miel.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

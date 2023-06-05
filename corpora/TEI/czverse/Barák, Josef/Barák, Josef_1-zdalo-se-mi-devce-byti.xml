@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>1 Zdálo se mi děvče býti</title>
+    <author>Barák, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Barák, Josef_1-zdalo-se-mi-devce-byti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>1 Zdálo se mi děvče býti</title>
+     <author>Barák, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>1 Zdálo se mi děvče býti</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" line_length="8">Zdálo se mi děvče býti </l>
+     <l n="2" met="1010100" rhyme="1" line_length="7">bílou polní lilií,</l>
+     <l n="3" met="10100010" line_length="8">která po prvé se láskou –</l>
+     <l n="4" met="1010100" rhyme="1" line_length="7">vlastní vůní opíjí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" line_length="8">Zdálo dcerou lásky samé,</l>
+     <l n="6" met="1010100" rhyme="2" line_length="7">zdálo perlou z podmoří –</l>
+     <l n="7" met="10101010" line_length="8">jenže často lesklá perla</l>
+     <l n="8" met="1010100" rhyme="2" line_length="7">vlastní matku umoří.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

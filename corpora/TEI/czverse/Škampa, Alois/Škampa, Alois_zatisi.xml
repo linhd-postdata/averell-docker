@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Zátiší.</title>
+    <author>Škampa, Alois</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Škampa, Alois_zatisi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Zátiší.</title>
+     <author>Škampa, Alois</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Zátiší.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110101000" rhyme="1" line_length="9">V stín temný stráně vápencové –</l>
+     <l n="2" met="010101000" rhyme="2" line_length="9">jak rád si zajdu do zátiší!</l>
+     <l n="3" met="110001010" rhyme="1" line_length="9">Šum ručeje tu v břehy klove</l>
+     <l n="4" met="010101010" rhyme="2" line_length="9">a duše píseň drozda slyší;</l>
+     <l n="5" met="110001010" rhyme="3" line_length="9">klín trávníku tak měkce svěží</l>
+     <l n="6" met="110001010" rhyme="4" line_length="9">v mír skonejší tu zmdlená bedra,</l>
+     <l n="7" met="010001000" rhyme="3" line_length="9">a na mechu a na protěži</l>
+     <l n="8" met="010101010" rhyme="4" line_length="9">tu rosa plá i za dnů vedra!</l>
+    </lg>
+    <lg n="2">
+     <l n="9" met="110101010" rhyme="5" line_length="9">Kol s obou stran jak stěny sluje</l>
+     <l n="10" met="010101010" rhyme="6" line_length="9">se habrů starých řada těsní,</l>
+     <l n="11" met="010101000" rhyme="5" line_length="9">a v dol, kam oko dosahuje –</l>
+     <l n="12" met="110101010" rhyme="6" line_length="9">sní vlhký, vonný úvoz lesní,</l>
+     <l n="13" met="110001010" rhyme="7" line_length="9">pln motýlů a zlatých květů,</l>
+     <l n="14" met="010001010" rhyme="8" line_length="9">jak čarovná a šerá číše –</l>
+     <l n="15" met="010101010" rhyme="7" line_length="9">zkad nektar vína, ukryt světu,</l>
+     <l n="16" met="010101010" rhyme="8" line_length="9">svůj půvab ke rtům nebes dýše!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

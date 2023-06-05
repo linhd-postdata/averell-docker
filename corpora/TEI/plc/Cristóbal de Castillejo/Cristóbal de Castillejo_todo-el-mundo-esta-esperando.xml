@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Todo el mundo está esperando,</title>
+    <author>Cristóbal de Castillejo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cristóbal de Castillejo_todo-el-mundo-esta-esperando</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Poesía Lírica Castellana Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Todo el mundo está esperando,</title>
+     <author>Cristóbal de Castillejo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Todo el mundo está esperando,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="Coplas">
+     <l n="1" met="+-+-+-+-">Todo el mundo está esperando,</l>
+     <l n="2" met="+-+---+-">Virgen santa, vuestro sí;</l>
+     <l n="3" met="+--+-+-">no detengáis más ahí</l>
+     <l n="4" met="---+--+-">al mensajero dudando;</l>
+     <l n="5" met="+----+-">dad presto consentimiento.</l>
+     <l n="6" met="-+-+--+-">Sabed que está tan contento</l>
+     <l n="7" met="----+-+-">de vuestra persona Dios,</l>
+     <l n="8" met="-+-+--+-">que no demanda de vos</l>
+     <l n="9" met="+-+---+-">otra cosa en casamiento.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

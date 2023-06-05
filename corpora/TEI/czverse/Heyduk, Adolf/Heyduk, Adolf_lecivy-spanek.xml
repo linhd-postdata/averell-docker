@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Léčivý spánek.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_lecivy-spanek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Léčivý spánek.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Léčivý spánek.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" rhyme="1" line_length="9">Co zbylo z květů, Jeseň plení,</l>
+     <l n="2" met="11010101" rhyme="2" line_length="8">chlad líbá zemi zvadlým rtem,</l>
+     <l n="3" met="110101010" rhyme="1" line_length="9">pták prchá, kraj je zabrán v snění</l>
+     <l n="4" met="01010001" rhyme="2" line_length="8">a mlhou oddychuje zem.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101010" rhyme="3" line_length="9">Mne jímá žal, má duše kvílí,</l>
+     <l n="6" met="00010101" rhyme="4" line_length="8">že vše, co vzchází, musí mřít,</l>
+     <l n="7" met="010101010" rhyme="3" line_length="9">a zděšen volám: „Ustaň chvíli!“</l>
+     <l n="8" met="01010011" rhyme="4" line_length="8">a Jeseň šepce: „Tak chci mít!“</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="110001010" rhyme="5" line_length="9">Chceš zkvétající jaro v hrudi,</l>
+     <l n="10" met="01011101" rhyme="6" line_length="8">když všechen svět jal v náruč mráz?</l>
+     <l n="11" met="110011010" rhyme="5" line_length="9">Čas uspává, čas k žití budí,</l>
+     <l n="12" met="01010100" rhyme="6" line_length="8">a v spánku na vždy – bude snáz!...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

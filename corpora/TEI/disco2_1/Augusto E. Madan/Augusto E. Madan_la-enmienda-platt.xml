@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Enmienda Platt</title>
+    <author>Augusto E. Madan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Augusto E. Madan_la-enmienda-platt</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Enmienda Platt</title>
+     <author>Augusto E. Madan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Enmienda Platt</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+-+-+-">Tal vez porque a las buenas no medrabas,</l>
+     <l n="2" met="--+--++--+-">simulacro naval quiso imponerte;</l>
+     <l n="3" met="--+-++--++-">y opinión del país, fue, sin leerte,</l>
+     <l n="4" met="---+-+---+-">que Libertad y Patria cercenabas.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+-+-+-">La Convención después, de luchas bravas,</l>
+     <l n="6" met="--+++---++-">aprobarte decide al conocerte.</l>
+     <l n="7" met="--+--+-+++-">Diplomacia o lealtad, ¿temió al más fuerte</l>
+     <l n="8" met="--+-++-+-+-">o salvándote vio que nos salvabas?</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+--++-">Si entiendo de política muy poco,</l>
+     <l n="10" met="-+-+---+++-">la tierra miro que tu ley nos quita</l>
+     <l n="11" met="---+-+-+-+-">sin descubrir, en cambio, el bien que creas.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+-+-+-">De tu propia conciencia el juicio invoco,</l>
+     <l n="13" met="-++--+--+-">y te digo: ¿Proteges? ¡Sé bendita!</l>
+     <l n="14" met="+------++-">¿Cubres la usurpación? ¡Maldita seas!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

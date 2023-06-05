@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A las flores</title>
+    <author>Julio Zaldumbide Gangotena</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Julio Zaldumbide Gangotena_a-las-flores</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A las flores</title>
+     <author>Julio Zaldumbide Gangotena</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A las flores</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---+-">Prole gentil del céfiro y la aurora,</l>
+     <l n="2" met="-+---+---+-">nacida con el don de la belleza;</l>
+     <l n="3" met="+----+---+-">gracias con que la gran naturaleza</l>
+     <l n="4" met="+--+---+-+-">ríe, y su augusta majestad decora.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">La luz del sol, que el universo dora,</l>
+     <l n="6" met="++---+---+-">no tanto de su frente en la grandeza,</l>
+     <l n="7" met="+--+-+---+-">cuanto en vosotras linda se adereza,</l>
+     <l n="8" met="---+++---+-">y con matiz más gayo se colora.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">En el campo del éter las estrellas</l>
+     <l n="10" met="++---+---+-">son flores celestiales, y en el suelo</l>
+     <l n="11" met="-+-+-+---+-">vosotras sois estrellas de colores.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++-+-+---+-">Tan puras sois, en fin, al par que bellas,</l>
+     <l n="13" met="-+---+-+-+-">que pienso que del mundo el claro cielo</l>
+     <l n="14" met="++-+-++--+-">no tiene cosas más... que almas y flores.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

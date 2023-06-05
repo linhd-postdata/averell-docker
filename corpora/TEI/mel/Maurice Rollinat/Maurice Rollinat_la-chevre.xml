@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LA CHÈVRE</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_la-chevre</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LA CHÈVRE</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LA CHÈVRE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Ma bonne chèvre limousine,</l>
+     <l n="2" rhyme="b" line_length="8">Gentille bête à l'œil humain,</l>
+     <l n="3" rhyme="b" line_length="8">J'aime à te voir sur mon chemin,</l>
+     <l n="4" rhyme="a" line_length="8">Loin de la gare et de l'usine.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Toi que la barbe encapucine,</l>
+     <l n="6" rhyme="b" line_length="8">Tu gambades comme un gamin,</l>
+     <l n="7" rhyme="a" line_length="8">Ma bonne chèvre limousine,</l>
+     <l n="8" rhyme="b" line_length="8">Gentille bête à l'œil humain.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Je vais à la ferme voisine,</l>
+     <l n="10" rhyme="b" line_length="8">Mais je te jure que demain</l>
+     <l n="11" rhyme="b" line_length="8">Tu viendras croquer dans ma main</l>
+     <l n="12" rhyme="a" line_length="8">Du sucre et du sel de cuisine,</l>
+     <l n="13" rhyme="a" line_length="8">Ma bonne chèvre limousine.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

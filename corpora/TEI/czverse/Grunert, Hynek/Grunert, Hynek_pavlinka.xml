@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pavlinka.</title>
+    <author>Grunert, Hynek</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Grunert, Hynek_pavlinka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pavlinka.</title>
+     <author>Grunert, Hynek</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pavlinka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101" line_length="8">Pavlinku drží celý svět</l>
+     <l n="2" met="10010100" rhyme="1" line_length="8">za pravou perlu, ozdobu,</l>
+     <l n="3" met="11010100" line_length="8">hrá, tančí, zpívá, miluje</l>
+     <l n="4" met="01010100" rhyme="1" line_length="8">a krásně padá ve mdlobu!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L'ESCLAVE</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_l-esclave</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L'ESCLAVE</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L'ESCLAVE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Captive et peut-être oubliée,</l>
+     <l n="2" rhyme="b" line_length="8">Je songe à mes jeunes amours,</l>
+     <l n="3" rhyme="b" line_length="4">Et par la fenêtre grillée</l>
+     <l n="4" rhyme="a" line_length="8">Je regarde l'oiseau joyeux,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Douce et pâle consolatrice,</l>
+     <l n="6" rhyme="b" line_length="8">Espérance, rayon d'en haut,</l>
+     <l n="7" rhyme="b" line_length="4">Fais-moi, sous ta clarté propice,</l>
+     <l n="8" rhyme="a" line_length="8">A ton miroir faux et charmant</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Auprès de lui, belle Espérance,</l>
+     <l n="10" rhyme="b" line_length="8">Porte-moi sur tes ailes d'or,</l>
+     <l n="11" rhyme="b" line_length="4">Et, pour endormir ma souffrance,</l>
+     <l n="12" rhyme="a" line_length="8">Suspends mon âme sur son cœur</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

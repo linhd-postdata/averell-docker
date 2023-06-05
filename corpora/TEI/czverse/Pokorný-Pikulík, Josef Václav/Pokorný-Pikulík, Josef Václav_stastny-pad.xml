@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Šťastný pád.</title>
+    <author>Pokorný-Pikulík, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný-Pikulík, Josef Václav_stastny-pad</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Šťastný pád.</title>
+     <author>Pokorný-Pikulík, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Šťastný pád.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010100" rhyme="1" line_length="9">Chudáček, ten Špinka ubohý!</l>
+     <l n="2" met="1010001010" rhyme="2" line_length="10">Obchod v nejbujnějším květu svadl’,</l>
+     <l n="3" met="1010101010" rhyme="2" line_length="10">Špinka klesnul, ale šťastně padl –</l>
+     <l n="4" met="100010100" rhyme="1" line_length="9">úpadek mu pomoh’ na nohy! –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

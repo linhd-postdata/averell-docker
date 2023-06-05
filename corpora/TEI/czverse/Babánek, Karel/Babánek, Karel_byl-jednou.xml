@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>BYL JEDNOU...</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_byl-jednou</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>BYL JEDNOU...</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>BYL JEDNOU...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101" line_length="6">Byl jednou jeden král,</l>
+     <l n="2" met="010101" rhyme="1" line_length="6">ten sličnou dceru měl,</l>
+     <l n="3" met="01010100" line_length="8">však úsměv na rtech princezny</l>
+     <l n="4" met="110100" rhyme="1" line_length="6">král nikdy neviděl.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11000100" line_length="8">Půl království a princeznu</l>
+     <l n="6" met="1001010" rhyme="2" line_length="7">sliboval marně tomu,</l>
+     <l n="7" met="01010100" line_length="8">kdo úsměv vrátí na rty jí,</l>
+     <l n="8" met="1100010" rhyme="2" line_length="7">klid královskému domu.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" line_length="8">Až jednou, jaro bylo už</l>
+     <l n="10" met="010001" rhyme="3" line_length="6">a modravý byl vzduch,</l>
+     <l n="11" met="10010101" rhyme="4" line_length="8">na šalmaj pastýř v stráni hrál</l>
+     <l n="12" met="100101" rhyme="3" line_length="6">a byl jak mladý bůh.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01010101" rhyme="4" line_length="8">Byl jednou jeden starý král –</l>
+     <l n="14" met="10010101" rhyme="5" line_length="8">princezna krásný snila sen</l>
+     <l n="15" met="10010100" line_length="8">za jarních nocí modravých,</l>
+     <l n="16" met="0100010000" rhyme="5" line_length="10">a ve snu pak se usmívala jen.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

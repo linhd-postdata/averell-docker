@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Cuba</title>
+    <author>Ramón Zambrana</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ramón Zambrana_a-cuba</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Cuba</title>
+     <author>Ramón Zambrana</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Cuba</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+++--+---+-">¿Qué me importan grandezas y primores</l>
+     <l n="2" met="--+-++---+-">que de Europa me cuentan a millares,</l>
+     <l n="3" met="---+-+---+-">cuando a la sombra estoy de tus palmares</l>
+     <l n="4" met="--+--+---+-">respirando el ambiente de tus flores?</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">¿Forman del Sena y Tíber los rumores</l>
+     <l n="6" met="+-+--+---+-">ese grato murmullo de Almendares?</l>
+     <l n="7" met="--+--+---+-">¿Del sinsonte los índicos cantares</l>
+     <l n="8" met="-+---+---+-">imitan sus preciados ruiseñores?</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">Si eterno luto y horroroso duelo</l>
+     <l n="10" met="---+---+-+-">en vez de dulce y perdurable calma</l>
+     <l n="11" met="+-+-+--+-+-">me brindases no mas ¡oh Cuba mía!</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+---+-+-">Fiel lo protesta mi ardoroso anhelo,</l>
+     <l n="13" met="-+-+---+-+-">a cada pena que sintiera el alma</l>
+     <l n="14" met="+-+--+---+-">un suspiro de amor respondería.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>QUATORZAIN POUR TOUS</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_quatorzain-pour-tous</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>QUATORZAIN POUR TOUS</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>QUATORZAIN POUR TOUS</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+4">O mes contemporains du sexe fort,</l>
+     <l n="2" rhyme="b" line_length="4+6">Je vous méprise et contemne point peu.</l>
+     <l n="3" rhyme="a" line_length="4+6">Même il en est que je déteste à mort</l>
+     <l n="4" rhyme="b" line_length="4+6">Et que je hais d’une haine de dieu.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="4+6">Vous êtes laids moi compris au-delà</l>
+     <l n="6" rhyme="d" line_length="6+4">De toute expression, et bêtes, moi</l>
+     <l n="7" rhyme="c" line_length="6+4">Compris, comme il n’est pas permis : c’est la</l>
+     <l n="8" rhyme="d" line_length="6+4">Pire peine à mon cœur, et son émoi</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="4+6">De ne pouvoir être (ni vous non plus)</l>
+     <l n="10" rhyme="f" line_length="4+6">Intelligent et beau pour rire ainsi</l>
+     <l n="11" rhyme="f" line_length="4+6">Qu’il sied, du choix qui me rend cramoisi</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="4+6">Et pour pleurer que parmi tant d’élus</l>
+     <l n="13" rhyme="g" line_length="6+4">A faire, ces messieurs aient entre tous</l>
+     <l n="14" rhyme="g" line_length="4+6">Pris Brunetière. O les topinambous !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

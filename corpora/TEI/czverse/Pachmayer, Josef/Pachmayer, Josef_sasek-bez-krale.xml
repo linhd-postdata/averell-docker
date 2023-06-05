@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Šašek bez krále.</title>
+    <author>Pachmayer, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pachmayer, Josef_sasek-bez-krale</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Šašek bez krále.</title>
+     <author>Pachmayer, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Šašek bez krále.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101" rhyme="1" line_length="5">Byť nám scházel král,</l>
+     <l n="2" met="10001010" line_length="8">dovoltež vy, šašku, aspoň,</l>
+     <l n="3" met="10101010" rhyme="2" line_length="8">aby do té naší psoty</l>
+     <l n="4" met="10101010" rhyme="2" line_length="8">podle pravé české noty</l>
+     <l n="5" met="10001" rhyme="1" line_length="5">smutnou vám tu hrál! –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

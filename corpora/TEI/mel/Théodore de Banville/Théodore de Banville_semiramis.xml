@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sémiramis</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_semiramis</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sémiramis</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sémiramis</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Sémiramis, qui règne et dont la gloire éclate,</l>
+     <l n="2" rhyme="b" line_length="6+6">Mène après elle, ainsi que le ferait un Dieu,</l>
+     <l n="3" rhyme="b" line_length="6+6">Les rois vaincus ; on voit dans une mer de feu</l>
+     <l n="4" rhyme="a" line_length="6+6">Les astres resplendir sur sa robe écarlate.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Attentive à la voix du fleuve qui la flatte,</l>
+     <l n="6" rhyme="b" line_length="6+6">Elle écoute gémir et chanter le flot bleu,</l>
+     <l n="7" rhyme="b" line_length="6+6">En traversant le pont triomphal que par jeu</l>
+     <l n="8" rhyme="a" line_length="6+6">Sa main dominatrice a jeté sur l'Euphrate.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Or, tandis qu'elle passe, humiliant le jour,</l>
+     <l n="10" rhyme="c" line_length="6+6">Un soldat bactrien murmure, fou d'amour :</l>
+     <l n="11" rhyme="d" line_length="6+6">« Je voudrais la tenir entre mes bras, dussé-je,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Après, être mangé tout vivant par des chiens ! »</l>
+     <l n="13" rhyme="d" line_length="6+6">Alors Sémiramis, la colombe de neige,</l>
+     <l n="14" rhyme="e" line_length="6+6">Tourne vers lui son front céleste et lui dit : « Viens ! »</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

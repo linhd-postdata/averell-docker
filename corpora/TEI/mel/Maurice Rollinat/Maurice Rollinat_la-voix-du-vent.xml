@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Voix du vent</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_la-voix-du-vent</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Voix du vent</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Voix du vent</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Les nuits d'hiver quand le vent pleure,</l>
+     <l n="2" rhyme="b" line_length="8">Se plaint, hurle, siffle et vagit,</l>
+     <l n="3" rhyme="b" line_length="8">On ne sait quel drame surgit</l>
+     <l n="4" rhyme="a" line_length="8">Dans l'homme ainsi qu'en la demeure.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Sa grande musique mineure</l>
+     <l n="6" rhyme="b" line_length="8">Qui, tour à tour, grince et mugit,</l>
+     <l n="7" rhyme="b" line_length="8">Sur toute la pensée agit</l>
+     <l n="8" rhyme="a" line_length="8">Comme une voix intérieure.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="8">Ces cris, cette clameur immense,</l>
+     <l n="10" rhyme="c" line_length="8">Chantent la rage, la démence,</l>
+     <l n="11" rhyme="d" line_length="8">La peur, le crime, le remord…</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="8">Et, voluptueux et funèbres,</l>
+     <l n="13" rhyme="e" line_length="8">Accompagnent dans les ténèbres</l>
+     <l n="14" rhyme="d" line_length="8">Les râles d'amour et de mort.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

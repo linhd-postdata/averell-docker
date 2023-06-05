@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>TŘI SLOKY IDYLICKÉ.</title>
+    <author>Čenkov, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čenkov, Emanuel_tri-sloky-idylicke</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>TŘI SLOKY IDYLICKÉ.</title>
+     <author>Čenkov, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>TŘI SLOKY IDYLICKÉ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010001010" rhyme="1" line_length="11">V té vřavě zápasů, jež život krátí,</l>
+     <l n="2" met="010100010100" rhyme="2" line_length="12">v tom proudu vířivém, jenž rve tě zběsilý,</l>
+     <l n="3" met="11010001010" rhyme="1" line_length="11">v měst dílně šílené, již vidíš pláti –</l>
+     <l n="4" met="110100100100" rhyme="2" line_length="12">stesk večer pojme tě po klidu idyly.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010010010" rhyme="3" line_length="11">A sladce zatoužíš po šedé cestě</l>
+     <l n="6" met="100100100100" rhyme="4" line_length="12">vedoucí k městečku špalírem kaštanů...</l>
+     <l n="7" met="11010001010" rhyme="3" line_length="11">dech noci měsíčné vlá v horském městě,</l>
+     <l n="8" met="011100010100" rhyme="4" line_length="12">jež spat jde z večera... jen slyšíš fontánu,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010001010" rhyme="5" line_length="11">ta v duo milenců kdes v koutku šepce...</l>
+     <l n="10" met="010100110100" rhyme="6" line_length="12">Kdos domů z hospůdky jde šerem podloubí...</l>
+     <l n="11" met="10010011010" rhyme="5" line_length="11">na štíty lomenic svit splývá hebce</l>
+     <l n="12" met="010100100100" rhyme="6" line_length="12">a každou hodinu ponocný zatroubí...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

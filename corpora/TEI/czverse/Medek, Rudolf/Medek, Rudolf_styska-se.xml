@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>STÝSKÁ SE</title>
+    <author>Medek, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Medek, Rudolf_styska-se</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>STÝSKÁ SE</title>
+     <author>Medek, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>STÝSKÁ SE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010100" line_length="11">Po čem se ti stýská, srdce tesklivé,</l>
+     <l n="2" met="1010010100" rhyme="1" line_length="10">srdce nemocné, nesvé, neklidné?</l>
+     <l n="3" met="1000101000" line_length="10">Po večerech plných bědování,</l>
+     <l n="4" met="100010001" rhyme="1" line_length="9">po nocích, jež nedočkají dne?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010100" line_length="11">Po tom známém zmatku, jenž tě užírá</l>
+     <l n="6" met="10101010001" rhyme="2" line_length="11">jako starý sup a na cáry tě rve,</l>
+     <l n="7" met="10101010001" line_length="11">po zlých mukách touhy, po šílených snech,</l>
+     <l n="8" met="101010100" rhyme="2" line_length="9">po zlém jařmu vášně bláznivé?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="101010101010" line_length="12">Čeho tedy hledáš z oken hledíc tiše,</l>
+     <l n="10" met="001010101010" rhyme="3" line_length="12">co tě tedy souží, mučí, rve a stiská?</l>
+     <l n="11" met="1010100010100" line_length="13">Což jsi srdce studentovo, staré srdce mé?</l>
+     <l n="12" met="101010101010" rhyme="3" line_length="12">Nevím, říká srdce – vím jen, že se stýská.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

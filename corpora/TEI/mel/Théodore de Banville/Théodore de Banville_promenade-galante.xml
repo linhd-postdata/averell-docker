@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Promenade galante</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_promenade-galante</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Promenade galante</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Promenade galante</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Dans le parc au noble dessin</l>
+     <l n="2" rhyme="b" line_length="8">Où s'égarent les Cidalises</l>
+     <l n="3" rhyme="b" line_length="8">Parmi les fontaines surprises</l>
+     <l n="4" rhyme="a" line_length="8">Dans le marbre du clair bassin,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Iris, que suit un jeune essaim,</l>
+     <l n="6" rhyme="b" line_length="8">Philis, Églé, nymphes éprises,</l>
+     <l n="7" rhyme="b" line_length="8">Avec leurs plumes indécises,</l>
+     <l n="8" rhyme="a" line_length="8">En manteau court, montrant leur sein,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="8">Lycaste, Myrtil et Sylvandre</l>
+     <l n="10" rhyme="c" line_length="8">Vont, parmi la verdure tendre,</l>
+     <l n="11" rhyme="d" line_length="8">Vers les grands feuillages dormants.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="8">Ils errent dans le matin blême,</l>
+     <l n="13" rhyme="d" line_length="8">Tous vêtus de satin, charmants</l>
+     <l n="14" rhyme="e" line_length="8">Et tristes comme l'Amour même.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

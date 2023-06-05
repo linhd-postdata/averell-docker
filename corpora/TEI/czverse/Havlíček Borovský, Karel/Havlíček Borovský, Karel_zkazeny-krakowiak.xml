@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ZKAŽENÝ KRAKOWIAK</title>
+    <author>Havlíček Borovský, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Havlíček Borovský, Karel_zkazeny-krakowiak</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ZKAŽENÝ KRAKOWIAK</title>
+     <author>Havlíček Borovský, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ZKAŽENÝ KRAKOWIAK</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101" rhyme="1" line_length="7">„Karle, již těch hádek nech,“</l>
+     <l n="2" met="100010" rhyme="2" line_length="6">povídala Fanka,</l>
+     <l n="3" met="0010101" rhyme="1" line_length="7">„buď si Slovan nebo Čech,</l>
+     <l n="4" met="001010" rhyme="2" line_length="6">jen když nejsi Hanka!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

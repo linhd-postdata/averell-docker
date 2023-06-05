@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SLOVO ÚLISNÉ...</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_slovo-ulisne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SLOVO ÚLISNÉ...</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SLOVO ÚLISNÉ...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010001010" rhyme="1" line_length="10">Slovo úlisné je jako léčka</l>
+     <l n="2" met="1000101000" rhyme="1" line_length="10">nastražena v lese na srnečka:</l>
+     <l n="3" met="0100100010" rhyme="2" line_length="10">kdo uvěří, do želez se lapí,</l>
+     <l n="4" met="1010101010" rhyme="2" line_length="10">a kdo lapil, vesel domů kvapí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

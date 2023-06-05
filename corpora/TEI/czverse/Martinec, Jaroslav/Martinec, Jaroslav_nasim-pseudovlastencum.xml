@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Našim pseudovlastencům.</title>
+    <author>Martinec, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Martinec, Jaroslav_nasim-pseudovlastencum</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Našim pseudovlastencům.</title>
+     <author>Martinec, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Našim pseudovlastencům.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Vy lásku svatou kážete,</l>
+     <l n="2" met="0101010" rhyme="1" line_length="7">tu čistou lásku lidu;</l>
+     <l n="3" met="01010100" line_length="8">leč lásku sami neznáte,</l>
+     <l n="4" met="0101010" rhyme="1" line_length="7">ni velkou svoji bídu!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100101000" rhyme="2" line_length="9">A že svou bídu nevidíte,</l>
+     <l n="6" met="100101000" rhyme="2" line_length="9">proto i lásku hanobíte!</l>
+     <l n="7" met="0100010" rhyme="1" line_length="7">Zda pomůžete lidu?</l>
+     <l n="8" met="01010101" line_length="8">Ne! nikdy! hřích jen plodí hřích</l>
+     <l n="9" met="0100010" rhyme="1" line_length="7">a bída zas jen bídu!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

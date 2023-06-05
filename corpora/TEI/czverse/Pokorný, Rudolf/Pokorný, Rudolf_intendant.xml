@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Intendant.</title>
+    <author>Pokorný, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný, Rudolf_intendant</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Intendant.</title>
+     <author>Pokorný, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Intendant.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="011010" rhyme="1" line_length="6">Náš pan doktor Škarda</l>
+     <l n="2" met="101000" rhyme="1" line_length="6">truc je leoparda!</l>
+     <l n="3" met="1011010010" rhyme="2" line_length="10">Který kus chce, ten ze světa splodí,</l>
+     <l n="4" met="1010100010" rhyme="2" line_length="10">a co zbude, mláďatům svým hodí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

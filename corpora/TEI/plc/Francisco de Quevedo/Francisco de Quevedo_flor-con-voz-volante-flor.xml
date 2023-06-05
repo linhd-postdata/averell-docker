@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Flor con voz, volante flor</title>
+    <author>Francisco de Quevedo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco de Quevedo_flor-con-voz-volante-flor</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Poesía Lírica Castellana Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Flor con voz, volante flor</title>
+     <author>Francisco de Quevedo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Flor con voz, volante flor</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="Décima">
+     <l n="1" met="+-+-+-+-">Flor con voz, volante flor,</l>
+     <l n="2" met="+-+-+-+-">silbo alado, voz pintada,</l>
+     <l n="3" met="+--+--+-">lira de pluma animada</l>
+     <l n="4" met="---+--+-">y ramillete cantor;</l>
+     <l n="5" met="+----+-">di, átomo volador,</l>
+     <l n="6" met="-+-+--+-">florido acento de pluma,</l>
+     <l n="7" met="+---+-+-">bella organizada suma</l>
+     <l n="8" met="--+---+-">de lo hermoso y lo süave,</l>
+     <l n="9" met="+-+-+-">¿cómo cabe en sola un ave</l>
+     <l n="10" met="+---+-+-">cuanto el contrapunto suma?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

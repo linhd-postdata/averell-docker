@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A San Isidro</title>
+    <author>Jerónimo Núñez de Bracamonte</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jerónimo Núñez de Bracamonte_a-san-isidro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A San Isidro</title>
+     <author>Jerónimo Núñez de Bracamonte</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A San Isidro</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+-+-+-">Los campos de Madrid, Isidro santo,</l>
+     <l n="2" met="---+---+-+-">que por oficio cultivar tenía,</l>
+     <l n="3" met="-+---++--+-">dejaba de labrar parte del día,</l>
+     <l n="4" met="-+-+++---+-">por dar a Dios mil glorias en su llanto.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">Tanto lloraba, y alcanzaba tanto</l>
+     <l n="6" met="--+--+---+-">con las lágrimas santas que vertía,</l>
+     <l n="7" met="-+-++--+-+-">que oraba aquí, y el cielo allí suplía</l>
+     <l n="8" met="-+---+---+-">de Isidro las tardanzas entre tanto.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">Aquí lloraba el Labrador dichoso,</l>
+     <l n="10" met="-+-+-+---+-">y allí por él los Ángeles araban,</l>
+     <l n="11" met="+--+-++--+-">que es para Dios llorar dulce tributo.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+-+-+-">Y para Isidro fruto más gustoso,</l>
+     <l n="13" met="-+-+-+---+-">coger allí los ojos que lloraban,</l>
+     <l n="14" met="-+-+-+---+-">sembrando aquí sus lágrimas el fruto.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

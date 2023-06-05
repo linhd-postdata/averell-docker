@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ONDINE</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_ondine</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ONDINE</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ONDINE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+6">Ton rire est clair, ta caresse est profonde,</l>
+     <l n="2" rhyme="b" line_length="4+6">Tes froids baisers aiment le mal qu’ils font ;</l>
+     <l n="3" rhyme="a" line_length="4+6">Tes yeux sont bleus comme un lotus sur l’onde</l>
+     <l n="4" rhyme="b" line_length="4+6">Et les lys d’eau sont moins purs que ton front.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="4+6">Ta forme fuit, ta démarche est fluide,</l>
+     <l n="6" rhyme="b" line_length="4+6">Et tes cheveux sont de légers réseaux ;</l>
+     <l n="7" rhyme="a" line_length="4+6">Ta voix ruisselle ainsi qu’un flot perfide ;</l>
+     <l n="8" rhyme="b" line_length="4+6">Tes souples bras sont pareils aux roseaux,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="4+6">Aux longs roseaux des fleuves, dont l’étreinte</l>
+     <l n="10" rhyme="b" line_length="4+6">Enlace, étouffe, étrangle savamment,</l>
+     <l n="11" rhyme="a" line_length="4+6">Au fond des flots, une agonie éteinte</l>
+     <l n="12" rhyme="b" line_length="4+6">Dans un cruel évanouissement.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

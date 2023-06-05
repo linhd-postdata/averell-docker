@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Šička.</title>
+    <author>Škampa, Alois</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Škampa, Alois_sicka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Šička.</title>
+     <author>Škampa, Alois</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Šička.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101000" rhyme="1" line_length="9">Jen zřídka sama na ulici</l>
+     <l n="2" met="01010100" rhyme="2" line_length="8">se zrakům našim objeví.</l>
+     <l n="3" met="110101010" rhyme="1" line_length="9">Cel její svět je strojek šicí</l>
+     <l n="4" met="01010100" rhyme="2" line_length="8">a v práci nezná úlevy.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010100010" rhyme="3" line_length="9">Ty líce její jsou tak bledé</l>
+     <l n="6" met="01010100" rhyme="4" line_length="8">jak čistý kvítek lilije,</l>
+     <l n="7" met="010101010" rhyme="3" line_length="9">to velké její oko hnědé</l>
+     <l n="8" met="10010100" rhyme="4" line_length="8">se často rosou zalije!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="110001010" rhyme="5" line_length="9">Pouť žitím as jí není sladkou –</l>
+     <l n="10" met="010011010" rhyme="5" line_length="9">vždyť macochu má chuďas matkou,</l>
+     <l n="11" met="01000100" rhyme="6" line_length="8">a doma všem je popelkou...</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="010011010" rhyme="7" line_length="9">Jen ve svátek má radosť vroucí,</l>
+     <l n="13" met="010001010" rhyme="7" line_length="9">a rdí se – když ji potkám jdoucí</l>
+     <l n="14" met="10000100" rhyme="6" line_length="8">ku Františkánům na „velkou“!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

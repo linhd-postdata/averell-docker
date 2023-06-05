@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>STARÁ PÍSEŇ</title>
+    <author>Havlíček Borovský, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">21</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Havlíček Borovský, Karel_stara-pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>STARÁ PÍSEŇ</title>
+     <author>Havlíček Borovský, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>STARÁ PÍSEŇ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101000" rhyme="1" line_length="6">Bratří, scházejme se,</l>
+     <l n="2" met="101000" rhyme="1" line_length="6">k cestě vypravme se! –</l>
+     <l n="3" met="100010" rhyme="2" line_length="6">Do pekelné země</l>
+     <l n="4" met="101010" rhyme="2" line_length="6">bludné Čechů plémě</l>
+     <l n="5" met="100" rhyme="3" line_length="3">zaklíná,</l>
+     <l n="6" met="100" rhyme="3" line_length="3">proklíná</l>
+     <l n="7" met="1010100" rhyme="3" line_length="7">svatý tatík ze Říma.</l>
+    </lg>
+    <lg n="2">
+     <l n="8" met="101010" rhyme="4" line_length="6">Císař v zámku sedí,</l>
+     <l n="9" met="100010" rhyme="4" line_length="6">na Slavsko se šklebí,</l>
+     <l n="10" met="101010" rhyme="5" line_length="6">hrozí Čechům pravou,</l>
+     <l n="11" met="100010" rhyme="5" line_length="6">Moravanům levou,</l>
+     <l n="12" met="100" rhyme="6" line_length="3">Slováky</l>
+     <l n="13" met="100" rhyme="6" line_length="3">jonáky</l>
+     <l n="14" met="1001100" rhyme="6" line_length="7">Maďarům cpe v kňasáky.</l>
+    </lg>
+    <lg n="3">
+     <l n="15" met="100010" line_length="6">Třeba si ti Němci</l>
+     <l n="16" met="101000" line_length="6">krky roztřepali,</l>
+     <l n="17" met="101010" rhyme="7" line_length="6">přeci Čech je Čechem</l>
+     <l n="18" met="010010" rhyme="7" line_length="6">a posledním vzdechem</l>
+     <l n="19" met="100" rhyme="8" line_length="3">zahučí</l>
+     <l n="20" met="100" rhyme="8" line_length="3">v náručí</l>
+     <l n="21" met="1010010" rhyme="8" line_length="7">smrti: Němec nás mučí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

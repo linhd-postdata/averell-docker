@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>¡1904!</title>
+    <author>Esteban Fernández y González</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Esteban Fernández y González_1904</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>¡1904!</title>
+     <author>Esteban Fernández y González</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>¡1904!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+-+---+-">¡Un año más de acerbo sufrimiento</l>
+     <l n="2" met="--+--+---+-">que añadir al horario de la vida,</l>
+     <l n="3" met="+--+-+---+-">y una esperanza más, desvanecida</l>
+     <l n="4" met="--+--+---+-">en el hondo perfil del pensamiento.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++-+---+-+-">Cual hoja seca que arrebata el viento</l>
+     <l n="6" met="-+-+--++-+-">al tronco añoso que le dio guarida,</l>
+     <l n="7" met="+-+--+-+-+-">es la humana ilusión, al fin vencida</l>
+     <l n="8" met="---+---+-+-">de la verdad por el eterno aliento.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">Ensueños, vanidades, ambiciones...</l>
+     <l n="10" met="++---+-+-+-">¿Qué es lo que en suma sois? ¡Dichas mentidas!</l>
+     <l n="11" met="+--+---+-+-">¡Vanos efluvios de fugaz esencia</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">que acrecientan efímeras pasiones!</l>
+     <l n="13" met="-+---+---+-">¡Partículas de arena, desprendidas</l>
+     <l n="14" met="--+--+---+-">del reloj de la mísera existencia!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

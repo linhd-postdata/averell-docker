@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La paz</title>
+    <author>Manuel del Palacio</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel del Palacio_la-paz</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La paz</title>
+     <author>Manuel del Palacio</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La paz</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+---+-">El sonrosado albor de la mañana</l>
+     <l n="2" met="-+---++--+-">inunda con su luz monte y pradera,</l>
+     <l n="3" met="--+--+---+-">y de amor y consuelo mensajera,</l>
+     <l n="4" met="+-+--+---+-">da sus ecos al aire la campana.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">Rechina el trillo que la mies desgrana;</l>
+     <l n="6" met="+--+-+---+-">busca el zagal su hermosa compañera,</l>
+     <l n="7" met="--+--+---+-">y la turba de pájaros parlera</l>
+     <l n="8" met="++-+-+-+-+-">de un nido al otro nido vuela ufana.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+-+---+-">Todo es reposo y calma y armonía;</l>
+     <l n="10" met="---+-+-+-+-">sin que su azul empañe nube alguna</l>
+     <l n="11" met="--+--+-+-+-">convidando al placer despunta el día:</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+--+---+-">Y rica d esperanzas y fortuna,</l>
+     <l n="13" met="---+-+-+-+-">su bendición a Dios la madre envía</l>
+     <l n="14" met="---+-+---+-">arrodillada al lado de la cuna.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

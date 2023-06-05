@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vrabci.</title>
+    <author>Cajthaml-Liberté, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cajthaml-Liberté, František_vrabci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vrabci.</title>
+     <author>Cajthaml-Liberté, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vrabci.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100100" line_length="9">Hopkují vrabčáci na střeše,</l>
+     <l n="2" met="10010010" rhyme="1" line_length="8">rvou se až lítá z nich peří,</l>
+     <l n="3" met="100110100" line_length="9">zákona muž kráčí ulicí</l>
+     <l n="4" met="01010010" rhyme="1" line_length="8">a přísně nezbedy měří,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010100100" line_length="9">neb žijí bez řádu, bez kázně,</l>
+     <l n="6" met="10010010" rhyme="2" line_length="8">měšťákům hledí jen krásti,</l>
+     <l n="7" met="100100100" line_length="9">nejdříve třešničky okusí –</l>
+     <l n="8" met="01000010" rhyme="2" line_length="8">nu – neví co jsou to strasti!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010010100" line_length="9">Ať lidé si robí zákony,</l>
+     <l n="10" met="10010010" rhyme="3" line_length="8">vrabčáci po svém se řídí:</l>
+     <l n="11" met="001000100" line_length="9">čim, čim, čim – to as je – smějí se,</l>
+     <l n="12" met="01110010" rhyme="3" line_length="8">že hlad má plemeno lidí?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

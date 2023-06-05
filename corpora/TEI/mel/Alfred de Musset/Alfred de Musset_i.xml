@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>I</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_i</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>I</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>I</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Déesse aux yeux d’azur, aux épaules d’albâtre,</l>
+     <l n="2" rhyme="b" line_length="6+6">Belle muse païenne au sourire adoré,</l>
+     <l n="3" rhyme="a" line_length="6+6">Viens, laisse-moi presser de ma lèvre idolâtre</l>
+     <l n="4" rhyme="b" line_length="6+6">Ton front qui resplendit sous un pampre doré.</l>
+     <l n="5" rhyme="c" line_length="6+6">Vois-tu ce vert sentier qui mène à la colline ?</l>
+     <l n="6" rhyme="d" line_length="6+6">Là, je t’embrasserai sous le clair firmament,</l>
+     <l n="7" rhyme="c" line_length="6+6">Et de la tiède nuit la lueur argentine</l>
+     <l n="8" rhyme="d" line_length="6+6">Sur tes contours divins flottera mollement.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

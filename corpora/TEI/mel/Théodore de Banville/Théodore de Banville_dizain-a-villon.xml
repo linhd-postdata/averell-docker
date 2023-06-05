@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dizain à Villon</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_dizain-a-villon</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dizain à Villon</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dizain à Villon</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+6">Sage Villon, dont la mémoire fut</l>
+     <l n="2" rhyme="b" line_length="4+6">Navrée, hélas ! comme une Iphigénie,</l>
+     <l n="3" rhyme="a" line_length="4+6">Tant de menteurs s'étant mis à l'affût,</l>
+     <l n="4" rhyme="b" line_length="4+6">Dans ta légende absurde, moi je nie</l>
+     <l n="5" rhyme="b" line_length="4+6">Tout, grand aïeul, hors ton libre génie.</l>
+     <l n="6" rhyme="c" line_length="4+6">O vagabond dormant sous le ciel bleu,</l>
+     <l n="7" rhyme="c" line_length="4+6">Qui vins un jour nous apporter le feu</l>
+     <l n="8" rhyme="d" line_length="4+6">Dans ta prunelle encore épouvantée,</l>
+     <l n="9" rhyme="c" line_length="4+6">Ce vol hardi, tu ne l'as fait qu'à Dieu :</l>
+     <l n="10" rhyme="d" line_length="4+6">Tu fus larron, mais comme Prométhée.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

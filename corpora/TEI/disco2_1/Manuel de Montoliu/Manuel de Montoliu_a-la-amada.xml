@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A la amada</title>
+    <author>Manuel de Montoliu</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel de Montoliu_a-la-amada</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A la amada</title>
+     <author>Manuel de Montoliu</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A la amada</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+++-+-+-">Cuando al mirarte mi alma en paz adora,</l>
+     <l n="2" met="---+-+-+++-">y tu virtud divina en mí yo siento,</l>
+     <l n="3" met="--+--+-+-+-">en silencio percibo el suave aliento</l>
+     <l n="4" met="-+---+--++-">del ángel escondido que en ti mora.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">Una ilusión temiendo engañadora,</l>
+     <l n="6" met="-++----+-+-">sonríe el labio, que en aquel momento</l>
+     <l n="7" met="+--+-++--+-">dudo que en ti por siempre halle contento</l>
+     <l n="8" met="-+---+-+-+-">la excelsa beatitud que mi alma implora.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+-+-+-">De antro en antro resbalo yo sin tino;</l>
+     <l n="10" met="-----+-+-+-">en la profundidad sagrada, oscura,</l>
+     <l n="11" met="+--+-+---+-">oigo rugir las fuentes del destino.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+---+-">Turbado alzo los ojos a la altura,</l>
+     <l n="13" met="-+-+-+-+-+-">y al ver sonreír los astros, me prosterno</l>
+     <l n="14" met="-+---+-+-+-">y escucho su inflamado canto eterno.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

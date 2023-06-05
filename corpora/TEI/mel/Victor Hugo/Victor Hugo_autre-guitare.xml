@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>AUTRE GUITARE</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_autre-guitare</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>AUTRE GUITARE</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>AUTRE GUITARE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="5">Comment, disaient-ils,</l>
+     <l n="2" rhyme="b" line_length="5">Avec nos nacelles,</l>
+     <l n="3" rhyme="a" line_length="5">Fuir les alguazils ?</l>
+     <l n="4" rhyme="b" line_length="5">— Ramez, disaient-elles.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="5">Comment, disaient-ils,</l>
+     <l n="6" rhyme="b" line_length="5">Oublier querelles,</l>
+     <l n="7" rhyme="a" line_length="5">Misère et périls ?</l>
+     <l n="8" rhyme="b" line_length="5">— Dormez, disaient-elles.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="5">Comment, disaient-ils,</l>
+     <l n="10" rhyme="b" line_length="5">Enchanter les belles</l>
+     <l n="11" rhyme="a" line_length="5">Sans philtres subtils ?</l>
+     <l n="12" rhyme="b" line_length="5">— Aimez, disaient-elles.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

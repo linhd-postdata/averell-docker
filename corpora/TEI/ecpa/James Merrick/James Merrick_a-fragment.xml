@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A FRAGMENT.</title>
+    <author>James Merrick</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>James Merrick_a-fragment</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Eighteenth Century Poetry Archive</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A FRAGMENT.</title>
+     <author>James Merrick</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A FRAGMENT.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="quatrain">
+     <l n="1" met="-+|-+|-+|-+" line_length="8">When recent in the womb I lay,</l>
+     <l n="2" met="-+|-+|-+" line_length="6">Ere yet my life began,</l>
+     <l n="3" met="-+|-+|-+|-+" line_length="8">Thy care preserv'd the sleeping clay,</l>
+     <l n="4" met="-+|-+|-+" line_length="6">And form'd it into man.</l>
+    </lg>
+    <lg n="2" stanza_type="quatrain">
+     <l n="5" met="-+|-+|-+|-+" line_length="8">Oh! may this frame, that rising grew</l>
+     <l n="6" met="-+|-+|-+" line_length="6">Beneath thy plastic hands,</l>
+     <l n="7" met="-+|-+|-+|-+" line_length="8">Be studious ever to pursue</l>
+     <l n="8" met="-+|-+|-+" line_length="6">Whate'er thy will commands.</l>
+    </lg>
+    <lg n="3" stanza_type="quatrain">
+     <l n="9" met="-+|-+|-+|-+" line_length="8">The soul that moves this earthly load</l>
+     <l n="10" met="-+|-+|-+" line_length="6">Thy semblance let it bear;</l>
+     <l n="11" met="-+|-+|-+|-+" line_length="8">Nor lose the traces of the God,</l>
+     <l n="12" met="-+|-+|-+" line_length="6">Who stamp'd his image there.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

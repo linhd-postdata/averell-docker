@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>QUAND MÊME</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_quand-meme</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>QUAND MÊME</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>QUAND MÊME</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+6">Ah, dis, mon cœur, plutôt que cette vie</l>
+     <l n="2" rhyme="b" line_length="4+6">D'émotion sans doute noble encor</l>
+     <l n="3" rhyme="b" line_length="4+6">Qui mène au sein d'un rouge et noir décor</l>
+     <l n="4" rhyme="a" line_length="4−6">Ton manque de toute philosophie,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="4+6">Ton manque aussi, que personne n'envie,</l>
+     <l n="6" rhyme="b" line_length="4+6">De ce qu'on va nommant un heureux sort</l>
+     <l n="7" rhyme="b" line_length="4+6">Quelconque, et ce, pour jusqu'à telle mort</l>
+     <l n="8" rhyme="a" line_length="6+4">Qui sera dure, bien que la défie</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="4+6">Et ton courage, et ton dégoût aussi,</l>
+     <l n="10" rhyme="c" line_length="4+6">Ah, dis, mon cœur, plutôt qu'un tel souci</l>
+     <l n="11" rhyme="d" line_length="4+6">Tumultueux parmi ces crépuscules,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="4+6">Vaut-il pas mieux conquérir cette paix</l>
+     <l n="13" rhyme="e" line_length="4+6">Qu' on eût voulue au bon temps des souhaits ?</l>
+     <l n="14" rhyme="d" line_length="4+6">— Il est trop tard, nous serions ridicules.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

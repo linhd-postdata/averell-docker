@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dvojí láska.</title>
+    <author>Macháček, Simeon Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Macháček, Simeon Karel_dvoji-laska</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dvojí láska.</title>
+     <author>Macháček, Simeon Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dvojí láska.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101010" rhyme="1" line_length="8">Kdo si lásku světa svojí,</l>
+     <l n="2" met="1010100" rhyme="2" line_length="7">Také k nebi povýšen,</l>
+     <l n="3" met="1010100" rhyme="2" line_length="7">Hledě po své zemi jen</l>
+     <l n="4" met="10001010" rhyme="1" line_length="8">V závrati se pádu bojí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00101010" rhyme="1" line_length="8">Kdo se láskou nebe kojí,</l>
+     <l n="6" met="1000100" rhyme="2" line_length="7">Do výsosti vytržen</l>
+     <l n="7" met="1010100" rhyme="2" line_length="7">Vzhůru hledě z mraku ven</l>
+     <l n="8" met="10101010" rhyme="1" line_length="8">Pevnou nohou pevně stojí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

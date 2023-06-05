@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dos banderas</title>
+    <author>Enrique Hernández Miyares</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Enrique Hernández Miyares_dos-banderas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dos banderas</title>
+     <author>Enrique Hernández Miyares</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dos banderas</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---+-">Luce esplendente el sol de la mañana,</l>
+     <l n="2" met="---+-++--+-">y sobre el muro gris de una azotea,</l>
+     <l n="3" met="--+--+-+-+-">la bandera de Cuba al aire ondea</l>
+     <l n="4" met="-+---+---+-">unida a la bandera americana.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">Juntas las dos, su simbolismo hermana</l>
+     <l n="6" met="---+---+-+-">de sacrosanta libertad la idea;</l>
+     <l n="7" met="--+--+---+-">desplegadas ayer en la pelea</l>
+     <l n="8" met="-+-+---+-+-">plegar hicieron la bandera hispana.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+---+-">Una y otra, cual nuncio de contento,</l>
+     <l n="10" met="-+---+-+-+-">estrellas y colores dan al viento</l>
+     <l n="11" met="---+-+-+-+-">que con gallardo soplo las tremola;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+-++-+-+-">el destino las guarde siempre amigas</l>
+     <l n="13" met="-----+---+-">a despecho de pérfidas intrigas...</l>
+     <l n="14" met="---+-+-+-+-">Pero que nunca formen una sola.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

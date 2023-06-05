@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A la vejez</title>
+    <author>Mercedes Matamoros</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mercedes Matamoros_a-la-vejez</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A la vejez</title>
+     <author>Mercedes Matamoros</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A la vejez</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">Cuando llegan tus años tenebrosos</l>
+     <l n="2" met="+--+---+-+-">bañas en llanto el corazón que heriste,</l>
+     <l n="3" met="--+--+-+-+-">como cubre de escarcha invierno triste</l>
+     <l n="4" met="-+---+---+-">los troncos deshojados y ruinosos.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+---+-">¿En dónde, en dónde están los venturosos</l>
+     <l n="6" met="+--+---+-+-">sueños, que el alma en adorar persiste?</l>
+     <l n="7" met="-+-+---+++-">¿Por qué la rosa del placer no existe</l>
+     <l n="8" met="--+--+---+-">y quedaron los tallos espinosos?</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+-+-+-">¡Oh, noche! Ya desciendes gravemente,</l>
+     <l n="10" met="--+--+---+-">y la nave gentil de la Esperanza</l>
+     <l n="11" met="+--+---+-+-">vuelve sin joyas del lejano Oriente!</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+---+-+-">Y hacia la playa, donde el viento a solas</l>
+     <l n="13" met="+--+---+-+-">gime, la hermosa Juventud avanza,</l>
+     <l n="14" met="-+-+---+-+-">cadáver yerto entre las negras olas...!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

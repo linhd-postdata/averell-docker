@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Mariano Álvarez Robles</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mariano Álvarez Robles_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Mariano Álvarez Robles</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+-+-+-">Entré a comprar turrón, cuando un zapato</l>
+     <l n="2" met="-+-+-+---+-">se me quedó enganchado en la cortina;</l>
+     <l n="3" met="---+---+-+-">la confitera con su voz divina</l>
+     <l n="4" met="++-+-+-+++-">me dijo: «Amigo, le cogió a usté el gato».</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++---+++-+-">«No importa si el turrón lo da barato».</l>
+     <l n="6" met="++-+---+-+-">le dije al punto, mas la muy ladina</l>
+     <l n="7" met="+--+-+---+-">me replicó, taimada, que en Pechina</l>
+     <l n="8" met="-+---+---+-">tocaban las muchachas el silbato.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-++-++---+-">«Allá voy a partir, trueco el tintero»,</l>
+     <l n="10" met="-+---+---+-">alegre respondí, por la escopeta,</l>
+     <l n="11" met="--+--++--+-">pues pretendo admirar tanto salero.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-----++--+-">Al punto que llegué vi una paleta</l>
+     <l n="13" met="-+-+-+---+-">de aspecto horrible, cara de puchero...</l>
+     <l n="14" met="-+-+-+---+-">y me volví tocando la retreta.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

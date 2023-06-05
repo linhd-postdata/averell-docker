@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>OSENÍ.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_oseni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>OSENÍ.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>OSENÍ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010010" rhyme="1" line_length="10">V osení mladém vítr si hraje,</l>
+     <l n="2" met="10010100" rhyme="2" line_length="8">do vln je lehce kadeří,</l>
+     <l n="3" met="1001010010" rhyme="1" line_length="10">na meze hezky po oba kraje</l>
+     <l n="4" met="10010100" rhyme="2" line_length="8">usedla douška mateří,</l>
+     <l n="5" met="1001010010" rhyme="1" line_length="10">vonná ta duše českého kraje.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="1001010010" rhyme="1" line_length="10">Sluníčko boží vesele plaje,</l>
+     <l n="7" met="10010100" rhyme="2" line_length="8">každý zde v štěstí uvěří,</l>
+     <l n="8" met="1001010010" rhyme="1" line_length="10">skřivan své nad ním trilkuje báje</l>
+     <l n="9" met="100" line_length="3">v osení.</l>
+    </lg>
+    <lg n="3">
+     <l n="10" met="1001010010" rhyme="1" line_length="10">Malé to hnízdo, sotva tam zraje</l>
+     <l n="11" met="01000100" rhyme="2" line_length="8">chmýř písklatům těm do peří,</l>
+     <l n="12" met="10010100" rhyme="2" line_length="8">pěnice zpívá na keři,</l>
+     <l n="13" met="1011010010" rhyme="1" line_length="10">a co jde duší, na písně taje;</l>
+     <l n="14" met="10010010010" rhyme="1" line_length="11">myšlének vlní se v srdci a vlaje</l>
+     <l n="15" met="100" line_length="3">osení!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

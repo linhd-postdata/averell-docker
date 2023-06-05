@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Blanca me era yo</title>
+    <author>Lope de Vega</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lope de Vega_blanca-me-era-yo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Poesía Lírica Castellana Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Blanca me era yo</title>
+     <author>Lope de Vega</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Blanca me era yo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="...">
+     <l n="1" met="+-+-+-">Blanca me era yo</l>
+     <l n="2" met="--+-+-">cuando entré en la siega;</l>
+     <l n="3" met="+-+-+-+-">diome el sol y ya soy morena.</l>
+     <l n="4" met="+--+-+-">Blanca solía yo ser</l>
+     <l n="5" met="+---+-+-">antes que a segar viniese;</l>
+     <l n="6" met="-+-+-+-">mas no quiso el sol que fuese</l>
+     <l n="7" met="+-+---+-">blanco el fuego en mi poder.</l>
+     <l n="8" met="-+----+-">Mi edad al amanecer</l>
+     <l n="9" met="+--+--+-">era lustrosa azucena;</l>
+     <l n="10" met="+-+-+-+-">diome el sol y ya soy morena.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

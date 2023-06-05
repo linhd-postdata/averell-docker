@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>HLAVNÍ KAPITOLA.</title>
+    <author>Koukl, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Koukl, Antonín_hlavni-kapitola</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>HLAVNÍ KAPITOLA.</title>
+     <author>Koukl, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>HLAVNÍ KAPITOLA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10000101010" rhyme="1" line_length="11">O rcete, vy, kdož onu knihu čtete,</l>
+     <l n="2" met="01000100010" rhyme="2" line_length="11">jež člověčenstva historií zvána,</l>
+     <l n="3" met="0101000101000" rhyme="1" line_length="13">zda také „tiskové“ v ní chyby naleznete –</l>
+     <l n="4" met="01010001010" rhyme="2" line_length="11">jen trochu lidskosťli vám v prsa dána.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010001000" rhyme="3" line_length="11">Ty „chyby tiskové“ jsou utrpení,</l>
+     <l n="6" met="01000101000" rhyme="4" line_length="11">v nichž utiskován chuďas po staletí</l>
+     <l n="7" met="11000101010" rhyme="3" line_length="11">zřel, ve prosbách že nikde spásy není</l>
+     <l n="8" met="01001101000" rhyme="4" line_length="11">a zoufalý boj práva neposvětí...</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000101010" rhyme="5" line_length="11">A přiznejte se, kdyby o tom lidu,</l>
+     <l n="10" met="01000100100" rhyme="6" line_length="11">jak o pánech jen mluvilo se z polou,</l>
+     <l n="11" met="01010001010" rhyme="5" line_length="11">že jeho mozoly a tklivou bídu</l>
+     <l n="12" met="01000101000" rhyme="6" line_length="11">by nazvali jste hlavní kapitolou!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

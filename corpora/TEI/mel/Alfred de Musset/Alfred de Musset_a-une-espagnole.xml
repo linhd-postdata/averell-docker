@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A une Espagnole</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_a-une-espagnole</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A une Espagnole</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A une Espagnole</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="7">Je voudrais être la duègne</l>
+     <l n="2" rhyme="a" line_length="3">Quand, le matin, tes cheveux</l>
+     <l n="3" rhyme="b" line_length="7">Baignent ton épaule blanche</l>
+     <l n="4" rhyme="c" line_length="7">Ondoyant en reflets bleus.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="7">Que ne suis-je la mantille</l>
+     <l n="6" rhyme="a" line_length="3">L’étoile de ton œil noir ;</l>
+     <l n="7" rhyme="b" line_length="7">Et, s’embaumant à la fièvre</l>
+     <l n="8" rhyme="c" line_length="7">Ton bouquet jeté le soir !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="7">Et la colombe au bec rose,</l>
+     <l n="10" rhyme="a" line_length="3">Frôler ton col élégant ;</l>
+     <l n="11" rhyme="b" line_length="7">Et l’éventail de la Chine</l>
+     <l n="12" rhyme="c" line_length="7">Sous ta main blanche sans gant !</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="7">Et la bottine jalouse,</l>
+     <l n="14" rhyme="a" line_length="3">Enfermant ton pied mutin ;</l>
+     <l n="15" rhyme="b" line_length="7">Et le lin parfumé d’ambre</l>
+     <l n="16" rhyme="c" line_length="7">Ton souple corps de satin ;</l>
+    </lg>
+    <lg n="5">
+     <l n="17" rhyme="a" line_length="7">Puis à ton sein le doux rêve</l>
+     <l n="18" rhyme="a" line_length="3">La croix de ton chapelet,</l>
+     <l n="19" rhyme="b" line_length="7">Enfin, de ta jarretière,</l>
+     <l n="20" rhyme="c" line_length="7">Le riche et léger stylet !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poutníci.</title>
+    <author>Cajthaml-Liberté, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cajthaml-Liberté, František_poutnici</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Poutníci.</title>
+     <author>Cajthaml-Liberté, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Poutníci.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" line_length="8">Po slunných krajích pátrali</l>
+     <l n="2" met="0101000" rhyme="1" line_length="7">a tmou se prodírali,</l>
+     <l n="3" met="11000100" line_length="8">led, kamení a houštiny</l>
+     <l n="4" met="0101000" rhyme="1" line_length="7">jim těla rozdíraly.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" line_length="8">Po slunných krajích pátrali,</l>
+     <l n="6" met="0101010" rhyme="2" line_length="7">kde bol a vřava ztichá,</l>
+     <l n="7" met="01011100" line_length="8">kde ptačí zpěv zní v zeleni</l>
+     <l n="8" met="0101010" rhyme="2" line_length="7">a mír a štěstí dýchá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010100" line_length="8">Po slunných krajích pátrali,</l>
+     <l n="10" met="0101010" rhyme="3" line_length="7">až kdesi mrtvi klesli...</l>
+     <l n="11" met="01010100" line_length="8">A jiní přes ně spěchají</l>
+     <l n="12" met="1001010" rhyme="3" line_length="7">s novými v ruce vesly.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

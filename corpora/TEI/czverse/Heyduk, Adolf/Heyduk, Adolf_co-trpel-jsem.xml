@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Co trpěl jsem...</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_co-trpel-jsem</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Co trpěl jsem...</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Co trpěl jsem...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010010010" rhyme="1" line_length="9">Co trpěl jsem! Leč nač tu tíhu?</l>
+     <l n="2" met="01010101" rhyme="2" line_length="8">Kdo srdce moje třel a hněť,</l>
+     <l n="3" met="110001010" rhyme="1" line_length="9">dal seménko jen v rudou rýhu,</l>
+     <l n="4" met="1101" rhyme="2" line_length="4">čas vyhnal květ.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101010" rhyme="3" line_length="9">Jak pestré! Sotva jiný tuší;</l>
+     <l n="6" met="01010101" rhyme="4" line_length="8">tu žalosť plá, tam hoří trud,</l>
+     <l n="7" met="010100010" rhyme="3" line_length="9">leč kdyby nekvetly mi v duši,</l>
+     <l n="8" met="0001" rhyme="4" line_length="4">jak byl bych chud!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La noche de Montiel</title>
+    <author>Leandro Fernández de Moratín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Leandro Fernández de Moratín_la-noche-de-montiel</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La noche de Montiel</title>
+     <author>Leandro Fernández de Moratín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La noche de Montiel</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-++--+-">¿Adónde, adónde está, dice el Infante</l>
+     <l n="2" met="+--+-+---+-">ese feroz tirano de Castilla?</l>
+     <l n="3" met="+-++-+---+-">Pedro al verle, desnuda la cuchilla,</l>
+     <l n="4" met="---+---+-+-">y se presenta a su rival delante.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">Cierra con él, y en lucha vacilante</l>
+     <l n="6" met="++-+-+---+-">le postra, y pone al pecho la rodilla:</l>
+     <l n="7" met="-+---+---+-">Beltrán (aunque sus glorias amancilla)</l>
+     <l n="8" met="+--+---+-+-">trueca a los hados del temido instante.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">Herido el rey por la fraterna mano,</l>
+     <l n="10" met="+--+---+-+-">joven expira con horrenda muerte,</l>
+     <l n="11" met="-+---+---+-">y el trono y los rencores abandona.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++-+---+-+-">No aguardes premios en el Mundo vano</l>
+     <l n="13" met="--+--+-+-+-">la inocente virtud; si das la suerte</l>
+     <l n="14" met="-+-+-++--+-">por un delito atroz, una corona.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

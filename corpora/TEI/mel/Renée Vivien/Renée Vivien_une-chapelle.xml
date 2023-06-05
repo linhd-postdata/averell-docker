@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>UNE CHAPELLE</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_une-chapelle</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>UNE CHAPELLE</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>UNE CHAPELLE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Le grand vent de la mer a quitté la chapelle</l>
+     <l n="2" rhyme="a" line_length="6+6">C’est pourquoi notre voix commune le rappelle.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="6+6">Le grand vent de la mer est las de la chapelle</l>
+     <l n="4" rhyme="a" line_length="6+6">Et la détruit tout en se lamentant sur elle…</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="6+6">Car il subit la loi de sa rude nature</l>
+     <l n="6" rhyme="a" line_length="6+6">En la reconnaissant si terrible et si dure !</l>
+    </lg>
+    <lg n="4">
+     <l n="7" rhyme="a" line_length="6+6">Et voici ce que fut la chapelle où l’on prie</l>
+     <l n="8" rhyme="a" line_length="6+6">Celle où pieusement on célèbre Marie.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

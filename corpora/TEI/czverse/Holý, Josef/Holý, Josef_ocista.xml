@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>OČISTA</title>
+    <author>Holý, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Holý, Josef_ocista</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>OČISTA</title>
+     <author>Holý, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>OČISTA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" rhyme="1" line_length="8">Přihnaly se odkuds vody –</l>
+     <l n="2" met="1001001010" rhyme="1" line_length="10">v úměrných květnicích tolik škody!</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="10001010" rhyme="2" line_length="8">Zafičely horské mrazy –</l>
+     <l n="4" met="1001001010" rhyme="2" line_length="10">zebe vás do teplých duší, drazí?</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="1001101000" rhyme="3" line_length="10">Neznámých ruk biče zasvištěly –</l>
+     <l n="6" met="01001010010" rhyme="3" line_length="11">proč byste, mí silní mistři, se chvěli?</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="10010100010" rhyme="4" line_length="11">Zamih’ se jezdec na bleskovém oři –</l>
+     <l n="8" met="1001010010" rhyme="4" line_length="10">chrámy se boří, Sodoma hoří!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

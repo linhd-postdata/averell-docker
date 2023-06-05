@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Smutným očím.</title>
+    <author>Pachmayer, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pachmayer, Josef_smutnym-ocim</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Smutným očím.</title>
+     <author>Pachmayer, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Smutným očím.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" line_length="6">Bez slunce, bez vláhy</l>
+     <l n="2" met="1001" rhyme="1" line_length="4">chřadne mi květ,</l>
+     <l n="3" met="100000" line_length="6">nedal bych já jej však</l>
+     <l n="4" met="1001" rhyme="1" line_length="4">za celý svět!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100" line_length="6">Ručky Tvé uměly</l>
+     <l n="6" met="1001" rhyme="2" line_length="4">do nocí psát:</l>
+     <l n="7" met="010100" line_length="6">Což srdce uštvané</l>
+     <l n="8" met="1011" rhyme="2" line_length="4">nechce jít spat?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100100" line_length="6">Psala a psala jsi,</l>
+     <l n="10" met="1001" rhyme="3" line_length="4">nikomu vděk!</l>
+     <l n="11" met="100100" line_length="6">V duši co psala’s mi,</l>
+     <l n="12" met="100100" line_length="6">nesmyje, drahá, však</l>
+     <l n="13" met="1001" rhyme="3" line_length="4">celý již věk! – – –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>U zlaté koruny.</title>
+    <author>Hajniš, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hajniš, František_u-zlate-koruny</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>U zlaté koruny.</title>
+     <author>Hajniš, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>U zlaté koruny.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10011010" rhyme="1" line_length="8">Koruna, věc malá dosti,</l>
+     <l n="2" met="10100100" rhyme="1" line_length="8">Velké působí starosti;</l>
+     <l n="3" met="1000100" rhyme="2" line_length="7">Tuto bych však milerád</l>
+     <l n="4" met="1000100" rhyme="3" line_length="7">K nemalé své radosti</l>
+     <l n="5" met="1000100" rhyme="3" line_length="7">Bez nejmenší starosti</l>
+     <l n="6" met="100010" rhyme="4" line_length="6">Do hrobu až nosil –</l>
+     <l n="7" met="1010100" rhyme="2" line_length="7">Kdyby osud jedenkrát,</l>
+     <l n="8" met="00101010" rhyme="4" line_length="8">Bych ji přijal, snažně prosil.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

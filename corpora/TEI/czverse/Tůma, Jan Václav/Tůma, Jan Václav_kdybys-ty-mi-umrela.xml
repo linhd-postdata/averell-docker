@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kdybys ty mi umřela! –</title>
+    <author>Tůma, Jan Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tůma, Jan Václav_kdybys-ty-mi-umrela</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kdybys ty mi umřela! –</title>
+     <author>Tůma, Jan Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kdybys ty mi umřela! –</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Já nevím, co bych udělal,</l>
+     <l n="2" met="1001010" rhyme="1" line_length="7">kdybych tak stratil Tebe,</l>
+     <l n="3" met="01000100" line_length="8">vždyť v údolí tom slzavém</l>
+     <l n="4" met="0101010" rhyme="1" line_length="7">tys byla moje nebe!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00010100" line_length="8">Snad bych se s nebem rozplakal,</l>
+     <l n="6" met="1001010" rhyme="2" line_length="7">se sluncem zastřel v mraky,</l>
+     <l n="7" met="01000100" line_length="8">však nejspíš bych se ze světa</l>
+     <l n="8" met="1001010" rhyme="2" line_length="7">za Tebou stratil taky.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

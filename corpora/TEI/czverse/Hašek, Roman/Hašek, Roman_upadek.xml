@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ÚPADEK.</title>
+    <author>Hašek, Roman</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hašek, Roman_upadek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ÚPADEK.</title>
+     <author>Hašek, Roman</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ÚPADEK.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101000" line_length="9">Když měsíc svítá nad obzorem,</l>
+     <l n="2" met="10010101" rhyme="1" line_length="8">vycházím v hlučný lidstva vír,</l>
+     <l n="3" met="100101000" line_length="9">cinkaje mečem vyzývavě –</l>
+     <l n="4" met="10010100" rhyme="1" line_length="8">poslední dobrý kavalír.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="110101010" line_length="9">Má dáma, jejíž nosím barvy</l>
+     <l n="6" met="01010101" rhyme="2" line_length="8">(to ještě staré lásky sen),</l>
+     <l n="7" met="010101000" line_length="9">již dávno bloudí ulicemi</l>
+     <l n="8" met="10010101" rhyme="2" line_length="8">s lascivním smíchem lehkých žen.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010100010" line_length="9">A v póse ctihodného granda</l>
+     <l n="10" met="11000101" rhyme="3" line_length="8">pnu pohrdavě sešlou skráň,</l>
+     <l n="11" met="100101010" line_length="9">v pochybné krčmě k nočním rvačkám</l>
+     <l n="12" met="01000101" rhyme="3" line_length="8">svou starobylou tase zbraň.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="010001010" line_length="9">A pozdě když se vracím domů,</l>
+     <l n="14" met="10010100" rhyme="4" line_length="8">obvyklý úsměv na líci,</l>
+     <l n="15" met="100101000" line_length="9">na jednu ženu vzpomínám si,</l>
+     <l n="16" met="01010100" rhyme="4" line_length="8">jež bloudí kdesi ulicí...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

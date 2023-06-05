@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PACHITA.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">25</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_pachita</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PACHITA.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PACHITA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101010" rhyme="1" line_length="8">Co to stálo krušné práce,</l>
+     <l n="2" met="1010100" rhyme="2" line_length="7">věru, má jí dosyta,</l>
+     <l n="3" met="00100010" rhyme="1" line_length="8">než ten pestrobarvý zrádce</l>
+     <l n="4" met="10001010" rhyme="1" line_length="8">naučil se křičet sladce:</l>
+     <l n="5" met="100" rhyme="2" line_length="3">Pachita!</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="10101010" rhyme="3" line_length="8">Ovšem, sladce jenom pro ni,</l>
+     <l n="7" met="1010100" rhyme="2" line_length="7">jako tóny varyta</l>
+     <l n="8" met="10011010" rhyme="3" line_length="8">papouškův skřek drsný zvoní,</l>
+     <l n="9" met="10001010" rhyme="3" line_length="8">v sluch se to jak perly roní!</l>
+     <l n="10" met="100" rhyme="2" line_length="3">Pachita!</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="10001000" rhyme="4" line_length="8">Od rána až do večera</l>
+     <l n="12" met="0010100" rhyme="2" line_length="7">co se kolem nalítá!</l>
+     <l n="13" met="10001000" rhyme="4" line_length="8">Pohádka jak pestroperá,</l>
+     <l n="14" met="10010010" rhyme="4" line_length="8">drahokam do jizby šera –</l>
+     <l n="15" met="100" rhyme="2" line_length="3">Pachita!</l>
+    </lg>
+    <lg n="4">
+     <l n="16" met="10101010" rhyme="5" line_length="8">Skloněn k její ručce bílé</l>
+     <l n="17" met="0010100" rhyme="2" line_length="7">jak ji klove, necita;</l>
+     <l n="18" met="10101010" rhyme="5" line_length="8">křídly tluče hlavu chýle,</l>
+     <l n="19" met="10101000" rhyme="5" line_length="8">křičí ve hře rozpustilé:</l>
+     <l n="20" met="100" rhyme="2" line_length="3">Pachita!</l>
+    </lg>
+    <lg n="5">
+     <l n="21" met="01101010" rhyme="6" line_length="8">A jí nad tím v dětském oku</l>
+     <l n="22" met="1010100" rhyme="2" line_length="7">čistá radosť prokmitá,</l>
+     <l n="23" met="10001010" rhyme="6" line_length="8">za ní on tu v každém kroku,</l>
+     <l n="24" met="10101010" rhyme="6" line_length="8">ona za ním v jednom skoku:</l>
+     <l n="25" met="100" rhyme="2" line_length="3">Pachita!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

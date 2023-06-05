@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CLÉMENCE</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_clemence</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CLÉMENCE</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CLÉMENCE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+6">Un monument sur ta cendre chérie</l>
+     <l n="2" rhyme="b" line_length="4">Pauvre Clémence, à ton matin flétrie</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="4+6">Tu dors sans faste, au pied de la colline,</l>
+     <l n="4" rhyme="b" line_length="4">Et sur ta fosse un saule pâle incline</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="4+6">Ton nom déjà par la nuit et la neige</l>
+     <l n="6" rhyme="b" line_length="4">Sur le bois noir de la croix qui protège</l>
+    </lg>
+    <lg n="4">
+     <l n="7" rhyme="a" line_length="4+6">Mais l'amitié qui se souvient, fidèle,</l>
+     <l n="8" rhyme="b" line_length="4">Vient, à l'endroit seulement connu d'elle,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

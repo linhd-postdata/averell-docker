@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nell</title>
+    <author>Charles-Marie Leconte de Lisle</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Charles-Marie Leconte de Lisle_nell</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nell</title>
+     <author>Charles-Marie Leconte de Lisle</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nell</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="5+5">Ta rose de pourpre, à ton clair soleil,</l>
+     <l n="2" rhyme="b" line_length="8">Penche aussi vers moi ta coupe dorée :</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="5+5">Sous le mol abri de la feuille ombreuse</l>
+     <l n="4" rhyme="b" line_length="8">Plus d'un ramier chante au bois écarté,</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="5+5">Que ta perle est douce au ciel enflammé,</l>
+     <l n="6" rhyme="b" line_length="8">Mais combien plus douce est la clarté vive</l>
+    </lg>
+    <lg n="4">
+     <l n="7" rhyme="a" line_length="5+5">La chantante mer, le long du rivage,</l>
+     <l n="8" rhyme="b" line_length="8">Avant qu'en mon cœur, chère amour, ô Nell,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

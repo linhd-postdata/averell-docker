@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VLK</title>
+    <author>Holý, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Holý, Josef_vlk</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VLK</title>
+     <author>Holý, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VLK</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000100010" rhyme="1" line_length="10">Ve vozíku zapřažený, zpsutý</l>
+     <l n="2" met="101000100" rhyme="2" line_length="9">k horským hřebenům tam pozírám,</l>
+     <l n="3" met="101000100" rhyme="2" line_length="9">touhou po svobodě umírám,</l>
+     <l n="4" met="1000101000" rhyme="1" line_length="10">bičovaný, ve jhu, pominutý.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010101000" rhyme="3" line_length="10">Táhle vyju, nic se neozývá,</l>
+     <l n="6" met="101010100" rhyme="4" line_length="9">štěknu, brat se ozve, rána, což –!</l>
+     <l n="7" met="101010001" rhyme="4" line_length="9">vztekle hryžu železný svůj koš,</l>
+     <l n="8" met="1010100010" rhyme="3" line_length="10">srdce tiše o volnosti zpívá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010101010" rhyme="5" line_length="10">Hvězdy sní dnes, měsíc skvělý svítí,</l>
+     <l n="10" met="100010101" rhyme="6" line_length="9">rozervu svůj provaz rabčí v ráz,</l>
+     <l n="11" met="101010100" rhyme="6" line_length="9">zdávím psy a volný, volný zas,</l>
+     <l n="12" met="1010101010" rhyme="5" line_length="10">volný ve svých lesích budu žíti.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

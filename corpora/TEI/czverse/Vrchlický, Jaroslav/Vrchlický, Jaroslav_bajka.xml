@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Bajka.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_bajka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Bajka.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Bajka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" rhyme="1" line_length="8">Nové cesty v poesii,</l>
+     <l n="2" met="1010100" rhyme="2" line_length="7">nové cesty v umění,</l>
+     <l n="3" met="10001010" rhyme="1" line_length="8">plísní kde se staré kryjí,</l>
+     <l n="4" met="1010100" rhyme="2" line_length="7">mudrc rád je ocení.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00101010" rhyme="3" line_length="8">Tam to láká, tam to zpívá</l>
+     <l n="6" met="0110100" rhyme="4" line_length="7">jak snů zlatá rolnička,</l>
+     <l n="7" met="10010010" rhyme="3" line_length="8">nevíš sám, co tam ti kývá,</l>
+     <l n="8" met="1010100" rhyme="4" line_length="7">slunce nebo bludička.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" rhyme="5" line_length="8">Nové sloky, nové rhytmy</l>
+     <l n="10" met="1010100" rhyme="6" line_length="7">kolem zvučí napořád,</l>
+     <l n="11" met="10101010" rhyme="5" line_length="8">hlemýžď v svojí budky přítmí</l>
+     <l n="12" met="1010001" rhyme="6" line_length="7">slyší volat je a lkát.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10001010" rhyme="7" line_length="8">Vystrčí své rohy trochu,</l>
+     <l n="14" met="1010100" rhyme="8" line_length="7">chvilku zpit jest velebou,</l>
+     <l n="15" met="10101010" rhyme="7" line_length="8">ale chytrák, dům svůj, hochu,</l>
+     <l n="16" met="0010100" rhyme="8" line_length="7">vždy si drží nad sebou.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10101010" rhyme="9" line_length="8">Řekneš ovšem, orlem není,</l>
+     <l n="18" met="0010101" rhyme="10" line_length="7">je to pouze sprostý šnek,</l>
+     <l n="19" met="10001010" rhyme="9" line_length="8">zahrabán v své vlastní snění</l>
+     <l n="20" met="1000100" rhyme="10" line_length="7">pavučin a myšlenek.</l>
+    </lg>
+    <lg n="6">
+     <l n="21" met="10001010" rhyme="11" line_length="8">Balonem se soudruh mladý</l>
+     <l n="22" met="1000100" rhyme="12" line_length="7">etherem kdes projíždí,</l>
+     <l n="23" met="00101010" rhyme="11" line_length="8">já však cítím, v budce tady</l>
+     <l n="24" met="0010100" rhyme="12" line_length="7">jak jest dobře hlemýždi!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

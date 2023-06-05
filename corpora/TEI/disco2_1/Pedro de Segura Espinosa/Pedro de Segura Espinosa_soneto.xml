@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Pedro de Segura Espinosa</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pedro de Segura Espinosa_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Pedro de Segura Espinosa</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+----+++-">Débese honra a la virtud muy rara</l>
+     <l n="2" met="-+---+-+-+-">de nuevos inventores de artes bellas,</l>
+     <l n="3" met="+--+-+---+-">vuela su fama, sube a las Estrellas</l>
+     <l n="4" met="-+-+-+-+++-">pintando allí otro Cielo, y aun no para.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-++---+-+-">Busca el más alto, que perdió la cara,</l>
+     <l n="6" met="+----+-+-+-">fruta de la invención vedada en ellas,</l>
+     <l n="7" met="--+--+---+-">y tomando del alma las centellas</l>
+     <l n="8" met="++-+++-+-+-">forma una luz, un Sol, que el mal repara.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Las tinieblas quitáis de vuestra parte</l>
+     <l n="10" met="+-+---+--+-">(docto Maestro) que causó el pecado,</l>
+     <l n="11" met="--+--++--+-">e ilustráis vuestra lengua una entre todas.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-++--+-">La culpa humano a Dios dio artes, y arte</l>
+     <l n="13" met="--+------+-">de Retórica vuestra, y coronado</l>
+     <l n="14" met="--+--+---+-">estaréis al convite de las bodas.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

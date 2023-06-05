@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jitro.</title>
+    <author>Černý, Boleslav L.</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Černý, Boleslav L._jitro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jitro.</title>
+     <author>Černý, Boleslav L.</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jitro.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110011010" rhyme="1" line_length="9">Zří v duši mou mdlý přísvit ranní,</l>
+     <l n="2" met="11000101010" rhyme="2" line_length="11">běl paprsků se láme v mlze šedé,</l>
+     <l n="3" met="10010001010" rhyme="2" line_length="11">po noci probdělé jsou hvězdy bledé</l>
+     <l n="4" met="010101000" rhyme="1" line_length="9">a hasnou v dlouhém umírání....</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="110001010" rhyme="1" line_length="9">Stín za stínem k mé prchá skráni,</l>
+     <l n="6" met="10010101010" rhyme="2" line_length="11">pod teskné čelo chladná cesta vede....</l>
+     <l n="7" met="110011010" rhyme="1" line_length="9">Zří v duši mou mdlý přísvit ranní,</l>
+     <l n="8" met="11000101010" rhyme="2" line_length="11">běl paprsků se láme v mlze šedé. –</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="110001010" rhyme="1" line_length="9">Stín za stínem se v lebku schrání,</l>
+     <l n="10" met="01010101000" rhyme="2" line_length="11">tam přísvit jitra vniknout nedovede....</l>
+     <l n="11" met="10010101010" rhyme="2" line_length="11">Probdělou nocí choré oči bledé</l>
+     <l n="12" met="100011000" rhyme="1" line_length="9">o hřejícím sní usínání....</l>
+     <l n="13" met="110011010" rhyme="1" line_length="9">Zří v duši mou mdlý přísvit ranní....</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

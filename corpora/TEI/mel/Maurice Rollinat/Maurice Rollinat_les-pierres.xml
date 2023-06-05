@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les Pierres</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">17</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_les-pierres</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Les Pierres</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Les Pierres</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Par monts, par vaux, près des rivières,</l>
+     <l n="2" rhyme="b" line_length="8">Les frimas font à volonté</l>
+     <l n="3" rhyme="b" line_length="8">Des blocs d'ombre et d'humidité</l>
+     <l n="4" rhyme="a" line_length="8">Avec le gisement des pierres.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Sous le vert froid des houx, des lierres,</l>
+     <l n="6" rhyme="b" line_length="8">Sous la ronce maigre, — à côté</l>
+     <l n="7" rhyme="b" line_length="8">Du chardon dévioletté</l>
+     <l n="8" rhyme="a" line_length="8">Cela dort dans les fondrières,</l>
+     <l n="9" rhyme="c" line_length="8">Plein d'horreur et d'hostilité,</l>
+     <l n="10" rhyme="a" line_length="8">Donnant aux brandes familières</l>
+     <l n="11" rhyme="c" line_length="8">Une lugubre étrangeté.</l>
+    </lg>
+    <lg n="3">
+     <l n="12" rhyme="a" line_length="8">Mais sitôt qu'on voit les chaumières</l>
+     <l n="13" rhyme="b" line_length="8">Refumer bleu dans la clarté,</l>
+     <l n="14" rhyme="b" line_length="8">C'est le soleil ressuscité</l>
+     <l n="15" rhyme="a" line_length="8">Qui refait couleurs et lumières,</l>
+     <l n="16" rhyme="b" line_length="8">De la vie et de la gaieté</l>
+     <l n="17" rhyme="a" line_length="8">Avec le gisement des pierres.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

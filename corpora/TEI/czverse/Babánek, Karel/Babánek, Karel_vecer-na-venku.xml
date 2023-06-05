@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VEČER NA VENKU.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_vecer-na-venku</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VEČER NA VENKU.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VEČER NA VENKU.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010" line_length="8">Pod okny šumění stromů</l>
+     <l n="2" met="010100" rhyme="1" line_length="6">a světla v staveních.</l>
+     <l n="3" met="10010010" line_length="8">V šeření večera hlasy</l>
+     <l n="4" met="0101" rhyme="1" line_length="4">a dívčí smích.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010010" line_length="8">A ticho. Měsíční světlo</l>
+     <l n="6" met="100101" rhyme="2" line_length="6">do kraje tiše mží.</l>
+     <l n="7" met="1101010" line_length="7">Noc plna horkých vášní</l>
+     <l n="8" met="010101" rhyme="2" line_length="6">a slova plná lží.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

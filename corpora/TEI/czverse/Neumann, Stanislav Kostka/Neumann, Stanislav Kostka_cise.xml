@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Číše.</title>
+    <author>Neumann, Stanislav Kostka</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neumann, Stanislav Kostka_cise</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Číše.</title>
+     <author>Neumann, Stanislav Kostka</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Číše.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110101010" rhyme="1" line_length="9">Ó, je-li den vždy jednou z číší,</l>
+     <l n="2" met="01010100" rhyme="2" line_length="8">jež Čas nám spěchá podati...</l>
+     <l n="3" met="010101010" rhyme="1" line_length="9">mně vždycky prsa mocně dýší</l>
+     <l n="4" met="01010100" rhyme="2" line_length="8">a divý bol mne zachvátí,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010001010" rhyme="1" line_length="9">když umíráček počne v tiši</l>
+     <l n="6" met="01000100" rhyme="2" line_length="8">tak úpěnlivě plakati,</l>
+     <l n="7" met="010100010" rhyme="1" line_length="9">když vím, že k retům kdos tu číši</l>
+     <l n="8" met="01010100" rhyme="2" line_length="8">juž nikdy nemá dostati...</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010001010" rhyme="3" line_length="9">Ne, že jich je tak málo v žití,</l>
+     <l n="10" met="10010100" rhyme="4" line_length="8">a že v nich místa pro hořkost,</l>
+     <l n="11" met="10010100" rhyme="4" line_length="8">a že Kdos jednou řekne: Dost! –</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="010100010" rhyme="3" line_length="9">ne, mně jen líto, že z nich píti</l>
+     <l n="13" met="01000101" rhyme="5" line_length="8">teď nelze mi až k hloubi dna,</l>
+     <l n="14" met="01010100" rhyme="5" line_length="8">ať chutná, nebo nechutná!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

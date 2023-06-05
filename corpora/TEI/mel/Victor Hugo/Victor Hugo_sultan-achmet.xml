@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sultan Achmet</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_sultan-achmet</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sultan Achmet</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sultan Achmet</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="7">À Juana la Grenadine,</l>
+     <l n="2" rhyme="a" line_length="7">Qui toujours chante et badine,</l>
+     <l n="3" rhyme="b" line_length="7">Sultan Achmet dit un jour :</l>
+     <l n="4" rhyme="b" line_length="7">— Je donnerais sans retour</l>
+     <l n="5" rhyme="a" line_length="7">Mon royaume pour Médine,</l>
+     <l n="6" rhyme="b" line_length="7">Médine pour ton amour.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" rhyme="a" line_length="7">— Fais-toi chrétien, roi sublime !</l>
+     <l n="8" rhyme="a" line_length="7">Car il est illégitime,</l>
+     <l n="9" rhyme="b" line_length="7">Le plaisir qu'on a cherché</l>
+     <l n="10" rhyme="b" line_length="7">Aux bras d'un Turc débauché.</l>
+     <l n="11" rhyme="a" line_length="7">J'aurais peur de faire un crime :</l>
+     <l n="12" rhyme="b" line_length="7">C'est bien assez du péché.</l>
+    </lg>
+    <lg n="3">
+     <l n="13" rhyme="a" line_length="7">— Par ces perles dont la chaîne</l>
+     <l n="14" rhyme="a" line_length="7">Rehausse, ô ma souveraine,</l>
+     <l n="15" rhyme="b" line_length="7">Ton cou blanc comme le lait,</l>
+     <l n="16" rhyme="b" line_length="7">Je ferai ce qui te plaît,</l>
+     <l n="17" rhyme="a" line_length="7">Si tu veux bien que je prenne</l>
+     <l n="18" rhyme="b" line_length="7">Ton collier pour chapelet.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Má touha k moři zalétá!</title>
+    <author>Martinec, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Martinec, Jaroslav_ma-touha-k-mori-zaleta</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Má touha k moři zalétá!</title>
+     <author>Martinec, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Má touha k moři zalétá!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100" rhyme="1" line_length="8">Zde naděje mi nezkvétá,</l>
+     <l n="2" met="001010" rhyme="2" line_length="6">jen dál! – Jen dál! – Jen dál!</l>
+     <l n="3" met="01010100" rhyme="1" line_length="8">Má touha k moři zalétá,</l>
+     <l n="4" met="010001" rhyme="2" line_length="6">tam pochovám svůj žal!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" line_length="8">Do moře padá hluboko</l>
+     <l n="6" met="001010" rhyme="2" line_length="6">vždy dál – a dál – a dál.</l>
+     <l n="7" met="11010100" line_length="8">Ach, tam jsem mrtvou lásku svou</l>
+     <l n="8" met="010100" rhyme="2" line_length="6">již dávno pochoval!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

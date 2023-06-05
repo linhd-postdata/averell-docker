@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>5. Něco medu,</title>
+    <author>Kuchař, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">11</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kuchař, Josef_5-neco-medu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>5. Něco medu,</title>
+     <author>Kuchař, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>5. Něco medu,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010" rhyme="1" line_length="4">Něco medu, </l>
+     <l n="2" met="1010" rhyme="1" line_length="4">Trochu jedu</l>
+     <l n="3" met="0101" line_length="4">Je lásky sen.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="101" rhyme="2" line_length="3">Jarní dech,</l>
+     <l n="5" met="101" rhyme="2" line_length="3">Zimní vzdech,</l>
+     <l n="6" met="0101" line_length="4">Ten lásky sen.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="1010" rhyme="3" line_length="4">Ranní zoře,</l>
+     <l n="8" met="1010" rhyme="3" line_length="4">Noční hoře,</l>
+     <l n="9" met="101" line_length="3">Jasná noc,</l>
+     <l n="10" met="0101" rhyme="4" line_length="4">A tmavý den,</l>
+     <l n="11" met="0101" rhyme="4" line_length="4">Ten lásky sen.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

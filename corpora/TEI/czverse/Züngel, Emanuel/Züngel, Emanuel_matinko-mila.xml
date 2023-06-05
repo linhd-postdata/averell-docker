@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Matinko milá,</title>
+    <author>Züngel, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Züngel, Emanuel_matinko-mila</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Matinko milá,</title>
+     <author>Züngel, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Matinko milá,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010" line_length="5">Matinko milá, </l>
+     <l n="2" met="00110" rhyme="1" line_length="5">co Ti mám přáti,</l>
+     <l n="3" met="10010" line_length="5">nežli bys mohla</l>
+     <l n="4" met="01000" line_length="5">vždy na výsluní</l>
+     <l n="5" met="10010" rhyme="1" line_length="5">štěstí se hřáti.</l>
+     <l n="6" met="10010" rhyme="2" line_length="5">Matinko stará,</l>
+     <l n="7" met="01010" rhyme="3" line_length="5">co chceš víc míti,</l>
+     <l n="8" met="10110" rhyme="2" line_length="5">nežli kus jara</l>
+     <l n="9" met="10010" rhyme="3" line_length="5">v podzimku žití?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

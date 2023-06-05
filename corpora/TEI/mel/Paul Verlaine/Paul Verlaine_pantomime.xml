@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pantomime</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_pantomime</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pantomime</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pantomime</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Pierrot, qui n’a rien d’un Clitandre,</l>
+     <l n="2" rhyme="a" line_length="8">Vide un flacon sans plus attendre,</l>
+     <l n="3" rhyme="b" line_length="8">Et, pratique, entame un pâté.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="c" line_length="8">Cassandre, au fond de l’avenue,</l>
+     <l n="5" rhyme="c" line_length="8">Verse une larme méconnue</l>
+     <l n="6" rhyme="b" line_length="8">Sur son neveu déshérité.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="a" line_length="8">Ce faquin d’Arlequin combine</l>
+     <l n="8" rhyme="a" line_length="8">L’enlèvement de Colombine</l>
+     <l n="9" rhyme="b" line_length="8">Et pirouette quatre fois.</l>
+    </lg>
+    <lg n="4">
+     <l n="10" rhyme="c" line_length="8">Colombine rêve, surprise</l>
+     <l n="11" rhyme="c" line_length="8">De sentir un cœur dans la brise</l>
+     <l n="12" rhyme="b" line_length="8">Et d’entendre en son cœur des voix.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

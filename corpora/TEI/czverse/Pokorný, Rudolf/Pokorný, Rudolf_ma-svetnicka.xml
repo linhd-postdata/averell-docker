@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Má světnička.</title>
+    <author>Pokorný, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný, Rudolf_ma-svetnicka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Má světnička.</title>
+     <author>Pokorný, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Má světnička.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001100" line_length="7">Maličkou mám světničku</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">jako ptáci hnízda,</l>
+     <l n="3" met="1000100" line_length="7">na okénku, na dveřích</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">často větřík hvízdá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1000100" line_length="7">Ale což! mně dostačí</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">trochu šera kolem,</l>
+     <l n="7" met="1010101" line_length="7">trochu zimy, trochu běd</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">s maličkým mým stolem.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010100" line_length="7">Nad ním malé obrazy...</l>
+     <l n="10" met="001010" rhyme="3" line_length="6">Jak se ke mně sklání!</l>
+     <l n="11" met="1000100" line_length="7">Jako by mně šeptaly</l>
+     <l n="12" met="101000" rhyme="3" line_length="6">tklivé požehnání...</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1010100" line_length="7">Ó vy drahé podoby,</l>
+     <l n="14" met="001010" rhyme="4" line_length="6">kdo vás štětci svěřil,</l>
+     <l n="15" met="0010100" line_length="7">že kdys mluviť budete,</l>
+     <l n="16" met="001000" rhyme="4" line_length="6">sám by neuvěřil!</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="1010100" line_length="7">Ale nikdo na světě</l>
+     <l n="18" met="001000" rhyme="5" line_length="6">tak vás nezobrazí,</l>
+     <l n="19" met="1010100" line_length="7">jako teskné srdíčko,</l>
+     <l n="20" met="100010" rhyme="5" line_length="6">rodičové drazí!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

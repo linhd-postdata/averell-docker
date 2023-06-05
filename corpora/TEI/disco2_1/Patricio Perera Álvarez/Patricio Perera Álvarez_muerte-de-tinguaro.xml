@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Muerte de Tinguaro</title>
+    <author>Patricio Perera Álvarez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Patricio Perera Álvarez_muerte-de-tinguaro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Muerte de Tinguaro</title>
+     <author>Patricio Perera Álvarez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Muerte de Tinguaro</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+--++-">Con pujanza el isleño y vigor raro</l>
+     <l n="2" met="---+---+-+-">su independencia sostener pretende,</l>
+     <l n="3" met="--++---+-+-">que el amor santo de la patria enciende</l>
+     <l n="4" met="---+---+-+-">de su valor el esplendente faro.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+--+--+-">¡Mas todo inútil fue! Cayó Tinguaro,</l>
+     <l n="6" met="-+---+-+-+-">el fuerte campeón que la defiende,</l>
+     <l n="7" met="--++---+-+-">y sin él ya, la retirada emprende,</l>
+     <l n="8" met="-+-+---+-+-">dejando el campo al español preclaro.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+-+-">Nada se opone a su triunfante paso,</l>
+     <l n="10" met="---+---+-+-">abandonando la encantada vega</l>
+     <l n="11" met="--+--+---+-">temerario adelanta hacia el ocaso.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--++-++-">Al abrupto Acentejo otra vez llega</l>
+     <l n="13" met="-+---++--+-">y allí donde sufrió duro fracaso</l>
+     <l n="14" met="---+---+-+-">su victorioso pabellón despliega.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

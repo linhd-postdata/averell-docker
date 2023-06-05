@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Duma o vlaštovce a motýlu.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_duma-o-vlastovce-a-motylu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Duma o vlaštovce a motýlu.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Duma o vlaštovce a motýlu.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11000101010" rhyme="1" line_length="11">Pták zajásal a jabloň dechla vůni,</l>
+     <l n="2" met="0101010001" rhyme="2" line_length="10">a dlouhých křídel temnělesklý hrot</l>
+     <l n="3" met="1001000101" rhyme="2" line_length="10">vlaštovka operlila v tůni vod:</l>
+     <l n="4" met="11000101000" rhyme="1" line_length="11">dva rubíny to byly na výsluní.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000101000" rhyme="3" line_length="11">A za vlaštovkou v tůň se nachýlila</l>
+     <l n="6" met="1101000100" rhyme="4" line_length="10">dvě křídla motýlí – leč motýl kles’;</l>
+     <l n="7" met="0100010100" rhyme="4" line_length="10">on krůpějí svých k slunci nepovznes’,</l>
+     <l n="8" met="01010001010" rhyme="3" line_length="11">ta zdoba ptákova mu smrtí byla.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

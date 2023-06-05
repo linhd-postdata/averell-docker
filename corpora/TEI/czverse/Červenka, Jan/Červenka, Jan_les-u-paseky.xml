@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les u paseky.</title>
+    <author>Červenka, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červenka, Jan_les-u-paseky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Les u paseky.</title>
+     <author>Červenka, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Les u paseky.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000101000" rhyme="1" line_length="11">Ten zadumaný les, kam od paseky</l>
+     <l n="2" met="1001010100" rhyme="2" line_length="10">se strání bílá stezka zatáčí,</l>
+     <l n="3" met="01000110010" rhyme="1" line_length="11">jejž u kořenů mech pokrývá měkký</l>
+     <l n="4" met="0101010100" rhyme="2" line_length="10">a podél kraje vroubí bodláčí,</l>
+     <l n="5" met="01010101000" rhyme="1" line_length="11">jest jako hravé dítě prostořeký.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="01010101000" rhyme="3" line_length="11">Já mluvím o Vás, on se rozhlaholí</l>
+     <l n="7" met="0101010100" rhyme="2" line_length="10">a každé moje slůvko opáčí,</l>
+     <l n="8" met="01010101010" rhyme="3" line_length="11">on se mnou jásá a když srdce bolí,</l>
+     <l n="9" met="0101010100" rhyme="2" line_length="10">ty šeré jeho stromy zapláčí.</l>
+    </lg>
+    <lg n="3">
+     <l n="10" met="0100010101" rhyme="4" line_length="10">A volá-li Vás, paní má, můj ret,</l>
+     <l n="11" met="11010001010" rhyme="5" line_length="11">zvuk jména Vašeho mu není nový,</l>
+     <l n="12" met="0100010000" rhyme="4" line_length="10">on třikráte zas vrátí mi je zpět.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="11001101010" rhyme="5" line_length="11">Ó přijďte sem, ó přijďte, on Vám poví</l>
+     <l n="14" met="00100101010" rhyme="5" line_length="11">vše to, co já, ač z duše rád, Vám slovy</l>
+    </lg>
+    <lg n="5">
+     <l n="15" met="0101010100" rhyme="4" line_length="10">Bych nikdy, nikdy říci nedoved’!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Andalucía</title>
+    <author>Manuel Reina</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel Reina_andalucia</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Andalucía</title>
+     <author>Manuel Reina</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Andalucía</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---+-">Cielo brillante, fuentes rumorosas;</l>
+     <l n="2" met="+-+--+---+-">ojos negros; cantores y verbenas;</l>
+     <l n="3" met="-+---+---+-">altares adornados de azucenas;</l>
+     <l n="4" met="+--+---+-+-">rostros tostados, perfumadas rosas.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+---+-">Bellas noches de amor esplendorosas,</l>
+     <l n="6" met="+--+-++--+-">mares de plata y luz, brisas serenas,</l>
+     <l n="7" met="+--+---+-+-">rejas de nardos y claveles llenas;</l>
+     <l n="8" met="--+--+---+-">serenatas; mujeres deliciosas.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">Cancelas, orientales miradores;</l>
+     <l n="10" met="--+--+---+-">la guitarra y su triste melodía;</l>
+     <l n="11" met="+--+-+---+-">patios; mantillas, huertos, ruiseñores;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+----+---+-">rica y deslumbrante poesía...</l>
+     <l n="13" met="+++--+---+-">He aquí el pueblo del sol y los amores;</l>
+     <l n="14" met="--+--+---+-">la mañana del mundo: ¡Andalucía!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

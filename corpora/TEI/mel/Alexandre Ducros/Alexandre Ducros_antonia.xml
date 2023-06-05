@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Antonia</title>
+    <author>Alexandre Ducros</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alexandre Ducros_antonia</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Antonia</title>
+     <author>Alexandre Ducros</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Antonia</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="0" line_length="6+6">Non, je ne dirai pas quelles soudaines fièvres</l>
+     <l n="2" rhyme="1" line_length="8">Ni combien dans mon rêve empli d'étrange émoi</l>
+     <l n="3" rhyme="1" line_length="6+6">Mes lèvres vont compter des baisers sur ses lèvres !</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="2" line_length="6+6">Non, je ne dirai pas quel est ce rêve fou !</l>
+     <l n="5" rhyme="3" line_length="6+6">Elle me le défend…, à son vouloir je cède,</l>
+     <l n="6" rhyme="2" line_length="6+6">Mais le rêve m'emporte, il va je ne sais où….</l>
+     <l n="7" rhyme="3" line_length="6+6">Dans un ciel idéal, et, là, je la possède !</l>
+    </lg>
+    <lg n="3">
+     <l n="8" rhyme="4" line_length="6+6">Mais quelle arrière joie ! et comme elle fait mal !</l>
+     <l n="9" rhyme="4" line_length="6+6">Alors que descendu de ce ciel idéal,</l>
+    </lg>
+    <lg n="4">
+     <l n="10" rhyme="6" line_length="6+6">Mon cœur pleure, se brise et tout espoir en sort !</l>
+     <l n="11" rhyme="5" line_length="6+6">Le rêve était divin ; le réveil est mensonge,</l>
+     <l n="12" rhyme="6" line_length="6+6">Et je goûte un bonheur qui me donne la mort !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

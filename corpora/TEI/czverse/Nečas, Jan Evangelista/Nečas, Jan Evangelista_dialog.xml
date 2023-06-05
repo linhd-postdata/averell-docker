@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dialog.</title>
+    <author>Nečas, Jan Evangelista</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nečas, Jan Evangelista_dialog</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dialog.</title>
+     <author>Nečas, Jan Evangelista</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dialog.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="001010" rhyme="1" line_length="6">Já jsem zhouba vírná;</l>
+     <l n="2" met="101000" rhyme="1" line_length="6">rostu do nesmírna!</l>
+     <l n="3" met="01000101010" rhyme="2" line_length="11">Já za minutu množství mrtvol kladu;</l>
+     <l n="4" met="01010100010" rhyme="2" line_length="11">jsem matkou bídy, zoufání a hladu –</l>
+     <l n="5" met="01000100010" rhyme="3" line_length="11">Kdo záhubou a hrůzami mne předčí?</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="0101010" rhyme="3" line_length="7">Já! Syn tvůj! Tebe větší!</l>
+     <l n="7" met="00010101010" rhyme="4" line_length="11">Kde tys již klesla mdlobou v koncích boje,</l>
+     <l n="8" met="01010101010" rhyme="4" line_length="11">tam vstává teprv mladá síla moje!</l>
+     <l n="9" met="01010100010" rhyme="5" line_length="11">Tys hřměla děly široce a dlouze,</l>
+     <l n="10" met="01000101010" rhyme="5" line_length="11">já usmrcuji množství dechem pouze;</l>
+     <l n="11" met="01010001010" rhyme="6" line_length="11">tys bila muže jen; já kácím šmahem</l>
+     <l n="12" met="01010100010" rhyme="6" line_length="11">i ženy s dětmi za domácím prahem,</l>
+     <l n="13" met="01000101" rhyme="7" line_length="8">jsem nejhroznější hrůzy sbor –</l>
+     <l n="14" met="01" rhyme="7" line_length="2">já – mor!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

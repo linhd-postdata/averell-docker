@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hrál tulák šumař pod okny,</title>
+    <author>Benešová, Božena</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Benešová, Božena_hral-tulak-sumar-pod-okny</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hrál tulák šumař pod okny,</title>
+     <author>Benešová, Božena</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hrál tulák šumař pod okny,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010100" rhyme="1" line_length="8">Hrál tulák šumař pod okny, </l>
+     <l n="2" met="11010101" rhyme="2" line_length="8">vím ještě jakou píseň hrál,</l>
+     <l n="3" met="01010100" rhyme="1" line_length="8">však děti byly samotny.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="010101010" rhyme="3" line_length="9">Tu píseň ještě v noci hraje,</l>
+     <l n="5" met="10010100" rhyme="2" line_length="8">neví, kdo lásky nepoznal,</l>
+     <l n="6" met="010101010" rhyme="3" line_length="9">jak v modři vlaje chochol máje.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="010101000" rhyme="4" line_length="9">Jak hladí ruka maminčina,</l>
+     <l n="8" met="010100010" rhyme="3" line_length="9">jak voní dědečkovy stáje,</l>
+     <l n="9" met="010101010" rhyme="4" line_length="9">a jaká byla Fanka líná.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

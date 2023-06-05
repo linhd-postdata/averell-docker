@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Na podzim. (1.)</title>
+    <author>Tůma, Jan Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tůma, Jan Václav_na-podzim-1</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Na podzim. (1.)</title>
+     <author>Tůma, Jan Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Na podzim. (1.)</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="001010000010" line_length="12">Zda, kdo v bolu pomateném sám se vraždě</l>
+     <l n="2" met="101010100010" rhyme="1" line_length="12">listy lásky rukou chvějící se vrátil,</l>
+     <l n="3" met="101010101000" line_length="12">také pohřbil všecku na ni upomínku,</l>
+     <l n="4" met="001010101010" rhyme="1" line_length="12">a s ní cit a srdce, bolesť na vždy stratil?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101010101100" line_length="12">Chladný podzim s větví kolem pně holého</l>
+     <l n="6" met="101010010010" rhyme="2" line_length="12">listy žluté sesypal do smrti klína –</l>
+     <l n="7" met="011010101010" line_length="12">zda strom zhynul? kořen vyschl? – O ten ještě</l>
+     <l n="8" met="100010001000" rhyme="2" line_length="12">polomrtvý na jaro se rozzpomíná!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

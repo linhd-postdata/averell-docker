@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sérénade</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">7</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_serenade</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sérénade</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sérénade</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+6">Comme la voix d’un mort qui chanterait</l>
+     <l n="2" rhyme="b" line_length="5">Maîtresse, entends monter vers ton retrait</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="4+6">Ouvre ton âme et ton oreille au son</l>
+     <l n="4" rhyme="b" line_length="5">Pour toi j’ai fait, pour toi, cette chanson</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="4+6">Je chanterai tes yeux d’or et d’onyx</l>
+     <l n="6" rhyme="b" line_length="5">Puis le Léthé de ton sein, puis le Styx</l>
+    </lg>
+    <lg n="4">
+     <l n="7" rhyme="a" line_length="4+6">Comme la voix d’un mort qui chanterait</l>
+     <l n="8" rhyme="b" line_length="5">Maîtresse, entends monter vers ton retrait</l>
+    </lg>
+    <lg n="5">
+     <l n="9" rhyme="a" line_length="4+6">Puis je louerai beaucoup, comme il convient,</l>
+     <l n="10" rhyme="b" line_length="5">Dont le parfum opulent me revient</l>
+    </lg>
+    <lg n="6">
+     <l n="11" rhyme="a" line_length="4+6">Et pour finir, je dirai le baiser</l>
+     <l n="12" rhyme="b" line_length="5">Et ta douceur à me martyriser,</l>
+    </lg>
+    <lg n="7">
+     <l n="13" rhyme="a" line_length="4+6">Ouvre ton âme et ton oreille au son</l>
+     <l n="14" rhyme="b" line_length="5">Pour toi j’ai fait, pour toi, cette chanson</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

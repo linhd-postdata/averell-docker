@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XXX.</title>
+    <author>Sabina, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sabina, Karel_xxx</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XXX.</title>
+     <author>Sabina, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XXX.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101000" rhyme="1" line_length="9">Blíž břehu, skvělé na výšině,</l>
+     <l n="2" met="01010100" rhyme="2" line_length="8">Tamť v skrovné chýži obývám</l>
+     <l n="3" met="010100100" rhyme="1" line_length="9">A k moři vzdálené hladině</l>
+     <l n="4" met="10010100" rhyme="2" line_length="8">Toužebné hledy zasílám.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100010" rhyme="3" line_length="9">Pohlížím z obzorního kraje,</l>
+     <l n="6" met="01010010" rhyme="4" line_length="8">Kde v mlhách vlny se baví,</l>
+     <l n="7" met="010101010" rhyme="3" line_length="9">Zda větrem plachta ke mně vlaje,</l>
+     <l n="8" met="10010100" rhyme="4" line_length="8">U chýže loď se zastaví.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100101010" rhyme="3" line_length="9">Pode mnou vlnka s vlnkou hraje,</l>
+     <l n="10" met="10010010" rhyme="5" line_length="8">U skály pevné se pěníc,</l>
+     <l n="11" met="100101010" rhyme="3" line_length="9">Nade mnou oblak v dálku vlaje; –</l>
+     <l n="12" met="11010000" rhyme="5" line_length="8">Loď má mně neplaví se vstříc.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100010100" rhyme="6" line_length="9">Na hrobě mém vlna poplyne,</l>
+     <l n="14" met="10010100" rhyme="7" line_length="8">Povlaje chmura truchlivá;</l>
+     <l n="15" met="100110100" rhyme="6" line_length="9">Duch můj co stín břehem pokyne: –</l>
+     <l n="16" met="01000101" rhyme="7" line_length="8">Však nepřiblíží loď se má.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Skřínka Pandořina.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_skrinka-pandorina</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Skřínka Pandořina.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Skřínka Pandořina.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010100010" rhyme="1" line_length="13">Z nás každý v ňadrech skřínku Pandořinu nese,</l>
+     <l n="2" met="0101000001010" rhyme="1" line_length="13">co nejdřív otevříti ji se každý třese.</l>
+     <l n="3" met="1101001101010" rhyme="2" line_length="13">Kol na zem, do nebe, v tmu hrobu raděj zírej, –</l>
+     <l n="4" met="0101000" rhyme="2" line_length="7">však skřínku neotvírej!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010101010" rhyme="3" line_length="13">K ní ucho skloníš, cos tam jako struna zvoní</l>
+     <l n="6" met="0101000101010" rhyme="3" line_length="13">a bzučí, vážky tak se v letním slunci honí;</l>
+     <l n="7" met="0100110101010" rhyme="2" line_length="13">buď do moře hoď klíček, neb jej v křeči svírej, –</l>
+     <l n="8" met="0101000" rhyme="2" line_length="7">však skřínku neotvírej!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1101000100010" rhyme="4" line_length="13">Sny, zlaté illuse a touhy tam se tlačí,</l>
+     <l n="10" met="0100010001010" rhyme="4" line_length="13">však pavouky a červy pak bys viděl v pláči;</l>
+     <l n="11" met="0101010101010" rhyme="2" line_length="13">jak Arab v poušti v hrsti perle měj a zmírej –</l>
+     <l n="12" met="0101000" rhyme="2" line_length="7">však skřínku neotvírej!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

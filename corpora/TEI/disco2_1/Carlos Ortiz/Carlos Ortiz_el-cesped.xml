@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El césped</title>
+    <author>Carlos Ortiz</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Carlos Ortiz_el-cesped</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El césped</title>
+     <author>Carlos Ortiz</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El césped</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">Ampulosa y anárquica prodiga</l>
+     <l n="2" met="--+--+---+-">en el suelo su piélago cruzado,</l>
+     <l n="3" met="+-+--+-+-+-">un alfombra verdusca, denso prado,</l>
+     <l n="4" met="--+--+---+-">bajo el pie quebradizo de la espiga.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+-+-+-">De los suelos tenaz y fina amiga,</l>
+     <l n="6" met="--+--+---+-">bajo el sol prolifera y a su lado</l>
+     <l n="7" met="--+--+---+-">en lo oscuro, con parche abigarrado</l>
+     <l n="8" met="--+--+-+-+-">que del mundo retazo no desliga.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Y de calma se viste, portentosa,</l>
+     <l n="10" met="--+--+---+-">embriagando de paz enardecida</l>
+     <l n="11" met="+-+--+---+-">toda vista en su parche que se posa.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+-+----+-">¡Pues que umbría la tierra y consumida</l>
+     <l n="13" met="--+-+--+-+-">se vería si el manto que la acosa</l>
+     <l n="14" met="+-+--+---+-">no cubriese la muerte con su vida!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

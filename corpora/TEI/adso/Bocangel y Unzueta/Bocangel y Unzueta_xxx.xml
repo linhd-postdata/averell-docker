@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- XXX - </title>
+    <author>Bocangel y Unzueta</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Bocangel y Unzueta_xxx</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- XXX - </title>
+     <author>Bocangel y Unzueta</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- XXX - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+-+-+-">Recoge el temerario lino alado,</l>
+     <l n="2" met="--+--+-+-+-">Palinuro, que miro el mar furioso,</l>
+     <l n="3" met="-+-+-+---+-">y agravio hará (que le hace el poderoso)</l>
+     <l n="4" met="+--+---+-+-">sólo de verte a tu defensa armado.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-++-+-+-+-">Calle el remo, aún el voto esté callado,</l>
+     <l n="6" met="+--+-+-+-+-">que es trabajar estar a tiempo ocioso.</l>
+     <l n="7" met="+--+-+-+-+-">Sobra el afán al que ha de ser dichoso,</l>
+     <l n="8" met="---+-+---+-">pues que si lo ha de ser por olvidado.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-++--+---+-">Discreto es sacrificio el rendimiento;</l>
+     <l n="10" met="--++-+---+-">donde no puede obrar la resistencia,</l>
+     <l n="11" met="--+--+-+-+-">el furor estorbado dura y crece.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+---+-">Que no hicieron los cielos la violencia</l>
+     <l n="13" met="---+-+-+-+-">tan absoluta -y más si la arma el viento-</l>
+     <l n="14" met="-+-+-+---+-">que no la vence al fin quien la obedece.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

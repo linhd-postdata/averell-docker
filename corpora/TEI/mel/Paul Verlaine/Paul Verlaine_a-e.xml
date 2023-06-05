@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A E…</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_a-e</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A E…</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A E…</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">O toi chaude comme l’enfer,</l>
+     <l n="2" rhyme="a" line_length="8">O toi, froide comme l’hiver,</l>
+     <l n="3" rhyme="b" line_length="8">Douce et dure, on dirait du fer</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="a" line_length="8">Dure et douce comme la mousse</l>
+     <l n="5" rhyme="a" line_length="8">Et le fer, si dure et si douce,</l>
+     <l n="6" rhyme="b" line_length="8">Va ! sois toi-même ! Un vent te pousse.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="a" line_length="8">Et vent d’automne, et tant d’autans</l>
+     <l n="8" rhyme="a" line_length="8">Et de zéphirs sont palpitants,</l>
+     <l n="9" rhyme="b" line_length="8">Dans tes grands yeux mahométans</l>
+    </lg>
+    <lg n="4">
+     <l n="10" rhyme="a" line_length="8">Que j’en reste mélancolique</l>
+     <l n="11" rhyme="a" line_length="8">Et joyeux, et sans plus d’oblique</l>
+     <l n="12" line_length="8">Madrigal, je t’aime !</l>
+     <l n="13" rhyme="b" line_length="4">Madrigal, je t’aime ! O réplique,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

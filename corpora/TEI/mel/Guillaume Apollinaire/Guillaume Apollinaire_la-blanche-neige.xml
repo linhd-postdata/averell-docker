@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La blanche neige</title>
+    <author>Guillaume Apollinaire</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Guillaume Apollinaire_la-blanche-neige</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La blanche neige</title>
+     <author>Guillaume Apollinaire</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La blanche neige</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="5+4">Les anges les anges dans le ciel</l>
+     <l n="2" line_length="4+5">L'un est vêtu en officier</l>
+     <l n="3" line_length="8">L'un est vêtu en cuisinier</l>
+    </lg>
+    <lg n="2">
+     <l n="4" line_length="5+4">Bel officier couleur du ciel</l>
+     <l n="5" line_length="4+6">Le doux printemps longtemps après Noël</l>
+     <l n="6" line_length="5+4">Te médaillera d'un beau soleil</l>
+    </lg>
+    <lg n="3">
+     <l n="7" line_length="8">Le cuisinier plume les oies</l>
+     <l n="8" line_length="4">Ma bien-aimée entre mes bras</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

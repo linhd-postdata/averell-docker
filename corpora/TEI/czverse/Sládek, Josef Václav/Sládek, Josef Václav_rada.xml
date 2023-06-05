@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ráda!</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_rada</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ráda!</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ráda!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1101010" rhyme="1" line_length="7">Ó ráda, ráda, ráda,</l>
+     <l n="2" met="100101" rhyme="2" line_length="6">ó jak tě ráda mám!</l>
+     <l n="3" met="0100010" rhyme="1" line_length="7">můj tatíček už střádá</l>
+     <l n="4" met="010000" rhyme="2" line_length="6">i na oddavky nám.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010" rhyme="3" line_length="7">A roste, roste, roste</l>
+     <l n="6" met="110101" rhyme="4" line_length="6">má myrta, boží div,</l>
+     <l n="7" met="1001010" rhyme="3" line_length="7">a kde jsou jací hosté,</l>
+     <l n="8" met="010100" rhyme="4" line_length="6">už družba pamětliv.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1101010" rhyme="1" line_length="7">Ó mám tě ráda, ráda, –</l>
+     <l n="10" met="010101" rhyme="5" line_length="6">mé družky samý smích,</l>
+     <l n="11" met="0100010" rhyme="1" line_length="7">a matička už skládá</l>
+     <l n="12" met="010101" rhyme="5" line_length="6">mi plátno jako sníh.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="0100010" rhyme="6" line_length="7">Až k lavandule proutku</l>
+     <l n="14" met="010100" rhyme="7" line_length="6">mně všecko zařídí</l>
+     <l n="15" met="0101010" rhyme="6" line_length="7">a slzu stírá v koutku,</l>
+     <l n="16" met="010100" rhyme="7" line_length="6">když nikdo nevidí. –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

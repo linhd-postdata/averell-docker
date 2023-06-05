@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ohněm mé prsty se smály,</title>
+    <author>Holý, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Holý, Josef_ohnem-me-prsty-se-smaly</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ohněm mé prsty se smály,</title>
+     <author>Holý, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ohněm mé prsty se smály,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010" rhyme="1" line_length="8">Ohněm mé prsty se smály, </l>
+     <l n="2" met="1011000" rhyme="2" line_length="7">duše má daleko, pryč!</l>
+     <l n="3" met="10001010" rhyme="1" line_length="8">Housličky tak pěkně hrály.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="1001001" rhyme="2" line_length="7">Mládí mé, přelehký míč,</l>
+     <l n="5" met="100101000" rhyme="3" line_length="9">prolétlo všechny kombinace,</l>
+     <l n="6" met="10010010" rhyme="3" line_length="8">Housličky hrály tak sladce!</l>
+     <l n="7" met="010100100" rhyme="4" line_length="9">Pak struna praskala za strunou.</l>
+    </lg>
+    <lg n="3">
+     <l n="8" met="1001001000" rhyme="5" line_length="10">Žena, můj ideál, poklesla včil,</l>
+     <l n="9" met="100100100" rhyme="4" line_length="9">bouře mou otřásla korunou.</l>
+     <l n="10" met="100100100" rhyme="5" line_length="9">Na hřebík housle jsem zavěsil.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

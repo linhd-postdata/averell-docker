@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La más fermosa</title>
+    <author>Enrique Hernández Miyares</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Enrique Hernández Miyares_la-mas-fermosa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La más fermosa</title>
+     <author>Enrique Hernández Miyares</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La más fermosa</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Que siga el caballero su camino</l>
+     <l n="2" met="-+---+---+-">agravios desfaciendo con su lanza:</l>
+     <l n="3" met="+-+--+-+-+-">todo noble tesón al cabo alcanza</l>
+     <l n="4" met="-+-+-+---+-">fijar las justas leyes del destino.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-++-+---+-">Cálate el roto yelo de Mambrino</l>
+     <l n="6" met="---+-+-+-+-">y en tu rocín glorioso altivo avanza,</l>
+     <l n="7" met="-+---+---+-">desoye al refranero Sancho Panza</l>
+     <l n="8" met="--+--+---+-">y en tu brazo confía y en tu sino.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++---+---+-">No temas la esquivez de la Fortuna:</l>
+     <l n="10" met="---+-----+-">Si el caballero de la Blanca Luna</l>
+     <l n="11" met="-+-+---+-+-">medir sus armas con las tuyas osa,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">y te derriba por contraria suerte,</l>
+     <l n="13" met="---+-+---+-">de Dulcinea, en ansias de tu muerte,</l>
+     <l n="14" met="+-+--+-+-+-">¡di que siempre será la más hermosa!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

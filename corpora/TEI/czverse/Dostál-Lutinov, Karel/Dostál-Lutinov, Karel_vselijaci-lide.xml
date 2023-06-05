@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VŠELIJACÍ LIDE.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_vselijaci-lide</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VŠELIJACÍ LIDE.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VŠELIJACÍ LIDE.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010" line_length="7">Ten rým je trochu špatný –</l>
+     <l n="2" met="001" rhyme="1" line_length="3">já to vím.</l>
+     <l n="3" met="01010100110" line_length="11">Jsou lidé, jimž je milejší zlý člověk,</l>
+     <l n="4" met="0101" rhyme="1" line_length="4">než slabý rým.</l>
+     <l n="5" met="10010100010" rhyme="2" line_length="11">Oni si na tom zakládají hrozně,</l>
+     <l n="6" met="0101001001000" rhyme="2" line_length="13">že srdce šlechetné probodli GRACIOSNĚ!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

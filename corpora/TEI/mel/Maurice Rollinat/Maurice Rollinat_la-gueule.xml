@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LA GUEULE</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_la-gueule</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LA GUEULE</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LA GUEULE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">O fatale rencontre ! au fond d'un chemin creux</l>
+     <l n="2" rhyme="a" line_length="6+6">Se chauffait au soleil, sur le talus ocreux,</l>
+     <l n="3" rhyme="b" line_length="6+6">Un reptile aussi long qu'un manche de quenouille.</l>
+     <l n="4" rhyme="b" line_length="6+6">Mais le saut effaré d'une pauvre grenouille</l>
+     <l n="5" rhyme="a" line_length="6+6">Montrait que le serpent ne dormait qu'à moitié !</l>
+     <l n="6" rhyme="a" line_length="6+6">Et je laissai, l'horreur étranglant ma pitié,</l>
+     <l n="7" rhyme="b" line_length="6+6">Sa gueule se distendre et, toute grande ouverte,</l>
+     <l n="8" rhyme="b" line_length="6+6">Se fermer lentement sur la victime verte.</l>
+     <l n="9" rhyme="a" line_length="6+6">Puis le sommeil reprit le hideux animal.</l>
+     <l n="10" rhyme="a" line_length="6+6">La grenouille, c'est moi ! Le serpent, c'est le mal !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

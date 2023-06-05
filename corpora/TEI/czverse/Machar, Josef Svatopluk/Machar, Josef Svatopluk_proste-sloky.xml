@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PROSTÉ SLOKY.</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_proste-sloky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PROSTÉ SLOKY.</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PROSTÉ SLOKY.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100010" rhyme="1" line_length="9">V Babelu literárních proudů</l>
+     <l n="2" met="01010001" rhyme="2" line_length="8">a hesel, rozumů a rad,</l>
+     <l n="3" met="110001010" rhyme="1" line_length="9">klik, koterií, přísných soudů</l>
+     <l n="4" met="01000100" rhyme="2" line_length="8">a velikášských maškarad –</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010100110" rhyme="3" line_length="9">mé Credo, štít můj a má meta,</l>
+     <l n="6" met="01010101" rhyme="4" line_length="8">k níž plnou silou dospět chcem,</l>
+     <l n="7" met="010101010" rhyme="3" line_length="9">je malá, hrdá, silná věta,</l>
+     <l n="8" met="01010100" rhyme="4" line_length="8">již řekl kdosi o jiném:</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101010" rhyme="5" line_length="9">„On nikdy nelhal“... Vavřín stěží</l>
+     <l n="10" met="01010100" rhyme="6" line_length="8">tak které čelo opletá,</l>
+     <l n="11" met="010001010" rhyme="5" line_length="9">jak slova ta, jež pyšně leží</l>
+     <l n="12" met="10010100" rhyme="6" line_length="8">na hlavě bratra Musseta.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

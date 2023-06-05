@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El arroyo</title>
+    <author>María de los Ángeles Espejo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>María de los Ángeles Espejo_el-arroyo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El arroyo</title>
+     <author>María de los Ángeles Espejo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El arroyo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">Recostada en la cuenca reluciente</l>
+     <l n="2" met="+-+--++--+-">cabe el fonje tapiz de áureos bancales,</l>
+     <l n="3" met="--+--+---+-">bajo toldo flexible de juncales</l>
+     <l n="4" met="+--+-+---+-">fluye, pausada, mórbida corriente.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+---+-+-">Sin artificios, del cristal ambiente,</l>
+     <l n="6" met="---+-++--+-">en el moaré sutil de albos cendales</l>
+     <l n="7" met="--+--+---+-">refocílanse a trechos siderales</l>
+     <l n="8" met="+--+-+-+-+-">lumbres, en tregua azul, serenamente.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+-+-">Osa el arroyo ante la gracia leda,</l>
+     <l n="10" met="---+---+-+-">en la propicia estagnación del sueño</l>
+     <l n="11" met="-+-+---+-+-">prender el rayo que adoró su empeño;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+-+-+-">mas luego en torvo mar extinto queda...</l>
+     <l n="13" met="-+---+---+-">¡Y llora la visión desvanecida</l>
+     <l n="14" met="++-+---+-+-">cual gime el alma su ilusión perdida!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VEČER.</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_vecer</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VEČER.</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VEČER.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010001010001" rhyme="1" line_length="12">A miluješ-li, nehleď do plynoucích vod,</l>
+     <l n="2" met="00010010" rhyme="2" line_length="8">sic se ti rozteskní duše –</l>
+     <l n="3" met="100101100100" rhyme="1" line_length="12">za vlnou vlna jde, všecky jak o závod</l>
+     <l n="4" met="10010010" rhyme="2" line_length="8">divoce, necitně, hluše.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010100010000" rhyme="3" line_length="12">Pryč pádí v šero kams a v nenávratnou dál,</l>
+     <l n="6" met="01010010" rhyme="4" line_length="8">tak chladně, přísně a rmutně –</l>
+     <l n="7" met="110100010001" rhyme="3" line_length="12">má drahá, včera jsem tak u Dunaje stál</l>
+     <l n="8" met="01010010" rhyme="4" line_length="8">a bylo k smrti mi smutně.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

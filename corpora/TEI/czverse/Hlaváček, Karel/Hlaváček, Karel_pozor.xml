@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pozor!</title>
+    <author>Hlaváček, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hlaváček, Karel_pozor</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pozor!</title>
+     <author>Hlaváček, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pozor!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010001010" rhyme="1" line_length="11">Vy, bratří, na výspách, vy přední stráže,</l>
+     <l n="2" met="01000101000" rhyme="2" line_length="11">ať u Krkonoš, Tater, u Šumavy,</l>
+     <l n="3" met="11010010010" rhyme="1" line_length="11">ó, pozor bedlivý, u boků paže,</l>
+     <l n="4" met="01010100110" rhyme="2" line_length="11">vždyť víte dobře! K hranicím zrak tmavý!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11000100010" rhyme="1" line_length="11">Vrah na dosah je! Líp než kdy a snáže,</l>
+     <l n="6" met="01010100010" rhyme="2" line_length="11">by roztáh dráp svůj skrčený a dravý –</l>
+     <l n="7" met="01010010010" rhyme="1" line_length="11">tož pozor bedlivý, na zbrani paže,</l>
+     <l n="8" met="01000100110" rhyme="2" line_length="11">a k hranicím svůj upřete zrak tmavý!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010001000" rhyme="3" line_length="11">Co vichr od Voges, co od Uralu?</l>
+     <l n="10" met="01010001010" rhyme="4" line_length="11">je právě vichr jen a pranic více –</l>
+     <l n="11" met="01001101000" rhyme="5" line_length="11">radš šlehni zas břit zbraně rezovaté!</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="01010010000" rhyme="4" line_length="11">Tož pozor bedlivý, v před zřítelnice,</l>
+     <l n="13" met="01010101010" rhyme="3" line_length="11">vždyť každá píď té země rovna graalu –</l>
+     <l n="14" met="01010011010" rhyme="5" line_length="11">ba, věřte, schytala víc krve svaté.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

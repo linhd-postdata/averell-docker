@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Rêverie</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_reverie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Rêverie</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Rêverie</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Quand le paysan sème, et qu’il creuse la terre,</l>
+     <l n="2" rhyme="b" line_length="6+6">Il ne voit que son grain, ses bœufs et son sillon.</l>
+     <l n="3" rhyme="a" line_length="6+6">— La nature en silence accomplit le mystère, —</l>
+     <l n="4" rhyme="b" line_length="6+6">Couché sur sa charrue, il attend sa moisson.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Quand sa femme, en rentrant le soir, à sa chaumière,</l>
+     <l n="6" rhyme="b" line_length="6+6">Lui dit : « Je suis enceinte », — il attend son enfant.</l>
+     <l n="7" rhyme="a" line_length="6+6">Quand il voit que la mort va saisir son vieux père,</l>
+     <l n="8" rhyme="b" line_length="6+6">Il s’assoit sur le pied de la couche, et l’attend.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Que savons-nous de plus ? — et la sagesse humaine,</l>
+     <l n="10" rhyme="a" line_length="6+6">Qu’a-t-elle découvert de plus dans son domaine ?</l>
+     <l n="11" rhyme="b" line_length="6+6">Sur ce large univers elle a, dit-on, marché ;</l>
+     <l n="12" rhyme="b" line_length="6+6">Et voilà cinq mille ans qu’elle a toujours cherché !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

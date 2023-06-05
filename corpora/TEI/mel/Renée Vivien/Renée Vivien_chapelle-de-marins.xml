@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CHAPELLE DE MARINS</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_chapelle-de-marins</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CHAPELLE DE MARINS</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CHAPELLE DE MARINS</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Voici le soir… Voici l’orage aux cris amers,</l>
+     <l n="2" rhyme="b" line_length="6+6">Et la foule s’assemble au fond de la chapelle</l>
+     <l n="3" rhyme="b" line_length="6+6">Où l’on cherche Marie et n’espère qu’en Elle.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="a" line_length="6+6">Ô vaisseau qui se noie en l’abîme des mers,</l>
+     <l n="5" rhyme="a" line_length="6+6">Ô Dieu ! je cherche en vain l’ombre de la chapelle</l>
+     <l n="6" rhyme="b" line_length="6+6">Voici le soir… Voici l’orage aux cris amers.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="b" line_length="6+6">Et dans mon cœur, sévit la tempête des mers !</l>
+     <l n="8" rhyme="a" line_length="6+6">Ô Dieu ! je cherche en vain l’ombre de la chapelle</l>
+     <l n="9" rhyme="b" line_length="6+6">Marie ! ― Ô lys très blanc, qui règnes sur la mer !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

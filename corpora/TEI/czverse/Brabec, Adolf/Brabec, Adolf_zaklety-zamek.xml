@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ZAKLETÝ ZÁMEK.</title>
+    <author>Brabec, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Brabec, Adolf_zaklety-zamek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ZAKLETÝ ZÁMEK.</title>
+     <author>Brabec, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ZAKLETÝ ZÁMEK.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" rhyme="1" line_length="11">Je zaklet bílý zámek... klíče v moři.</l>
+     <l n="2" met="100101010100" rhyme="2" line_length="12">Ku bránám němý, černý jezdec přiklusal,</l>
+     <l n="3" met="1100101010" rhyme="1" line_length="10">zrak upírá v okna ve svém hoři,</l>
+     <l n="4" met="010101010001" rhyme="2" line_length="12">jsou prázdná okna, síně, opuštěn je sál.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010001010" rhyme="3" line_length="11">Jen v modrých zahradách se jasmín bělí,</l>
+     <l n="6" met="10100010100" rhyme="4" line_length="11">v barvách stříbrných se svíjí vodomet,</l>
+     <l n="7" met="01010101000" rhyme="3" line_length="11">a v šeru cest se růže rozpršely</l>
+     <l n="8" met="10100100101" rhyme="4" line_length="11">v touze šílené po kráse zašlých let.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101010" rhyme="5" line_length="11">A každou chvíli němý jezdec váhá –</l>
+     <l n="10" met="101000000100" rhyme="6" line_length="12">zdá se, na vraníku že v dál se rozletí,</l>
+     <l n="11" met="01010101010" rhyme="5" line_length="11">je pozdě večer, šer se rychle vzmáhá</l>
+     <l n="12" met="010100010100" rhyme="6" line_length="12">a měsíc ozdobuje okna perletí.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1000101010" rhyme="7" line_length="10">V tajemství se bílý zámek halí –</l>
+     <l n="14" met="110001010100" rhyme="8" line_length="12">pár netopýrů k věžím smutným zalétá,</l>
+     <l n="15" met="01010110010" rhyme="7" line_length="11">jen občas píseň zní do modré dáli:</l>
+     <l n="16" met="010100100100" rhyme="8" line_length="12">tu zpívá princezna ve hradu zakletá!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

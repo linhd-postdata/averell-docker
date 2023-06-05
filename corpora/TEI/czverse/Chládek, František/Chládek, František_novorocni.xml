@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Novoroční.</title>
+    <author>Chládek, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Chládek, František_novorocni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Novoroční.</title>
+     <author>Chládek, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Novoroční.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1011001010" rhyme="1" line_length="10">Nový rok nastává – Pánbůh starý</l>
+     <l n="2" met="101010100" rhyme="2" line_length="9">podnes žije – buďme veselí!</l>
+     <l n="3" met="1000100010" rhyme="1" line_length="10">Děkujme mu za minulé dary,</l>
+     <l n="4" met="101010100" rhyme="2" line_length="9">prosme, ať nám znovu nadělí!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001001010" rhyme="3" line_length="10">Štěstí nám, o bratří, vlasti slávu!</l>
+     <l n="6" met="101010001" rhyme="4" line_length="9">dej to, Pane všemohoucí, dej!</l>
+     <l n="7" met="1100101010" rhyme="3" line_length="10">Hej, Mládo, tu starou země štávu</l>
+     <l n="8" met="100010100" rhyme="4" line_length="9">do nových nám číší nalévej!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

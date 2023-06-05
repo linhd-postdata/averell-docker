@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>BĚHOUN.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_behoun</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>BĚHOUN.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>BĚHOUN.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101010" line_length="9">V sobotu dělník přišel z práce –</l>
+     <l n="2" met="100100" rhyme="1" line_length="6">výdělek maličký,</l>
+     <l n="3" met="110011010" line_length="9">vzal běhounský šat šaška na se -</l>
+     <l n="4" met="1100" rhyme="1" line_length="4">Pá, dětičky!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010001010" line_length="9">A diváci se jemu smáli</l>
+     <l n="6" met="01010100" rhyme="1" line_length="8">i jeho vlastní rolničky –</l>
+     <l n="7" met="100101010" line_length="9">a on jak blázen běžel, myslel:</l>
+     <l n="8" met="0100" rhyme="1" line_length="4">Mé dětičky!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100100110" line_length="9">Dvacetkrát náměstí kol oběh,</l>
+     <l n="10" met="01000100" rhyme="2" line_length="8">pak uřícený přišel k nám</l>
+     <l n="11" met="010101000" line_length="9">a dárek prosil ostýchavě</l>
+     <l n="12" met="0100" rhyme="2" line_length="4">svým dětičkám.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Paris double galère</title>
+    <author>Charles Peguy</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Charles Peguy_paris-double-galere</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Paris double galère</title>
+     <author>Charles Peguy</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Paris double galère</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Depuis le Point-du-Jour jusqu’aux cèdres bibliques</l>
+     <l n="2" rhyme="b" line_length="6+6">Double galère assise au long du grand bazar,</l>
+     <l n="3" rhyme="b" line_length="6+6">Et du grand ministère, et du morne alcazar,</l>
+     <l n="4" rhyme="a" line_length="6+6">Parmi les deuils privés et les vertus publiques ;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Sous les quatre-vingts rois et les trois Républiques,</l>
+     <l n="6" rhyme="b" line_length="6+6">Et sous Napoléon, Alexandre et César,</l>
+     <l n="7" rhyme="b" line_length="6+6">Nos pères ont tenté le centuple hasard,</l>
+     <l n="8" rhyme="a" line_length="6+6">Fidèlement courbés sur tes rames obliques.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Et nous prenant leur place au même banc de chêne,</l>
+     <l n="10" rhyme="d" line_length="6+6">Nous ramerons des reins, de la nuque, de l’âme,</l>
+     <l n="11" rhyme="c" line_length="6+6">Pliés, cassés, meurtris, saignants sous notre chaîne ;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="d" line_length="6+6">Et nous tiendrons le coup, rivés sur notre rame,</l>
+     <l n="13" rhyme="c" line_length="6+6">Forçats fils de forçats aux deux rives de Seine,</l>
+     <l n="14" rhyme="d" line_length="6+6">Galériens couchés aux pieds de Notre Dame.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

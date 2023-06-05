@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SVATÉ JITRO</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_svate-jitro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SVATÉ JITRO</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SVATÉ JITRO</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10" rhyme="1" line_length="2">Svítá!</l>
+     <l n="2" met="1010001" rhyme="2" line_length="7">v růžích zahořela zem;</l>
+     <l n="3" met="1000101" rhyme="2" line_length="7">skutkem je, co bylo snem,</l>
+     <l n="4" met="1010" rhyme="1" line_length="4">touha skrytá!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10" rhyme="3" line_length="2">Kámen</l>
+     <l n="6" met="1000100" rhyme="4" line_length="7">pohnul se a s hrobu pad’;</l>
+     <l n="7" met="1010101" rhyme="4" line_length="7">z jeho temna patříš vlát</l>
+     <l n="8" met="1010" rhyme="3" line_length="4">jas a plamen!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10" rhyme="5" line_length="2">S prahu</l>
+     <l n="10" met="1010101" rhyme="6" line_length="7">Kristus kyne živ a tich;</l>
+     <l n="11" met="1000100" rhyme="6" line_length="7">rozplýváš se, cit tvůj zjih’</l>
+     <l n="12" met="1010" rhyme="5" line_length="4">vroucím v blahu.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10" rhyme="7" line_length="2">Rány</l>
+     <l n="14" met="1010100" rhyme="8" line_length="7">v rukou, v nohou září vstříc;</l>
+     <l n="15" met="1000101" rhyme="8" line_length="7">jitřenku tam vidíš, rdíc,</l>
+     <l n="16" met="0010" rhyme="7" line_length="4">to jsou brány!</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10" rhyme="9" line_length="2">Skrytá</l>
+     <l n="18" met="1010100" rhyme="10" line_length="7">v boku rána, ložnice;</l>
+     <l n="19" met="1010101" rhyme="10" line_length="7">tvoji duši, jestli chce,</l>
+     <l n="20" met="1010" rhyme="9" line_length="4">zve a vítá!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

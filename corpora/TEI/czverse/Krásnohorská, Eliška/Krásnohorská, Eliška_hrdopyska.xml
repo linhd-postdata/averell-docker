@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hrdopyška.</title>
+    <author>Krásnohorská, Eliška</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Krásnohorská, Eliška_hrdopyska</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hrdopyška.</title>
+     <author>Krásnohorská, Eliška</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hrdopyška.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110001010" rhyme="1" line_length="9">Aj, neceň ty se pro své statky,</l>
+     <l n="2" met="0100010" rhyme="2" line_length="7">tak vzácnou že jsi kráskou,</l>
+     <l n="3" met="010001010" rhyme="1" line_length="9">by hochům všem byl osud sladký</l>
+     <l n="4" met="0101010" rhyme="2" line_length="7">snad mříti k tobě láskou.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101000" rhyme="3" line_length="9">A třeba hojné nadělení</l>
+     <l n="6" met="1101010" rhyme="4" line_length="7">máš v truhle zlatých ptáčků,</l>
+     <l n="7" met="010101010" rhyme="3" line_length="9">tvé zlato z tvého srdce není,</l>
+     <l n="8" met="0100010" rhyme="4" line_length="7">je z tátova jen sáčku.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>José Pellicer de Tovar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Pellicer de Tovar_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>José Pellicer de Tovar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">De horror armado, de furor ceñido,</l>
+     <l n="2" met="-+-+-+-+-+-">valiente lidia, a más victoria atento</l>
+     <l n="3" met="-+---+---+-">el bruto victorioso, cuyo intento,</l>
+     <l n="4" met="-++--++--+-">de más alto poder fue resistido.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+++-+-">Feroz en la campaña, es ya temido;</l>
+     <l n="6" met="-+-+-+---+-">a toda fiera alcanza el escarmiento,</l>
+     <l n="7" met="-+-+-+---+-">mayor aplauso debe al vencimiento,</l>
+     <l n="8" met="-+-+---+-+-">pues fue la causa de quedar vencido.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Los postreros amagos de la vida,</l>
+     <l n="10" met="-+-+---+-+-">se vieron antes, que la ardiente llama</l>
+     <l n="11" met="--+-++---+-">ejecutase el golpe de la herida.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+-+-+-">Creció la admiración, creció la fama,</l>
+     <l n="13" met="--+--+-+-+-">y el aplauso común, en voz divina,</l>
+     <l n="14" met="-+++---+++-">deidad te adora, vencedor te aclama.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

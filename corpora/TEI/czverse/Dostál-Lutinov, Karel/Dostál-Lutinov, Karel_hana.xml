@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>HANÁ.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_hana</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>HANÁ.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>HANÁ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000100" line_length="7">Od svatyho Kopečka</l>
+     <l n="2" met="010010" rhyme="1" line_length="6">až po svaté Hostén –</l>
+     <l n="3" met="0010100" line_length="7">to je naša očena,</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">z černé hlene rostem.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1000100" line_length="7">Rovina jak na stole,</l>
+     <l n="6" met="101000" rhyme="2" line_length="6">žatva velkolepá,</l>
+     <l n="7" met="1000101" line_length="7">Ječminek to vládne král</l>
+     <l n="8" met="010010" rhyme="2" line_length="6">a královna Řepa.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1000100" line_length="7">Vevolené národ sme,</l>
+     <l n="10" met="101000" rhyme="3" line_length="6">brázde požehnany,</l>
+     <l n="11" met="1010100" line_length="7">o nás rostó koláče</l>
+     <l n="12" met="101000" rhyme="3" line_length="6">cokrem posepany.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1010100" line_length="7">Rostó hrzky Hanačke,</l>
+     <l n="14" met="101010" rhyme="4" line_length="6">řečny majó hobe,</l>
+     <l n="15" met="1000100" line_length="7">kabrňáci, Hanáci,</l>
+     <l n="16" met="101010" rhyme="4" line_length="6">selni jako dobe.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="1010100" line_length="7">Věrni Boho, vlasti své,</l>
+     <l n="18" met="101000" rhyme="5" line_length="6">chasa neoblomná,</l>
+     <l n="19" met="10101000" line_length="8">Žede, Němče, cezozemče,</l>
+     <l n="20" met="100100" rhyme="5" line_length="6">táhnite za homna!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

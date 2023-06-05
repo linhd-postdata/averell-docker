@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Předce!</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_predce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Předce!</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Předce!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">A kdybys byla znectěná,</l>
+     <l n="2" met="01010101" rhyme="1" line_length="8">jak naše drahá, svatá zem,</l>
+     <l n="3" met="00010100" line_length="8">já bych tě předce miloval</l>
+     <l n="4" met="00100100" rhyme="1" line_length="8">jak ji, buď si to v odpor všem;</l>
+     <l n="5" met="00010100" line_length="8">jak ji tak vřele, horoucně,</l>
+     <l n="6" met="01010100" rhyme="2" line_length="8">jak sta ji bratrů miluje,</l>
+     <l n="7" met="01000100" line_length="8">a krví svou bych odehnal</l>
+     <l n="8" met="01010100" rhyme="2" line_length="8">tu chátru, jež tě bičuje.</l>
+    </lg>
+    <lg n="2">
+     <l n="9" met="01010100" line_length="8">Leč kdybys byla znectěná,</l>
+     <l n="10" met="01010101" rhyme="3" line_length="8">jak chuda zrádce bídný čin,</l>
+     <l n="11" met="01000100" line_length="8">já prvním bych byl knězem pak,</l>
+     <l n="12" met="01000101" rhyme="3" line_length="8">jenž proklel by tvůj mrzký klín,</l>
+     <l n="13" met="01010100" line_length="8">a hrob bych tobě vykopal</l>
+     <l n="14" met="01010100" rhyme="4" line_length="8">až k středu pekla hluboký,</l>
+     <l n="15" met="01010100" line_length="8">tak velký, jaký přichystán</l>
+     <l n="16" met="10010100" rhyme="4" line_length="8">pro bídné zrady otroky.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

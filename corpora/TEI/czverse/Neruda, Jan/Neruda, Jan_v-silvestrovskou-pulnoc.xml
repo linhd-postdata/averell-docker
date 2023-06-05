@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V silvestrovskou půlnoc</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_v-silvestrovskou-pulnoc</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V silvestrovskou půlnoc</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V silvestrovskou půlnoc</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101000" line_length="11">Ba myslím, místo českých hodinářů</l>
+     <l n="2" met="10000100" rhyme="1" line_length="8">na Staroměstské radnici</l>
+     <l n="3" met="01000100" rhyme="1" line_length="8">že pracují jen státníci:</l>
+     <l n="4" met="11010001010" rhyme="2" line_length="11">pět starých koleček a jedno nové –</l>
+     <l n="5" met="10010101010" rhyme="2" line_length="11">a to se potom „novou správou“ zove.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

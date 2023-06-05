@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soy universal</title>
+    <author>Luis Augusto Méndez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Luis Augusto Méndez_soy-universal</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soy universal</title>
+     <author>Luis Augusto Méndez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soy universal</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+---+-">Es mi patria la esfera sostenida</l>
+     <l n="2" met="---+-+---+-">por invisible fuerza en el vacío,</l>
+     <l n="3" met="--+--+++-+-">y mirar en su faz tan solo ansío</l>
+     <l n="4" met="--+--+--++-">a los hombres vivir natural vida.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">Aspiro a ver la Humanidad unida</l>
+     <l n="6" met="-+-+-+-+-+-">en un estrecho abrazo en torno mío,</l>
+     <l n="7" met="--+--+-+-+-">y rodar por el suelo duro y frío</l>
+     <l n="8" met="--+--+---+-">la ambición y la guerra aborrecida.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++---+---+-">Yo soy universal; mi pensamiento,</l>
+     <l n="10" met="-+---+-+-+-">que abarca la extensión del vago viento,</l>
+     <l n="11" met="++---++--+-">no cabe en la estrechez de una frontera.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+++----+-">Suelo en él una época de hermanos,</l>
+     <l n="13" met="---+-+---+-">la abolición de siervos y tiranos</l>
+     <l n="14" met="---+--+--+-">y la armonía de la vida entera.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

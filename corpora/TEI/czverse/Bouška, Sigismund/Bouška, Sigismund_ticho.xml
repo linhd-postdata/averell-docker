@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ticho.</title>
+    <author>Bouška, Sigismund</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Bouška, Sigismund_ticho</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ticho.</title>
+     <author>Bouška, Sigismund</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ticho.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" rhyme="1" line_length="11">Tam venku démon v lidské vlny dmýchá,</l>
+     <l n="2" met="01010101010" rhyme="2" line_length="11">až pěna záští hradby naše třísní, –</l>
+     <l n="3" met="01010" rhyme="1" line_length="5">zde vášeň ztichá.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="01010101010" rhyme="1" line_length="11">Tam venku roste, roste olbřím: pýcha,</l>
+     <l n="5" met="01000101010" rhyme="2" line_length="11">ven z chaty, ven, výš, celý svět ji tísní, –</l>
+     <l n="6" met="01010" rhyme="1" line_length="5">zde vášeň ztichá.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="01010101010" rhyme="1" line_length="11">Tam venku rozkoš do všech srdcí dýchá,</l>
+     <l n="8" met="11010101010" rhyme="3" line_length="11">sníh liljí kalí, čisté rety pálí, –</l>
+     <l n="9" met="01010" rhyme="1" line_length="5">zde vášeň ztichá.</l>
+    </lg>
+    <lg n="4">
+     <l n="10" met="01010100010" rhyme="1" line_length="11">Tam venku mamon moří se a vzdychá,</l>
+     <l n="11" met="11000101010" rhyme="3" line_length="11">schne lakotou, své bedny zlata válí, –</l>
+     <l n="12" met="01010" rhyme="1" line_length="5">zde vášeň ztichá.</l>
+    </lg>
+    <lg n="5">
+     <l n="13" met="01010101010" rhyme="1" line_length="11">Tam venku démon v štěstí žluči míchá,</l>
+     <l n="14" met="11010100010" rhyme="4" line_length="11">ó jaký shon to, za štěstím vše šílí, –</l>
+     <l n="15" met="01010" rhyme="1" line_length="5">zde vášeň ztichá.</l>
+    </lg>
+    <lg n="6">
+     <l n="16" met="01010101000" rhyme="1" line_length="11">Tam venku slza v oku neosychá,</l>
+     <l n="17" met="01010101010" rhyme="4" line_length="11">čím větší vášeň, tím víc lítost kvílí, –</l>
+     <l n="18" met="01010" rhyme="1" line_length="5">zde vášeň ztichá.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

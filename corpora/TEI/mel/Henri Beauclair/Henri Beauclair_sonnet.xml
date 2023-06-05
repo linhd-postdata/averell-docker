@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sonnet</title>
+    <author>Henri Beauclair</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Henri Beauclair_sonnet</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sonnet</title>
+     <author>Henri Beauclair</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sonnet</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Les rêves d'autrefois : — gloire, honneurs et puissance</l>
+     <l n="2" rhyme="b" line_length="6+6">Ont cessé de hanter mon cerveau reposé,</l>
+     <l n="3" rhyme="b" line_length="6+6">Et je souris du temps où j'aurais tout osé</l>
+     <l n="4" rhyme="a" line_length="6+6">Pour être de ceux-là que le vulgaire encense.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">L'Égoïsme m'a dit : « Recherche le silence :</l>
+     <l n="6" rhyme="b" line_length="6+6">Par le fracas du Nom le Bonheur est chassé. »</l>
+     <l n="7" rhyme="b" line_length="6−6">Et la Paresse : « N'es-tu pas déjà lassé ?</l>
+     <l n="8" rhyme="a" line_length="6+6">Songe à ce qu'il te faut acquérir de science ! »</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">A ma fenêtre j'ai borné mon horizon.</l>
+     <l n="10" rhyme="c" line_length="6−6">Et je m'enferme en ma volontaire prison,</l>
+     <l n="11" rhyme="d" line_length="6+6">Sans nul but que gagner le pain de ceux que j'aime ;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6−6">Ne craignant rien que la Maladie et la Mort ;</l>
+     <l n="13" rhyme="d" line_length="6+6">Heureux, puisque ma femme est un autre moi-même ;</l>
+     <l n="14" rhyme="e" line_length="6+6">Puisque ma fille est belle et que mon fils est fort.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

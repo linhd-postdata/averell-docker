@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CHINOISERIE</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_chinoiserie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CHINOISERIE</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CHINOISERIE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+6">Ce n'est pas vous, non, madame, que j'aime,</l>
+     <l n="2" rhyme="b" line_length="4+6">Ni vous non plus, Juliette, ni vous,</l>
+     <l n="3" rhyme="a" line_length="4+6">Ophélia, ni Béatrix, ni même</l>
+     <l n="4" rhyme="b" line_length="4+6">Laure la blonde, avec ses grands yeux doux.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="4+6">Celle que j'aime, à présent, est en Chine ;</l>
+     <l n="6" rhyme="b" line_length="4+6">Elle demeure avec ses vieux parents,</l>
+     <l n="7" rhyme="a" line_length="4+6">Dans une tour de porcelaine fine,</l>
+     <l n="8" rhyme="b" line_length="4+6">Au fleuve Jaune, où sont les cormorans.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="4+6">Elle a des yeux retroussés vers les tempes,</l>
+     <l n="10" rhyme="b" line_length="4+6">Un pied petit à tenir dans la main,</l>
+     <l n="11" rhyme="a" line_length="4+6">Le teint plus clair que le cuivre des lampes,</l>
+     <l n="12" rhyme="b" line_length="4+6">Les ongles longs et rougis de carmin.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="4+6">Par son treillis elle passe sa tête,</l>
+     <l n="14" rhyme="b" line_length="4+6">Que l'hirondelle, en volant, vient toucher,</l>
+     <l n="15" rhyme="a" line_length="4+6">Et, chaque soir, aussi bien qu'un poëte,</l>
+     <l n="16" rhyme="b" line_length="4+6">Chante le saule et la fleur du pêcher.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

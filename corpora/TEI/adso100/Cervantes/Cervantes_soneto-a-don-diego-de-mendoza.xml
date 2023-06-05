@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto a don Diego de Mendoza y a su fama </title>
+    <author>Cervantes</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cervantes_soneto-a-don-diego-de-mendoza</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>ADSO 100 poems corpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto a don Diego de Mendoza y a su fama </title>
+     <author>Cervantes</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto a don Diego de Mendoza y a su fama </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+---+-">En la memoria vive de las gentes,</l>
+     <l n="2" met="-+-+-+---+-">varón famoso, siglos infinitos,</l>
+     <l n="3" met="+----+---+-">premio que le merecen tus escritos</l>
+     <l n="4" met="-+-+-+---+-">por graves, puros, castos y excelentes.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+-+-+-">Las ansias en honesta llama ardientes,</l>
+     <l n="6" met="-+---+---+-">los Ethnas, los Estigios, los Cozitos</l>
+     <l n="7" met="-+-+-+-+-+-">que en ellos suavemente van descritos,</l>
+     <l n="8" met="+-++-+---+-">mira si es bien, ¡oh Fama!, que los cuentes,</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+---+-+-">y aun que los lleves en ligero vuelo</l>
+     <l n="10" met="---+-+-+-+-">por cuanto ciñe el mar y el sol rodea,</l>
+     <l n="11" met="-+---+---+-">y en lágrimas de bronce los esculpas,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+-+-+-">que así el vuelo sabrá que sabe el cielo</l>
+     <l n="13" met="--+--+---+-">que el renombre inmortal que se desea</l>
+     <l n="14" met="++-+---+-+-">tal vez le alcancen amorosas culpas.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

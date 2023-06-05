@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>INTERMEZZO.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_intermezzo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>INTERMEZZO.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>INTERMEZZO.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0001000" line_length="7">Tak už je dozpíváno,</l>
+     <l n="2" met="000100" rhyme="1" line_length="6">tak už je dohráno –</l>
+     <l n="3" met="1001010" rhyme="2" line_length="7">a co snad ještě zbylo,</l>
+     <l n="4" met="0101000" rhyme="2" line_length="7">co v strunách nezvonilo,</l>
+     <l n="5" met="100100" rhyme="1" line_length="6">necháme na ráno.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="0001000" line_length="7">Ti tam jsou posluchači –</l>
+     <l n="7" met="100100" rhyme="3" line_length="6">bylo jich na tisíc...</l>
+     <l n="8" met="0101010" rhyme="4" line_length="7">Jen dvoje věrné oči</l>
+     <l n="9" met="0101010" rhyme="4" line_length="7">se v touze na mne točí</l>
+     <l n="10" met="010100" rhyme="3" line_length="6">a chtějí písní víc.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="0101010" line_length="7">Je stromem srdce pěvcův:</l>
+     <l n="12" met="110100" rhyme="5" line_length="6">Květ – tvůrčí nadšení,</l>
+     <l n="13" met="0100010" rhyme="6" line_length="7">však ovocem je zlatým,</l>
+     <l n="14" met="0101010" rhyme="6" line_length="7">když bratr okem vzňatým</l>
+     <l n="15" met="010100" rhyme="5" line_length="6">nám píseň ocení!</l>
+    </lg>
+    <lg n="4">
+     <l n="16" met="1001010" line_length="7">A byť už srdce teskné</l>
+     <l n="17" met="010100" rhyme="7" line_length="6">nás táhlo k domovu:</l>
+     <l n="18" met="1001010" rhyme="8" line_length="7">Pro záři dvojích očí</l>
+     <l n="19" met="0101010" rhyme="8" line_length="7">nám ruka do strun skočí</l>
+     <l n="20" met="010100" rhyme="7" line_length="6">a pějem poznovu!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

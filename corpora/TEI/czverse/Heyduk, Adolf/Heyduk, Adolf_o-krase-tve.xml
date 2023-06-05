@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>O kráse tvé...</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_o-krase-tve</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>O kráse tvé...</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>O kráse tvé...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10000100" line_length="8">O kráse tvé, tvé dobrotě</l>
+     <l n="2" met="01010101" rhyme="1" line_length="8">má píseň spěchá v šírý svět,</l>
+     <l n="3" met="01010100" line_length="8">leč tebe nelze dostihnout</l>
+     <l n="4" met="010101" rhyme="1" line_length="6">a marný její let.</l>
+     <l n="5" met="11010101" rhyme="2" line_length="8">Ach nelze, nelze, píseň má</l>
+     <l n="6" met="01010100" rhyme="3" line_length="8">jest tobě němé dítko jen,</l>
+     <l n="7" met="01000100" rhyme="2" line_length="8">jež zádumčivost zrodila</l>
+     <l n="8" met="01010101" rhyme="3" line_length="8">a jemuž otcem jarní sen.</l>
+    </lg>
+    <lg n="2">
+     <l n="9" met="01010100" line_length="8">Jsou tiché, tiché písně mé,</l>
+     <l n="10" met="01000101" rhyme="2" line_length="8">jen po vlastech je přítel zná,</l>
+     <l n="11" met="00010001" line_length="8">leč co tak tiše v nich jsem pěl,</l>
+     <l n="12" met="010101" rhyme="2" line_length="6">je vřelá láska má.</l>
+     <l n="13" met="01010100" line_length="8">Ta pučí, květe v srdci mém,</l>
+     <l n="14" met="01010101" rhyme="4" line_length="8">ty nad ní jako cherub dlíš,</l>
+     <l n="15" met="01010101" rhyme="4" line_length="8">a slyšíš zvuk a slzu zříš,</l>
+     <l n="16" met="01010100" rhyme="4" line_length="8">leč slova její neslyšíš.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La mauvaise Rencontre</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">3</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_la-mauvaise-rencontre</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La mauvaise Rencontre</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La mauvaise Rencontre</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Il fait un de ces temps où la sueur vous trempe,</l>
+     <l n="2" rhyme="b" line_length="8">Tandis que juste au bas une vipère rampe.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="8">Qui n'a pas du tout l'air de vivre dans les bois ?</l>
+    </lg>
+    <lg n="3" />
+    <lg n="4" />
+    <lg n="5" />
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Německé sousedce</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_nemecke-sousedce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Německé sousedce</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Německé sousedce</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101010" line_length="10">Řekni mně, kde stáda svoje pásáš,</l>
+     <l n="2" met="1010101010" rhyme="1" line_length="10">které stan Tvůj kryjou štíhlé palmy,</l>
+     <l n="3" met="1010101010" line_length="10">pošlu s vánkem vonným lehké písně,</l>
+     <l n="4" met="1010001010" rhyme="1" line_length="10">pošlu vznešené Ti svoje žalmy.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010001010" line_length="10">Ale, navštívit Tě věru nesmím –</l>
+     <l n="6" met="1000100010" rhyme="2" line_length="10">beránkové v stádu Tvém už pošli,</l>
+     <l n="7" met="1000101010" line_length="10">zbyli tam jen tlustí, blbí skopci,</l>
+     <l n="8" met="1010100010" rhyme="2" line_length="10">zbyli prací vysušení osli.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

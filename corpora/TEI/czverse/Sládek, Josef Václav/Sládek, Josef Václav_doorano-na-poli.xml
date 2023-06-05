@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dooráno na poli</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_doorano-na-poli</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dooráno na poli</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dooráno na poli</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000100" rhyme="1" line_length="7">Dooráno na poli,</l>
+     <l n="2" met="1010100" rhyme="1" line_length="7">žita plné stodoly,</l>
+     <l n="3" met="10101010" line_length="8">dvorec, že mu rovno není</l>
+     <l n="4" met="100" rhyme="1" line_length="3">v okolí!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010100" rhyme="2" line_length="7">Čtyři koně ve dvoře,</l>
+     <l n="6" met="1010100" rhyme="2" line_length="7">mladou žínku v komoře,</l>
+     <l n="7" met="00101010" line_length="8">kdož by myslil, pane Bože</l>
+     <l n="8" met="100" rhyme="2" line_length="3">na hoře!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1000100" rhyme="3" line_length="7">Na koně si zapískám,</l>
+     <l n="10" met="1010100" rhyme="3" line_length="7">s mladou ženou zavýskám,</l>
+     <l n="11" met="10001010" line_length="8">po ničem si v širém světě</l>
+     <l n="12" met="100" rhyme="3" line_length="3">nestýskám</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>[VIEUX COPPÉE]</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_vieux-coppee</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>[VIEUX COPPÉE]</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>[VIEUX COPPÉE]</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Les écrevisses ont mangé mon cœur qui saigne,</l>
+     <l n="2" rhyme="a" line_length="6+6">Et me voici logé maintenant à l'enseigne</l>
+     <l n="3" rhyme="b" line_length="6+6">De ceux dont Carjat dit « C'était un beau talent,</l>
+     <l n="4" rhyme="b" line_length="6+6">Mais pas de caractère », et je vais, bras ballants,</l>
+     <l n="5" rhyme="a" line_length="6+6">Sans limite et sans but, ainsi qu'un fiacre à l'heure,</l>
+     <l n="6" rhyme="a" line_length="6+6">Pâle, à jeun, et trouvé trop con… par Gill qui pleure.</l>
+     <l n="7" rhyme="b" line_length="6+6">« Mourir, — dormir ! » a dit Shakspeare ; si ce n'est</l>
+     <l n="8" rhyme="b" line_length="6−6">Que ça, je cours vers la forêt que l'on connaît,</l>
+     <l n="9" rhyme="a" line_length="6+6">Et puisque c'est fictif, j'y vais prendre à mon aise</l>
+     <l n="10" rhyme="a" line_length="6+6">Ton beau poëte blond, faune barbizonnaise !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

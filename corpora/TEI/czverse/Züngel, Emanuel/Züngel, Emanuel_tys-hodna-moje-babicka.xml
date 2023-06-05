@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Tys hodná moje babička</title>
+    <author>Züngel, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Züngel, Emanuel_tys-hodna-moje-babicka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Tys hodná moje babička</title>
+     <author>Züngel, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Tys hodná moje babička</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Tys hodná moje babička </l>
+     <l n="2" met="100101" rhyme="1" line_length="6">a já tě ráda mám</l>
+     <l n="3" met="01000100" line_length="8">a každodenně za Tebe</l>
+     <l n="4" met="010100" rhyme="1" line_length="6">se k Bohu modlívám:</l>
+     <l n="5" met="10010101" rhyme="2" line_length="8">aby Ti hojně zdraví dal</l>
+     <l n="6" met="01010100" rhyme="2" line_length="8">a ve všem Tobě požehnal.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

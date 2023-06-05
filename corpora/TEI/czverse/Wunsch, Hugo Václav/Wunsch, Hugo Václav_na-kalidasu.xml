@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Na Kalidasu.</title>
+    <author>Wunsch, Hugo Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Wunsch, Hugo Václav_na-kalidasu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Na Kalidasu.</title>
+     <author>Wunsch, Hugo Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Na Kalidasu.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100" line_length="8">Tvé „Sakuntaly“ neznal jsem,</l>
+     <l n="2" met="0101010" rhyme="1" line_length="7">já neznal milky svojí,</l>
+     <l n="3" met="01010100" line_length="8">když snubní prsten dala mi</l>
+     <l n="4" met="1001010" rhyme="1" line_length="7">se slovy: „Ten nás spojí.“</l>
+     <l n="5" met="01000101" line_length="8">Však po svatbě než minul rok,</l>
+     <l n="6" met="1100100" rhyme="2" line_length="7">ach, jaké to sklámání,</l>
+     <l n="7" met="01010100" line_length="8">jsem shledal, že je prsten ten</l>
+     <l n="8" met="1001000" rhyme="2" line_length="7">„prstenem ku poznání“.*)</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

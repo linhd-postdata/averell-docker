@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Horus</title>
+    <author>Gérard de Nerval</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Gérard de Nerval_horus</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Horus</title>
+     <author>Gérard de Nerval</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Horus</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Le dieu Kneph en tremblant ébranlait l'univers :</l>
+     <l n="2" rhyme="b" line_length="6+6">Isis, la mère, alors se leva sur sa couche,</l>
+     <l n="3" rhyme="b" line_length="6+6">Fit un geste de haine à son époux farouche,</l>
+     <l n="4" rhyme="a" line_length="6+6">Et l'ardeur d'autrefois brilla dans ses yeux verts.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">« Le voyez-vous, dit-elle, il meurt, ce vieux pervers,</l>
+     <l n="6" rhyme="b" line_length="6+6">Tous les frimas du monde ont passé par sa bouche,</l>
+     <l n="7" rhyme="b" line_length="6+6">Attachez son pied tors, éteignez son œil louche,</l>
+     <l n="8" rhyme="a" line_length="6+6">C'est le dieu des volcans et le roi des hivers !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">L'aigle a déjà passé, l'esprit nouveau m'appelle,</l>
+     <l n="10" rhyme="c" line_length="6+6">J'ai revêtu pour lui la robe de Cybèle…</l>
+     <l n="11" rhyme="d" line_length="6+6">C'est l'enfant bien-aimé d'Hermès et d'Osiris ! "</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">La Déesse avait fui sur sa conque dorée,</l>
+     <l n="13" rhyme="e" line_length="6+6">La mer nous renvoyait son image adorée,</l>
+     <l n="14" rhyme="d" line_length="6+6">Et les cieux rayonnaient sous l'écharpe d'Iris.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

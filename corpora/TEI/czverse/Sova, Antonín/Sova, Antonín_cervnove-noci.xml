@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ČERVNOVÉ NOCI</title>
+    <author>Sova, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sova, Antonín_cervnove-noci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ČERVNOVÉ NOCI</title>
+     <author>Sova, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ČERVNOVÉ NOCI</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010100100101" rhyme="1" line_length="12">Zas noci červnové s tichými blesky jdou.</l>
+     <l n="2" met="0101001001000" rhyme="2" line_length="13">Jsou jasné, zamlklé, s měsíčným polosvitem,</l>
+     <l n="3" met="110100010100" rhyme="1" line_length="12">dech trávy požaté zas táhne zahradou</l>
+     <l n="4" met="0101000101010" rhyme="2" line_length="13">a větřík dřímavý se zlehka vlní žitem.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="110101010101" rhyme="3" line_length="12">Spí všecko, všecko spí, je tichá, zmlklá ves,</l>
+     <l n="6" met="0101000101000" rhyme="4" line_length="13">jen chřástal nad vodami zalká přerývaně.</l>
+     <l n="7" met="010101010101" rhyme="3" line_length="12">Víc voní bez a kmín a bouřněj šumí jez</l>
+     <l n="8" met="0101000100010" rhyme="4" line_length="13">v tom tichu velikém, jež oblévá mi skráně.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="110100010100" rhyme="5" line_length="12">Hle, měsíc veliký jak hoří nad splavem...</l>
+     <l n="10" met="0101000101000" rhyme="6" line_length="13">A kolem do kola co hvězd se zatřpytilo!</l>
+     <l n="11" met="010101100100" rhyme="5" line_length="12">Snad kdyby štěstí šlo po dlouhých dobách sem,</l>
+     <l n="12" met="0101001101000" rhyme="6" line_length="13">by ani za noci v tmách lesů nezbloudilo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

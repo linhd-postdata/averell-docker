@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>DCERA.</title>
+    <author>Koukl, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">11</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Koukl, Antonín_dcera</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>DCERA.</title>
+     <author>Koukl, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>DCERA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000100010" rhyme="1" line_length="10">Na bídu a na matičku starou</l>
+     <l n="2" met="100010100010" rhyme="2" line_length="12">zapomnělo děvče v bohatství a pychu.</l>
+     <l n="3" met="100010100010" rhyme="2" line_length="12">Bylo by to také nehorázně k smíchu,</l>
+     <l n="4" met="1010001010" rhyme="1" line_length="10">myslet na matku, jež jezdí károu,</l>
+     <l n="5" met="1010101010" rhyme="3" line_length="10">kdežto ona denně v plném zdaru</l>
+     <l n="6" met="1010101000" rhyme="3" line_length="10">v skvostném voze letí po bulváru –</l>
+     <l n="7" met="100100100" rhyme="4" line_length="9">se šlechtou v přepychu zápolí!</l>
+    </lg>
+    <lg n="2">
+     <l n="8" met="101010101010" rhyme="5" line_length="12">Odkud má to všecko? Lidé mluví cosi:</l>
+     <l n="9" met="100010100010" rhyme="5" line_length="12">dobře však, že ona rukavičky nosí –</l>
+     <l n="10" met="1010100010100" rhyme="4" line_length="13">ducha nemá – nemusíť pak vidět kdokoli,</l>
+     <l n="11" met="0010100010100" rhyme="4" line_length="13">že ten přepych nedaly jí ani – mozoly!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

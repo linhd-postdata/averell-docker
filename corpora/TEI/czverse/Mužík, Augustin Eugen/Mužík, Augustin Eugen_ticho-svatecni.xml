@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ticho sváteční.</title>
+    <author>Mužík, Augustin Eugen</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mužík, Augustin Eugen_ticho-svatecni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ticho sváteční.</title>
+     <author>Mužík, Augustin Eugen</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ticho sváteční.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101000" rhyme="1" line_length="11">Jest ticho kol, ni vítr nezašumí.</l>
+     <l n="2" met="11000101010" rhyme="1" line_length="11">Les, nebe jen – – ty čtou své němé dumy</l>
+     <l n="3" met="01000100010" rhyme="2" line_length="11">jak v modlitbu, kdy člověk sám se hrouží,</l>
+     <l n="4" met="01000001010" rhyme="2" line_length="11">až zapomíná, že s ní k Bohu touží.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010001010" rhyme="3" line_length="11">Po lesním pažitě jak vítr tiše</l>
+     <l n="6" met="01010101010" rhyme="3" line_length="11">v dál běží srn – ten psanec svojí říše.</l>
+     <l n="7" met="11000101010" rhyme="4" line_length="11">Den sváteční – on poutník v tesknu plachém</l>
+     <l n="8" met="01001100010" rhyme="4" line_length="11">v dál ubíhá pol s nadějí i strachem.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101010" rhyme="5" line_length="11">Tu v ticho lesa hrom jak zařval hrubý!</l>
+     <l n="10" met="01010100010" rhyme="5" line_length="11">Tou ranou staré zachvěly se duby</l>
+     <l n="11" met="01010101010" rhyme="6" line_length="11">a celý les svou rozchvěl klidnou hlavu</l>
+     <l n="12" met="01010100010" rhyme="6" line_length="11">a srnec klesl v zkrvácenou trávu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

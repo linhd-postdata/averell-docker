@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El Papaloapan</title>
+    <author>Joaquín Arcadio Pagaza</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Joaquín Arcadio Pagaza_el-papaloapan</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El Papaloapan</title>
+     <author>Joaquín Arcadio Pagaza</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El Papaloapan</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+---+-">Escucho aún tu plácida quejumbre,</l>
+     <l n="2" met="-+-+---+-">gigante río. ¡Límpida guirnalda</l>
+     <l n="3" met="-++--+---+-">tu sien orne y del médano la falda</l>
+     <l n="4" met="+----+---+-">ciñas con aparente mansedumbre!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">Del sol hermoso la divina lumbre</l>
+     <l n="6" met="-+-+-+---+-">retrátase en tu linfa de esmeralda</l>
+     <l n="7" met="-+-++-+--+-">y en ti se vea tinta de oro y gualda</l>
+     <l n="8" met="---+---+-+-">del Citlatépetl la nevada cumbre.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+---+-+-">De tus riberas el papayo rico</l>
+     <l n="10" met="-+-+-+---+-">la poma ostente en nido de verdura</l>
+     <l n="11" met="-+-+---+-+-">del tordo herida por el rojo pico</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">y mézclanse tus palmas en la altura</l>
+     <l n="13" met="+-+--+---+-">blandamente agitando el abanico</l>
+     <l n="14" met="-+---+-+-+-">que al dulce Tlacotalpan da frescura.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

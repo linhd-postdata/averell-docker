@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A don Alonso de Ercilla</title>
+    <author>Leonor de Iciz</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Leonor de Iciz_a-don-alonso-de-ercilla</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A don Alonso de Ercilla</title>
+     <author>Leonor de Iciz</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A don Alonso de Ercilla</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++---+-+-+-">Mil bronces para estatuas ya forjados,</l>
+     <l n="2" met="++---+-+-+-">mil lauros, de tus obras premio honroso,</l>
+     <l n="3" met="++-+-+---+-">te ofrece España, Ercilla generoso,</l>
+     <l n="4" met="--+--+-+-+-">por tu pluma y tu lanza tan ganados.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+---+-">Hónrese tu valor entre soldados,</l>
+     <l n="6" met="-+---+---+-">envidie tu nobleza el valeroso,</l>
+     <l n="7" met="-+-+-+-+-+-">y busque en ti el poeta más famoso</l>
+     <l n="8" met="+----+-+-+-">lima para sus versos más limados.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">Derrame por el mundo tus loores</l>
+     <l n="10" met="-+---+---+-">la fama, y eternice tu memoria,</l>
+     <l n="11" met="---+-+-+-+-">porque jamás el tiempo la consuma.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+-+-+-">Gocen ya, sin temor de que hay mayores,</l>
+     <l n="13" met="-+---+--++-">tus hechos y tus libros de igual gloria,</l>
+     <l n="14" met="-+-+-+-+-+-">pues la han ganado igual la espada y pluma.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

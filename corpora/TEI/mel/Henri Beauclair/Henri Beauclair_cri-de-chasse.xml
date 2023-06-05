@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Cri de Chasse</title>
+    <author>Henri Beauclair</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Henri Beauclair_cri-de-chasse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Cri de Chasse</title>
+     <author>Henri Beauclair</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Cri de Chasse</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Persilleuses, au bois ! Cupidon ! Cupidon !</l>
+     <l n="2" rhyme="a" line_length="6+6">Mettez aux yeux le kohl ! au cheval, le bridon,</l>
+     <l n="3" rhyme="b" line_length="8">Et par les boulevards, et par les verts sentiers</l>
+     <l n="4" rhyme="c" line_length="6+6">Au superbe galop de vos pur sang altiers,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">A vous l'âme et le corps des hommes abhorrés !</l>
+     <l n="6" rhyme="a" line_length="6+6">Que Vénus vous protège ! Allez ! Volez ! Montrez,</l>
+     <l n="7" rhyme="b" line_length="8">Vos masques rayonnants d'impudeurs ; en avant !</l>
+     <l n="8" rhyme="c" line_length="6+6">Et, comme des drapeaux, laissez flotter au vent</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Que vos yeux meurtriers jettent de mauvais sorts</l>
+     <l n="10" rhyme="a" line_length="6+6">Sur tous les pschutts que vont croiser vos huit ressorts !</l>
+     <l n="11" rhyme="b" line_length="8">Et vous tiendrez toujours, dans vos fragiles mains,</l>
+     <l n="12" rhyme="c" line_length="6+6">La ville radieuse, où mènent tous chemins,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Cos chtěl jsem říc.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_cos-chtel-jsem-ric</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Cos chtěl jsem říc.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Cos chtěl jsem říc.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010101" rhyme="1" line_length="10">Už zhořklo všechno – Nutno ještě žít!</l>
+     <l n="2" met="01010101000" rhyme="2" line_length="11">Už ptáci dávno na jih odletěli.</l>
+     <l n="3" met="0101010101" rhyme="1" line_length="10">Je cesta dlouhá. Ještě chvíli jít –</l>
+     <l n="4" met="01010101010" rhyme="2" line_length="11">Prý ptáci cestou stromům cos říc chtěli...!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001010100" rhyme="3" line_length="10">Do noci jasné dlouho, dlouho tak</l>
+     <l n="6" met="01010001010" rhyme="2" line_length="11">prý květy zvědavé – a marně – bděly...!</l>
+     <l n="7" met="1001010000" rhyme="3" line_length="10">Mlčely oči rozsmutnělé však,</l>
+     <l n="8" met="10010101010" rhyme="2" line_length="11">mlčely oči, jež cos říci chtěly –</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1100010010" rhyme="4" line_length="10">Ó poutníče, jenž zamlklý jdeš sám,</l>
+     <l n="10" met="01010101010" rhyme="5" line_length="11">až znaven v dlaně skloníš svoje čelo,</l>
+     <l n="11" met="0100100101" rhyme="4" line_length="10">a opuštěn propadat budeš tmám,</l>
+     <l n="12" met="01010001010" rhyme="5" line_length="11">zda pomníš, srdce že cos říci chtělo!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

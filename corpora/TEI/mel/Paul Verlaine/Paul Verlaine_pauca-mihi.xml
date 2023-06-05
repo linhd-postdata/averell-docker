@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PAUCA MIHI</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_pauca-mihi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PAUCA MIHI</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PAUCA MIHI</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+6">Bon pied, bon œil, or je ne les ai plus,</l>
+     <l n="2" rhyme="b" line_length="4+6">Puisque je rampe en vertu d’une arthrite,</l>
+     <l n="3" rhyme="b" line_length="4+6">Et que je vois si peu, grâce à l’invite</l>
+     <l n="4" rhyme="a" line_length="4−6">De verres à me trahir résolus ;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="4+6">Mon estomac, jadis divin et plus,</l>
+     <l n="6" rhyme="b" line_length="4+6">Plonge — depuis quand donc ? — dans la pituite</l>
+     <l n="7" rhyme="b" line_length="4+6">Pour ne jamais, même sans nulle cuite,</l>
+     <l n="8" rhyme="a" line_length="4+6">S’en tirer que par ô quels trucs fallus !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="4−6">Le Dé-cou-ra-ge-ment, enfin ! commence</l>
+     <l n="10" rhyme="d" line_length="4+6">À m’envahir très sérieusement :</l>
+     <l n="11" rhyme="d" line_length="4+6">Ce serait fait pour s’ennuyer vraiment</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="c" line_length="4+6">Si je n’avais eu cette chance immense,</l>
+     <l n="13" rhyme="e" line_length="4+6">En ce malheur triplement réussi</l>
+     <l n="14" rhyme="e" line_length="4+6">De devenir biblio-chose aussi !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

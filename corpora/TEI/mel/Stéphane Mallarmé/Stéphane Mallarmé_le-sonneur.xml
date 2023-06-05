@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LE SONNEUR</title>
+    <author>Stéphane Mallarmé</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Stéphane Mallarmé_le-sonneur</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LE SONNEUR</title>
+     <author>Stéphane Mallarmé</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LE SONNEUR</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Cependant que la cloche éveille sa voix claire</l>
+     <l n="2" rhyme="b" line_length="6+6">À l'air pur et limpide et profond du matin</l>
+     <l n="3" rhyme="a" line_length="6+6">Et passe sur l'enfant qui jette pour lui plaire</l>
+     <l n="4" rhyme="b" line_length="6+6">Un angélus parmi la lavande et le thym,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Le sonneur effleuré par l'oiseau qu'il éclaire,</l>
+     <l n="6" rhyme="b" line_length="6+6">Chevauchant tristement en geignant du latin</l>
+     <l n="7" rhyme="a" line_length="6+6">Sur la pierre qui tend la corde séculaire,</l>
+     <l n="8" rhyme="b" line_length="6+6">N'entend descendre à lui qu'un tintement lointain.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Je suis cet homme. Hélas ! de la nuit désireuse,</l>
+     <l n="10" rhyme="d" line_length="6+6">J'ai beau tirer le câble à sonner l'Idéal,</l>
+     <l n="11" rhyme="d" line_length="6+6">De froids péchés s'ébat un plumage féal,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="c" line_length="6+6">Et la voix ne me vient que par bribes et creuse !</l>
+     <l n="13" rhyme="e" line_length="6+6">Mais, un jour, fatigué d'avoir en vain tiré,</l>
+     <l n="14" rhyme="e" line_length="6+6">O Satan, j'ôterai la pierre et me pendrai.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

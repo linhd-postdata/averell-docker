@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Lovec.</title>
+    <author>Kyselý, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kyselý, František_lovec</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Lovec.</title>
+     <author>Kyselý, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Lovec.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1101010001" rhyme="1" line_length="10">Žas velký Jana Leonarda jal,</l>
+     <l n="2" met="0101000100" rhyme="1" line_length="10">když lovce podivného zuhlídal.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="0100010100" rhyme="2" line_length="10">Jej osloviti váhal okamžik</l>
+     <l n="4" met="1001000100" rhyme="2" line_length="10">a již naň jásavě a toužně vzkřik’:</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="1100110100" rhyme="3" line_length="10">„Ó, Pane můj, ó, sladký Ježíši,</l>
+     <l n="6" met="0101010100" rhyme="3" line_length="10">nač luk ten neseš zemských do říší?</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="0101010100" rhyme="4" line_length="10">Kam pustit hodláš s pružné tětivy</l>
+     <l n="8" met="0100010100" rhyme="4" line_length="10">ten dobývavý šíp svůj ohnivý?“</l>
+    </lg>
+    <lg n="5">
+     <l n="9" met="0001010100" rhyme="5" line_length="10">Jak ten, kdo málo od svých uznáván,</l>
+     <l n="10" met="1100010101" rhyme="5" line_length="10">děl zvědavému s něžnou výtkou Pán:</l>
+    </lg>
+    <lg n="6">
+     <l n="11" met="0101010001" rhyme="6" line_length="10">„Je možno, abych lásky byl kdy syt?</l>
+     <l n="12" met="1101010100" rhyme="6" line_length="10">Jdu sobě nových srdcí nalovit.“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

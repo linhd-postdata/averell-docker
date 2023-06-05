@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>-IV- Al Escorial</title>
+    <author>Gongora</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Gongora_iv-al-escorial</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>-IV- Al Escorial</title>
+     <author>Gongora</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>-IV- Al Escorial</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+---+-">Sacros, altos, dorados capiteles,</l>
+     <l n="2" met="--+--+---+-">que a las nubes robáis los arreboles,</l>
+     <l n="3" met="+-+--+-+-+-">Febo os teme por más lucientes soles,</l>
+     <l n="4" met="-+---+-+-+-">y el cielo por gigantes más crueles.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+--++-">Depón tus rayos, Júpiter; no celes</l>
+     <l n="6" met="-+-+++-+-+-">los tuyos, sol; de un templo son faroles,</l>
+     <l n="7" met="--++-----+-">que al mayor mártir de los españoles</l>
+     <l n="8" met="--+-++--++-">erigió el mayor rey de los más fieles.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Religiosa grandeza del monarca</l>
+     <l n="10" met="--+--+-+-+-">cuya diestra real al Nuevo Mundo</l>
+     <l n="11" met="-+---+---+-">abrevia y el Oriente se le humilla,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">perdone el tiempo, lisonjee la Parca</l>
+     <l n="13" met="--++-+---+-">la verdad de esta octava maravilla,</l>
+     <l n="14" met="-+-+---+-+-">los años de este Salomón segundo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

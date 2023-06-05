@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Puerto desconocido...</title>
+    <author>Tomás Morales</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tomás Morales_puerto-desconocido</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Puerto desconocido...</title>
+     <author>Tomás Morales</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Puerto desconocido...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="+----+------+-">Puerto desconocido, desde donde partimos</l>
+     <l n="2" met="+-+--+-+---+-+">esta noche, llevándonos el corazón opreso;</l>
+     <l n="3" met="--+--+---+--+-">cuando estamos a bordo, y en el alma sentimos</l>
+     <l n="4" met="-+---+---+---+">brotar la melancólica ternura del regreso...</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+---+">Silencio; tras los mástiles la luna, pensativa,</l>
+     <l n="6" met="---+-+----+-+-">en las inquietas ondas su plenitud dilata;</l>
+     <l n="7" met="--+--+----+-+-">y en el cielo invadido por la pereza estiva,</l>
+     <l n="8" met="--+--+---+--+-">las estrellas fulguran como clavos de plata...</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--++++-+-+--+-">¡Oh, sentirnos tan solos esta noche infinita,</l>
+     <l n="10" met="--++-+----+-+-">cuando, acaso, un suspiro de nuestra fe marchita</l>
+     <l n="11" met="+++--+--+--+-">va a unirse al encantado rumor del oleaje!...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+--+-">Y emprender, agobiados, la penosa partida</l>
+     <l n="13" met="-++--+-+----+-">sin que un blanco pañuelo nos de la despedida</l>
+     <l n="14" met="++-+-+--++-++-">ni haya una voz amiga que nos grite: ¡Buen viaje!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

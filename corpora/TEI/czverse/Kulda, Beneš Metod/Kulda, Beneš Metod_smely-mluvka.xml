@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Smělý mluvka.</title>
+    <author>Kulda, Beneš Metod</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kulda, Beneš Metod_smely-mluvka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Smělý mluvka.</title>
+     <author>Kulda, Beneš Metod</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Smělý mluvka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Každý rouhač blbě plká,</l>
+     <l n="2" met="10101010" rhyme="1" line_length="8">v každém poznáš dravce vlka;</l>
+     <l n="3" met="00101010" rhyme="2" line_length="8">kéž by spásnou moudrost hledal</l>
+     <l n="4" met="10101010" rhyme="2" line_length="8">a se ďáblem klamat nedal.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="3" line_length="8">Jenom rozum velmi chudý</l>
+     <l n="6" met="10101010" rhyme="3" line_length="8">chválí hříšný prapor rudý.</l>
+     <l n="7" met="0110101" rhyme="4" line_length="7">Kdo chce pod ním žít a mřít,</l>
+     <l n="8" met="1010101" rhyme="4" line_length="7">bude bídný konec mít.</l>
+     <l n="9" met="0000101" rhyme="5" line_length="7">Kéž by kde kdo ještě v čas</l>
+     <l n="10" met="1010101" rhyme="5" line_length="7">přijal v duši Boží hlas!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

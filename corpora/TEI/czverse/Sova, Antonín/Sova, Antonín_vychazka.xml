@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VYCHÁZKA</title>
+    <author>Sova, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sova, Antonín_vychazka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VYCHÁZKA</title>
+     <author>Sova, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VYCHÁZKA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101010100" rhyme="1" line_length="12">Na mechu ležím, čtu. Jak voní březoví!</l>
+     <l n="2" met="010100110100" rhyme="1" line_length="12">Teď z cesty v úvozu znít slyším podkovy</l>
+     <l n="3" met="010100010101" rhyme="2" line_length="12">a vrzat nápravy. Je jaro. Rachot kol</l>
+     <l n="4" met="100100010001" rhyme="2" line_length="12">po stráni zaniká, pak nehne se ni stvol.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101100100" rhyme="3" line_length="12">Skrz listí střemchy dech v slunečno proudí mdle,</l>
+     <l n="6" met="010100010100" rhyme="3" line_length="12">a stíny v údolí jsou vláhou prochladlé,</l>
+     <l n="7" met="010100010101" rhyme="4" line_length="12">tou vláhou hlinitou, již s vůní dýchá zem!</l>
+     <l n="8" met="110100010100" rhyme="4" line_length="12">Lesk slídy jiskřivý se z roklí láme sem.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010001010100" rhyme="5" line_length="12">Jak churavému psu, jenž v městě zavřen byl,</l>
+     <l n="10" met="010100100100" rhyme="5" line_length="12">svůj řetěz přerazil, náhubek odhodil:</l>
+     <l n="11" met="010100010100" rhyme="6" line_length="12">tak věru volno mi. Jak psu, jenž káru táh’.</l>
+     <l n="12" met="010100110100" rhyme="6" line_length="12">Teď líže rány své skryt pušce v houštinách.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

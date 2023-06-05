@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>De La Galatea, Libro V, Erastro</title>
+    <author>Cervantes</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cervantes_de-la-galatea-libro-v-erastro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>ADSO 100 poems corpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>De La Galatea, Libro V, Erastro</title>
+     <author>Cervantes</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>De La Galatea, Libro V, Erastro</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+-+-+-">Por ásperos caminos voy siguiendo</l>
+     <l n="2" met="-+-+-----+-">el fin dudoso de mi fantasía,</l>
+     <l n="3" met="+--+-+-+-+-">siempre en cerrada noche oscura y fría</l>
+     <l n="4" met="-+---+---+-">las fuerzas de la vida consumiendo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+-+-+-">Y aunque morir me veo, no pretendo</l>
+     <l n="6" met="-+++---+-+-">salir un paso de la estrecha vía;</l>
+     <l n="7" met="-+-+-+--++-">que en fe de la alta fe sin igual mía,</l>
+     <l n="8" met="-+-+---+-+-">mayores miedos contrastar entiendo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">Mi fe es la luz que me señala el puerto</l>
+     <l n="10" met="-+---+-+++-">seguro a mi tormenta, y sola es ella</l>
+     <l n="11" met="---+-++--+-">quien promete buen fin a mi viaje,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">por más que el medio se me muestre incierto,</l>
+     <l n="13" met="-+-+-+---+-">por más que el claro rayo de mi estrella</l>
+     <l n="14" met="-+-+-+-+-+-">me encubra amor, y el cielo más me ultraje.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

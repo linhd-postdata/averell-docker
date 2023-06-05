@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>GUITARE</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_guitare</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>GUITARE</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>GUITARE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="5+5">Vous avez, madame, une grâce exquise,</l>
+     <l n="2" rhyme="b" line_length="5+5">Une douceur noble, un bel enjouement,</l>
+     <l n="3" rhyme="b" line_length="5+5">Un regard céleste, un bonnet charmant,</l>
+     <l n="4" rhyme="a" line_length="5+5">L'air d'une déesse et d'une marquise.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="5+5">Vos attraits piquants, fiers et singuliers,</l>
+     <l n="6" rhyme="b" line_length="5+5">Dignes des Circés, dignes des Armides,</l>
+     <l n="7" rhyme="b" line_length="5+5">Font lever les yeux même aux plus timides</l>
+     <l n="8" rhyme="a" line_length="5+5">Et baisser le ton aux plus familiers.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="5+5">La nuit, quand je vois, dans les cieux sans voiles,</l>
+     <l n="10" rhyme="b" line_length="5+5">Les étoiles-d'or, mon cœur songe à vous ;</l>
+     <l n="11" rhyme="b" line_length="5+5">Le jour, jeune belle aux regards si doux,</l>
+     <l n="12" rhyme="a" line_length="5+5">Lorsque je vous vois, je songe aux étoiles.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

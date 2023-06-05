@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Paix</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_la-paix</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Paix</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Paix</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">La Paix, au milieu des moissons,</l>
+     <l n="2" rhyme="b" line_length="8">Allaite de beaux enfants nus.</l>
+     <l n="3" rhyme="b" line_length="8">A l'entour, des chœurs ingénus</l>
+     <l n="4" rhyme="a" line_length="8">Dansent au doux bruit des chansons.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Le soleil luit dans les buissons,</l>
+     <l n="6" rhyme="b" line_length="8">Et sous les vieux arbres chenus</l>
+     <l n="7" rhyme="a" line_length="8">La Paix, au milieu des moissons,</l>
+     <l n="8" rhyme="b" line_length="8">Allaite de beaux enfants nus.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Les fleurs ont de charmants frissons.</l>
+     <l n="10" rhyme="b" line_length="8">Les travailleurs aux bras charnus,</l>
+     <l n="11" rhyme="b" line_length="8">Hier soldats, sont revenus,</l>
+     <l n="12" rhyme="a" line_length="8">Et tranquilles, nous bénissons</l>
+     <l n="13" rhyme="a" line_length="8">La Paix, au milieu des moissons.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

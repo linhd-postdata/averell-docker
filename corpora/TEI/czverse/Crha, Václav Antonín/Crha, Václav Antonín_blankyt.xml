@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Blankyt.</title>
+    <author>Crha, Václav Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Crha, Václav Antonín_blankyt</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Blankyt.</title>
+     <author>Crha, Václav Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Blankyt.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101000" line_length="8">Když jsem dívko, do blankytu</l>
+     <l n="2" met="1000100" rhyme="1" line_length="7">oček Tvých se pohroužil:</l>
+     <l n="3" met="10001010" line_length="8">ó jak jsem se po tom nebi,</l>
+     <l n="4" met="0010100" rhyme="1" line_length="7">co v nich dříme, roztoužil!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00101010" line_length="8">Když pak musím nyní žíti,</l>
+     <l n="6" met="1001100" rhyme="2" line_length="7">dívenko má, bez Tebe:</l>
+     <l n="7" met="10001010" line_length="8">anjílkem jsi a já lítám</l>
+     <l n="8" met="1010100" rhyme="2" line_length="7">s písní k Tobě do nebe.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01001010" line_length="8">Jak skřivánek zpívám sobě,</l>
+     <l n="10" met="1000100" rhyme="3" line_length="7">vznášeje se k blankytu:</l>
+     <l n="11" met="10001010" line_length="8">za dne tam své nebe hledám,</l>
+     <l n="12" met="1010100" rhyme="3" line_length="7">večer – v srdce úkrytu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

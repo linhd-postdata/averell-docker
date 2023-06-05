@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>STARÁ BAJKA</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_stara-bajka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>STARÁ BAJKA</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>STARÁ BAJKA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">Šnek se vsadil ondy v Brně</l>
+     <l n="2" met="100" rhyme="1" line_length="3">u dráhy,</l>
+     <l n="3" met="01000010" line_length="8">že doleze dřív než rychlík</l>
+     <l n="4" met="100" rhyme="1" line_length="3">do Prahy.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" line_length="8">Čekáte teď lidé zlatí,</l>
+     <l n="6" met="101" rhyme="2" line_length="3">vtip a div?</l>
+     <l n="7" met="01101010" line_length="8">Ne. Vlak dojel o pět minut</l>
+     <l n="8" met="100" rhyme="2" line_length="3">k cíli dřív.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

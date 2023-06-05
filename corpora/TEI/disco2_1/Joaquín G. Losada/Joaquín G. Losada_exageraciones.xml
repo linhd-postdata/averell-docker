@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Exageraciones</title>
+    <author>Joaquín G. Losada</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Joaquín G. Losada_exageraciones</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Exageraciones</title>
+     <author>Joaquín G. Losada</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Exageraciones</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+---+--+-">¿Qué se dice en el pueblo? ¿Qué murmura</l>
+     <l n="2" met="-+-+---+-+-">de mí esa ingrata y pervertida gente?</l>
+     <l n="3" met="--+--+---+-">preguntó al sacristán, su confidente,</l>
+     <l n="4" met="++---+---+-">un párroco rural de Extremadura.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--++--+-">-Dicen... ¡qué atrocidad!... una impostura.</l>
+     <l n="6" met="+-+--+-+-+-">-Háblame sin rodeos, francamente.</l>
+     <l n="7" met="-++--++--+-">-Pues no hay por aquí chico viviente</l>
+     <l n="8" met="-++--+--++-">que no le pertenezca, señor cura.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">Lanzó un suspiro místico frailuno</l>
+     <l n="10" met="--+-+-+-++-">el pater, y exclamo: ¡Voto a mil santos!</l>
+     <l n="11" met="+--+---+-+-">¡cómo exageran las flaquezas de uno!</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++---+---+-">Me gustan de las hembras los encantos,</l>
+     <l n="13" met="+-+-++-+-">y esos chicos... tal vez... tal vez alguno...</l>
+     <l n="14" met="--++++++-">pero ya tantos, no. No, ¡ya no tantos!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

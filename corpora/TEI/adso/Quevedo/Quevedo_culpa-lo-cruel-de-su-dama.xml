@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Culpa lo cruel de su dama </title>
+    <author>Quevedo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quevedo_culpa-lo-cruel-de-su-dama</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Culpa lo cruel de su dama </title>
+     <author>Quevedo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Culpa lo cruel de su dama </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--++--+-+-">Hay en Sicilia una famosa fuente</l>
+     <l n="2" met="-+-+---+-+-">que en piedra torna cuanto moja y baña,</l>
+     <l n="3" met="---+---+-+-">de donde huye la ligera caña</l>
+     <l n="4" met="-+-+---+-+-">el vil rigor del natural corriente.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+---+-">Y desde el pie gallardo hasta la frente,</l>
+     <l n="6" met="--++---+-+-">Anaxar(e)te, de dureza extraña,</l>
+     <l n="7" met="--+-++---+-">convertida fue en piedra, y en España</l>
+     <l n="8" met="-+-+-+-+-+-">pudiera dar ejemplo más patente.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-++--+-">Mas donde vos estáis es excusado</l>
+     <l n="10" met="-+-+-+---+-">buscar ejemplo en todas las criaturas,</l>
+     <l n="11" met="--+--+---+-">pues mis quejas jamás os ablandaron.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">Y al fin estoy a creer determinado</l>
+     <l n="13" met="-++--+-+-+-">que algún monte os parió de entrañas duras,</l>
+     <l n="14" met="---+-+---+-">o que en aquesta fuente os bautizaron.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

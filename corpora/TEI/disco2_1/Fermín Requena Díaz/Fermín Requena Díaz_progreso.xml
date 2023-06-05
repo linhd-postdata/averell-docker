@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Progreso</title>
+    <author>Fermín Requena Díaz</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fermín Requena Díaz_progreso</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Progreso</title>
+     <author>Fermín Requena Díaz</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Progreso</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--++--+-">¡Paso! dice su voz fuerte y vibrante,</l>
+     <l n="2" met="-+---+-+-+-">y el eco melodioso allá retumba,</l>
+     <l n="3" met="--+--+---+-">en el místico arrobo de la tumba</l>
+     <l n="4" met="--+--+---+-">y en el mundo que bulle discordante.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">¡Paso! dice, incansable caminante,</l>
+     <l n="6" met="---+---+-+-">y con la furia de huracán que zumba,</l>
+     <l n="7" met="-+---+---+-">arrastra las maldades a ultratumba,</l>
+     <l n="8" met="---+---+-+-">enarbolando la verdad triunfante.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+-+-">Coge del bien la germinal semilla,</l>
+     <l n="10" met="---+---+-+-">y tras su verde y celestial aurora</l>
+     <l n="11" met="-+---+-+-+-">la estrella del amor, fulgente brilla:</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+----+-+-+-">Dando su resplandor a toda hora,</l>
+     <l n="13" met="+-+--+---+-">siendo faro de mares en la orilla,</l>
+     <l n="14" met="--+--+---+-">y en la tierra voraz locomotora.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sur une croix</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_sur-une-croix</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sur une croix</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sur une croix</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Dans ce pays lugubre et si loin de la foule,</l>
+     <l n="2" rhyme="b" line_length="8">Bien souvent m'attirait avec sa grande croix</l>
+     <l n="3" rhyme="b" line_length="6+6">Dont la tête et les bras se terminaient en boule.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="a" line_length="6+6">Or, fin d'automne, un soir que tout était plongé</l>
+     <l n="5" rhyme="b" line_length="8">Je m'arrêtai pour voir la croix du cimetière…</l>
+    </lg>
+    <lg n="3">
+     <l n="6" rhyme="a" line_length="6+6">De façon peu sensible et pourtant singulière,</l>
+     <l n="7" rhyme="b" line_length="8">Et, curieusement, saisi, le sang figé,</l>
+     <l n="8" rhyme="b" line_length="6+6">Vers elle je tenais tendus l'œil et le cou,</l>
+     <l n="9" rhyme="a" line_length="8">Cette bête incarnait l'âme d'un mauvais mort</l>
+     <l n="10" rhyme="a" line_length="6+6">Sur le haut de la croix méditant son remord.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

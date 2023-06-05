@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VENTRE CREUX</title>
+    <author>Eugène Pottier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Eugène Pottier_ventre-creux</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VENTRE CREUX</title>
+     <author>Eugène Pottier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VENTRE CREUX</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="7">J'ai faim, disait Ventre creux</l>
+     <l n="2" rhyme="b" line_length="5">Je suis las des fruits véreux</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="7">Peuple, me dit en tout lieu</l>
+     <l n="4" rhyme="b" line_length="5">On ne fait bon pot-au-feu</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="7">Un gras marguillier sans fiel,</l>
+     <l n="6" rhyme="b" line_length="5">Me dit : Tu gagnes le ciel.</l>
+    </lg>
+    <lg n="4">
+     <l n="7" rhyme="a" line_length="7">Un meneur fort amical</l>
+     <l n="8" rhyme="b" line_length="5">Prends un Bourgeois radical</l>
+    </lg>
+    <lg n="5">
+     <l n="9" rhyme="a" line_length="7">Pour qui ces torches là-bas,</l>
+     <l n="10" rhyme="b" line_length="5">Quel est ce dieu ? — le bœuf gras !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

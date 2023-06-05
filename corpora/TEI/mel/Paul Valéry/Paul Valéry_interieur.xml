@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Intérieur</title>
+    <author>Paul Valéry</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Valéry_interieur</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Intérieur</title>
+     <author>Paul Valéry</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Intérieur</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Une esclave aux longs yeux chargés de molles chaînes</l>
+     <l n="2" rhyme="a" line_length="6+6">Change l’eau de mes fleurs, plonge aux glaces prochaines,</l>
+     <l n="3" rhyme="b" line_length="6+6">Au lit mystérieux prodigue ses doigts purs ;</l>
+     <l n="4" rhyme="b" line_length="6+6">Elle met une femme au milieu de ces murs</l>
+     <l n="5" rhyme="a" line_length="6+6">Qui, dans ma rêverie errant avec décence,</l>
+     <l n="6" rhyme="a" line_length="6+6">Passe entre mes regards sans briser leur absence,</l>
+     <l n="7" rhyme="b" line_length="6+6">Comme passe le verre au travers du soleil,</l>
+     <l n="8" rhyme="b" line_length="6+6">Et de la raison pure épargne l’appareil.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

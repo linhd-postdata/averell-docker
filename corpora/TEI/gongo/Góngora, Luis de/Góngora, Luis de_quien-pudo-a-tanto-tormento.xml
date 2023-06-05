@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>¿Quién pudo a tanto tormento</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_quien-pudo-a-tanto-tormento</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>¿Quién pudo a tanto tormento</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>¿Quién pudo a tanto tormento</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="++-+--+-" line_length="8">¿Quién pudo a tanto tormento</l>
+     <l n="2" met="++--+-+-" line_length="8">dar gloria en tan breve suma?</l>
+     <l n="3" met="+-++--+-" line_length="8">Otra no fue que tu pluma,</l>
+     <l n="4" met="+-++--+-" line_length="8">otro no fue que tu aliento.</l>
+     <l n="5" met="---+--+-" line_length="8">A tu canoro instrumento</l>
+     <l n="6" met="---+--+-" line_length="8">Anaxtarax lisonjea,</l>
+     <l n="7" met="--+-+-+-" line_length="8">por que tuyo el nombre sea</l>
+     <l n="8" met="+--+--+-" line_length="8">que hoy se repite feliz,</l>
+     <l n="9" met="--+---+-" line_length="8">o a la espada de Amadís,</l>
+     <l n="10" met="--+---+-" line_length="8">o a la Gloria de Niquea.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

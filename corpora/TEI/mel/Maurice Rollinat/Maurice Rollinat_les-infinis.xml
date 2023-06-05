@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les Infinis</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_les-infinis</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Les Infinis</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Les Infinis</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Vertigineux géant du désert qu'il écrase,</l>
+     <l n="2" rhyme="b" line_length="6+6">La tête dans l'azur et le pied dans la mer,</l>
+     <l n="3" rhyme="b" line_length="6+6">Le mont découpe, ardent, sous le dôme de l'air,</l>
+     <l n="4" rhyme="a" line_length="6+6">Son farouche horizon de chaos en extase.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">Le vide où, par instants, des vents de feu circulent,</l>
+     <l n="6" rhyme="d" line_length="6+6">Tend son gouffre comblé par son rutilement ;</l>
+     <l n="7" rhyme="d" line_length="6+6">L'onde et la nue, ayant même bleuissement,</l>
+     <l n="8" rhyme="c" line_length="6+6">Face à face vibrants, s'éblouissent et brûlent.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="6+6">Là, ce que la Nature a de plus éternel :</l>
+     <l n="10" rhyme="e" line_length="6+6">L'Espace, l'Océan, la Montagne, le Ciel,</l>
+     <l n="11" rhyme="f" line_length="6+6">Souffre pompeusement la lumière embrasée :</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="6+6">Puis, la Nuit vient, gazant sous ses voiles bénis</l>
+     <l n="13" rhyme="g" line_length="6+6">La Lune, spectre errant de ces quatre infinis</l>
+     <l n="14" rhyme="f" line_length="6+6">Qui boivent les soupirs de son âme glacée.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ztracená píseň</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_ztracena-pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ztracená píseň</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ztracená píseň</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101000" rhyme="1" line_length="11">Lyrická duše, jak jsi zapomněla,</l>
+     <l n="2" met="0101000101" rhyme="2" line_length="10">že z par se nadzvedá tvůj sněný svět!</l>
+     <l n="3" met="01010100010" rhyme="1" line_length="11">Zas krouží listí... Věčnost je to celá,</l>
+     <l n="4" met="01000100010" rhyme="1" line_length="11">kdy pod závoji naslouchat jsi směla,</l>
+     <l n="5" met="0101010100" rhyme="2" line_length="10">jak rytmus barev zpíval naposled.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="10010101000" rhyme="3" line_length="11">Lyrická duše, promluv. Ojíněná</l>
+     <l n="7" met="0101000100" rhyme="4" line_length="10">teď rána zírají ti do oken.</l>
+     <l n="8" met="11010111010" rhyme="3" line_length="11">Rým kolem ucha lét, zbyl beze jména,</l>
+     <l n="9" met="01000101000" rhyme="3" line_length="11">tvá odcházela píseň oslyšena,</l>
+     <l n="10" met="1101000100" rhyme="4" line_length="10">zmlk dech tvůj neprocitlý, nezkojen.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="11010001010" rhyme="5" line_length="11">Jdeš, přísná, zimě vstříc. Leč toho hlasu,</l>
+     <l n="12" met="0101000101" rhyme="6" line_length="10">jenž láká v alejích a z vinic lká,</l>
+     <l n="13" met="01011100010" rhyme="5" line_length="11">jenž, dítě mlh, zná podjeseně krásu</l>
+     <l n="14" met="01010101000" rhyme="5" line_length="11">a z šera zrozen, šeptá v polojasu,</l>
+     <l n="15" met="0100010100" rhyme="6" line_length="10">proč neslyšelas, duše lyrická!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

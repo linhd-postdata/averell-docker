@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XLIX</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">11</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_xlix</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XLIX</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XLIX</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="6+6">Oh ! que d'amis j'ai vus à pas lents disparaître !</l>
+     <l n="2" rhyme="a" line_length="6+6">Que j'en ai vu quitter le chemin tour à tour,</l>
+     <l n="3" rhyme="a" line_length="6+6">Et, sortant de la vie avant la fin du jour,</l>
+     <l n="4" rhyme="b" line_length="6+6">Descendre le versant de la colline noire !</l>
+     <l n="5" rhyme="b" line_length="6+6">Combien, dont la gaîté me faisait vivre et croire,</l>
+     <l n="6" rhyme="a" line_length="6+6">Dont l'œil d'aise et d'amour semblait étinceler,</l>
+     <l n="7" rhyme="a" line_length="6+6">Ont cessé brusquement de rire et de parler,</l>
+     <l n="8" rhyme="b" line_length="6+6">Et pâles, frissonnants, tristes, la main glacée,</l>
+     <l n="9" rhyme="b" line_length="6+6">Sans même terminer la phrase commencée,</l>
+     <l n="10" rhyme="a" line_length="6+6">S'en sont allés, laissant leur destin incomplet,</l>
+     <l n="11" rhyme="a" line_length="6+6">Comme si tout à coup quelqu'un les appelait !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

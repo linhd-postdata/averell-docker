@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les Colombes</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_les-colombes</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Les Colombes</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Les Colombes</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Puisque jusqu'à la fin et même autour des tombes,</l>
+     <l n="2" rhyme="b" line_length="6+6">La famille se serre et s'unit avec foi,</l>
+     <l n="3" rhyme="a" line_length="6+6">Aimons-nous ! Mes doux vers, ainsi que des colombes,</l>
+     <l n="4" rhyme="b" line_length="6+6">Ouvrent leur aile blanche et s'envolent vers toi.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Prends ces oiseaux pareils à la neige candide,</l>
+     <l n="6" rhyme="b" line_length="6+6">Et qui trouvent déjà l'oubli d'ombres voilé,</l>
+     <l n="7" rhyme="a" line_length="6+6">Après avoir brillé dans un azur splendide</l>
+     <l n="8" rhyme="b" line_length="6+6">Et plané dans les cieux de mon rêve étoilé.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">La Muse, enfant craintive, et que le monde lasse,</l>
+     <l n="10" rhyme="b" line_length="6+6">Vient dormir à tes pieds sur un méchant coussin.</l>
+     <l n="11" rhyme="a" line_length="6+6">Ma mère, écoute-la te parler à voix basse</l>
+     <l n="12" rhyme="b" line_length="6+6">Et cache en souriant sa tête dans ton sein.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

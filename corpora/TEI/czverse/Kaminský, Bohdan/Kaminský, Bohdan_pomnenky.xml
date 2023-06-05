@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>POMNĚNKY.</title>
+    <author>Kaminský, Bohdan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kaminský, Bohdan_pomnenky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>POMNĚNKY.</title>
+     <author>Kaminský, Bohdan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>POMNĚNKY.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01001001" rhyme="1" line_length="8">Jak naděje ve věků tmách,</l>
+     <l n="2" met="010001010" rhyme="2" line_length="9">jak v kalichu vám vůně spíte. –</l>
+     <l n="3" met="11010100" rhyme="1" line_length="8">Ó ticho, jděte po špičkách,</l>
+     <l n="4" met="110101000" rhyme="2" line_length="9">ó ticho, ať jich nevzbudíte.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11010100" rhyme="3" line_length="8">Ó ticho, ticho, ticho jen,</l>
+     <l n="6" met="010001010" rhyme="4" line_length="9">i pod nimi kdos dole spí mi,</l>
+     <l n="7" met="11000100" rhyme="3" line_length="8">spí uhýčkán a ukojen</l>
+     <l n="8" met="010001000" rhyme="4" line_length="9">jich písněmi tak blouznivými.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01001100" rhyme="5" line_length="8">A šeptem jich... Ó hleďte, zas</l>
+     <l n="10" met="010001010" rhyme="6" line_length="9">teď uklonily svoje hlavy, –</l>
+     <l n="11" met="01000101" rhyme="5" line_length="8">byl naděje to sladký hlas</l>
+     <l n="12" met="010011000" rhyme="6" line_length="9">či lítosti pláč usedavý?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

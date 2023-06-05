@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Plaine</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">8</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_la-plaine</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Plaine</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Plaine</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" />
+    <lg n="2" />
+    <lg n="3" />
+    <lg n="4" />
+    <lg n="5" />
+    <lg n="6" />
+    <lg n="7">
+     <l n="1" rhyme="a" line_length="8">S'étant à l'improviste envolé des roseaux</l>
+     <l n="2" rhyme="a" line_length="6+6">Et s'élevant tout droit vers la voûte éthérée,</l>
+    </lg>
+    <lg n="8">
+     <l n="3" rhyme="c" line_length="8">Monte, se perd, s'efface… on s'imagine voir</l>
+     <l n="4" rhyme="c" line_length="6+6">Deux âmes regagnant leur demeure sacrée.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

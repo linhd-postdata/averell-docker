@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Genre.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_genre</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Genre.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Genre.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" rhyme="1" line_length="8">Tichý domek na náměstí,</l>
+     <l n="2" met="1010101" rhyme="2" line_length="7">stěny bílé jako sníh;</l>
+     <l n="3" met="10011010" rhyme="1" line_length="8">na oknech zříš stále kvésti</l>
+     <l n="4" met="1000100" rhyme="2" line_length="7">hortensie v levkojích.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="3" line_length="8">Záclon bílý lem se chýlí</l>
+     <l n="6" met="1000101" rhyme="4" line_length="7">nad květy a z jejich řas</l>
+     <l n="7" met="10101010" rhyme="3" line_length="8">kyne bledý profil milý,</l>
+     <l n="8" met="1010100" rhyme="4" line_length="7">v přítmí jizby mizí zas.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" rhyme="5" line_length="8">Bílý profil, černé vlasy,</l>
+     <l n="10" met="1010101" rhyme="6" line_length="7">hnědé oko s bezdnem hvězd.</l>
+     <l n="11" met="10001010" rhyme="5" line_length="8">Bože, co v tom tiché krásy...</l>
+     <l n="12" met="1010100" rhyme="6" line_length="7">bože, jak mi v srdci jest!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01100110" rhyme="7" line_length="8">Jak v snech žije tu den ke dni</l>
+     <l n="14" met="1010100" rhyme="8" line_length="7">jako tichá květina,</l>
+     <l n="15" met="10101000" rhyme="7" line_length="8">den se nahne ku poledni</l>
+     <l n="16" met="0110100" rhyme="8" line_length="7">a den v růžích zhasíná,</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="01101010" rhyme="9" line_length="8">a s hvězd padá mír a štěstí</l>
+     <l n="18" met="0100100" rhyme="10" line_length="7">v dál do srdcí zbloudilých</l>
+     <l n="19" met="10101110" rhyme="9" line_length="8">a já v dáli kol zřím kvésti</l>
+     <l n="20" met="1000100" rhyme="10" line_length="7">hortensie v levkojích!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

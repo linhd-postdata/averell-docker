@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sonnet</title>
+    <author>François Coppée</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>François Coppée_sonnet</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sonnet</title>
+     <author>François Coppée</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sonnet</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">A Tolède, c'était une ancienne coutume</l>
+     <l n="2" rhyme="b" line_length="6+6">Qu'avant de prendre enfin le titre d'ouvrier,</l>
+     <l n="3" rhyme="b" line_length="6+6">Pendant toute une nuit, chaque élève armurier</l>
+     <l n="4" rhyme="a" line_length="6+6">Veillât près du fourneau qui rougeoie et qui fume.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="b" line_length="6+6">Il façonnait alors un chef-d'œuvre d'acier</l>
+     <l n="6" rhyme="a" line_length="6+6">Souple comme un — roseau, léger comme une plume,</l>
+     <l n="7" rhyme="a" line_length="6+6">Et gravait sur l'estoc encor chaud de l'enclume</l>
+     <l n="8" rhyme="b" line_length="6+6">Le nom du maître afin de le remercier.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Ainsi pour toi, Ronsard, ma nuit s'est occupée.</l>
+     <l n="10" rhyme="d" line_length="6+6">J'ai tenté, moi, ton humble et fidèle apprenti,</l>
+     <l n="11" rhyme="c" line_length="6+6">Ton fier sonnet, flexible et fort comme une épée.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="d" line_length="6+6">Sous mon marteau sonore a longtemps retenti</l>
+     <l n="13" rhyme="e" line_length="6+6">Le bon métal qui sort vermeil de l'âtre en flamme ;</l>
+     <l n="14" rhyme="e" line_length="6+6">Et j'ai gravé ton nom glorieux sur la lame.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

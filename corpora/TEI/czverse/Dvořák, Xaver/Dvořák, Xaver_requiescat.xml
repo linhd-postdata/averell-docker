@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>REQUIESCAT!</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_requiescat</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>REQUIESCAT!</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>REQUIESCAT!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001001101" line_length="10">Nehnutá hladina! ó duše má!</l>
+     <l n="2" met="1001010100" line_length="10">vnímalas žhavých sluncí paprsky,</l>
+     <l n="3" met="100101010" line_length="9">prohřátá ke dnu hledíš tiše</l>
+     <l n="4" met="010010" rhyme="1" line_length="6">vstříc noci a chladu.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010100" line_length="10">Kéž západ vzplál už rudým požárem,</l>
+     <l n="6" met="1001000100" line_length="10">krví jak pýřící se nevěsta</l>
+     <l n="7" met="100101000" line_length="9">radostně šla bys ženichu vstříc,</l>
+     <l n="8" met="110010" rhyme="1" line_length="6">v týl halíc jen vnadu.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1101000100" line_length="10">V noc chladnou vystoupla bys tajemně</l>
+     <l n="10" met="010101000100" line_length="12">jak bílá mlha, klamající strážce své,</l>
+     <l n="11" met="010100110" line_length="9">již zdřímli na břehu – mdlí bojem,</l>
+     <l n="12" met="100100" rhyme="1" line_length="6">bez tuchy na zradu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

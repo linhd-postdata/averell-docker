@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Čechů květ.</title>
+    <author>Pok Poděbradský, Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pok Poděbradský, Václav_cechu-kvet</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Čechů květ.</title>
+     <author>Pok Poděbradský, Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Čechů květ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010101000" rhyme="1" line_length="12">Stará matko naše, Praho staroslavná,</l>
+     <l n="2" met="1010001010" rhyme="2" line_length="10">jaké v lůně svém to chováš kvítky?</l>
+     <l n="3" met="1010101010" rhyme="1" line_length="10">Mládež jará, zbožná, pilná, mravná:</l>
+     <l n="4" met="1100101010" rhyme="2" line_length="10">hle, to jsou tvých synův české dítky!</l>
+     <l n="5" met="101010100" rhyme="3" line_length="9">Český jinoch bodrý mládce jest,</l>
+     <l n="6" met="1010101000" rhyme="4" line_length="10">Boha, vlast a krále milující;</l>
+     <l n="7" met="101000101" rhyme="3" line_length="9">v srdci nevládne mu klam ni lest,</l>
+     <l n="8" met="1010101000" rhyme="4" line_length="10">dát vše v pravdy obět hárající.</l>
+     <l n="9" met="1010101010" rhyme="5" line_length="10">Vlohy ducha cvičit, tělo sílit,</l>
+     <l n="10" met="1010101010" rhyme="5" line_length="10">srdce šlechtit, k cíli práva pílit,</l>
+     <l n="11" met="101010101" rhyme="3" line_length="9">ctí svou hájit drahé vlasti čest:</l>
+     <l n="12" met="010010100" rhyme="3" line_length="9">toť jinochův českých sláva jest!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

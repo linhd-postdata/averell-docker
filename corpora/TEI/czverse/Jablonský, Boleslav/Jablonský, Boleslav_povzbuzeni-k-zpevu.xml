@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Povzbuzení k zpěvu.</title>
+    <author>Jablonský, Boleslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jablonský, Boleslav_povzbuzeni-k-zpevu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Povzbuzení k zpěvu.</title>
+     <author>Jablonský, Boleslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Povzbuzení k zpěvu.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" rhyme="1" line_length="8">Pějme písně liboplynné,</l>
+     <l n="2" met="1010100" rhyme="2" line_length="7">Písně české, druhové!</l>
+     <l n="3" met="10101100" rhyme="1" line_length="8">Dokud český zpěv nezhyne,</l>
+     <l n="4" met="1000100" rhyme="2" line_length="7">Nezhynou též Čechové!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001000" rhyme="3" line_length="8">Ohlídněm se do okresku</l>
+     <l n="6" met="1000100" rhyme="4" line_length="7">Po luzích i hájích všech –</l>
+     <l n="7" met="10001010" rhyme="3" line_length="8">Neuzříme místa v Česku,</l>
+     <l n="8" met="0010101" rhyme="4" line_length="7">Kde by nebyl zpíval Čech.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01101010" rhyme="5" line_length="8">Sám rek český písně bájil,</l>
+     <l n="10" met="1010100" rhyme="6" line_length="7">Písně vroucně miloval,</l>
+     <l n="11" met="10101010" rhyme="5" line_length="8">A když vlast svou chrabře hájil,</l>
+     <l n="12" met="1000100" rhyme="6" line_length="7">Písněmi též bojoval.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10001000" rhyme="7" line_length="8">Vyšehradem pohyboval</l>
+     <l n="14" met="1010100" rhyme="8" line_length="7">Slavný předek Záboje,</l>
+     <l n="15" met="00101000" rhyme="7" line_length="8">Když co Orfej prozpěvoval,</l>
+     <l n="16" met="1010100" rhyme="8" line_length="7">Zova bratry do boje.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10101010" rhyme="9" line_length="8">Pročež pějme písně plynné,</l>
+     <l n="18" met="1010100" rhyme="10" line_length="7">Písně české, druhové!</l>
+     <l n="19" met="10101100" rhyme="9" line_length="8">Dokud český zpěv nezhyne,</l>
+     <l n="20" met="1000100" rhyme="10" line_length="7">Nezhynou též Čechové!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

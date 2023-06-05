@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Snadná pomoc.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_snadna-pomoc</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Snadná pomoc.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Snadná pomoc.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010" rhyme="1" line_length="7">Jak skráň bys laurem ovil</l>
+     <l n="2" met="010001" rhyme="2" line_length="6">a nesmrtným se stal?</l>
+     <l n="3" met="010001" rhyme="3" line_length="6">To přesnadná jest věc:</l>
+     <l n="4" met="010100" rhyme="3" line_length="6">Jen vyslov, napiš přec,</l>
+     <l n="5" met="010101000" rhyme="1" line_length="9">co ještě nikdo nevyslovil,</l>
+     <l n="6" met="01010100" rhyme="2" line_length="8">co ještě nikdo nenapsal.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

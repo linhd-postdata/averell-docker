@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Tisbe</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_tisbe</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Tisbe</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Tisbe</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">En cet habit d'étoffe ancienne,</l>
+     <l n="2" rhyme="b" line_length="8">Tu sembles, au siècle des cours,</l>
+     <l n="3" rhyme="a" line_length="8">Une noble Vénitienne.</l>
+     <l n="4" rhyme="b" line_length="8">Cette dentelle aux mille jours</l>
+     <l n="5" rhyme="b" line_length="8">Est un nid fait pour les Amours :</l>
+     <l n="6" rhyme="c" line_length="8">Watteau, de la grâce idolâtre,</l>
+     <l n="7" rhyme="b" line_length="8">T'eût peinte en tes riches atours</l>
+     <l n="8" rhyme="c" line_length="8">Avec ce manteau de théâtre.</l>
+    </lg>
+    <lg n="2">
+     <l n="9" rhyme="a" line_length="8">C'est vers vous, les enchanteresses,</l>
+     <l n="10" rhyme="b" line_length="8">Que l'oiseau bleu tourne son vol !</l>
+     <l n="11" rhyme="a" line_length="8">A présent déroule ces tresses,</l>
+     <l n="12" rhyme="b" line_length="8">Jette ces perles sur ton col ;</l>
+     <l n="13" rhyme="b" line_length="8">Donne ta voix de rossignol</l>
+     <l n="14" rhyme="c" line_length="8">A Tisbe, l'ange aux mains fiévreuses,</l>
+     <l n="15" rhyme="b" line_length="8">Car c'est elle avec do¤a Sol,</l>
+     <l n="16" rhyme="c" line_length="8">Qui sont toujours nos amoureuses.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

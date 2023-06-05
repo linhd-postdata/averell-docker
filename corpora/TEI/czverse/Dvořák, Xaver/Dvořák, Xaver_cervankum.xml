@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Červánkům.</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_cervankum</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Červánkům.</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Červánkům.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010011010" rhyme="1" line_length="11">Ó vlny hořící, ó moře zlata,</l>
+     <l n="2" met="11010001010" rhyme="1" line_length="11">ó spono démantová, kterou spjata</l>
+     <l n="3" met="0101010000" rhyme="2" line_length="10">vlá říza Boha v azurovou dál!</l>
+     <l n="4" met="0100010101" rhyme="2" line_length="10">či purpurem jste, který s ramen sňal,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010001010" rhyme="3" line_length="11">když k zemi zadíval se v stesku právě,</l>
+     <l n="6" met="01010101000" rhyme="3" line_length="11">jež k Němu z hloubí zřela vyčítavě?</l>
+     <l n="7" met="0101010100" rhyme="4" line_length="10">neb číš jste hořkých slzí krvavá,</l>
+     <l n="8" met="0101010100" rhyme="4" line_length="10">již země nebi v oběť podává?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="11000100010" rhyme="5" line_length="11">Vím, věčnosti jste rubínovým prahem,</l>
+     <l n="10" met="01010101010" rhyme="5" line_length="11">kam duše vzlétá, syta lidským blahem,</l>
+     <l n="11" met="0101010100" rhyme="6" line_length="10">by v zřídle pravdy, v světla prameni</l>
+     <l n="12" met="0101000100" rhyme="6" line_length="10">svou touhu skojila a nadšení! –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

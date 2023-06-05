@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Salen de Valencia</title>
+    <author>Lope de Vega</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lope de Vega_salen-de-valencia</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Poesía Lírica Castellana Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Salen de Valencia</title>
+     <author>Lope de Vega</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Salen de Valencia</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="Seguidillas">
+     <l n="1" met="+---+-">Salen de Valencia</l>
+     <l n="2" met="+--+-">noche de San Juan</l>
+     <l n="3" met="+--+-">mil coches de damas</l>
+     <l n="4" met="-+--+-">al fresco del mar.</l>
+     <l n="5" met="+--+--+-">¡Cómo retumban los remos,</l>
+     <l n="6" met="+---+-">madre, en el agua,</l>
+     <l n="7" met="--+-+-">con el fresco viento</l>
+     <l n="8" met="---+-">de la mañana!</l>
+     <l n="9" met="--+-+-+-">Despertad, señora mía,</l>
+     <l n="10" met="--+-">despertad,</l>
+     <l n="11" met="--+-+-">porque viene el alba</l>
+     <l n="12" met="--+-">del señor San Juan.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

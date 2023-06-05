@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sláva Čecha.</title>
+    <author>Růžičková, Anna Vlastimila</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Růžičková, Anna Vlastimila_slava-cecha</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sláva Čecha.</title>
+     <author>Růžičková, Anna Vlastimila</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sláva Čecha.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Krále, vlast a Boha ctíti,</l>
+     <l n="2" met="1000100" rhyme="2" line_length="7">Nezarmoutit žádného,</l>
+     <l n="3" met="10001010" rhyme="1" line_length="8">Veselé vždy mysli býti,</l>
+     <l n="4" met="1010100" rhyme="2" line_length="7">Cíl jest Čecha věrného.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001000" rhyme="3" line_length="8">Zármutek a utrpení</l>
+     <l n="6" met="1000100" rhyme="4" line_length="7">Čecha-li kdy potkává,</l>
+     <l n="7" met="10101000" rhyme="3" line_length="8">Opět brzo ulevení</l>
+     <l n="8" met="1010100" rhyme="4" line_length="7">Vděčná vlast mu podává.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" rhyme="5" line_length="8">Čech vždy jako skála stojí,</l>
+     <l n="10" met="1000100" rhyme="6" line_length="7">Vlasti své jest ochránce,</l>
+     <l n="11" met="10100100" rhyme="5" line_length="8">Strastí žádných se nebojí,</l>
+     <l n="12" met="1100101" rhyme="6" line_length="7">Čech pro vlast i zemřít chce!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

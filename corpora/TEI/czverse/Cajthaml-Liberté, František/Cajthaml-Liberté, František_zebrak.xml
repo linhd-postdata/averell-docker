@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Žebrák.</title>
+    <author>Cajthaml-Liberté, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cajthaml-Liberté, František_zebrak</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Žebrák.</title>
+     <author>Cajthaml-Liberté, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Žebrák.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Tam vetchý stařec shrbený</l>
+     <l n="2" met="1001010" rhyme="1" line_length="7">o berli bídně kráčí,</l>
+     <l n="3" met="10010101" line_length="8">od domu k domu cestu zlou</l>
+     <l n="4" met="1001010" rhyme="1" line_length="7">slzami svými smáčí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">Již síla z ramen vyssáta,</l>
+     <l n="6" met="1101010" rhyme="2" line_length="7">tvář svraskla v dílen kouři,</l>
+     <l n="7" met="11001100" line_length="8">vlas zbělel a duch zlomen byl</l>
+     <l n="8" met="1010010" rhyme="2" line_length="7">v divé životní bouři.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010100" line_length="8">Ruka, jež vládla kladivem,</l>
+     <l n="10" met="0101010" rhyme="3" line_length="7">se k prosbě němé spíná</l>
+     <l n="11" met="10010100" line_length="8">o drobty, spadlé se stolu,</l>
+     <l n="12" met="0101010" rhyme="3" line_length="7">kde hýří chasa líná.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="11010101" line_length="8">Půl věku přešlo starce skráň</l>
+     <l n="14" met="0100100" rhyme="4" line_length="7">vždy skloněnou nad prací:</l>
+     <l n="15" met="10010100" line_length="8">za mládí, síly ztracené</l>
+     <l n="16" met="1100100" rhyme="4" line_length="7">svět mošnou mu odplácí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

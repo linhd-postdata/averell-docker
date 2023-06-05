@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Soif</title>
+    <author>Léon Dierx</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Léon Dierx_la-soif</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Soif</title>
+     <author>Léon Dierx</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Soif</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">La cuirasse à nos reins bouclée,</l>
+     <l n="2" rhyme="b" line_length="8">Dans une lutte sans merci,</l>
+     <l n="3" rhyme="b" line_length="8">Nous nous sommes jetés, ainsi</l>
+     <l n="4" rhyme="a" line_length="8">Que des bretons dans la mêlée.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Ainsi donc soit ! Et jusqu'au soir</l>
+     <l n="6" rhyme="b" line_length="8">Tenons tête dans la bataille,</l>
+     <l n="7" rhyme="b" line_length="8">Haut la visière, et haut la taille,</l>
+     <l n="8" rhyme="a" line_length="8">Sans lâcher pied, sans nous asseoir !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Champions du beau qu'on lapide,</l>
+     <l n="10" rhyme="b" line_length="8">Que le sort nous trahisse ou non,</l>
+     <l n="11" rhyme="b" line_length="8">Faisons flotter notre pennon</l>
+     <l n="12" rhyme="a" line_length="8">Par-dessus la clameur stupide.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">Puisque pour nous les durs chemins,</l>
+     <l n="14" rhyme="b" line_length="8">Quand nous regardons vers la terre,</l>
+     <l n="15" rhyme="b" line_length="8">N'ont point d'eau qui nous désaltère,</l>
+     <l n="16" rhyme="a" line_length="8">A notre flanc portons les mains ;</l>
+    </lg>
+    <lg n="5">
+     <l n="17" rhyme="a" line_length="8">Et, ruisselants d'éclaboussures,</l>
+     <l n="18" rhyme="b" line_length="8">Pour revivre du même espoir,</l>
+     <l n="19" rhyme="b" line_length="8">Buvons, ainsi que Beaumanoir,</l>
+     <l n="20" rhyme="a" line_length="8">Le sang tout chaud de nos blessures !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

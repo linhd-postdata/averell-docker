@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>III. Na všem, na všem času zub,</title>
+    <author>Panýrek, Duchoslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Panýrek, Duchoslav_iii-na-vsem-na-vsem-casu-zub</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>III. Na všem, na všem času zub,</title>
+     <author>Panýrek, Duchoslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>III. Na všem, na všem času zub,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101" line_length="7">Na všem, na všem času zub, </l>
+     <l n="2" met="010010" rhyme="1" line_length="6">i na zvycích hlodá;</l>
+     <l n="3" met="1010100" line_length="7">nyní hostu sotva už</l>
+     <l n="4" met="001010" rhyme="1" line_length="6">chleb a sůl se podá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010100" line_length="7">Místo chleba v modu teď</l>
+     <l n="6" met="100010" rhyme="2" line_length="6">pochlebenství vchází,</l>
+     <l n="7" met="0100100" line_length="7">a pro věčší pikantnosť</l>
+     <l n="8" met="101010" rhyme="2" line_length="6">v oči sůl se hází.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>The Witch</title>
+    <author>W.B. Yeats</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>W.B. Yeats_the-witch</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>For Better For Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>The Witch</title>
+     <author>W.B. Yeats</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>The Witch</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="octave">
+     <l n="1" met="+--+">Toil and grow rich,</l>
+     <l n="2" met="-+--+">What's that but to lie</l>
+     <l n="3" met="--++">With a foul witch</l>
+     <l n="4" met="-+-++">And after, drained dry,</l>
+     <l n="5" met="--+">To be brought</l>
+     <l n="6" met="--+-+">To the chamber where</l>
+     <l n="7" met="-+++">Lies one long sought</l>
+     <l n="8" met="--+">With despair?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

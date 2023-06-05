@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Paulo Gonzálvez de Andrada</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paulo Gonzálvez de Andrada_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Paulo Gonzálvez de Andrada</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="unknown">
+     <l n="1" met="+--+---+-+-">Des que en lechos de zafir reposan</l>
+     <l n="2" met="---+---+-+-">y que por sendas de cristal caminas,</l>
+     <l n="3" met="--+--+---+-">derramando tus urnas cristalinas</l>
+     <l n="4" met="-----+---+-">en favor de las playas arenosas;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-----+---+-">y desde que con fuerzas caudalosas</l>
+     <l n="6" met="---+-++--+-">a conquistar el mar te determinas,</l>
+     <l n="7" met="-+---+---+-">bañando tus corrientes peregrinas</l>
+     <l n="8" met="--+--+---+-">de Ulisipo las márgenes famosas;</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+-+-">mientras, depuesta la arrogancia, hiciste</l>
+     <l n="10" met="-+---+-+-+-">espejo sosegado el agua pura</l>
+     <l n="11" met="-+---+---+-">que a tantas hermosuras ofreciste,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+---+-">en cuantas viste, oh Tajo, por ventura,</l>
+     <l n="13" met="-+-+---+-+-">en tantas años de camino, ¿viste</l>
+     <l n="14" met="-+---++--+-">igual a la de Silvia otra hermosura?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

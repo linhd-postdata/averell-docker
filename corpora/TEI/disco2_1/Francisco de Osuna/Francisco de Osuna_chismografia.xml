@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Chismografía</title>
+    <author>Francisco de Osuna</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco de Osuna_chismografia</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Chismografía</title>
+     <author>Francisco de Osuna</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Chismografía</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+----+++-+-">Dícenme que decís, ex reina mía,</l>
+     <l n="2" met="++--++-+-+-">que os dicen que yo he dicho aquel secreto.</l>
+     <l n="3" met="---++--+-+-">Y lo que yo os digo en un soneto,</l>
+     <l n="4" met="+-+--++--+-">que es decir por decir, tal tontería.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+++--++-+-">¡Qué tal cosa digáis! ¡Quién lo diría!</l>
+     <l n="6" met="+-+--+--+-">¿Digo? ¿Iba yo a decir? Digo y prometo</l>
+     <l n="7" met="-+---+-+-+-">que digan lo que digan, yo respeto</l>
+     <l n="8" met="---+-+-+-+-">lo que decís que dije el otro día.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++--++--++-">No digo que no digan (y me aflige)</l>
+     <l n="10" met="---+-+---+-">lo que decís que dije, pues barrunto</l>
+     <l n="11" met="-+-+-+---+-">que dicen que hay quien dice por capricho:</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--++-+--++-">Mas decís vos que digo que no dije</l>
+     <l n="13" met="--+--+-+-+-">lo que dicen que dije de este asunto;</l>
+     <l n="14" met="++---+++-">ni dije, ni diré. ¡Lo dicho, dicho!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

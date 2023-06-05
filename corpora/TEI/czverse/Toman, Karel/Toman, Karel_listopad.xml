@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LISTOPAD</title>
+    <author>Toman, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Toman, Karel_listopad</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LISTOPAD</title>
+     <author>Toman, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LISTOPAD</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010101" rhyme="1" line_length="12">Vy štědré stromy zahrad i vy podle cest,</l>
+     <l n="2" met="01000100" line_length="8">jež vztyčujete ramena</l>
+     <l n="3" met="1001010101" rhyme="1" line_length="10">k obloze šeré, k nebi beze hvězd</l>
+     <l n="4" met="1100010010" line_length="10">v dnech dušičkových do mlh vždy nových,</l>
+     <l n="5" met="01010" line_length="5">váš smutek žiji.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="10010101000" rhyme="2" line_length="11">Úroda vaše voní pod střechami,</l>
+     <l n="7" met="100100010" rhyme="3" line_length="9">radostná těšitelka dětí.</l>
+     <l n="8" met="010001010" rhyme="2" line_length="9">Jste se zemí a s nebem samy</l>
+     <l n="9" met="01010101010" rhyme="3" line_length="11">a jenom zřídka bludné ptáče sletí</l>
+     <l n="10" met="10010001000" line_length="11">v koruny oddané a čekající.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="010101" line_length="6">Zas přijde květ i plod.</l>
+     <l n="12" met="0100110100010" rhyme="4" line_length="13">Však za vichřic hlas touhy jediné z vás vane:</l>
+     <l n="13" met="110100110" rhyme="4" line_length="9">Vzplát na tvé hranici, ó Pane!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

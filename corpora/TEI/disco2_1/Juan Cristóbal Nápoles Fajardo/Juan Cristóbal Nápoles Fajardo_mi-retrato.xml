@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mi retrato</title>
+    <author>Juan Cristóbal Nápoles Fajardo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Cristóbal Nápoles Fajardo_mi-retrato</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mi retrato</title>
+     <author>Juan Cristóbal Nápoles Fajardo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mi retrato</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">Tengo, señores, el cabello rubio,</l>
+     <l n="2" met="+-+--+++-+-">una frente en que cabe un buen escaño.</l>
+     <l n="3" met="-++--+-+++-">Y dos ojos que son si no me engaño</l>
+     <l n="4" met="--+--+---+-">del color de las llamas del Vesubio.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++---+---+-">Es larga mi nariz como el Danubio,</l>
+     <l n="6" met="--+--+-+-+-">mis orejas también de igual tamaño,</l>
+     <l n="7" met="-+---+-+++-">y caben en mi boca, que es un caño,</l>
+     <l n="8" met="+--+-+---+-">todas las aguas que hubo en el diluvio.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--++--+-">El color de mi rostro es encarnado,</l>
+     <l n="10" met="++-+---+++-">no tengo barbas, ni tenerlas creo;</l>
+     <l n="11" met="+-+--+-+-+-">soy de talla gigante y muy delgado.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+++-+-">Y siendo, como soy un hombre feo,</l>
+     <l n="13" met="--+--+-+-+-">de mujeres bonitas hay atajos</l>
+     <l n="14" met="--+-++---+-">que incansables me roen los zancajos.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

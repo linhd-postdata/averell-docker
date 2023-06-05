@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>En la playa</title>
+    <author>Luis Hine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Luis Hine_en-la-playa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>En la playa</title>
+     <author>Luis Hine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>En la playa</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+++-+---+-">El mar es un gigante que solloza</l>
+     <l n="2" met="--+--+---+-">en la sombra apacible sus dolores;</l>
+     <l n="3" met="-+-+---+-+-">las olas cantan sus canción de amores</l>
+     <l n="4" met="++-+---+-+-">y un ave inquieta sus espumas roza.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+---+-">En el cristal inmenso que reposa</l>
+     <l n="6" met="--+--+---+-">las estrellas contemplan sus fulgores,</l>
+     <l n="7" met="--+--+---+-">y se escucha el volar de los rumores,</l>
+     <l n="8" met="--+--+---+-">en la noche de paz maravillosa.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">Llenó el ambiente con su luz de plata</l>
+     <l n="10" met="-+-+---+-+-">la triste luna, que su faz retrata</l>
+     <l n="11" met="--+--+---+-">en el cóncavo espejo de la ola,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+---+-+-">y en el silencio de la noche en calma,</l>
+     <l n="13" met="-+-+-+-+-+-">solloza el mar y le contesta el alma,</l>
+     <l n="14" met="-+-+---+-+-">como una hermana, inconsolable y sola.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

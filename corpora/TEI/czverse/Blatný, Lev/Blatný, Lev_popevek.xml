@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>POPĚVEK.</title>
+    <author>Blatný, Lev</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Blatný, Lev_popevek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>POPĚVEK.</title>
+     <author>Blatný, Lev</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>POPĚVEK.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100100" rhyme="1" line_length="9">Radostí dýchala paseka,</l>
+     <l n="2" met="100100100" rhyme="1" line_length="9">smála se na nás již zdaleka.</l>
+     <l n="3" met="1001001" rhyme="2" line_length="7">Zasmál se kdejaký květ,</l>
+     <l n="4" met="1001" rhyme="2" line_length="4">zasykl svět,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="000100100" rhyme="3" line_length="9">že se tak divoce milujem’,</l>
+     <l n="6" met="101100100" rhyme="3" line_length="9">sami dva životem putujem’;</l>
+     <l n="7" met="1001000" rhyme="4" line_length="7">mladí jsme pro lásku svou</l>
+     <l n="8" met="1000" rhyme="4" line_length="4">povážlivou.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100100100" rhyme="5" line_length="9">Slunce nám zahrálo do smíchu,</l>
+     <l n="10" met="100100100" rhyme="5" line_length="9">milá mi říkala „Ženichu!“</l>
+     <l n="11" met="1001010" rhyme="6" line_length="7">Sami jsme dávno přece</l>
+     <l n="12" met="1000" rhyme="6" line_length="4">na pasece.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100100100" rhyme="7" line_length="9">Slunce nám zalezlo do krve.</l>
+     <l n="14" met="100100100" rhyme="7" line_length="9">Blázen, kdo štěstí včas neurve.</l>
+     <l n="15" met="1001001" rhyme="8" line_length="7">Pasekou popěvek zní</l>
+     <l n="16" met="1000" rhyme="8" line_length="4">immoralní. – – –</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="100100100" rhyme="9" line_length="9">A když už slunce se ztrácelo,</l>
+     <l n="18" met="100100100" rhyme="9" line_length="9">zlíbalo děti své na čelo,</l>
+     <l n="19" met="1001000" rhyme="10" line_length="7">žehnalo polibkem svým</l>
+     <l n="20" met="1000" rhyme="10" line_length="4">zkrvavělým.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Zástava.</title>
+    <author>Chládek, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">7</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Chládek, František_zastava</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Zástava.</title>
+     <author>Chládek, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Zástava.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100" rhyme="1" line_length="8">Co, Hředelští, co děláte,</l>
+     <l n="2" met="01001000" rhyme="1" line_length="8">že „Zástavu“ nesekáte?</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="10101010" rhyme="2" line_length="8">Máte staré právo na ni</l>
+     <l n="4" met="01001010" rhyme="2" line_length="8">a užitky berou páni.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="01000100" rhyme="3" line_length="8">„Proč trpíte to bezpráví?</l>
+     <l n="6" met="10001010" rhyme="3" line_length="8">Vysuďte ji,“ mnozí praví.</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="11001100" rhyme="4" line_length="8">Jel do Prahy pan Hradecký,</l>
+     <l n="8" met="10100100" rhyme="4" line_length="8">mluvil, jednal tam za všecky.</l>
+    </lg>
+    <lg n="5">
+     <l n="9" met="10001010" rhyme="5" line_length="8">Našel to tam dobře v knize,</l>
+     <l n="10" met="10001010" rhyme="5" line_length="8">vlastníkem však zůstal kníže.</l>
+    </lg>
+    <lg n="6">
+     <l n="11" met="01101010" rhyme="6" line_length="8">Co vlk schvátí, nerad vrátí,</l>
+     <l n="12" met="10001010" rhyme="6" line_length="8">penězi se právo skrátí.</l>
+    </lg>
+    <lg n="7">
+     <l n="13" met="10011010" rhyme="7" line_length="8">Neskolí lva kůzle rohy –</l>
+     <l n="14" met="10101010" rhyme="7" line_length="8">lidem válčit těžko s bohy.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

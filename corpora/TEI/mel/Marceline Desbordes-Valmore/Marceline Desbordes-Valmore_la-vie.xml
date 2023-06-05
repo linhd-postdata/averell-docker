@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LA VIE</title>
+    <author>Marceline Desbordes-Valmore</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Marceline Desbordes-Valmore_la-vie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LA VIE</title>
+     <author>Marceline Desbordes-Valmore</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LA VIE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="5">Nuage, nuage,</l>
+     <l n="2" rhyme="b" line_length="5">Beau passant de l'air,</l>
+     <l n="3" rhyme="a" line_length="5">Roulé dans l'orage,</l>
+     <l n="4" rhyme="b" line_length="5">Fendu par l'éclair ;</l>
+     <l n="5" rhyme="c" line_length="5">Couves-tu des flammes</l>
+     <l n="6" rhyme="d" line_length="5">Dans ton flanc vermeil ?</l>
+     <l n="7" rhyme="c" line_length="5">Portes-tu les âmes</l>
+     <l n="8" rhyme="d" line_length="5">Filles du soleil ?</l>
+    </lg>
+    <lg n="2">
+     <l n="9" rhyme="a" line_length="5">Prends donc sur ton aile</l>
+     <l n="10" rhyme="b" line_length="5">Mon âme avec toi ;</l>
+     <l n="11" rhyme="a" line_length="5">Mon âme éternelle</l>
+     <l n="12" rhyme="b" line_length="5">Est lasse de moi.</l>
+     <l n="13" rhyme="c" line_length="5">Mon âme flétrie</l>
+     <l n="14" rhyme="d" line_length="5">Qui vacille en bas,</l>
+     <l n="15" rhyme="c" line_length="5">Sent que sa patrie</l>
+     <l n="16" rhyme="d" line_length="5">Est là-bas ! là-bas !</l>
+    </lg>
+    <lg n="3">
+     <l n="17" rhyme="a" line_length="5">Prends-donc… mais que dis-je !</l>
+     <l n="18" rhyme="b" line_length="5">À peine ma voix</l>
+     <l n="19" rhyme="a" line_length="5">Te parle, ô prodige !</l>
+     <l n="20" rhyme="b" line_length="5">À peine je vois</l>
+     <l n="21" rhyme="c" line_length="5">Rayonner ta robe</l>
+     <l n="22" rhyme="d" line_length="5">En reflets confus,</l>
+     <l n="23" rhyme="c" line_length="5">Le vent te dérobe,</l>
+     <l n="24" rhyme="d" line_length="5">Passant ! tu n'es plus !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>O SAMOTĚ.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_o-samote</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>O SAMOTĚ.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>O SAMOTĚ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" line_length="6">O samotě sedím</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">v pozdní noční chvíli,</l>
+     <l n="3" met="100010" line_length="6">myšlénky mé bludné</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">venku s větrem pílí,</l>
+     <l n="5" met="101010" line_length="6">chtěl bych zpívat píseň,</l>
+     <l n="6" met="001010" rhyme="1" line_length="6">jak ji vítr kvílí.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="101000" line_length="6">Píseň bez nápěvu</l>
+     <l n="8" met="010010" rhyme="2" line_length="6">a žádnými slovy;</l>
+     <l n="9" met="001010" line_length="6">jak ji vítr duje</l>
+     <l n="10" met="100010" rhyme="2" line_length="6">v opuštěné krovy</l>
+     <l n="11" met="010010" line_length="6">a s poselstvím odtud</l>
+     <l n="12" met="101000" rhyme="2" line_length="6">letí na hřbitovy.</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="101010" rhyme="1" line_length="6">Jako v noční chvíli</l>
+     <l n="14" met="100010" rhyme="3" line_length="6">Meluzína duje,</l>
+     <l n="15" met="100010" line_length="6">u mrtvého syna</l>
+     <l n="16" met="101000" rhyme="3" line_length="6">matka ponocuje</l>
+     <l n="17" met="010100" line_length="6">a jeho děťátku</l>
+     <l n="18" met="101000" rhyme="3" line_length="6">„nynej“ pozpěvuje.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

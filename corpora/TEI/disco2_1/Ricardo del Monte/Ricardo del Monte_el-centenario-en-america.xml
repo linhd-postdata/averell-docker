@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El centenario en América</title>
+    <author>Ricardo del Monte</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ricardo del Monte_el-centenario-en-america</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El centenario en América</title>
+     <author>Ricardo del Monte</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El centenario en América</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+-+-+-">En tu panteón levántate, y despierto,</l>
+     <l n="2" met="-+-+-+---+-">recuerda, Rey adusto de Castilla,</l>
+     <l n="3" met="-+-+--+--+-">aquel soldado que admiro en Sevilla</l>
+     <l n="4" met="---+-+--+-+-">tu catafalco d esplendor cubierto.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+---+-">El que evocaba el ánimo del muerto</l>
+     <l n="6" met="---+-+---+-">para gozar de tanta maravilla,</l>
+     <l n="7" met="++-+-+---+-">tiene hoy perenne túmulo que humilla</l>
+     <l n="8" met="--++-+---+-">tu Escorial, triste mole en el desierto.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+-+-">¡Goza en los triunfos del ingenio hispano!</l>
+     <l n="10" met="++-+-+---+-">Mira esos pueblos jóvenes, distantes,</l>
+     <l n="11" met="-+-+---+-+-">de aquel que fue tu americano imperio;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">rompieron ya tu cetro soberano;</l>
+     <l n="13" met="--+--+---+-">pero el habla y la gloria de Cervantes,</l>
+     <l n="14" met="--++-+---+-">suyas las siente el índico hemisferio.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

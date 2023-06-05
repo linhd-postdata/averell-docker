@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Štěstí.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_stesti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Štěstí.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Štěstí.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11000101" rhyme="1" line_length="8">Mlč v neštěstí a vzmuž se v ráz!</l>
+     <l n="2" met="010101010" rhyme="2" line_length="9">Nač halit čelo smutku stínem?</l>
+     <l n="3" met="11010101" rhyme="1" line_length="8">Vznes hlavu, vzpřími hrdě vaz,</l>
+     <l n="4" met="010100110" rhyme="2" line_length="9">sic žal tě rozpoltí zlob klínem.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11010100" rhyme="3" line_length="8">Kuj lesklé meče myšlenek</l>
+     <l n="6" met="010101010" rhyme="4" line_length="9">a lesy vzdoru jimi klesti,</l>
+     <l n="7" met="11010101" rhyme="3" line_length="8">jdi mužně v před; máť pravý rek</l>
+     <l n="8" met="010100010" rhyme="4" line_length="9">vždy žezlo sebevlády v pěsti.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" rhyme="5" line_length="8">A slzy – slzy ještě snad?...</l>
+     <l n="10" met="010101010" rhyme="6" line_length="9">Jich proudem tajně krev se roní;</l>
+     <l n="11" met="11010100" rhyme="5" line_length="8">zjev blaha nelze vyplakat,</l>
+     <l n="12" met="010101000" rhyme="6" line_length="9">jak deštěm květy na jabloni!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="11000100" rhyme="7" line_length="8">Pták štěstí plach je nanejvíc</l>
+     <l n="14" met="010001010" rhyme="8" line_length="9">a vábníkem se lapit nedá;</l>
+     <l n="15" met="01000000" rhyme="7" line_length="8">sám nevylítne-li ti vstříc,</l>
+     <l n="16" met="010100010" rhyme="8" line_length="9">pak marně duše tvá ho hledá. –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

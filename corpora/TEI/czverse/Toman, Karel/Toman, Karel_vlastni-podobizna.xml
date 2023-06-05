@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VLASTNÍ PODOBIZNA</title>
+    <author>Toman, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Toman, Karel_vlastni-podobizna</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VLASTNÍ PODOBIZNA</title>
+     <author>Toman, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VLASTNÍ PODOBIZNA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010" rhyme="1" line_length="8">Daleko v hlubokém lese</l>
+     <l n="2" met="10010010" line_length="8">vyvěrá zpěvavý pramen.</l>
+     <l n="3" met="110010010" rhyme="1" line_length="9">Z tmy k světlu se rodí a třese</l>
+     <l n="4" met="10010" line_length="5">podsvětní píseň.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10011010" rhyme="2" line_length="8">Život mě křtil vodou živou,</l>
+     <l n="6" met="110010010" line_length="9">chuť hlubin a temnot mi vdechl.</l>
+     <l n="7" met="11010010" rhyme="2" line_length="8">Mám v krvi píseň tu lstivou</l>
+     <l n="8" met="01010" line_length="5">i její rytmus.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="110010010" rhyme="3" line_length="9">Sen zástupů v srdci mi zpívá,</l>
+     <l n="10" met="10010010" line_length="8">vesmírná touha v něm bije.</l>
+     <l n="11" met="10101001000" rhyme="3" line_length="11">A jen píseň tichá a zádumčivá</l>
+     <l n="12" met="01110" line_length="5">z mých slov zní k hvězdám.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>BATIGNOLLES</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_batignolles</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>BATIGNOLLES</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>BATIGNOLLES</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="5+5">UN grand bloc de grès ; quatre noms : mon père</l>
+     <l n="2" rhyme="b" line_length="5+5">Et ma mère et moi, puis mon fils bien tard.</l>
+     <l n="3" rhyme="a" line_length="5+5">Dans l’étroite paix du plat cimetière</l>
+     <l n="4" rhyme="b" line_length="5+5">Blanc et noir et vert, au long du rempart.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="5+5">Cinq tables de grès ; le tombeau nu, fruste,</l>
+     <l n="6" rhyme="b" line_length="5+5">En un carré long, haut d’un mètre et plus,</l>
+     <l n="7" rhyme="a" line_length="5+5">Qu’une chaîne entoure et décore juste,</l>
+     <l n="8" rhyme="b" line_length="5+5">Au bas du faubourg qui ne bruit plus.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="5−5">C’est de là que la trompette de l’ange</l>
+     <l n="10" rhyme="b" line_length="5+5">Fera se dresser nos corps ranimés</l>
+     <l n="11" rhyme="a" line_length="5+5">Pour la vie enfin qui jamais ne change,</l>
+     <l n="12" rhyme="b" line_length="5+5">O vous, père et mère et fils bien-aimés.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

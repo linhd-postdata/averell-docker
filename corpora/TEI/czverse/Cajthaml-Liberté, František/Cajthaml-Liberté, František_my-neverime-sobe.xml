@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>My nevěříme sobě.</title>
+    <author>Cajthaml-Liberté, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cajthaml-Liberté, František_my-neverime-sobe</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>My nevěříme sobě.</title>
+     <author>Cajthaml-Liberté, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>My nevěříme sobě.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100010" rhyme="1" line_length="7">My zaťali jsme pěstě,</l>
+     <l n="2" met="010001" rhyme="2" line_length="6">když hnali nás jak skot,</l>
+     <l n="3" met="0100100" rhyme="1" line_length="7">my vlekli se po cestě –</l>
+     <l n="4" met="100101" rhyme="2" line_length="6">na čele prach a pot.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010" rhyme="3" line_length="7">My chtěli těžká pouta</l>
+     <l n="6" met="100101" rhyme="4" line_length="6">pochopům mrštit v tvář –</l>
+     <l n="7" met="1001100" rhyme="3" line_length="7">a pak jsme šli do kouta</l>
+     <l n="8" met="010010" rhyme="4" line_length="6">v svůj odvěký žalář.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0100010" rhyme="5" line_length="7">My nevěříme sobě,</l>
+     <l n="10" met="100101" rhyme="6" line_length="6">druha se bojí druh –</l>
+     <l n="11" met="1001010" rhyme="5" line_length="7">a radš se dáme zlobě</l>
+     <l n="12" met="100101" rhyme="6" line_length="6">v otrocký svírat kruh.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

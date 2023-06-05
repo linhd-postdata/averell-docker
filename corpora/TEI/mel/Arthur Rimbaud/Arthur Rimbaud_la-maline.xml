@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Maline</title>
+    <author>Arthur Rimbaud</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Arthur Rimbaud_la-maline</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Maline</title>
+     <author>Arthur Rimbaud</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Maline</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Dans la salle à manger brune, que parfumait</l>
+     <l n="2" rhyme="b" line_length="6+6">Une odeur de vernis et de fruits, à mon aise</l>
+     <l n="3" rhyme="a" line_length="6+6">Je ramassais un plat de je ne sais quel met</l>
+     <l n="4" rhyme="b" line_length="6+6">Belge, et je m’épatais dans mon immense chaise.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">En mangeant, j’écoutais l’horloge, — heureux et coi.</l>
+     <l n="6" rhyme="d" line_length="6+6">La cuisine s’ouvrit avec une bouffée,</l>
+     <l n="7" rhyme="c" line_length="6+6">— Et la servante vint, je ne sais pas pourquoi,</l>
+     <l n="8" rhyme="d" line_length="6+6">Fichu moitié défait, malinement coiffée</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="6+6">Et, tout en promenant son petit doigt tremblant</l>
+     <l n="10" rhyme="e" line_length="6+6">Sur sa joue, un velours de pêche rose et blanc,</l>
+     <l n="11" rhyme="f" line_length="6+6">En faisant, de sa lèvre enfantine, une moue,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="6+6">Elle arrangeait les plats, près de moi, pour m’aiser ;</l>
+     <l n="13" rhyme="g" line_length="6+6">— Puis, comme ça, — bien sûr, pour avoir un baiser, —</l>
+     <l n="14" rhyme="f" line_length="6+6">Tout bas : « Sens donc : j’ai pris une froid sur la joue… »</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Starý prapor.</title>
+    <author>Mužík, Augustin Eugen</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mužík, Augustin Eugen_stary-prapor</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Starý prapor.</title>
+     <author>Mužík, Augustin Eugen</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Starý prapor.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010101" rhyme="1" line_length="10">Jen plátna kus a rudé látky cár,</l>
+     <l n="2" met="11000100010" rhyme="2" line_length="11">žerď zlomena a červotoče plna,</l>
+     <l n="3" met="0101010100" rhyme="1" line_length="10">toť plachta, kterou spjatu na stožár</l>
+     <l n="4" met="11010101010" rhyme="2" line_length="11">v dny naše vrhla dávných věků vlna.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010001010" rhyme="3" line_length="11">Kde plavci lodi té, kde vůdce její?</l>
+     <l n="6" met="0101010100" rhyme="4" line_length="10">Již dávno klidny vlny staletí,</l>
+     <l n="7" met="01010101000" rhyme="3" line_length="11">a jenom časem přece bouřlivěji</l>
+     <l n="8" met="0101010100" rhyme="4" line_length="10">to čelem moře na mžik přeletí...</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010101010" rhyme="5" line_length="11">A tu se zdá mi, jak by prapor starý</l>
+     <l n="10" met="0101010101" rhyme="6" line_length="10">se tlačil vzhůru, chvěl a dmul a vál,</l>
+     <l n="11" met="10010101010" rhyme="5" line_length="11">a jak by kolem vřely bitev žáry</l>
+     <l n="12" met="0101010101" rhyme="6" line_length="10">a hřímal kus a bouřil jízdy cval.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01000100010" rhyme="7" line_length="11">Jak vzcházelo by patnáctého věku</l>
+     <l n="14" met="0100010100" rhyme="8" line_length="10">mou nad vlastí zas jitro krvavé,</l>
+     <l n="15" met="01010101010" rhyme="7" line_length="11">kdy země moje plna byla reků</l>
+     <l n="16" met="0101010100" rhyme="8" line_length="10">a nebe písně: „Svatý Václave!...“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Fiancée</title>
+    <author>Alexandre Ducros</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">9</measure>
+    <measure unit="line">3</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alexandre Ducros_la-fiancee</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Fiancée</title>
+     <author>Alexandre Ducros</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Fiancée</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" />
+    <lg n="2" />
+    <lg n="3">
+     <l n="1" line_length="6+6">Hélas ! un autre soin occupe ma pensée :</l>
+    </lg>
+    <lg n="4" />
+    <lg n="5" />
+    <lg n="6">
+     <l n="2" line_length="6+6">Hélas ! mon cœur brisé, loin de l'absent, soupire,</l>
+    </lg>
+    <lg n="7" />
+    <lg n="8" />
+    <lg n="9">
+     <l n="3" line_length="6+6">Hélas ! avec mes pleurs aujourd'hui moi j'arrose</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

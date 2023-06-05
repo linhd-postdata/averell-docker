@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SKROMNOSŤ CHUDINY.</title>
+    <author>Koukl, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Koukl, Antonín_skromnost-chudiny</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SKROMNOSŤ CHUDINY.</title>
+     <author>Koukl, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SKROMNOSŤ CHUDINY.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101000" line_length="10">Nikoho my prací nestížíme –</l>
+     <l n="2" met="101001001010" rhyme="1" line_length="12">leda faráře – a to jsou staré zvyky:</l>
+     <l n="3" met="1000101000" line_length="10">abychom se nikde neztratili,</l>
+     <l n="4" met="001010101000" rhyme="1" line_length="12">by nás rychle po křtu zanes’ do matriky.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010011000" line_length="10">Naše dědictví soud odevzdat nám</l>
+     <l n="6" met="101000100010" rhyme="2" line_length="12">také nemusí – jak u pánů to známo:</l>
+     <l n="7" met="1010101000" line_length="10">ono, sotva k práci dospěli jsme,</l>
+     <l n="8" met="100010100010" rhyme="2" line_length="12">objeví se jistě na rukou nám samo!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L'AMAZONE</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_l-amazone</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L'AMAZONE</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L'AMAZONE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Sur les grandes bouses de vache</l>
+     <l n="2" rhyme="b" line_length="8">Le soleil met un ton pourpré.</l>
+     <l n="3" rhyme="b" line_length="8">Elle chevauche au fond du pré</l>
+     <l n="4" rhyme="a" line_length="8">Avec un petit air bravache.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Elle effleure de sa cravache</l>
+     <l n="6" rhyme="b" line_length="8">Le cou d'un alezan doré.</l>
+     <l n="7" rhyme="a" line_length="8">Sur les grandes bouses de vache</l>
+     <l n="8" rhyme="b" line_length="8">Le soleil met un ton pourpré.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Mais son long voile bleu la cache,</l>
+     <l n="10" rhyme="b" line_length="8">Je ne puis la voir à mon gré ;</l>
+     <l n="11" rhyme="b" line_length="8">Et mon regard tombe navré,</l>
+     <l n="12" rhyme="a" line_length="8">Et machinalement s'attache</l>
+     <l n="13" rhyme="a" line_length="8">Sur les grandes bouses de vache.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

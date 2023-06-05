@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poussières</title>
+    <author>Jules Barbey d'Aurevilly</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jules Barbey d'Aurevilly_poussieres</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Poussières</title>
+     <author>Jules Barbey d'Aurevilly</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Poussières</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Dont j'ai, sans la comprendre, adoré la pâleur,</l>
+     <l n="2" rhyme="b" line_length="6+6">Tu joins donc maintenant à ce premier mystère,</l>
+     <l n="3" rhyme="a" line_length="6+6">Le vermillon soudain qui te prend au visage,</l>
+     <l n="4" rhyme="b" line_length="8">Quand, ce visage aimé, tu le tournes vers moi,</l>
+     <l n="5" rhyme="a" line_length="6+6">Est trop brûlant, trop noir, et roule trop d'orage,</l>
+     <l n="6" rhyme="b" line_length="6+6">Pour être de ton sang, ma Chimère au cœur froid.</l>
+     <l n="7" rhyme="a" line_length="6+6">Aussi bien le voyant, je me dis et je croi</l>
+     <l n="8" rhyme="b" line_length="6+6">Que c'est mon propre sang qui passe et monte en toi !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Déclamation</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_declamation</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Déclamation</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Déclamation</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6">Hélas ! mon front se ride ;</l>
+     <l n="2" rhyme="b" line_length="6">Hélas ! l’amour moqueur</l>
+     <l n="3" rhyme="a" line_length="6">A fui ma lèvre avide,</l>
+     <l n="4" rhyme="a" line_length="6">Hélas ! vous êtes vide,</l>
+     <l n="5" rhyme="b" line_length="6">Hélas ! hélas, mon cœur !</l>
+    </lg>
+    <lg n="2">
+     <l n="6" rhyme="a" line_length="6">Oh ! comme la jeunesse</l>
+     <l n="7" rhyme="b" line_length="6">Nous dit bien vite adieu !</l>
+     <l n="8" rhyme="a" line_length="6">Oh ! comme elle nous laisse</l>
+     <l n="9" rhyme="a" line_length="6">Et s’en va la traîtresse,</l>
+     <l n="10" rhyme="b" line_length="6">Où ? — Demandez à Dieu.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" rhyme="a" line_length="6">Mais puisque notre vie</l>
+     <l n="12" rhyme="b" line_length="6">Ne doit plus refleurir,</l>
+     <l n="13" rhyme="a" line_length="6">Puisque l’aube ravie</l>
+     <l n="14" rhyme="a" line_length="6">A trompé notre envie,</l>
+     <l n="15" rhyme="b" line_length="6">Il est temps de mourir.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

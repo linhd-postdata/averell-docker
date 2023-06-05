@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SEDMIKRÁSA.</title>
+    <author>Holý, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Holý, Josef_sedmikrasa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SEDMIKRÁSA.</title>
+     <author>Holý, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SEDMIKRÁSA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100100" line_length="7">Tam v kvetoucím obilí</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">boží láska voní,</l>
+     <l n="3" met="1000100" line_length="7">smutno je nám na světě,</l>
+     <l n="4" met="100010" rhyme="1" line_length="6">dojdeme si pro ni.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1000010" line_length="7">Smutno je nám, má milá</l>
+     <l n="6" met="101000" rhyme="2" line_length="6">rodu chudobného,</l>
+     <l n="7" met="0010100" line_length="7">co jen unést můžeme,</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">užili jsme zlého.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010100" line_length="7">Bída duši otráví,</l>
+     <l n="10" met="101010" rhyme="3" line_length="6">srdce steskem zmučí,</l>
+     <l n="11" met="1010100" line_length="7">pojď, snad ještě na poli</l>
+     <l n="12" met="101010" rhyme="3" line_length="6">kvítí pro nás pučí.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1000100" rhyme="4" line_length="7">Zapomeň jen na chvíli,</l>
+     <l n="14" met="101010" rhyme="5" line_length="6">skřivan pro nás jásá!</l>
+     <l n="15" met="1001000" rhyme="4" line_length="7">Na mezi se v obilí</l>
+     <l n="16" met="101000" rhyme="5" line_length="6">směje sedmikrása.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

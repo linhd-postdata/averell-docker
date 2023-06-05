@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>(S kyticí.)</title>
+    <author>Züngel, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Züngel, Emanuel_s-kytici</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>(S kyticí.)</title>
+     <author>Züngel, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>(S kyticí.)</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Všecko toto kvítí vadne,</l>
+     <l n="2" met="1010001" rhyme="2" line_length="7">pustý záhon je i luh,</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">znám však kvítko něžné, ladné,</l>
+     <l n="4" met="1010101" rhyme="2" line_length="7">na něž shlíží rád i Bůh,</l>
+     <l n="5" met="10001000" rhyme="3" line_length="8">kvítečko to nevadnoucí</l>
+     <l n="6" met="10100010" rhyme="3" line_length="8">lásky, vděčnosti i vroucí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

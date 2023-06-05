@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Všecko přejde...</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_vsecko-prejde</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Všecko přejde...</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Všecko přejde...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100" rhyme="1" line_length="7">Všecko přejde, přeletí</l>
+     <l n="2" met="10101010" rhyme="2" line_length="8">mladosť, radosť, všecko všudy,</l>
+     <l n="3" met="0110100" rhyme="1" line_length="7">jen žal po mém dítěti</l>
+     <l n="4" met="10001010" rhyme="2" line_length="8">neví kam a neví kudy.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010100" rhyme="1" line_length="7">Všecko přejde, přeletí</l>
+     <l n="6" met="10101010" rhyme="3" line_length="8">mračný příval, slzy trudu,</l>
+     <l n="7" met="0010100" rhyme="1" line_length="7">já jen po svém dítěti</l>
+     <l n="8" met="10101010" rhyme="3" line_length="8">celý život plakat’ budu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

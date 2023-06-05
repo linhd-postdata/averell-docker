@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>FATUM.</title>
+    <author>Červinka, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červinka, Adolf_fatum</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>FATUM.</title>
+     <author>Červinka, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>FATUM.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010001010" rhyme="1" line_length="9">My nesejdem se nikdy v žití,</l>
+     <l n="2" met="010101" rhyme="2" line_length="6">sám osud tomu chtěl,</l>
+     <l n="3" met="100101010" rhyme="1" line_length="9">daleko naše hvězdy svítí</l>
+     <l n="4" met="010101" rhyme="2" line_length="6">jak mléčné dráhy běl...</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101000" rhyme="3" line_length="9">A navždy bude nevyřčeno,</l>
+     <l n="6" met="010001" rhyme="4" line_length="6">čím hořel kdys můj ret,</l>
+     <l n="7" met="100101010" rhyme="3" line_length="9">cizího muže cizí ženo,</l>
+     <l n="8" met="010001" rhyme="4" line_length="6">já neutrh’ tvůj květ!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101000" rhyme="5" line_length="9">Když listí zvolna opadává,</l>
+     <l n="10" met="010101" rhyme="6" line_length="6">mou duší bloudí žal,</l>
+     <l n="11" met="010001010" rhyme="5" line_length="9">tak náměsíčník v noci vstává,</l>
+     <l n="12" met="010100" rhyme="6" line_length="6">ač nikdo nevolal...</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="110101010" rhyme="7" line_length="9">... Jde za tím, co jen v duši zraje,</l>
+     <l n="14" met="01010100" rhyme="8" line_length="8">co v tomto světě zemřelo,</l>
+     <l n="15" met="100101010" rhyme="7" line_length="9">v nesmírném tichu v spící kraje</l>
+     <l n="16" met="10000100" rhyme="8" line_length="8">pro políbení na čelo...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

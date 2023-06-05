@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Prvnímu květu.</title>
+    <author>Brabec, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Brabec, Adolf_prvnimu-kvetu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Prvnímu květu.</title>
+     <author>Brabec, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Prvnímu květu.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010" rhyme="1" line_length="7">Když první květ zas voní,</l>
+     <l n="2" met="010100" rhyme="2" line_length="6">přec znovu teší nás,</l>
+     <l n="3" met="0100010" rhyme="1" line_length="7">ač zřeli jsme jej v loni,</l>
+     <l n="4" met="010100" rhyme="2" line_length="6">jej zříme rádi zas.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1000010" rhyme="3" line_length="7">Do květeny, když vesna</l>
+     <l n="6" met="010101" rhyme="4" line_length="6">se šatí květů hrou,</l>
+     <l n="7" met="0100010" rhyme="3" line_length="7">nás budí jak by ze sna,</l>
+     <l n="8" met="010100" rhyme="4" line_length="6">v nás dávné city vrou...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

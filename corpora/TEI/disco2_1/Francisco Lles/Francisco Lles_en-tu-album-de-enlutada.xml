@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>En tu álbum de enlutada</title>
+    <author>Francisco Lles</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco Lles_en-tu-album-de-enlutada</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>En tu álbum de enlutada</title>
+     <author>Francisco Lles</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>En tu álbum de enlutada</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+-+-">¡Oh, mañanas de sol! Cómo reía</l>
+     <l n="2" met="--+--+++-+-">sobre el campo su luz; qué bien se estaba</l>
+     <l n="3" met="--+--+---+-">en el viejo portal donde callaba</l>
+     <l n="4" met="+--+-+-+-+-">todo, por oír tu voz, amada mía!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+---+-">¡Qué deleite en el beso que solía</l>
+     <l n="6" met="---+-+---+-">a tu descuido hurtar; como saltaba</l>
+     <l n="7" met="-+---+---+-">de gozo el corazón, cuando pensaba</l>
+     <l n="8" met="--+--+---+-">que el presente jamás se acabaría!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+-+-+-">Algo dieron de ti que te han cambiado;</l>
+     <l n="10" met="-+-+-++--+-">mas siempre noble y buena, has encontrado</l>
+     <l n="11" met="+-+--++--+-">que es mejor alejarte que ofenderme;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+--++-">y en el dolor profundo a que te entregas,</l>
+     <l n="13" met="+----+-+++-">sabe mi corazón por qué le niegas</l>
+     <l n="14" met="-+-+-+---+-">despojos de otro amor para quererme.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

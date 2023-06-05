@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Petr.</title>
+    <author>Písecký, Ferdinand</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Písecký, Ferdinand_petr</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Petr.</title>
+     <author>Písecký, Ferdinand</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Petr.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" rhyme="1" line_length="8">Než kohout třikrát zazpíval,</l>
+     <l n="2" met="100101010" rhyme="2" line_length="9">třikrát jsi zapřel, več jsi věřil.</l>
+     <l n="3" met="0001000101" rhyme="1" line_length="10">Leč pak ses do trpkého pláče dal</l>
+     <l n="4" met="01010100010" rhyme="2" line_length="11">a hřích svůj hlasem svědomí jsi měřil.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" rhyme="3" line_length="8">Ty dobrý, prostý rybáři!</l>
+     <l n="6" met="010001010" rhyme="4" line_length="9">Byl’s nezkušené světa dítě.</l>
+     <l n="7" met="10010100" rhyme="3" line_length="8">Každý ti poznal na tváři,</l>
+     <l n="8" met="010011010" rhyme="4" line_length="9">že neumíš lhát dosti hbitě.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01001100" rhyme="5" line_length="8">My dovedem lhát jináče!</l>
+     <l n="10" met="010001010" rhyme="6" line_length="9">Nám nestačil by kohout zpívat!</l>
+     <l n="11" met="0101010100" rhyme="5" line_length="10">A po lži každé dát se do pláče?</l>
+     <l n="12" met="01010101010" rhyme="6" line_length="11">To raděj jednu lež zas novou skrývat.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

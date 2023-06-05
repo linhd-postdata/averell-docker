@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PRAVDA</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_pravda</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PRAVDA</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PRAVDA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100010" rhyme="1" line_length="11">Nu, marno, bratři, nebudem si spílat.</l>
+     <l n="2" met="00010100010" rhyme="1" line_length="11">Co je to pravda? – ptal se už kdys Pilát</l>
+     <l n="3" met="01010100010" rhyme="2" line_length="11">a myl si ruce. Mihotavým letem</l>
+     <l n="4" met="10010101010" rhyme="2" line_length="11">otázka tato bloudí stále světem.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010001000" rhyme="3" line_length="11">A dá se povědít to v okamžení:</l>
+     <l n="6" met="10010101010" rhyme="3" line_length="11">Pravda je něco, co tu nikdy není,</l>
+     <l n="7" met="01010101010" rhyme="4" line_length="11">ač ve všech lidských hubách sedí, ach tu,</l>
+     <l n="8" met="01010101010" rhyme="4" line_length="11">a každý žurnál má ji v pevném pachtu,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010001010" rhyme="5" line_length="11">a každý řečník ten se v prsa bije,</l>
+     <l n="10" met="01010101010" rhyme="5" line_length="11">že pravda v nájmu u nich jenom žije,</l>
+     <l n="11" met="01010101000" rhyme="6" line_length="11">a každý pop ji pro své náboženství</l>
+     <l n="12" met="01010001000" rhyme="6" line_length="11">co schody reklamuje ku blaženství,</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01010101000" rhyme="3" line_length="11">a každý státník padá do nadšení,</l>
+     <l n="14" met="01010101000" rhyme="3" line_length="11">když hlásá její slavné vítězení – –</l>
+     <l n="15" met="01010100010" rhyme="7" line_length="11">A komu popud k přemýšlení zavdá</l>
+     <l n="16" met="11011101010" rhyme="7" line_length="11">pár těchto slok, dí jistě: je to pravda.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

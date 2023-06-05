@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Básník.</title>
+    <author>Mužík, Augustin Eugen</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">21</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mužík, Augustin Eugen_basnik</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Básník.</title>
+     <author>Mužík, Augustin Eugen</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Básník.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" line_length="9">Jak růže bílá, která voní</l>
+     <l n="2" met="10010100" rhyme="1" line_length="8">v měsíci lásky, básník jest.</l>
+     <l n="3" met="010101010" line_length="9">Což na tom, zda ta růže voní</l>
+     <l n="4" met="10010101" rhyme="1" line_length="8">ve vzduchu velkých, hlučných měst,</l>
+     <l n="5" met="00100100" rhyme="2" line_length="8">či zda v samotu zakletá</l>
+     <l n="6" met="01010100" rhyme="2" line_length="8">kdes beze zvěsti odkvétá?</l>
+     <l n="7" met="01010100" line_length="8">Tou, jíž jest – růží – zůstane.</l>
+    </lg>
+    <lg n="2">
+     <l n="8" met="010101010" line_length="9">A jako hvězda, která svítí</l>
+     <l n="9" met="10010100" rhyme="3" line_length="8">měnivým leskem; neví nic</l>
+     <l n="10" met="010101010" line_length="9">zda člověk bdí; jen sní a svítí</l>
+     <l n="11" met="01010010" rhyme="3" line_length="8">svou čistou září víc a víc,</l>
+     <l n="12" met="10010100" rhyme="4" line_length="8">a kol ní šumí aether jen</l>
+     <l n="13" met="01010101" rhyme="4" line_length="8">jak tichá hudba, lehký sen,</l>
+     <l n="14" met="01010100" line_length="8">a její zář – ta nehasne.</l>
+    </lg>
+    <lg n="3">
+     <l n="15" met="010101010" line_length="9">A jako labuť, která zpívá</l>
+     <l n="16" met="10010100" rhyme="5" line_length="8">do šera píseň poslední.</l>
+     <l n="17" met="010101010" line_length="9">Co na tom, zdali noci zpívá,</l>
+     <l n="18" met="00010100" rhyme="5" line_length="8">či zda se k ránu rozední?</l>
+     <l n="19" met="11000101" rhyme="6" line_length="8">Má na tom dost, že bůh jí dal</l>
+     <l n="20" met="11011001" rhyme="6" line_length="8">klid, písně, sny, a že jí přál</l>
+     <l n="21" met="01010100" line_length="8">být čistou, bílou labutí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

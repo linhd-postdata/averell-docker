@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NOËL</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_noel</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NOËL</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NOËL</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Le ciel est noir, la terre est blanche ;</l>
+     <l n="2" rhyme="b" line_length="8">— Cloches, carillonnez gaîment !—</l>
+     <l n="3" rhyme="a" line_length="8">Jésus est né.— La Vierge penche</l>
+     <l n="4" rhyme="b" line_length="8">Sur lui son visage charmant.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Pas de courtines festonnées</l>
+     <l n="6" rhyme="b" line_length="8">Pour préserver l'enfant du froid,</l>
+     <l n="7" rhyme="a" line_length="8">Rien que les toiles d'araignées</l>
+     <l n="8" rhyme="b" line_length="8">Qui pendent des poutres du toit.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Il tremble sur la paille fraîche,</l>
+     <l n="10" rhyme="b" line_length="8">Ce cher petit enfant Jésus,</l>
+     <l n="11" rhyme="a" line_length="8">Et pour l'échauffer dans sa crèche</l>
+     <l n="12" rhyme="b" line_length="8">L'âne et le bœuf soufflent dessus.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">La neige au chaume coud ses franges,</l>
+     <l n="14" rhyme="b" line_length="8">Mais sur le toit s'ouvre le ciel</l>
+     <l n="15" rhyme="a" line_length="8">Et, tout en blanc, le chœur des anges</l>
+     <l n="16" rhyme="b" line_length="8">Chante aux bergers : «Noël ! Noël !»</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

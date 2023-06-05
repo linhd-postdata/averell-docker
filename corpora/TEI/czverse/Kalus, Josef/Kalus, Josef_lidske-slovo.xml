@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LIDSKÉ SLOVO.</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_lidske-slovo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LIDSKÉ SLOVO.</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LIDSKÉ SLOVO.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010110" rhyme="1" line_length="9">Každé slovo lidské má váhu:</l>
+     <l n="2" met="01010100" rhyme="2" line_length="8">jak úder zvonu působí,</l>
+     <l n="3" met="10000100" rhyme="2" line_length="8">rozléhá se až za hroby,</l>
+     <l n="4" met="0100010010" rhyme="1" line_length="10">až ku věčnosti samému prahu,</l>
+     <l n="5" met="1001010010" rhyme="1" line_length="10">dovede k zkáze anebo k blahu,</l>
+     <l n="6" met="10000100" rhyme="2" line_length="8">osvobodí neb porobí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

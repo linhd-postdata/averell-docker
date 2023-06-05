@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NA STANICI.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_na-stanici</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NA STANICI.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NA STANICI.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101001101010" line_length="13">V kol hřmění, otřesech, vlak prolét krajem v kouři,</l>
+     <l n="2" met="0101000100010" rhyme="1" line_length="13">jenž v stromy vešel se a po zemi se plazil,</l>
+     <l n="3" met="1101000101000" line_length="13">v brzd táhlém skřípění a supě na stanici</l>
+     <l n="4" met="0101000101010" rhyme="1" line_length="13">se stavěl s hlomozem, jak vůz se s vozem srazil.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101001001010" line_length="13">Kdos okno otevřel... V stanici zvonku znění</l>
+     <l n="6" met="0101011001010" rhyme="2" line_length="13">v tom tichu, vlak jak stál, třesavé, jasně znělo,</l>
+     <l n="7" met="1001011101010" line_length="13">s perronu hlasů hluk – pár lidí v slunci stálo,</l>
+     <l n="8" met="0101001001010" rhyme="2" line_length="13">jež zvolna v paprscích posledních hasnouc mřelo...</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101000101010" line_length="13">A s hlukem vpadaly zas dvéře podél vlaku,</l>
+     <l n="10" met="1001001001010" rhyme="3" line_length="13">perronem nesly se údery krátké zvonu,</l>
+     <l n="11" met="0101011101000" line_length="13">pak trubky táhlý tón, hvizd ostrý, přerývaný,</l>
+     <l n="12" met="0101011001010" rhyme="3" line_length="13">a zvolna vlak se hnul ve stroje táhlém stonu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

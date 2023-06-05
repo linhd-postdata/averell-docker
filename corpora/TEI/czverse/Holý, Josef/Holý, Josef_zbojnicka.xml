@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ZBOJNICKÁ</title>
+    <author>Holý, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Holý, Josef_zbojnicka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ZBOJNICKÁ</title>
+     <author>Holý, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ZBOJNICKÁ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101010" rhyme="1" line_length="10">Pojďme, chlapci, na zboj k bílým pannám,</l>
+     <l n="2" met="1000101010" rhyme="1" line_length="10">otevřeme srdce hadím ránám.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="1010101010" rhyme="2" line_length="10">Koho bolí, koho milá trápí,</l>
+     <l n="4" met="0010101010" rhyme="2" line_length="10">ať se v ženském černém moři ztápí.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="1010001010" rhyme="3" line_length="10">Pohár vína, ať v něm bolest dříme,</l>
+     <l n="6" met="1010101000" rhyme="3" line_length="10">švarnou pannou tělo opojíme.</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="1000100010" rhyme="4" line_length="10">Opojíme, zapomenem na ni,</l>
+     <l n="8" met="1010101000" rhyme="4" line_length="10">za noc jednu jedno milování.</l>
+    </lg>
+    <lg n="5">
+     <l n="9" met="1000101010" rhyme="1" line_length="10">Otevřeme srdce hadím ránám,</l>
+     <l n="10" met="1010101010" rhyme="1" line_length="10">pojďme, chlapci, na zboj k bílým pannám.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

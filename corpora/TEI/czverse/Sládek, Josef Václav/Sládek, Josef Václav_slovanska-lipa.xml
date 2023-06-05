@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Slovanská lípa.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_slovanska-lipa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Slovanská lípa.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Slovanská lípa.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" line_length="6">Na slovanské lípě</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">roste mnoho snětí,</l>
+     <l n="3" met="101010" line_length="6">a my jedné matky</l>
+     <l n="4" met="100010" rhyme="1" line_length="6">slovanské jsme děti.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101010" line_length="6">Mnohá větev suchá,</l>
+     <l n="6" met="101000" rhyme="2" line_length="6">mnohá nalomená,</l>
+     <l n="7" met="101010" line_length="6">ale lípa stojí</l>
+     <l n="8" met="101000" rhyme="2" line_length="6">vzdorná, neskloněná.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="101010" line_length="6">I ať vichr duje,</l>
+     <l n="10" met="101010" rhyme="3" line_length="6">blesk se do ní pustí,</l>
+     <l n="11" met="101010" line_length="6">ona bude státi,</l>
+     <l n="12" met="101010" rhyme="3" line_length="6">ona bude růsti.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="110010" line_length="6">Vzdor na vzdory světu,</l>
+     <l n="14" met="100010" rhyme="4" line_length="6">na radost svým dětem,</l>
+     <l n="15" met="101010" line_length="6">krásná, silná, velká,</l>
+     <l n="16" met="100010" rhyme="4" line_length="6">obalena květem!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

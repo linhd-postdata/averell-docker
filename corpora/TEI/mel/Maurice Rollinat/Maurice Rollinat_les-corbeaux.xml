@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LES CORBEAUX</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_les-corbeaux</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LES CORBEAUX</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LES CORBEAUX</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="3+6">Les corbeaux volent en croassant</l>
+     <l n="2" rhyme="b" line_length="3+6">Tout autour du vieux donjon qui penche ;</l>
+     <l n="3" rhyme="b" line_length="6+3">Sur le chaume plat comme une planche</l>
+     <l n="4" rhyme="a" line_length="3+6">Ils se sont abattus plus de cent.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+3">Un deuil inexprimable descend</l>
+     <l n="6" rhyme="b" line_length="6+3">Des arbres qui n'ont plus une branche.</l>
+     <l n="7" rhyme="a" line_length="3+6">Les corbeaux volent en croassant</l>
+     <l n="8" rhyme="b" line_length="3+6">Tout autour du vieux donjon qui penche.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="3+6">Et tandis que j'erre en frémissant</l>
+     <l n="10" rhyme="b" line_length="9">Dans le brouillard où mon spleen s'épanche,</l>
+     <l n="11" rhyme="b" line_length="3−6">Tout noirs sur la neige toute blanche,</l>
+     <l n="12" rhyme="a" line_length="6+3">Avides de charogne et de sang,</l>
+     <l n="13" rhyme="a" line_length="3+6">Les corbeaux volent en croassant.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LXI</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_lxi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LXI</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LXI</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Relève ton beau front, assombri par instants ;</l>
+     <l n="2" rhyme="a" line_length="6+6">Il faut se réjouir, car voici le printemps :</l>
+     <l n="3" rhyme="b" line_length="6+6">Avril, saison dorée où parmi les zéphyres,</l>
+     <l n="4" rhyme="b" line_length="6+6">Les parfums, les chansons, les baisers, les sourires,</l>
+     <l n="5" rhyme="c" line_length="6+6">Et tous ces doux propos qu'on tient à demi-voix,</l>
+     <l n="6" rhyme="c" line_length="6+6">L'amour revient au cœur comme l'ombrage au bois.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

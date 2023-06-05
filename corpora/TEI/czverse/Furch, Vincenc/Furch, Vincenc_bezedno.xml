@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Bezedno.</title>
+    <author>Furch, Vincenc</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Furch, Vincenc_bezedno</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Bezedno.</title>
+     <author>Furch, Vincenc</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Bezedno.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" line_length="6">Bezedno, bezedno,</l>
+     <l n="2" met="010100" rhyme="1" line_length="6">Co zíváš pode mnou,</l>
+     <l n="3" met="100100" line_length="6">Bezedno, dívám se</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">Ve tvou propasť temnou.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100110" line_length="6">Jakobych měl křídla,</l>
+     <l n="6" met="100010" rhyme="2" line_length="6">Jakobych byl ptákem,</l>
+     <l n="7" met="100000" line_length="6">Neohroženým já</l>
+     <l n="8" met="101010" rhyme="2" line_length="6">V tebe hledím zrakem.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="101000" line_length="6">Ruce rozepínám</l>
+     <l n="10" met="100010" rhyme="3" line_length="6">Ve podobě kříže,</l>
+     <l n="11" met="010010" line_length="6">Tak na kraji čekám,</l>
+     <l n="12" met="001010" rhyme="3" line_length="6">Až mě strhne tíže.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="101000" line_length="6">Ruce rozepínám,</l>
+     <l n="14" met="101010" rhyme="4" line_length="6">Jakby křídla byly,</l>
+     <l n="15" met="001000" line_length="6">Tak já očekávám</l>
+     <l n="16" met="010010" rhyme="4" line_length="6">Svou osudnou chvíli.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

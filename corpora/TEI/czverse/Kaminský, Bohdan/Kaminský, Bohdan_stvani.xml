@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Štvaní.</title>
+    <author>Kaminský, Bohdan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kaminský, Bohdan_stvani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Štvaní.</title>
+     <author>Kaminský, Bohdan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Štvaní.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010100010" rhyme="1" line_length="9">Proč v divém, rozvášněném honě</l>
+     <l n="2" met="100101010" rhyme="1" line_length="9">stavíte náhle svého koně,</l>
+     <l n="3" met="01000101" rhyme="2" line_length="8">že udivený hledí pes, –</l>
+     <l n="4" met="010001010" rhyme="3" line_length="9">co stalo se, ta paní kněžna</l>
+     <l n="5" met="010001010" rhyme="3" line_length="9">vždy k bělouši i k němu něžná</l>
+     <l n="6" met="01001100" rhyme="2" line_length="8">že bičíkem štve oba dnes?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

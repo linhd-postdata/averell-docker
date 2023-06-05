@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pomoz!</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">7</measure>
+    <measure unit="line">28</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_pomoz</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pomoz!</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pomoz!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010" line_length="6">Beťár, žid a fiškal,</l>
+     <l n="2" met="011010" rhyme="1" line_length="6">to tři rodní brati,</l>
+     <l n="3" met="001000" line_length="6">ti se Slovákovi</l>
+     <l n="4" met="101000" rhyme="1" line_length="6">umí zalíčati.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101010" line_length="6">Beťár krade koně,</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">židák zboží drobné,</l>
+     <l n="7" met="010010" line_length="6">a fiškál jak kohout</l>
+     <l n="8" met="100100" rhyme="2" line_length="6">zrnéčka sezobne.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100010" line_length="6">Mistrové to věru,</l>
+     <l n="10" met="100010" rhyme="3" line_length="6">ale my jen učni;</l>
+     <l n="11" met="101010" line_length="6">tuhou naší prací</l>
+     <l n="12" met="010010" rhyme="3" line_length="6">jsou baráti tučni.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="101010" line_length="6">A my schneme stále</l>
+     <l n="14" met="100100" rhyme="4" line_length="6">jako ty krkošky,</l>
+     <l n="15" met="101100" line_length="6">nohy cit nemají,</l>
+     <l n="16" met="101010" rhyme="4" line_length="6">rozum nemá nožky.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="101010" line_length="6">Srdce jazyk nemá,</l>
+     <l n="18" met="101010" rhyme="5" line_length="6">jazyk rázné slovo,</l>
+     <l n="19" met="010010" line_length="6">jen slzy jsou těžší</l>
+     <l n="20" met="101000" rhyme="5" line_length="6">stokrát nad olovo.</l>
+    </lg>
+    <lg n="6">
+     <l n="21" met="100010" line_length="6">O Parome starý,</l>
+     <l n="22" met="100010" rhyme="6" line_length="6">najdi k nám už stezku,</l>
+     <l n="23" met="010010" line_length="6">a do každé ruky</l>
+     <l n="24" met="101010" rhyme="6" line_length="6">vezmi tisíc blesků.</l>
+    </lg>
+    <lg n="7">
+     <l n="25" met="100010" line_length="6">Do každého blesku</l>
+     <l n="26" met="101010" rhyme="7" line_length="6">aspoň tisíc smrtí...</l>
+     <l n="27" met="101010" line_length="6">zhynem, tváli síla</l>
+     <l n="28" met="101000" rhyme="7" line_length="6">jarmo nerozdrtí! –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

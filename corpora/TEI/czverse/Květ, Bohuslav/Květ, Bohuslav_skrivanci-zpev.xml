@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Skřivánčí zpěv.</title>
+    <author>Květ, Bohuslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Květ, Bohuslav_skrivanci-zpev</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Skřivánčí zpěv.</title>
+     <author>Květ, Bohuslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Skřivánčí zpěv.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" rhyme="1" line_length="8">Když z dáli jaro přilétne</l>
+     <l n="2" met="01000101" rhyme="2" line_length="8">a zelení nám krášlí zem,</l>
+     <l n="3" met="11000100" rhyme="1" line_length="8">zpěv skřivánčí tvé srdce jme</l>
+     <l n="4" met="01010101" rhyme="2" line_length="8">a duši plní libým snem...</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" rhyme="3" line_length="8">Toť první pozdrav přírody,</l>
+     <l n="6" met="01010100" rhyme="4" line_length="8">již Boží dlaň zas vzkřísila,</l>
+     <l n="7" met="01010100" rhyme="3" line_length="8">toť úsměv blahé pohody,</l>
+     <l n="8" met="01000100" rhyme="4" line_length="8">jež na slunci se zrodila!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10000101" rhyme="5" line_length="8">A to byl vždy můj tajný sen:</l>
+     <l n="10" met="10010100" rhyme="5" line_length="8">skřivánkem drobným býti jen,</l>
+     <l n="11" met="01010100" rhyme="6" line_length="8">své štěstí, žal svůj vyzpívat,</l>
+     <l n="12" met="10010011" rhyme="6" line_length="8">a až se sešeří, jít spat...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

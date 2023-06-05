@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Con muy sobrada razón,</title>
+    <author>Jacinto Polo de Medina</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jacinto Polo de Medina_con-muy-sobrada-razon</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Poesía Lírica Castellana Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Con muy sobrada razón,</title>
+     <author>Jacinto Polo de Medina</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Con muy sobrada razón,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="Epigrama">
+     <l n="1" met="-+-+--+-">Con muy sobrada razón,</l>
+     <l n="2" met="--+--+-">las llamó cierto poeta</l>
+     <l n="3" met="--+---+-">a tus barbas de bayeta,</l>
+     <l n="4" met="+-----+-">barbas de Kirieleysón.</l>
+     <l n="5" met="+--+-+-">Pueden servir, si tú, Alonso,</l>
+     <l n="6" met="+-----+-">mueres en la juventud,</l>
+     <l n="7" met="--+----+-">para aforro en tu ataúd,</l>
+     <l n="8" met="--+---+-">y a tu entierro de responso.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

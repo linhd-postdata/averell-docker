@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Flor temprana</title>
+    <author>Ramón López Velarde</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ramón López Velarde_flor-temprana</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Flor temprana</title>
+     <author>Ramón López Velarde</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Flor temprana</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Mujer que recogiste los primeros</l>
+     <l n="2" met="+----+-+-+-">frutos de mi pasión, ¡con qué alegría</l>
+     <l n="3" met="-+-+-+-+-+-">como una santa esposa te vería</l>
+     <l n="4" met="-+---+---+-">llegar a mis floridos jazmineros!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--++-+---+-">Al mirarte venir, los placenteros</l>
+     <l n="6" met="-+---+---+-">cantares del amor desgranaría,</l>
+     <l n="7" met="-+---+---+-">colgada en la risueña galería,</l>
+     <l n="8" met="-+---+---+-">la jaula de canarios vocingleros.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+---+-+-">Si a mis abismos de tristeza bajas</l>
+     <l n="10" met="-------+-+-">y si al conjuro de tu labio cuajas</l>
+     <l n="11" met="--+--+---+-">de botones las rústicas macetas,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+---+-">te aspiraré con gozo temerario</l>
+     <l n="13" met="---+-+---+-">como se aspira en un devocionario</l>
+     <l n="14" met="+-+--+---+-">un perfume de místicas violetas.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

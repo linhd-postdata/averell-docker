@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ticho.</title>
+    <author>Klášterský, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Klášterský, Antonín_ticho</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ticho.</title>
+     <author>Klášterský, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ticho.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101010001000" rhyme="1" line_length="16">Ticho, ticho, lesní ticho, hluboké jak zapomnění.</l>
+     <l n="2" met="1000101010101010" rhyme="2" line_length="16">Bez pohnutí staré duby, staré buky ční a stojí.</l>
+     <l n="3" met="1010101010101010" rhyme="1" line_length="16">A přec ve vás, tiché lesy, a přec ve vás klidu není,</l>
+     <l n="4" met="1010101010101010" rhyme="2" line_length="16">jako není ani chvíli klidu v mladé duši mojí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1000101010001010" rhyme="3" line_length="16">Stále se tam něco chvěje, stále se tam něco děje,</l>
+     <l n="6" met="1000101010001010" rhyme="4" line_length="16">stále se tam něco vlní, stále se tam něco budí,</l>
+     <l n="7" met="1010101010101000" rhyme="3" line_length="16">sny a touhy, tuchy, přání, stará bolesť bez naděje,</l>
+     <l n="8" met="1010100010001010" rhyme="4" line_length="16">moře, moře nepokojné vlní se to v naší hrudi.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010101010101010" rhyme="5" line_length="16">A já usnu přece jednou, zajdou sny a touhy s nimi,</l>
+     <l n="10" met="1010100010001010" rhyme="6" line_length="16">budu spáti bez pohnutí, necitelné roven skále,</l>
+     <l n="11" met="1010100010001000" rhyme="5" line_length="16">a vy, lesy, bez oddechu budete zas nad jinými,</l>
+     <l n="12" met="1010101010001010" rhyme="6" line_length="16">kteří přijdou hledat poklid, bez klidu se chvěti dále..!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

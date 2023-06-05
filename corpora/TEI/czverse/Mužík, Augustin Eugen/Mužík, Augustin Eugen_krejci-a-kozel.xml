@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KREJČÍ A KOZEL.</title>
+    <author>Mužík, Augustin Eugen</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mužík, Augustin Eugen_krejci-a-kozel</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KREJČÍ A KOZEL.</title>
+     <author>Mužík, Augustin Eugen</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KREJČÍ A KOZEL.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101" rhyme="1" line_length="7">Krejčí z rána v hodin šest</l>
+     <l n="2" met="1001101" rhyme="1" line_length="7">kozlíka chce na trh vést.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="1010100" rhyme="2" line_length="7">Ale kozel protiva</l>
+     <l n="4" met="1010100" rhyme="2" line_length="7">nechce, nechce ze chlíva.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="1001101" rhyme="3" line_length="7">Krejčí ten měl velký vztek –</l>
+     <l n="6" met="1010111" rhyme="3" line_length="7">kozel pořád „mek, mek, mek“!</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="1010100" rhyme="4" line_length="7">A jak hlavy ze dveří,</l>
+     <l n="8" met="1010100" rhyme="4" line_length="7">nikdo očím nevěří:</l>
+    </lg>
+    <lg n="5">
+     <l n="9" met="1010100" rhyme="5" line_length="7">K bradě brada ryšavá –</l>
+     <l n="10" met="0010101" rhyme="5" line_length="7">to jsou, lidé, kozli dva!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

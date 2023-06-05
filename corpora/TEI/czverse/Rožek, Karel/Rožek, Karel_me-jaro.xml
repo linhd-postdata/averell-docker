@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mé jaro.</title>
+    <author>Rožek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Rožek, Karel_me-jaro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mé jaro.</title>
+     <author>Rožek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mé jaro.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101000101010" rhyme="1" line_length="13">Když jarem zazářilo první světlo hřejné,</l>
+     <l n="2" met="110001000100" rhyme="2" line_length="12">jdu po cestách, jež opustil jsem v jeseni.</l>
+     <l n="3" met="0101010101010" rhyme="1" line_length="13">Zas květy zřím a ptáků slyším písně stejné</l>
+     <l n="4" met="010101010100" rhyme="2" line_length="12">jak v jara všecka v téže stromů zeleni.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101000101010" rhyme="3" line_length="13">Ať hlednu kamkoli, táž radosť jako vždycky,</l>
+     <l n="6" met="01010010010" rhyme="4" line_length="11">táž síla vzkříšení přírodou hárá.</l>
+     <l n="7" met="1001010100110" rhyme="3" line_length="13">I já, týž starý tulák – poslední tvor lidský,</l>
+     <l n="8" met="01010001010" rhyme="4" line_length="11">a v srdci zůstala táž bolesť stará.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0100010001010" rhyme="5" line_length="13">Ne, mýlím se, dnes o bolesť víc v srdci kvílí.</l>
+     <l n="10" met="010101010100" rhyme="6" line_length="12">– Ten život kolem k vůli lásce zpívá jen,</l>
+     <l n="11" met="0101000101010" rhyme="5" line_length="13">a pro ní jaro je, by dalo nové síly. –</l>
+     <l n="12" met="0100010001" rhyme="6" line_length="10">Má láska však, to daleký je sen.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

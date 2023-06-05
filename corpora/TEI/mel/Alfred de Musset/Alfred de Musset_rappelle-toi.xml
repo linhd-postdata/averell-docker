@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>RAPPELLE-TOI</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_rappelle-toi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>RAPPELLE-TOI</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>RAPPELLE-TOI</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+6">A l'appel du plaisir lorsque ton sein palpite,</l>
+     <l n="2" rhyme="b" line_length="4+6">Aux doux songes du soir lorsque l'ombre l'invite,</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="4+6">Songe à mon triste amour, songe à l'adieu suprême !</l>
+     <l n="4" rhyme="b" line_length="4+6">L'absence ni le temps ne sont rien quand on aime.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="4+6">Je ne te verrai plus ; mais mon âme immortelle</l>
+     <l n="6" rhyme="b" line_length="4+6">Reviendra près de loi comme une sœur fidèle.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

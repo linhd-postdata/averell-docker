@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Las castillas</title>
+    <author>José de Maturana</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José de Maturana_las-castillas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Las castillas</title>
+     <author>José de Maturana</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Las castillas</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--++--+-">Son hermanas de amor, van de la mano</l>
+     <l n="2" met="--+--+---+-">por la estepa del fondo levantino,</l>
+     <l n="3" met="-+---+---+-">llevando en polvoriento pergamino</l>
+     <l n="4" met="--+--+---+-">las memorias del mundo castellano.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++-+-+-+-+-">Son dos hidalgas de un orgullo anciano</l>
+     <l n="6" met="---+-+---+-">que, en los inermes yunques del destino,</l>
+     <l n="7" met="---+---+-+-">firmes, batieron con afán contino</l>
+     <l n="8" met="-+-+---+-+-">la vieja cruz del abolengo hispano.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+----+---+-">¿Viven de ensueños? ¿Cantan añoranzas?</l>
+     <l n="10" met="++--+----+-">¿No hay un verde racimo de esperanzas</l>
+     <l n="11" met="-+-+---+-+-">que allá en sus viñas desoladas brote?...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+++-">¡Tal vez la voz del porvenir les grite,</l>
+     <l n="13" met="--++-+---+-">cuando en bien de otros fueros resucite</l>
+     <l n="14" met="-+-+-+---+-">con otra adarga olímpica el Quijote!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

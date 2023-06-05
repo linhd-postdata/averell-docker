@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sonetos -- - I -</title>
+    <author>Pedro de Quirós</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pedro de Quirós_sonetos-i</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sonetos -- - I -</title>
+     <author>Pedro de Quirós</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sonetos -- - I -</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+--+-+--+-">Itálica, ¿do estás? Tu lozanía</l>
+     <l n="2" met="-+-+-+---+-">tendida yace al peso de los años.</l>
+     <l n="3" met="+--+-+---+-">¿Quién a la luz que dan tus desengaños</l>
+     <l n="4" met="--+--+-+-+-">en la sombra veloz del tiempo fía?</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">Cedió tu pompa a la fatal porfía</l>
+     <l n="6" met="--+--+---+-">de tirana ambición de los extraños;</l>
+     <l n="7" met="-+---+---+-">mas hízote el ejemplo de tus daños</l>
+     <l n="8" met="+--+---+-+-">libro de sabios, de ignorantes guía.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+-+-+-+-">Mal dije; no humilló tus torres claras</l>
+     <l n="10" met="+----+-+-+-">tiempo ni emulación con manos fieras;</l>
+     <l n="11" met="---++--+-+-">que, a resistirte, de las dos triunfaras.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--++-+-+-+-">Tu morir fue deber; que si hoy vivieras,</l>
+     <l n="13" met="--+-++-+-+-">ni a tus héroes más triunfos les hallaras,</l>
+     <l n="14" met="--+--+---+-">ni del mundo en el ámbito cupieras.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

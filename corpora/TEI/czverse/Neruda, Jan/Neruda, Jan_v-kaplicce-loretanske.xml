@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V kapličce Loretánské</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_v-kaplicce-loretanske</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V kapličce Loretánské</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V kapličce Loretánské</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001000" line_length="7">V kapličce Loretánské </l>
+     <l n="2" met="0101010" rhyme="1" line_length="7">je tmavo jako v hrobu –</l>
+     <l n="3" met="1100010" line_length="7">hrob boží tam vždy stával</l>
+     <l n="4" met="1000010" rhyme="1" line_length="7">o velkonoční dobu.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001010" line_length="7">Nad hrobem v lesklém zlatě</l>
+     <l n="6" met="1101010" rhyme="2" line_length="7">lamp sterý kmit si skákal –</l>
+     <l n="7" met="1001010" line_length="7">a já jsem v tmavém koutě</l>
+     <l n="8" met="0100010" rhyme="2" line_length="7">si nad Ježíškem zplakal.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

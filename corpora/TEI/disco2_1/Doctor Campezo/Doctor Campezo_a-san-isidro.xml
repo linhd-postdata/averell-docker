@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A San Isidro</title>
+    <author>Doctor Campezo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Doctor Campezo_a-san-isidro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A San Isidro</title>
+     <author>Doctor Campezo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A San Isidro</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+-+-+-">Los campos de Madrid, Isidro santo,</l>
+     <l n="2" met="+--+-+-+-+-">son heredad de Dios, su tierra cielo,</l>
+     <l n="3" met="-----++--+-">pues cuando contempláis, eran el suelo</l>
+     <l n="4" met="-+---+---+-">espíritus divinos entretanto.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+---+-">El labrador del cielo con su manto</l>
+     <l n="6" met="++-+---+-+-">os hace sombra por mayor consuelo,</l>
+     <l n="7" met="++---+-+-+-">no os cause la labor algún desvelo,</l>
+     <l n="8" met="-+---+-+-+-">pues gloria cogeréis sembrando llanto.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">Surcad de Dios con la oración el pecho,</l>
+     <l n="10" met="--+--+---+-">y los bellos cristales de los ojos</l>
+     <l n="11" met="+--+---+-+-">rindan aprisa por Madrid tributo.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+---+-">Contentaréis a Dios, y satisfecho</l>
+     <l n="13" met="--+--+---+-">triunfaréis de la gloria por despojos,</l>
+     <l n="14" met="-+-+-+---+-">sembrando aquí sus lágrimas, el fruto.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

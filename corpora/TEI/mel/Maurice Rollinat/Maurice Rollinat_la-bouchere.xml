@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LA BOUCHÈRE</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_la-bouchere</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LA BOUCHÈRE</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LA BOUCHÈRE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">La vache lentement chemine</l>
+     <l n="2" rhyme="b" line_length="8">Entre le chaume et le regain ;</l>
+     <l n="3" rhyme="b" line_length="8">La bouchère suit, cou sanguin,</l>
+     <l n="4" rhyme="a" line_length="8">Moustache noire et belle mine.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Par instants, son œil s'illumine :</l>
+     <l n="6" rhyme="b" line_length="8">Elle a dû faire un fameux gain !</l>
+     <l n="7" rhyme="a" line_length="8">— La vache lentement chemine</l>
+     <l n="8" rhyme="b" line_length="8">Entre le chaume et le regain.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Et tandis qu'à chaque chaumine</l>
+     <l n="10" rhyme="b" line_length="8">S'arrête le petit doguin,</l>
+     <l n="11" rhyme="b" line_length="8">Devant la commère en béguin,</l>
+     <l n="12" rhyme="a" line_length="8">— Douce et blanche comme une hermine,</l>
+     <l n="13" rhyme="a" line_length="8">La vache lentement chemine.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

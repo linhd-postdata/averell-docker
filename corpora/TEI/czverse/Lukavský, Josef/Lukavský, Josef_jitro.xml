@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JITRO.</title>
+    <author>Lukavský, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lukavský, Josef_jitro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JITRO.</title>
+     <author>Lukavský, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JITRO.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101000" rhyme="1" line_length="7">Mne jitro zavolalo</l>
+     <l n="2" met="100100" rhyme="2" line_length="6">čarovným hlasem svým</l>
+     <l n="3" met="1001010" rhyme="1" line_length="7">do luk, kde slunce plálo</l>
+     <l n="4" met="100100" rhyme="2" line_length="6">bohatstvím nesmírným</l>
+     <l n="5" met="0100010" rhyme="1" line_length="7">a do loktů mne vzalo,</l>
+     <l n="6" met="0100010" rhyme="1" line_length="7">by důvěrně se ptalo,</l>
+     <l n="7" met="0101010" line_length="7">jak chápu jeho krásu</l>
+     <l n="8" met="101001" rhyme="2" line_length="6">a co o štěstí vím.</l>
+    </lg>
+    <lg n="2">
+     <l n="9" met="0101000" rhyme="3" line_length="7">A jitro uslyšelo</l>
+     <l n="10" met="010001" rhyme="4" line_length="6">můj přitlumený hlas:</l>
+     <l n="11" met="0101010" rhyme="3" line_length="7">Jsem nyní pouhé tělo,</l>
+     <l n="12" met="100001" rhyme="4" line_length="6">usychající klas,</l>
+     <l n="13" met="0001010" rhyme="3" line_length="7">neb to, co žilo, vřelo,</l>
+     <l n="14" met="0101000" rhyme="3" line_length="7">k mé milé odletělo,</l>
+     <l n="15" met="0101000" line_length="7">jež čeká nedočkavě,</l>
+     <l n="16" met="000100" rhyme="4" line_length="6">kdy k ní se vrátím zas.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

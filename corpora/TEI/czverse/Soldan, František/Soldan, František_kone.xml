@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KONĚ.</title>
+    <author>Soldan, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Soldan, František_kone</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KONĚ.</title>
+     <author>Soldan, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KONĚ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101001010" line_length="11">Z dola vozy rachotí těžce domů –</l>
+     <l n="2" met="10101001010" line_length="11">Koně v předu dumají o své sudbě,</l>
+     <l n="3" met="10101001010" line_length="11">kterou stížil stvořitel jejich šíje:</l>
+     <l n="4" met="10010" line_length="5">půjčiv jich lidem.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101001010" line_length="11">Hlavou teskně kývají při své chůzi –</l>
+     <l n="6" met="10101001010" line_length="11">okem sotva projeví svoji duši,</l>
+     <l n="7" met="10101001010" line_length="11">ale noha okutá depce půdu,</l>
+     <l n="8" met="10010" line_length="5">prokletou věčně.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kabala</title>
+    <author>François Coppée</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>François Coppée_kabala</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kabala</title>
+     <author>François Coppée</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kabala</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Après avoir blanchi sur un grimoire antique,</l>
+     <l n="2" rhyme="b" line_length="6+6">Près du creuset, bravant fagots et Montfaucon,</l>
+     <l n="3" rhyme="b" line_length="6+6">Sans avoir trouvé l'or ni le basilicon,</l>
+     <l n="4" rhyme="a" line_length="6+6">L'ancien souffleur mourait, pauvre et sans viatique.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Mais, comme pour venger la foi cabalistique,</l>
+     <l n="6" rhyme="b" line_length="6+6">La chimie émergeait des fourneaux de Bacon ;</l>
+     <l n="7" rhyme="b" line_length="6+6">Et, tâchant d'enfermer la vie en un flacon,</l>
+     <l n="8" rhyme="a" line_length="6+6">Paracelse créait une thérapeutique.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Cependant la science était encor trop peu.</l>
+     <l n="10" rhyme="c" line_length="6+6">Des arts charmants sont nés dans le secret du feu,</l>
+     <l n="11" rhyme="d" line_length="6+6">Comme y seraient éclos des œufs de salamandre.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">C'est là que Limosin et Bernard Palissy</l>
+     <l n="13" rhyme="d" line_length="6+6">Ont cueilli le laurier qu'après eux tu viens prendre,</l>
+     <l n="14" rhyme="e" line_length="6+6">Claudius, et le vieux Hermès te dit : « Merci. »</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

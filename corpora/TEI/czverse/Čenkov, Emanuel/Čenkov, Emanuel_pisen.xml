@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PÍSEŇ.</title>
+    <author>Čenkov, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čenkov, Emanuel_pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PÍSEŇ.</title>
+     <author>Čenkov, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PÍSEŇ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1101010" line_length="7">Ó Němec hrobař kopal</l>
+     <l n="2" met="100101" rhyme="1" line_length="6">pro českou matku rov,</l>
+     <l n="3" met="0101000" line_length="7">a kněží modlili se</l>
+     <l n="4" met="110101" rhyme="1" line_length="6">směs divnou cizích slov.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1100011" line_length="7">Lid odrodilý stál kol,</l>
+     <l n="6" met="010101" rhyme="2" line_length="6">a z hrobu vanul chlad,</l>
+     <l n="7" met="1101010" line_length="7">lid cizí řečí počal</l>
+     <l n="8" met="100100" rhyme="2" line_length="6">„Otče náš“ odříkat,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101010" line_length="7">a hroudy z oné země,</l>
+     <l n="10" met="010100" rhyme="3" line_length="6">již Vlasti urvali,</l>
+     <l n="11" met="0101010" line_length="7">ti cizí lidé chvatně</l>
+     <l n="12" met="100100" rhyme="3" line_length="6">na rakev sypali. – –</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1101010" line_length="7">Ó matko moje mrtvá,</l>
+     <l n="14" met="110101" rhyme="4" line_length="6">slyš, jak ti ve hrob zní</l>
+     <l n="15" met="0101010" line_length="7">teď aspoň píseň česká,</l>
+     <l n="16" met="010100" rhyme="4" line_length="6">ta pravá – smuteční!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

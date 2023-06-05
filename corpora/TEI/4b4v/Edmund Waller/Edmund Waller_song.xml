@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Song</title>
+    <author>Edmund Waller</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Edmund Waller_song</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>For Better For Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Song</title>
+     <author>Edmund Waller</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Song</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="quintet">
+     <l n="1" met="++-+">Go, lovely rose!</l>
+     <l n="2" met="++-+-+-+">Tell her that wastes her time and me</l>
+     <l n="3" met="-+-+">That now she knows,</l>
+     <l n="4" met="-+-+-+-+">When I resemble her to thee,</l>
+     <l n="5" met="-+-+-+-+">How sweet and fair she seems to be.</l>
+    </lg>
+    <lg n="2" stanza_type="quintet">
+     <l n="6" met="++-+">Tell her that's young</l>
+     <l n="7" met="-+-+-+-+">And shuns to have her graces spied,</l>
+     <l n="8" met="-+-+">That had'st thou sprung</l>
+     <l n="9" met="-+--++-+">In deserts, where no men abide,</l>
+     <l n="10" met="-+-+-+-+">Thou must have uncommended died.</l>
+    </lg>
+    <lg n="3" stanza_type="quintet">
+     <l n="11" met="+--+">Small is the worth</l>
+     <l n="12" met="-+-+-+-+-">Of beauty from the light retired;</l>
+     <l n="13" met="+--+|+-++">Bid her come forth,</l>
+     <l n="14" met="+--+-+-+-">Suffer herself to be desired,</l>
+     <l n="15" met="-+++-+-+-|--++-+-+-">And not blush so to be admired.</l>
+    </lg>
+    <lg n="4" stanza_type="quintet">
+     <l n="16" met="++-+">Then die! that she</l>
+     <l n="17" met="-+-+-+++">The common fate of all things rare</l>
+     <l n="18" met="-+-+">May read in thee;</l>
+     <l n="19" met="-+-+-+-+">How small a part of time they share</l>
+     <l n="20" met="--++-+-+">That are so wondrous sweet and fair!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mi luz</title>
+    <author>Carlos Valverde López</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Carlos Valverde López_mi-luz</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mi luz</title>
+     <author>Carlos Valverde López</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mi luz</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++---+---+-">No fue mi voluntad ni mi albedrío</l>
+     <l n="2" met="-+---+-+-+-">el hondo palpitar de aquel deseo</l>
+     <l n="3" met="---+-+---+-">ni acrecentó mi afán su devaneo</l>
+     <l n="4" met="-+---+---+-">en turbio manantial de desvarío.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+---+-">No arrasó en aluvión mi labrantío</l>
+     <l n="6" met="--+--+---+-">el cadente ondular de su jadeo</l>
+     <l n="7" met="-+---+---+-">ni, en cálido huracán, el aleteo</l>
+     <l n="8" met="--+--+---+-">de su cuerpo animal de escalofrío.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-+-+-+-">Arrebató mi luz el alto anhelo</l>
+     <l n="10" met="---+-+---+-">de desgarrar la piel en el acero</l>
+     <l n="11" met="-+---+---+-">del tajo de su hoz en dentellada.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--++--+-">Si en su boca libé mieles de cielo</l>
+     <l n="13" met="--+--++--+-">en su hondura nací, fiel prisionero</l>
+     <l n="14" met="--+--+---+-">del azul resplandor de su mirada.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

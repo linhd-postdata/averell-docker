@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ty kdybys byla mojí!</title>
+    <author>Martinec, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Martinec, Jaroslav_ty-kdybys-byla-moji</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ty kdybys byla mojí!</title>
+     <author>Martinec, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ty kdybys byla mojí!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101010" rhyme="1" line_length="10">Moje mysl není zlá, ni skoupá.</l>
+     <l n="2" met="001010101" rhyme="2" line_length="9">Sám jsem rád, že mám kde hlavu skrýt.</l>
+     <l n="3" met="1010100010" rhyme="1" line_length="10">Želím spíše bohatého troupa,</l>
+     <l n="4" met="001010100" rhyme="2" line_length="9">že svých statků nezná použít.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010100010" rhyme="3" line_length="10">Jemu kyne k vítěznému boji</l>
+     <l n="6" met="101010100" rhyme="4" line_length="9">štědrá přízeň a on neplesá!</l>
+     <l n="7" met="1000101010" rhyme="3" line_length="10">Hedviko! ty kdybys byla mojí,</l>
+     <l n="8" met="001010100" rhyme="4" line_length="9">já bych svatým urval nebesa!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

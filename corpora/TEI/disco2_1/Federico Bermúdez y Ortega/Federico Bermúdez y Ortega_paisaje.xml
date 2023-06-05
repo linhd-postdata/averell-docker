@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Paisaje</title>
+    <author>Federico Bermúdez y Ortega</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Federico Bermúdez y Ortega_paisaje</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Paisaje</title>
+     <author>Federico Bermúdez y Ortega</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Paisaje</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++---+--+---+-">Es hora del profundo silencio de las cosas.</l>
+     <l n="2" met="++---+--+---+-">Ya todo, aletargado, parece que dormita</l>
+     <l n="3" met="---+-+---+--+-">bajo el halago de una pesadumbre infinita</l>
+     <l n="4" met="+--+-+--+---+-">que hacen las horas tristes, y lentas y tediosas.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+--+-+-+-">Discreto, el sol occiduo dibuja y prende rosas</l>
+     <l n="6" met="-+---+-++-+-+-">de púrpura en las nubes; un aura leve agita</l>
+     <l n="7" met="-+---+--+---+-">las frondas en silencio y apenas precipita</l>
+     <l n="8" met="-+-+-+--+---+-">del viejo mar en calma las ondas rumorosas.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+--+-+-+-">La tarde, flor de ensueño, doblega el áureo broche</l>
+     <l n="10" met="-+---+--+---+-">y tiembla a la primera caricia de la noche</l>
+     <l n="11" met="-+---+--+-+-+-">que esparce desde oriente su inmensa cauda bruna.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+--+---+-">Mientras como un heraldo divino de esperanza</l>
+     <l n="13" met="-+---+--+---+-">asoma, tras la noche lumínica que avanza,</l>
+     <l n="14" met="-+-+-+---+---+">su rostro de oro pálido y magnífico; la Luna.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>RADA</title>
+    <author>Cajthaml-Liberté, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cajthaml-Liberté, František_rada</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>RADA</title>
+     <author>Cajthaml-Liberté, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>RADA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="001000100" rhyme="1" line_length="9">Jsi-li ve krajině pardalů,</l>
+     <l n="2" met="100100100" rhyme="1" line_length="9">chodívej, synečku, pomalu,</l>
+     <l n="3" met="10010010" rhyme="2" line_length="8">chodívej, synečku, tiše.</l>
+     <l n="4" met="100100100" rhyme="3" line_length="9">Kdybys si zadupal, zazpíval,</l>
+     <l n="5" met="101000101" rhyme="3" line_length="9">špatný sen by se ti třeba zdál</l>
+     <l n="6" met="10010010" rhyme="2" line_length="8">v pardalů hostinném břiše.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

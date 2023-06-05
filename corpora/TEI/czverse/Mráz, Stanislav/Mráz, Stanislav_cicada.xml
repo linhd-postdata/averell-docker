@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CICADA.</title>
+    <author>Mráz, Stanislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mráz, Stanislav_cicada</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CICADA.</title>
+     <author>Mráz, Stanislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CICADA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001001010" line_length="10">Prophánní poutníku, prosím, jdi dál,</l>
+     <l n="2" met="100101010100" line_length="12">odstup, neb zpívat chci já slyšet cicadu!</l>
+     <l n="3" met="0011010100" line_length="10">Líp vňat skřek křídel, rhytmus. Zříš snad sám,</l>
+     <l n="4" met="0101101010" line_length="10">jak v žití vzruch kol, co plá, co svítí,</l>
+     <l n="5" met="11010010100" line_length="11">zní, dýchá, kývá, je mlada příroda!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

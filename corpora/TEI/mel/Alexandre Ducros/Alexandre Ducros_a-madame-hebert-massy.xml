@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A MADAME HÉBERT-MASSY</title>
+    <author>Alexandre Ducros</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alexandre Ducros_a-madame-hebert-massy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A MADAME HÉBERT-MASSY</title>
+     <author>Alexandre Ducros</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A MADAME HÉBERT-MASSY</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">On m'a dit que, passant certain jour par un bois,</l>
+     <l n="2" rhyme="b" line_length="6+6">Vous chantâtes, Madame, et que la gent à plume</l>
+     <l n="3" rhyme="a" line_length="6+6">(Celle des rossignols) entendant votre voix,</l>
+     <l n="4" rhyme="b" line_length="8">Et, confuse à vos chants, se mit à déserter</l>
+    </lg>
+    <lg n="2" />
+   </lg>
+  </body>
+ </text>
+</TEI>

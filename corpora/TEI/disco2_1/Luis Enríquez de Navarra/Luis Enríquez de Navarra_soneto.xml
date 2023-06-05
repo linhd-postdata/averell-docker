@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Luis Enríquez de Navarra</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Luis Enríquez de Navarra_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Luis Enríquez de Navarra</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+---+-">En cristalinos páramos desiertos,</l>
+     <l n="2" met="+----+---+-">tropa de navegantes afligidos,</l>
+     <l n="3" met="--+--+---+-">de la sed horrorosa comprimidos,</l>
+     <l n="4" met="---+-+--++-">se consideran Tántalos más ciertos.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+--+-+--+-">De Atropos despojos nada inciertos</l>
+     <l n="6" met="-+-+-+---+-">se crecen ya, y en fúnebres gemidos,</l>
+     <l n="7" met="--+--+---+-">los acentos que forman doloridos,</l>
+     <l n="8" met="+--+-+---+-">ecos repiten lánguidos, y yertos.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-++--+-+-+-">En tan grave conflicto, en pena tanta,</l>
+     <l n="10" met="+--+---+-+-">nuevo Moisés Javier, al daño atento,</l>
+     <l n="11" met="--+--+---+-">el remedio previno, y en su planta</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+--+--+-">dulzuras, dando al salobre elemento,</l>
+     <l n="13" met="+-+--+-+-+-">vara fue, que arrojada al lago espanta,</l>
+     <l n="14" met="--+--+---+-">la amargura, al dolor el sentimiento.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

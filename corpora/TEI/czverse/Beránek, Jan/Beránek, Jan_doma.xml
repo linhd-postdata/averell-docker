@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>DOMA –!</title>
+    <author>Beránek, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Beránek, Jan_doma</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>DOMA –!</title>
+     <author>Beránek, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>DOMA –!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01001010100" rhyme="1" line_length="11">Sám a sám se pustil sklenkár malinký</l>
+     <l n="2" met="10001010100" rhyme="1" line_length="11">do šírého světa z rodné dědinky.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="10101010100" rhyme="2" line_length="11">Celý věk svůj bloudil, v dáli hladověl;</l>
+     <l n="4" met="10101010001" rhyme="2" line_length="11">domů – kmet – se aspoň vyzpovídat šel.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="10101010000" rhyme="3" line_length="11">Oh! I umřít musel do ciziny zpět:</l>
+     <l n="6" met="10100010100" rhyme="3" line_length="11">doma – nemohl ni kněz mu rozumět!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

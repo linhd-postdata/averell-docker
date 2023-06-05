@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Ménestrel</title>
+    <author>Alexandre Ducros</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alexandre Ducros_le-menestrel</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Ménestrel</title>
+     <author>Alexandre Ducros</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Ménestrel</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6">Chanson d'amour du Ménestrel.</l>
+    </lg>
+    <lg n="2">
+     <l n="2" rhyme="a" line_length="6">Chanson d'amour du Ménestrel.</l>
+    </lg>
+    <lg n="3">
+     <l n="3" rhyme="a" line_length="6">Chanson d'amour du Ménestrel.</l>
+    </lg>
+    <lg n="4">
+     <l n="4" rhyme="a" line_length="6">Chanson d'amour du Ménestrel.</l>
+    </lg>
+    <lg n="5">
+     <l n="5" rhyme="a" line_length="6">Chanson d'amour du Ménestrel.</l>
+    </lg>
+    <lg n="6">
+     <l n="6" rhyme="a" line_length="6">Chanson d'amour du Ménestrel.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

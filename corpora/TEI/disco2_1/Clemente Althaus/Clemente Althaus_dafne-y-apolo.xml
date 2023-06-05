@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dafne y Apolo</title>
+    <author>Clemente Althaus</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Clemente Althaus_dafne-y-apolo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dafne y Apolo</title>
+     <author>Clemente Althaus</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dafne y Apolo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Al Céfiro venciendo en ligereza</l>
+     <l n="2" met="---+---+-+-">del impaciente enamorado Apolo</l>
+     <l n="3" met="+--+---+-+-">huye la ninfa con artero dolo</l>
+     <l n="4" met="---+++---+-">para encenderlo más con su esquiveza:</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+---+-">al fin alcanza el dios a la belleza,</l>
+     <l n="6" met="--+--+---+-">que el Amor con sus alas socorriolo;</l>
+     <l n="7" met="-----+++-+-">mas ¡ay! que al abrazarla, abraza sólo</l>
+     <l n="8" met="++---+---+-">de un árbol la durísima corteza.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+++--+-+-+-">Dafne es toda mujer: oh ciego amante,</l>
+     <l n="10" met="-+-+---+-+-">que ves de Apolo la funesta suerte,</l>
+     <l n="11" met="+-+--+---+-">teme, teme desdicha semejante.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">¡En huir la hermosura se divierte,</l>
+     <l n="13" met="---+++---+-">y al abrazarla el pecho palpitante,</l>
+     <l n="14" met="---+-+---+-">en insensible tronco se convierte!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

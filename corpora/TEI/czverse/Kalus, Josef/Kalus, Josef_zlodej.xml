@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ZLODĚJ.</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_zlodej</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ZLODĚJ.</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ZLODĚJ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000100" rhyme="1" line_length="7">Zloděj byl dnes v komoře,</l>
+     <l n="2" met="1010100" rhyme="1" line_length="7">ukrad věnec Barboře,</l>
+     <l n="3" met="101" rhyme="2" line_length="3">byla noc:</l>
+     <l n="4" met="1000100" rhyme="3" line_length="7">Barbora proň plakala,</l>
+     <l n="5" met="1010100" rhyme="3" line_length="7">otce, matku volala</l>
+     <l n="6" met="100" rhyme="2" line_length="3">na pomoc.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="1010100" rhyme="4" line_length="7">Oba běží s polínkem:</l>
+     <l n="8" met="0010100" rhyme="4" line_length="7">„Kde je?“ – „Utek okýnkem.“</l>
+     <l n="9" met="101" rhyme="5" line_length="3">„Zamknout máš!</l>
+     <l n="10" met="1000100" rhyme="6" line_length="7">jaká jsi to děvečka,</l>
+     <l n="11" met="0010100" rhyme="6" line_length="7">že líp svého věnečka</l>
+     <l n="12" met="100" rhyme="5" line_length="3">nehlídáš?!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

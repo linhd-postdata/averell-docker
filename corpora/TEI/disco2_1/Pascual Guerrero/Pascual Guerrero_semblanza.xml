@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Semblanza</title>
+    <author>Pascual Guerrero</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pascual Guerrero_semblanza</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Semblanza</title>
+     <author>Pascual Guerrero</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Semblanza</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">Bajo el sol de tu blonda cabellera</l>
+     <l n="2" met="-+---+---+-">se incendian los claveles de tus labios</l>
+     <l n="3" met="--+--+-+-+-">y en tus ojos, divinamente sabios,</l>
+     <l n="4" met="+++--+---+-">hay un vivo destello de Quimera.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-----+-">Ojos que tienen la sabiduría</l>
+     <l n="6" met="---+-+---+-">de aprisionar el alma en las miradas</l>
+     <l n="7" met="--+--+---+-">y revelan regiones ignoradas</l>
+     <l n="8" met="-+++---+-+-">donde es más bello y luminoso el día.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+----++--+-">Tienes en el andar, cierta arrogancia,</l>
+     <l n="10" met="-+-+-++--+-">y da tu cuerpo en flor, dulce fragancia,</l>
+     <l n="11" met="--++---+-+-">cuando te besa en su vaivén la brisa...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">En tanto, con sutil delicadeza,</l>
+     <l n="13" met="-+---+---+-">florece en el jardín de tu belleza</l>
+     <l n="14" met="-+---+---+-">la rosa espiritual de tu sonrisa.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

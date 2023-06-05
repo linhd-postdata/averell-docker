@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>¡Venid, quijotes...!</title>
+    <author>Francisco Simón</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco Simón_venid-quijotes</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>¡Venid, quijotes...!</title>
+     <author>Francisco Simón</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>¡Venid, quijotes...!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">¡Venid, quijotes, del Progreso afines;</l>
+     <l n="2" met="--++--+---+-">preparaos a la carga tesoneros;</l>
+     <l n="3" met="-+---+---+-">trocad vuestros mandiles por aceros</l>
+     <l n="4" met="--+--+---+-">al sonoro vibrar de los clarines...!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+----+-+">¿No oís...? ¡Ya repercute en los confines</l>
+     <l n="6" met="-+---+---+-">la sorda conmoción de los guerreros</l>
+     <l n="7" met="-+---+---+-">que anónimos y humildes y sinceros</l>
+     <l n="8" met="--+--+---+-">se improvisan noveles paladines!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">¡Corramos todos en estrecha alianza</l>
+     <l n="10" met="-----+---+-">en pos de la soñada Dulcinea</l>
+     <l n="11" met="+----+---+-">ebrios de apocalíptica pujanza...!</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+---+-">¡Venid, nobles quijotes de la Idea,</l>
+     <l n="13" met="-----+---+-">y a despecho del vulgo, Sancho Panza,</l>
+     <l n="14" met="-+-+---+-+-">redenta al fin la Humanidad se vea!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

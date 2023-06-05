@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KLESLÉMU DRUHU.</title>
+    <author>Kubelka, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kubelka, Josef_kleslemu-druhu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KLESLÉMU DRUHU.</title>
+     <author>Kubelka, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KLESLÉMU DRUHU.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010010101" line_length="9">Jej zpitého ukryl krčmy klín. –</l>
+     <l n="2" met="01001010" rhyme="1" line_length="8">Já řekl mu: Hochu milý,</l>
+     <l n="3" met="0100100101" rhyme="2" line_length="10">zda vzpomínáš druhů, jež měl jsi rád? –</l>
+     <l n="4" met="010010101" rhyme="2" line_length="9">Ti dávno se k tobě nechtí znát</l>
+     <l n="5" met="01001000" rhyme="1" line_length="8">a dávno tě odsoudili.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="010010100" line_length="9">A směle ti plijí do tváře,</l>
+     <l n="7" met="01001010" rhyme="3" line_length="8">že naděje, k činu páky,</l>
+     <l n="8" met="010010100" rhyme="4" line_length="9">tě pozbavil Osud zavilý. – –</l>
+     <l n="9" met="010010100" rhyme="4" line_length="9">Však, druhu, ty’s jenom opilý –</l>
+     <l n="10" met="01001000" rhyme="3" line_length="8">z nich mnozí jsou – darebáky.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Gregorio Silvestre</title>
+    <author>Luis Barahona de Soto</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Luis Barahona de Soto_a-gregorio-silvestre</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Gregorio Silvestre</title>
+     <author>Luis Barahona de Soto</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Gregorio Silvestre</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Si la arpa, si el órgano sabroso,</l>
+     <l n="2" met="---+---+-+-">si el monacordio, si la dulce lira</l>
+     <l n="3" met="---+-+-+-+-">que en vuestras manos, gran Silvestre, admira</l>
+     <l n="4" met="--+--+-+-+-">y suspende el ingenio más furioso;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+---+-">si el dulce verso fácil y gracioso,</l>
+     <l n="6" met="---+---+-+-">con que a los vientos refrenáis la ira,</l>
+     <l n="7" met="-+-+---+-+-">algún consuelo, aunque liviano, inspira</l>
+     <l n="8" met="++---+---+-">a un seso apasionado y amoroso,</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+-+-+-">¡aquí, Señor, que me ha rompido el pecho</l>
+     <l n="10" met="-+-+---+-+-">con punta de oro de acerado dardo</l>
+     <l n="11" met="-+-+-+-+++-">la mano más gentil que el cielo ha hecho!</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++-+--+-+-">¡Aquí; que huyo el bien y el mal aguardo;</l>
+     <l n="13" met="-+-+-+---+-">espero el daño y temo mi provecho;</l>
+     <l n="14" met="+++----+-+-">he frío en brasas y entre hielos ardo!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mužné slovo.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_muzne-slovo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mužné slovo.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mužné slovo.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010100" rhyme="1" line_length="9">Mužné slovo – rána kladivem,</l>
+     <l n="2" met="101010100" rhyme="1" line_length="9">drtí pouta v třesku dunivém.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="101011000" rhyme="2" line_length="9">Mužné slovo – chléb života jest,</l>
+     <l n="4" met="101010101" rhyme="2" line_length="9">vláhy zřídlo v pouti prašných cest.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="101010100" rhyme="3" line_length="9">Mužné slovo – světla pochodeň,</l>
+     <l n="6" met="100010101" rhyme="3" line_length="9">úmyslů je setba, skutků žeň.</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="001010101" rhyme="4" line_length="9">Kdo je může v ducha výhni kout,</l>
+     <l n="8" met="011010101" rhyme="4" line_length="9">jen má právo mužem volným slout.</l>
+    </lg>
+    <lg n="5">
+     <l n="9" met="001010101" rhyme="5" line_length="9">Kdo je může hrdě pouštět z úst,</l>
+     <l n="10" met="101010101" rhyme="5" line_length="9">sílu obří cítí v svalech růst!</l>
+    </lg>
+    <lg n="6">
+     <l n="11" met="001010100" rhyme="6" line_length="9">Kdo s ním musí na rtech umírat,</l>
+     <l n="12" met="100011001" rhyme="6" line_length="9">pouze ten by měl se světcem zvát.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

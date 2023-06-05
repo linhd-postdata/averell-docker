@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>O pia!</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_o-pia</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>O pia!</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>O pia!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" rhyme="1" line_length="11">Jest lásky zář, co ze Tvých rysů dýchá,</l>
+     <l n="2" met="01010101000" rhyme="2" line_length="11">jest tichý soucit, smír a odpuštění;</l>
+     <l n="3" met="11010101000" rhyme="2" line_length="11">má duše sprahlá žitím v podjesení</l>
+     <l n="4" met="01000101010" rhyme="1" line_length="11">jest lačná ho a po něm tklivě vzdychá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000101010" rhyme="1" line_length="11">O před Tebou hned každá touha ztichá,</l>
+     <l n="6" met="1100010100" rhyme="3" line_length="10">noc zoufalství se nachem zrůmění</l>
+     <l n="7" met="1101001000" rhyme="3" line_length="10">v den víry, naděje, vykoupení,</l>
+     <l n="8" met="01010100010" rhyme="1" line_length="11">jak chmúra prchá pochybnosť kam’s lichá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="11010100010" rhyme="4" line_length="11">Chci dále žít! v Tvé lásce dost jsem silen,</l>
+     <l n="10" met="10010101010" rhyme="4" line_length="11">nad brázdou svojí třebas k zemi schýlen,</l>
+     <l n="11" met="01010101000" rhyme="5" line_length="11">to břímě žití nésti bez reptání.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="01001101010" rhyme="5" line_length="11">Nechť krvavý pot chví se na mé skráni</l>
+     <l n="13" met="01010001010" rhyme="6" line_length="11">a noha potácí se v těžké mdlobě:</l>
+     <l n="14" met="11010100010" rhyme="6" line_length="11">ó vím, to cestou nejlepší jest k Tobě.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

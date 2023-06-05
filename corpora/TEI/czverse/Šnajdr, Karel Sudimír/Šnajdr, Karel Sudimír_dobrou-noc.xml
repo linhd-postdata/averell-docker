@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dobrou noc!</title>
+    <author>Šnajdr, Karel Sudimír</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Šnajdr, Karel Sudimír_dobrou-noc</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dobrou noc!</title>
+     <author>Šnajdr, Karel Sudimír</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dobrou noc!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100010" rhyme="1" line_length="10">Chroustek bžučí ve mladistvém doubí,</l>
+     <l n="2" met="1001001010" rhyme="2" line_length="10">Ptačátka v teplinkém hnízdě spějí;</l>
+     <l n="3" met="1000101010" rhyme="2" line_length="10">Koroptve se v temné houští krejí,</l>
+     <l n="4" met="1010010010" rhyme="1" line_length="10">Ježto bublavý potůček roubí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1000101010" rhyme="1" line_length="10">V měsýčku se leskne chladné loubí,</l>
+     <l n="6" met="1010001010" rhyme="2" line_length="10">V kterém větříčkové zticha vějí;</l>
+     <l n="7" met="1001001010" rhyme="2" line_length="10">Slavícy radosti lásky pějí,</l>
+     <l n="8" met="1000101010" rhyme="1" line_length="10">Ponocný co po vsy bloudě troubí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010101000" rhyme="3" line_length="10">Aj, tu děvče ještě vykukuje,</l>
+     <l n="10" met="0110100010" rhyme="4" line_length="10">Zdaž hoch věrný pod okýnkem stojí?</l>
+     <l n="11" met="1010100010" rhyme="4" line_length="10">Mluvit nechce, matinky se bojí,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="1010001000" rhyme="3" line_length="10">A jen ručinkou mu ukazuje:</l>
+     <l n="13" met="0010100100" rhyme="5" line_length="10">Že ho vidí, že se mu oddává,</l>
+     <l n="14" met="1010101010" rhyme="5" line_length="10">A že sladkou dobrou noc mu dává.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

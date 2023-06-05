@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NĚKOLIK KVĚTŮ, KTERÉ MI UTRHLA PŘI LOUČENÍ.</title>
+    <author>Kaminský, Bohdan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kaminský, Bohdan_nekolik-kvetu-ktere-mi-utrhla</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NĚKOLIK KVĚTŮ, KTERÉ MI UTRHLA PŘI LOUČENÍ.</title>
+     <author>Kaminský, Bohdan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NĚKOLIK KVĚTŮ, KTERÉ MI UTRHLA PŘI LOUČENÍ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010" rhyme="1" line_length="6">Ah, ta kvítka zvadlá.</l>
+     <l n="2" met="10101010101010" rhyme="1" line_length="14">Nevím ani, proč ta těžká krůpěj na ně padla.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="101010" rhyme="2" line_length="6">A zas cítím vláti</l>
+     <l n="4" met="10101010101000" rhyme="2" line_length="14">jejich sladký dech a všecko, co se nenavrátí...</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="101010" rhyme="3" line_length="6">Ah, ta láska mladá,</l>
+     <l n="6" met="00101010001010" rhyme="3" line_length="14">ah, ty květy. Vím už, na ně proč ta krůpěj padá.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

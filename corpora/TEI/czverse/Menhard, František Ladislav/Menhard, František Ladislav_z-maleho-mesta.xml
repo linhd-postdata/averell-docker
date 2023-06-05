@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Z malého města.</title>
+    <author>Menhard, František Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Menhard, František Ladislav_z-maleho-mesta</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Z malého města.</title>
+     <author>Menhard, František Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Z malého města.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101010100" line_length="13">U nás prý je mrtvo, ticho, nic se neděje –</l>
+     <l n="2" met="11000101000" rhyme="1" line_length="11">ó, nevěřte té lživé lamentaci;</l>
+     <l n="3" met="010101010101" line_length="12">zde máme hádky, pračky, rámus každý den;</l>
+     <l n="4" met="01010001000" rhyme="1" line_length="11">a ob den – exekuční licitaci.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

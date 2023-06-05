@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>The Tyger</title>
+    <author>William Blake</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>William Blake_the-tyger</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>For Better For Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>The Tyger</title>
+     <author>William Blake</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>The Tyger</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="quatrain">
+     <l n="1" met="+-+-+-+">Tyger! tyger! burning bright</l>
+     <l n="2" met="+-+-+-+">In the forests of the night,</l>
+     <l n="3" met="+-+-+-+">What immortal hand or eye</l>
+     <l n="4" met="-+-+-+-+">Could frame thy fearful symmetry?</l>
+    </lg>
+    <lg n="2" stanza_type="quatrain">
+     <l n="5" met="+-+-+-+">In what distant deeps or skies</l>
+     <l n="6" met="+-+-+-+">Burnt the fire of thine eyes?</l>
+     <l n="7" met="+-++--+-">On what wings dare he aspire?</l>
+     <l n="8" met="+-+++-+-">What the hand dare seize the fire?</l>
+    </lg>
+    <lg n="3" stanza_type="quatrain">
+     <l n="9" met="+++--++|+-+-+-+">And what shoulder, &amp; what art,</l>
+     <l n="10" met="-+-+-+-+">Could twist the sinews of thy heart?</l>
+     <l n="11" met="-+-+-+-+">And when thy heart began to beat,</l>
+     <l n="12" met="+++-+++">What dread hand? &amp; what dread feet?</l>
+    </lg>
+    <lg n="4" stanza_type="quatrain">
+     <l n="13" met="+-+-+-+">What the hammer? what the chain?</l>
+     <l n="14" met="+-+-+-+|+++---+">In what furnace was thy brain?</l>
+     <l n="15" met="+-+-+++">What the anvil? what dread grasp</l>
+     <l n="16" met="+-+-+-+">Dare its deadly terrors clasp?</l>
+    </lg>
+    <lg n="5" stanza_type="quatrain">
+     <l n="17" met="+-+++-+">When the stars threw down their spears,</l>
+     <l n="18" met="-+-+-+-+">And watered heaven with their tears,</l>
+     <l n="19" met="+-+-+-+">Did he smile his work to see?</l>
+     <l n="20" met="-+-+-+-+|-+-+-+++">Did he who made the Lamb make thee?</l>
+    </lg>
+    <lg n="6" stanza_type="quatrain">
+     <l n="21" met="+-+-+-+">Tyger! tyger! burning bright</l>
+     <l n="22" met="+-+-+-+">In the forests of the night,</l>
+     <l n="23" met="+-+-+-+">What immortal hand or eye</l>
+     <l n="24" met="++-+-+-+">Dare frame thy fearful symmetry?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

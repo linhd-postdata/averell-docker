@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Elegie.</title>
+    <author>Mužík, Augustin Eugen</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mužík, Augustin Eugen_elegie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Elegie.</title>
+     <author>Mužík, Augustin Eugen</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Elegie.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101000" rhyme="1" line_length="11">Vše drahé zašlo. Každým okamžikem</l>
+     <l n="2" met="00010101010" rhyme="1" line_length="11">já s tím se loučil s bolu divým křikem,</l>
+     <l n="3" met="0101010101" rhyme="2" line_length="10">a stonem smrtným má kdy vřelá hruď,</l>
+     <l n="4" met="0101010100" rhyme="2" line_length="10">já volal: „Tedy navždy s bohem buď!“</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000100010" rhyme="3" line_length="11">Vše mrtvo již... A duše ta, jež znovu</l>
+     <l n="6" met="01010101010" rhyme="3" line_length="11">by mohla vzkřísit ony mrtvé z rovu,</l>
+     <l n="7" met="1101010100" rhyme="4" line_length="10">spí, hlucha k nářku mému, v středu jich</l>
+     <l n="8" met="0101010100" rhyme="4" line_length="10">jak mrtvá kněžka v troskách model svých.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

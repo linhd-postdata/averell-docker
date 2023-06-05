@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A una doncella</title>
+    <author>Marcelino Menéndez Pelayo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Marcelino Menéndez Pelayo_a-una-doncella</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A una doncella</title>
+     <author>Marcelino Menéndez Pelayo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A una doncella</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">Cual trocose de Frigio en la marina</l>
+     <l n="2" met="--+--+-+-+-">la Tantálida antigua en piedra dura;</l>
+     <l n="3" met="+--+--+--+-">cual de Tereo la consorte impura</l>
+     <l n="4" met="++---+---+-">un tiempo convirtiose en golondrina.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--++--+-">Convirtiérame yo, virgen divina,</l>
+     <l n="6" met="--+-++---+-">en espejo do vieras tu hermosura;</l>
+     <l n="7" met="-+---+---+-">trocárame en la rica vestidura</l>
+     <l n="8" met="-+-+-+---+-">que ciñe tu alba forma peregrina.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+---+-">Agua quisiera ser para lavarte,</l>
+     <l n="10" met="-+---+-+-+-">aroma para ungir tu blanco lecho,</l>
+     <l n="11" met="-+---+---+-">collar que circundase tu garganta,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">o cinta que ajustases a tu pecho;</l>
+     <l n="13" met="-+-+-+---+-">sandalia quiero ser para calzarte,</l>
+     <l n="14" met="--+--+-+-+-">porque me huelle así tu leve planta.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

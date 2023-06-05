@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A la muerte de Lope de Vega</title>
+    <author>Cristóbal Suárez de Vargas</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cristóbal Suárez de Vargas_a-la-muerte-de-lope-de-vega</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A la muerte de Lope de Vega</title>
+     <author>Cristóbal Suárez de Vargas</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A la muerte de Lope de Vega</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Con muda voz, si resonante, llama</l>
+     <l n="2" met="+--+---+-+-">hoy sus sentidos, viador advierte,</l>
+     <l n="3" met="++---+-+-+-">un mármol animado de una muerte,</l>
+     <l n="4" met="+-+--+-+-+-">y una muerte animada de una fama.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">Fecunda pira de la estéril rama</l>
+     <l n="6" met="-+-+-+-+-+-">ceñida polvo encierra y luces vierte</l>
+     <l n="7" met="--+--+--++-">del que Apolo instruyó con feliz suerte,</l>
+     <l n="8" met="+--+-+---+-">cisne en su lira, y fénix en su llama.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-+---+-">Lope de Vega huyó a nuestras regiones</l>
+     <l n="10" met="--+--+---+-">desatado su espíritu en centellas;</l>
+     <l n="11" met="+-++-+---+-">deudas son, no lisonjas los blasones.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">El cielo en regocijos, y en querellas</l>
+     <l n="13" met="-+-+-+-+-+-">la tierra laman hoy sus dos porciones,</l>
+     <l n="14" met="+--+-+-+-+-">una a ceñir laureles, otra estrellas.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

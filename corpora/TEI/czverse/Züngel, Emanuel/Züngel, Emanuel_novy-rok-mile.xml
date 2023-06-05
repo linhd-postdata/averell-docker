@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nový rok mile</title>
+    <author>Züngel, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Züngel, Emanuel_novy-rok-mile</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nový rok mile</title>
+     <author>Züngel, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nový rok mile</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10110" rhyme="1" line_length="5">Nový rok mile </l>
+     <l n="2" met="00100" rhyme="2" line_length="5">zas k nám zavítal,</l>
+     <l n="3" met="00110" line_length="5">kéž by, ó drazí,</l>
+     <l n="4" met="10010" rhyme="1" line_length="5">pro Vás on chvíle</l>
+     <l n="5" met="10010" rhyme="2" line_length="5">blahé jen čítal!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

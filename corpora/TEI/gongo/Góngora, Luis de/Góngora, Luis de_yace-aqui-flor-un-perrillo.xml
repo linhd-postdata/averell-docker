@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Yace aquí Flor, un perrillo</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_yace-aqui-flor-un-perrillo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Yace aquí Flor, un perrillo</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Yace aquí Flor, un perrillo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="+-+++-+-" line_length="8">Yace aquí Flor, un perrillo</l>
+     <l n="2" met="-++-+-+-" line_length="8">que fue, en un catarro grave</l>
+     <l n="3" met="-+--+-+-" line_length="8">de ausencia, sin ser jarabe,</l>
+     <l n="4" met="--+---+-" line_length="8">lamedor de culantrillo:</l>
+     <l n="5" met="-+-+--+-" line_length="8">saldrá un clavel a decillo</l>
+     <l n="6" met="---+--+-" line_length="8">la primavera, que Amor,</l>
+     <l n="7" met="--+---+-" line_length="8">natural legislador,</l>
+     <l n="8" met="---++-+-" line_length="8">medicinal hace ley,</l>
+     <l n="9" met="-+++--+-" line_length="8">si en hierba hay lengua de buey,</l>
+     <l n="10" met="-+--+-+-" line_length="8">que la haya de perro en flor.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

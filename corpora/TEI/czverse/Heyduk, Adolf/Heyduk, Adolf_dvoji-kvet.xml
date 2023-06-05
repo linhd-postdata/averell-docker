@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dvojí květ.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_dvoji-kvet</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dvojí květ.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dvojí květ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101000100010" rhyme="1" line_length="12">Stál jsem za červánků při májové vnadě</l>
+     <l n="2" met="100010100010" rhyme="1" line_length="12">na dědově dávno odcizeném sadě,</l>
+     <l n="3" met="101010100010" rhyme="2" line_length="12">všecko vůkol zvolna utichlo a spalo,</l>
+     <l n="4" met="101010101000" rhyme="2" line_length="12">rudým zlatem nebe údol oblévalo.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101000101010" rhyme="3" line_length="12">Stál jsem v zamyšlení dlouhou dobu, dlouhou,</l>
+     <l n="6" met="101000100010" rhyme="3" line_length="12">srdce chvělo se mi lítostí a touhou,</l>
+     <l n="7" met="010010110010" rhyme="4" line_length="12">tu v korunách stromů let zašuměl vánku,</l>
+     <l n="8" met="100010101000" rhyme="4" line_length="12">zavzdychaly větve jako z polospánku.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="101010100010" rhyme="5" line_length="12">Z dálky zvonek teskně na klekání zvonil,</l>
+     <l n="10" met="100010101010" rhyme="5" line_length="12">mimo mne i ve mně vonný květ se ronil,</l>
+     <l n="11" met="110010101010" rhyme="6" line_length="12">květ vzpomínek zlatý v duši a touž chvíli</l>
+     <l n="12" met="100010110010" rhyme="6" line_length="12">na skloněnou hlavu květ jabloně bílý. –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

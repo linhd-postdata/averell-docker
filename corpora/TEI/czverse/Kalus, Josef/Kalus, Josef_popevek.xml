@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>POPĚVEK</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_popevek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>POPĚVEK</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>POPĚVEK</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10011000" rhyme="1" line_length="8">Od strachu mám uděláno!</l>
+     <l n="2" met="1000100" rhyme="2" line_length="7">Nechoulím se před smrtí,</l>
+     <l n="3" met="10100010" rhyme="1" line_length="8">tuším, krásná žeť jak ráno:</l>
+     <l n="4" met="1010100" rhyme="2" line_length="7">hladí, líbá, neškrtí,</l>
+     <l n="5" met="10101010" rhyme="3" line_length="8">něžně jako matka dítě</l>
+     <l n="6" met="1000100" rhyme="4" line_length="7">v obětí svém konejší</l>
+     <l n="7" met="01001000" rhyme="3" line_length="8">a přenese okamžitě</l>
+     <l n="8" met="1010100" rhyme="4" line_length="7">v ráj nás z bídy vezdejší.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

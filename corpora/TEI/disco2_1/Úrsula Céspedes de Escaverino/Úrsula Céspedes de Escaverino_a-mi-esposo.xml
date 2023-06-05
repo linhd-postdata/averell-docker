@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A mi esposo</title>
+    <author>Úrsula Céspedes de Escaverino</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Úrsula Céspedes de Escaverino_a-mi-esposo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A mi esposo</title>
+     <author>Úrsula Céspedes de Escaverino</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A mi esposo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+--++-+-">Eras mi amor cuando me uní contigo,</l>
+     <l n="2" met="-+-+---+-+-">y te adoraba como al bien se adora,</l>
+     <l n="3" met="+-+---+--+-">y ahora, apoyo de mi vida, ahora,</l>
+     <l n="4" met="+--+---+-+-">eres mi Dios, mi protector, mi amigo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+---+-+-">Con tu sonrisa tu dolor mitigo</l>
+     <l n="6" met="---+---+-+-">y cuando el sol al expirar colora</l>
+     <l n="7" met="-+-+---+-+-">los altos montes, y al nacer la aurora,</l>
+     <l n="8" met="+++--+-+-+-">yo te llamo mi dueño y te bendigo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Enlazadas resbalan nuestras vidas</l>
+     <l n="10" met="---+---+-+-">como las olas en el mar profundo,</l>
+     <l n="11" met="---+---+++-">y así como ellas al perderse unidas</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+++--+---+-">dan un solo gemido moribundo,</l>
+     <l n="13" met="--+--+---+-">nuestras almas se exhalan confundidas</l>
+     <l n="14" met="-+-+---+-+-">y juntas partan del revuelto mundo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

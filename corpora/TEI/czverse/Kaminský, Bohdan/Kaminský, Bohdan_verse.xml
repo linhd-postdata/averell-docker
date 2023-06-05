@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Verše.</title>
+    <author>Kaminský, Bohdan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kaminský, Bohdan_verse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Verše.</title>
+     <author>Kaminský, Bohdan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Verše.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101000" rhyme="1" line_length="10">Pracuj každý s chutí usilovnou.</l>
+     <l n="2" met="1010101010" rhyme="2" line_length="10">Pracuj. Ó vždyť naděj tebe vítá,</l>
+     <l n="3" met="1000100010" rhyme="2" line_length="10">smrtí laur že u věnec ti svítá,</l>
+     <l n="4" met="0010100010" rhyme="1" line_length="10">teď kdy není na omáčku skrovnou.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1000100010" rhyme="3" line_length="10">Na národa dědičné té roli</l>
+     <l n="6" met="1000101010" rhyme="4" line_length="10">každý z nás nechť kopá, ryje, mrví, –</l>
+     <l n="7" met="0010101010" rhyme="4" line_length="10">co je na tom, svou či jiných krví,</l>
+     <l n="8" met="1000101000" rhyme="3" line_length="10">k prospěchu to nebo záhubno-li?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010100010" rhyme="5" line_length="10">Cesta naše rozličná být může.</l>
+     <l n="10" met="0011001010" rhyme="6" line_length="10">Ty tu stav, ty tam to poboř, ty tu</l>
+     <l n="11" met="1010101000" rhyme="6" line_length="10">srážej v prach, kdo letí ku blankytu,</l>
+     <l n="12" met="0110101010" rhyme="5" line_length="10">ty trn pěsti, on-li sází růže.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1010101010" rhyme="7" line_length="10">Jenom vůli všichni rovnou mějme.</l>
+     <l n="14" met="1010001010" rhyme="8" line_length="10">Běda, nás kdo v tom či onom předčí,</l>
+     <l n="15" met="1010100010" rhyme="8" line_length="10">běda tomu, kdo je nás tu větší!</l>
+     <l n="16" met="1000101000" rhyme="7" line_length="10">Nad normál co, všechno zurážejme...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

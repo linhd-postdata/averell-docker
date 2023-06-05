@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Tristeza</title>
+    <author>Manuel del Palacio</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel del Palacio_tristeza</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Tristeza</title>
+     <author>Manuel del Palacio</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Tristeza</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+++---+-">Dentro de mí te escondes enemiga,</l>
+     <l n="2" met="--+--+---+-">y mi aliento envenenas con tu aliento;</l>
+     <l n="3" met="+-+--+---+-">tú conviertes en pena mi contento,</l>
+     <l n="4" met="---+-+---+-">y mi reposo cambias en fatiga.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++---+++-+-">Cual madre que rencor tan sólo abriga,</l>
+     <l n="6" met="+----+---+-">nutres mi corazón de sentimiento;</l>
+     <l n="7" met="-----++--+-">pero mi voluntad vence tu intento,</l>
+     <l n="8" met="---+---+-+-">y tu constancia mi dolor mitiga.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++--+--+++-">Cruel eres conmigo y yo te amo;</l>
+     <l n="10" met="+-++-+---+-">soy de ti tan celoso, que quisiera</l>
+     <l n="11" met="-+---+---+-">del mundo a las miradas esconderte;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+++-+++-">cuando de mí te ausentas yo te llamo,</l>
+     <l n="13" met="-+-+-+---+-">sin ti mi vida el ocio consumiera,</l>
+     <l n="14" met="-++--+---+-">por ti pienso en la gloria y en la muerte.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>De La entretenida, Segunda jornada, DON AMBROSIO</title>
+    <author>Cervantes</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cervantes_de-la-entretenida-segunda-jorn</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>ADSO 100 poems corpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>De La entretenida, Segunda jornada, DON AMBROSIO</title>
+     <author>Cervantes</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>De La entretenida, Segunda jornada, DON AMBROSIO</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-++--+-+-+-">Por ti, virgen hermosa, esparce ufano,</l>
+     <l n="2" met="---+---+-+-">contra el rigor con que amenaza el cielo,</l>
+     <l n="3" met="---+---+-+-">entre los surcos del labrado suelo,</l>
+     <l n="4" met="-+---+-+-+-">el pobre labrador el rico grano.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-++--+--++-">Por ti surca las aguas del mar cano</l>
+     <l n="6" met="---+-+-+-+-">el mercader en débil leño a vuelo;</l>
+     <l n="7" met="---+-+---+-">y, en el rigor del sol como del hielo,</l>
+     <l n="8" met="+-+--+-+-+-">pisa alegre el soldado el risco y llano.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+-+-+-">Por ti infinitas veces, ya perdida</l>
+     <l n="10" met="-+---+---+-">la fuerza del que busca y del que ruega,</l>
+     <l n="11" met="-+---+---+-">se cobra y se promete la victoria.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+---+-">Por ti, báculo fuerte de la vida,</l>
+     <l n="13" met="++-+---+-+-">tal vez se aspira a lo imposible, y llega</l>
+     <l n="14" met="--+--+---+-">el deseo a las puertas de la gloria.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

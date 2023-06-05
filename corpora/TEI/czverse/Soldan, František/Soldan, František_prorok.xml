@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PROROK.</title>
+    <author>Soldan, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Soldan, František_prorok</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PROROK.</title>
+     <author>Soldan, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PROROK.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010101010" rhyme="1" line_length="11">Šel na poušť a tím pěkné věci viděl,</l>
+     <l n="2" met="0100010100" rhyme="2" line_length="10">a o mnohém tam také rozjímal – –</l>
+     <l n="3" met="10000101010" rhyme="1" line_length="11">Za původ svůj se ovšem brzy styděl.</l>
+     <l n="4" met="0101000100" rhyme="2" line_length="10">Jak mnohý jiný též to udělal...</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101000" rhyme="3" line_length="11">Však nové věci přines do století,</l>
+     <l n="6" met="0100010100" rhyme="4" line_length="10">v něž hodit ho si osud usmyslil.</l>
+     <l n="7" met="01000101010" rhyme="3" line_length="11">Teď bohužel je hříčkou malých dětí –</l>
+     <l n="8" met="0100010100" rhyme="4" line_length="10">a starým se již také znechutil.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010101000" rhyme="5" line_length="11">A co mu nutno nejvíc vytýkati</l>
+     <l n="10" met="1000010001" rhyme="4" line_length="10">při životu, jejž v zadumání žil:</l>
+     <l n="11" met="01000100010" rhyme="5" line_length="11">Že nedovedl v poušti sám vždy státi –</l>
+     <l n="12" met="1001010100" rhyme="4" line_length="10">a že se potom odtud navrátil.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

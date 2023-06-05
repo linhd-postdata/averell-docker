@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MÁ PÍSNI.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_ma-pisni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MÁ PÍSNI.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MÁ PÍSNI.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Má smutná písni, tesklivá,</l>
+     <l n="2" met="01001010" rhyme="1" line_length="8">my životem jdeme spolu,</l>
+     <l n="3" met="01000100" rhyme="2" line_length="8">ty jediná mne provázíš,</l>
+     <l n="4" met="0100010" rhyme="1" line_length="7">ať v radosti, ať v bolu.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">Když tolik někdy smutno mi,</l>
+     <l n="6" met="01010100" rhyme="2" line_length="8">ty stesk můj všechen vypovíš,</l>
+     <l n="7" met="01000101" line_length="8">jak vděčný jsem, jak rád tě mám,</l>
+     <l n="8" met="10011001" rhyme="2" line_length="8">ach ty to víš, ach ty to víš.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000100" line_length="8">Já modlím se, by nevzalo</l>
+     <l n="10" met="0101010" rhyme="3" line_length="7">mi píseň dobré nebe –</l>
+     <l n="11" met="11010101" line_length="8">Má písni, co mi celý svět,</l>
+     <l n="12" met="1011010" rhyme="3" line_length="7">dokud mám tebe, tebe!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

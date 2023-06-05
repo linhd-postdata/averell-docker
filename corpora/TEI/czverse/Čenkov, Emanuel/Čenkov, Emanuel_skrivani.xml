@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SKŘIVANI.</title>
+    <author>Čenkov, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čenkov, Emanuel_skrivani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SKŘIVANI.</title>
+     <author>Čenkov, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SKŘIVANI.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101" rhyme="1" line_length="8">Je mráz a všude led a sníh,</l>
+     <l n="2" met="00010101010" rhyme="2" line_length="11">jak by tu zima vládnout chtěla stále!</l>
+     <l n="3" met="10010100" rhyme="1" line_length="8">a přec už z krajů dalekých</l>
+     <l n="4" met="10010001000" rhyme="2" line_length="11">přilétli skřivani k nám nenadále.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" rhyme="3" line_length="8">Ze slunných lánů sletěli</l>
+     <l n="6" met="10010001010" rhyme="4" line_length="11">na naši posněženou mrtvou pláni,</l>
+     <l n="7" met="01010100" rhyme="3" line_length="8">svou jara píseň zapěli,</l>
+     <l n="8" met="01010100010" rhyme="4" line_length="11">a nikdo z lidí neslouchal jí ani.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101" rhyme="1" line_length="8">Je mráz a všude led a sníh,</l>
+     <l n="10" met="01010101000" rhyme="2" line_length="11">však pěvec skřivan přijde nenadále</l>
+     <l n="11" met="01010100" rhyme="1" line_length="8">i pěje kouzlo písní svých</l>
+     <l n="12" met="01010000010" rhyme="2" line_length="11">jak poet nadšený – tak sám a stále!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

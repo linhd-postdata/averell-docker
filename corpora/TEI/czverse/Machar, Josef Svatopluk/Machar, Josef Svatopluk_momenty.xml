@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MOMENTY.</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_momenty</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MOMENTY.</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MOMENTY.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101100" line_length="9">Chvílemi v nitru cos zavýskne</l>
+     <l n="2" met="10010010" rhyme="1" line_length="8">a je tam vzrušení, sláva –</l>
+     <l n="3" met="100100100" line_length="9">duše se vzpruží a k rozletu</l>
+     <l n="4" met="10010010" rhyme="1" line_length="8">vesele křídly si mává – –</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="000100100" line_length="9">Je to snad veliká zpomínka?</l>
+     <l n="6" met="01010010" rhyme="2" line_length="8">Či naděj, která ji vzruší?</l>
+     <l n="7" met="001100101" line_length="9">Ne, jen sen nějaký beze slov</l>
+     <l n="8" met="01010010" rhyme="2" line_length="8">jak hudba prochvěl tou hluší...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

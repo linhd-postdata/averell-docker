@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KOČIČKY.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_kocicky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KOČIČKY.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KOČIČKY.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000100010" rhyme="1" line_length="10">Kočičky se na vrbách juž třpytí,</l>
+     <l n="2" met="1010100010" rhyme="2" line_length="10">stříbrem plají na bezlisté sněti,</l>
+     <l n="3" met="1010100010" rhyme="1" line_length="10">slunce měkkou opřádá je sítí,</l>
+     <l n="4" met="1010101010" rhyme="2" line_length="10">zlatou kapkou kolem včela letí,</l>
+     <l n="5" met="1010100010" rhyme="1" line_length="10">motýl šťasten v letu k nim se řítí.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="1000100010" rhyme="1" line_length="10">Kočičku když v náručí si chytí</l>
+     <l n="7" met="1010101000" rhyme="2" line_length="10">dívka jako růže ve poupěti</l>
+     <l n="8" met="1010111010" rhyme="1" line_length="10">hrou jen slova, háj zřím, v kterém svítí</l>
+     <l n="9" met="100" line_length="3">kočičky.</l>
+    </lg>
+    <lg n="3">
+     <l n="10" met="1010101010" rhyme="1" line_length="10">Obou divné kouzlo srdce cítí,</l>
+     <l n="11" met="1000101000" rhyme="2" line_length="10">ruka div se může udržeti</l>
+     <l n="12" met="1010001000" rhyme="2" line_length="10">obě pohladit, však ve zápětí</l>
+     <l n="13" met="1010010010" rhyme="1" line_length="10">strach ji váže a zkušenost žití –</l>
+     <l n="14" met="1000101010" rhyme="1" line_length="10">Umějí své ostré drápky skrýti</l>
+     <l n="15" met="100" line_length="3">kočičky.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

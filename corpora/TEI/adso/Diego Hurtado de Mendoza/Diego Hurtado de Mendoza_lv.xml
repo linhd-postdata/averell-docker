@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- LV - </title>
+    <author>Diego Hurtado de Mendoza</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Diego Hurtado de Mendoza_lv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- LV - </title>
+     <author>Diego Hurtado de Mendoza</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- LV - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+-+-+-">Jorge, que fui ladrón hasta una paja,</l>
+     <l n="2" met="--+--+---+-">en memoria de mi arte y suficiencia,</l>
+     <l n="3" met="--+--+-+-+-">a la puerta consagro de esta Audiencia</l>
+     <l n="4" met="+--+-++--+-">este dedal de plomo, esta navaja.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-++--+-">Nunca entre noche y día hice ventaja,</l>
+     <l n="6" met="--+--+---+-">ni entre manga y bragueta diferencia;</l>
+     <l n="7" met="-++--+---+-">cualquier bolsa me daba la obediencia,</l>
+     <l n="8" met="--+--+-+-+-">inclinábase a mí cualquier alhaja.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+-+-+-">Teniendo tanta honra ya ganada,</l>
+     <l n="10" met="+----+-+-+-">no hay para que hollar pisadas viejas</l>
+     <l n="11" met="-+-+-+---+-">ni andar del blanco al negro salpicando.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">Recójome, aunque tarde, a la posada,</l>
+     <l n="13" met="-+---++--+-">contento con dejar ambas orejas,</l>
+     <l n="14" met="-+-+-+---+-">por no quedar al sol bamboleando.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

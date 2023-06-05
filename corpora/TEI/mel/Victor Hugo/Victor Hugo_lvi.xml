@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LVI</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_lvi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LVI</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LVI</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Quand le soleil d'avril rit à travers les feuilles,</l>
+     <l n="2" rhyme="a" line_length="6+6">Quand, d'un regard charmant, joyeuse, tu, m'accueilles,</l>
+     <l n="3" rhyme="b" line_length="6+6">Je sens un feu divin dans mon cœur s'allumer ;</l>
+     <l n="4" rhyme="c" line_length="6+6">Sans l'amour, sans la foi, notre âme serait, noire.</l>
+     <l n="5" rhyme="c" line_length="6+6">Dieu ne l'a pas voulu. La nature fait croire,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

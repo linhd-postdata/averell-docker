@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V aleji.</title>
+    <author>Květ, Bohuslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Květ, Bohuslav_v-aleji</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V aleji.</title>
+     <author>Květ, Bohuslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V aleji.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100010101" rhyme="1" line_length="10">Tou alejí já večer chodím rád,</l>
+     <l n="2" met="0101010100010" rhyme="2" line_length="13">když soumrak stíny klade na zelená pole.</l>
+     <l n="3" met="0101010001" rhyme="1" line_length="10">Ztich’ města ruch i sešeřených lad</l>
+     <l n="4" met="0101001101000" rhyme="2" line_length="13">a srpek měsíce plá nebes na údole...</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001000101" rhyme="3" line_length="10">Na hlavu šednoucí mi padá květ</l>
+     <l n="6" met="0101010101010" rhyme="4" line_length="13">a s dálné stráně odkuds’ jako šalmaj míru</l>
+     <l n="7" met="1101100101" rhyme="3" line_length="10">zní flétny hlas v zasněný, širý svět,</l>
+     <l n="8" met="0101010101000" rhyme="4" line_length="13">jak šalmaj míru zní až k hvězdám, do vesmíru...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

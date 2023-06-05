@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les arbres</title>
+    <author>Anatole France</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Anatole France_les-arbres</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Les arbres</title>
+     <author>Anatole France</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Les arbres</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Ô vous qui, dans la paix et la grâce fleuris,</l>
+     <l n="2" rhyme="b" line_length="6+6">Animez et les champs et vos forêts natales,</l>
+     <l n="3" rhyme="b" line_length="6+6">Enfants silencieux des races végétales,</l>
+     <l n="4" rhyme="a" line_length="6+6">Beaux arbres, de rosée et de soleil nourris,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">La Volupté par qui toute race animée</l>
+     <l n="6" rhyme="b" line_length="6+6">Est conçue et se dresse à la clarté du jour,</l>
+     <l n="7" rhyme="b" line_length="6+6">La mère aux flancs divins de qui sortit l'Amour,</l>
+     <l n="8" rhyme="a" line_length="6+6">Exhale aussi sur vous son haleine embaumée.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Fils des fleurs, vous naissez comme nous du Désir,</l>
+     <l n="10" rhyme="b" line_length="6+6">Et le Désir, aux jours sacrés des fleurs écloses,</l>
+     <l n="11" rhyme="b" line_length="6+6">Sait rassembler votre âme éparse dans les choses,</l>
+     <l n="12" rhyme="a" line_length="6+6">Votre âme qui se cherche et ne se peut saisir.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="6+6">Et, tout enveloppés dans la sourde matière</l>
+     <l n="14" rhyme="b" line_length="6+6">Au limon paternel retenus par les pieds,</l>
+     <l n="15" rhyme="b" line_length="6+6">Vers la vie aspirant, vous la multipliez,</l>
+     <l n="16" rhyme="a" line_length="6+6">Sans achever de naître en votre vie entière.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

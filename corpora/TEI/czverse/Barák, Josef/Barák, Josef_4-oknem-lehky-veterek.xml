@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>4 Oknem lehký větérek</title>
+    <author>Barák, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Barák, Josef_4-oknem-lehky-veterek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>4 Oknem lehký větérek</title>
+     <author>Barák, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>4 Oknem lehký větérek</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100" line_length="7">Oknem lehký větérek </l>
+     <l n="2" met="10101000" rhyme="1" line_length="8">list v mé knize převracuje,</l>
+     <l n="3" met="1000100" line_length="7">přeučené systémy</l>
+     <l n="4" met="10001000" rhyme="1" line_length="8">lehkovážně vyvracuje.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010100" line_length="7">Chceš snad, bych si vyšel s ním,</l>
+     <l n="6" met="00101010" rhyme="2" line_length="8">kde se v jarním slunci sloní,</l>
+     <l n="7" met="1000100" line_length="7">po pláni kde daleké</l>
+     <l n="8" met="00101010" rhyme="2" line_length="8">se jak hravé děcko honí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010100" line_length="7">Dobrá! půjdu za tebou,</l>
+     <l n="10" met="10100010" rhyme="3" line_length="8">milý větérku, můj hravý!</l>
+     <l n="11" met="0010100" line_length="7">Až tě v pláni dohoním,</l>
+     <l n="12" met="10001010" rhyme="3" line_length="8">vypiju tě na své zdraví.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

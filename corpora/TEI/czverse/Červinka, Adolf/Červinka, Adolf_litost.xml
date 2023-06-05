@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LÍTOST.</title>
+    <author>Červinka, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červinka, Adolf_litost</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LÍTOST.</title>
+     <author>Červinka, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LÍTOST.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010" line_length="8">Lítost jak šedivá sestra</l>
+     <l n="2" met="10010010" rhyme="1" line_length="8">u mých se schoulila dveří,</l>
+     <l n="3" met="10010010" line_length="8">čekala, jako když někdo</l>
+     <l n="4" met="10010010" rhyme="1" line_length="8">tisíckrát oklamán věří...</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010010" line_length="8">Daleko za lesy, v horách</l>
+     <l n="6" met="10010010" rhyme="2" line_length="8">ve slunci třpytí se stráně,</l>
+     <l n="7" met="10110010" line_length="8">žádný žal nekruší srdce,</l>
+     <l n="8" met="10010100" rhyme="2" line_length="8">neklade stíny na skráně...</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010010" line_length="8">Pohádko o štěstí lidském,</l>
+     <l n="10" met="10010010" rhyme="3" line_length="8">zakletém v čarovné říše!</l>
+     <l n="11" met="10010010" line_length="8">Ruce mé po tobě sáhly,</l>
+     <l n="12" met="00010010" rhyme="3" line_length="8">ty jsi však odlétlo výše!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10010010" line_length="8">A já zas v mlhách se topím,</l>
+     <l n="14" met="10010010" rhyme="4" line_length="8">z dálky jen světlo sem padá,</l>
+     <l n="15" met="10010010" line_length="8">lítost mne na prahu vítá:</l>
+     <l n="16" met="10010110" rhyme="4" line_length="8">Do smrti chci tě mít ráda!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Rosario</title>
+    <author>Manuel Acuña</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel Acuña_a-rosario</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Rosario</title>
+     <author>Manuel Acuña</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Rosario</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++---++--+-">Esta hoja arrebatada a una corona</l>
+     <l n="2" met="---+---+-+-">que la fortuna colocó en mi frente</l>
+     <l n="3" met="---+-+---+-">entre el aplauso fácil e indulgente</l>
+     <l n="4" met="---+-+---+-">con el primer ensayo se perdona.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++-+-+++-+-">Esta hoja de un laurel que aún me emociona</l>
+     <l n="6" met="---+-+-+-+-">como en aquella noche, dulcemente</l>
+     <l n="7" met="-+---+-+-+-">por más que mi razón comprende y siente</l>
+     <l n="8" met="++-+-+--++-">que es un laurel que el mérito no abona.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+++--+-+-+-">Tú la viste nacer, y dulce y buena</l>
+     <l n="10" met="+--+---+-+-">te estremeciste como yo al encanto</l>
+     <l n="11" met="--+--+---+-">que produjo al rodar sobre la escena.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+---+-">Guárdala y de la ausencia en el quebranto</l>
+     <l n="13" met="---+---+-+-">que te recuerde de mis besos, llena,</l>
+     <l n="14" met="-+-+--++-+-">al buen amigo que te quiere tanto.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

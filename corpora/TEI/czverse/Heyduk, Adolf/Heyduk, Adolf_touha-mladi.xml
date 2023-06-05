@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Touha mládí.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_touha-mladi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Touha mládí.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Touha mládí.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" rhyme="1" line_length="9">V mém srdci touha mládí zpívá</l>
+     <l n="2" met="010001010" rhyme="2" line_length="9">jak při ohni, v nějž jeseň vane,</l>
+     <l n="3" met="110101010" rhyme="1" line_length="9">hoch pasák druhdy, když se stmívá;</l>
+     <l n="4" met="010101010" rhyme="2" line_length="9">v tom ohni jeho duše plane.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010100010" rhyme="3" line_length="9">Tak teskně zpěv ten dál se nese,</l>
+     <l n="6" met="010101010" rhyme="4" line_length="9">jak píseň ptáka v lesa klestí,</l>
+     <l n="7" met="110001010" rhyme="3" line_length="9">krev poslední jenž z ňader třese</l>
+     <l n="8" met="100101000" rhyme="4" line_length="9">do vzkvetlých s hnízdem ratolestí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

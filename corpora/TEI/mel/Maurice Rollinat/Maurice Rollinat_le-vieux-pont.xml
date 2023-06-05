@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le vieux Pont</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_le-vieux-pont</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le vieux Pont</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le vieux Pont</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Ce bon vieux pont, sous ses trois arches,</l>
+     <l n="2" rhyme="b" line_length="8">En a déjà bien vu de l'eau</l>
+     <l n="3" rhyme="b" line_length="8">Passer verte avec du galop</l>
+     <l n="4" rhyme="a" line_length="8">Ou du rampement dans sa marche.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Il connaît le pas, la démarche</l>
+     <l n="6" rhyme="b" line_length="8">De l'errant qui porte un ballot,</l>
+     <l n="7" rhyme="b" line_length="8">Du petit berger tout pâlot</l>
+     <l n="8" rhyme="a" line_length="8">Et du mendiant patriarche.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="8">Au creux de ce profond pays,</l>
+     <l n="10" rhyme="c" line_length="8">Entre ces grands bois recueillis</l>
+     <l n="11" rhyme="d" line_length="8">Où l'ombre humide a son royaume,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="8">Le jour, à peine est-il réel !…</l>
+     <l n="13" rhyme="e" line_length="8">Le soir, sous l'œil rouge du ciel,</l>
+     <l n="14" rhyme="d" line_length="8">Il devient tout à fait fantôme.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

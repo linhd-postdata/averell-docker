@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LV</title>
+    <author>Tristan Derème</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tristan Derème_lv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LV</title>
+     <author>Tristan Derème</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LV</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Regarde. La glycine a jauni sur la porte,</l>
+     <l n="2" rhyme="b" line_length="6+6">Et voici que l'automne aux tempes couronnées</l>
+     <l n="3" rhyme="b" line_length="6+6">De lierre caduc et de roses fanées</l>
+     <l n="4" rhyme="a" line_length="6+6">S'avance et d'un pied lourd foule les feuilles mortes.</l>
+     <l n="5" line_length="6+6">Il marche et son manteau de pourpre au crépuscule</l>
+     <l n="6" rhyme="a" line_length="6+6">Se dénoue et se mêle aux nuances champêtres.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" line_length="6+6">Mon cœur, voici l'octobre ; et les joueurs de flûte</l>
+     <l n="8" rhyme="b" line_length="6+6">Commencent à siffler sous la voûte des hêtres.</l>
+     <l n="9" rhyme="b" line_length="6+6">Veux-tu, nous quitterons pour la ville prochaine</l>
+     <l n="10" rhyme="a" line_length="6+6">Les parterres flétris et l'ombrage des chênes,</l>
+     <l n="11" rhyme="a" line_length="6+6">Et la maison rustique au milieu du feuillage</l>
+     <l n="12" rhyme="b" line_length="6+6">Qui sut nous accueillir au retour du voyage,</l>
+     <l n="13" rhyme="b" line_length="6+6">Et la source. Mon cœur, partons ; voici l'automne</l>
+     <l n="14" rhyme="a" line_length="6+6">Et la dernière abeille aux troènes bourdonne.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

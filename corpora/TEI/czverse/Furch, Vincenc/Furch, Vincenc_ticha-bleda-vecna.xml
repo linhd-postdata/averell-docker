@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Tichá, bledá, věčná</title>
+    <author>Furch, Vincenc</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Furch, Vincenc_ticha-bleda-vecna</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Tichá, bledá, věčná</title>
+     <author>Furch, Vincenc</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Tichá, bledá, věčná</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010" line_length="6">Tichá, bledá, věčná </l>
+     <l n="2" met="101010" rhyme="1" line_length="6">Luno v noci tajné,</l>
+     <l n="3" met="001010" line_length="6">Ty mi v srdce vnikáš,</l>
+     <l n="4" met="101000" rhyme="1" line_length="6">Světlo cizokrajné!</l>
+     <l n="5" met="100010" line_length="6">Přetajemnou mocí</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">Lne mé srdce k tobě –</l>
+     <l n="7" met="001010" line_length="6">Ty se ke mně kloníš,</l>
+     <l n="8" met="001010" rhyme="2" line_length="6">Ty mě zdviháš k sobě.</l>
+    </lg>
+    <lg n="2">
+     <l n="9" met="100110" line_length="6">Bdím-li, ty bdíš se mnou,</l>
+     <l n="10" met="101000" rhyme="3" line_length="6">Luno putující,</l>
+     <l n="11" met="101010" line_length="6">Spím-li, ty mě chráníš,</l>
+     <l n="12" met="100100" rhyme="3" line_length="6">Tajemný měsíci.</l>
+     <l n="13" met="110010" rhyme="4" line_length="6">Sny sesíláš ke mně –</l>
+     <l n="14" met="101010" rhyme="4" line_length="6">Skví se noční země</l>
+     <l n="15" met="101000" rhyme="5" line_length="6">Ve tvé stříbrozáři,</l>
+     <l n="16" met="101010" rhyme="5" line_length="6">Ve tvé jemné tváři.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pravá moudrost.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_prava-moudrost</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pravá moudrost.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pravá moudrost.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010000110100" rhyme="1" line_length="15">Žil jsem, pěl jsem, miloval jsem; co mám dělat ještě víc?</l>
+     <l n="2" met="101010101010101" rhyme="1" line_length="15">Vím, jak hořká pravda žití, vím, jak sladká dívčí líc!</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="101010001010100" rhyme="2" line_length="15">Proto krátké naučení v dlouhé žití dávám všem:</l>
+     <l n="4" met="101010101010101" rhyme="2" line_length="15">Nech tu hořkou pravdu žití a to sladké líčko vem.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="001000101010100" rhyme="3" line_length="15">Tak v mé dumy vždy se smějí dívčích ňader obrysy</l>
+     <l n="6" met="101010101001100" rhyme="3" line_length="15">a již cítím věčnou vůni květnic tvých, ó Hafisi!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

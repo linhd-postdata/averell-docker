@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Al doctor Juan Pérez de Montalbán</title>
+    <author>Luis de la Maestra y Barragán</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Luis de la Maestra y Barragán_al-doctor-juan-perez-de-montal</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Al doctor Juan Pérez de Montalbán</title>
+     <author>Luis de la Maestra y Barragán</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Al doctor Juan Pérez de Montalbán</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+-+-+-+-">De un Sol que al Cielo nace, al mudo espira,</l>
+     <l n="2" met="--+--+--++-">cuyos rayos deslumbran si le adoro,</l>
+     <l n="3" met="-+-+---+-+-">la Fama aplaude sus influjos de oro,</l>
+     <l n="4" met="-+---+-+++-">y España reverente más le admira.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+-+-+-">Los Eruditos le construyen Pira</l>
+     <l n="6" met="--+--++--+-">donde siempre inmortal raya canoro</l>
+     <l n="7" met="---+---+-+-">el esplendor de su mayor decoro</l>
+     <l n="8" met="---+---+-+-">cuando eminente en sus escritos gira.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-++--+-+-+-">Si le lloran y cantan hoy las Musas,</l>
+     <l n="10" met="---+---+-+-">y manzanares con funesto enredo</l>
+     <l n="11" met="+--+-+-+-+-">forma en los secos valles negros montes.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+-+-+-">Sus ilustres virtudes deja infusas</l>
+     <l n="13" met="--+--++--+-">en el duro metal, libre de miedo,</l>
+     <l n="14" met="-+---+---+-">por mares, por diversos Horizontes.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Diego de Cuéllar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Diego de Cuéllar_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Diego de Cuéllar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+---+-+-">En el alcázar del divino Oriente</l>
+     <l n="2" met="---+---+-+-">a vuestra pura Concepción, María,</l>
+     <l n="3" met="-+---+---+-">alterna con dulcísima armonía</l>
+     <l n="4" met="+----++--+-">himnos el querubín más eminente.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+-+-+-">Con ardorosa fe y amor creciente,</l>
+     <l n="6" met="--+-++---+-">imitando tan sacra compañía,</l>
+     <l n="7" met="-+---+-+-+-">Fernando e Isabel con alma pía</l>
+     <l n="8" met="+++--+-+-+-">culto os rinden, que irá de gente en gente.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-----+-">Porque en el nombre vuestro, Virgen Santa,</l>
+     <l n="10" met="---+-+---+-">en la cerviz del bélico africano</l>
+     <l n="11" met="-+-+---+-+-">heroicos ponen la invencible planta,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+---+-">rinden al persa, escita y otomano;</l>
+     <l n="13" met="---+-+-+-+-">que a quien venera en Vos limpieza tanta,</l>
+     <l n="14" met="--+--+++-+-">contra ejércitos mil le dais la mano.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

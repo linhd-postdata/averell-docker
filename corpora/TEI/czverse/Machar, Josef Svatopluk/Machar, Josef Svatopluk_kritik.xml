@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KRITIK</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_kritik</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KRITIK</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KRITIK</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100100" rhyme="1" line_length="9">Vždycky byl pro hesla pokroku,</l>
+     <l n="2" met="10010010" rhyme="2" line_length="8">hlásat je nebyl pak líný,</l>
+     <l n="3" met="100100100" rhyme="1" line_length="9">s mládeží hnal se k nim v poskoku,</l>
+     <l n="4" met="10010110" rhyme="2" line_length="8">pokrok byl každý rok jiný,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010100100" rhyme="3" line_length="9">Teď váží tělíčka maličká</l>
+     <l n="6" met="1000010" rhyme="4" line_length="7">na lékárnické unce,</l>
+     <l n="7" met="100100100" rhyme="3" line_length="9">pěstuje drobounká sluníčka,</l>
+     <l n="8" met="01010010" rhyme="4" line_length="8">prý vzrostou na velká slunce.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

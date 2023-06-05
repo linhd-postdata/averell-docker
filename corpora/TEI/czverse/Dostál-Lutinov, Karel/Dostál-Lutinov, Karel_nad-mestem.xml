@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NAD MĚSTEM.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_nad-mestem</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NAD MĚSTEM.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NAD MĚSTEM.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" rhyme="1" line_length="8">Poslouchám, jak město dřímá.</l>
+     <l n="2" met="1010100" rhyme="2" line_length="7">Noc si stáhlo nad hlavu.</l>
+     <l n="3" met="10001010" rhyme="1" line_length="8">Poslední kdes tramway hřímá,</l>
+     <l n="4" met="1010100" rhyme="2" line_length="7">řeka hučí u splavů.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="3" line_length="8">Není ticho. Z temna zní to –</l>
+     <l n="6" met="1000101" rhyme="4" line_length="7">Bože můj, tak těžký dech!</l>
+     <l n="7" met="00101010" rhyme="3" line_length="8">Co tu hořkých žalů skryto</l>
+     <l n="8" met="1010100" rhyme="4" line_length="7">supí úpí z ňader těch!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001000" rhyme="5" line_length="8">Gotické a rokokové</l>
+     <l n="10" met="1010100" rhyme="6" line_length="7">věže tmí se do výší</l>
+     <l n="11" met="10101000" rhyme="5" line_length="8">jako staří prorokové,</l>
+     <l n="12" met="1010100" rhyme="6" line_length="7">kterých nikdo neslyší.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

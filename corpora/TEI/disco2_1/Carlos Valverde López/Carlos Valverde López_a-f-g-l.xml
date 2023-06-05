@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A F. G. L.</title>
+    <author>Carlos Valverde López</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Carlos Valverde López_a-f-g-l</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A F. G. L.</title>
+     <author>Carlos Valverde López</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A F. G. L.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+---+-">Atado al sol esperas la sentencia</l>
+     <l n="2" met="-+-+---+-+-">los pies anclados y la mar enfrente;</l>
+     <l n="3" met="+-+-++---+-">hoy las hordas te inmolan y al poniente</l>
+     <l n="4" met="+++--+---+-">ya no ondean banderas de clemencia.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">Quieren borrar el rastro de tu esencia</l>
+     <l n="6" met="--+--+---+-">y arrancar los laureles de tu frente,</l>
+     <l n="7" met="--+--+---+-">reventar contenido y continente</l>
+     <l n="8" met="---+-+---+-">y sepultar la flor de tu excelencia.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Pero el soplo vital de tu legado</l>
+     <l n="10" met="---+-+---+-">arrasará las huestes del oscuro...</l>
+     <l n="11" met="--+--+---+-">y el volcán de tu verbo agigantado</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-++--+-">conformará el bastión firme y seguro</l>
+     <l n="13" met="---+-+---+-">que extenderá el fulgor apasionado</l>
+     <l n="14" met="--+--+---+-">de tu voz, de tu afán, de tu conjuro.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

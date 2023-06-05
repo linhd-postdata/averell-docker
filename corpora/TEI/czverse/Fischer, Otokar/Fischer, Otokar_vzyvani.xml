@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vzývání</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_vzyvani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vzývání</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vzývání</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" line_length="8">Země, hvězdo zbožňovaná,</l>
+     <l n="2" met="0010101" line_length="7">z níž je tíže má i zář,</l>
+     <l n="3" met="10100010" line_length="8">naše milostenko matko,</l>
+     <l n="4" met="10111000" line_length="8">jejíž klín má požehnání</l>
+     <l n="5" met="1000100" line_length="7">od věků až do věků;</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="10001000" line_length="8">s oštěpy a smolnicemi</l>
+     <l n="7" met="1000100" line_length="7">hrající si dryado,</l>
+     <l n="8" met="10001010" line_length="8">vířící jak rudá nemoc,</l>
+     <l n="9" met="10101010" line_length="8">která, drzou kytku v zubech,</l>
+     <l n="10" met="1010100" line_length="7">tančí mezi sopkami;</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="10001000" line_length="8">ranící a zraňovaná</l>
+     <l n="12" met="1000100" line_length="7">trpitelko v horečkách,</l>
+     <l n="13" met="01001000" line_length="8">ty, která se umírajíc</l>
+     <l n="14" met="10001010" line_length="8">obrozuješ skokem s lůžka</l>
+     <l n="15" met="1010011" line_length="7">jako člověk, jenž chce žít...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

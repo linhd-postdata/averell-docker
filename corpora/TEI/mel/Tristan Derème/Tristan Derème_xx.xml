@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XX</title>
+    <author>Tristan Derème</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tristan Derème_xx</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XX</title>
+     <author>Tristan Derème</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XX</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Entre la vie et moi tirant un voile épais,</l>
+     <l n="2" rhyme="a" line_length="6+6">J'enfermerai mon cœur et conquerrai la paix</l>
+     <l n="3" rhyme="b" line_length="6−6">Je sèmerai dans mon oreille une tulipe ;</l>
+     <l n="4" rhyme="b" line_length="6+6">Et quand j'aurai fumé mes cheveux dans ma pipe,</l>
+     <l n="5" rhyme="c" line_length="6+6">Pour marquer la retraite où je m'ensevelis,</l>
+     <l n="6" rhyme="c" line_length="6+6">Sur mon crâne rasé je ferai peindre un lys.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

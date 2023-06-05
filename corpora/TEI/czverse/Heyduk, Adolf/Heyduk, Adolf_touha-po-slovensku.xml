@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Touha po Slovensku.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_touha-po-slovensku</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Touha po Slovensku.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Touha po Slovensku.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1101010101" rhyme="1" line_length="10">Hle, k břehům Váhu letí čápů sbor,</l>
+     <l n="2" met="1011010101" rhyme="1" line_length="10">i já chci s nimi v krásné sídlo hor.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="1100010001" rhyme="2" line_length="10">Chci obejmouti podtatranský lid</l>
+     <l n="4" met="0101010101" rhyme="2" line_length="10">a z jeho zpěvu čerpat mír a klid.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="1101010101" rhyme="3" line_length="10">Chci spatřiť hronských krajů milou tvář</l>
+     <l n="6" met="0101010001" rhyme="3" line_length="10">a na ní ráje ztraceného zář.</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="1101010101" rhyme="4" line_length="10">Chci znáti prorvy skal a srdcí lad,</l>
+     <l n="8" met="0101010001" rhyme="4" line_length="10">a hrob, kde Slovák pro svobodu pad.</l>
+    </lg>
+    <lg n="5">
+     <l n="9" met="1101010100" rhyme="5" line_length="10">Chci zříť, jak z věrných očí zírá ven</l>
+     <l n="10" met="1001010001" rhyme="5" line_length="10">lidského štěstí nedosnělý sen,</l>
+    </lg>
+    <lg n="6">
+     <l n="11" met="1101010100" rhyme="6" line_length="10">chci prchnouť na čas vášním světa všem,</l>
+     <l n="12" met="1101010100" rhyme="6" line_length="10">chci býti zase šťastným člověkem.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

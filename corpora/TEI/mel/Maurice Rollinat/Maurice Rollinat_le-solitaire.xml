@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Solitaire</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_le-solitaire</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Solitaire</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Solitaire</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="6+6">Le vieux qui, vert encore, approchait des cent ans,</l>
+     <l n="2" line_length="8">J'suis seul, ayant perdu tous ceux qui sʼraient d'mon âge.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" line_length="8">Vous ? votʼ génération ? Ça s'balancʼ ! mais d'la mienne</l>
+     <l n="4" line_length="6+6">Ceux que j'croyais qui fʼraient des anciens m'ont trahi :</l>
+    </lg>
+    <lg n="3">
+     <l n="5" line_length="6+6">Chaqʼ maison qui n'boug pas, ellʼ ! sous l'temps qui s'écoule,</l>
+     <l n="6" line_length="6+6">M'rappelle un q'j'ai connu, laboureur ou berger,</l>
+     <l n="7" line_length="6+6">À qui j'parlʼ sans réponsʼ, que je rʼgardʼ sans l'toucher ;</l>
+     <l n="8" line_length="6+6">Au cimtièrʼ, j'les vois tous a la fois, comme unʼ foule !</l>
+    </lg>
+    <lg n="4">
+     <l n="9" line_length="6+6">C'est pourquoi, quand j'y fais mon pʼtit tour solitaire,</l>
+    </lg>
+    <lg n="5">
+     <l n="10" line_length="8">Que j'les ai pas encor rejoindus sous la terre. »</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

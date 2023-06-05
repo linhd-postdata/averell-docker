@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PLES</title>
+    <author>Opolský, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Opolský, Jan_ples</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PLES</title>
+     <author>Opolský, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PLES</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010110010100" line_length="16">Vějice pudru, šept a smích, který se jako motýl zdvih’</l>
+     <l n="2" met="1001010" rhyme="1" line_length="7">z rozvitých zubů, retů,</l>
+     <l n="3" met="1001010010010100" line_length="16">svítivá hrdla, ramena, plynutím noci zmámená</l>
+     <l n="4" met="1001000" rhyme="1" line_length="7">na nízkém taburetu.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001010110010101" line_length="16">Vějice pudru. Pýř a běl. Jako bys plné oči měl</l>
+     <l n="6" met="1001010" rhyme="2" line_length="7">sršících slz a světel,</l>
+     <l n="7" met="1001010010010100" line_length="16">jako by pouze pro chvíli rozkvetlé barvy smísily</l>
+     <l n="8" met="1001010" rhyme="2" line_length="7">pohanka, slez a jetel.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1001010010010100" line_length="16">Jako by pablesk atlasu v němém svém boji o krásu</l>
+     <l n="10" met="1001010" rhyme="3" line_length="7">vítězil plachou zbraní,</l>
+     <l n="11" met="1001010101010101" line_length="16">z kteréž se roní bledý svit, již možno tasit, vzduchem tít,</l>
+     <l n="12" met="11010010" rhyme="3" line_length="8">krev ale neulpí na ní.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1001010110010101" line_length="16">Duhová souhra skel a svěc, spektrálně zřená každá věc,</l>
+     <l n="14" met="1001010" rhyme="4" line_length="7">pro kterou není jména,</l>
+     <l n="15" met="1001010010010100" line_length="16">u kteréž smyslů jepice hynou, svá křídla věsíce,</l>
+     <l n="16" met="1001000" rhyme="4" line_length="7">rozkoší unavená.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

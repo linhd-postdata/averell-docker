@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- V - </title>
+    <author>Fernando de Herrera</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fernando de Herrera_v</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- V - </title>
+     <author>Fernando de Herrera</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- V - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+-+--++-">Cuán bien, oscura noche, al dolor mío</l>
+     <l n="2" met="-+---+---+-">conformas, y resuenas a mi llanto,</l>
+     <l n="3" met="--+--+-+-+-">murmurando con sordo y triste canto</l>
+     <l n="4" met="-+-+-+-+-+-">entre estas duras peñas, alto río.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+-+-+-">Óigame este desnudo cielo frío</l>
+     <l n="6" met="-+---+---+-">si tanto con mis quejas me levanto;</l>
+     <l n="7" met="--++-+-+-+-">mas, pues no espero bien en daño tanto,</l>
+     <l n="8" met="++-+-+---+-">vana es la queja y mal en que porfío.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+----+++-+-">Rompa del corazón más tierna parte</l>
+     <l n="10" met="-+-+-+---+-">mi gran pesar, acábese encubierto,</l>
+     <l n="11" met="-+-+-+---+-">y a tal agravio falte la memoria;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+-+-+-">que no es justo que en esta u otra parte</l>
+     <l n="13" met="-+---+-+-+-">se diga que perdí, sin culpa muerto,</l>
+     <l n="14" met="--+--+---+-">las debidas promesas de mi gloria.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

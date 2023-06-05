@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VRANÍK.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">30</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_vranik</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VRANÍK.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VRANÍK.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010010" rhyme="1" line_length="6">MŮJ koníček vraný</l>
+     <l n="2" met="101000" rhyme="1" line_length="6">jako malovaný.</l>
+     <l n="3" met="10101" line_length="5">hopsa, hejsa, hej!</l>
+     <l n="4" met="101010" rhyme="2" line_length="6">nožky pěkné zdvíhá,</l>
+     <l n="5" met="100010" rhyme="2" line_length="6">ušima si stříhá,</l>
+     <l n="6" met="10101" line_length="5">hopsa, hejsa, hej!</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="101010" rhyme="3" line_length="6">Dlouhá černá hříva</l>
+     <l n="8" met="100010" rhyme="3" line_length="6">po větru mu splývá,</l>
+     <l n="9" met="10101" line_length="5">hopsa, hejsa, hej! –</l>
+     <l n="10" met="100010" rhyme="4" line_length="6">podkovky mu zvoní,</l>
+     <l n="11" met="101010" rhyme="4" line_length="6">jiskra jiskru honí,</l>
+     <l n="12" met="10101" line_length="5">hopsa, hejsa, hej!</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="010010" rhyme="5" line_length="6">Můj koníčku vraný,</l>
+     <l n="14" met="101000" rhyme="5" line_length="6">jako malovaný,</l>
+     <l n="15" met="10101" line_length="5">hopsa, hejsa, hej!</l>
+     <l n="16" met="001000" rhyme="6" line_length="6">až tě osedláme,</l>
+     <l n="17" met="001000" rhyme="6" line_length="6">kam se podíváme?</l>
+     <l n="18" met="10101" line_length="5">hopsa, hejsa, hej!</l>
+    </lg>
+    <lg n="4">
+     <l n="19" met="100010" rhyme="7" line_length="6">Rozjedem se v poli</l>
+     <l n="20" met="100010" rhyme="7" line_length="6">přes hory a doly,</l>
+     <l n="21" met="10101" line_length="5">hopsa, hejsa, hej!</l>
+     <l n="22" met="100010" rhyme="8" line_length="6">rozjedem se letem</l>
+     <l n="23" met="100010" rhyme="8" line_length="6">široširým světem,</l>
+     <l n="24" met="10101" line_length="5">hopsa, hejsa, hej!</l>
+    </lg>
+    <lg n="5">
+     <l n="25" met="001000" rhyme="9" line_length="6">Žeť se rozjedeme,</l>
+     <l n="26" met="001010" rhyme="9" line_length="6">kam se rozjet chceme,</l>
+     <l n="27" met="10101" line_length="5">hopsa, hejsa, hej! –</l>
+     <l n="28" met="001010" rhyme="10" line_length="6">Tak, můj vraný koni!</l>
+     <l n="29" met="000010" rhyme="10" line_length="6">Ať si nás kdo honí,</l>
+     <l n="30" met="10101" line_length="5">hopsa, hejsa, hej!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

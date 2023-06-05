@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ŽIVOTA ZÁPAD</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_zivota-zapad</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ŽIVOTA ZÁPAD</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ŽIVOTA ZÁPAD</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101000" rhyme="1" line_length="11">Života západ bývá všelijaký,</l>
+     <l n="2" met="0100010100" rhyme="2" line_length="10">jak snívali jsme, není takový:</l>
+     <l n="3" met="10010100010" rhyme="1" line_length="11">zahalen bývá tíživými mraky,</l>
+     <l n="4" met="0101000100" rhyme="2" line_length="10">jen zřídka skvoucí je a růžový.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010101000" rhyme="3" line_length="11">Života západ srdce nevábívá:</l>
+     <l n="6" met="1001010100" rhyme="4" line_length="10">utichnou zpěvné sloky skřivánků,</l>
+     <l n="7" met="10010100010" rhyme="3" line_length="11">podzimní vítr kolébavku zpívá</l>
+     <l n="8" met="0101000100" rhyme="4" line_length="10">a sovy houkají nám do spánku.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

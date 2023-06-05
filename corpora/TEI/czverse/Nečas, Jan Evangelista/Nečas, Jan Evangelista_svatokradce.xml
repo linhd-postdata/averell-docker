@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Svatokrádce.</title>
+    <author>Nečas, Jan Evangelista</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nečas, Jan Evangelista_svatokradce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Svatokrádce.</title>
+     <author>Nečas, Jan Evangelista</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Svatokrádce.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" rhyme="1" line_length="8">Přišel sedlák k farářovi,</l>
+     <l n="2" met="10001010" rhyme="1" line_length="8">žaloval mu těmi slovy:</l>
+     <l n="3" met="001000101" rhyme="2" line_length="9">„Já jsem od oltáře něco vzal,</l>
+     <l n="4" met="010010101" rhyme="2" line_length="9">a rád bych to zase zpátky dal;</l>
+     <l n="5" met="10001010100" rhyme="3" line_length="11">z pokání, by o tom všichni věděli,</l>
+     <l n="6" met="100010100" rhyme="3" line_length="9">odvedu to po mši v neděli.“</l>
+     <l n="7" met="1010001010" rhyme="4" line_length="10">Farář kajicnou tu mysl chválil,</l>
+     <l n="8" met="1010100010" rhyme="4" line_length="10">načež sedlák pokorně se vzdálil. –</l>
+     <l n="9" met="10001000" rhyme="5" line_length="8">V neděli pak do kostela</l>
+     <l n="10" met="10101010" rhyme="5" line_length="8">s mužem svojím žena jela.</l>
+     <l n="11" met="1010001010" rhyme="6" line_length="10">Sedlák farářovi mocí živou</l>
+     <l n="12" met="1010101000" rhyme="6" line_length="10">vracel ženu zlou a hašteřivou.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

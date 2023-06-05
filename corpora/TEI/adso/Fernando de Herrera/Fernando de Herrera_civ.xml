@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- CIV - </title>
+    <author>Fernando de Herrera</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fernando de Herrera_civ</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- CIV - </title>
+     <author>Fernando de Herrera</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- CIV - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Estoy pensando en mi dolor presente</l>
+     <l n="2" met="--+--+-+-+-">y procuro remedio al mal instante,</l>
+     <l n="3" met="--+--++--+-">pero soy en mi bien tan inconstante</l>
+     <l n="4" met="--+--++--+-">que a cualquier ocasión vuelvo la frente.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+-+-+-">Cuando me aparto y pienso estar ausente,</l>
+     <l n="6" met="---+-++--+-">de mi peligro estoy menos distante;</l>
+     <l n="7" met="+-+--+---+-">siempre voy con mis yerros adelante</l>
+     <l n="8" met="---+-+---+-">sin que de tantos daños escarmiente.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+-+-">Noble vergüenza del valor perdido,</l>
+     <l n="10" met="-+++-+-+-+-">¿por qué no abrasas este frío pecho</l>
+     <l n="11" met="--+--+---+-">y deshaces mi ciego desvarío?</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+-+-+-">Si tú me sacas de este error de olvido,</l>
+     <l n="13" met="-+-+-+-+-+-">podré decir en honra de este hecho</l>
+     <l n="14" met="-+-+-+-+++-">que sólo debo a ti poder ser mío.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

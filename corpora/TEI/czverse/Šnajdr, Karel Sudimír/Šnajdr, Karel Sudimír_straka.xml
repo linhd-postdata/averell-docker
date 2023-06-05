@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Straka.</title>
+    <author>Šnajdr, Karel Sudimír</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Šnajdr, Karel Sudimír_straka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Straka.</title>
+     <author>Šnajdr, Karel Sudimír</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Straka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" line_length="8">Straka sedí na javoře</l>
+     <l n="2" met="100" rhyme="1" line_length="3">Strakatá,</l>
+     <l n="3" met="10101000" line_length="8">Volá na vás, roztomilá</l>
+     <l n="4" met="100" rhyme="1" line_length="3">Děvčata!</l>
+     <l n="5" met="10100010" line_length="8">Řechce: „Varujte se hochů,</l>
+     <l n="6" met="100" rhyme="2" line_length="3">Šelmy jsou,</l>
+     <l n="7" met="00101010" line_length="8">Nic než šalbu v mylném srdcy</l>
+     <l n="8" met="100" rhyme="2" line_length="3">Nekujou.“</l>
+    </lg>
+    <lg n="2">
+     <l n="9" met="10101010" line_length="8">Holky ale strace věřit</l>
+     <l n="10" met="100" rhyme="3" line_length="3">Nechtěly,</l>
+     <l n="11" met="10001010" line_length="8">Pořád se předc jenom hochů</l>
+     <l n="12" met="100" rhyme="3" line_length="3">Držely,</l>
+     <l n="13" met="00101000" line_length="8">Až sy mnohá prstýnek z nich</l>
+     <l n="14" met="100" rhyme="4" line_length="3">Zlámala,</l>
+     <l n="15" met="10101000" line_length="8">Ach! a potom přežalostně</l>
+     <l n="16" met="100" rhyme="4" line_length="3">Plakala.</l>
+    </lg>
+    <lg n="3">
+     <l n="17" met="00101000" line_length="8">Vy, jenž ještě v nevinnosti</l>
+     <l n="18" met="100" rhyme="5" line_length="3">Žijete,</l>
+     <l n="19" met="10001010" line_length="8">Věneček svůj v koutku tiše</l>
+     <l n="20" met="100" rhyme="5" line_length="3">Vijete,</l>
+     <l n="21" met="10001010" line_length="8">Pomněte, když očko hocha</l>
+     <l n="22" met="100" rhyme="6" line_length="3">Uhlídá,</l>
+     <l n="23" met="01101010" line_length="8">Že y straka někdy pravdu</l>
+     <l n="24" met="100" rhyme="6" line_length="3">Povídá.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Valaška.</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_valaska</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Valaška.</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Valaška.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0010100" line_length="7">Jak jsem srostla s horami,</l>
+     <l n="2" met="0010100" rhyme="1" line_length="7">jak ty hvězdy s nebesy,</l>
+     <l n="3" met="1000101" line_length="7">uvykla jsem celý den</l>
+     <l n="4" met="1000100" rhyme="1" line_length="7">dívati se na lesy.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1000100" line_length="7">Nešla bych já za muže,</l>
+     <l n="6" met="0110100" rhyme="2" line_length="7">jenž má chatku v údolí,</l>
+     <l n="7" met="1010100" line_length="7">ale do hor vysoko,</l>
+     <l n="8" met="0100100" rhyme="2" line_length="7">kde lítají sokoli.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0010101" line_length="7">Já bych ráda širý kraj</l>
+     <l n="10" met="1010100" rhyme="3" line_length="7">měla sobě u nohou,</l>
+     <l n="11" met="0100100" line_length="7">a nad hlavou slunéčko</l>
+     <l n="12" met="1000100" rhyme="3" line_length="7">s modrojasnou oblohou.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="0100100" line_length="7">A koho si vyvolím,</l>
+     <l n="14" met="1010100" rhyme="4" line_length="7">jonák bude pohoral –</l>
+     <l n="15" met="0011100" line_length="7">když nás pán bůh uvidí,</l>
+     <l n="16" met="1100101" rhyme="4" line_length="7">ráj udělá z našich skal!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

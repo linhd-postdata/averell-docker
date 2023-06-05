@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El monago</title>
+    <author>Joaquín G. Losada</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Joaquín G. Losada_el-monago</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El monago</title>
+     <author>Joaquín G. Losada</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El monago</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+---+-+-">He aquí un modelo de aprendiz de cura;</l>
+     <l n="2" met="-+-+-+---+-">rapaz, astuto, hipócrita, taimado,</l>
+     <l n="3" met="--++-+---+-">en el templo es humilde y resignado,</l>
+     <l n="4" met="--+--+---+-">en la calle perversa criatura.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++---+-+-+-">No hay vela que con él esté segura,</l>
+     <l n="6" met="+----+---+-">burla de los cepillos el candado,</l>
+     <l n="7" met="---+-+---+-">y en cuanto pilla al sacris descuidado</l>
+     <l n="8" met="---+---+-+-">las vinajeras insolente apura.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-+-+-+-">En los conventos suele hacer carrera,</l>
+     <l n="10" met="----+-++++-">mas ¡ay! en las parroquias no da un paso,</l>
+     <l n="11" met="-+++---+++-">y sólo un triste porvenir le espera.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+++-+-">Pues suele acontecerle algún fracaso</l>
+     <l n="13" met="--+--+---+-">con cualquier tenientillo calavera...</l>
+     <l n="14" met="-----++--+-">como el de San Ginés... pongo por caso.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

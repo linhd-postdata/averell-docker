@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VZDÁLENÁ PÍSEŇ</title>
+    <author>Sova, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sova, Antonín_vzdalena-pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VZDÁLENÁ PÍSEŇ</title>
+     <author>Sova, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VZDÁLENÁ PÍSEŇ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010010100" rhyme="1" line_length="14">Zatichly hroby a zatichly na vsi příbytky</l>
+     <l n="2" met="010010010000100" rhyme="1" line_length="15">i údolí mlčí a bezvětrné jsou vyhlídky,</l>
+     <l n="3" met="010010010010" rhyme="2" line_length="12">a mlčící země své tajemství skrývá</l>
+     <l n="4" met="10010" rhyme="3" line_length="5">něco se rodí. –</l>
+     <l n="5" met="110010010010" line_length="12">Jde člověk a prací se v obzoru ztrácí.</l>
+     <l n="6" met="11010010" rhyme="3" line_length="8">Bůh mlčí v chrámové lodi –</l>
+     <l n="7" met="01010" rhyme="2" line_length="5">jen dítě zpívá.</l>
+    </lg>
+    <lg n="2">
+     <l n="8" met="0101000" rhyme="4" line_length="7">Toť balsám na bolesti,</l>
+     <l n="9" met="100100101000" rhyme="5" line_length="12">stříbrná dítěte píseň znenadání.</l>
+     <l n="10" met="0101100" rhyme="4" line_length="7">Toť jitřní sen o štěstí,</l>
+     <l n="11" met="1001000" rhyme="5" line_length="7">andělské zvěstování.</l>
+    </lg>
+    <lg n="3">
+     <l n="12" met="010010010" rhyme="6" line_length="9">To bratrská láska se jeví</l>
+     <l n="13" met="10010" rhyme="7" line_length="5">z tolika bolů.</l>
+     <l n="14" met="010010010" rhyme="6" line_length="9">Snad smíří nás andělské zpěvy</l>
+     <l n="15" met="10010" rhyme="7" line_length="5">od pólu k pólu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

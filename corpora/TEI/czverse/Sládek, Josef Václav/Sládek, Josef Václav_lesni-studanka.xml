@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LESNÍ STUDÁNKA.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_lesni-studanka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LESNÍ STUDÁNKA.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LESNÍ STUDÁNKA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11000100" line_length="8">ZNÁM křišťálovou studánku,</l>
+     <l n="2" met="010001" rhyme="1" line_length="6">kde nejhlubší je les,</l>
+     <l n="3" met="01010100" line_length="8">tam roste tmavé kapradí</l>
+     <l n="4" met="010101" rhyme="1" line_length="6">a vůkol rudý vřes.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101" line_length="8">Tam ptáci, laně chodí pít</l>
+     <l n="6" met="100001" rhyme="2" line_length="6">pod javorový kmen,</l>
+     <l n="7" met="01010100" line_length="8">ti ptáci za dne bílého,</l>
+     <l n="8" met="010100" rhyme="2" line_length="6">ty laně v noci jen.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" line_length="8">Když usnou lesy hluboké</l>
+     <l n="10" met="010100" rhyme="3" line_length="6">a kolem ticho jest,</l>
+     <l n="11" met="01000100" line_length="8">a nebesa i studánka</l>
+     <l n="12" met="010101" rhyme="3" line_length="6">jsou plny zlatých hvězd.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

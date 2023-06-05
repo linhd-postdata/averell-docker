@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vzpomínání.</title>
+    <author>Čelakovský, František Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čelakovský, František Ladislav_vzpominani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vzpomínání.</title>
+     <author>Čelakovský, František Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vzpomínání.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101000" rhyme="1" line_length="10">Na tě myslím, děvče ušlechtilé!</l>
+     <l n="2" met="0010101000" rhyme="1" line_length="10">Kdy mne jitro ze sna roztomilé</l>
+     <l n="3" met="1010100" rhyme="2" line_length="7">V ranní kráse budívá,</l>
+     <l n="4" met="10100" rhyme="2" line_length="5">V hájek loudívá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010010010" rhyme="3" line_length="10">Na tě myslím, když slunéčko vzešlé</l>
+     <l n="6" met="1000100010" rhyme="3" line_length="10">O poledna utěšení sešle,</l>
+     <l n="7" met="0010100" rhyme="4" line_length="7">Kdy mne podnět milosti</l>
+     <l n="8" met="10100" rhyme="4" line_length="5">Vábí k radosti.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1000100010" rhyme="5" line_length="10">U večer, kdy při potůčku sedím,</l>
+     <l n="10" met="1010001010" rhyme="5" line_length="10">Smutně přes lesy v ty kraje hledím,</l>
+     <l n="11" met="01100" rhyme="6" line_length="5">Kde má jedinká</l>
+     <l n="12" met="1010100" rhyme="6" line_length="7">Chodí zlatá Julinka.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1010101000" rhyme="7" line_length="10">Ano, v tiché noční samotnosti</l>
+     <l n="14" met="1010001000" rhyme="7" line_length="10">Po vás putující v dalekosti,</l>
+     <l n="15" met="10100" rhyme="8" line_length="5">Věrné hvězdičky,</l>
+     <l n="16" met="1000100" rhyme="8" line_length="7">Posílám jí hubičky.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

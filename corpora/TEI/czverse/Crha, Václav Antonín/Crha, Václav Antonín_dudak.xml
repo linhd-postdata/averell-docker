@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dudák.</title>
+    <author>Crha, Václav Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Crha, Václav Antonín_dudak</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dudák.</title>
+     <author>Crha, Václav Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dudák.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" rhyme="1" line_length="6">Onemocněl – dudák,</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">samou láskou – chudák:</l>
+     <l n="3" met="00101010" rhyme="2" line_length="8">Že mu milá výhost dala,</l>
+     <l n="4" met="10000010" rhyme="2" line_length="8">za jiného se mu vdala,</l>
+     <l n="5" met="101010" rhyme="1" line_length="6">inu, byl to chudák!</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="100000" rhyme="3" line_length="6">Dudáčku můj – já řku,</l>
+     <l n="7" met="101010" rhyme="3" line_length="6">nech pak toho – nářku,</l>
+     <l n="8" met="10001010" rhyme="4" line_length="8">ohledni se kolem sebe,</l>
+     <l n="9" met="10101010" rhyme="4" line_length="8">kopu děvčat dá ti nebe, –</l>
+     <l n="10" met="001010" rhyme="3" line_length="6">nu a jakých! – já řku.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="110010" rhyme="5" line_length="6">Máš památné dudy,</l>
+     <l n="12" met="100010" rhyme="5" line_length="6">dívky je znaj’ všudy,</l>
+     <l n="13" met="01011010" rhyme="6" line_length="8">toť aby čert dudy pískal,</l>
+     <l n="14" met="10101000" rhyme="6" line_length="8">abys děvče nevyzískal,</l>
+     <l n="15" met="101010" rhyme="5" line_length="6">jářku – všudy, všudy!!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

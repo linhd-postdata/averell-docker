@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VILLE MORTE</title>
+    <author>Albert Samain</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Albert Samain_ville-morte</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VILLE MORTE</title>
+     <author>Albert Samain</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VILLE MORTE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Vague, perdue au fond des sables monotones,</l>
+     <l n="2" rhyme="b" line_length="6+6">La ville d'autrefois, sans tours et sans remparts,</l>
+     <l n="3" rhyme="a" line_length="6+6">Dort le sommeil dernier des vieilles Babylones,</l>
+     <l n="4" rhyme="b" line_length="6+6">Sous le suaire blanc de ses marbres épars.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">Jadis elle régnait : sur ses murailles fortes</l>
+     <l n="6" rhyme="d" line_length="6+6">La victoire étendait ses deux ailes de fer.</l>
+     <l n="7" rhyme="c" line_length="6+6">Tous les peuples d'Asie assiégeaient ses cent portes</l>
+     <l n="8" rhyme="d" line_length="6+6">Et ses grands escaliers descendaient vers la mer…</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="6−6">Vide à présent, et pour jamais silencieuse,</l>
+     <l n="10" rhyme="e" line_length="6+6">Pierre à pierre, elle meurt, sous la lune pieuse,</l>
+     <l n="11" rhyme="f" line_length="6+6">Auprès de son vieux fleuve ainsi qu'elle épuisé.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="6+6">Et seul, un éléphant de bronze, en ces désastres.</l>
+     <l n="13" rhyme="f" line_length="6+6">Droit encore au sommet d'un portique brisé,</l>
+     <l n="14" rhyme="g" line_length="6+6">Lève tragiquement sa trompe vers les astres.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

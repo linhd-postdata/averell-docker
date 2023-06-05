@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Bebamos</title>
+    <author>Manuel del Palacio</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel del Palacio_bebamos</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Bebamos</title>
+     <author>Manuel del Palacio</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Bebamos</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+++--+++++-">No lo quiero saber, no me lo cuentes;</l>
+     <l n="2" met="-+---+-+-+-">pasó lo que pasó y estoy sereno;</l>
+     <l n="3" met="++-+---+-+-">me importa poco que en tu blanco seno</l>
+     <l n="4" met="-+---+---+-">aniden ruiseñores o serpientes.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">Deja a su antojo murmurar las gentes</l>
+     <l n="6" met="---+-+-+-+-">a cuya lengua nadie puso freno,</l>
+     <l n="7" met="+-+--+++-+-">¿me calumnia? mejor; ¿me envidian? bueno,</l>
+     <l n="8" met="+-+--+---+-">siempre el mar se burló de los torrentes.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+---+-">¿Quién del vino que liba entusiasmado</l>
+     <l n="10" met="--+--+---+-">la pureza y el mérito contrasta?</l>
+     <l n="11" met="-++--+-+-+-">Tu vino era exquisito; lo he probado.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+-+-+-">Y aunque es, dicen, la vid de mala casta,</l>
+     <l n="13" met="-+---+++-+-">las horas que el amor nos ha durado</l>
+     <l n="14" met="++-+--+-++-">¿no hemos sido felices? Pues ya basta.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

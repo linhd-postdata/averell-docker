@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VZDECH.</title>
+    <author>Brabec, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Brabec, Adolf_vzdech</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VZDECH.</title>
+     <author>Brabec, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VZDECH.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010100100" rhyme="1" line_length="9">Jen jednou na světě milovat,</l>
+     <l n="2" met="01001010" rhyme="2" line_length="8">pak potichu zemřít chtěl bych,</l>
+     <l n="3" met="010100100" rhyme="1" line_length="9">své děvče na tváři celovat, –</l>
+     <l n="4" met="00001010" rhyme="2" line_length="8">pak bych si jen teskně povzdych.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100100" rhyme="3" line_length="9">„Na světě nahoře růžovém</l>
+     <l n="6" met="01001010" rhyme="4" line_length="8">je přece jen tolik krásy,</l>
+     <l n="7" met="10010100" rhyme="3" line_length="8">v srdci že někdy žulovém</l>
+     <l n="8" met="01001010" rhyme="4" line_length="8">se milostné ozvou hlasy.“</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010010100" rhyme="5" line_length="9">„Ať žalostí, slastí zvlněno</l>
+     <l n="10" met="01010010" rhyme="6" line_length="8">je moře našeho žití,</l>
+     <l n="11" met="010000100" rhyme="5" line_length="9">přec nejvřelejší je splněno,</l>
+     <l n="12" met="01001010" rhyme="6" line_length="8">když srdce – to lásku cití!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

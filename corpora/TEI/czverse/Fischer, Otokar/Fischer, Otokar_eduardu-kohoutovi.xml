@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Eduardu Kohoutovi</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_eduardu-kohoutovi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Eduardu Kohoutovi</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Eduardu Kohoutovi</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010010" rhyme="1" line_length="8">Své nervy dali jste v sázku –</l>
+     <l n="2" met="01001010" rhyme="2" line_length="8">ti druzí jsou klidni, až až.</l>
+     <l n="3" met="010011010" rhyme="1" line_length="9">Svou hrajete smrt – a když lásku,</l>
+     <l n="4" met="010010010" rhyme="1" line_length="9">i v ekstasi nosíte masku,</l>
+     <l n="5" met="01001010" rhyme="2" line_length="8">vy herci... Mí herci, jsem váš.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

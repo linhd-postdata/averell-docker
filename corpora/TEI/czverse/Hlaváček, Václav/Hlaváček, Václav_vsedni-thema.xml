@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VŠEDNÍ THEMA.</title>
+    <author>Hlaváček, Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hlaváček, Václav_vsedni-thema</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VŠEDNÍ THEMA.</title>
+     <author>Hlaváček, Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VŠEDNÍ THEMA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100100100" rhyme="1" line_length="10">Vždy na večer – po slunce západu</l>
+     <l n="2" met="0101010100" rhyme="1" line_length="10">je vídám zvolna jíti do sadu.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="11010101000" rhyme="2" line_length="11">Jdou oba tiší, plní passivnosti,</l>
+     <l n="4" met="01010101000" rhyme="3" line_length="11">on píše za plat malý v kanceláři</l>
+     <l n="5" met="01010001000" rhyme="2" line_length="11">a ona usýchá zas v domácnosti;</l>
+     <l n="6" met="01010101000" rhyme="3" line_length="11">tak ze dne na den stejně hospodaří.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="10010100010" rhyme="4" line_length="11">V zákoutí parku na lavičce sedí,</l>
+     <l n="8" met="10010001010" rhyme="4" line_length="11">na západ bez účasti, tupě hledí.</l>
+    </lg>
+    <lg n="4">
+     <l n="9" met="01001001000" rhyme="5" line_length="11">On přemýšlí na účty neskončené</l>
+     <l n="10" met="10010001000" rhyme="6" line_length="11">a jak by chyba v nich se opravila,</l>
+     <l n="11" met="01010001000" rhyme="5" line_length="11">a ona – přemýšlí tak každodenně –</l>
+     <l n="12" met="01000101000" rhyme="6" line_length="11">co k obědu by zítra připravila.</l>
+    </lg>
+    <lg n="5">
+     <l n="13" met="0100100100" rhyme="7" line_length="10">Vždy na večeř po slunce západu</l>
+     <l n="14" met="0101010100" rhyme="7" line_length="10">je vídám zvolna jíti ze sadu...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

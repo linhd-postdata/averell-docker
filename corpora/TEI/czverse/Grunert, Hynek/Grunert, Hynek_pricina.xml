@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Příčina.</title>
+    <author>Grunert, Hynek</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Grunert, Hynek_pricina</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Příčina.</title>
+     <author>Grunert, Hynek</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Příčina.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Až po krk šaty upjaté</l>
+     <l n="2" met="1010010" rhyme="1" line_length="7">nosí – o vzor to ctnosti!</l>
+     <l n="3" met="11010100" line_length="8">Ach, činí ona proto tak,</l>
+     <l n="4" met="0110010" rhyme="1" line_length="7">by zřít nebylo kosti! –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

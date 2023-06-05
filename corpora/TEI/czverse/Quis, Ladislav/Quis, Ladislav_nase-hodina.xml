@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Naše hodina.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_nase-hodina</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Naše hodina.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Naše hodina.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010101" line_length="10">Ta matka Sláva nový zrodí věk</l>
+     <l n="2" met="0100010100" rhyme="1" line_length="10">jak Róma kdys i slavná Francie,</l>
+     <l n="3" met="0100010100" line_length="10">své dítky vše kol sebe shromáždí</l>
+     <l n="4" met="0101010100" rhyme="1" line_length="10">a v jedné lásce na vždy spojí je.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010100" line_length="10">Tu matka Sláva prapor rozvine,</l>
+     <l n="6" met="0100010100" rhyme="2" line_length="10">a volnost tam, kde prapor zašumí;</l>
+     <l n="7" met="0101010101" line_length="10">všem ona žhavé slze, krev i zášť</l>
+     <l n="8" met="0101010100" rhyme="2" line_length="10">a bídy nářky navždy utlumí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101010100" line_length="10">Tu matka Sláva světy obejme</l>
+     <l n="10" met="0101010101" rhyme="3" line_length="10">a v lidstvo vdechne nový, svatý žár,</l>
+     <l n="11" met="0101010101" line_length="10">že volný roba bratem bude zvát</l>
+     <l n="12" met="0101010101" rhyme="3" line_length="10">a v pouta upjat jenom dávný svár.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1101010100" line_length="10">Vznes, matko Slávo, skleslá ramena,</l>
+     <l n="14" met="0101010100" rhyme="4" line_length="10">již k srdci přiviň svoji rodinu,</l>
+     <l n="15" met="0101010100" line_length="10">jeť blízko do dne, rafij dobíhá –</l>
+     <l n="16" met="1101010100" rhyme="4" line_length="10">slyš, dějů zvon nám bije hodinu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NAŠE ŠTĚSTÍ.</title>
+    <author>Koukl, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Koukl, Antonín_nase-stesti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NAŠE ŠTĚSTÍ.</title>
+     <author>Koukl, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NAŠE ŠTĚSTÍ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010100100" rhyme="1" line_length="9">My, kteří máme své mozoly,</l>
+     <l n="2" met="100100100" rhyme="2" line_length="9">vodíme děvčata k oltáři:</l>
+     <l n="3" met="100100100" line_length="9">za to však pánové čekají</l>
+     <l n="4" met="10010100" rhyme="2" line_length="8">„zralejší“ stále na stáří.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100100" line_length="9">Štěstí jim není víc potřeba,</l>
+     <l n="6" met="00010100" rhyme="1" line_length="8">nás když však srdce rozbolí,</l>
+     <l n="7" met="100101100" line_length="9">musíme štěstí mít: vědomí,</l>
+     <l n="8" met="100100100" rhyme="1" line_length="9">pro koho máme své mozoly?!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

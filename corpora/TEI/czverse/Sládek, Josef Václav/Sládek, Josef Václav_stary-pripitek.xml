@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Starý přípitek.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_stary-pripitek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Starý přípitek.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Starý přípitek.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010" line_length="7">Na starém, šedém hradu</l>
+     <l n="2" met="010101" rhyme="1" line_length="6">tam starý sedí výr,</l>
+     <l n="3" met="0101010" line_length="7">a staré, šedé myši</l>
+     <l n="4" met="100100" rhyme="1" line_length="6">ze starých lezou dir.</l>
+     <l n="5" met="0101010" line_length="7">A v staré, šedé věži</l>
+     <l n="6" met="100100" rhyme="2" line_length="6">ve starém koutě kdes</l>
+     <l n="7" met="0101010" line_length="7">je starý cep a palcát</l>
+     <l n="8" met="010101" rhyme="2" line_length="6">a na nich stará rez.</l>
+    </lg>
+    <lg n="2">
+     <l n="9" met="0101010" line_length="7">A starý rok než klade</l>
+     <l n="10" met="100101" rhyme="3" line_length="6">se v starý, šedý hrob,</l>
+     <l n="11" met="0100010" line_length="7">tu o půlnoci zvedá</l>
+     <l n="12" met="101001" rhyme="3" line_length="6">se stín ze starých kob:</l>
+     <l n="13" met="0101010" line_length="7">to smutná, bílá paní</l>
+     <l n="14" met="100101" rhyme="4" line_length="6">jde tam v tu starou věž</l>
+     <l n="15" met="0101010" line_length="7">a zpívá starou píseň</l>
+     <l n="16" met="010100" rhyme="4" line_length="6">a pláče k tomu též.</l>
+    </lg>
+    <lg n="3">
+     <l n="17" met="0101010" line_length="7">Však v starém sklepě dole</l>
+     <l n="18" met="010101" rhyme="5" line_length="6">se zvedá starý brach</l>
+     <l n="19" met="0100010" line_length="7">a ze starého sudu</l>
+     <l n="20" met="010101" rhyme="5" line_length="6">tam stírá starý prach.</l>
+     <l n="21" met="0101010" line_length="7">A zvedá starý pohár</l>
+     <l n="22" met="010101" rhyme="6" line_length="6">a pije v jeden dech</l>
+     <l n="23" met="1001010" line_length="7">na starý zdar a slávu</l>
+     <l n="24" met="010101" rhyme="6" line_length="6">těch našich starých Čech!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>TICHO PO PĚŠINĚ...</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_ticho-po-pesine</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>TICHO PO PĚŠINĚ...</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>TICHO PO PĚŠINĚ...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010101" rhyme="1" line_length="11">Zaváty jsou cesty, na všem leží sníh,</l>
+     <l n="2" met="10001010101" rhyme="1" line_length="11">pod příkrovem bílým zmrtvěl kraj a ztich.</l>
+     <l n="3" met="10100010101" rhyme="2" line_length="11">U cest jeřabiny, rdí se rudý plod.</l>
+     <l n="4" met="10101010001" rhyme="2" line_length="11">Mrtvé ticho v lese, u mlčících vod.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010101" rhyme="3" line_length="11">Zaváty jsou cesty, tiše padá sníh,</l>
+     <l n="6" met="10001010100" rhyme="1" line_length="11">přebolelo všecko v času návějích.</l>
+     <l n="7" met="10100010101" rhyme="4" line_length="11">Ticho po pěšině. Umlk’ houslí hlas.</l>
+     <l n="8" met="10101010011" rhyme="4" line_length="11">Sluncem jitro vzplálo, večerem den zhas.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001010101" rhyme="3" line_length="11">Přebolelo všecko. Tiše padá sníh.</l>
+     <l n="10" met="10011010101" rhyme="3" line_length="11">Rolniček, slyš, tichem v dáli lehký smích!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

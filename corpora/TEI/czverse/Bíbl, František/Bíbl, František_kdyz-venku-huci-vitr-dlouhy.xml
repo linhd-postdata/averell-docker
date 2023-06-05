@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Když venku hučí vítr dlouhý,</title>
+    <author>Bíbl, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Bíbl, František_kdyz-venku-huci-vitr-dlouhy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Když venku hučí vítr dlouhý,</title>
+     <author>Bíbl, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Když venku hučí vítr dlouhý,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" line_length="9">Když venku hučí vítr dlouhý, </l>
+     <l n="2" met="100010100" line_length="9">jasné jsou a chladné dlaždice,</l>
+     <l n="3" met="1000100010" line_length="10">půlhodiny po odchodu navždy</l>
+     <l n="4" met="1010100010" line_length="10">toho, jehož opuštěné stopy</l>
+     <l n="5" met="101000100" line_length="9">na nich počínají zmírati.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

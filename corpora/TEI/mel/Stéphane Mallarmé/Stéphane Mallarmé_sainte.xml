@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SAINTE</title>
+    <author>Stéphane Mallarmé</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Stéphane Mallarmé_sainte</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SAINTE</title>
+     <author>Stéphane Mallarmé</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SAINTE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">À la fenêtre recelant</l>
+     <l n="2" rhyme="b" line_length="8">Le santal vieux qui se dédore</l>
+     <l n="3" rhyme="a" line_length="8">De sa viole étincelant</l>
+     <l n="4" rhyme="b" line_length="8">Jadis avec flûte ou mandore,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Est la Sainte pâle, étalant</l>
+     <l n="6" rhyme="b" line_length="8">Le livre vieux qui se déplie</l>
+     <l n="7" rhyme="a" line_length="8">Du Magnificat ruisselant</l>
+     <l n="8" rhyme="b" line_length="8">Jadis selon vêpre et complie :</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">À ce vitrage d'ostensoir</l>
+     <l n="10" rhyme="b" line_length="8">Que frôle une harpe par l'Ange</l>
+     <l n="11" rhyme="a" line_length="8">Formée avec son vol du soir</l>
+     <l n="12" rhyme="b" line_length="8">Pour la délicate phalange</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">Du doigt que, sans le vieux santal</l>
+     <l n="14" rhyme="b" line_length="8">Ni le vieux livre, elle balance</l>
+     <l n="15" rhyme="a" line_length="8">Sur le plumage instrumental,</l>
+     <l n="16" rhyme="b" line_length="8">Musicienne du silence.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

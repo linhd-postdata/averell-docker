@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Mercière</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_la-merciere</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Mercière</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Mercière</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="7">D'où venez-vous ? Du Lignon ?</l>
+     <l n="2" rhyme="b" line_length="7">Dis-je à la jeune mortelle.</l>
+     <l n="3" rhyme="a" line_length="7">Non, je sors de chez Bignon,</l>
+     <l n="4" rhyme="b" line_length="7">Monsieur, me répondit-elle.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="7">Quel compère Guilleri</l>
+     <l n="6" rhyme="b" line_length="7">Vous a si bien chiffonnée ?</l>
+     <l n="7" rhyme="a" line_length="7">Dis-je. C'est le Sillery,</l>
+     <l n="8" rhyme="b" line_length="7">Dit cette désordonnée.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="7">Ses yeux riants, dans le soir</l>
+     <l n="10" rhyme="b" line_length="7">Faisaient l'effet d'un prodige,</l>
+     <l n="11" rhyme="a" line_length="7">Tout embrasés d'un feu noir.</l>
+     <l n="12" rhyme="b" line_length="7">Chère madame, lui dis-je,</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="7">Que de Jeux et que de Ris</l>
+     <l n="14" rhyme="b" line_length="7">Nichent sous votre dentelle !</l>
+     <l n="15" rhyme="a" line_length="7">Ces articles de Paris ?</l>
+     <l n="16" rhyme="b" line_length="7">Oui, je les tiens, me dit-elle,</l>
+    </lg>
+    <lg n="5">
+     <l n="17" rhyme="a" line_length="7">Pour que mon cœur, sans émoi,</l>
+     <l n="18" rhyme="b" line_length="7">Du destin amer se rie,</l>
+     <l n="19" rhyme="a" line_length="7">Et je m'en vais devant moi</l>
+     <l n="20" rhyme="b" line_length="7">Avec cette mercerie.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

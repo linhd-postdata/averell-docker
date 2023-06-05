@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NEBESKÁ ZAHRADA</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_nebeska-zahrada</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NEBESKÁ ZAHRADA</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NEBESKÁ ZAHRADA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010100" line_length="8">Znám jednu velkou zahradu,</l>
+     <l n="2" met="0100010" rhyme="1" line_length="7">ta rozkvétá jen v noci,</l>
+     <l n="3" met="10010100" line_length="8">kouzelnou krásu otvírá</l>
+     <l n="4" met="0100010" rhyme="1" line_length="7">tu užaslému chodci.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" line_length="8">Slunečka, astry, čajovky</l>
+     <l n="6" met="0101000" rhyme="2" line_length="7">a zářné pampelišky</l>
+     <l n="7" met="10010100" line_length="8">z nebeské velké zahrady</l>
+     <l n="8" met="1001010" rhyme="2" line_length="7">shlížejí na mne z výšky.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" line_length="8">A mezi nimi zahradník –</l>
+     <l n="10" met="1001000" rhyme="3" line_length="7">kníže – se procházívá –</l>
+     <l n="11" met="01000100" line_length="8">a na kvetoucí hvězdy své</l>
+     <l n="12" met="1000010" rhyme="3" line_length="7">se starostlivě dívá.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10010100" line_length="8">Potom se ztrácí do hradu</l>
+     <l n="14" met="0100010" rhyme="4" line_length="7">a pláče tam a stená –</l>
+     <l n="15" met="01010100" line_length="8">vždyť ráno bývá lučina</l>
+     <l n="16" met="1101000" rhyme="4" line_length="7">slz rosou postříbřená.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

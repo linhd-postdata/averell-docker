@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Bratr z mokré čtvrti.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_bratr-z-mokre-ctvrti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Bratr z mokré čtvrti.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Bratr z mokré čtvrti.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100" rhyme="1" line_length="7">Píseň, druzi, panenky,</l>
+     <l n="2" met="101010" rhyme="2" line_length="6">dobré pivo k tomu,</l>
+     <l n="3" met="0010100" rhyme="1" line_length="7">dnes už sotva od sklenky</l>
+     <l n="4" met="100010" rhyme="2" line_length="6">dostanu se domů!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1000100" rhyme="3" line_length="7">Daleká ta cesta jest,</l>
+     <l n="6" met="101010" rhyme="4" line_length="6">plna bláta, louží,</l>
+     <l n="7" met="1010101" rhyme="3" line_length="7">a já nevím, na mou čest,</l>
+     <l n="8" met="001010" rhyme="4" line_length="6">kdo tam po mně touží.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010101" rhyme="5" line_length="7">Pijme, pějme, kozel vem!</l>
+     <l n="10" met="100010" rhyme="6" line_length="6">trampoty a dluhy,</l>
+     <l n="11" met="0010100" rhyme="5" line_length="7">dnes jsme živi, zítra mřem’,</l>
+     <l n="12" met="011010" rhyme="6" line_length="6">nač dbát o den druhý!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1010100" rhyme="7" line_length="7">Sude, tvoje vládne moc!</l>
+     <l n="14" met="011010" rhyme="8" line_length="6">Vše jde se mnou rejdem.</l>
+     <l n="15" met="1000101" rhyme="7" line_length="7">Rozume můj, dobrou noc –</l>
+     <l n="16" met="111010" rhyme="8" line_length="6">bůh ví, kdy se sejdem!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

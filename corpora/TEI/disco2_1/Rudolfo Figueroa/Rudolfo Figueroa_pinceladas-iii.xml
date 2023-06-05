@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pinceladas -- III</title>
+    <author>Rudolfo Figueroa</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Rudolfo Figueroa_pinceladas-iii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pinceladas -- III</title>
+     <author>Rudolfo Figueroa</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pinceladas -- III</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Ha tiempo que la lluvia bienhechora</l>
+     <l n="2" met="+-+--+---+-">no difunde la vida y la alegría,</l>
+     <l n="3" met="---+---+-+-">que el enervante y caluroso día</l>
+     <l n="4" met="+------+-+-">viene después de festejada aurora.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-++--+---+-">El sol vierte su lumbre caldeadota</l>
+     <l n="6" met="-+-+---+-+-">del ancho cielo en la extensión vacía,</l>
+     <l n="7" met="--+--+---+-">se retuerce el arbusto en agonía</l>
+     <l n="8" met="--+--+---+-">y en los cauces el agua se vapora.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+---+-">Una tarde los míseros mortales,</l>
+     <l n="10" met="-+-+---+-+-">pidiendo gracia en la feroz contienda</l>
+     <l n="11" met="--++-+-+-+-">y buscando un alivio a tantos males,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-----+--+-">lleva en aras de sencilla ofrenda,</l>
+     <l n="13" met="-----+---+-">a través de los áridos maizales</l>
+     <l n="14" met="---+-+---+-">al tutelar patrono de la hacienda.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

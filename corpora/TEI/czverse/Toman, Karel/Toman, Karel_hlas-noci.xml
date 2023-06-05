@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>HLAS NOCI</title>
+    <author>Toman, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Toman, Karel_hlas-noci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>HLAS NOCI</title>
+     <author>Toman, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>HLAS NOCI</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100010" rhyme="1" line_length="11">Město tě volá, odbojného syna,</l>
+     <l n="2" met="11" rhyme="2" line_length="2">ó slyš.</l>
+     <l n="3" met="01000101000" rhyme="1" line_length="11">Ať kladivo jsi, nebo kovadlina,</l>
+     <l n="4" met="01" rhyme="2" line_length="2">ty zníš.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010101010" rhyme="3" line_length="11">Odvěká píseň, boj a věčné drama</l>
+     <l n="6" met="11" rhyme="4" line_length="2">hrá v tmách,</l>
+     <l n="7" met="01010101010" rhyme="3" line_length="11">a tvoje duše žíti chce je sama</l>
+     <l n="8" met="01" rhyme="4" line_length="2">a v snách?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010100010" rhyme="5" line_length="11">Milion tónů v symfonii splývá</l>
+     <l n="10" met="01" rhyme="6" line_length="2">a hřmí.</l>
+     <l n="11" met="10010101010" rhyme="5" line_length="11">Z doupěte vyjdi: život světa zpívá</l>
+     <l n="12" met="01" rhyme="6" line_length="2">z mé tmy.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

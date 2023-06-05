@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Píseň o pruské svobodě</title>
+    <author>Nevšímal, August</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nevšímal, August_pisen-o-pruske-svobode</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Píseň o pruské svobodě</title>
+     <author>Nevšímal, August</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Píseň o pruské svobodě</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" line_length="6">Prušáci, bunďáci,</l>
+     <l n="2" met="001010" rhyme="1" line_length="6">ti jsou nyní pány,</l>
+     <l n="3" met="100100" line_length="6">nesmí jim poroučet</l>
+     <l n="4" met="010010" rhyme="1" line_length="6">krom Viléma žádný.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100" line_length="6">Padla jim robota,</l>
+     <l n="6" met="100100" rhyme="2" line_length="6">desátků nemají,</l>
+     <l n="7" met="100100" line_length="6">budou se jmenovat</l>
+     <l n="8" met="100100" rhyme="2" line_length="6">žebráků zemany.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100100" line_length="6">Modli se, Prušáčku,</l>
+     <l n="10" met="100101" rhyme="3" line_length="6">modli se každý den,</l>
+     <l n="11" met="001010" line_length="6">že, až přijdeš z vojny,</l>
+     <l n="12" met="100100" rhyme="3" line_length="6">půjdeš zas za týden.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100100" line_length="6">Rozvaž si, Prušáčku,</l>
+     <l n="14" met="100100" rhyme="4" line_length="6">dobrotu velikou,</l>
+     <l n="15" met="000100" line_length="6">že nic, krom jehlovky,</l>
+     <l n="16" met="101100" rhyme="4" line_length="6">nesmíš vzít do rukou.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="110100" line_length="6">Ach! ta tvá svoboda</l>
+     <l n="18" met="100100" rhyme="5" line_length="6">ze stříbra, ze zlata,</l>
+     <l n="19" met="100100" line_length="6">dává se zadarmo:</l>
+     <l n="20" met="100100" rhyme="5" line_length="6">v žaláři, u kata.</l>
+    </lg>
+    <lg n="6">
+     <l n="21" met="100100" line_length="6">V žaláři, u kata</l>
+     <l n="22" met="101010" rhyme="6" line_length="6">hoří jako svíce,</l>
+     <l n="23" met="100100" line_length="6">slávu jí vyzvání</l>
+     <l n="24" met="100100" rhyme="6" line_length="6">kanonů tisíce.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>À LA BIEN-AIMÉE</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_a-la-bien-aimee</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>À LA BIEN-AIMÉE</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>À LA BIEN-AIMÉE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Vous êtes mon palais, mon soir et mon automne,</l>
+     <l n="2" rhyme="b" line_length="6+6">Et ma voile de soie et mon jardin de lys,</l>
+     <l n="3" rhyme="a" line_length="6+6">Ma cassolette d’or et ma blanche colonne,</l>
+     <l n="4" rhyme="b" line_length="6+6">Mon parc et mon étang de roseaux et d’iris.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Vous êtes mes parfums d’ambre et de miel, ma palme,</l>
+     <l n="6" rhyme="b" line_length="6+6">Mes feuillages, mes chants de cigales dans l’air,</l>
+     <l n="7" rhyme="a" line_length="6+6">Ma neige qui se meurt d’être hautaine et calme.</l>
+     <l n="8" rhyme="b" line_length="6−6">Et mes algues et mes paysages de mer.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Et vous êtes ma cloche au sanglot monotone,</l>
+     <l n="10" rhyme="b" line_length="6−6">Mon île fraîche et ma secourable oasis…</l>
+     <l n="11" rhyme="a" line_length="6+6">Vous êtes mon palais, mon soir et mon automne,</l>
+     <l n="12" rhyme="b" line_length="6+6">Et ma voile de soie et mon jardin de lys.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

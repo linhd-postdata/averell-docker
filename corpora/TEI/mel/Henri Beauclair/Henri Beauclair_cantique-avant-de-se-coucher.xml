@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Cantique avant de se coucher</title>
+    <author>Henri Beauclair</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Henri Beauclair_cantique-avant-de-se-coucher</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Cantique avant de se coucher</title>
+     <author>Henri Beauclair</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Cantique avant de se coucher</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">La Vie atroce a pris mon cœur dans son étau,</l>
+     <l n="2" rhyme="b" line_length="6−6">La Vie aigre sonne un tocsin dans mon oreille,</l>
+     <l n="3" rhyme="a" line_length="6+6">La Vie infâme a mis ses poux dans mon manteau.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="a" line_length="6+6">Je suis comme un raisin plâtré sous une treille,</l>
+     <l n="5" rhyme="b" line_length="6+6">Comme un quine égaré par l'affre du Loto.</l>
+     <l n="6" rhyme="a" line_length="6+6">Comme un Pape très blanc et très doux qui sommeille.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="a" line_length="6+6">Désespérance morne au seuil du Lys Hymen !</l>
+     <l n="8" rhyme="b" line_length="6+6">— Nimbé d'Encens impur j'agonise et je fume. —</l>
+     <l n="9" rhyme="a" line_length="6−6">O l'Induration lente du Cyclamen !</l>
+     <l n="10" rhyme="b" line_length="6−6">O les Morsures dans l'Alcôve qui s'allume !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

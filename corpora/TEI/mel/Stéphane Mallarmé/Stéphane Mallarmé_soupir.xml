@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SOUPIR</title>
+    <author>Stéphane Mallarmé</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Stéphane Mallarmé_soupir</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SOUPIR</title>
+     <author>Stéphane Mallarmé</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SOUPIR</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Mon âme vers ton front où rêve, ô calme sœur,</l>
+     <l n="2" rhyme="a" line_length="6+6">Un automne jonché de taches de rousseur,</l>
+     <l n="3" rhyme="b" line_length="6+6">Et vers le ciel errant de ton œil angélique</l>
+     <l n="4" rhyme="b" line_length="6−6">Monte, comme dans un jardin mélancolique,</l>
+     <l n="5" rhyme="a" line_length="6+6">Fidèle, un blanc jet d'eau soupire vers l'Azur !</l>
+     <l n="6" rhyme="a" line_length="6+6">― Vers l'Azur attendri d'Octobre pâle et pur</l>
+     <l n="7" rhyme="b" line_length="6+6">Qui mire aux grands bassins sa langueur infinie</l>
+     <l n="8" rhyme="b" line_length="6+6">Et laisse, sur l'eau morte où la fauve agonie</l>
+     <l n="9" rhyme="a" line_length="6+6">Des feuilles erre au vent et creuse un froid sillon,</l>
+     <l n="10" rhyme="a" line_length="6+6">Se traîner le soleil jaune d'un long rayon.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

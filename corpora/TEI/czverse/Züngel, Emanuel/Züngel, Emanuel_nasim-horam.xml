@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Našim horám.</title>
+    <author>Züngel, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Züngel, Emanuel_nasim-horam</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Našim horám.</title>
+     <author>Züngel, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Našim horám.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010" line_length="5">Ach hory, hory,</l>
+     <l n="2" met="10010" rhyme="1" line_length="5">v mlhavé dáli,</l>
+     <l n="3" met="10000" line_length="5">od věků již jste</l>
+     <l n="4" met="10010" rhyme="1" line_length="5">na stráži stály:</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10100" line_length="5">Aby cizinec</l>
+     <l n="6" met="00100" rhyme="2" line_length="5">sem se nevloudil,</l>
+     <l n="7" met="10110" line_length="5">synům vlast drahou</l>
+     <l n="8" met="01000" rhyme="2" line_length="5">pryč neodloudil.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="00100" line_length="5">Proč se za jitra</l>
+     <l n="10" met="10010" rhyme="3" line_length="5">tváře vám rděly?</l>
+     <l n="11" met="11010" line_length="5">Ach hory, hory,</l>
+     <l n="12" met="00010" rhyme="3" line_length="5">jak jste to bděly! – –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

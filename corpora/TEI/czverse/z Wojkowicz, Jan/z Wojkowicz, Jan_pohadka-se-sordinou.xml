@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>POHÁDKA SE SORDINOU.</title>
+    <author>z Wojkowicz, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">7</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>z Wojkowicz, Jan_pohadka-se-sordinou</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>POHÁDKA SE SORDINOU.</title>
+     <author>z Wojkowicz, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>POHÁDKA SE SORDINOU.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010001" rhyme="1" line_length="8">O zlatém trubači jsem snil,</l>
+     <l n="2" met="00010100" rhyme="1" line_length="8">co by tak zvučně zatroubil,</l>
+     <l n="3" met="10010100" rhyme="2" line_length="8">zatroubil snivě do dálky</l>
+     <l n="4" met="10010100" rhyme="2" line_length="8">zapadlou lásku z pohádky,</l>
+     <l n="5" met="01010100" rhyme="3" line_length="8">tu lásku prince s princeznou –</l>
+     <l n="6" met="00010100" rhyme="3" line_length="8">co se však nikdy nevezmou,</l>
+     <l n="7" met="10110100" rhyme="3" line_length="8">nikdy, ach nikdy nevezmou...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

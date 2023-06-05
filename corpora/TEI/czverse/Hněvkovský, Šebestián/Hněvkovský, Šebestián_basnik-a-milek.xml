@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Básník a Mílek.</title>
+    <author>Hněvkovský, Šebestián</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hněvkovský, Šebestián_basnik-a-milek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Básník a Mílek.</title>
+     <author>Hněvkovský, Šebestián</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Básník a Mílek.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100010" rhyme="1" line_length="10">Zlatý Mílku! na hlavě se jíní</l>
+     <l n="2" met="0010101010" rhyme="1" line_length="10">Již mně věší, co tvá bystrost míní?</l>
+     <l n="3" met="0010100010" rhyme="2" line_length="10">Viď, že čas jest, básniti již přestat,</l>
+     <l n="4" met="1001101010" rhyme="2" line_length="10">Potomstvo zná každou slabost trestat.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010101010" rhyme="3" line_length="10">Nehleď na leb, jestli bělí, lisí;</l>
+     <l n="6" met="1010001000" rhyme="3" line_length="10">Od té ničehožnic nezávisí.</l>
+     <l n="7" met="1000101010" rhyme="4" line_length="10">Pozoruj, zdaž šíp můj srdce vnadí?</l>
+     <l n="8" met="1010001010" rhyme="4" line_length="10">Necit k nadšení jen navždy vadí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010101000" rhyme="5" line_length="10">O ty blahý dare obraznosti!</l>
+     <l n="10" met="1010101000" rhyme="5" line_length="10">Ana nezná mezí prostrannosti,</l>
+     <l n="11" met="0010101010" rhyme="6" line_length="10">Jak tě ztratím, téhož nebes splyvu:</l>
+     <l n="12" met="1010101010" rhyme="6" line_length="10">K čemu přát si déle býti živu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

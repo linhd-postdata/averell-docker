@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les Fontaines de Brescia</title>
+    <author>Armand Renaud</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Armand Renaud_les-fontaines-de-brescia</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Les Fontaines de Brescia</title>
+     <author>Armand Renaud</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Les Fontaines de Brescia</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="5+5">BRESCIA, la ville aux claires fontaines,</l>
+     <l n="2" rhyme="b" line_length="5+5">A vu bien du sang rougir ses ruisseaux.</l>
+     <l n="3" rhyme="a" line_length="5+5">Les soldats brutaux, les durs capitaines</l>
+     <l n="4" rhyme="b" line_length="5+5">Ont fait bien des morts dans bien des assauts.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="5+5">Mais le sang s'efface et le fer se brise.</l>
+     <l n="6" rhyme="b" line_length="5+5">Le temps qui s'enfuit emporte le deuil.</l>
+     <l n="7" rhyme="a" line_length="5+5">Comme un tas de sable au gré de la brise,</l>
+     <l n="8" rhyme="b" line_length="5+5">L'œuvre des humains change en un clin d'œil.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="5+5">La nature seule a des lois certaines ;</l>
+     <l n="10" rhyme="b" line_length="5+5">Et, pour entraîner les maux passagers.</l>
+     <l n="11" rhyme="a" line_length="5+5">L'eau coule toujours des belles fontaines,</l>
+     <l n="12" rhyme="b" line_length="5+5">Au rythme berceur de leurs chants légers.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

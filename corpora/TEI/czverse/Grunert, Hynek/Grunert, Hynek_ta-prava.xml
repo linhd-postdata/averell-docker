@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ta pravá.</title>
+    <author>Grunert, Hynek</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Grunert, Hynek_ta-prava</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ta pravá.</title>
+     <author>Grunert, Hynek</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ta pravá.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100110010" rhyme="1" line_length="9">A nechť i zlý jazyk to haní,</l>
+     <l n="2" met="010101010" rhyme="1" line_length="9">tu vdovu za svou pojmu paní,</l>
+     <l n="3" met="10011001" rhyme="2" line_length="8">jejížto muž, by se jí zbyl,</l>
+     <l n="4" met="01000100" rhyme="2" line_length="8">se před nedávnem otrávil.</l>
+     <l n="5" met="1001010001" rhyme="3" line_length="10">Taková žena perla přec všech žen,</l>
+     <l n="6" met="100101001100" rhyme="3" line_length="12">neboť ji samou nemoh’ být muž usoužen! –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

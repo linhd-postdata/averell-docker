@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Symphonie</title>
+    <author>Charles-Marie Leconte de Lisle</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Charles-Marie Leconte de Lisle_symphonie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Symphonie</title>
+     <author>Charles-Marie Leconte de Lisle</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Symphonie</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Ô chevrier ! Ce bis est cher aux piérides.</l>
+     <l n="2" rhyme="a" line_length="6+6">Point de houx épineux ni de ronces arides ;</l>
+     <l n="3" rhyme="b" line_length="6+6">À travers l'hyacinthe et le souchet épais</l>
+     <l n="4" rhyme="b" line_length="6+6">Une source sacrée y germe et coule en paix.</l>
+     <l n="5" rhyme="a" line_length="6+6">Midi brûle là-bas où, sur les herbes grêles,</l>
+     <l n="6" rhyme="a" line_length="6+6">On voit au grand soleil bondir les sauterelles ;</l>
+     <l n="7" rhyme="b" line_length="6+6">Mais, du hêtre au platane et du myrte au rosier,</l>
+     <l n="8" rhyme="b" line_length="6+6">Ici, le merle vole et siffle à plein gosier.</l>
+     <l n="9" rhyme="a" line_length="6+6">Au nom des muses ! Viens sous l'ombre fraîche et noire !</l>
+     <l n="10" rhyme="a" line_length="6+6">Voici ta double flûte et mon pektis d'ivoire.</l>
+     <l n="11" rhyme="b" line_length="6+6">Daphnis fera sonner sa voix claire, et tous trois,</l>
+     <l n="12" rhyme="b" line_length="6+6">Près du roc dont la mousse a verdi les parois,</l>
+     <l n="13" rhyme="a" line_length="6+6">D'où Naïs nous écoute, un doigt blanc sur la lèvre,</l>
+     <l n="14" rhyme="a" line_length="6+6">Empêchons de dormir pan aux deux pieds de chèvre.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

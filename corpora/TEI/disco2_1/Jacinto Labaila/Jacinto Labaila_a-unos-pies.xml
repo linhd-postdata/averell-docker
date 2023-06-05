@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A unos pies</title>
+    <author>Jacinto Labaila</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jacinto Labaila_a-unos-pies</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A unos pies</title>
+     <author>Jacinto Labaila</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A unos pies</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+---+-">Me parecen tus pies, cuando diviso</l>
+     <l n="2" met="--+--+---+-">que la falda traspasan y bordean,</l>
+     <l n="3" met="++---+---+-">dos niños que traviesos juguetean</l>
+     <l n="4" met="--+--+---+-">en el mismo dintel del Paraíso.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">Quiso el amor y mi fortuna quiso</l>
+     <l n="6" met="+--+---+-+-">que ellos el fiel de mi balanza sean:</l>
+     <l n="7" met="-+---+-+-+-">de pronto, cuando salen, me recrean;</l>
+     <l n="8" met="---+-+---+-">cuando se van me afligen de improviso.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+-+-+-">¡Oh pies idolatrados! ¡Yo os imploro!</l>
+     <l n="10" met="---+-++--+-">Y, pues sabéis mover todo el palacio</l>
+     <l n="11" met="---+---+-+-">por quien el alma enamorada gime,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">traed a mi regazo mi tesoro</l>
+     <l n="13" met="-+---+-+-+-">y yo os aliviaré por largo espacio</l>
+     <l n="14" met="--+--+-+-+-">del riquísimo peso que os oprime.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

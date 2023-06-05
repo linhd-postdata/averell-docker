@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El olivo</title>
+    <author>Amos de Escalante</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Amos de Escalante_el-olivo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El olivo</title>
+     <author>Amos de Escalante</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El olivo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+-+---+-">«Vense mis hojas tristes, y apagado</l>
+     <l n="2" met="--+--+---+-">su brillante matiz, desde que yerto</l>
+     <l n="3" met="--+--+-+-+-">y angustiado Jesús dejó en el huerto</l>
+     <l n="4" met="-+-+---+-+-">mi tronco en sangre y en sudor bañado.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">Mas del santo rocío penetrado</l>
+     <l n="6" met="-+-+-+-+-+-">a eterna vida en nuevo ser despierto</l>
+     <l n="7" met="---+---+-+-">y cuando el campo palidece muerto</l>
+     <l n="8" met="+--+-+---+-">soy de verdor perenne coronado.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+---+-+-">Fecundizada en el temprano brote</l>
+     <l n="10" met="-+--++-+-+-">por lágrimas de un Dios la savia mía</l>
+     <l n="11" met="+--++----+-">unge al monarca y unge al sacerdote,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">y dejóme del huerto la agonía</l>
+     <l n="13" met="+--+---+-+-">paz en mis ramos que la guerra acote,</l>
+     <l n="14" met="+--+---+-+-">luz en mis frutos que dilate el día.»</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

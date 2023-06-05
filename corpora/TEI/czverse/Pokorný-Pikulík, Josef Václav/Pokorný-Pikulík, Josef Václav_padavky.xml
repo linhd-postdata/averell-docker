@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Padavky.</title>
+    <author>Pokorný-Pikulík, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný-Pikulík, Josef Václav_padavky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Padavky.</title>
+     <author>Pokorný-Pikulík, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Padavky.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101000" line_length="9">Ne každý datle, pomeranče</l>
+     <l n="2" met="11010101" rhyme="1" line_length="8">smí trhat na tom světě zlém!</l>
+     <l n="3" met="010010010" line_length="9">Já nasbíral padavky chudé</l>
+     <l n="4" met="10010100" rhyme="1" line_length="8">lidského žití pod stromem –</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010001010" line_length="9">Jsou kyselé a trpké chuti,</l>
+     <l n="6" met="10000100" rhyme="2" line_length="8">pro přeslazený žaludek –</l>
+     <l n="7" met="010001000" line_length="9">Proč na krám bych jich nevyložil?</l>
+     <l n="8" met="01010101" rhyme="2" line_length="8">snad přece mnohým přijdou vděk –</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010001000" line_length="9">A kdyby ne – mně posloužily;</l>
+     <l n="10" met="01000101" rhyme="3" line_length="8">já nezapírám jako lhář –</l>
+     <l n="11" met="010001010" line_length="9">já nasbíral jich také proto,</l>
+     <l n="12" met="01000100" rhyme="3" line_length="8">bych vytáhl z nich honorář!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="010001000" line_length="9">Z nich honorář a z kritikářů</l>
+     <l n="14" met="10010100" rhyme="4" line_length="8">nějaký slušný nádavek –</l>
+     <l n="15" met="010110010" line_length="9">„On tráví lid, jen ven s ním z cechu,</l>
+     <l n="16" met="01000100" rhyme="4" line_length="8">s tím prodavačem padavek!!“ –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

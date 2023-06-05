@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mé srdce.</title>
+    <author>Balcárek, Aleš</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Balcárek, Aleš_me-srdce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mé srdce.</title>
+     <author>Balcárek, Aleš</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mé srdce.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" line_length="8">Srdce mé, ty’s citův schránka,</l>
+     <l n="2" met="1010100" rhyme="1" line_length="7">ohlas dojmův cítěných!</l>
+     <l n="3" met="10101010" line_length="8">Duch můj létá, citem nešen,</l>
+     <l n="4" met="1010100" rhyme="1" line_length="7">bloudí v krajích nadhvězdných.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00101010" line_length="8">Jak to srdce divně cítí,</l>
+     <l n="6" met="1010101" rhyme="2" line_length="7">brzo plesá, brzo lká,</l>
+     <l n="7" met="00101000" line_length="8">tu zas, jak by pookřálo</l>
+     <l n="8" met="1010001" rhyme="2" line_length="7">v písni rozplynouť se zdá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10110010" line_length="8">Srdce, rci, čím jest to asi,</l>
+     <l n="10" met="1000101" rhyme="3" line_length="7">rychleji že proudí krev,</l>
+     <l n="11" met="10101000" line_length="8">duch že spěje k ideálům,</l>
+     <l n="12" met="1010101" rhyme="3" line_length="7">zřím-li nebes krásy zjev?</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101010" line_length="8">Hmota mizí, duch že spěje</l>
+     <l n="14" met="1010101" rhyme="4" line_length="7">v kraj, kde žádný není klam:</l>
+     <l n="15" met="10101010" line_length="8">kdeže věčné lásky sídlo,</l>
+     <l n="16" met="1010101" rhyme="4" line_length="7">pravda plaší světa mam.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="00101010" line_length="8">„Toť ta jiskra s nebes výšin,</l>
+     <l n="18" met="1000100" rhyme="5" line_length="7">božského jsouc původu.“ –</l>
+     <l n="19" met="10101010" line_length="8">Proto srdce k výši spěje,</l>
+     <l n="20" met="0010100" rhyme="5" line_length="7">tam svou hledá svobodu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

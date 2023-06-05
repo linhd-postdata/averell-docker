@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Omphale</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_omphale</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Omphale</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Omphale</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Calme et foulant son lit d'ivoire, dont le seuil</l>
+     <l n="2" rhyme="b" line_length="6+6">Orné d'or sous les plis de la pourpre étincelle,</l>
+     <l n="3" rhyme="b" line_length="6+6">La Lydienne rit de sa bouche infidèle</l>
+     <l n="4" rhyme="a" line_length="6+6">Aux princes de l'Asie, et leur fait bon accueil.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Une massue, espoir des Cyclades en deuil,</l>
+     <l n="6" rhyme="b" line_length="6+6">Sur un tapis splendide est posée auprès d'elle.</l>
+     <l n="7" rhyme="b" line_length="6+6">L'idole radieuse, et fière d'être belle,</l>
+     <l n="8" rhyme="a" line_length="6+6">De ses doigts enfantins y touche avec orgueil.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Sur son épaule blonde, amoureuse, embaumée,</l>
+     <l n="10" rhyme="c" line_length="6+6">Flotte la grande peau du lion de Némée,</l>
+     <l n="11" rhyme="d" line_length="6+6">Dont l'ongle impérieux lui tombe entre les seins.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Son cœur bat de plaisir sous l'horrible dépouille</l>
+     <l n="13" rhyme="d" line_length="6+6">Humide et noire encor du sang des assassins :</l>
+     <l n="14" rhyme="e" line_length="6+6">Hercule est à ses pieds et file une quenouille.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

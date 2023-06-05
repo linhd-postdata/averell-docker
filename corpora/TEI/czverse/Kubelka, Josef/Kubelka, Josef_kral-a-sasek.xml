@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KRÁL A ŠAŠEK.</title>
+    <author>Kubelka, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kubelka, Josef_kral-a-sasek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KRÁL A ŠAŠEK.</title>
+     <author>Kubelka, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KRÁL A ŠAŠEK.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110100100" line_length="9">Děl král: „Mě tíží má koruna,</l>
+     <l n="2" met="01001010" rhyme="1" line_length="8">mě tíží to žezlo v pěsti.</l>
+     <l n="3" met="1100100101" rhyme="2" line_length="10">Hej, šašku, ty královské bydlo máš,</l>
+     <l n="4" met="0100100100" rhyme="2" line_length="10">a nevládneš, o nic se nestaráš –</l>
+     <l n="5" met="01011010" rhyme="1" line_length="8">ty, šašku, máš z pekla štěstí!“</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="110010100" line_length="9">Děl šašek: „Nás osud usadil</l>
+     <l n="7" met="010010010" rhyme="3" line_length="9">tak různo v svém rozmaru stálém.</l>
+     <l n="8" met="010010101" rhyme="4" line_length="9">Mým heslem: vždy s losem v shodě žít. –</l>
+     <l n="9" met="010010100" rhyme="4" line_length="9">Je nesnadno dobrým šaškem být,</l>
+     <l n="10" met="01001010" rhyme="3" line_length="8">však snadno být – špatným králem.“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

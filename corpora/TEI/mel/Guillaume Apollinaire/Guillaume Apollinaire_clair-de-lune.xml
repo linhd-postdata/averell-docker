@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Clair de lune</title>
+    <author>Guillaume Apollinaire</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Guillaume Apollinaire_clair-de-lune</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Clair de lune</title>
+     <author>Guillaume Apollinaire</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Clair de lune</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Lune mellifluente aux lèvres des déments</l>
+     <l n="2" rhyme="a" line_length="6+6">Les vergers et les bourgs cette nuit sont gourmands</l>
+     <l n="3" rhyme="b" line_length="6+6">Les astres assez bien figurent les abeilles</l>
+     <l n="4" rhyme="b" line_length="6+6">De ce miel lumineux qui dégoutte des treilles</l>
+     <l n="5" rhyme="a" line_length="6+6">Car voici que tout doux et leur tombant du ciel</l>
+     <l n="6" rhyme="a" line_length="6+6">Chaque rayon de lune est un rayon de miel</l>
+     <l n="7" rhyme="b" line_length="6+6">Or caché je conçois la très douce aventure</l>
+     <l n="8" rhyme="b" line_length="6+6">J'ai peur du dard de feu de cette abeille Arcture</l>
+     <l n="9" rhyme="a" line_length="6+6">Qui posa dans mes mains des rayons décevants</l>
+     <l n="10" rhyme="a" line_length="6+6">Et prit son miel lunaire à la rose des vents</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

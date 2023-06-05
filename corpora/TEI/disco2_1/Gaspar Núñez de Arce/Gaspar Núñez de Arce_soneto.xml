@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Gaspar Núñez de Arce</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Gaspar Núñez de Arce_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Gaspar Núñez de Arce</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-----+---+-">Cuando de tus desórdenes testigo</l>
+     <l n="2" met="+-+--+---+-">te sorprendo en los brazos del tumulto,</l>
+     <l n="3" met="---+---+-+-">¡oh Libertad! , avergonzado, oculto</l>
+     <l n="4" met="-+---+-+-+-">mi rostro y sollozando te maldigo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">En lucha interna y desigual conmigo</l>
+     <l n="6" met="-+-+-+-+-+-">arráncame el dolor airado insulto:</l>
+     <l n="7" met="+--++--+-+-">quiero olvidarte, abandonar tu culto,</l>
+     <l n="8" met="-+-+---+++-">y ciegamente a mi pesar te sigo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++----+--+-">Te sigo a mi pesar. Sueño o quimera,</l>
+     <l n="10" met="+----++--+-">riges mi voluntad, llenas mi vida</l>
+     <l n="11" met="---+-++--+-">y dejaré de amarte cuando muera.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+----+---+-">Eres como la hermosa fementida</l>
+     <l n="13" met="-+-+---+-+-">que inspira al alma la pasión primera:</l>
+     <l n="14" met="+-+--+-+-+-">cuanto más inconstante más querida.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

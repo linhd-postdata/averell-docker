@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Teoría y práctica</title>
+    <author>Amyr</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Amyr_teoria-y-practica</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Teoría y práctica</title>
+     <author>Amyr</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Teoría y práctica</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-----+---+-">Sobre la castidad don Lino Estrella</l>
+     <l n="2" met="-++--+---+-">ayer tarde en San Pablo predicaba;</l>
+     <l n="3" met="-+-+-+---+-">¡con qué elocuencia el vicio fustigaba!</l>
+     <l n="4" met="+-+--+---+-">¡qué discreta su plática y que bella!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+--+--+-">Salí del templo, y al pensar en que ella</l>
+     <l n="6" met="---------+-">a las diez de la noche me esperaba,</l>
+     <l n="7" met="-+---+---+-">juré por mi salud que si pecaba,</l>
+     <l n="8" met="+--+-+-+-+-">la última vez sin falta fuese aquella;</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">que si es locura la pasión sin tasa,</l>
+     <l n="10" met="+--+-++--+-">no procurar vencerla es desatino.</l>
+     <l n="11" met="--+-++-+++-">Repitiendo mil veces: «de hoy no pasa»,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+-+-+-">antes de dar la diez tomé el camino,</l>
+     <l n="13" met="--+--+---+-">y al entrar por la puerta de su casa,</l>
+     <l n="14" met="++-+-++--+-">a un hombre vi salir... ¡Era don Lino!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

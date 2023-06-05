@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NEVĚRNÁ.</title>
+    <author>Mužík, Augustin Eugen</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mužík, Augustin Eugen_neverna</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NEVĚRNÁ.</title>
+     <author>Mužík, Augustin Eugen</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NEVĚRNÁ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101100" line_length="6">Holka má nevěrná</l>
+     <l n="2" met="000100" rhyme="1" line_length="6">jak jsi to pobledla,</l>
+     <l n="3" met="010100" line_length="6">to proto, proto jen,</l>
+     <l n="4" met="000100" rhyme="1" line_length="6">že jsi mne podvedla.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100" line_length="6">A já jsem věřil ti</l>
+     <l n="6" met="010010" rhyme="2" line_length="6">jak samému Bohu –</l>
+     <l n="7" met="100010" line_length="6">oželím tě, ale</l>
+     <l n="8" met="100100" rhyme="2" line_length="6">zapomnít nemohu.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101" line_length="6">Až budu v hrobě spát</l>
+     <l n="10" met="100010" rhyme="3" line_length="6">v rubášovém šatě,</l>
+     <l n="11" met="1010101" line_length="7">ještě budu, holka má,</l>
+     <l n="12" met="101010" rhyme="3" line_length="6">ještě myslet na tě!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

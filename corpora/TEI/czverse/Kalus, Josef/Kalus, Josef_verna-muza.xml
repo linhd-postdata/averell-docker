@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VĚRNÁ MÚZA</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_verna-muza</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VĚRNÁ MÚZA</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VĚRNÁ MÚZA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101000101000" rhyme="1" line_length="12">Tichem samoty když bývám obklíčený,</l>
+     <l n="2" met="001000100010" rhyme="1" line_length="12">když mne opustili přátelé i ženy,</l>
+     <l n="3" met="101000100010" rhyme="2" line_length="12">Múza usmívavá přisedá mi k boku,</l>
+     <l n="4" met="101000101010" rhyme="2" line_length="12">něhu v obličeji, úsměv v modrém oku,</l>
+     <l n="5" met="101000100010" rhyme="3" line_length="12">ke mně přitulena za ruku mne brává,</l>
+     <l n="6" met="100010100010" rhyme="3" line_length="12">celuje mne, s mými šedinami hrává.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="100110100010" rhyme="4" line_length="12">„Stár jsem již, stár!“ zalkám. – „I tak jsi mi milý:</l>
+     <l n="8" met="101010101000" rhyme="4" line_length="12">spěchám k tobě, když tě všichni opustili.“</l>
+     <l n="9" met="100010100010" rhyme="5" line_length="12">„Sláb jsem již a chorý!“ – „Podepru tě v chůzi.“</l>
+     <l n="10" met="101010001010" rhyme="5" line_length="12">„Smrt se blíží...“ – „Pozbavím tě její hrůzy:</l>
+     <l n="11" met="101010101000" rhyme="6" line_length="12">píseň má tě v spánek sladký ukolíbá...“</l>
+     <l n="12" met="100010101010" rhyme="6" line_length="12">Usínám jí v loktech, jak mne na rty líbá.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pojď, Míno, sem a na klín můj,</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_pojd-mino-sem-a-na-klin-muj</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pojď, Míno, sem a na klín můj,</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pojď, Míno, sem a na klín můj,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010100" line_length="8">Pojď, Míno, sem a na klín můj, </l>
+     <l n="2" met="1001000" rhyme="1" line_length="7">není to na poprvé,</l>
+     <l n="3" met="01010101" rhyme="2" line_length="8">já k vínu musím rty tvé mít,</l>
+     <l n="4" met="0101010" rhyme="1" line_length="7">jeť obé jako z krve</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101" rhyme="2" line_length="8">Jsem zvyklý vína oheň pít</l>
+     <l n="6" met="0101010" rhyme="3" line_length="7">a mladé líbat líce,</l>
+     <l n="7" met="01000100" line_length="8">až nerozeznám blažený</l>
+     <l n="8" met="1010010" rhyme="3" line_length="7">rty tvé od vína více.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010100" line_length="8">A ty’s tak dobra! – ku konci,</l>
+     <l n="10" met="0100010" rhyme="4" line_length="7">když ospalý pak sklesnu,</l>
+     <l n="11" met="01001000" line_length="8">tu trpíš, že na klínu tvém</l>
+     <l n="12" met="0101010" rhyme="4" line_length="7">jak malé dítě zesnu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

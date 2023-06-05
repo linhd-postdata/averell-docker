@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Comédie</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_la-comedie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Comédie</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Comédie</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">O nymphe Thalia, tu naissais ! Frais et verts,</l>
+     <l n="2" rhyme="b" line_length="6−6">Les clairs feuillages sous les rayons semblaient rire ;</l>
+     <l n="3" rhyme="b" line_length="6+6">Le mot joie en tes yeux divins pouvait se lire,</l>
+     <l n="4" rhyme="a" line_length="6+6">Et sur son chariot Thespis chantait des vers !</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">On voyait dans son ode, au bord des flots divers</l>
+     <l n="6" rhyme="b" line_length="6+6">Le faune poursuivant la faunesse en délire,</l>
+     <l n="7" rhyme="b" line_length="6+6">Et Silène endormi, ronflant comme une lyre</l>
+     <l n="8" rhyme="a" line_length="6+6">Sur son âne pensif qui marche de travers.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Les rires d'or, avec des notes ingénues,</l>
+     <l n="10" rhyme="c" line_length="6+6">Éclataient dans les rangs des jeunes filles nues ;</l>
+     <l n="11" rhyme="d" line_length="6+6">Le vendangeur voyait briller les cieux profonds,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Et les vers, troupe folle, ardente, ensoleillée,</l>
+     <l n="13" rhyme="d" line_length="6+6">Voltigeaient, gais oiseaux rieurs aux cris bouffons,</l>
+     <l n="14" rhyme="e" line_length="6+6">Sur sa lèvre, de jus de raisin barbouillée.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

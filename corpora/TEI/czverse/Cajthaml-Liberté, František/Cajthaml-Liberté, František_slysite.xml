@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Slyšíte?</title>
+    <author>Cajthaml-Liberté, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cajthaml-Liberté, František_slysite</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Slyšíte?</title>
+     <author>Cajthaml-Liberté, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Slyšíte?</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100100" line_length="9">Slyšíte, uhelní králové,</l>
+     <l n="2" met="10010010" rhyme="1" line_length="8">slyšíte podzemní hřmění?</l>
+     <l n="3" met="100110100" line_length="9">Bludištěm štol Hrůza prochází,</l>
+     <l n="4" met="10010010" rhyme="1" line_length="8">vraždí tam, vraždí a plení!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="000100100" line_length="9">Vy jste ji z řetězu pustili</l>
+     <l n="6" met="10010010" rhyme="2" line_length="8">a teď ji spoutáte stěží:</l>
+     <l n="7" met="0101000100" line_length="10">jak Pilát omývej se každý z vás –</l>
+     <l n="8" met="10000010" rhyme="2" line_length="8">ale sám nechť se též střeží!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010100100" line_length="9">Ty vaše paláce nádherné</l>
+     <l n="10" met="10010010" rhyme="3" line_length="8">na hrobech vražděných stojí</l>
+     <l n="11" met="010100100" line_length="9">a Hrůza, divoce poštvaná,</l>
+     <l n="12" met="01010110" rhyme="3" line_length="8">i jimi jednou hlad zkojí.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100100100" line_length="9">Slyšíte, uhelní králové,</l>
+     <l n="14" met="10010010" rhyme="4" line_length="8">slyšíte sirotků lkání?</l>
+     <l n="15" met="000110100" line_length="9">Zda vám to strach v srdce studené</l>
+     <l n="16" met="01010110" rhyme="4" line_length="8">a červeň studu v líc vhání?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

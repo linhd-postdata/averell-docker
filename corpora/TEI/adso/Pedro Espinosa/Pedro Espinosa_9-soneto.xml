@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- 9 - Soneto </title>
+    <author>Pedro Espinosa</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pedro Espinosa_9-soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- 9 - Soneto </title>
+     <author>Pedro Espinosa</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- 9 - Soneto </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+---+-">Cantar que nacen perlas y granates</l>
+     <l n="2" met="-+---+---+-">si estampas los toribios de tus patas,</l>
+     <l n="3" met="-+-+-+---+-">llamar coturnos breves tus zapatas,</l>
+     <l n="4" met="--++-+---+-">escribir que eres ninfa del Eufrates;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-++--+---+-">Decir, siendo tus codos acicates,</l>
+     <l n="6" met="-+-+-+---+-">que son tus brazos tiernos como natas,</l>
+     <l n="7" met="---+---+-+-">cuyas calillas te vendió baratas</l>
+     <l n="8" met="-+---+---+-">la ninfa de que hacen los chizgates.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+++--+-+-+-">Es un cierto mentir a fuego lento,</l>
+     <l n="10" met="-----+++-+-">para que se derrita un pecho moro,</l>
+     <l n="11" met="-+-+-+---+-">si nace a ser verdugo de poetas.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+-+-+-">Mas tú misma echarás de ver que miento;</l>
+     <l n="13" met="--+--+-+-+-">que las ninfas bordaron paños de oro:</l>
+     <l n="14" met="+++--++--+-">Tú no sabes echarme unas soletas.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mopsík a Sobák.</title>
+    <author>Štulc, Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Štulc, Václav_mopsik-a-sobak</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mopsík a Sobák.</title>
+     <author>Štulc, Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mopsík a Sobák.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1100100010" rhyme="1" line_length="10">Slyš, sobáčku! rád bych se tě tázal,</l>
+     <l n="2" met="1001000100" rhyme="1" line_length="10">Abys mi potajmu jen ukázal:</l>
+     <l n="3" met="001010101" rhyme="2" line_length="9">Kam jsi schoval onen hezký hnát,</l>
+     <l n="4" met="10001010100" rhyme="2" line_length="11">Aby ti ho žádný zloděj neukrad?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100010010" rhyme="3" line_length="12">Nemysli, mopsíku, že sobák to poví,</l>
+     <l n="6" met="001100010100" rhyme="3" line_length="12">Kdo to chce zvěděti, sám zloděj hotový.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="101010100010" rhyme="4" line_length="12">Mopsík hledal, čmuchal všudy tam i tady,</l>
+     <l n="8" met="010110001000" rhyme="4" line_length="12">Až našel hnát za ovčínem u zahrady.</l>
+     <l n="9" met="00010000100" rhyme="5" line_length="11">Již ho pryč unáší; – zle však pochodil</l>
+     <l n="10" met="01101010100" rhyme="5" line_length="11">A mzdu špatnou za to sobě uhonil:</l>
+     <l n="11" met="1000010100" rhyme="6" line_length="10">Sobák ten ho tak notně zapopad,</l>
+     <l n="12" met="0101010100" rhyme="6" line_length="10">Že měl co křičet a si bědovat.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

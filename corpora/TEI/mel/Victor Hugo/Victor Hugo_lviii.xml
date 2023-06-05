@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LVIII</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">7</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_lviii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LVIII</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LVIII</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+6">Figurez-vous un beau front triomphant,</l>
+     <l n="2" rhyme="b" line_length="4+6">Un frais sourire en une fraîche bouche,</l>
+     <l n="3" rhyme="b" line_length="4+6">Un œil limpide, innocent et farouche</l>
+     <l n="4" rhyme="a" line_length="4+6">Dont la paupière en amande se fend.</l>
+     <l n="5" rhyme="c" line_length="4+6">Elle était gaie et rose, grande et belle.</l>
+     <l n="6" rhyme="c" line_length="4+6">Je respirais à peine devant elle,</l>
+     <l n="7" rhyme="a" line_length="4+6">Tout fier d'être homme et tout sot d'être enfant.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

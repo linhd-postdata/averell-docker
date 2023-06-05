@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Mère</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_la-mere</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Mère</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Mère</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">En tricotant sous le feuillage</l>
+     <l n="2" rhyme="b" line_length="8">La bonne vieille me disait :</l>
+     <l n="3" rhyme="b" line_length="8">« Dʼpuis l'temps q'mon gars est mort, c'que c'est !</l>
+     <l n="4" rhyme="a" line_length="8">Je m'figurʼ qu'il est en voyage,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="8">Qu'un soir il est parti ben loin,</l>
+     <l n="6" rhyme="d" line_length="8">Tout envʼloppé, jaunʼ comme unʼ cire,</l>
+     <l n="7" rhyme="d" line_length="8">Malgré ça, j'pensʼ qu'i'va m'écrire,</l>
+     <l n="8" rhyme="c" line_length="8">Qu'iʼ m'sent dans la peine et l'besoin.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="8">Tous les jours, je m'répètʼ : C'est dʼmain,</l>
+     <l n="10" rhyme="e" line_length="8">Qu'iʼ m'apparaîtra sus mon chʼmin,</l>
+     <l n="11" rhyme="f" line_length="8">Qu'iʼ cognʼra pour que j'youvʼ la porte.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="8">L'croirʼ mort ? Non ! j'aimʼ mieux l'croire ingrat,</l>
+     <l n="13" rhyme="g" line_length="8">M'imaginer qu'i'n'reviendra,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

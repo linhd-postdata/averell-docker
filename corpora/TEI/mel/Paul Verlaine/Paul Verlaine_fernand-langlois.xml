@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>FERNAND L’ANGLOIS</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_fernand-langlois</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>FERNAND L’ANGLOIS</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>FERNAND L’ANGLOIS</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Haut comme le soleil, pâle comme la lune,</l>
+     <l n="2" rhyme="b" line_length="6+6">Comme dit vaguement le proverbe espagnol,</l>
+     <l n="3" rhyme="b" line_length="6+6">Il a presque la voix tendre du rossignol,</l>
+     <l n="4" rhyme="a" line_length="6+6">Tant son cœur fut clément à ma triste fortune</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Je l’écoute toujours, cette voix opportune</l>
+     <l n="6" rhyme="b" line_length="6+6">Qui me parlait naguère, est-ce en ut, est-ce en sol ?</l>
+     <l n="7" rhyme="b" line_length="6+6">Et qui sut relever, furieux sur le sol,</l>
+     <l n="8" rhyme="a" line_length="6+6">Mon cœur, ce cœur sauvage et fou de roi de Thune !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Mais rions ! car mon livre est un livre amusant,</l>
+     <l n="10" rhyme="c" line_length="4+4+4">Et dès lors que ce souvenir doux et cuisant</l>
+     <l n="11" rhyme="d" line_length="4+4+4">D’un suicide prévenu de mains pieuses</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Me remonte ce soir, peut-être pire encor</l>
+     <l n="13" rhyme="e" line_length="4+8">Dans un absurde et vraiment sinistre décor,</l>
+     <l n="14" rhyme="d" line_length="6+6">Paix-là, pour ces mains-là, mes mains calamiteuses !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

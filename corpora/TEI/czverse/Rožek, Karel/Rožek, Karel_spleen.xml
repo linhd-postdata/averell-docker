@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Spleen.</title>
+    <author>Rožek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Rožek, Karel_spleen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Spleen.</title>
+     <author>Rožek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Spleen.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101010" line_length="9">Takové zvláštní přijdou chvíle,</l>
+     <l n="2" met="01010101" line_length="8">kdy nechci žít a nechci mřít...</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="10010010010" line_length="11">Zármutek důvěrně sedne si ke mně</l>
+     <l n="4" met="010001010010101" line_length="15">a položí svou krásnou, zemdlenou hlavu na můj klín</l>
+     <l n="5" met="0100100010010" line_length="13">a dává si hladiti své hedvábné vlasy...</l>
+    </lg>
+    <lg n="3">
+     <l n="6" met="0100010010010" line_length="13">Pak vypravuje někdy, jak mnoho již trpěl.</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="10101010" rhyme="1" line_length="8">Zatím od hor šero táhne,</l>
+     <l n="8" met="10101010" rhyme="1" line_length="8">do strun srdce tiše sáhne,</l>
+     <l n="9" met="01000101000" rhyme="2" line_length="11">tak rozpláče se v lkavé melodii,</l>
+     <l n="10" met="0101010111010" rhyme="2" line_length="13">že nechci žít a nechci mřít... Snem ve snech žiji.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

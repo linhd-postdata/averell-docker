@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>AŤ MNOHÁ PRAVÁ PÍSEŇ...</title>
+    <author>Jesenská, Růžena</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jesenská, Růžena_at-mnoha-prava-pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>AŤ MNOHÁ PRAVÁ PÍSEŇ...</title>
+     <author>Jesenská, Růžena</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>AŤ MNOHÁ PRAVÁ PÍSEŇ...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010" line_length="7">Ať mnohá pravá píseň</l>
+     <l n="2" met="100100" rhyme="1" line_length="6">vytryskla ze rtů mých,</l>
+     <l n="3" met="1001000" line_length="7">největší, nejkrásnější,–</l>
+     <l n="4" met="010000" rhyme="1" line_length="6">ty vylíbal jsi z nich!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010" line_length="7">Ať mnohá touha shasla</l>
+     <l n="6" met="100100" rhyme="2" line_length="6">života zákonem,</l>
+     <l n="7" met="0101010" line_length="7">tys opřed’ moji duši</l>
+     <l n="8" met="010001" rhyme="2" line_length="6">tím nejkrásnějším snem.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0100010" line_length="7">A nejžhavější bolest,</l>
+     <l n="10" met="010100" rhyme="3" line_length="6">jež cestu skrátila,</l>
+     <l n="11" met="0101010" line_length="7">by padla v moje srdce,</l>
+     <l n="12" met="100100" rhyme="3" line_length="6">kdybych tě ztratila.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Anthem for Doomed Youth</title>
+    <author>Wilfred Owen</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Wilfred Owen_anthem-for-doomed-youth</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>For Better For Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Anthem for Doomed Youth</title>
+     <author>Wilfred Owen</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Anthem for Doomed Youth</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="sonnet">
+     <l n="1" met="-+-+-+-+-+-">What passing-bells for these who die as cattle?</l>
+     <l n="2" met="+--+-+-+-+">Only the monstrous anger of the guns.</l>
+     <l n="3" met="+--+--+-+-+-">Only the stuttering rifles' rapid rattle</l>
+     <l n="4" met="-+-+-+-+-+">Can patter out their hasty orisons.</l>
+     <l n="5" met="-+--+-+-+-+|++--+-+++-+">No mockeries now for them; no prayers nor bells;</l>
+     <l n="6" met="-+-+-+-+-+-">Nor any voice of mourning save the choirs,--</l>
+     <l n="7" met="-+-+-+--+-+">The shrill, demented choirs of wailing shells;</l>
+     <l n="8" met="-+-+-+--++-">And bugles calling for them from sad shires.</l>
+    </lg>
+    <lg n="2" stanza_type="sonnet">
+     <l n="9" met="-+-+-+-+-+|++---+-+-+">What candles may be held to speed them all?</l>
+     <l n="10" met="+--+-+-+-+">Not in the hands of boys but in their eyes</l>
+     <l n="11" met="-+-+-+-+-+">Shall shine the holy glimmers of goodbyes.</l>
+     <l n="12" met="-+--++-+-+">The pallor of girls' brows shall be their pall;</l>
+     <l n="13" met="-+--+-+-+-+">Their flowers the tenderness of patient minds,</l>
+     <l n="14" met="-+++-+-+-+">And each slow dusk a drawing-down of blinds.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

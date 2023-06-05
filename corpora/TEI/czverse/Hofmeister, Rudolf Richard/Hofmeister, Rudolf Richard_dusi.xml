@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Duši.</title>
+    <author>Hofmeister, Rudolf Richard</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hofmeister, Rudolf Richard_dusi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Duši.</title>
+     <author>Hofmeister, Rudolf Richard</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Duši.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101" line_length="8">Tak stárneš, hyneš, duše má,</l>
+     <l n="2" met="0101010" rhyme="1" line_length="7">a srdce bolem pláče,</l>
+     <l n="3" met="01000100" line_length="8">jak nad mrtvolou matky své</l>
+     <l n="4" met="1101010" rhyme="1" line_length="7">lká holé, siré ptáče.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">A jako mocný vodopád</l>
+     <l n="6" met="0100010" rhyme="2" line_length="7">v hloub všednosti se řítíš,</l>
+     <l n="7" met="10010000" line_length="8">a nic již nezastaví tě,</l>
+     <l n="8" met="1101010" rhyme="2" line_length="7">Ó duše, která svítíš!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" line_length="8">Jsi maják, který shasíná</l>
+     <l n="10" met="1001010" rhyme="3" line_length="7">s naděje slední září,</l>
+     <l n="11" met="10010100" line_length="8">na nějž již tma svá ramena</l>
+     <l n="12" met="1001010" rhyme="3" line_length="7">rozpíná s děsnou tváří –</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01010100" line_length="8">Jsi bouře, která doznívá</l>
+     <l n="14" met="0100010" rhyme="4" line_length="7">a ve skalách se ztrácí –</l>
+     <l n="15" met="01010100" line_length="8">jsi titan, který v okovech</l>
+     <l n="16" met="1101000" rhyme="4" line_length="7">mře s bolnou resignací...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

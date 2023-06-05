@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Amor sin celos</title>
+    <author>Antonio García Gutiérrez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Antonio García Gutiérrez_amor-sin-celos</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Amor sin celos</title>
+     <author>Antonio García Gutiérrez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Amor sin celos</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---+-">Tengo aprensiones yo como cualquiera,</l>
+     <l n="2" met="--+--+-+-+-">y tocante a caprichos ¡no se diga!</l>
+     <l n="3" met="-+-+-+-+-+-">El campo siempre verde me fatiga,</l>
+     <l n="4" met="-+-+--++-+-">el cielo siempre azul me sospecha.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-++--+-">Triste la luz del sol me pareciera</l>
+     <l n="6" met="-+-+---+-+-">sin esa noche del dolor amiga,</l>
+     <l n="7" met="---+---+-+-">y sin la pena que el placer mitiga,</l>
+     <l n="8" met="---+-+---+-">hasta la vida misma aborreciera.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">Pues esos ojos tuyos, dueño mío,</l>
+     <l n="10" met="-+---++-++-">que pueden afrentar a uno y mil cielos,</l>
+     <l n="11" met="-+---+---+-">causaron mi amoroso desvarío.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+++--+++-+-">No hallé sombra en su luz, no hallé desvelos,</l>
+     <l n="13" met="--+--+-+-+-">y mi ardiente pasión murió de frío;</l>
+     <l n="14" met="-++--+--++-">que así muere el amor cuando no hay celos.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

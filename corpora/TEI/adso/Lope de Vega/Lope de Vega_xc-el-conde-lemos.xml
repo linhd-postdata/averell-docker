@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- XC - El Conde Lemos </title>
+    <author>Lope de Vega</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lope de Vega_xc-el-conde-lemos</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- XC - El Conde Lemos </title>
+     <author>Lope de Vega</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- XC - El Conde Lemos </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+---+-">La antigua edad juzgó por imposibles</l>
+     <l n="2" met="++---+---+-">tres cosas celebradas en el mundo,</l>
+     <l n="3" met="-+-+-+---+-">o hallar jamás artífice segundo</l>
+     <l n="4" met="---+-++--+-">a quien segunda vez fuesen posibles;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+-+-+-">la clava, con que Alcides tan horribles</l>
+     <l n="6" met="+--+-+---+-">monstruos venció en la tierra y el profundo,</l>
+     <l n="7" met="-+---+---+-">de Júpiter el rayo furibundo</l>
+     <l n="8" met="--+--+---+-">y los versos de Homero inaccesibles.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-++---+-+-">Otras tres hay en nuestra edad presente:</l>
+     <l n="10" met="--+--+---+-">las hazañas de Carlos soberano,</l>
+     <l n="11" met="-+---+-+-+-">del nuevo Salomón el nuevo templo;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+---+-">y vuestros versos, Conde, en cuya fuente</l>
+     <l n="13" met="--+--+-+-+-">resplandece el laurel ingrato en vano,</l>
+     <l n="14" met="-+-+-++--+-">que no teniendo igual sirve de ejemplo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

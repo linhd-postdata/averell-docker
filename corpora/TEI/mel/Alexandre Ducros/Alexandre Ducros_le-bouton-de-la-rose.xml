@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LE BOUTON DE LA ROSE</title>
+    <author>Alexandre Ducros</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alexandre Ducros_le-bouton-de-la-rose</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LE BOUTON DE LA ROSE</title>
+     <author>Alexandre Ducros</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LE BOUTON DE LA ROSE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Une rose étalait ses brillantes couleurs ;</l>
+     <l n="2" rhyme="b" line_length="8">Le soleil chaque jour la dore d'un rayon.</l>
+     <l n="3" rhyme="a" line_length="8">La rose s'inclinant laissa voir un bouton.</l>
+     <l n="4" rhyme="b" line_length="6+6">Et nous venons déjà te faire notre cour ;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">On se tut… Et, soudain entr'ouvrant son calice,</l>
+     <l n="6" rhyme="a" line_length="6+6">Le boulon, rose alors, leur offrit le prémice</l>
+     <l n="7" rhyme="b" line_length="8">Il vous dira le nom de la rose adorable,</l>
+     <l n="8" rhyme="b" line_length="8">Et seule vous pourrez deviner le bouton.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

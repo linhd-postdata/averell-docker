@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KONTEMPLACE.</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_kontemplace</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KONTEMPLACE.</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KONTEMPLACE.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101010" rhyme="1" line_length="9">– a tak to bylo v dnech mých dosud:</l>
+     <l n="2" met="01010100" rhyme="2" line_length="8">kdož byli mými přáteli,</l>
+     <l n="3" met="010001010" rhyme="1" line_length="9">ty postavil přec v posled Osud</l>
+     <l n="4" met="10010100" rhyme="2" line_length="8">proti mně v ruce s ocelí –</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010001010" rhyme="3" line_length="9">Kdo na svědomí spáchal zradu?</l>
+     <l n="6" met="01010100" rhyme="2" line_length="8">A zradu na svém příteli? –</l>
+     <l n="7" met="010101010" rhyme="3" line_length="9">Jsem kliden. Oni leží v zadu</l>
+     <l n="8" met="01010100" rhyme="2" line_length="8">a v hrudi s mojí ocelí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

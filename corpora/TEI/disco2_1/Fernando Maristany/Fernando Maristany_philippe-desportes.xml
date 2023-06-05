@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Philippe Desportes</title>
+    <author>Fernando Maristany</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fernando Maristany_philippe-desportes</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Philippe Desportes</title>
+     <author>Fernando Maristany</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Philippe Desportes</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-++-+-++--+-">Esta fuente es helada. Su dulce agua corriente</l>
+     <l n="2" met="+--+-+--+-+-+-">tiene color de plata, parece hablar de amor;</l>
+     <l n="3" met="+---+-+---+-">suave reverdece el musgo en derredor,</l>
+     <l n="4" met="-++--+-----+-+">y dan sombra los álamos contra el fulgor ardiente.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+-+-+-+-">A Céfiro el follaje acógele obediente,</l>
+     <l n="6" met="--+--+--+--+-">suspirando a la sombra del día encantador;</l>
+     <l n="7" met="-++--+-++---+-">el sol, claro, de llama, da todo su calor,</l>
+     <l n="8" met="-+-+-+----+-+-">y agriétase la tierra por el ardor hirviente.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+----+-+-">Si pasas, del trabajo de caminar cansado,</l>
+     <l n="10" met="-+---+-+--+-">quemado del calor, de sed extenuado,</l>
+     <l n="11" met="+-++-+--+++-+-">párate en este sitio que Dios te da, clemente:</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+--+---+-">el reposo, tu cuerpo cansado aliviará,</l>
+     <l n="13" met="-+-+-+--+---+-">la dulce y fresca sombra tu ardor se llevará,</l>
+     <l n="14" met="-+-+-+++---+-">tu sed irá a perderse en la agua de la fuente.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

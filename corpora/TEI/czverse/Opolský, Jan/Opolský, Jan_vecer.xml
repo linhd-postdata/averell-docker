@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VEČER.</title>
+    <author>Opolský, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Opolský, Jan_vecer</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VEČER.</title>
+     <author>Opolský, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VEČER.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11000100010" rhyme="1" line_length="11">Pláč oveček už k domovu se béře,</l>
+     <l n="2" met="1001010100" rhyme="2" line_length="10">zpozděná panna snímá závoje,</l>
+     <l n="3" met="11010100010" rhyme="1" line_length="11">kmen temné síly zatarasil dvéře</l>
+     <l n="4" met="1000010100" rhyme="2" line_length="10">u posvátného její pokoje.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11010101000" rhyme="3" line_length="11">Chvoj silně voní noční sakristií,</l>
+     <l n="6" met="1001010001" rhyme="4" line_length="10">zpozděné dítě, podušky své stel!</l>
+     <l n="7" met="10010101010" rhyme="3" line_length="11">Gloria krve mužská srdce bijí,</l>
+     <l n="8" met="1001010100" rhyme="4" line_length="10">pod každým oknem posel Gabriel.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101010" rhyme="5" line_length="11">I tobě snese: zdrávas, panno blahá!</l>
+     <l n="10" met="1100010100" rhyme="6" line_length="10">(Pláč oveček se vrací k domovu...)</l>
+     <l n="11" met="11010100010" rhyme="5" line_length="11">Svlec úběl těla, neuvítáš vraha,</l>
+     <l n="12" met="0100100100" rhyme="6" line_length="10">leč mužskou tíž pro krve obnovu!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

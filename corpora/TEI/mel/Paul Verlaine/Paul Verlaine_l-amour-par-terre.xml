@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L'Amour par terre</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_l-amour-par-terre</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L'Amour par terre</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L'Amour par terre</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Le vent de l’autre nuit a jeté bas l’Amour</l>
+     <l n="2" rhyme="b" line_length="6+6">Qui, dans le coin le plus mystérieux du parc,</l>
+     <l n="3" rhyme="b" line_length="6+6">Souriait en bandant malignement son arc,</l>
+     <l n="4" rhyme="a" line_length="6+6">Et dont l’aspect nous fit tant songer tout un jour !</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Le vent de l’autre nuit l’a jeté bas ! Le marbre</l>
+     <l n="6" rhyme="b" line_length="6+6">Au souffle du matin tournoie, épars. C’est triste</l>
+     <l n="7" rhyme="b" line_length="6+6">De voir le piédestal, où le nom de l’artiste</l>
+     <l n="8" rhyme="a" line_length="6+6">Se lit péniblement parmi l’ombre d’un arbre.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Oh ! c’est triste de voir debout le piédestal</l>
+     <l n="10" rhyme="b" line_length="6+6">Tout seul ! et des pensers mélancoliques vont</l>
+     <l n="11" rhyme="b" line_length="6+6">Et viennent dans mon rêve où le chagrin profond</l>
+     <l n="12" rhyme="a" line_length="6+6">Évoque un avenir solitaire et fatal.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="6+6">Oh ! c’est triste ! — Et toi-même, est-ce pas ? es touchée</l>
+     <l n="14" rhyme="b" line_length="6+6">D’un si dolent tableau, bien que ton œil frivole</l>
+     <l n="15" rhyme="b" line_length="6+6">S’amuse au papillon de pourpre et d’or qui vole</l>
+     <l n="16" rhyme="a" line_length="6+6">Au-dessus des débris dont l’allée est jonchée.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

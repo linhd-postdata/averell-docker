@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- C - </title>
+    <author>Juan Boscan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Boscan_c</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- C - </title>
+     <author>Juan Boscan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- C - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+---+-">¡Ay, corazón, ingrata en quien te lleva!</l>
+     <l n="2" met="+--+-++--+-">¿Quién pensarás jamás no reventaras</l>
+     <l n="3" met="-+-+-+++-+-">en ver gustar de amor? ¿Quién no pensaras</l>
+     <l n="4" met="-+-+-++-++-">de sí pensase hacer una tal prueba?</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+-+-+-">Siempre pensé le fuese cosa nueva,</l>
+     <l n="6" met="-+-+--+--+-">y así tus daños jamás le contaras,</l>
+     <l n="7" met="-+---+---+-">pensando que en decirlos le enojaras,</l>
+     <l n="8" met="--+--+---+-">pues con sólo pensarlos te reprueba.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">Espántome de ver tu sufrimiento,</l>
+     <l n="10" met="-+---+--++-">y espántome de mí como soy vivo</l>
+     <l n="11" met="-+-+-+-+-+-">y más me espanta verme en tal estado</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">de no poder quitar el pensamiento</l>
+     <l n="13" met="---+--++-+-">de la que causan mi mal ten esquivo,</l>
+     <l n="14" met="-+-+-++--+-">y no morirme el ver esto enterrado.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

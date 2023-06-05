@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>HÉLÈNE</title>
+    <author>Albert Samain</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Albert Samain_helene</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>HÉLÈNE</title>
+     <author>Albert Samain</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>HÉLÈNE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">L'acre vapeur d'un soir de bataille surnage.</l>
+     <l n="2" rhyme="b" line_length="6+6">L'Argienne aux bras blancs a franchi les remparts,</l>
+     <l n="3" rhyme="b" line_length="6+6">Et vers le fleuve rouge, où les morts sont épars.</l>
+     <l n="4" rhyme="a" line_length="6+6">Solitaire, s'avance à travers le carnage.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Là-bas, les feux des Grecs brillent sur le rivage ;</l>
+     <l n="6" rhyme="b" line_length="6+6">Les chevaux immortels hennissent près des chars…</l>
+     <l n="7" rhyme="b" line_length="6+6">Lente, elle va parmi les cadavres hagards.</l>
+     <l n="8" rhyme="a" line_length="6+6">Et passe avec horreur sa main sur son visage.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Qu'elle apparaît divine aux lueurs du couchant !…</l>
+     <l n="10" rhyme="c" line_length="6+6">Des longs voiles secrets, qu'elle écarte en marchant,</l>
+     <l n="11" rhyme="d" line_length="6+6">Monte une odeur d'amour irrésistible et sombre ;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Et déjà les mourants, saignants et mutilés,</l>
+     <l n="13" rhyme="d" line_length="6+6">Rampant vers ses pieds nus sur leurs coudes dans l'ombre,</l>
+     <l n="14" rhyme="e" line_length="6+6">Touchent ses cheveux d'or et meurent consolés.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JAMAIS</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_jamais</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JAMAIS</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JAMAIS</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Jamais, avez-vous dit, tandis qu'autour de nous</l>
+     <l n="2" rhyme="b" line_length="6+6">Résonnait de Schubert la plaintive musique ;</l>
+     <l n="3" rhyme="a" line_length="6+6">Jamais, avez-vous dit, tandis que, malgré vous,</l>
+     <l n="4" rhyme="b" line_length="6+6">Brillait de vos grands yeux l'azur mélancolique.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Jamais, répétiez-vous, pâle et d'un air si doux</l>
+     <l n="6" rhyme="b" line_length="6+6">Qu'on eût cru voir sourire une médaille antique.</l>
+     <l n="7" rhyme="b" line_length="6+6">Mais des trésors secrets l'instinct fief et pudique</l>
+     <l n="8" rhyme="a" line_length="6+6">Vous couvrit de rougeur, comme un voile jaloux.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Quel mol vous prononcez, marquise, et quel dommage !</l>
+     <l n="10" rhyme="c" line_length="6+6">Hélas ! je ne voyais ni ce charmant visage,</l>
+     <l n="11" rhyme="d" line_length="6+6">Ni ce divin sourire, en vous parlant d'aimer.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Vos yeux bleus sont moins doux que votre âme n'est belle.</l>
+     <l n="13" rhyme="e" line_length="6+6">Même en les regardant, je ne regrettais qu'elle,</l>
+     <l n="14" rhyme="d" line_length="6+6">Et de voir dans sa fleur un tel cœur se fermer.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

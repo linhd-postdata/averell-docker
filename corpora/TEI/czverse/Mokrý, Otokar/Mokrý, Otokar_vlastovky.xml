@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vlaštovky.</title>
+    <author>Mokrý, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mokrý, Otokar_vlastovky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vlaštovky.</title>
+     <author>Mokrý, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vlaštovky.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" line_length="8">Pod střechou naší vlaštovky</l>
+     <l n="2" met="1001010" rhyme="1" line_length="7">na římse hnízda měly,</l>
+     <l n="3" met="10010101" line_length="8">lítaly plný boží den</l>
+     <l n="4" met="0100110" rhyme="1" line_length="7">a bylo jich dům celý.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" line_length="8">Zmizelo jedno po druhém,</l>
+     <l n="6" met="0100010" rhyme="2" line_length="7">jak vypíchal by oči,</l>
+     <l n="7" met="01010100" line_length="8">a prázdným jenom vikýřem</l>
+     <l n="8" met="1001010" rhyme="2" line_length="7">se mrazný vítr točí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" line_length="8">Tak divně jeho ševely</l>
+     <l n="10" met="0101010" rhyme="3" line_length="7">tím nočním tichem znějí,</l>
+     <l n="11" met="01010100" line_length="8">jak chůvy rty, když s pohádkou</l>
+     <l n="12" met="0101000" rhyme="3" line_length="7">se k děcku uklánějí.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="11010101" line_length="8">Čas ob čas vyzní v ostrý zvuk</l>
+     <l n="14" met="0101000" rhyme="4" line_length="7">ta hudba přidušená</l>
+     <l n="15" met="10010100" line_length="8">a tu pak člověk procitá,</l>
+     <l n="16" met="1101000" rhyme="4" line_length="7">mna víčka rozesněná:</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10010101" line_length="8">a jest mu jako děcku v snu,</l>
+     <l n="18" met="0100010" rhyme="5" line_length="7">když po andělích práhne,</l>
+     <l n="19" met="01010101" line_length="8">a zatím jenom v suchou dlaň</l>
+     <l n="20" met="1001010" rhyme="5" line_length="7">ospalé chůvy sáhne.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

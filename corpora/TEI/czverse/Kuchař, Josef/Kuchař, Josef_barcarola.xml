@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>BARCAROLA.</title>
+    <author>Kuchař, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kuchař, Josef_barcarola</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>BARCAROLA.</title>
+     <author>Kuchař, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>BARCAROLA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110001010101" rhyme="1" line_length="12">Jde na lagunách moře v tichu šera spat –</l>
+     <l n="2" met="0101000100" rhyme="1" line_length="10">tak sladko gondolu v něm rozhoupat...</l>
+     <l n="3" met="110101010" rhyme="2" line_length="9">Kol vlahý klid a hvězdy planou,</l>
+     <l n="4" met="10010101" rhyme="1" line_length="8">omamné vůně pln je sad;</l>
+     <l n="5" met="110001010" rhyme="2" line_length="9">v snech blažených, jež duší vanou,</l>
+     <l n="6" met="010101000" rhyme="2" line_length="9">má touha volá „na shledanou“ –</l>
+     <l n="7" met="010101010" rhyme="3" line_length="9">je lásky čas, můj drahý hochu,</l>
+     <l n="8" met="110101010" rhyme="3" line_length="9">slyš, máš-li rád mne aspoň trochu,</l>
+     <l n="9" met="01000100" rhyme="1" line_length="8">spěš v náruč mou mne zulíbat.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

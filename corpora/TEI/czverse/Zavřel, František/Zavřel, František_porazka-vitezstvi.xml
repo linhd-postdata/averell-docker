@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PORÁŽKA = VÍTĚZSTVÍ.</title>
+    <author>Zavřel, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Zavřel, František_porazka-vitezstvi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PORÁŽKA = VÍTĚZSTVÍ.</title>
+     <author>Zavřel, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PORÁŽKA = VÍTĚZSTVÍ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010" rhyme="1" line_length="5">Na Bílé Hoře</l>
+     <l n="2" met="10110" rhyme="1" line_length="5">jeden pán oře</l>
+     <l n="3" met="01010100" rhyme="2" line_length="8">a lid je z toho zjevený.</l>
+     <l n="4" met="100100100" rhyme="2" line_length="9">Prušáci vyhráli u Jeny</l>
+     <l n="5" met="01010010" rhyme="1" line_length="8">a Češi na Bílé Hoře.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

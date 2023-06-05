@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Elisabeth Barrett-Browning</title>
+    <author>Fernando Maristany</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fernando Maristany_elisabeth-barrett-browning</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Elisabeth Barrett-Browning</title>
+     <author>Fernando Maristany</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Elisabeth Barrett-Browning</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="unknown">
+     <l n="1" met="----++---+-">Cuando nuestras dos almas cara a cara</l>
+     <l n="2" met="+----+---+-">quedan en el silencio, y se aproximan</l>
+     <l n="3" met="---+---+-+-">hasta quedar sus desplegadas alas</l>
+     <l n="4" met="-++--+---+-">en dos puntos unidas y encendidas,</l>
+    </lg>
+    <lg n="2" stanza_type="unknown">
+     <l n="5" met="++-+++-+-+-">¿qué daño hacernos puede o qué injusticia</l>
+     <l n="6" met="--+-++--+-">la tierra? ¡Bah! Si más nos ensalzáramos</l>
+     <l n="7" met="-+---++--+-">los ángeles, mi amor, nos brindarían</l>
+     <l n="8" met="-+-+---+-+-">de su áureo mundo el armonioso canto.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">¡Y adiós nuestro amadísimo silencio!</l>
+     <l n="10" met="-+-+++---+-">Quedémonos más bien donde los goces</l>
+     <l n="11" met="++-+-+---+-">más altos son extraños a los hombres,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+-+-+-">donde las almas puras viven lejos</l>
+     <l n="13" met="-+-+-+---+-">del mundo, en un rincón en que quererse</l>
+     <l n="14" met="-+---+---+-">rodeados de las sombras de la muerte.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

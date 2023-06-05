@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Flérida</title>
+    <author>Clemente Althaus</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Clemente Althaus_a-flerida</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Flérida</title>
+     <author>Clemente Althaus</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Flérida</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+-+--++-">¿Qué has hecho, ingrata Flérida, qué has hecho?</l>
+     <l n="2" met="-+-+-+-+-+-">¡Así a tu amante dejas, y a un anciano</l>
+     <l n="3" met="-++--++--+-">por un vil interés vendes tu mano</l>
+     <l n="4" met="--+--++--+-">a que sólo el amor tiene derecho!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-++-+--+-">¡Ay! ¡qué vida te aguarda! en mesa, en lecho,</l>
+     <l n="6" met="-+-+-+-+-+-">doquier al lado de ese espectro humano,</l>
+     <l n="7" met="-+-+---+-+-">tu dulce amante extrañarás en vano,</l>
+     <l n="8" met="-+-+---+-+-">que no se vende con la mano el pecho.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--++--+-">No marmóreo palacio, áurea carraza,</l>
+     <l n="10" met="+--+---+-+-">claros diamantes, ni real boato</l>
+     <l n="11" met="-+---+-+-+-">la pena aliviarán que te destroza:</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--++---+-+-">mas que tal vida y el continuo trato</l>
+     <l n="13" met="--+--+-+-+-">de tu odiado consorte, en pobre choza</l>
+     <l n="14" met="--+--+++-+-">con tu amante vivir te fuera grato.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

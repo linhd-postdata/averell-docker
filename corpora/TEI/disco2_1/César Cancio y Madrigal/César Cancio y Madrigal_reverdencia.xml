@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Reverdencia</title>
+    <author>César Cancio y Madrigal</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>César Cancio y Madrigal_reverdencia</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Reverdencia</title>
+     <author>César Cancio y Madrigal</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Reverdencia</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++---+-+-+-">Ha vuelto a retoñar el árbol seco</l>
+     <l n="2" met="---+---+-+-">cuyo ramaje de pajiza plata</l>
+     <l n="3" met="---+-+-+-+-">como canosa red se tuerce y ata</l>
+     <l n="4" met="---+---+-+-">sobre su tronco verrugoso y hueco.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+---+-">Aspecto triste, pálido y enteco</l>
+     <l n="6" met="++-+---+-+-">ya no presenta la nervuda mata,</l>
+     <l n="7" met="-+-+---+-+-">pues nueva savia con vigor desata</l>
+     <l n="8" met="---+---+-+-">de sus retoños el sedoso fleco.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">La luz primaveral con sus ardores</l>
+     <l n="10" met="--+--+--++-">de tu noche infecunda mató el luto</l>
+     <l n="11" met="-+-+-+---+-">vistiéndote de mágicos colores.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+---+-+-">¡Árbol añoso de ramaje hirsuto,</l>
+     <l n="13" met="+--+---+-+-">hoy constelado de brillantes flores,</l>
+     <l n="14" met="+--+---+-+-">verdes renuevos y pomposo fruto!...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SONNET</title>
+    <author>Paul Valéry</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Valéry_sonnet</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SONNET</title>
+     <author>Paul Valéry</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SONNET</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="0" line_length="6+6">A la vitre d'hiver que voile mon haleine</l>
+     <l n="2" rhyme="1" line_length="6+6">Mon front brûlant demande un glacial appui</l>
+     <l n="3" rhyme="0" line_length="6+6">Et tout mon corps pensif aux paresses de laine</l>
+     <l n="4" rhyme="1" line_length="6+6">S'abandonne au ciel vide où vivre n'est qu'ennui.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="1" line_length="6+6">Sous son faible soleil, je vois fondre AUJOURD'HUI</l>
+     <l n="6" rhyme="0" line_length="6+6">Déjà dans la pâleur d'une époque lointaine</l>
+     <l n="7" rhyme="0" line_length="6+6">Tant je sens que je suis vers ma perte certaine</l>
+     <l n="8" rhyme="2" line_length="6+6">Le Temps, le sang des jours, qui de mon âme fuit.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="3" line_length="6+6">Passez, tout ce qui soit… Seul, mon silence existe ;</l>
+     <l n="10" rhyme="4" line_length="6+6">Jusqu'au fond de mon cœur je le veux soutenir,</l>
+     <l n="11" rhyme="4" line_length="6+6">Et muet, peindre en moi la mort d'un souvenir.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="3" line_length="6+6">Amour est le secret de cette forme triste,</l>
+     <l n="13" rhyme="5" line_length="6+6">L'absence habite l'ombre où je n'attends plus rien</l>
+     <l n="14" rhyme="5" line_length="6+6">Que l'ample effacement des choses par le mien.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Duní děla.</title>
+    <author>Nečas, Jan Evangelista</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nečas, Jan Evangelista_duni-dela</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Duní děla.</title>
+     <author>Nečas, Jan Evangelista</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Duní děla.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010" line_length="4">Kráčí válka –</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">Lidé, skloňte čela!</l>
+     <l n="3" met="1010" rhyme="1" line_length="4">Duní děla!</l>
+     <l n="4" met="10001010" rhyme="2" line_length="8">Do uší všem živým bije</l>
+     <l n="5" met="10101000" rhyme="2" line_length="8">děsná jejich melodie.</l>
+     <l n="6" met="00101010" line_length="8">Je v ní pata, která šlape,</l>
+     <l n="7" met="00101010" rhyme="3" line_length="8">je v ní pěst, jež v propast vrhá,</l>
+     <l n="8" met="001010001010" rhyme="3" line_length="12">jsou v ní drápy, jakými se ptáče trhá,</l>
+     <l n="9" met="00101010" line_length="8">jsou v ní dýky, které slepá</l>
+     <l n="10" met="10001010" rhyme="4" line_length="8">vraždychtivost v srdce vráží;</l>
+     <l n="11" met="00101010" line_length="8">jsou v ní váhy, na nichž satan</l>
+     <l n="12" met="101010" rhyme="4" line_length="6">krev všech bojišť váží.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

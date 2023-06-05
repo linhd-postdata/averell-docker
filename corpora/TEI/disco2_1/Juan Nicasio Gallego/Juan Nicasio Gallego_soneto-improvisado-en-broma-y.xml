@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto improvisado en broma y de pies forzados</title>
+    <author>Juan Nicasio Gallego</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Nicasio Gallego_soneto-improvisado-en-broma-y</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto improvisado en broma y de pies forzados</title>
+     <author>Juan Nicasio Gallego</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto improvisado en broma y de pies forzados</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+++--+---+-">Ya no reina en las tablas Marco Antonio,</l>
+     <l n="2" met="+--+---+-+-">César, Yogurta ni el patrón de Plinio.</l>
+     <l n="3" met="-+---+-+-+-">El trágico puñal perdió el dominio,</l>
+     <l n="4" met="+--++----+-">opio se emplea, arsénico, antimonio.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+---+-">Cruces, horcas, fantasmas el telonio</l>
+     <l n="6" met="++-+-++--+-">te ofrece si haces de él fiel escrutinio:</l>
+     <l n="7" met="-+---+---+-">de crímenes atroces vaticinio</l>
+     <l n="8" met="++---+---+-">es hoy la bendición del matrimonio.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+-+-+-">El delirio, el furor se llaman genio;</l>
+     <l n="10" met="++-++-+--+-">ya Diana no es más que un plenilunio;</l>
+     <l n="11" met="+-+--+---+-">sólo se usa en el gálico Cilenio:</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+------+-">y en los teatros en diciembre o junio</l>
+     <l n="13" met="+--+-+---+-">tiemblan de horror los arcos del proscenio</l>
+     <l n="14" met="-+---++--+-">de sólo presenciar tanto infortunio.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XIII</title>
+    <author>Albert Mérat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Albert Mérat_xiii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XIII</title>
+     <author>Albert Mérat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XIII</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6">Nous nous rencontrerons</l>
+     <l n="2" rhyme="b" line_length="6">Quelquefois par la ville,</l>
+     <l n="3" rhyme="a" line_length="6">Et nous nous salûrons</l>
+     <l n="4" rhyme="b" line_length="6">D’une façon civile.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6">Un souvenir tout bas</l>
+     <l n="6" rhyme="b" line_length="6">Nous parlera peut-être,</l>
+     <l n="7" rhyme="a" line_length="6">Ou bien nous n’aurons pas</l>
+     <l n="8" rhyme="b" line_length="6">L’air de nous reconnaître;</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6">Chacun de son côté,</l>
+     <l n="10" rhyme="b" line_length="6">Sans que l’autre s’étonne…</l>
+     <l n="11" rhyme="a" line_length="6">— Les fleurs naissent l'été</l>
+     <l n="12" rhyme="b" line_length="6">Et meurent à l’automne.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

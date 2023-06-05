@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Josefina de Ascanio</title>
+    <author>José Tabares Barlett</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Tabares Barlett_a-josefina-de-ascanio</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Josefina de Ascanio</title>
+     <author>José Tabares Barlett</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Josefina de Ascanio</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="---+---+-+-">Desde la crencha de tu oscuro pelo,</l>
+     <l n="2" met="--+--+-+-+-">que besando acaricia el aura leve,</l>
+     <l n="3" met="---+---+-+-">hasta el sedoso y transparente velo</l>
+     <l n="4" met="--+--+--++-">del encaje que roza tu pie breve;</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="-+---+---+-">tus ojos, brilladores como el cielo;</l>
+     <l n="6" met="-+-+---+-+-">tus manos, lirios de impoluta nieve;</l>
+     <l n="7" met="-+---+-+-+-">tus líneas, tus contornos, son modelo</l>
+     <l n="8" met="-+-+---+-+-">que en vano el arte a bosquejar se atreve.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+-+-+-">Tu voz, como el acorde de una lira,</l>
+     <l n="10" met="+--+---+-+-">fuente parece que en brezal suspira;</l>
+     <l n="11" met="---+---+-+-">a los ensueños del amor provoca...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+++---+-">Es tu sonrisa un mundo de quimeras,</l>
+     <l n="13" met="-+---+---+-">y son las ilusiones prisioneras</l>
+     <l n="14" met="--+--+---+-">en el hilo de perlas de tu boca.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

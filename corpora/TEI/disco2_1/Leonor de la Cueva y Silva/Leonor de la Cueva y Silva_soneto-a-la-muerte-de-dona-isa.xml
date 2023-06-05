@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto a la muerte de doña Isabel de Borbón</title>
+    <author>Leonor de la Cueva y Silva</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">17</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Leonor de la Cueva y Silva_soneto-a-la-muerte-de-dona-isa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto a la muerte de doña Isabel de Borbón</title>
+     <author>Leonor de la Cueva y Silva</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto a la muerte de doña Isabel de Borbón</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---+-">Este grandioso túmulo erigido,</l>
+     <l n="2" met="+--+---+-+-">fúnebre pompa de cristiano afeto</l>
+     <l n="3" met="-+-+---+-+-">al más hermoso y al mayor sujeto</l>
+     <l n="4" met="-+-+---+++-">que injusto triunfo de la Parca ha sido.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">Este consigo mismo competido,</l>
+     <l n="6" met="--+--+-+-+-">de lealtad y de amor piadoso efeto,</l>
+     <l n="7" met="-+-+++-+-+-">funesto ocaso es hoy del más perfeto</l>
+     <l n="8" met="+--+-++--+-">sol que gozar España ha merecido.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-++--+-+-+-">Con un golpe mortal en breve instante,</l>
+     <l n="10" met="-+-+---+-+-">al gran Filipo, su divina aurora</l>
+     <l n="11" met="-+-+---+-+-">la Lis francesa, la beldad galante</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">quitó, llevó la muerte robadora.</l>
+     <l n="13" met="---+-+-+-+-">Mas si en eterno imperio más brillante</l>
+     <l n="14" met="+--+-+---+-">tantos de gloria grados atesora,</l>
+    </lg>
+    <lg n="5" stanza_type="terceto">
+     <l n="15" met="---+-+-+-">¿para qué España llora</l>
+     <l n="16" met="-----+-+-+-">a Isabel de Borbón, que muerta yace,</l>
+     <l n="17" met="-+-+---+-+-">si al cielo Fénix inmortal renace?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

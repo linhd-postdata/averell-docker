@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PÍSEŇ HVĚZDÁM.</title>
+    <author>Lošťák, Ludvík</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lošťák, Ludvík_pisen-hvezdam</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PÍSEŇ HVĚZDÁM.</title>
+     <author>Lošťák, Ludvík</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PÍSEŇ HVĚZDÁM.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" rhyme="1" line_length="8">Na perutích písně burné</l>
+     <l n="2" met="10001010" rhyme="1" line_length="8">přes hory a mraky chmurné</l>
+     <l n="3" met="10100" line_length="5">spěju, hvězdy, k vám,</l>
+     <l n="4" met="10010" rhyme="2" line_length="5">spěju sám a sám.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" rhyme="3" line_length="8">Na perutích písně hřmící</l>
+     <l n="6" met="10001010" rhyme="3" line_length="8">přes lesy a háje spící</l>
+     <l n="7" met="10100" rhyme="4" line_length="5">spěju k výsotám,</l>
+     <l n="8" met="10100" line_length="5">spěju, hvězdy, k vám.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001010" rhyme="5" line_length="8">Na perutích písně něžné</l>
+     <l n="10" met="10001010" rhyme="5" line_length="8">přes vrchy a hory sněžné</l>
+     <l n="11" met="00101" rhyme="4" line_length="5">vám se blížit zdám –</l>
+     <l n="12" met="10010" rhyme="2" line_length="5">spěju sám a sám.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10001010" rhyme="6" line_length="8">Na perutích písně žhavé</l>
+     <l n="14" met="10101010" rhyme="6" line_length="8">přes vln světy valně dravé,</l>
+     <l n="15" met="10100" rhyme="4" line_length="5">orlem kroužím k vám,</l>
+     <l n="16" met="10010" rhyme="2" line_length="5">spěju sám a sám.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10001010" rhyme="7" line_length="8">Na perutích písně vzdoru</l>
+     <l n="18" met="10001010" rhyme="7" line_length="8">na nejvyšší vzlétnu horu,</l>
+     <l n="19" met="10010" rhyme="2" line_length="5">odkud sám a sám</l>
+     <l n="20" met="10100" rhyme="2" line_length="5">zírat budu k vám!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

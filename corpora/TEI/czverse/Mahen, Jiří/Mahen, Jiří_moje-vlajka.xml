@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MOJE VLAJKA</title>
+    <author>Mahen, Jiří</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mahen, Jiří_moje-vlajka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MOJE VLAJKA</title>
+     <author>Mahen, Jiří</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MOJE VLAJKA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00001010" line_length="8">Což se mi to jenom zdálo –</l>
+     <l n="2" met="00101010" rhyme="1" line_length="8">proč však úsměv na rty sedá?</l>
+     <l n="3" met="10101010" line_length="8">Ještě včera byla u mne</l>
+     <l n="4" met="10001010" rhyme="1" line_length="8">tesknota a mdloba bledá,</l>
+     <l n="5" met="00101010" line_length="8">dnes ať nebe jasem hoří –</l>
+     <l n="6" met="1010100" line_length="7">moje vlajka ve mně vlá!</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="10101000" line_length="8">Moje vlajka! Ušil jsem ji,</l>
+     <l n="8" met="00001010" rhyme="2" line_length="8">jak by snad ji slepá šila,</l>
+     <l n="9" met="10101010" line_length="8">ze svých snů jsem třapce přidal,</l>
+     <l n="10" met="00101000" rhyme="2" line_length="8">by se větrům zalíbila,</l>
+     <l n="11" met="10101000" rhyme="3" line_length="8">divná hračka, ale je tu –</l>
+     <l n="12" met="10001010" rhyme="3" line_length="8">třepotá se, má se k světu –</l>
+     <l n="13" met="1010100" line_length="7">moje vlajka ve mně vlá!</l>
+    </lg>
+    <lg n="3">
+     <l n="14" met="00101010" line_length="8">Proč jen dříve stíny zřel jsem</l>
+     <l n="15" met="10001010" rhyme="4" line_length="8">potácet se místo lidí?</l>
+     <l n="16" met="00101010" line_length="8">Jak jsem svoji vlajku sešil,</l>
+     <l n="17" met="10100010" rhyme="4" line_length="8">prosté oči co vše vidí!</l>
+     <l n="18" met="10101010" rhyme="5" line_length="8">Svět tu stojí jako panna</l>
+     <l n="19" met="10101000" rhyme="5" line_length="8">tancem trochu udýchaná –</l>
+     <l n="20" met="1010100" line_length="7">moje vlajka ve mně vlá!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

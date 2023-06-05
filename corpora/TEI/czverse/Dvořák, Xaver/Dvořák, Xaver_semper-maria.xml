@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Semper Maria!</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_semper-maria</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Semper Maria!</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Semper Maria!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101110001" rhyme="1" line_length="10">Čís’ písně hlas pad v zadumčivý les:</l>
+     <l n="2" met="01011101000" rhyme="2" line_length="11">hned každá sněť rty skryté otevřela,</l>
+     <l n="3" met="01010101010" rhyme="2" line_length="11">v nich zněla, tichla, vzdechla a zas mřela;</l>
+     <l n="4" met="0100010100" rhyme="1" line_length="10">už ticho jest! však v dálce vzdechla kdes.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010101" rhyme="1" line_length="10">Kam spěl ten tichý zvuk, kam v temno kles?</l>
+     <l n="6" met="0101000101010" rhyme="2" line_length="13">snad ještě ozve se z té hloubi, jež se stměla,</l>
+     <l n="7" met="01010001010" rhyme="2" line_length="11">snad více nevyzní už nikdy zcela;</l>
+     <l n="8" met="0101000100" rhyme="3" line_length="10">jej zítra uslyším zas jako dnes!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101010" rhyme="4" line_length="11">To jméno, kdo je vdechnul do mé hrudi,</l>
+     <l n="10" met="01010100010" rhyme="5" line_length="11">to jméno sladké, anděly jež spijí,</l>
+     <l n="11" met="0101010001" rhyme="3" line_length="10">kdo křik je, ptám se, v myšlenek mých les?</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="01010101010" rhyme="4" line_length="11">Hned tichne, hned se v srdci chvícím budí:</l>
+     <l n="13" met="01000101000" rhyme="5" line_length="11">kdy dopěje svou tklivou melodii?</l>
+     <l n="14" met="1101010100" rhyme="3" line_length="10">zní duší stále včera jako dnes!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

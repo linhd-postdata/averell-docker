@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les Sirènes</title>
+    <author>Guillaume Apollinaire</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Guillaume Apollinaire_les-sirenes</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Les Sirènes</title>
+     <author>Guillaume Apollinaire</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Les Sirènes</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Sachè-je d’où provient, Sirènes, votre ennui</l>
+     <l n="2" rhyme="a" line_length="6+6">Quand vous vous lamentez, au large, dans la nuit ?</l>
+     <l n="3" rhyme="b" line_length="6+6">Mer, je suis comme toi, plein de voix machinées</l>
+     <l n="4" rhyme="b" line_length="6+6">Et mes vaisseaux chantants se nomment les années.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

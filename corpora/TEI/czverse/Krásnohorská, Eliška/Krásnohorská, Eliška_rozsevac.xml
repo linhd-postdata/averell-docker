@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Rozsévač.</title>
+    <author>Krásnohorská, Eliška</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Krásnohorská, Eliška_rozsevac</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Rozsévač.</title>
+     <author>Krásnohorská, Eliška</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Rozsévač.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" rhyme="1" line_length="8">Dobře můj milý mlčívá,</l>
+     <l n="2" met="10010100" rhyme="1" line_length="8">máček-li sladký zasívá;</l>
+     <l n="3" met="1001010" rhyme="2" line_length="7">dobře můj milý mlčí,</l>
+     <l n="4" met="0001010" rhyme="2" line_length="7">sic by mu narost vlčí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" rhyme="3" line_length="8">Vzejde mu každé zrnko snad,</l>
+     <l n="6" met="10010101" rhyme="3" line_length="8">pole se zbarví v růží sad,</l>
+     <l n="7" met="1001010" rhyme="4" line_length="7">máčky mu plné zkvetou,</l>
+     <l n="8" met="1001010" rhyme="4" line_length="7">hrstku mu vrátí vsetou.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010100" rhyme="5" line_length="8">Kdyby však pustil v zrníčko</l>
+     <l n="10" met="10010100" rhyme="5" line_length="8">jedno své sladké slovíčko:</l>
+     <l n="11" met="1001010" rhyme="6" line_length="7">vzejde tam hořké bejlí,</l>
+     <l n="12" met="1001010" rhyme="6" line_length="7">upřímné oči zmejlí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

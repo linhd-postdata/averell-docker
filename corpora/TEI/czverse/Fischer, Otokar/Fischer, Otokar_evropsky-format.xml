@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>EVROPSKÝ FORMÁT</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_evropsky-format</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>EVROPSKÝ FORMÁT</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>EVROPSKÝ FORMÁT</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" rhyme="1" line_length="8">Bujný buď jak mladý býček,</l>
+     <l n="2" met="1000101" rhyme="2" line_length="7">z démonických volám plic.</l>
+     <l n="3" met="10001000" rhyme="1" line_length="8">Nadhluboký, Nadkodíček,</l>
+     <l n="4" met="0011000" rhyme="2" line_length="7">já jsem Žid, a kdo je víc!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

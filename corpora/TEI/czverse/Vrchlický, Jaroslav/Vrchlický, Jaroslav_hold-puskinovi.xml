@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hold Puškinovi.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_hold-puskinovi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hold Puškinovi.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hold Puškinovi.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010001010101" rhyme="1" line_length="12">Jak do zamlklé stepi třesk by mocný hrom,</l>
+     <l n="2" met="010101010100" rhyme="1" line_length="12">tvůj zazněl zpěv, ký život jásal v zvuku tom!</l>
+     <l n="3" met="0101010000100" rhyme="2" line_length="13">Co krásy, něhy, síly! Však v tom Tvůj genius,</l>
+     <l n="4" met="0100010100101" rhyme="2" line_length="13">že řekne-li se Puškin! – slyšíme: Celá Rus!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

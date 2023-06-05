@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>II</title>
+    <author>Clemente Althaus</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Clemente Althaus_ii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>II</title>
+     <author>Clemente Althaus</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>II</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+---+-+--+-">¡Hay del que con Don Juan entra en disputa!</l>
+     <l n="2" met="-+---+--++-">de aquel a quien siquiera se le escapa</l>
+     <l n="3" met="-+---+---+-">la réplica menor, pues se reputa</l>
+     <l n="4" met="+--+---+-+-">más infalible que el romano Papa.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--++--+-">Cuanto dice verdad es absoluta</l>
+     <l n="6" met="--+--+-+-+-">que a la misma Verdad la boca tapa,</l>
+     <l n="7" met="--+--+-+-+-">aunque diga que en Francia está Calcuta</l>
+     <l n="8" met="--++-+---+-">y a Paría ponga en África su mapa.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">Materia en todo para eterna plática</l>
+     <l n="10" met="+------+-+-">halla, a pesar de su apariencia tísica</l>
+     <l n="11" met="---+---+-+-">y de su cruel respiración asmática;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-----+---+-">y desde rudimentos de gramática</l>
+     <l n="13" met="---+-+---+-">hasta la más sublime metafísica</l>
+     <l n="14" met="-+---+-+-+-">en todo su sentencia da, dogmática.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

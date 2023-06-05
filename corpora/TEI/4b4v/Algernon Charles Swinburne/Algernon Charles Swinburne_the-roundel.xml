@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>The Roundel</title>
+    <author>Algernon Charles Swinburne</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">11</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Algernon Charles Swinburne_the-roundel</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>For Better For Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>The Roundel</title>
+     <author>Algernon Charles Swinburne</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>The Roundel</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="roundel">
+     <l n="1" met="-+--+--+--+++">A roundel is wrought as a ring or a starbright sphere,</l>
+     <l n="2" met="-+--+--+--+-+">With craft of delight and with cunning of sound unsought,</l>
+     <l n="3" met="--+--+--+--+--+">That the heart of the hearer may smile if to pleasure his ear</l>
+     <l n="4" met="-+--+">A roundel is wrought.</l>
+    </lg>
+    <lg n="2" stanza_type="roundel">
+     <l n="5" met="-+--+--+--+--+">Its jewel of music is carven of all or of aught--</l>
+     <l n="6" met="++--+--+--+--+">Love, laughter, or mourning--remembrance of rapture or fear--</l>
+     <l n="7" met="-+--+--+--+-+">That fancy may fashion to hang in the ear of thought.</l>
+    </lg>
+    <lg n="3" stanza_type="roundel">
+     <l n="8" met="--+++++--+--+">As a bird's quick song runs round, and the hearts in us hear</l>
+     <l n="9" met="++--+--+-+++">Pause answer to pause, and again the same strain caught,</l>
+     <l n="10" met="-+--+-+--+-+">So moves the device whence, round as a pearl or tear,</l>
+     <l n="11" met="-+--+">A roundel is wrought.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

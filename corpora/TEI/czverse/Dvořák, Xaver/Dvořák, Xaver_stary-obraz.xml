@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Starý obraz.</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_stary-obraz</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Starý obraz.</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Starý obraz.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100010" rhyme="1" line_length="11">Tak srdce chví se, – oči se mi kalí;</l>
+     <l n="2" met="11001101010" rhyme="2" line_length="11">jdu v mládí zpět, chci zase děckem býti,</l>
+     <l n="3" met="01000101010" rhyme="2" line_length="11">z kad zpomínky se ze všad na mě řítí –</l>
+     <l n="4" met="01010101010" rhyme="1" line_length="11">jich květy sbírám, které bouře svály;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101010" rhyme="1" line_length="11">a kudy kráčím, luhy, nivy, skály,</l>
+     <l n="6" met="01000101010" rhyme="2" line_length="11">kde slziček se rudé květy třpytí,</l>
+     <l n="7" met="01010101010" rhyme="1" line_length="11">i staré olše, které v dumách stály,</l>
+     <l n="8" met="01000101010" rhyme="2" line_length="11">vše kyne mi a se mnou teskno cítí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="11010101010" rhyme="3" line_length="11">Hle šerem větví obraz známý kmitá,</l>
+     <l n="10" met="01010101010" rhyme="3" line_length="11">jejž věnec svadlých růží kolem splítá,</l>
+     <l n="11" met="1001010100" rhyme="4" line_length="10">od dešťů smyt a stářím vetšeje –</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="01010101010" rhyme="5" line_length="11">a dlouho stál jsem před ním srdcem chorý:</l>
+     <l n="13" met="11001101010" rhyme="5" line_length="11">ó mladosti má, Tys ten obraz starý</l>
+     <l n="14" met="0101010100" rhyme="4" line_length="10">a věnec svadlý – moje naděje.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

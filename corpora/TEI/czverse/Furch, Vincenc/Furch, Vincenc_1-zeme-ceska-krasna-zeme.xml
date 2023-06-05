@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>1. Země česká, krásná země,</title>
+    <author>Furch, Vincenc</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Furch, Vincenc_1-zeme-ceska-krasna-zeme</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>1. Země česká, krásná země,</title>
+     <author>Furch, Vincenc</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>1. Země česká, krásná země,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">Země česká, krásná země, </l>
+     <l n="2" met="1010100" rhyme="1" line_length="7">V dějích slavně pověstná,</l>
+     <l n="3" met="10101010" line_length="8">Česká země, slavná země,</l>
+     <l n="4" met="1010101" rhyme="1" line_length="7">Také slavné syny má.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" line_length="8">Česká země ze všech zemí</l>
+     <l n="6" met="0010001" rhyme="2" line_length="7">Nám je nejpěknější kraj,</l>
+     <l n="7" met="10101010" line_length="8">Česká země, naše země,</l>
+     <l n="8" met="1001001" rhyme="2" line_length="7">Jesti náš pozemský ráj.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" rhyme="3" line_length="8">České doly, české hory,</l>
+     <l n="10" met="10101010" rhyme="3" line_length="8">České nivy, české bory,</l>
+     <l n="11" met="1010101" rhyme="4" line_length="7">Český um a český zpěv,</l>
+     <l n="12" met="1010101" rhyme="4" line_length="7">V české paži česká krev!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

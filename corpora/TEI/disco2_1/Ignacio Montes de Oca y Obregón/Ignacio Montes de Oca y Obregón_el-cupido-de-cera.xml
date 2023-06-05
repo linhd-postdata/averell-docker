@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El Cupido de cera</title>
+    <author>Ignacio Montes de Oca y Obregón</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ignacio Montes de Oca y Obregón_el-cupido-de-cera</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El Cupido de cera</title>
+     <author>Ignacio Montes de Oca y Obregón</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El Cupido de cera</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+---+-+-">¡Qué bello amor de transparente cera!</l>
+     <l n="2" met="+-+--+---+-">¿Cuánto quieres, rapaz, por tu Cupido?</l>
+     <l n="3" met="+-+--+-+-+-">Tómalo desde luego, sólo pido,</l>
+     <l n="4" met="-----+-+++-">señor, lo que tu mano darme quiera.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+++---+-+-">Decirte debo la verdad entera:</l>
+     <l n="6" met="-+-+---+++-">ni artista soy, ni su escultor he sido,</l>
+     <l n="7" met="---+-+-+--+-">mas mi revuelto hogar, del dios de Gnido</l>
+     <l n="8" met="-+---+++-+-">la grata soledad ya no tolera.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+---+-+-">Ten este dracma, y al gentil infame</l>
+     <l n="10" met="+--+--+--+-">pon en mis brazos. Aunque artero y ciego,</l>
+     <l n="11" met="--+-+++--+-">compañero lo haré, fiel y constante.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+-+-+-">Ven, ¡oh Cupido!, abrásame en tu fuego</l>
+     <l n="13" met="---+-+---+-">o a las voraces llamas al instante</l>
+     <l n="14" met="-+-+---+++-">tu débil forma a derretirse entrego.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

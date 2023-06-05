@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>GUILLAUME ET PARIS</title>
+    <author>Eugène Pottier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">8</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Eugène Pottier_guillaume-et-paris</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>GUILLAUME ET PARIS</title>
+     <author>Eugène Pottier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>GUILLAUME ET PARIS</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="0" line_length="7">Paris, comprends ton danger :</l>
+     <l n="2" rhyme="1" line_length="7">J'ai pris ton armée au piège.</l>
+     <l n="3" rhyme="0" line_length="7">Ouvre, ou je vais t'assiéger !</l>
+    </lg>
+    <lg n="2" />
+    <lg n="3">
+     <l n="4" rhyme="0" line_length="7">Tu verras se consumer</l>
+     <l n="5" rhyme="2" line_length="7">Le vieillard, l'enfant, la femme :</l>
+     <l n="6" rhyme="0" line_length="7">Ouvre, ou je vais t'affamer !</l>
+    </lg>
+    <lg n="4" />
+    <lg n="5">
+     <l n="7" rhyme="0" line_length="7">Un cratère va flamber,</l>
+     <l n="8" rhyme="4" line_length="7">Brûlant palais et mansarde.</l>
+     <l n="9" rhyme="0" line_length="7">Ouvre, ou je vais bombarder.</l>
+    </lg>
+    <lg n="6" />
+    <lg n="7">
+     <l n="10" rhyme="5" line_length="7">Tous n'ont pas même raideur.</l>
+     <l n="11" rhyme="6" line_length="7">Pour la Paix qu'on maquignonne,</l>
+     <l n="12" rhyme="5" line_length="7">Quel est ton ambassadeur ?</l>
+    </lg>
+    <lg n="8" />
+   </lg>
+  </body>
+ </text>
+</TEI>

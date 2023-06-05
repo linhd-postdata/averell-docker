@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Francisco de la Cueva</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco de la Cueva_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Francisco de la Cueva</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">Porcia, después que del famoso Bruto</l>
+     <l n="2" met="+--+---+-+-">supo y creyó la miserable suerte.</l>
+     <l n="3" met="++-+-+-+-+-">«No viva yo sin ti (con pecho fuerte</l>
+     <l n="4" met="+--+---+-+-">dijo, llorando sobre el casto luto).</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">«Ved que las armas me escondéis sin fruto,</l>
+     <l n="6" met="+--+---+-+-">gente curiosa en impedir mi muerte;</l>
+     <l n="7" met="-+++---+++-">que amor me da con que a pagarle acierte</l>
+     <l n="8" met="+--+-+-+-+-">de esta limpieza y de esta fe el tributo.»</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">Tragó las brasas, y aunque allá sintieron</l>
+     <l n="10" met="---+-++--+-">que las de amor, si amor lo permitiera,</l>
+     <l n="11" met="-+---+-+-+-">bastaran a vencer su fuerza esquiva,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+-+-+-">como todas a intento igual vinieron,</l>
+     <l n="13" met="--+--+-+-+-">concertáronse al fin de tal manera,</l>
+     <l n="14" met="---+---+++-">que la mataron por dejarla viva.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

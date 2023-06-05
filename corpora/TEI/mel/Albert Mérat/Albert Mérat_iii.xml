@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>III</title>
+    <author>Albert Mérat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Albert Mérat_iii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>III</title>
+     <author>Albert Mérat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>III</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6">Ne leur en veuillons pas :</l>
+     <l n="2" rhyme="b" line_length="6">Nos pauvres amoureuses</l>
+     <l n="3" rhyme="a" line_length="6">Suivent à petits pas</l>
+     <l n="4" rhyme="b" line_length="6">Des routes plus heureuses.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6">Paris ne leur vaut rien :</l>
+     <l n="6" rhyme="b" line_length="6">On y fait des folies.</l>
+     <l n="7" rhyme="a" line_length="6">Elles nous aiment bien</l>
+     <l n="8" rhyme="b" line_length="6">Tant qu’elles sont jolies.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6">Que faire ? Les laisser</l>
+     <l n="10" rhyme="b" line_length="6">S’enfuir à tire-d’ailes,</l>
+     <l n="11" rhyme="a" line_length="6">Et puis ne pas cesser</l>
+     <l n="12" rhyme="b" line_length="6">De nous souvenir d’elles.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

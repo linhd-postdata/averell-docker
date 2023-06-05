@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A San Ignacio de Loyola</title>
+    <author>Juan de Jauregui</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan de Jauregui_a-san-ignacio-de-loyola</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A San Ignacio de Loyola</title>
+     <author>Juan de Jauregui</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A San Ignacio de Loyola</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">Ved la columna que descubre senda</l>
+     <l n="2" met="--+--+-+-+-">en el piélago rubro al pueblo amado,</l>
+     <l n="3" met="-+---+-+-+-">el fuego y el granizo ved mezclado,</l>
+     <l n="4" met="---+---+-+-">porque el egipcio su amenaza entienda.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">Ved sobre el mar, porque su golfo encienda,</l>
+     <l n="6" met="-+-+---+-+-">el ángel fuerte, de pureza armado,</l>
+     <l n="7" met="---+-+---+-">y en procelosas ondas arrojado,</l>
+     <l n="8" met="--++---+-+-">a Jonás ved que al ninivita enmienda</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-++--+---+-">de Dios ved el espíritu influyendo</l>
+     <l n="10" met="---+-+-+-+-">sobre las aguas; ved el arca ufana,</l>
+     <l n="11" met="-+-+---+-+-">que vida ofrece en la borrasca a tantos;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">así de Ignacio en la laguna ardiendo</l>
+     <l n="13" met="-+---+-+-+-">veréis la caridad, que ejemplos santos</l>
+     <l n="14" met="-+---+++-+-">pudieron describir, no voz humana.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

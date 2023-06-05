@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>FRAGMENTS</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_fragments</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>FRAGMENTS</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>FRAGMENTS</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Lorsque la solitude et la mélancolie</l>
+     <l n="2" rhyme="b" line_length="6+6">De leurs vagues tourments torturent ma langueur,</l>
+     <l n="3" rhyme="a" line_length="6+6">Et me font souvenir de tout ce qui m'oublie</l>
+     <l n="4" rhyme="b" line_length="6+6">En murmurant tout bas : Amour, gloire et bonheur.</l>
+     <l n="5" rhyme="c" line_length="6+6">Comme avec un ami qui comprend votre peine</l>
+     <l n="6" rhyme="d" line_length="6+6">Et dont le cœur ému bat en vous répondant,</l>
+     <l n="7" rhyme="c" line_length="6+6">Mon chagrin, ignoré de Wilhelm et d'Hélène,</l>
+     <l n="8" rhyme="d" line_length="6+6">S'épanche et se console avec ce confident.</l>
+    </lg>
+    <lg n="2" />
+    <lg n="3" />
+    <lg n="4" />
+   </lg>
+  </body>
+ </text>
+</TEI>

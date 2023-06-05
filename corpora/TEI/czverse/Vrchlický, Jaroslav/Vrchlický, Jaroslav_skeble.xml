@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ŠKEBLE.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_skeble</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ŠKEBLE.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ŠKEBLE.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010100" rhyme="1" line_length="10">Ty s matným leskem na břeh hozena,</l>
+     <l n="2" met="11010101010" rhyme="2" line_length="11">ó dcero vln, zda víš, co tajíš v sobě?</l>
+     <l n="3" met="0100010100" rhyme="1" line_length="10">Jak Afrodita z vlny zrozena,</l>
+     <l n="4" met="01010001010" rhyme="2" line_length="11">snad ona svěřila své taje tobě.</l>
+     <l n="5" met="1101010100" rhyme="1" line_length="10">Cos o tom aspoň šepce ozvěna,</l>
+     <l n="6" met="01010101010" rhyme="2" line_length="11">jež zpívá v tvojích spiral duté kobě,</l>
+     <l n="7" met="1101010100" rhyme="1" line_length="10">ó škeble z růží v sebe stočená,</l>
+     <l n="8" met="11010101010" rhyme="2" line_length="11">ó zpívej, šum! – Tě budu slyšet v hrobě!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

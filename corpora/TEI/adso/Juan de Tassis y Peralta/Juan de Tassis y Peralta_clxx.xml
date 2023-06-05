@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- CLXX - </title>
+    <author>Juan de Tassis y Peralta</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan de Tassis y Peralta_clxx</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- CLXX - </title>
+     <author>Juan de Tassis y Peralta</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- CLXX - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---+-">Miro el inquieto mar, como el piloto</l>
+     <l n="2" met="--+--+-+-+-">que corriendo fortuna en golfo incierto</l>
+     <l n="3" met="--+--+-+-+-">a pesar de las ondas, toma puerto,</l>
+     <l n="4" met="-+---+---+-">debido a los efectos de su voto.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">Y cuelgo las reliquias que devoto</l>
+     <l n="6" met="-++--+---+-">saqué a luz del engaño descubierto,</l>
+     <l n="7" met="-+---+--++-">y vivo a conocer, a esperar muerto,</l>
+     <l n="8" met="+--+---+-+-">suelto el timón de la paciencia roto.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+---+-+-">Porque luchar con la paciencia en vano</l>
+     <l n="10" met="+-+--+-+-+-">otro aliento requiere y otros brazos</l>
+     <l n="11" met="-++--+---+-">de más válida fuerza que los míos.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+-+-+-">No me tuvo al caer piadosa mano,</l>
+     <l n="13" met="---+-+-+-+-">y la engañada fe quedó en los lazos</l>
+     <l n="14" met="--+--+---+-">de costosos agravios y desvíos.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

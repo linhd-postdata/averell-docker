@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LE PETIT CHALET</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_le-petit-chalet</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LE PETIT CHALET</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LE PETIT CHALET</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Qu'elle aime ce petit chalet</l>
+     <l n="2" rhyme="b" line_length="8">D'une si plaisante carcasse !</l>
+     <l n="3" rhyme="b" line_length="8">Le fait est qu'il est si cocasse,</l>
+     <l n="4" rhyme="a" line_length="8">Qu'il m'inspire ce rondelet.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Dans ce castel humble et drôlet,</l>
+     <l n="6" rhyme="b" line_length="8">Elle brode, lit et fricasse.</l>
+     <l n="7" rhyme="a" line_length="8">Qu'elle aime ce petit chalet</l>
+     <l n="8" rhyme="b" line_length="8">D'une si plaisante carcasse !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Elle y goûte un bonheur complet.</l>
+     <l n="10" rhyme="b" line_length="8">Et puis, qu'elle paix efficace !</l>
+     <l n="11" rhyme="b" line_length="8">Personne ici qui la tracasse,</l>
+     <l n="12" rhyme="a" line_length="8">Elle y vit comme ça lui plaît.</l>
+     <l n="13" rhyme="a" line_length="8">Qu'elle aime ce petit chalet !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

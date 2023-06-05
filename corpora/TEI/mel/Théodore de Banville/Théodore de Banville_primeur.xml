@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Primeur</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_primeur</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Primeur</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Primeur</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Tandis que les voix du foyer</l>
+     <l n="2" rhyme="a" line_length="8">Murmurent pour vous égayer</l>
+     <l n="3" rhyme="b" line_length="8">Et que le feu brille dans l'âtre,</l>
+     <l n="4" rhyme="c" line_length="8">Déjà, fugitif et discret,</l>
+     <l n="5" rhyme="c" line_length="8">Derrière la vitre apparaît</l>
+     <l n="6" rhyme="b" line_length="8">Le rire du Printemps folâtre.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" rhyme="a" line_length="8">Impatient, avec raison,</l>
+     <l n="8" rhyme="a" line_length="8">De nous donner sa floraison,</l>
+     <l n="9" rhyme="b" line_length="8">Voyez ! on dirait qu'il s'ennuie</l>
+     <l n="10" rhyme="c" line_length="8">De ne pas prendre son essor,</l>
+     <l n="11" rhyme="c" line_length="8">Et qu'il montre ses ailes d'or</l>
+     <l n="12" rhyme="b" line_length="8">Encor frissonnantes de pluie.</l>
+    </lg>
+    <lg n="3">
+     <l n="13" rhyme="a" line_length="8">O douce mère ! c'est pour toi</l>
+     <l n="14" rhyme="a" line_length="8">Que cette Nature en émoi</l>
+     <l n="15" rhyme="b" line_length="8">Fait trêve à sa longue paresse,</l>
+     <l n="16" rhyme="c" line_length="8">Et, complice de ton rimeur,</l>
+     <l n="17" rhyme="c" line_length="8">Elle vient t'offrir la primeur</l>
+     <l n="18" rhyme="b" line_length="8">De ce rayon qui nous caresse.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

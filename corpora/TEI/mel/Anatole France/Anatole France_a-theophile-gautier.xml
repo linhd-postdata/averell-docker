@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Théophile Gautier</title>
+    <author>Anatole France</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Anatole France_a-theophile-gautier</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Théophile Gautier</title>
+     <author>Anatole France</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Théophile Gautier</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Le creux d’un sein charmant que la cendre moula</l>
+     <l n="2" rhyme="b" line_length="6+6">Fut la coupe où tu bus cette ivresse éloquente,</l>
+     <l n="3" rhyme="b" line_length="6+6">Qui, sous l’étroit portique aux volutes d’acanthe,</l>
+     <l n="4" rhyme="a" line_length="6+6">Fit surgir dans la pourpre Arria Marcella.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

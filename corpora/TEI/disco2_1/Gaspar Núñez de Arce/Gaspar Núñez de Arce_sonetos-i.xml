@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sonetos -- I</title>
+    <author>Gaspar Núñez de Arce</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Gaspar Núñez de Arce_sonetos-i</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sonetos -- I</title>
+     <author>Gaspar Núñez de Arce</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sonetos -- I</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+-+-+-">Al morir el invierno, el mundo siente</l>
+     <l n="2" met="--+--+---+-">renacer su agostada lozanía</l>
+     <l n="3" met="-+---+---+-">y cobra de improviso la energía</l>
+     <l n="4" met="---+-+---+-">con que despierta el alma adolescente.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">Corre la savia, como oculta fuente,</l>
+     <l n="6" met="--+--+---+-">por el árbol sin hojas todavía,</l>
+     <l n="7" met="-+-+---+-+-">y do la tierra aletargada y fría</l>
+     <l n="8" met="-+---+---+-">palpitan el insecto y la simiente.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+---+-+-">Cuando sus auras germinales lleva</l>
+     <l n="10" met="---+---+-+-">marzo ventoso hasta el sepulto grano,</l>
+     <l n="11" met="+--+-+---+-">todo se anima y todo se renueva.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+---+-">Sólo, como un sarcasmo de la vida,</l>
+     <l n="13" met="---+---+-+-">en el marchito corazón humano</l>
+     <l n="14" met="-+-+---+-+-">¡ay!, no retoña la ilusión perdida.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

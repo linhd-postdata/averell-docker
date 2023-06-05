@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>BOLEHLAV</title>
+    <author>Geisslová, Irma</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Geisslová, Irma_bolehlav</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>BOLEHLAV</title>
+     <author>Geisslová, Irma</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>BOLEHLAV</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100" line_length="8">Mně veselo, tak divoce,</l>
+     <l n="2" met="010001010" rhyme="1" line_length="9">já počítám ty svoje muky,</l>
+     <l n="3" met="01000100" line_length="8">teď vzroste-li mi, zašlápnu</l>
+     <l n="4" met="110101010" rhyme="1" line_length="9">květ v lesním míru mezi buky.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000100" line_length="8">Teď na smrt by mne vyděsil,</l>
+     <l n="6" met="010001010" rhyme="2" line_length="9">kdo věstil by mi šťastné žití,</l>
+     <l n="7" met="01010100" line_length="8">mně hudbou temných myšlének</l>
+     <l n="8" met="010011000" rhyme="2" line_length="9">se šílené zdá vlnobití!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000100" line_length="8">Já s třeštícíma zrakoma</l>
+     <l n="10" met="010101010" rhyme="3" line_length="9">pryč prchám z kruhu tiché slasti,</l>
+     <l n="11" met="01000100" line_length="8">však s úsměvem bych rozmarným</l>
+     <l n="12" met="010001000" rhyme="3" line_length="9">se uvrhnula do propasti.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LETNÍ DEN.</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_letni-den</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LETNÍ DEN.</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LETNÍ DEN.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101100" rhyme="1" line_length="9">Takový letní den... Na dohled</l>
+     <l n="2" met="10010010" rhyme="2" line_length="8">vlní se stříbrné žito...</l>
+     <l n="3" met="010101100" rhyme="1" line_length="9">A kdyby člověk měl zemřít hned,</l>
+     <l n="4" met="00010010" rhyme="2" line_length="8">dnes by to nebylo líto...</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100010100" rhyme="3" line_length="9">U nás as teď moře zeleně</l>
+     <l n="6" met="11010010" rhyme="4" line_length="8">hrá, voní ve slunci žhoucím...</l>
+     <l n="7" met="100100100" rhyme="3" line_length="9">Chtěl bych tam ležet kdes na seně</l>
+     <l n="8" met="01010010" rhyme="4" line_length="8">a hledět k oblakům skvoucím!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La laguna</title>
+    <author>Antonio Zerolo Herrera</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Antonio Zerolo Herrera_la-laguna</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La laguna</title>
+     <author>Antonio Zerolo Herrera</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La laguna</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="+--+-+---+-">Ya La Laguna triste y solitaria</l>
+     <l n="2" met="+----+---+-">vuelve a su natural recogimiento,</l>
+     <l n="3" met="-+-+---+-+-">a ser la típica ciudad canaria</l>
+     <l n="4" met="-----+---+-">donde se reconcentra el pensamiento.</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="-+-+-+---+-">Florón el más antiguo de Nivaria</l>
+     <l n="6" met="-++--+-+-+-">en un valle fecundo tiene asiento,</l>
+     <l n="7" met="-++--+---+-">y allí crecen el pino y la araucaria,</l>
+     <l n="8" met="-+-+-+---+-">que son las liras rústicas del viento.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+---+-">Sólo el gremio escolar que se declara</l>
+     <l n="10" met="-+---+---+-">amante del bullicio y la alegría,</l>
+     <l n="11" met="++---+---+-">le presta animación con su algaraza.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">O se escucha la mística armonía</l>
+     <l n="13" met="-+---+---+-">del órgano, al pasar por «Santa Clara»</l>
+     <l n="14" met="--+--+-+-+-">en la tarde otoñal, lluviosa y fría.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dolce far niente.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_dolce-far-niente</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dolce far niente.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dolce far niente.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Jen stará vrba nad námi</l>
+     <l n="2" met="0101010" rhyme="1" line_length="7">se jako přítel sklání,</l>
+     <l n="3" met="01010100" line_length="8">a kolem klid – jen v prsou mých</l>
+     <l n="4" met="0101010" rhyme="1" line_length="7">to srdce v divém plání.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010101" line_length="8">Chceš-li ten mocný plamen znát,</l>
+     <l n="6" met="0101010" rhyme="2" line_length="7">sem k boku mému sedni</l>
+     <l n="7" met="01000101" line_length="8">a pozoruj, jak slunce plá,</l>
+     <l n="8" met="0101000" rhyme="2" line_length="7">čím dále ku poledni.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" line_length="8">Jak modré nebe šíří se,</l>
+     <l n="10" met="1001010" rhyme="3" line_length="7">v slunci se lesknou skály –</l>
+     <l n="11" met="01000100" line_length="8">či zaplálo to oko Tvé</l>
+     <l n="12" met="0101000" rhyme="3" line_length="7">a rty se pousmály?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

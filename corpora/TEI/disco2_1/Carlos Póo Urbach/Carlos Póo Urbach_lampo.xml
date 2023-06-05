@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Lampo</title>
+    <author>Carlos Póo Urbach</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Carlos Póo Urbach_lampo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Lampo</title>
+     <author>Carlos Póo Urbach</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Lampo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-++-++---+-">Si mi alma es como un ánfora de hastío</l>
+     <l n="2" met="-+-++--+-+-">¿a qué brindarme con tu dulce entrega</l>
+     <l n="3" met="-+-+---+-+-">que me encadena a la mundana brega</l>
+     <l n="4" met="+--+---+-+-">cual el reposo ultraterrestre ansío?</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+---+-">De tu amoroso empeño desconfío;</l>
+     <l n="6" met="+--+---+-+-">más que apacible claridad que anega,</l>
+     <l n="7" met="+--+-+---+-">es llamarada fúlgida que ciega</l>
+     <l n="8" met="--+--+---+-">y se extingue en su propio desvarío.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Desatemos el lazo vacilante</l>
+     <l n="10" met="-+---+---+-">que anuda mi tristeza a tu idealismo,</l>
+     <l n="11" met="--+--+---+-">que tu dulce visión consoladora</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+++-+-">se refleja en mi vida un solo instante,</l>
+     <l n="13" met="----++-+-+-">como, sin dejar huella, en un abismo</l>
+     <l n="14" met="---+-+-+-+-">el resplandor rosado de una aurora.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

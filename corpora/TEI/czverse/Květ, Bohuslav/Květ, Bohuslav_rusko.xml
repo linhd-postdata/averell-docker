@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Rusko.</title>
+    <author>Květ, Bohuslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Květ, Bohuslav_rusko</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Rusko.</title>
+     <author>Květ, Bohuslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Rusko.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010101010" rhyme="1" line_length="13">Toť zvláštní lid! A hloubku duše cítíš všude.</l>
+     <l n="2" met="11001101000" rhyme="2" line_length="11">Půl mystik a půl z tvrdé reality,</l>
+     <l n="3" met="10010101010" rhyme="2" line_length="11">filosof vždycky, třebas mužík zpitý.</l>
+     <l n="4" met="1001010001010" rhyme="1" line_length="13">A dnes je Rusko bolševické, rudé, rudé!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001000101000" rhyme="3" line_length="13">Roviny nekonečné, přec ne jednotvárné.</l>
+     <l n="6" met="10010101010" rhyme="4" line_length="11">Obzory dálné vábí lid ten k sobě,</l>
+     <l n="7" met="10010101010" rhyme="4" line_length="11">přemítá muž i žena, snad i robě...</l>
+     <l n="8" met="1101000100010" rhyme="3" line_length="13">Rus navždy zotročiti, úsilí je marné!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101010001010" rhyme="5" line_length="13">Ta zem tu cítí, se Slovanstvem osud sdílí,</l>
+     <l n="10" met="01010001010" rhyme="6" line_length="11">jež na čas přemůže snad hrubá síla,</l>
+     <l n="11" met="01000101010" rhyme="6" line_length="11">však obr zdřím’ jen, než se chopí díla,</l>
+     <l n="12" met="0100010011010" rhyme="5" line_length="13">by nad Ruskem zas slovanský vlál prapor milý...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

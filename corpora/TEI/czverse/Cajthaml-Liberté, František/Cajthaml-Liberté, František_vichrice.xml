@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vichřice.</title>
+    <author>Cajthaml-Liberté, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cajthaml-Liberté, František_vichrice</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vichřice.</title>
+     <author>Cajthaml-Liberté, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vichřice.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1110110010" rhyme="1" line_length="10">Tři dny dlouhé, tři bezsenné noci</l>
+     <l n="2" met="101010100" rhyme="2" line_length="9">zmítá okny vichr zběsilý.</l>
+     <l n="3" met="0100101100" rhyme="1" line_length="10">Já na loži v kleštích zlé nemoci</l>
+     <l n="4" met="100011100" rhyme="2" line_length="9">malomocně vstát chci na chvíli.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1000101010" rhyme="3" line_length="10">Na prsou mi černá můra sedí,</l>
+     <l n="6" met="111010100" rhyme="4" line_length="9">v skráň proud krve bije ohnivé –</l>
+     <l n="7" met="1010101010" rhyme="3" line_length="10">z koutka jizby dlouho na mne hledí</l>
+     <l n="8" met="101010100" rhyme="4" line_length="9">drahé dětské oči truchlivé.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

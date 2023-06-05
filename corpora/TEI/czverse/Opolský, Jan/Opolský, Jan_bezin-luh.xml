@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>BĚŽIN LUH</title>
+    <author>Opolský, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Opolský, Jan_bezin-luh</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>BĚŽIN LUH</title>
+     <author>Opolský, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>BĚŽIN LUH</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1101000100010" rhyme="1" line_length="13">Zem volná hyne nám tak zoufale a tiše,</l>
+     <l n="2" met="01010101000" rhyme="1" line_length="11">víc Běžin luh už lovec nenapíše</l>
+     <l n="3" met="01010100010" rhyme="2" line_length="11">a v moři mlh, jež nad řekami spěly,</l>
+     <l n="4" met="01010101000" rhyme="2" line_length="11">víc žádná z ran ni sluky nesestřelí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000100010" rhyme="3" line_length="11">Dnes nejtěžší jsou vyřčena už slova</l>
+     <l n="6" met="01001101000" rhyme="3" line_length="11">a dosněn je sen děcka – Oblomova,</l>
+     <l n="7" met="11000100010" rhyme="4" line_length="11">máť obšírná, jež’s nad zeměmi všemi,</l>
+     <l n="8" met="01010101000" rhyme="4" line_length="11">tvůj zaklet háj i luh i černozemí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

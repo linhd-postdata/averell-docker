@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V bouř!</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_v-bour</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V bouř!</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V bouř!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" line_length="8">Z výsluní tvých krásných očí</l>
+     <l n="2" met="1000101" rhyme="1" line_length="7">bolesti jsem padl v klín,</l>
+     <l n="3" met="10001010" line_length="8">z vysněného štěstí výše</l>
+     <l n="4" met="1000100" rhyme="1" line_length="7">srazilas mě do hlubin.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" line_length="8">Příšerný jak jezdec smrti</l>
+     <l n="6" met="1010101" rhyme="2" line_length="7">snes se za mnou divý žal,</l>
+     <l n="7" met="10001010" line_length="8">na černého vzal mě koně</l>
+     <l n="8" met="0010100" rhyme="2" line_length="7">a v bouř žití odklusal!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Komu žitím ukovány</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_komu-zitim-ukovany</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Komu žitím ukovány</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Komu žitím ukovány</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" line_length="8">Komu žitím ukovány </l>
+     <l n="2" met="1010100" rhyme="1" line_length="7">k srdci bědné tíže jsou,</l>
+     <l n="3" met="10011010" rhyme="2" line_length="8">do lesa jdi v také muce,</l>
+     <l n="4" met="11001010" rhyme="2" line_length="8">vil soucitných milé ruce</l>
+     <l n="5" met="1000100" rhyme="1" line_length="7">z prachu výš tě povznesou.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="01001010" line_length="8">A v šumání temných sosen,</l>
+     <l n="7" met="1000100" rhyme="3" line_length="7">harmonickým povzdechem,</l>
+     <l n="8" met="10011010" rhyme="4" line_length="8">octne se pln božské síly</l>
+     <l n="9" met="10101010" rhyme="4" line_length="8">duch tvůj, jako anděl bílý,</l>
+     <l n="10" met="1010100" rhyme="3" line_length="7">v letu volně nad světem.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

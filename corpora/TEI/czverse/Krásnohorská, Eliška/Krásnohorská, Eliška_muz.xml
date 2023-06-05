@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Muž.</title>
+    <author>Krásnohorská, Eliška</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Krásnohorská, Eliška_muz</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Muž.</title>
+     <author>Krásnohorská, Eliška</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Muž.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" rhyme="1" line_length="8">„Co díte? on se ženil už?</l>
+     <l n="2" met="001010001" rhyme="1" line_length="9">vždyť to chlapec! jaký pak to muž?“</l>
+     <l n="3" met="101010101" rhyme="2" line_length="9">„„Vězte: on si proto ženu vzal,</l>
+     <l n="4" met="10100010101" rhyme="2" line_length="11">aby vedlé ní se mužem býti zdál.““</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

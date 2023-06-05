@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Stádo a pastýř.</title>
+    <author>Wenzig, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Wenzig, Josef_stado-a-pastyr</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Stádo a pastýř.</title>
+     <author>Wenzig, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Stádo a pastýř.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000101010" line_length="11">By člověčenstvo všechno stádem bylo,</l>
+     <l n="2" met="0101001000" rhyme="1" line_length="10">Tím, myslím, byste se spokojili;</l>
+     <l n="3" met="010010010010" line_length="12">Však aby jen jednoho pastýře mělo,</l>
+     <l n="4" met="101001000" rhyme="1" line_length="9">Tomu byste se protivili.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

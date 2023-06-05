@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KYTICE.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_kytice</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KYTICE.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KYTICE.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" line_length="8">Kytice prostých květů jen.</l>
+     <l n="2" met="10110010" rhyme="1" line_length="8">Pozdrav luk, lesů a polí.</l>
+     <l n="3" met="1001011000" line_length="10">Kostelní vížka, kříž na rozcestí.</l>
+     <l n="4" met="1001000" rhyme="1" line_length="7">Vesnička pod topoly.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100101100" line_length="9">Do trávy vánek leh na chvíli,</l>
+     <l n="6" met="10010010" rhyme="2" line_length="8">obilím přeběhne vlnou,</l>
+     <l n="7" met="100100100" line_length="9">pohladí po tváři, vůní všech</l>
+     <l n="8" met="10110" rhyme="2" line_length="5">náruč má plnou.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010100" line_length="8">Šípkové keře po mezích.</l>
+     <l n="10" met="10010100" rhyme="3" line_length="8">Silnice bílá. Oblaka.</l>
+     <l n="11" met="1001010010" line_length="10">Skřivánčí píseň, modlitba smírná</l>
+     <l n="12" met="100100" rhyme="3" line_length="6">nad hlavou tuláka.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10010100" line_length="8">Kytice polních květů jen.</l>
+     <l n="14" met="00110110010" rhyme="4" line_length="11">Jak bys dech cítil luk, lesů a polí,</l>
+     <l n="15" met="00110100" line_length="8">jak bys šel zase po cestě</l>
+     <l n="16" met="1001000" rhyme="4" line_length="7">k stavením pod topoly.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PÁTER QUARDIÁN.</title>
+    <author>Mužík, Augustin Eugen</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mužík, Augustin Eugen_pater-quardian</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PÁTER QUARDIÁN.</title>
+     <author>Mužík, Augustin Eugen</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PÁTER QUARDIÁN.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0010100" line_length="7">To je páter quardián –</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">proti hříchům káže,</l>
+     <l n="3" met="1000100" line_length="7">mládencům a panenkám</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">štolou ruce váže.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010100" line_length="7">Všecky lidi dostal tak</l>
+     <l n="6" met="100010" rhyme="2" line_length="6">do pěkného nebe –</l>
+     <l n="7" met="1010100" line_length="7">počkej, počkej, pátere,</l>
+     <l n="8" met="101010" rhyme="2" line_length="6">čert si vezme tebe!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010100" line_length="7">Hochu, nic se nelekej</l>
+     <l n="10" met="010010" rhyme="3" line_length="6">a džbáneček dopí –</l>
+     <l n="11" met="1010100" line_length="7">v pekle páter quardián</l>
+     <l n="12" met="010010" rhyme="3" line_length="6">ať za tebe topí!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

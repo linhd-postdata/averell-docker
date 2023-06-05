@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LA RAINETTE</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_la-rainette</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LA RAINETTE</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LA RAINETTE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Ma bonne petite rainette,</l>
+     <l n="2" rhyme="b" line_length="8">À toi ce rondel amical.</l>
+     <l n="3" rhyme="b" line_length="8">— Le vent hurle comme un chacal</l>
+     <l n="4" rhyme="a" line_length="8">Autour de notre maisonnette.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">— Elle te guigne, la minette,</l>
+     <l n="6" rhyme="b" line_length="8">Du haut d'un vieux meuble bancal.</l>
+     <l n="7" rhyme="a" line_length="8">Ma bonne petite rainette,</l>
+     <l n="8" rhyme="b" line_length="8">À toi ce rondel amical.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Ta monotone chansonnette</l>
+     <l n="10" rhyme="b" line_length="8">N'a pourtant rien de musical ;</l>
+     <l n="11" rhyme="b" line_length="8">Mais tu me plais dans ce bocal,</l>
+     <l n="12" rhyme="a" line_length="8">Sur ton échelle mignonnette,</l>
+     <l n="13" rhyme="a" line_length="8">Ma bonne petite rainette.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

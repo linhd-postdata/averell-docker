@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L'Enfant embourbé</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_l-enfant-embourbe</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L'Enfant embourbé</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L'Enfant embourbé</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Il marche. — Le soir vient sournois</l>
+     <l n="2" rhyme="b" line_length="8">Dans la grande plaine de vase</l>
+     <l n="3" rhyme="a" line_length="8">Dont les hôtes, en tapinois,</l>
+     <l n="4" rhyme="b" line_length="8">Se décroupissent de l'extase.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Et, tous ces mystères de voix</l>
+     <l n="6" rhyme="b" line_length="8">Confondent leurs horribles phrases.</l>
+     <l n="7" rhyme="b" line_length="8">Sanglant, le soleil se rembrase,</l>
+     <l n="8" rhyme="a" line_length="8">Puis meurt. Il fait un noir de poix.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Et, dans ces trous que son pied rase,</l>
+     <l n="10" rhyme="b" line_length="8">L'enfant se perd, hurlant d'effroi :</l>
+     <l n="11" rhyme="b" line_length="8">Car il sent — mou, plat, grouillant, froid —</l>
+     <l n="12" rhyme="a" line_length="8">Monter vers lui ce qu'il écrase</l>
+     <l n="13" rhyme="a" line_length="8">Dans la grande plaine de vase.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

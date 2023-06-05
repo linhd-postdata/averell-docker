@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ó, bdi jen!</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_o-bdi-jen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ó, bdi jen!</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ó, bdi jen!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101" rhyme="1" line_length="8">Jen ruku pevnou, k nebi zrak;</l>
+     <l n="2" met="0101011100" rhyme="1" line_length="10">ať tělo k zemi chce, duch do oblak.</l>
+     <l n="3" met="010001010" rhyme="2" line_length="9">Jest život tvůj vždy roven moři;</l>
+     <l n="4" met="11010101000" rhyme="2" line_length="11">ó, bdi jen! ať se v hloubi neponoří</l>
+     <l n="5" met="010101" rhyme="3" line_length="6">tvé štěstí – slabá loď!</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="0101011001" rhyme="4" line_length="10">Jest štěstí pýr, jejž pták do hnízda vnes,</l>
+     <l n="7" met="0101010100" rhyme="4" line_length="10">jej vítr zítra smete, bouře dnes;</l>
+     <l n="8" met="010001010" rhyme="5" line_length="9">nuž nejdi tam, kde vítr věje,</l>
+     <l n="9" met="01000101000" rhyme="5" line_length="11">kde zmítá bouř, jež sluje beznaděje;</l>
+     <l n="10" met="010101" rhyme="3" line_length="6">je skryj, v hloub ňader vhoď!</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="1101010100" rhyme="6" line_length="10">Ó, srdce jako vesny poupě jest!</l>
+     <l n="12" met="0101010101" rhyme="6" line_length="10">až přijde slunce, bílá záře hvězd,</l>
+     <l n="13" met="010101000" rhyme="7" line_length="9">pak citem tknuto otevře se</l>
+     <l n="14" met="01010111010" rhyme="7" line_length="11">a z hloubí jeho hlas zní, jenž se třese:</l>
+     <l n="15" met="010101" rhyme="3" line_length="6">„v mou náruč, dítě, pojď“!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

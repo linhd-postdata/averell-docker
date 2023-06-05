@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MODLITBY</title>
+    <author>Ráž, Arnošt</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ráž, Arnošt_modlitby</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MODLITBY</title>
+     <author>Ráž, Arnošt</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MODLITBY</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10000100" line_length="8">Pod gothickými klenbami,</l>
+     <l n="2" met="010101000101010" rhyme="1" line_length="15">kde úzko bylo k zalknutí a husté ticho, stlelé,</l>
+     <l n="3" met="01000100" line_length="8">tam pobožní se modlili,</l>
+     <l n="4" met="010101000101000" rhyme="1" line_length="15">své ruce křížem na prsou a oči rozslzelé.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" line_length="8">V oddaných posách shrbení,</l>
+     <l n="6" met="100101001001010" rhyme="2" line_length="15">ve hloubce vzňatých zřítelnic tajemný zákmit víry,</l>
+     <l n="7" met="10010100" line_length="8">uspáni hudbou růžence</l>
+     <l n="8" met="010101001001010" rhyme="2" line_length="15">a lítost z hříchů budíce představu ohně, síry,</l>
+     <l n="9" met="01010100" line_length="8">své vzdechy Bohu šeptali.</l>
+    </lg>
+    <lg n="3">
+     <l n="10" met="101101001101010" rhyme="3" line_length="15">A my, má duše, večerem šli prostřed tichých lesů,</l>
+     <l n="11" met="01010100" line_length="8">kde voněl mech a jasany</l>
+     <l n="12" met="110001001001010" rhyme="3" line_length="15">v stín ukládaly šetrně třpytivé slzy vřesu,</l>
+     <l n="13" met="01010100" line_length="8">a ruce naše sepjaté</l>
+     <l n="14" met="110001010100010" rhyme="4" line_length="15">(má tvrdá tak a Tvoje jemná, mramorově bílá)</l>
+     <l n="15" met="01010100" line_length="8">se chvěly také modlitbou</l>
+     <l n="16" met="010101011001000" rhyme="4" line_length="15">a v srdcích našich horká krev o víře hovořila,</l>
+     <l n="17" met="10010100" line_length="8">o víře v život vášnivý,</l>
+     <l n="18" met="100101000100010" rhyme="5" line_length="15">o bohu, který blízko tak, že obejmout’ se dává,</l>
+     <l n="19" met="10010100" line_length="8">o trestu, který přichází,</l>
+     <l n="20" met="010001000100010" rhyme="5" line_length="15">když lhostejno je srdci vše a ojíněna hlava.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

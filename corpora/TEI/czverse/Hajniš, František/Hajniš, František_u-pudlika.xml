@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>U pudlíka.</title>
+    <author>Hajniš, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hajniš, František_u-pudlika</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>U pudlíka.</title>
+     <author>Hajniš, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>U pudlíka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" rhyme="1" line_length="8">Jaké to lidu hemžení,</l>
+     <l n="2" met="10001000" rhyme="1" line_length="8">U divadla obležení!</l>
+     <l n="3" met="0010000" rhyme="2" line_length="7">Co se provozuje dnes?</l>
+     <l n="4" met="1000100" rhyme="3" line_length="7">Vlastenecká činohra?</l>
+     <l n="5" met="0100100" rhyme="3" line_length="7">Neb klassická truchlohra?</l>
+     <l n="6" met="10101010101" rhyme="2" line_length="11">Chyba lávky – vzácný host – dnes hraje pes!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

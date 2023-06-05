@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mé písně.</title>
+    <author>Pokorný, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný, Rudolf_me-pisne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mé písně.</title>
+     <author>Pokorný, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mé písně.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1100100100" line_length="10">Oj, nemohu, přátelé, pochopiť,</l>
+     <l n="2" met="010110010" rhyme="1" line_length="9">co velký duch, síla je tvůrčí,</l>
+     <l n="3" met="0100101100" line_length="10">však tuším, co každý strom šelestí,</l>
+     <l n="4" met="010010010" rhyme="1" line_length="9">co stříbrný potůček zurčí!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0100100100" line_length="10">Co skřivánek švitoří ve výši</l>
+     <l n="6" met="010010010" rhyme="2" line_length="9">i růže co vydychne luzná;</l>
+     <l n="7" met="0100100100" line_length="10">a toho že slabou jen ozvěnou,</l>
+     <l n="8" met="010110010" rhyme="2" line_length="9">to píseň má radostně uzná.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0100100100" line_length="10">Vždyť každá se ze srdce dobývá,</l>
+     <l n="10" met="010010010" rhyme="3" line_length="9">jak pramének ze skalky světlý:</l>
+     <l n="11" met="0100100100" line_length="10">dnes paprsky – bědy ho vypráhnou,</l>
+     <l n="12" met="010010010" rhyme="3" line_length="9">by zejtra v něm perlami květly.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="0100100100" line_length="10">A každá se ze srdce dobývá,</l>
+     <l n="14" met="010010010" rhyme="4" line_length="9">jak ohníček z dýmu kdy blýskne,</l>
+     <l n="15" met="0100100100" line_length="10">vždy trochu si zateskní, zapláče,</l>
+     <l n="16" met="010010010" rhyme="4" line_length="9">však za chvilku opět juž výskne.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Zpěv a hudba.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_zpev-a-hudba</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Zpěv a hudba.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Zpěv a hudba.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100010" rhyme="1" line_length="11">Je píseň květem prozářené hrudi,</l>
+     <l n="2" met="01010100010" rhyme="2" line_length="11">a hudba srdce národa je květem;</l>
+     <l n="3" met="01010101010" rhyme="2" line_length="11">v ní lásky žár, jenž matku poutá k dětem,</l>
+     <l n="4" met="01010101010" rhyme="1" line_length="11">i něhy zdroj, jenž hocha k dívce pudí. –</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000101010" rhyme="3" line_length="11">Z těch zvuků všech i z lásky sladkých vzdechů</l>
+     <l n="6" met="01000101010" rhyme="4" line_length="11">a výkřiků, jež žitím v srdce padnou,</l>
+     <l n="7" met="11001101010" rhyme="4" line_length="11">Bůh bědnému dal lidstvu peruť ladnou,</l>
+     <l n="8" met="01000101000" rhyme="3" line_length="11">by do nebe se vznášel pro útěchu.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010001010" rhyme="5" line_length="11">Tím kouzlem tajemným, jež v tonech zkvítá,</l>
+     <l n="10" met="01010101010" rhyme="6" line_length="11">jímž srdce k dobru, Bůh se k lidstvu hlásí,</l>
+     <l n="11" met="11010100010" rhyme="6" line_length="11">v říš ducha křídly čarodějné krásy,</l>
+     <l n="12" met="01010101010" rhyme="5" line_length="11">výš duší vzleť, kde věčnost bohy vítá!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

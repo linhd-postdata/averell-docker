@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Puesta de sol</title>
+    <author>José Tabares Barlett</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Tabares Barlett_puesta-de-sol</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Puesta de sol</title>
+     <author>José Tabares Barlett</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Puesta de sol</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">El astro de oro, el luminar del cielo,</l>
+     <l n="2" met="--+--+---+-">en las líquidas ondas se ocultaba,</l>
+     <l n="3" met="-+---+---+-">la brisa, caprichosa, jugueteaba</l>
+     <l n="4" met="--+--+---+-">en las selvas oscuras de tu pelo.</l>
+    </lg>
+    <lg n="2" stanza_type="terceto">
+     <l n="5" met="+--+---+-+-">-¡Canta! -dijiste- con vibrante anhelo!</l>
+     <l n="6" met="++-+-+---+-">¡Canta esa lumbre excelsa que se acaba!-</l>
+     <l n="7" met="--+--+---+-">Y en la línea indecisa fulguraba</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="8" met="-+---+--++-">del cárdeno horizonte, sin un velo.</l>
+     <l n="9" met="+-+-++---+-">¡Lo recuerdo muy bien! En la agonía</l>
+     <l n="10" met="--+--++--+-">del celeste volcán, bella María,</l>
+    </lg>
+    <lg n="4" stanza_type="cuarteto">
+     <l n="11" met="-+-+-+---+-">miraba yo tu faz encantadora...</l>
+     <l n="12" met="--+--+---+-">Y ante aquel espectáculo de muerte.</l>
+     <l n="13" met="+--+---+-+-">¡raro contraste!, parecíame al verte</l>
+     <l n="14" met="---+-+---+-">que despuntaba, espléndida, la aurora.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

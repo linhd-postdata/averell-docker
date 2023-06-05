@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mně slabost divná lije se</title>
+    <author>Barák, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Barák, Josef_mne-slabost-divna-lije-se</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mně slabost divná lije se</title>
+     <author>Barák, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mně slabost divná lije se</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Mně slabost divná lije se </l>
+     <l n="2" met="1001010" rhyme="1" line_length="7">ze srdce po všem těle,</l>
+     <l n="3" met="01010101" line_length="8">jsem rád, že mnohý pevný dub</l>
+     <l n="4" met="0101000" rhyme="1" line_length="7">mně slouží za přítele.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">Kol něho slabé větve své</l>
+     <l n="6" met="0101010" rhyme="2" line_length="7">mé srdce věncem stáčí,</l>
+     <l n="7" met="01000101" line_length="8">a spokojí se, když je dub</l>
+     <l n="8" met="0101010" rhyme="2" line_length="7">jen svojí rosou máčí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

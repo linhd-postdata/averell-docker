@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PANTA RÉJ</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_panta-rej</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PANTA RÉJ</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PANTA RÉJ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010100010100" rhyme="1" line_length="12">Tu vlnku v potoce, jež líbá nohu tvou –</l>
+     <l n="2" met="110100010100" rhyme="1" line_length="12">ó, chyť ji divoce, než proudy odnesou!</l>
+     <l n="3" met="11000101010" rhyme="2" line_length="11">Ó, zachyť ji, než mořská tůň ji schvátí –</l>
+     <l n="4" met="00010101000" rhyme="2" line_length="11">ta už se k tobě nikdy nenavrátí!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101000101000" rhyme="3" line_length="13">Ta réva slunná, jež k tvým oknům popíná se –</l>
+     <l n="6" met="0101000100010" rhyme="3" line_length="13">už nikdy v takové se nezjeví ti kráse!</l>
+     <l n="7" met="1101010001010" rhyme="2" line_length="13">Ó, zachyť v duši obraz ten, než smrt ji schvátí –</l>
+     <l n="8" met="0101000101000" rhyme="2" line_length="13">v tom tvaru, úsměvu se nikdy nenavrátí!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010101010" rhyme="4" line_length="11">Myšlenka krásná, jež ti bleskla v duši –</l>
+     <l n="10" met="1100010100010" rhyme="4" line_length="13">ó, zachyť ji, než navždy zapadne ti v hluši!</l>
+     <l n="11" met="010001010100010" rhyme="2" line_length="15">A do žuly ji vtesej, než ji zapomnění schvátí –</l>
+     <l n="12" met="0101000101000" rhyme="2" line_length="13">v té kráse první už se nikdy nenavrátí.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="0101001101010" rhyme="5" line_length="13">To kvítko v ruce tvé! Ó, vypij něhu zrakem,</l>
+     <l n="14" met="0101000100010" rhyme="5" line_length="13">než zhasne oko tvé a zakalí se mrakem.</l>
+     <l n="15" met="0101000100010" rhyme="6" line_length="13">Co zkvete v přírodě, v nic nenávratně splyne –</l>
+     <l n="16" met="0101000101010" rhyme="6" line_length="13">jen duše zůstává a věčnou žízní hyne.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

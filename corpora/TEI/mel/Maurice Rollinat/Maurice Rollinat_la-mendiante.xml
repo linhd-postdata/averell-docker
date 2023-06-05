@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Mendiante</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_la-mendiante</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Mendiante</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Mendiante</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6−6">Bissac vide, et pas un petit sou dans les poches,</l>
+     <l n="2" rhyme="b" line_length="6+6">La mendiante, au soir, traîne un pas de crapaud,</l>
+     <l n="3" rhyme="b" line_length="6+6">Comme un fantôme lent sous son mauvais capot</l>
+     <l n="4" rhyme="a" line_length="6+6">Que, de chaque côté, vont tirochant ses mioches.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">Et puis, tout s'enténèbre. Elle tremble effarée ;</l>
+     <l n="6" rhyme="d" line_length="6+6">Ses petits, s'envasant, s'accrochent à ses bras,</l>
+     <l n="7" rhyme="d" line_length="6+6">Et, dans l'obscur opaque, au sein du limon gras,</l>
+     <l n="8" rhyme="c" line_length="6+6">L'horreur suprême étreint la famille égarée.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="6+6">Soudain, l'ombre s'entr'ouvre aux glissantes lueurs</l>
+     <l n="10" rhyme="e" line_length="6+6">De la lune. La mère a souri dans ses pleurs</l>
+    </lg>
+    <lg n="4">
+     <l n="11" rhyme="g" line_length="6+6">Et dit : « Personnʼ n' nous fut pitoyable aujourd'hui !</l>
+     <l n="12" rhyme="g" line_length="6+6">C'est pʼtêtʼ pour ça q' la lunʼ, dans l' si noir de la nuit,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

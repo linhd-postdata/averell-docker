@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Stezka.</title>
+    <author>Čermák, Bohuslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čermák, Bohuslav_stezka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Stezka.</title>
+     <author>Čermák, Bohuslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Stezka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" line_length="8">Pěkná stezka od vesničky</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">v šumném mizí chvojí,</l>
+     <l n="3" met="00101010" line_length="8">tou mi štěstí v dálku zašlo</l>
+     <l n="4" met="100010" rhyme="1" line_length="6">za panenkou mojí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101000" line_length="8">Darmo za ním rozběhnuv se</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">lesem volám, polem,</l>
+     <l n="7" met="00101000" line_length="8">však jen ohlas odpovídá</l>
+     <l n="8" met="101010" rhyme="2" line_length="6">a to srdce bolem.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001010" line_length="8">Darmo bych i ptáčkem vznesl</l>
+     <l n="10" met="100010" rhyme="3" line_length="6">za ním já se letem,</l>
+     <l n="11" met="10101000" line_length="8">není cesty k ztracenému</l>
+     <l n="12" met="100010" rhyme="3" line_length="6">šírošírým světem.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101000" line_length="8">Pěkná cesta od vesničky</l>
+     <l n="14" met="100010" rhyme="4" line_length="6">pod zeleným krovem,</l>
+     <l n="15" met="00101000" line_length="8">ta mých tužeb nežehnaných</l>
+     <l n="16" met="101010" rhyme="4" line_length="6">mladé lásky rovem.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

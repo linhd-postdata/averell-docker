@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mateřská láska.</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_materska-laska</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mateřská láska.</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mateřská láska.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010" rhyme="1" line_length="7">Mateřská láska pravá</l>
+     <l n="2" met="1001010" rhyme="1" line_length="7">žhoucí je jako láva,</l>
+     <l n="3" met="1001010" rhyme="2" line_length="7">hluboká jako moře,</l>
+     <l n="4" met="1001010" rhyme="2" line_length="7">čistá jak pramen v hoře.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010" rhyme="3" line_length="7">I v hoři, slzách žije,</l>
+     <l n="6" met="1011010" rhyme="3" line_length="7">růže kol, hvězdy sije,</l>
+     <l n="7" met="1101010" rhyme="4" line_length="7">a i když nedbáš o ni,</l>
+     <l n="8" met="1001010" rhyme="4" line_length="7">plá vždy a sladce voní.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

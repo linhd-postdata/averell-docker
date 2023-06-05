@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Fui y soy</title>
+    <author>Francisco Lles</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco Lles_fui-y-soy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Fui y soy</title>
+     <author>Francisco Lles</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Fui y soy</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="unknown">
+     <l n="1" met="+-+--+--+---+-">Fui Jasón y mi nave, lanzada en la tormenta</l>
+     <l n="2" met="---+--+---+--+">de los psíquicos mares, combatió la violenta</l>
+     <l n="3" met="--+--+-+---+-">marejada que obstruye el áspero sendero</l>
+     <l n="4" met="-----+----+-">de las desolaciones. Inició el derrotero</l>
+    </lg>
+    <lg n="2" stanza_type="unknown">
+     <l n="5" met="---+-+-+---+-">sobre el oleaje mudo y torpe del Destino</l>
+     <l n="6" met="-+---+--+---+-">mi barca, tras las huelas del áureo Vellocino</l>
+     <l n="7" met="-+---+-+----+-">del Bien y, en la terrible lucha de la jornada,</l>
+     <l n="8" met="--+--+--+---+-">sobre el mar impasible, quedó desmantelada.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++---+-------+">Fui Cristo y, en el Gólgota de mis desilusiones,</l>
+     <l n="10" met="-+---+--+---+-">secáronse los lirios de todas mis pasiones</l>
+     <l n="11" met="---+-+--++-+-">y como Cristo tuve el horror de un Calvario</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+--+---+-">en la neblina roja del hosco tenebrario</l>
+     <l n="13" met="---+-+---+-+-">de mi dolor, y tuve, en mi niñez divina,</l>
+     <l n="14" met="-+-+-+--+---+-">mis buenos reyes magos en otra Palestina.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

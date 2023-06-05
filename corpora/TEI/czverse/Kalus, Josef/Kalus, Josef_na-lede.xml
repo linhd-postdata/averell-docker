@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Na ledě.</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_na-lede</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Na ledě.</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Na ledě.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100" rhyme="1" line_length="7">Jedu, jedu bez koní</l>
+     <l n="2" met="100010" rhyme="2" line_length="6">po ledové hladi,</l>
+     <l n="3" met="1000100" rhyme="1" line_length="7">hoj, kdo z vás mne dohoní,</l>
+     <l n="4" met="101000" rhyme="2" line_length="6">milí kamarádi?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010010" rhyme="3" line_length="7">Nové botičky mám dnes,</l>
+     <l n="6" met="100010" rhyme="4" line_length="6">proto to tak jede!</l>
+     <l n="7" met="1000100" rhyme="3" line_length="7">Zajedu až do nebes,</l>
+     <l n="8" met="100010" rhyme="4" line_length="6">cesta-li tam vede.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010100" rhyme="5" line_length="7">S větrem letím po ledu,</l>
+     <l n="10" met="100010" rhyme="2" line_length="6">po stříbrné hladi,</l>
+     <l n="11" met="1010100" rhyme="5" line_length="7">celou zem dnes objedu –</l>
+     <l n="12" met="101000" rhyme="2" line_length="6">s Bohem, kamarádi!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

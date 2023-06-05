@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>POVZDECH</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_povzdech</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>POVZDECH</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>POVZDECH</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010110001010" rhyme="1" line_length="14">Dvě uši dal nám bůh do šumného zvuků moře,</l>
+     <l n="2" met="11010010001010" rhyme="2" line_length="14">dvě ruce dal nám též do klopotné práce tuhé,</l>
+     <l n="3" met="01010101001010" rhyme="2" line_length="14">a dvě nám oči dal, by střežilo jedno druhé,</l>
+     <l n="4" met="01010101001000" rhyme="1" line_length="14">a dvě nám nohy dal, to vzájemné ku podpoře –</l>
+     <l n="5" met="01010111001010" rhyme="1" line_length="14">proč nedal srdcí dvé, nést všechno to světa hoře!?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

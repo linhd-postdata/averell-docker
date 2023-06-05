@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Svítání.</title>
+    <author>Táborský, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Táborský, František_svitani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Svítání.</title>
+     <author>Táborský, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Svítání.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" line_length="6">Na zemi mhla lehká,</l>
+     <l n="2" met="101010" line_length="6">nebem plují mračna,</l>
+     <l n="3" met="101010" line_length="6">s čela hor jen chmurných</l>
+     <l n="4" met="111010" line_length="6">dech plá tajné záře.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="001010" line_length="6">To sám anděl boží</l>
+     <l n="6" met="100110" line_length="6">uhasiv mdlé hvězdy</l>
+     <l n="7" met="100010" line_length="6">rozžehuje slunce,</l>
+     <l n="8" met="001010" line_length="6">dřív než bůh se zbudí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100010" line_length="6">Utiš se, mé srdce!</l>
+     <l n="10" met="100010" line_length="6">Pod mraky, jež v tobě</l>
+     <l n="11" met="101010" line_length="6">táhnou temným chvatem,</l>
+     <l n="12" met="101010" line_length="6">skryto spí též slunce.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

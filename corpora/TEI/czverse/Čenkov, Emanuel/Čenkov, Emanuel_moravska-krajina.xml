@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MORAVSKÁ KRAJINA.</title>
+    <author>Čenkov, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čenkov, Emanuel_moravska-krajina</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MORAVSKÁ KRAJINA.</title>
+     <author>Čenkov, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MORAVSKÁ KRAJINA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001001101010" rhyme="1" line_length="13">U bystré Moravy roj racků křičí v plese,</l>
+     <l n="2" met="110100110101" rhyme="2" line_length="12">kol z kraje plochého zní much a cvrčků zvuk,</l>
+     <l n="3" met="1001000101010" rhyme="1" line_length="13">ve zpěvných spirálách se skřivan k nebi nese</l>
+     <l n="4" met="100100100101" rhyme="2" line_length="12">nad vonný koberec zrajících polí, luk.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101000100110" rhyme="3" line_length="13">Zde cítíš domov svůj, zde duše tvá dlí ráda...</l>
+     <l n="6" met="1001000101010" rhyme="3" line_length="13">na měkkých lučinách se pasou koní stáda,</l>
+     <l n="7" met="110101010100" rhyme="4" line_length="12">krav pestrých dav tu trávu žvýká dumavě,</l>
+     <l n="8" met="110001010100" rhyme="4" line_length="12">cos šumí tu a písní zvoní jásavě.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101001100010" rhyme="5" line_length="13">Dál krajské město je... dvě barokové věže,</l>
+     <l n="10" met="110100010101" rhyme="6" line_length="12">věž staré radnice a bílých domů tlum...</l>
+     <l n="11" met="1001001101010" rhyme="5" line_length="13">Na břehu usedni, zři k modru v trávě leže</l>
+     <l n="12" met="010100110101" rhyme="6" line_length="12">a v modru rozptyluj mrak svojich českých dum!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

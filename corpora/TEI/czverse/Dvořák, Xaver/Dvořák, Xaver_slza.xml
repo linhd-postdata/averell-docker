@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Slza.</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">27</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_slza</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Slza.</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Slza.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">Padla hvězda v bílé noci</l>
+     <l n="2" met="10100" rhyme="1" line_length="5">s nebes hluboka,</l>
+     <l n="3" met="10101010" line_length="8">z hloubi ňader slza stkvoucí</l>
+     <l n="4" met="10100" rhyme="1" line_length="5">tryskne do oka;</l>
+     <l n="5" met="10001000" line_length="8">pohasnula nad propastí</l>
+     <l n="6" met="10101" rhyme="2" line_length="5">hvězda jako sen:</l>
+     <l n="7" met="10101010" rhyme="3" line_length="8">slza tvoje temnem žití</l>
+     <l n="8" met="10001010" rhyme="3" line_length="8">nepohasne, dále svítí</l>
+     <l n="9" met="10101" rhyme="2" line_length="5">dále v noc i den!</l>
+    </lg>
+    <lg n="2">
+     <l n="10" met="10001010" line_length="8">Zachytí se jako perla</l>
+     <l n="11" met="10100" rhyme="4" line_length="5">chvějíc na řase,</l>
+     <l n="12" met="10101010" line_length="8">jako hvězda, třeba v duši</l>
+     <l n="13" met="10100" rhyme="4" line_length="5">v půlnoc stmívá se,</l>
+     <l n="14" met="10101000" line_length="8">třeba nebe nadějí tvých</l>
+     <l n="15" met="10100" rhyme="5" line_length="5">celé pod mrakem,</l>
+     <l n="16" met="10101010" rhyme="6" line_length="8">třeba zmítá bolesť nitrem,</l>
+     <l n="17" met="00101010" rhyme="6" line_length="8">z ní to svitne novým jitrem</l>
+     <l n="18" met="10100" rhyme="5" line_length="5">jako zázrakem.</l>
+    </lg>
+    <lg n="3">
+     <l n="19" met="00101010" line_length="8">Je to vůně duše tvojí</l>
+     <l n="20" met="10101" rhyme="7" line_length="5">puklé v rudý květ,</l>
+     <l n="21" met="00101010" line_length="8">je to nard, jenž zlatý stéká</l>
+     <l n="22" met="10010" rhyme="7" line_length="5">na listy a snět;</l>
+     <l n="23" met="00100100" line_length="8">jest to moře, jímž uniká</l>
+     <l n="24" met="10101" rhyme="8" line_length="5">bolu lidský duch,</l>
+     <l n="25" met="00101010" rhyme="9" line_length="8">kam se azur nebes níží,</l>
+     <l n="26" met="10101010" rhyme="9" line_length="8">kudy v těžké chvíli shlíží</l>
+     <l n="27" met="10101" rhyme="8" line_length="5">v srdce lidské Bůh.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Na Vítězslava Hálka.</title>
+    <author>Wunsch, Hugo Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Wunsch, Hugo Václav_na-vitezslava-halka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Na Vítězslava Hálka.</title>
+     <author>Wunsch, Hugo Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Na Vítězslava Hálka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010100" line_length="10">„Má milá, pojď“ a sedněm na trávník,</l>
+     <l n="2" met="10010001010" rhyme="1" line_length="11">„pohádky z vesnice“ ti povím za to,</l>
+     <l n="3" met="1001010100" line_length="10">„večerní písně“ chci pět’ „v přírodě“,</l>
+     <l n="4" met="01000101010" rhyme="1" line_length="11">však pohleď dřív, zda venku není bláto.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

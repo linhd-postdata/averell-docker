@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La grande Cascade</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_la-grande-cascade</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La grande Cascade</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La grande Cascade</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">À cette heure, elle n'est sensible,</l>
+     <l n="2" rhyme="b" line_length="8">La grande cascade du roc,</l>
+     <l n="3" rhyme="b" line_length="8">Qui par son tonnerre d'un bloc,</l>
+     <l n="4" rhyme="a" line_length="8">La nuit la rend toute invisible.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="8">Et, pourtant, sa rumeur compacte</l>
+     <l n="6" rhyme="d" line_length="8">Décèle son bavement fou,</l>
+     <l n="7" rhyme="d" line_length="8">Sa chute à pic, en casse-cou,</l>
+     <l n="8" rhyme="c" line_length="8">Son ruement lourd de cataracte.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="8">Un instant, l'astre frais et pur</l>
+     <l n="10" rhyme="e" line_length="8">Écarte son nuage obscur,</l>
+     <l n="11" rhyme="f" line_length="8">Comme un œil lève sa paupière ;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="8">Et l'on croit voir, subitement,</l>
+     <l n="13" rhyme="g" line_length="8">Crouler des murs de diamant</l>
+     <l n="14" rhyme="f" line_length="8">Dans un abîme de lumière.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

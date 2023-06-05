@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nejdražší poklad.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_nejdrazsi-poklad</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nejdražší poklad.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nejdražší poklad.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010010" rhyme="1" line_length="10">Pohleď, jak velký poklad, jak krásný,</l>
+     <l n="2" met="10010010" rhyme="2" line_length="8">hlídají strážcové šedí! –</l>
+     <l n="3" met="1010010100" rhyme="1" line_length="10">Poklad nejdražší – předce úžasný</l>
+     <l n="4" met="10010010" rhyme="2" line_length="8">zármutek z lící jim hledí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001010010" rhyme="3" line_length="10">Poklad ten – země, otci kde Čechů</l>
+     <l n="6" met="10010100" rhyme="4" line_length="8">radostí srdce zaplálo;</l>
+     <l n="7" met="1001010010" rhyme="3" line_length="10">Čechů v ní mnoho – k svatému spěchu</l>
+     <l n="8" met="10010110" rhyme="4" line_length="8">málo však srdcí – ach málo!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

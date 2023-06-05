@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Zoře.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_zore</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Zoře.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Zoře.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101010" rhyme="1" line_length="10">Od východní hory k jižní hoře</l>
+     <l n="2" met="1010101010" rhyme="1" line_length="10">jezdí dcera slunce, zlatá zoře,</l>
+     <l n="3" met="1010101010" rhyme="2" line_length="10">jezdí tiše, ale velkým chvatem</l>
+     <l n="4" met="1000100010" rhyme="2" line_length="10">na koníčku v zauzdění zlatém.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010100010" rhyme="3" line_length="10">Všecka pole objíždí kol vísky,</l>
+     <l n="6" met="1010100010" rhyme="3" line_length="10">ale koník malý je a nízký,</l>
+     <l n="7" met="1000101010" rhyme="4" line_length="10">nízký tak, že zoři při tom chvatu</l>
+     <l n="8" met="1010110010" rhyme="4" line_length="10">denně zvlhne kraj zelených šatů.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1000101010" rhyme="5" line_length="10">Tajemná však ona vláha denní</l>
+     <l n="10" met="1000100010" rhyme="5" line_length="10">na suknici v perly se jí změní,</l>
+     <l n="11" met="0010100010" rhyme="6" line_length="10">jež si modré do truhlice schová,</l>
+     <l n="12" met="1000101010" rhyme="6" line_length="10">z rána pak se v perlách rousá znova. –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>POD KVĚTY.</title>
+    <author>Kvapil, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kvapil, František_pod-kvety</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>POD KVĚTY.</title>
+     <author>Kvapil, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>POD KVĚTY.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100" rhyme="1" line_length="8">Tam dole tak už dlouho spíš –</l>
+     <l n="2" met="01010100" rhyme="1" line_length="8">zda víš, že jaro přišlo již?</l>
+     <l n="3" met="010101000" rhyme="2" line_length="9">Tak plné snů, tak zádumčivé,</l>
+     <l n="4" met="01010" rhyme="2" line_length="5">jak tehda – dříve!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" rhyme="3" line_length="8">Co na tvém růvku fialek!</l>
+     <l n="6" met="00010101" rhyme="3" line_length="8">Však čím je tobě jara vděk,</l>
+     <l n="7" met="100001010" rhyme="4" line_length="9">zdaž tam – kde as, kdo říci může –</l>
+     <l n="8" met="01010" rhyme="4" line_length="5">též zkvetly růže?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010101" rhyme="5" line_length="8">Neřekne nikdo – věčný taj –</l>
+     <l n="10" met="10010101" rhyme="5" line_length="8">a přec zde zpívá, jásá máj,</l>
+     <l n="11" met="010101010" rhyme="6" line_length="9">tam dole jenom tiše, tiše</l>
+     <l n="12" met="01010" rhyme="6" line_length="5">tvé srdce dýše..</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

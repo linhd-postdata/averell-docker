@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>hodiny</title>
+    <author>Neumann, Stanislav Kostka</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neumann, Stanislav Kostka_hodiny</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>hodiny</title>
+     <author>Neumann, Stanislav Kostka</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>hodiny</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" rhyme="1" line_length="8">ty naše lidské hodiny</l>
+     <l n="2" met="0100110" rhyme="2" line_length="7">jsou krátké tak, ach krátké,</l>
+     <l n="3" met="01000100" rhyme="1" line_length="8">a daleko jsou krajiny</l>
+     <l n="4" met="1000010" rhyme="2" line_length="7">zaslíbené a sladké.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000100" rhyme="3" line_length="8">jsme jedni dál a druzí blíž,</l>
+     <l n="6" met="1001010" rhyme="4" line_length="7">šťastní už u svých pluhů.</l>
+     <l n="7" met="01010101" rhyme="3" line_length="8">my v dálce jako silnou číš</l>
+     <l n="8" met="1001010" rhyme="4" line_length="7">svíráme úspěch druhů.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000100" rhyme="5" line_length="8">a hodiny jsou krátké tam,</l>
+     <l n="10" met="0100010" rhyme="6" line_length="7">že budují své štěstí,</l>
+     <l n="11" met="01000100" rhyme="5" line_length="8">a hodiny jsou krátké nám,</l>
+     <l n="12" met="0100010" rhyme="6" line_length="7">že ujídáme scestí.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="00010001" rhyme="7" line_length="8">když však se rozechvějí dny,</l>
+     <l n="14" met="0101010" rhyme="8" line_length="7">a další o vlast hrají,</l>
+     <l n="15" met="01010100" rhyme="7" line_length="8">ty naše krátké hodiny</l>
+     <l n="16" met="0101000" rhyme="8" line_length="7">jak hlemýžď uplývají.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

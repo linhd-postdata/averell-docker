@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Roste nevadnoucí</title>
+    <author>Furch, Vincenc</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Furch, Vincenc_roste-nevadnouci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Roste nevadnoucí</title>
+     <author>Furch, Vincenc</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Roste nevadnoucí</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101000" rhyme="1" line_length="6">Roste nevadnoucí </l>
+     <l n="2" met="100100" rhyme="2" line_length="6">V srdci mém pomněnka,</l>
+     <l n="3" met="100100" rhyme="1" line_length="6">Přejasně se skvoucí:</l>
+     <l n="4" met="101100" rhyme="2" line_length="6">První má milenka.</l>
+     <l n="5" met="100010" rhyme="3" line_length="6">Ve srdci mém její</l>
+     <l n="6" met="101010" rhyme="4" line_length="6">Žije obraz skvělý –</l>
+     <l n="7" met="100010" rhyme="3" line_length="6">Bez dozvuku znějí</l>
+     <l n="8" met="010010" rhyme="4" line_length="6">Mé toužebné žely.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

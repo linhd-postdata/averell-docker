@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mládež studující</title>
+    <author>Křička, Petr</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Křička, Petr_mladez-studujici</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mládež studující</title>
+     <author>Křička, Petr</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mládež studující</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101000100" rhyme="1" line_length="9">Bílé punčochy a pršiplášť,</l>
+     <l n="2" met="101000101" rhyme="1" line_length="9">v hlavě řezanku a v srdci zášť,</l>
+     <l n="3" met="101000100" rhyme="2" line_length="9">všecky knížky jsme už spálili,</l>
+     <l n="4" met="100010100" rhyme="2" line_length="9">kterými nás židi šálili.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101010000" rhyme="3" line_length="9">A my, mladší komilitoni,</l>
+     <l n="6" met="101000100" rhyme="3" line_length="9">troubit umíme jak tritoni,</l>
+     <l n="7" met="100010100" rhyme="4" line_length="9">mašírovat, nože za pasem,</l>
+     <l n="8" met="101000100" rhyme="4" line_length="9">s řevem, halasem a tartasem.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="001000100" rhyme="5" line_length="9">Sieg! Heil! Studující mládeži!</l>
+     <l n="10" met="101000100" rhyme="5" line_length="9">V mordech vyznáš se i v krádeži,</l>
+     <l n="11" met="100010" line_length="6">holaryja trajdÓ,</l>
+     <l n="12" met="1000100" rhyme="5" line_length="7">budoucnost ti náleží.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nad popelem chotě</title>
+    <author>Jahn, Jiljí Vratislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jahn, Jiljí Vratislav_nad-popelem-chote</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nad popelem chotě</title>
+     <author>Jahn, Jiljí Vratislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nad popelem chotě</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" line_length="6">Nad popelem chotě </l>
+     <l n="2" met="101010" rhyme="1" line_length="6">slzy roní vdova,</l>
+     <l n="3" met="101010" line_length="6">novým žalem těší</l>
+     <l n="4" met="100010" rhyme="1" line_length="6">příšerně ji sova.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101010" line_length="6">Vítr starým krovem,</l>
+     <l n="6" met="001010" rhyme="2" line_length="6">jak by vzdychal, hučí</l>
+     <l n="7" met="010010" line_length="6">a mladistvé zvony</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">umíráčku učí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100010" line_length="6">Soumraku jen plémě</l>
+     <l n="10" met="101010" rhyme="3" line_length="6">lapá vzdechy vdovy,</l>
+     <l n="11" met="101010" line_length="6">zdobí v posměch jimi</l>
+     <l n="12" met="101010" rhyme="3" line_length="6">dávné slávy rovy.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100100" line_length="6">Někdy jen se blesky</l>
+     <l n="14" met="101010" rhyme="4" line_length="6">teskně z mračen loudí,</l>
+     <l n="15" met="100010" line_length="6">orlové však činů</l>
+     <l n="16" met="101010" rhyme="4" line_length="6">posud v dáli bloudí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

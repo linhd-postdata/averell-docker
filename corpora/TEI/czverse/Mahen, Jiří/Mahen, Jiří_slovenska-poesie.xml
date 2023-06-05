@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SLOVENSKÁ POESIE.</title>
+    <author>Mahen, Jiří</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mahen, Jiří_slovenska-poesie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SLOVENSKÁ POESIE.</title>
+     <author>Mahen, Jiří</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SLOVENSKÁ POESIE.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" line_length="8">Rozkvetla by jako růže,</l>
+     <l n="2" met="1010100" rhyme="1" line_length="7">jako mák by rozvila,</l>
+     <l n="3" met="01001000" line_length="8">jen kdyby už šohaje si</l>
+     <l n="4" met="1000100" rhyme="1" line_length="7">sehnala a chytila.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101000" line_length="8">Ale najdi ženicha dnes</l>
+     <l n="6" met="1010100" rhyme="2" line_length="7">v tomhle světě zmotaném!</l>
+     <l n="7" met="10101010" line_length="8">Napsal člověk čtyři básně,</l>
+     <l n="8" met="0100100" rhyme="2" line_length="7">už musí být županem –!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10011010" line_length="8">Ještě že zbyl farář Rázus –</l>
+     <l n="10" met="1000100" rhyme="3" line_length="7">„Chyťte mně ho mladíčka!“</l>
+     <l n="11" met="10101000" line_length="8">Běda, zas je luteránem!</l>
+     <l n="12" met="0010100" rhyme="3" line_length="7">Co by řekly panička?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Letní soumrak.</title>
+    <author>Květ, Bohuslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Květ, Bohuslav_letni-soumrak</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Letní soumrak.</title>
+     <author>Květ, Bohuslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Letní soumrak.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101010" rhyme="1" line_length="11">Zapadlo slunce. První hvězdy září.</l>
+     <l n="2" met="10010101000" rhyme="2" line_length="11">Skřivánčí písně zvolna umlkají...</l>
+     <l n="3" met="10010100010" rhyme="1" line_length="11">V červánků slabě nadechnuté záři</l>
+     <l n="4" met="01010001010" rhyme="2" line_length="11">si s klasy zrajícími vánky hrají...</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00010100010" rhyme="3" line_length="11">Teď je tu vzácná, něhyplná chvíle,</l>
+     <l n="6" met="01010101000" rhyme="4" line_length="11">kdy srdce naše bije důvěřivě,</l>
+     <l n="7" met="01010100010" rhyme="3" line_length="11">kdy po dni boje, obětavé píle</l>
+     <l n="8" met="10010101010" rhyme="4" line_length="11">krůpěje míru duše loká chtivě...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

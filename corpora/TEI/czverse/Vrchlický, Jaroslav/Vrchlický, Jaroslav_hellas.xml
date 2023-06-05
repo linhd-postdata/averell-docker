@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hellas.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_hellas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hellas.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hellas.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100010" rhyme="1" line_length="11">Jak mohu v letu zastavit svou ódu,</l>
+     <l n="2" met="01000100010" rhyme="2" line_length="11">jež neustále v Helladu se vrací,</l>
+     <l n="3" met="11000101010" rhyme="2" line_length="11">v snech Platona se modrým křídlem ztrácí</l>
+     <l n="4" met="01000101000" rhyme="1" line_length="11">a přes rameno hledí Hesiodu?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01001100010" rhyme="1" line_length="11">Jak necítit mír, harmonii, shodu,</l>
+     <l n="6" met="01000101010" rhyme="2" line_length="11">kde myšlenky jsou volny jako ptáci,</l>
+     <l n="7" met="01010101010" rhyme="2" line_length="11">kde láska lásku bez pout ráda splácí,</l>
+     <l n="8" met="01000101000" rhyme="1" line_length="11">kde žije se a bije pro svobodu?!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101000" rhyme="3" line_length="11">Kde národ bohů z ruky Praxitela</l>
+     <l n="10" met="01010011010" rhyme="4" line_length="11">jak prales lilií v šer časů svítil,</l>
+     <l n="11" met="01010001010" rhyme="5" line_length="11">kde tento život byl sám cílem sobě;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="01010101010" rhyme="3" line_length="11">kde v číši, jež se rudým vínem tměla,</l>
+     <l n="13" met="10000101010" rhyme="4" line_length="11">se mladosti zas celý požár vznítil,</l>
+     <l n="14" met="01000001010" rhyme="5" line_length="11">by, Anakreonte, šleh’ v píseň tobě!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

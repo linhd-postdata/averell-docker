@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PARIS</title>
+    <author>Auguste Brizeux</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Auguste Brizeux_paris</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PARIS</title>
+     <author>Auguste Brizeux</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PARIS</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Étonnement de l'âme et des yeux, lorsqu'on entre</l>
+     <l n="2" rhyme="b" line_length="6+6">Dans cette ville active et qu'en vain nous fuyons !</l>
+     <l n="3" rhyme="a" line_length="6+6">Certain orgueil nous prend, on dit : " voici le centre,</l>
+     <l n="4" rhyme="b" line_length="6+6">L'ardent foyer qui lance en tout lieu ses rayons. "</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">On vivait par le cœur, on vit par la pensée ;</l>
+     <l n="6" rhyme="b" line_length="6+6">Mais l'art et la pensée ont aussi leur douceur :</l>
+     <l n="7" rhyme="a" line_length="6+6">Comme un bel arbre, aimons la colonne élancée !</l>
+     <l n="8" rhyme="b" line_length="6+6">L'art vrai n'a-t-il donc pas la nature pour sœur ?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Et même les vieillards, ces mornes créatures,</l>
+     <l n="10" rhyme="b" line_length="6+6">À ce grand mouvement raniment leurs ressorts :</l>
+     <l n="11" rhyme="a" line_length="6+6">Ils vont causant entre eux de lettres, de peintures,</l>
+     <l n="12" rhyme="b" line_length="6+6">Et l'esprit les distrait des souffrances du corps.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

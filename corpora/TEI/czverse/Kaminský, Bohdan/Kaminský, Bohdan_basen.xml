@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Báseň.</title>
+    <author>Kaminský, Bohdan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kaminský, Bohdan_basen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Báseň.</title>
+     <author>Kaminský, Bohdan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Báseň.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101010" rhyme="1" line_length="9">Dal jsem ti báseň plnou pele</l>
+     <l n="2" met="010001010" rhyme="1" line_length="9">tak ze srdce a z duše celé,</l>
+     <l n="3" met="01000101" line_length="8">jak vyrostla z těch jarních snů,</l>
+     <l n="4" met="010001010" rhyme="1" line_length="9">jak pálila mne v mladém čele.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010001010" rhyme="2" line_length="9">A bylo to jak v jaře novém,</l>
+     <l n="6" met="010101010" rhyme="2" line_length="9">když v loňské hnízdo pode krovem</l>
+     <l n="7" met="01010100" line_length="8">se z jihu pták zas vrací k nám</l>
+     <l n="8" met="100101000" rhyme="2" line_length="9">v červánku jitra rubínovém.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101010" rhyme="3" line_length="9">Jak nad tím hnízdem asi stane?</l>
+     <l n="10" met="010001010" rhyme="3" line_length="9">Zda ještě tam to štěstí vzplane?</l>
+     <l n="11" met="01000100" line_length="8">Jak najde je? A najde-li</l>
+     <l n="12" met="010101000" rhyme="3" line_length="9">je za tu zimu rozervané.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kdo lidi učí lásce.</title>
+    <author>Kaminský, Bohdan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kaminský, Bohdan_kdo-lidi-uci-lasce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kdo lidi učí lásce.</title>
+     <author>Kaminský, Bohdan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kdo lidi učí lásce.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Kdys v jarní noci blouznivé</l>
+     <l n="2" met="1101010" rhyme="1" line_length="7">rty zlíbal bledé krásce.</l>
+     <l n="3" met="11000101" line_length="8">„Ó pověz mi, ty duše má,</l>
+     <l n="4" met="0101010" rhyme="1" line_length="7">kdo lidi učí lásce?“</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">A ona řekla v pohnutí:</l>
+     <l n="6" met="1101010" rhyme="2" line_length="7">„Ó láska, srdcí Eden!</l>
+     <l n="7" met="01000100" line_length="8">Já také dřív jí neznala, –</l>
+     <l n="8" met="0101010" rhyme="2" line_length="7">mne učil kadet jeden.“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

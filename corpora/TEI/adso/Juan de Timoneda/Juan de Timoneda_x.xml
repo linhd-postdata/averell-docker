@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- X - </title>
+    <author>Juan de Timoneda</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan de Timoneda_x</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- X - </title>
+     <author>Juan de Timoneda</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- X - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+---+-">Encierra, oh claro sol de hermosura,</l>
+     <l n="2" met="-+-+-++--+-">tu luz, y deja ver esas estrellas,</l>
+     <l n="3" met="++--++-+-+-">¿no ves que ningún modo deja vellas</l>
+     <l n="4" met="-+---+---+-">el grande resplandor de tu figura?</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+-+-+-">Qué petición la mía, y qué locura,</l>
+     <l n="6" met="---+-+-+-+-">tu claridad extiende en medio de ellas,</l>
+     <l n="7" met="-+---+++-+-">conozcan que ante ti son todas ellas</l>
+     <l n="8" met="--+---+--+-">como es ante lo vio la pintura.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">Si alguno contradice lo que digo,</l>
+     <l n="10" met="-+-+-+---+-">si alguno tiene falso el pensamiento,</l>
+     <l n="11" met="-+---+-+-+-">si alguno de pequeña luz se ciega,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+-+-+-">quien no tiene pasión me sea testigo,</l>
+     <l n="13" met="---+-+---+-">que a tu beldad, valor ,merecimiento</l>
+     <l n="14" met="-+-+-+-+-+-">de cuantas visto he ninguna allega.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

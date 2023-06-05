@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KOLODĚJ</title>
+    <author>Holý, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Holý, Josef_kolodej</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KOLODĚJ</title>
+     <author>Holý, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KOLODĚJ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101010" rhyme="1" line_length="10">Dumavé jsem bloudil mrtvým temnem,</l>
+     <l n="2" met="1010101010" rhyme="1" line_length="10">boží silou tvořil v díle jemném,</l>
+     <l n="3" met="1010001010" rhyme="2" line_length="10">stoje na ostrohu ducha srázném</l>
+     <l n="4" met="1000101010" rhyme="2" line_length="10">rozséval jsem světy pustým prázdnem.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010101010" rhyme="3" line_length="10">Bujel život, kvetly skály rodem,</l>
+     <l n="6" met="1000101010" rhyme="3" line_length="10">v nevědomí plod se spájel s plodem,</l>
+     <l n="7" met="1010001010" rhyme="4" line_length="10">rozkoš náhody, již vůle určí,</l>
+     <l n="8" met="1010001010" rhyme="4" line_length="10">vesmír rozepěl se písní tvůrčí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1000101010" rhyme="5" line_length="10">Požehnaný prachu země matky,</l>
+     <l n="10" met="1000100010" rhyme="5" line_length="10">požehnaný okamžiku krátký,</l>
+     <l n="11" met="1010001010" rhyme="6" line_length="10">z hrobu do života, z klína k rovu.</l>
+     <l n="12" met="1010101010" rhyme="6" line_length="10">Žij a umři, roď se dále znovu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

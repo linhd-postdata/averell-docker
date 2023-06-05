@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pousmání.</title>
+    <author>Brabec, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Brabec, Adolf_pousmani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pousmání.</title>
+     <author>Brabec, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pousmání.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010001010" rhyme="1" line_length="11">Kam osud nesype své květy štěstí</l>
+     <l n="2" met="01010001010" rhyme="2" line_length="11">a křídlem černým kde se náhle sklání,</l>
+     <l n="3" met="10000101010" rhyme="1" line_length="11">ze zármutkem jen bol a světa lesti,</l>
+     <l n="4" met="01010001000" rhyme="2" line_length="11">tu vzpruhou soucitné je pousmání.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11000101010" rhyme="3" line_length="11">Šíp lásky kde se zlatý zakmiť náhle</l>
+     <l n="6" met="01010101010" rhyme="2" line_length="11">a srdce celou silou mžikem raní,</l>
+     <l n="7" met="01010001000" rhyme="3" line_length="11">kde štěstí skrývá se pak neobsáhle,</l>
+     <l n="8" met="01000101000" rhyme="2" line_length="11">vždy rozkoší jest první pousmání.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101010" rhyme="4" line_length="11">Kde Anděl smrti bledé čelo kloní</l>
+     <l n="10" met="01010101010" rhyme="2" line_length="11">a z oka slzy stírá svojí dlaní,</l>
+     <l n="11" met="01000101010" rhyme="4" line_length="11">kde veselo a plno žití vloni</l>
+     <l n="12" met="01010101000" rhyme="2" line_length="11">tu v srdce bodá slední pousmání.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

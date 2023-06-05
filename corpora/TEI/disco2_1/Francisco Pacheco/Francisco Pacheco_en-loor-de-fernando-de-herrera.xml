@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>En loor de Fernando de Herrera</title>
+    <author>Francisco Pacheco</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco Pacheco_en-loor-de-fernando-de-herrera</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>En loor de Fernando de Herrera</title>
+     <author>Francisco Pacheco</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>En loor de Fernando de Herrera</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+-+-+-">Goza, oh nación osada, el don fecundo</l>
+     <l n="2" met="-++--+---+-">que te ofrezco en la forma verdadera</l>
+     <l n="3" met="---+-+-+-+-">que imaginé del culto y gran Herrera,</l>
+     <l n="4" met="-+---++--+-">y el fruto de su ingenio alto y profundo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--++--+-">Ya que amaste al primero, ama al segundo,</l>
+     <l n="6" met="-+-++----+-">pues pudo el uno y otro en su manera,</l>
+     <l n="7" met="-+-+-+---+-">aquel honrar del Tajo la ribera,</l>
+     <l n="8" met="+--+---+-+-">este del Betis, y los dos el mundo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">El dulce y grande canto el espumoso</l>
+     <l n="10" met="-+---+---+-">Océano a naciones diferentes</l>
+     <l n="11" met="+--+-+---+-">lleve, y dilate ufano su pureza,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+---+-">porque tu nombre ilustre y generoso</l>
+     <l n="13" met="++-+-+-+-+-">no envidie ya otras liras más valiente,</l>
+     <l n="14" met="--+--+---+-">ni del látigo o griego la grandeza.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

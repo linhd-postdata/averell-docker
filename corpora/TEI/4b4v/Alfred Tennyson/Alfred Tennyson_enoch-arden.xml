@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Enoch Arden</title>
+    <author>Alfred Tennyson</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred Tennyson_enoch-arden</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>For Better For Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Enoch Arden</title>
+     <author>Alfred Tennyson</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Enoch Arden</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="blank verse">
+     <l n="1" met="++-++--+-+-">Long lines of cliff breaking have left a chasm;</l>
+     <l n="2" met="-+-+--+-+-+">And in the chasm are foam and yellow sands;</l>
+     <l n="3" met="-+++-+-+-+">Beyond red roofs about a narrow wharf</l>
+     <l n="4" met="-+-+-+-+-+-">In cluster; then a mouldered church; and higher</l>
+     <l n="5" met="-+++-+++-+">A long street climbs to one tall-towered mill;</l>
+     <l n="6" met="-+-+--+--++">And high in heaven behind it a gray down</l>
+     <l n="7" met="-+-+-+-+-+">With Danish barrows; and a hazel wood,</l>
+     <l n="8" met="-+-+-+-+-+">By autumn nutters haunted, flourishes</l>
+     <l n="9" met="+--+++---+|+--+-+-+-+">Green in a cuplike hollow of the down.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

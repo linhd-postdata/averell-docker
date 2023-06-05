@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Rybníček je tak tichounký,</title>
+    <author>Dörfl, Gustav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dörfl, Gustav_rybnicek-je-tak-tichounky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Rybníček je tak tichounký,</title>
+     <author>Dörfl, Gustav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Rybníček je tak tichounký,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10000100" line_length="8">Rybníček je tak tichounký, </l>
+     <l n="2" met="01010100" rhyme="1" line_length="8">že tišším bude sotva kdy –</l>
+     <l n="3" met="11010100" line_length="8">pojď v prázdný člunek, po březích</l>
+     <l n="4" met="01010100" rhyme="1" line_length="8">tě budou vítat smaragdy.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">A zlaté slunko před tebou</l>
+     <l n="6" met="01010100" rhyme="2" line_length="8">se bude, drahá, skláněti; –</l>
+     <l n="7" met="01010100" line_length="8">ty váháš vstoupit – myslíš snad,</l>
+     <l n="8" met="00010100" rhyme="2" line_length="8">že nám je vodník v zápětí?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="11010100" line_length="8">Má zlatá, nic se nelekej:</l>
+     <l n="10" met="01010100" rhyme="3" line_length="8">ten číhá jenom na lidi;</l>
+     <l n="11" met="10000100" line_length="8">a je-li nám tu na blízku –</l>
+     <l n="12" met="01000100" rhyme="3" line_length="8">on pro krásu tě nevidí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

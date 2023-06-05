@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Měl bych se srdcem se vlastním</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_mel-bych-se-srdcem-se-vlastnim</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Měl bych se srdcem se vlastním</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Měl bych se srdcem se vlastním</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10100100" line_length="8">Měl bych se srdcem se vlastním </l>
+     <l n="2" met="101010" rhyme="1" line_length="6">o svůj život poprat,</l>
+     <l n="3" met="00101000" line_length="8">vždyť mne k smrti odsoudilo,</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">chystá na mne oprať.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00001010" line_length="8">Že jsem Ti Tvé mládí ukrad,</l>
+     <l n="6" met="100010" rhyme="2" line_length="6">nejkrasší Tvou dobu,</l>
+     <l n="7" met="00101000" line_length="8">že z mé lásky získalas jen,</l>
+     <l n="8" met="001010" rhyme="2" line_length="6">že jsi blíže hrobu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

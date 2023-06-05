@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L'Épouse</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_l-epouse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L'Épouse</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L'Épouse</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Par un soir de Juillet, au Bois,</l>
+     <l n="2" rhyme="b" line_length="8">Sous la douce brise estivale,</l>
+     <l n="3" rhyme="a" line_length="8">L'Épouse trompée, aux abois,</l>
+     <l n="4" rhyme="b" line_length="8">A donc voulu voir sa rivale.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Oui, sa rivale heureuse. Enfin !</l>
+     <l n="6" rhyme="b" line_length="8">La voilà donc, cette merveille.</l>
+     <l n="7" rhyme="a" line_length="8">C'est elle, sur ce cheval fin</l>
+     <l n="8" rhyme="b" line_length="8">Qui porte une rose à l'oreille.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Eh quoi ! c'est ce manche à balai,</l>
+     <l n="10" rhyme="b" line_length="8">Cette poupée aux boucles rousses,</l>
+     <l n="11" rhyme="a" line_length="8">Qu'il emmenait à Viroflay</l>
+     <l n="12" rhyme="b" line_length="8">Sur le velours des vertes mousses ?</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">Et ces hommes, qu'on voit errer</l>
+     <l n="14" rhyme="b" line_length="8">Près de son cheval qui se cabre !</l>
+     <l n="15" rhyme="a" line_length="8">Ils ont vraiment l'air d'admirer</l>
+     <l n="16" rhyme="b" line_length="8">Sa bouche ouverte en coup de sabre !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- XCV - </title>
+    <author>Lope de Vega</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lope de Vega_xcv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- XCV - </title>
+     <author>Lope de Vega</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- XCV - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+++-+---+-">Sosiega un poco, airado temeroso,</l>
+     <l n="2" met="-+---++--+-">humilde vencedor, niño gigante,</l>
+     <l n="3" met="-+---++--+-">cobarde matador, firme inconstante,</l>
+     <l n="4" met="-+-+-+---+-">traidor leal, rendido victorioso.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">Déjame en paz, pacífico furioso,</l>
+     <l n="6" met="-+-+-+---+-">villano hidalgo, tímido arrogante,</l>
+     <l n="7" met="+-+--+---+-">cuerdo loco, filósofo ignorante,</l>
+     <l n="8" met="+-+--+---+-">ciego lince, seguro cauteloso.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+---+-">Ama, si eres Amor, que si procuras</l>
+     <l n="10" met="--+--+---+-">descubrir con sospechas y recelos</l>
+     <l n="11" met="---+-++--+-">en mi adorado sol nieblas oscuras,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">en vano me lastimas con desvelos;</l>
+     <l n="13" met="+----+-+-+-">trate nuestra amistad, verdades puras,</l>
+     <l n="14" met="+-+--+++-+-">no te encubras, Amor, di que eres celos.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

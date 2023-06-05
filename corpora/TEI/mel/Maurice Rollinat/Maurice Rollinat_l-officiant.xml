@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L'Officiant</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_l-officiant</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L'Officiant</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L'Officiant</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Or donc, c'était pendant la messe de minuit :</l>
+     <l n="2" rhyme="b" line_length="6+6">Tout flamboyait, l'autel, la nef et la tribune,</l>
+     <l n="3" rhyme="b" line_length="6−6">Celle-ci, par tous les soulards de la commune,</l>
+     <l n="4" rhyme="a" line_length="6+6">Devenue un enfer de désordre et de bruit.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">Soudain, se retournant, d'un geste exaspéré</l>
+     <l n="6" rhyme="d" line_length="6+6">Soulevant à demi sa chasuble de fête,</l>
+     <l n="7" rhyme="d" line_length="6+6">Montant ses regards durs sur cette foule bête,</l>
+     <l n="8" rhyme="c" line_length="6+6">Tonitruesquement rugit le grand curé :</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="6+6">« Vous me connaissez bien, là-bas, les bons apôtres ?</l>
+     <l n="10" rhyme="f" line_length="6+6">Vous savez que je peux en prendre un parmi vous,</l>
+     <l n="11" rhyme="e" line_length="6+6">M'en servir de marteau pour cogner sur les autres !</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="6+6">Voulez-vous que j'y aille ! Assez de turbulence !</l>
+     <l n="13" rhyme="f" line_length="6+6">Hein !… hein !… Vous vous taisez, aussi lâches que fous ! »</l>
+     <l n="14" rhyme="g" line_length="6+6">— Et la messe reprit dans un profond silence.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

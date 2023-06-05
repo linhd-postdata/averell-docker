@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Al céfiro</title>
+    <author>Gustavo Adolfo Bécquer</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Gustavo Adolfo Bécquer_al-cefiro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Al céfiro</title>
+     <author>Gustavo Adolfo Bécquer</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Al céfiro</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">Céfiro dulce, que vagando alado</l>
+     <l n="2" met="---+---+-+-">entre las frescas, purpurinas flores,</l>
+     <l n="3" met="-+-+-+---+-">con blando beso robas sus olores,</l>
+     <l n="4" met="---++--+-+-">para extenderlos por el verde prado,</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">las quejas de mi afán y mi cuidado</l>
+     <l n="6" met="+----++--+-">lleva a la que, al mirar, mata de amores,</l>
+     <l n="7" met="-+++-+---+-">y dile que un alivio a mis dolores</l>
+     <l n="8" met="+-+-+----+-">de, y un consuelo al ánimo angustiado.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--++-+--++-">Pero no vayas, no; que si la vieras</l>
+     <l n="10" met="--+--+---+-">y, tomando sus labios por claveles,</l>
+     <l n="11" met="--+--++--+-">el aroma gustar de ellas quisieras,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+--++-">cual con las otras flores hacer sueles,</l>
+     <l n="13" met="---+-+---+-">aunque a mi mal el término pusieras,</l>
+     <l n="14" met="-+----++-+-">tendría de tu acción celos crueles.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

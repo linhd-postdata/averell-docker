@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JEDEN KVĚT.</title>
+    <author>Kvapil, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kvapil, František_jeden-kvet</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JEDEN KVĚT.</title>
+     <author>Kvapil, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JEDEN KVĚT.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010100" rhyme="1" line_length="10">Dnes květů hrst a zítra trní snad,</l>
+     <l n="2" met="01010101010" rhyme="2" line_length="11">dnes radost, zítra strast a palná muka,</l>
+     <l n="3" met="0100110101" rhyme="1" line_length="10">to život jest, chtěj nechtěj musíš brát,</l>
+     <l n="4" met="01000101010" rhyme="2" line_length="11">a neptá se tě, kdy tvé srdce puká.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001000100" rhyme="3" line_length="10">Čas dál se valí vždy, zpět neshlíží,</l>
+     <l n="6" met="01000101000" rhyme="4" line_length="11">kdo opozdil se, hyne bez paměti –</l>
+     <l n="7" met="0100010100" rhyme="3" line_length="10">ty netaž se, kdo v cíl se přiblíží,</l>
+     <l n="8" met="10110100010" rhyme="4" line_length="11">a vždy plod trhej na nejbližší sněti.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0100010100" rhyme="5" line_length="10">Jsme třtina jen, jí vichr nezmýlí,</l>
+     <l n="10" met="11000101010" rhyme="6" line_length="11">ví, k příboji že klid se opět druží –</l>
+     <l n="11" met="0101010100" rhyme="5" line_length="10">ten šťasten, komu osud na chvíli</l>
+     <l n="12" met="11010101010" rhyme="6" line_length="11">vrh v cestu jeden úsměv, jednu růži!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

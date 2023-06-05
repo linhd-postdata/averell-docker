@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>FANTOM</title>
+    <author>Bíbl, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Bíbl, František_fantom</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>FANTOM</title>
+     <author>Bíbl, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>FANTOM</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101011101000" rhyme="1" line_length="13">Již opál puklých váz v síň prázdnou, zadumanou</l>
+     <l n="2" met="010101010100" rhyme="2" line_length="12">svou roní matnou zář a chladně sinavou</l>
+     <l n="3" met="1101001101000" rhyme="1" line_length="13">lun vpitých, pohanských, sto věků nastřádanou,</l>
+     <l n="4" met="010100010100" rhyme="2" line_length="12">když s teras nad balty se bělal dálavou.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001000101010" rhyme="3" line_length="13">Na kalném čalounu, kde hnědne purpur ztuchlý,</l>
+     <l n="6" met="010100010100" rhyme="4" line_length="12">vlá obraz vyhaslý, jak stín když umírá,</l>
+     <l n="7" met="0101001100010" rhyme="3" line_length="13">jen z laně zmizelé zrak nevýslovně truchlý,</l>
+     <l n="8" met="110100010100" rhyme="4" line_length="12">tmou skonu prohlouben, se v šero upírá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101000101010" rhyme="5" line_length="13">A fantom kouzelný tu v loži fial spává,</l>
+     <l n="10" met="010100010001" rhyme="6" line_length="12">je mhavě průsvitný jak na křišťálu vzdech,</l>
+     <l n="11" met="1001000101010" rhyme="5" line_length="13">na ňadrech přeludných mu chřadne růže tmavá,</l>
+     <l n="12" met="100100010100" rhyme="6" line_length="12">blouznivá v nehybných a dusných parfumech.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

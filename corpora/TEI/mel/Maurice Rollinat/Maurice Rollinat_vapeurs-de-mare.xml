@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vapeurs de mare</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_vapeurs-de-mare</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vapeurs de mare</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vapeurs de mare</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Le soir, la solitude et la neige s'entendent</l>
+     <l n="2" rhyme="b" line_length="6+6">Pour faire un paysage affreux de cet endroit</l>
+     <l n="3" rhyme="b" line_length="6+6">Blêmissant au milieu dans un demi-jour froid</l>
+     <l n="4" rhyme="a" line_length="6+6">Tandis que ses lointains d'obscurité se tendent.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Çà et là, des étangs dont les glaces se fendent</l>
+     <l n="6" rhyme="b" line_length="6+6">Avec un mauvais bruit qui suscite l'effroi ;</l>
+     <l n="7" rhyme="b" line_length="6+6">Là-bas, dans une terre où le vague s'accroît,</l>
+     <l n="8" rhyme="a" line_length="6+6">Des corbeaux qui s'en vont et d'autres qui s'attendent.</l>
+    </lg>
+    <lg n="3" />
+    <lg n="4" />
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Košiláček.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">7</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_kosilacek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Košiláček.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Košiláček.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001000" rhyme="1" line_length="8">Košiláček umouněný,</l>
+     <l n="2" met="10001000" rhyme="1" line_length="8">nemytý a nemodlený.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="10001000" rhyme="2" line_length="8">Nečesá se, neustrojí,</l>
+     <l n="4" met="10001010" rhyme="2" line_length="8">vody se jak ohně bojí.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="10101010" rhyme="3" line_length="8">Jenom křičí, jen se pere,</l>
+     <l n="6" met="10001010" rhyme="3" line_length="8">jako když ho na nůž bere.</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="10001000" rhyme="4" line_length="8">Košiláček umouraný,</l>
+     <l n="8" met="00101010" rhyme="4" line_length="8">– však ho jednou chytnou vrány!</l>
+    </lg>
+    <lg n="5">
+     <l n="9" met="10011000" rhyme="5" line_length="8">Budou ho mít za havráně,</l>
+     <l n="10" met="10001010" rhyme="5" line_length="8">poletí s ním do své stráně.</l>
+    </lg>
+    <lg n="6">
+     <l n="11" met="10001000" rhyme="6" line_length="8">Upustí ho do rybníka,</l>
+     <l n="12" met="00101010" rhyme="6" line_length="8">tam ať sobě vodě zvyká!</l>
+    </lg>
+    <lg n="7">
+     <l n="13" met="10001010" rhyme="7" line_length="8">Vezme-li ho velká voda,</l>
+     <l n="14" met="10001010" rhyme="7" line_length="8">nebude ho taky škoda!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

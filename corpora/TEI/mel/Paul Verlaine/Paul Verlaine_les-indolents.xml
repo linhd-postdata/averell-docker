@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les Indolents</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_les-indolents</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Les Indolents</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Les Indolents</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Bah ! malgré les destins jaloux,</l>
+     <l n="2" rhyme="a" line_length="8">Mourons ensemble, voulez-vous ?</l>
+     <l n="3" rhyme="b" line_length="8">— La proposition est rare.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="c" line_length="8">— Le rare est le bon. Donc mourons</l>
+     <l n="5" rhyme="c" line_length="8">Comme dans les Décamérons.</l>
+     <l n="6" rhyme="b" line_length="8">— Hi ! hi ! hi ! quel amant bizarre !</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="a" line_length="8">— Bizarre, je ne sais. Amant</l>
+     <l n="8" rhyme="a" line_length="8">Irréprochable, assurément.</l>
+     <l n="9" rhyme="b" line_length="8">Si vous voulez, mourons ensemble ?</l>
+    </lg>
+    <lg n="4">
+     <l n="10" rhyme="c" line_length="8">— Monsieur, vous raillez mieux encor</l>
+     <l n="11" rhyme="c" line_length="8">Que vous n’aimez, et parlez d’or ;</l>
+     <l n="12" rhyme="b" line_length="8">Mais taisons-nous, si bon vous semble ?</l>
+    </lg>
+    <lg n="5">
+     <l n="13" rhyme="a" line_length="8">Si bien que ce soir-là Tircis</l>
+     <l n="14" rhyme="a" line_length="8">Et Dorimène, à deux assis</l>
+     <l n="15" rhyme="b" line_length="8">Non loin de deux silvains hilares,</l>
+    </lg>
+    <lg n="6">
+     <l n="16" rhyme="c" line_length="8">Eurent l’inexpiable tort</l>
+     <l n="17" rhyme="c" line_length="8">D’ajourner une exquise mort.</l>
+     <l n="18" rhyme="b" line_length="8">Hi ! hi ! hi ! les amants bizarres !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

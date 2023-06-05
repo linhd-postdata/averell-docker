@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Píseň.</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Píseň.</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Píseň.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" rhyme="1" line_length="6">V Tobě jsem položil</l>
+     <l n="2" met="11010" rhyme="2" line_length="5">vrch žití smělý,</l>
+     <l n="3" met="100100" rhyme="1" line_length="6">všecko ti podnožil,</l>
+     <l n="4" met="01000" rhyme="2" line_length="5">můj Spasiteli!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100" rhyme="3" line_length="6">K tobě se otáčí</l>
+     <l n="6" met="01010" rhyme="4" line_length="5">mé všecko snění,</l>
+     <l n="7" met="100100" rhyme="3" line_length="6">rozkoš mi nestačí,</l>
+     <l n="8" met="01010" rhyme="4" line_length="5">když z tebe není.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100101" rhyme="5" line_length="6">Sluncem tys mého dne,</l>
+     <l n="10" met="01000" rhyme="6" line_length="5">jež nezachází;</l>
+     <l n="11" met="010100" rhyme="5" line_length="6">smrť moje polodne,</l>
+     <l n="12" met="11010" rhyme="6" line_length="5">noc po něm schází.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100100" rhyme="7" line_length="6">Zemdlený setbou svou</l>
+     <l n="14" met="11010" rhyme="8" line_length="5">sním v potu tváři,</l>
+     <l n="15" met="100100" rhyme="7" line_length="6">skloníš se nade mnou</l>
+     <l n="16" met="01000" rhyme="8" line_length="5">sám v svatozáři:</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="100101" rhyme="9" line_length="6">„Pro mzdu svou, Věrný, pojď,</l>
+     <l n="18" met="11010" rhyme="10" line_length="5">ráj čeká tebe!“</l>
+     <l n="19" met="000100" rhyme="9" line_length="6">Kde tys, mě doprovoď,</l>
+     <l n="20" met="00010" rhyme="10" line_length="5">tam mé je nebe!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

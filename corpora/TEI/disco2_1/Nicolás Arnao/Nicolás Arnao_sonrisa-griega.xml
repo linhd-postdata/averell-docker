@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sonrisa griega</title>
+    <author>Nicolás Arnao</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nicolás Arnao_sonrisa-griega</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sonrisa griega</title>
+     <author>Nicolás Arnao</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sonrisa griega</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+-+-+-">Si es mi estilo cansado o ya rumioso,</l>
+     <l n="2" met="+-+---+--+-">es mío solo porque a nadie imito,</l>
+     <l n="3" met="---+-+-+-+-">y a la verdad, señores, no permito</l>
+     <l n="4" met="-+-+---+-+-">que me titulen versador famoso.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-++--+-">Si lo hago mal, pues, nada es asombroso,</l>
+     <l n="6" met="-++---+--+-">y peor fuera que a tijera adscrito,</l>
+     <l n="7" met="--++-+-+-+-">presentara un poema muy bonito</l>
+     <l n="8" met="-+-+-+---+-">y me dijeran: ¡anda, mentiroso!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++---++--+-">No vayas a esconderte en el Parnaso</l>
+     <l n="10" met="-+-+-+---+-">buscando sombra de árbol corpulento,</l>
+     <l n="11" met="--++-+-+-+-">porque mil y uno más, verás al paso,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+++-+-">que saben más que tú tan viejo cuento.</l>
+     <l n="13" met="-+-+---+-+-">Y te dirán con su sonrisa griega:</l>
+     <l n="14" met="+--+-+-+++-">«¡Anda bobón, tu lira ya no pega!»</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

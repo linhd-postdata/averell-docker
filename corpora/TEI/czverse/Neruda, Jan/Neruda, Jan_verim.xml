@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VĚŘÍM!</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_verim</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VĚŘÍM!</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VĚŘÍM!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100010" rhyme="1" line_length="11">Ba věřím plně v stěhování duší</l>
+     <l n="2" met="01010001010" rhyme="1" line_length="11">a každý, dřív čím byl, že dobře tuší.</l>
+     <l n="3" met="0100010100" rhyme="2" line_length="10">Jen ptejte se nás českých básníků:</l>
+     <l n="4" met="01010101000" rhyme="3" line_length="11">já vsázím hlavu, že se podivíte,</l>
+     <l n="5" met="01000100010" rhyme="3" line_length="11">ba ustrnete, bezpečně až zvíte,</l>
+     <l n="6" met="0100010100" rhyme="2" line_length="10">co bývávalo v světě slavíků!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

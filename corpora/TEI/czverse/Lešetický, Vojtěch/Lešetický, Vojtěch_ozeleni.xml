@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Oželení.</title>
+    <author>Lešetický, Vojtěch</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lešetický, Vojtěch_ozeleni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Oželení.</title>
+     <author>Lešetický, Vojtěch</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Oželení.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010" rhyme="1" line_length="5">Pro jedno kvítí</l>
+     <l n="2" met="10100" rhyme="1" line_length="5">Slunce nesvítí:</l>
+     <l n="3" met="10010" line_length="5">Měla jsem hocha,</l>
+     <l n="4" met="0000" rhyme="2" line_length="4">Už je ten tam –</l>
+     <l n="5" met="0000" rhyme="2" line_length="4">Ať je ten tam!</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="10010" rhyme="3" line_length="5">Život je krátký,</l>
+     <l n="7" met="10010" rhyme="3" line_length="5">Lichý a vrátký,</l>
+     <l n="8" met="00010" line_length="5">Nač je mi smutek?</l>
+     <l n="9" met="0000" rhyme="2" line_length="4">Už je ten tam –</l>
+     <l n="10" met="0000" rhyme="2" line_length="4">Ať je ten tam!</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="10010" rhyme="4" line_length="5">Ve světě dosti</l>
+     <l n="12" met="10010" rhyme="4" line_length="5">Pelyňku rosti</l>
+     <l n="13" met="10010" line_length="5">Zříti mi bylo:</l>
+     <l n="14" met="0000" rhyme="2" line_length="4">Už je ten tam –</l>
+     <l n="15" met="0000" rhyme="2" line_length="4">Ať je ten tam!</l>
+    </lg>
+    <lg n="4">
+     <l n="16" met="10010" rhyme="5" line_length="5">Nežli ho síti,</l>
+     <l n="17" met="10010" rhyme="5" line_length="5">Raději plíti</l>
+     <l n="18" met="10110" line_length="5">Z duše chci svojí:</l>
+     <l n="19" met="0000" rhyme="2" line_length="4">Už je ten tam –</l>
+     <l n="20" met="0000" rhyme="2" line_length="4">Ať je ten tam!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

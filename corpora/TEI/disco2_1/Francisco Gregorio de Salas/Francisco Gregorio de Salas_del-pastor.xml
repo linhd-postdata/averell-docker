@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Del pastor</title>
+    <author>Francisco Gregorio de Salas</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco Gregorio de Salas_del-pastor</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Del pastor</title>
+     <author>Francisco Gregorio de Salas</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Del pastor</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---+-">Suele el pastor que duerme prevenido</l>
+     <l n="2" met="--+--+--++-">despertar al ladrido de algún perro,</l>
+     <l n="3" met="-+-+-+--++-">que sigue el fiero lobo por un cerro,</l>
+     <l n="4" met="--+--+---+-">animoso, tenaz y embravecido.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">Reconoce el ganado en el sonido</l>
+     <l n="6" met="---+-+---+-">del destemplado y rústico cencerro,</l>
+     <l n="7" met="--+--+-+-+-">y en la limpia satén de tosco hierro</l>
+     <l n="8" met="-+---+---+-">prepara el desayuno apetecido.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">Ordeña en tarros la abundante leche</l>
+     <l n="10" met="+--+-+---+-">forma después el queso delicioso,</l>
+     <l n="11" met="+--+-+---+-">abre la red y suelta su ganado;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+++--++-">y como allí no hay nadie que le aceche,</l>
+     <l n="13" met="+-+--+---+-">templa el tosco rabel, y con reposo</l>
+     <l n="14" met="+--+-+---+-">canta su amor alegre y sosegado.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

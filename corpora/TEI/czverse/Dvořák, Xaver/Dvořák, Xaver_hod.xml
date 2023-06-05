@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>HOD</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_hod</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>HOD</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>HOD</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101000" rhyme="1" line_length="9">Tu oběť nech tu na oltáři,</l>
+     <l n="2" met="110010" rhyme="2" line_length="6">jdi, smiř se dřív, ó spěš!</l>
+     <l n="3" met="100101010" rhyme="1" line_length="9">Nenávist, jež se v tobě sváří,</l>
+     <l n="4" met="01010100" rhyme="2" line_length="8">je propast, přes ni nemůžeš!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010011010" rhyme="3" line_length="9">A nemůže Bůh ani k tobě;</l>
+     <l n="6" met="010101" rhyme="4" line_length="6">tvé nitro, to je hrob,</l>
+     <l n="7" met="010101010" rhyme="3" line_length="9">jak můžeš zváti Boha k sobě?</l>
+     <l n="8" met="01000100" rhyme="4" line_length="8">dřív očisti se od hnilob!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101010" rhyme="5" line_length="9">Je láska život, krása, vůně,</l>
+     <l n="10" met="010001" rhyme="6" line_length="6">je liliový stan;</l>
+     <l n="11" met="010101010" rhyme="5" line_length="9">jen v jejích loktech, v jejím lůně</l>
+     <l n="12" met="01000101" rhyme="6" line_length="8">můž’ spočinouti sladce Pán.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="010001000" rhyme="7" line_length="9">Jak v Marii kdys odpočíval</l>
+     <l n="14" met="010101" rhyme="8" line_length="6">tvůj Ježíš, Slovo, Bůh,</l>
+     <l n="15" met="010001010" rhyme="7" line_length="9">ať obmyje tě lásky příval;</l>
+     <l n="16" met="11000101" rhyme="8" line_length="8">jdi, pokoř se a splať svůj dluh!</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="010101000" rhyme="9" line_length="9">Svou oběť nech tu na oltáři,</l>
+     <l n="18" met="110100" rhyme="10" line_length="6">Bůh čeká tobě vhod;</l>
+     <l n="19" met="110101010" rhyme="9" line_length="9">jdi, vrať se, v duši slast i v tváři:</l>
+     <l n="20" met="11010101" rhyme="10" line_length="8">Pán čeká, s tebou slavit hod!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ne podle dneška!</title>
+    <author>Červinka, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červinka, Karel_ne-podle-dneska</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ne podle dneška!</title>
+     <author>Červinka, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ne podle dneška!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000111" rhyme="1" line_length="7">Člověka vždy vést má chvat,</l>
+     <l n="2" met="0010101" rhyme="1" line_length="7">by byl dobra, pravdy sklad.</l>
+     <l n="3" met="0010101" rhyme="2" line_length="7">Kéž by nemoh’ býti dán</l>
+     <l n="4" met="1000100" rhyme="2" line_length="7">lístek naň, že „vyprodán“!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

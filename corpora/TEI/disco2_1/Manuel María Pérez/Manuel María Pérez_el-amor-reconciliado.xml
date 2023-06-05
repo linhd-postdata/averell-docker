@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El amor reconciliado</title>
+    <author>Manuel María Pérez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel María Pérez_el-amor-reconciliado</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El amor reconciliado</title>
+     <author>Manuel María Pérez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El amor reconciliado</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+-+-+-">Por algún accidente no pensado</l>
+     <l n="2" met="+--+++---+-">suele quebrarse un vaso cristalino;</l>
+     <l n="3" met="+-+--+--++-">trátase de soldar con barniz fino</l>
+     <l n="4" met="-+-+-+++-+-">y lógrase por fin verle pegado;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+---+-">pero por más que apure su cuidado</l>
+     <l n="6" met="--+-++---+-">el ingenio más raro y peregrino,</l>
+     <l n="7" met="-++--++--+-">dejarlo sin señal es desatino,</l>
+     <l n="8" met="+-+--+---+-">siempre quedan señales de quebrado.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-++--+-+-+-">Así es una amistad que mucho dura:</l>
+     <l n="10" met="+-+--+-+-+-">Quiébrase la amistad que hermosa fuera,</l>
+     <l n="11" met="+-++---+-+-">suéldala el tiempo con su gran cordura;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++---+-+-+-">cierto es que la amistad se mira entera,</l>
+     <l n="13" met="-----+---+-">pero con la señal de quebradura</l>
+     <l n="14" met="+-+--+-+-+-">nunca puede quedar como antes fuera.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

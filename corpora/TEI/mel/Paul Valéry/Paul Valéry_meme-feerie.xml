@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Même Féerie</title>
+    <author>Paul Valéry</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Valéry_meme-feerie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Même Féerie</title>
+     <author>Paul Valéry</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Même Féerie</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">La lune mince verse une lueur sacrée,</l>
+     <l n="2" rhyme="b" line_length="6+6">Comme une jupe d’un tissu d’argent léger,</l>
+     <l n="3" rhyme="b" line_length="6+6">Sur les masses de marbre où marche et croit songer</l>
+     <l n="4" rhyme="a" line_length="6+6">Quelque vierge de perle et de gaze nacrée.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">Pour les cygnes soyeux qui frôlent les roseaux</l>
+     <l n="6" rhyme="d" line_length="6+6">De carènes de plume à demi lumineuse,</l>
+     <l n="7" rhyme="d" line_length="6+6">Sa main cueille et dispense une rose neigeuse</l>
+     <l n="8" rhyme="c" line_length="6+6">Dont les pétales font des cercles sur les eaux.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="6+6">Délicieux désert, solitude pâmée,</l>
+     <l n="10" rhyme="e" line_length="6+6">Quand le remous de l’eau par la lune lamée</l>
+     <l n="11" rhyme="f" line_length="6+6">Compte éternellement ses échos de cristal,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="6+6">Quel cœur pourrait souffrir l’inexorable charme</l>
+     <l n="13" rhyme="f" line_length="6+6">De la nuit éclatante au firmament fatal,</l>
+     <l n="14" rhyme="g" line_length="6+6">Sans tirer de soi-même un cri pur comme une arme ?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

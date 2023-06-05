@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LVII</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_lvii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LVII</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LVII</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Oh ! pour le reste de ta vie,</l>
+     <l n="2" rhyme="a" line_length="8">Qu'on nous plaigne ou qu'on nous envie,</l>
+     <l n="3" rhyme="b" line_length="8">Tant que nos cœurs se comprendront,</l>
+     <l n="4" rhyme="c" line_length="8">Puisse une sereine pensée,</l>
+     <l n="5" rhyme="c" line_length="8">A ton chevet toujours fixée,</l>
+     <l n="6" rhyme="b" line_length="8">Poser ses ailes sur ton front !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Lavelína.</title>
+    <author>Langer, Josef Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Langer, Josef Jaroslav_lavelina</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Lavelína.</title>
+     <author>Langer, Josef Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Lavelína.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100010" line_length="11">Po břehu květném samoten kdy kráčím,</l>
+     <l n="2" met="01001000100" line_length="11">Kdež zahustlých ve křovinách slavíčkův</l>
+     <l n="3" met="10100101001" line_length="11">Zpěv se rozléhá: tu se slouchati zdám</l>
+     <l n="4" met="01000" line_length="5">Jen: Lavelína!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10100100100" line_length="11">Z lůna temnosti zelených lesíčků</l>
+     <l n="6" met="10010100100" line_length="11">Příjemné vání těkavých větérků</l>
+     <l n="7" met="10010100100" line_length="11">V údolí jméno blažené zanáší</l>
+     <l n="8" met="01000" line_length="5">Tvé, Lavelíno!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="11010100100" line_length="11">Sbor mraků strašných v oblacích vlní se,</l>
+     <l n="10" met="10010010100" line_length="11">Mrákotné hrůzy se lejí z nebeska,</l>
+     <l n="11" met="10010101010" line_length="11">Ohnivým bleskem ryje hrom tu jméno</l>
+     <l n="12" met="01000" line_length="5">Tvé, Lavelíno!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

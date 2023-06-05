@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>O vy oči...</title>
+    <author>Lošťák, Ludvík</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lošťák, Ludvík_o-vy-oci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>O vy oči...</title>
+     <author>Lošťák, Ludvík</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>O vy oči...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">O vy oči, dívčí oči,</l>
+     <l n="2" met="01001010" rhyme="1" line_length="8">jak umíte srdcem hnouti,</l>
+     <l n="3" met="01001010" line_length="8">jak umíte v duši vniknout,</l>
+     <l n="4" met="00101010" rhyme="1" line_length="8">jak tím ňadrem znáte dmouti!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" line_length="8">O vy oči, dívčí oči,</l>
+     <l n="6" met="01001010" rhyme="2" line_length="8">jak umíte ze snů budit,</l>
+     <l n="7" met="01001010" line_length="8">jak umíte život ztrpčit,</l>
+     <l n="8" met="10101010" rhyme="2" line_length="8">a jak mysl znáte trudit!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" line_length="8">O vy oči, dívčí oči,</l>
+     <l n="10" met="00101000" rhyme="3" line_length="8">co jste žalu naplodily,</l>
+     <l n="11" met="10100100" line_length="8">ale nebýt vás, tu by se</l>
+     <l n="12" met="10101000" rhyme="3" line_length="8">sny a písně nerodily!...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

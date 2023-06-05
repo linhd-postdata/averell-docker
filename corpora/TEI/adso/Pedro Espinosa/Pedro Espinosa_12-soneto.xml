@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- 12 - Soneto </title>
+    <author>Pedro Espinosa</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pedro Espinosa_12-soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- 12 - Soneto </title>
+     <author>Pedro Espinosa</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- 12 - Soneto </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+---+-">El sol a noble furia se provoca</l>
+     <l n="2" met="---+-+---+-">cuando sin luz lo dejas descontento,</l>
+     <l n="3" met="---+-+---+-">y por gozarte, enfrena el movimiento</l>
+     <l n="4" met="-+---+---+-">el aura, que de gloria se retoca.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">Tus bellos ojos y tu dulce boca,</l>
+     <l n="6" met="-+-+---+-+-">de luz divina y oloroso aliento,</l>
+     <l n="7" met="-+-+-+-+-+-">envidia el claro sol y adora el viento,</l>
+     <l n="8" met="---+-+-+-+-">por lo que el uno ve y el otro toca.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+-+-">Ojos y boca, que tenéis costumbre</l>
+     <l n="10" met="-+-+-+-+-+-">de darme vida, honraos con más despojos;</l>
+     <l n="11" met="-+-+---+-+-">mi ardiente amor vuestra piedad invoca.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+---+-">Fáltame aliento y fáltame la lumbre,</l>
+     <l n="13" met="-+---+-+-+-">prestadme vuestra luz, divinos ojos;</l>
+     <l n="14" met="+-+--+-+-+-">beba yo vuestro aliento, dulce boca.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

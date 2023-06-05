@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Au Bord de la Marne</title>
+    <author>François Coppée</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>François Coppée_au-bord-de-la-marne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Au Bord de la Marne</title>
+     <author>François Coppée</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Au Bord de la Marne</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">C'est régate à Joinville. On tire le pétard.</l>
+     <l n="2" rhyme="a" line_length="6+6">Les cinq canots, deux en avant, trois en retard,</l>
+     <l n="3" rhyme="b" line_length="6+6">Partent, et de soleil la rivière est criblée.</l>
+     <l n="4" rhyme="b" line_length="6+6">Sur la berge, là-bas, la foule est assemblée,</l>
+     <l n="5" rhyme="a" line_length="6+6">Et la gendarmerie est en pantalon blanc.</l>
+     <l n="6" rhyme="a" line_length="6+6">— Et l'on prévoit, ce soir, les rameurs s'attablant</l>
+     <l n="7" rhyme="b" line_length="6+6">Au cabaret, les chants des joyeuses équipes,</l>
+     <l n="8" rhyme="b" line_length="6+6">Les nocturnes bosquets constellés par les pipes,</l>
+     <l n="9" rhyme="a" line_length="6+6">Et les papillons noirs qui, dans l'air échauffé,</l>
+     <l n="10" rhyme="a" line_length="6+6">Se brûlent au cognac flambant sur le café.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

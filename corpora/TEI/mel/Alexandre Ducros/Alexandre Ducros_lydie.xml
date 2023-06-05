@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Lydie</title>
+    <author>Alexandre Ducros</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alexandre Ducros_lydie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Lydie</title>
+     <author>Alexandre Ducros</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Lydie</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">J e veux avoir ta douce image</l>
+     <l n="2" rhyme="b" line_length="8">Là, toujours là, devant mes yeux ;</l>
+     <l n="3" rhyme="a" line_length="8">Vers elle s'en ira l'hommage</l>
+     <l n="4" rhyme="b" line_length="8">De mon cœur désormais joyeux.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Et comme on fait pour la madone,</l>
+     <l n="6" rhyme="b" line_length="8">Je l'implorerai chaque jour,</l>
+     <l n="7" rhyme="a" line_length="8">Pour que tu me fasses l'aumône,</l>
+     <l n="8" rhyme="b" line_length="8">D'un peu de chaste et pur amour ;</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Hélas ! je marchais dans la vie,</l>
+     <l n="10" rhyme="b" line_length="8">Aveuglé par ce monde impur !</l>
+     <l n="11" rhyme="a" line_length="8">Toute clarté m'était ravie ;</l>
+     <l n="12" rhyme="b" line_length="8">De ton ciel montre-moi l'azur !</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">Oui, viens me retirer du gouffre</l>
+     <l n="14" rhyme="b" line_length="8">Où ma sagesse un jour sombra ;</l>
+     <l n="15" rhyme="a" line_length="8">S'il faut pour cela que je souffre,</l>
+     <l n="16" rhyme="b" line_length="8">La souffrance m'épurera !</l>
+    </lg>
+    <lg n="5">
+     <l n="17" rhyme="a" line_length="8">Me rappelant, chère Lydie,</l>
+     <l n="18" rhyme="b" line_length="8">Que jadis l'ange Raphaël</l>
+     <l n="19" rhyme="a" line_length="8">Rendit aux yeux morts de Tobie</l>
+     <l n="20" rhyme="b" line_length="8">La vie, avec un peu de fiel.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

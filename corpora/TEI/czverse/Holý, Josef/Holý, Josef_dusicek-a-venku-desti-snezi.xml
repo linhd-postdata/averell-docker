@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dušiček! A venku deští, sněží,</title>
+    <author>Holý, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Holý, Josef_dusicek-a-venku-desti-snezi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dušiček! A venku deští, sněží,</title>
+     <author>Holý, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dušiček! A venku deští, sněží,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101010" rhyme="1" line_length="10">Dušiček! A venku deští, sněží, </l>
+     <l n="2" met="101010101" rhyme="2" line_length="9">hřbitov, hroby jeden svící řad,</l>
+     <l n="3" met="0100101010" rhyme="1" line_length="10">a na každém rově věnec leží.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="001010100" rhyme="2" line_length="9">Zde se teprv učím milovat.</l>
+     <l n="5" met="1010001010" rhyme="3" line_length="10">V kout jsem zabloudil a utrh maně</l>
+     <l n="6" met="1010001010" rhyme="3" line_length="10">lístek zelený, jej přitisk v skráně;</l>
+     <l n="7" met="101010101" rhyme="4" line_length="9">dávný vane z něho, mocný žár.</l>
+    </lg>
+    <lg n="3">
+     <l n="8" met="1010101010" rhyme="5" line_length="10">Ve mně bouří, v srdce cos mi buší,</l>
+     <l n="9" met="101010101" rhyme="4" line_length="9">žití celé chví jím, náhlý zmar! –</l>
+     <l n="10" met="1010101010" rhyme="5" line_length="10">Slyšel lkát jsem z lístku mladou duši.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Évocations</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">11</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_evocations</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Évocations</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Évocations</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Je vis un gros corbeau, déployant son orgueil,</l>
+     <l n="2" rhyme="b" line_length="6+6">Qui jouait de la griffe et claquetait des ailes</l>
+     <l n="3" rhyme="b" line_length="6+6">À terre, avec un bruit de lugubres crécelles.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="a" line_length="6+6">Un peu plus loin, je vis, m'épiant d'un coup d'œil,</l>
+     <l n="5" rhyme="b" line_length="6+6">Une pie occupée à s'aiguiser le bec,</l>
+     <l n="6" rhyme="b" line_length="6+6">Puis, allant et venant, d'un sautillement sec.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="a" line_length="6+6">Enfin, d'une couleur plus pâle que les cierges,</l>
+     <l n="8" rhyme="b" line_length="6+6">Surgit, me sembla-t-il, le prince des hiboux.</l>
+     <l n="9" rhyme="b" line_length="6+6">Et je dis : « Ce deuil-là, le plus triste de tous,</l>
+    </lg>
+    <lg n="4" />
+    <lg n="5">
+     <l n="10" rhyme="a" line_length="8">M'apparut un pinson cherchant sa nourriture :</l>
+     <l n="11" rhyme="b" line_length="6+6">Et, joyeux, je songeai que, bientôt, le printemps</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

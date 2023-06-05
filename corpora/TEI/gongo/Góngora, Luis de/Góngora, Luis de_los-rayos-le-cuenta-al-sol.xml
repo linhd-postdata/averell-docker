@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Los rayos le cuenta al sol</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_los-rayos-le-cuenta-al-sol</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Los rayos le cuenta al sol</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Los rayos le cuenta al sol</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="-+--+-+-" line_length="8">Los rayos le cuenta al sol</l>
+     <l n="2" met="-++---+-" line_length="8">con un peine de marfil</l>
+     <l n="3" met="-+--+++-" line_length="8">la bella Jacinta, un día</l>
+     <l n="4" met="---+--+-" line_length="8">que por mi dicha la vi</l>
+     <l n="5" met="--+-+-" line_length="6">en la verde orilla</l>
+     <l n="6" met="----+-" line_length="6">de Guadalquivir.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

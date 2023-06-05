@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NAPOLEON.</title>
+    <author>Soldan, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Soldan, František_napoleon</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NAPOLEON.</title>
+     <author>Soldan, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NAPOLEON.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010000" rhyme="1" line_length="10">Snad jiní tomu rozuměli líp;</l>
+     <l n="2" met="0000010001" rhyme="1" line_length="10">však byl to přec jen samorostlý vtip,</l>
+     <l n="3" met="01010010010" rhyme="2" line_length="11">když svrhal krále se zděděných trůnů</l>
+     <l n="4" met="10010101000" rhyme="2" line_length="11">a když se rvával s nimi o korunu,</l>
+     <l n="5" met="0101" rhyme="1" line_length="4">až mnohý schlíp –</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="0100010000" rhyme="3" line_length="10">To dívaly se excellence as,</l>
+     <l n="7" met="0100010101" rhyme="3" line_length="10">až pod parukou hrůzou stál jim vlas,</l>
+     <l n="8" met="0001010001010" rhyme="4" line_length="13">když on tak šel – ten parvenue, jak se sluší,</l>
+     <l n="9" met="01000100010" rhyme="4" line_length="11">a zatahal je za přerostlé uši,</l>
+     <l n="10" met="0100" rhyme="3" line_length="4">až cop se třás'...</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="1100010100" rhyme="5" line_length="10">Ach, kdyby víc už nebyl udělal,</l>
+     <l n="12" met="0101010100" rhyme="5" line_length="10">než staré šosy trochu rozkýval...</l>
+     <l n="13" met="00010001010" rhyme="6" line_length="11">Už to je něco co se čítat může! – –</l>
+     <l n="14" met="01010100010" rhyme="6" line_length="11">On dělal dobře velikého muže,</l>
+     <l n="15" met="0100" rhyme="5" line_length="4">ten karneval!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

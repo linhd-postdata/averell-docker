@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Besos del pensamiento</title>
+    <author>Nicolás Arnao</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nicolás Arnao_besos-del-pensamiento</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Besos del pensamiento</title>
+     <author>Nicolás Arnao</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Besos del pensamiento</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+---+-">Valiente lira, dulce compañera,</l>
+     <l n="2" met="++-+-+-+-+-">no me abandones, no, mi cara amiga,</l>
+     <l n="3" met="-+---+--++-">ni dejes si la crítica me hostiga,</l>
+     <l n="4" met="--++-+---+-">estregarte en su garra carnicera.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+-++---+-">Acompáñame siempre prisionera</l>
+     <l n="6" met="--+--+-+-+-">del amor que mi alma te prodiga;</l>
+     <l n="7" met="--+--+-+-+-">y fecunda y festiva te bendiga</l>
+     <l n="8" met="---+-+---+-">mi inspiración en la hora postrimera.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+-+-+-">Riega flores de amor, disipa el llanto,</l>
+     <l n="10" met="-+-+-+---+-">devuelve al pecho triste la alegría,</l>
+     <l n="11" met="--+--+-+-+-">y sonora y feliz, renueva el canto,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+---+-+-">como las aves saludando al día.</l>
+     <l n="13" met="--+--+---+-">Mientras tiernas las notas de tu acento</l>
+     <l n="14" met="+--+-----+-">posen sus besos en mi pensamiento.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

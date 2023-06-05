@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Padajícímu sněhu.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_padajicimu-snehu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Padajícímu sněhu.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Padajícímu sněhu.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100110" rhyme="1" line_length="6">Zahal vše, ó zahal</l>
+     <l n="2" met="10101" rhyme="2" line_length="5">v mlhy, sníh a led!</l>
+     <l n="3" met="001010" rhyme="1" line_length="6">Nač bys déle váhal?</l>
+     <l n="4" met="1000" line_length="4">nezaslouží,</l>
+     <l n="5" met="100010001" rhyme="2" line_length="9">nezaslouží jiného víc svět.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="101010" rhyme="3" line_length="6">K mému srdci lehni,</l>
+     <l n="7" met="1000101" rhyme="4" line_length="7">mihni se, jak rubáš tmou,</l>
+     <l n="8" met="100010" rhyme="3" line_length="6">láskou mou tam nehni,</l>
+     <l n="9" met="1010" line_length="4">pouze zasyp,</l>
+     <l n="10" met="1010100" rhyme="4" line_length="7">pouze zasyp ránu mou!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

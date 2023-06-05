@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>OZNÁMENÍ</title>
+    <author>Havlíček Borovský, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Havlíček Borovský, Karel_oznameni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>OZNÁMENÍ</title>
+     <author>Havlíček Borovský, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>OZNÁMENÍ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" line_length="6">V Evropě se ztratil</l>
+     <l n="2" met="100110101" rhyme="1" line_length="9">před dvěma sty lety – český král,</l>
+     <l n="3" met="100100" line_length="6">žádá se uctivě,</l>
+     <l n="4" met="001010100" rhyme="1" line_length="9">by ho, kdo ho najde, – odevzdal</l>
+     <l n="5" met="1000100010" rhyme="2" line_length="10">v Petěrburku Mikuláši cáru,</l>
+     <l n="6" met="1010101000" rhyme="2" line_length="10">dá mu za to bečku kaviáru.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

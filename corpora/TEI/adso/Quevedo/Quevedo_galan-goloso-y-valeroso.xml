@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Galán goloso y valeroso</title>
+    <author>Quevedo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quevedo_galan-goloso-y-valeroso</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Galán goloso y valeroso</title>
+     <author>Quevedo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Galán goloso y valeroso</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---++--+-">Bajábale su mes cada semana</l>
+     <l n="2" met="-----+---+-">a doña Pelinuda, la ramera,</l>
+     <l n="3" met="++-+-+-+-+-">y esto era en tal exceso y tal manera</l>
+     <l n="4" met="-+---+-+-+-">la sangre que le sale y de ella mana,</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+-+-+-">que no hay a quien le ponga mala gana</l>
+     <l n="6" met="---+-+---+-">considerar su sucia delantera;</l>
+     <l n="7" met="-+---+---+-">(y, bien considerada por de fuera,</l>
+     <l n="8" met="+--+-+-+-+-">tiene la cara hermosa y muy lozana).</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">Mas uno, aficionado de su cara,</l>
+     <l n="10" met="-+---+---+-">la quiso descubrir su pesadumbre</l>
+     <l n="11" met="-+-+-+---+-">cual suele hacer cualquier enamorado,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+++---+-">y ella que tal no puede le declara.</l>
+     <l n="13" met="--++-+---+-">Replicó él: «Si es, señora, la costumbre,</l>
+     <l n="14" met="-+-+-+-+-+-">corriendo en sangre quiero yo el pescado.»</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sokolské žerty.</title>
+    <author>Wunsch, Hugo Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Wunsch, Hugo Václav_sokolske-zerty</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sokolské žerty.</title>
+     <author>Wunsch, Hugo Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sokolské žerty.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10100010" line_length="8">Ráda věděla bych věru,</l>
+     <l n="2" met="00101010" rhyme="1" line_length="8">proč mé srdce tíži cítí,</l>
+     <l n="3" met="01001010" line_length="8">že odešel švarný Sokol,</l>
+     <l n="4" met="00101010" rhyme="1" line_length="8">jejž bych chtěla stále zříti.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" line_length="8">Není divu! Mrštný Sokol,</l>
+     <l n="6" met="10001010" rhyme="2" line_length="8">jakmile jen tebe zočil,</l>
+     <l n="7" met="10101010" line_length="8">podle zvyku smělým skokem</l>
+     <l n="8" met="10001010" rhyme="2" line_length="8">do srdéčka tvého skočil.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001010" line_length="8">Podívej se, jak náš bratr</l>
+     <l n="10" met="10101010" rhyme="3" line_length="8">zase novou láskou hoří,</l>
+     <l n="11" met="00101000" line_length="8">jak svou milku zanedbává</l>
+     <l n="12" met="10101010" rhyme="3" line_length="8">a se jiné dívce koří.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10001010" line_length="8">Nediv se, že na tu onu</l>
+     <l n="14" met="10000100" rhyme="4" line_length="8">dívá on se hned po očku;</l>
+     <l n="15" met="10101010" line_length="8">víš přec, že náš bratr milý</l>
+     <l n="16" met="10001000" rhyme="4" line_length="8">potrpí si na odbočku.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

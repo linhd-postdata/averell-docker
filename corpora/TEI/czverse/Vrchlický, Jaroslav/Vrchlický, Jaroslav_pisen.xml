@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PÍSEŇ.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PÍSEŇ.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PÍSEŇ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" rhyme="1" line_length="8">Sestoupíš-li ještě ke mně,</l>
+     <l n="2" met="00101010" rhyme="1" line_length="8">pak to učiň tiše, jemně,</l>
+     <l n="3" met="10101010" line_length="8">jako Vesna tkne se dechem</l>
+     <l n="4" met="1010" rhyme="1" line_length="4">spící země.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="2" line_length="8">Zvlň mé duše touhy, žely,</l>
+     <l n="6" met="01101010" rhyme="2" line_length="8">jak jde zvolna večer ztmělý</l>
+     <l n="7" met="10001010" line_length="8">přes vadnoucí, mroucí, schnoucí</l>
+     <l n="8" met="1000" rhyme="2" line_length="4">asfodely.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" rhyme="3" line_length="8">Zvlň mé nitro vírem tónů,</l>
+     <l n="10" met="10101010" rhyme="3" line_length="8">z moře hoře, v kterém tonu,</l>
+     <l n="11" met="10011000" line_length="8">vyveď mne v říš tajůplných</l>
+     <l n="12" met="1000" rhyme="3" line_length="4">visionů!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="00101010" rhyme="4" line_length="8">Co pak z toho, až se vrátím,</l>
+     <l n="14" met="10001010" rhyme="4" line_length="8">illusí že mnoho ztratím,</l>
+     <l n="15" met="10101010" line_length="8">aspoň sobě v sladké mdlobě</l>
+     <l n="16" met="1010" rhyme="4" line_length="4">cestu zkrátím.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10001010" rhyme="5" line_length="8">Nad zmrhaným rájem v studu,</l>
+     <l n="18" met="10001010" rhyme="5" line_length="8">nad ztraceným v hořkém trudu</l>
+     <l n="19" met="10001010" line_length="8">naposledy při tvé písni</l>
+     <l n="20" met="1010" rhyme="5" line_length="4">plakat budu!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ztracená.</title>
+    <author>Baše, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Baše, Josef_ztracena</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ztracená.</title>
+     <author>Baše, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ztracená.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" rhyme="1" line_length="8">Umřela dobrá matička</l>
+     <l n="2" met="01010100" rhyme="1" line_length="8">a zbyla dcera chudičká,</l>
+     <l n="3" met="10010100" rhyme="2" line_length="8">páni ji vzali z rozcestí,</l>
+     <l n="4" met="01010100" rhyme="2" line_length="8">a lidé – řekli o štěstí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11010100" rhyme="3" line_length="8">Rov sešel, leta minula,</l>
+     <l n="6" met="10010100" rhyme="3" line_length="8">zpomínka v moře splynula...</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="11010100" rhyme="4" line_length="8">Kněz kráčí ku zdi hřbitova,</l>
+     <l n="8" met="01000100" rhyme="4" line_length="8">dnes neznámá se pochová:</l>
+     <l n="9" met="10010100" rhyme="5" line_length="8">nad hlínou v koutě zapadlou</l>
+     <l n="10" met="01010100" rhyme="5" line_length="8">ji našli – růži uvadlou.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

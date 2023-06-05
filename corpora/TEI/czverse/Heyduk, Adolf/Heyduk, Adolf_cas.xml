@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ČAS</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_cas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ČAS</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ČAS</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010010" rhyme="1" line_length="6">Co vzešlo, co zkvetlo,</l>
+     <l n="2" met="0000" rhyme="2" line_length="4">ať vně, ať v nás,</l>
+     <l n="3" met="010010" rhyme="1" line_length="6">co rvalo, co hnětlo,</l>
+     <l n="4" met="01010" rhyme="1" line_length="5">i stín i světlo,</l>
+     <l n="5" met="0101" rhyme="2" line_length="4">vše smíří čas!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

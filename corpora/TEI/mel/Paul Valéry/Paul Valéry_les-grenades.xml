@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les Grenades</title>
+    <author>Paul Valéry</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Valéry_les-grenades</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Les Grenades</title>
+     <author>Paul Valéry</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Les Grenades</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Dures grenades entr’ouvertes</l>
+     <l n="2" rhyme="b" line_length="8">Cédant à l’excès de vos grains,</l>
+     <l n="3" rhyme="b" line_length="8">Je crois voir des fronts souverains</l>
+     <l n="4" rhyme="a" line_length="8">Éclatés de leurs découvertes !</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="8">Si les soleils par vous subis,</l>
+     <l n="6" rhyme="d" line_length="8">Ô grenades entre-bâillées</l>
+     <l n="7" rhyme="d" line_length="8">Vous ont fait d’orgueil travaillées</l>
+     <l n="8" rhyme="c" line_length="8">Craquer les cloisons de rubis,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="8">Et que si l’or sec de l’écorce</l>
+     <l n="10" rhyme="e" line_length="8">À la demande d’une force</l>
+     <l n="11" rhyme="f" line_length="8">Crève en gemmes rouges de jus,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="8">Cette lumineuse rupture</l>
+     <l n="13" rhyme="f" line_length="8">Fait rêver une âme que j’eus</l>
+     <l n="14" rhyme="g" line_length="8">De sa secrète architecture.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

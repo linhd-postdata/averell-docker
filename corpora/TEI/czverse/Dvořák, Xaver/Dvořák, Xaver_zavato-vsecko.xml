@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Zaváto všecko!</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_zavato-vsecko</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Zaváto všecko!</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Zaváto všecko!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010010" rhyme="1" line_length="10">Zaváto všecko – luhy a sady,</l>
+     <l n="2" met="1001010010" rhyme="1" line_length="10">aleje dlouhé, květoucí řady;</l>
+     <l n="3" met="000101001" rhyme="2" line_length="9">jak by je smutek do rána stih,</l>
+     <l n="4" met="100001001" rhyme="2" line_length="9">v kadeřích že jim bělá se sníh.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001010010" rhyme="1" line_length="10">Pusta je země – mrtvo je všady;</l>
+     <l n="6" met="0101010010" rhyme="1" line_length="10">ty lesy jako zakleté hrady,</l>
+     <l n="7" met="010101000" rhyme="2" line_length="9">jak zlatý paprsk dotkne se jich,</l>
+     <l n="8" met="100101000" rhyme="2" line_length="9">tisíce slzí zaplane v nich. –</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1000010010" rhyme="3" line_length="10">Od kaple Tvé tak dívám se v dáli;</l>
+     <l n="10" met="1001010010" rhyme="3" line_length="10">v duši jak slze touhy by plály:</l>
+     <l n="11" met="1101010100" rhyme="4" line_length="10">Ó vesno mládí, snové o štěstí,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="1001010010" rhyme="4" line_length="10">chtěl jsem vás v žití peřeje nésti,</l>
+     <l n="13" met="0101010010" rhyme="5" line_length="10">tak jako matka nese své děcko;</l>
+     <l n="14" met="0001010010" rhyme="5" line_length="10">kam jste jen prchli? – zaváto všecko!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

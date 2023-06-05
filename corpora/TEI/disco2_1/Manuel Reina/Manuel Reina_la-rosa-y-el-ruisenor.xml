@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La rosa y el ruiseñor</title>
+    <author>Manuel Reina</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel Reina_la-rosa-y-el-ruisenor</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La rosa y el ruiseñor</title>
+     <author>Manuel Reina</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La rosa y el ruiseñor</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">La rosa, emperatriz de la hermosura,</l>
+     <l n="2" met="-+-+-+---+-">que brinda al sol sus labios encendidos;</l>
+     <l n="3" met="--+--+---+-">la que arranca a los céfiros y nidos</l>
+     <l n="4" met="-+---+---+-">endechas rebosantes de dulzura;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">la rosa de opulenta vestidura,</l>
+     <l n="6" met="++---+---+-">que es gloria y embriaguez de los sentidos</l>
+     <l n="7" met="--+--+---+-">y en los verdes jazmines florecidos,</l>
+     <l n="8" met="+-+--+---+-">cual rojizo relámpago, fulgura;</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">la que aroma las noches de verbena,</l>
+     <l n="10" met="+-+--+---+-">fue, del mundo en la espléndida alborada,</l>
+     <l n="11" met="++---+---+-">más nívea que la cándida azucena.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--++-+---+-">Pero Adán fijo en ella la mirada</l>
+     <l n="13" met="---+---+-+-">y, palpitante y de rubores llena,</l>
+     <l n="14" met="-+-+---+-+-">la blanca rosa se volvió encarnada.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

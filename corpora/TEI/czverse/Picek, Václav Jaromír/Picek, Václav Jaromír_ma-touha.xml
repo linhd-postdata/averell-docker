@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Má touha.</title>
+    <author>Picek, Václav Jaromír</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Picek, Václav Jaromír_ma-touha</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Má touha.</title>
+     <author>Picek, Václav Jaromír</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Má touha.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Včely mají jednu matku,</l>
+     <l n="2" met="01001010" rhyme="1" line_length="8">Té poskytnou svého statku,</l>
+     <l n="3" met="0010100" rhyme="2" line_length="7">Tu, co dítky milují,</l>
+     <l n="4" met="0010100" rhyme="2" line_length="7">Té svůj život věnují;</l>
+     <l n="5" met="10101010" rhyme="3" line_length="8">Takto bychom vděčni byli,</l>
+     <l n="6" met="1010101" line_length="7">Jesti, bratři, touha má.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="10101010" rhyme="4" line_length="8">Každá včela rozkoš mívá,</l>
+     <l n="8" met="10100100" rhyme="4" line_length="8">Vesna tvory když budívá,</l>
+     <l n="9" met="1010100" rhyme="5" line_length="7">Kvítím nivy poseje,</l>
+     <l n="10" met="1000100" rhyme="5" line_length="7">Sladkosti doň naleje;</l>
+     <l n="11" met="10101010" rhyme="3" line_length="8">V takém jaře bychom žili,</l>
+     <l n="12" met="1010101" line_length="7">Jesti, bratři, touha má.</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="10001010" rhyme="6" line_length="8">S ochotností včely vlídnou</l>
+     <l n="14" met="10011010" rhyme="6" line_length="8">Shánějí med, kde ho zhlídnou,</l>
+     <l n="15" met="1010101" rhyme="7" line_length="7">Jedna dá sic malou část,</l>
+     <l n="16" met="1010101" rhyme="7" line_length="7">Mnoho včel však velký plást;</l>
+     <l n="17" met="10001000" rhyme="3" line_length="8">Bychom tak se přičinili,</l>
+     <l n="18" met="1010101" line_length="7">Jesti, bratři, touha má.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

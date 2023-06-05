@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Se murió el avaro</title>
+    <author>Federico Bermúdez y Ortega</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Federico Bermúdez y Ortega_se-murio-el-avaro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Se murió el avaro</title>
+     <author>Federico Bermúdez y Ortega</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Se murió el avaro</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="--+-+--+-+-">Se murió el avaro, y en la estancia oscura</l>
+     <l n="2" met="--+-+---+-+-">donde yace el cuerpo sobre el tosco alambre</l>
+     <l n="3" met="+-+-++---+-">de una cama pobre, alguien asegura</l>
+     <l n="4" met="--+-+---++-">que el avaro triste ¡se murió de hambre!</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="+-+-+-----+-">Una pobre vieja misericordiosa,</l>
+     <l n="6" met="+---+--+--+-">presa de congojas y crueles martirios,</l>
+     <l n="7" met="-+--+-+---+-">a todos advierte, triste y pesarosa,</l>
+     <l n="8" met="+-+-++-+-+-">que hace falta incienso y hacen falta cirios.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+---+--+--+-">Todos los curiosos se van alejando</l>
+     <l n="10" met="--+-+---+-+-">de la pobre vieja, mientras va quedando</l>
+     <l n="11" met="--+-+-----+-">el avaro a oscuras y sin oración.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+-++---++-">Cuando al otro día fueron a enterrarlo</l>
+     <l n="13" met="+---+-+---++">cuatro pordioseros, todos al mirarlo</l>
+     <l n="14" met="-+-+-----+--">pasar, ¡sonreían de satisfacción!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

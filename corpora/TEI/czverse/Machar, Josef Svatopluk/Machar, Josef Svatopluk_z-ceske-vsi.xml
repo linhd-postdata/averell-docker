@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Z ČESKÉ VSI</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_z-ceske-vsi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Z ČESKÉ VSI</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Z ČESKÉ VSI</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" line_length="6">Hubujte, lajte mi,</l>
+     <l n="2" met="100010" rhyme="1" line_length="6">dělejte, co chcete –</l>
+     <l n="3" met="100100" line_length="6">nevdám se za toho,</l>
+     <l n="4" met="101000" rhyme="1" line_length="6">koho vnucujete.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100" line_length="6">Toho si vezmu já,</l>
+     <l n="6" met="000100" rhyme="2" line_length="6">kdo mně se líbí jen –</l>
+     <l n="7" met="100100" rhyme="3" line_length="6">aťsi mi nabije</l>
+     <l n="8" met="100100" rhyme="2" line_length="6">sedmkrát za týden.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100100" rhyme="3" line_length="6">Ve dne jak bouřka je,</l>
+     <l n="10" met="100100" rhyme="4" line_length="6">v noci jak deštíček –</l>
+     <l n="11" met="101100" rhyme="3" line_length="6">ve dne ran nasije,</l>
+     <l n="12" met="100100" rhyme="4" line_length="6">v noci zas hubiček.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="010100" line_length="6">Mně lajte, hubujte,</l>
+     <l n="14" met="100101" rhyme="5" line_length="6">jemu já nedám lát –</l>
+     <l n="15" met="000100" line_length="6">však by mě netřískal,</l>
+     <l n="16" met="100101" rhyme="5" line_length="6">kdyby mě neměl rád.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Duma za červánků.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_duma-za-cervanku</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Duma za červánků.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Duma za červánků.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101010" rhyme="1" line_length="10">Zlatá nebes růže v krvi plove,</l>
+     <l n="2" met="1010001010" rhyme="2" line_length="10">jako bohatýra sťatá hlava,</l>
+     <l n="3" met="1010101000" rhyme="1" line_length="10">a to nebe oči blankytové</l>
+     <l n="4" met="1000101000" rhyme="2" line_length="10">uplakalo pro ni do krvava.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0010001010" rhyme="3" line_length="10">Leč co vznešená ta hlava snila,</l>
+     <l n="6" met="1010100010" rhyme="4" line_length="10">novou dobou tajemně se vznítí;</l>
+     <l n="7" met="1010101000" rhyme="3" line_length="10">zlatá jeho krev co pokropila,</l>
+     <l n="8" met="1010101010" rhyme="4" line_length="10">bílým mořem hvězd se bude stkvíti.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

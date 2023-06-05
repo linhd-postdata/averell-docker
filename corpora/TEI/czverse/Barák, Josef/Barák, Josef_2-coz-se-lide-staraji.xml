@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>2 Což se lidé starají,</title>
+    <author>Barák, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Barák, Josef_2-coz-se-lide-staraji</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>2 Což se lidé starají,</title>
+     <author>Barák, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>2 Což se lidé starají,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0010100" line_length="7">Což se lidé starají, </l>
+     <l n="2" met="001010" rhyme="1" line_length="6">co se v písni skrývá?</l>
+     <l n="3" met="0010101" line_length="7">jen když verš jim plynně jde,</l>
+     <l n="4" met="001010" rhyme="1" line_length="6">když se lehce zpívá!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1000101" line_length="7">Veršíku můj, svižně jdi,</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">máš tak měkkou cestu</l>
+     <l n="7" met="1000100" line_length="7">po krvavé silnici</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">k slzavému městu!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

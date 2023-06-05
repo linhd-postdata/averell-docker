@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Jacinto Labaila</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jacinto Labaila_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Jacinto Labaila</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+---+-">Al rico trueca en pobre la avaricia</l>
+     <l n="2" met="---+-+---+-">y la lujuria al torpe desenfrena,</l>
+     <l n="3" met="-+-+---+-+-">la gula a eterno malestar condena</l>
+     <l n="4" met="---+---+-+-">y la ambición a perennal codicia.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+-+-+-">La envidia la mejor natura vicia;</l>
+     <l n="6" met="--+-+++--+-">el orgullo no tiene hora serena,</l>
+     <l n="7" met="--+++++--+-">y la gloria es no más, sueño que apena</l>
+     <l n="8" met="-+---+-+-+-">al vate que gozoso la acaricia.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+-+++-">Entre tantas pasiones sólo hay una</l>
+     <l n="10" met="-+-+-+---+-">que da al mortal la dicha apetecida;</l>
+     <l n="11" met="-+-+-+---+-">por ella el hombre el oro, la fortuna,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---++-++-">la gloria, la ambición, todo lo olvida:</l>
+     <l n="13" met="+--+---+-+-">es el Amor de nuestros goces cuna;</l>
+     <l n="14" met="+--+++---+-">es el Amor, ¡bien único en la vida!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

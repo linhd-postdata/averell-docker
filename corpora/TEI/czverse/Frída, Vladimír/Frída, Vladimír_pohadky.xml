@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>POHÁDKY.</title>
+    <author>Frída, Vladimír</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Frída, Vladimír_pohadky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>POHÁDKY.</title>
+     <author>Frída, Vladimír</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>POHÁDKY.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010001000" rhyme="1" line_length="12">Naše bába pohádky své vyprávěla</l>
+     <l n="2" met="101010101000" rhyme="2" line_length="12">v kruhu dětí vždycky slunce po západu.</l>
+     <l n="3" met="101010101010" rhyme="2" line_length="12">Z jejích úst jsem slýchal mnohou dobrou radu.</l>
+     <l n="4" met="101010100010" rhyme="1" line_length="12">Moudrost a též láska v slovech těch se chvěla.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101010001010" rhyme="1" line_length="12">A když jednou se soumrakem skončit chtěla,</l>
+     <l n="6" met="101010001010" rhyme="2" line_length="12">hošík malý za sukni ji zátah v zadu.</l>
+     <l n="7" met="100100101010" rhyme="2" line_length="12">S úsměvem do rukou vzala jeho bradu,</l>
+     <l n="8" met="1010101010" rhyme="1" line_length="10">a když zřela, jak se chvěje, děla:</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="101000101010" rhyme="3" line_length="12">„Dítě, neboj se a jdi jen klidně spáti,</l>
+     <l n="10" met="100011001000" rhyme="3" line_length="12">pohádka je sen a ten se nenavrátí.“</l>
+    </lg>
+    <lg n="4">
+     <l n="11" met="101010001010" rhyme="4" line_length="12">Život šel dál s bolestí svou a svou prací,</l>
+     <l n="12" met="101010001010" rhyme="3" line_length="12">sny se v niveč rozplynou a cesty zhatí.</l>
+     <l n="13" met="101000101010" rhyme="4" line_length="12">Divně po létech se hlas ten v duši vrací:</l>
+     <l n="14" met="100011001000" rhyme="3" line_length="12">„Pohádka je sen a ten se nenavrátí“ – – –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

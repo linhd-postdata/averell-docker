@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dos conejos, prima mía,</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_dos-conejos-prima-mia</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dos conejos, prima mía,</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dos conejos, prima mía,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="+-+-+-+-" line_length="8">Dos conejos, prima mía,</l>
+     <l n="2" met="-+-+--+-" line_length="8">envío a vuesa merced,</l>
+     <l n="3" met="-+--+-+-" line_length="8">tan muertos en una red</l>
+     <l n="4" met="--+---+-" line_length="8">como aquel que los envía;</l>
+     <l n="5" met="+---+-+-" line_length="8">hágaseles este día</l>
+     <l n="6" met="---+--+-" line_length="8">en vuestra celda el entierro,</l>
+     <l n="7" met="---+--+-" line_length="8">por que por dicha o por yerro</l>
+     <l n="8" met="-+-+--+-" line_length="8">mudéis, señora, de estilo,</l>
+     <l n="9" met="--+-++-" line_length="7">que si mata red de hilo,</l>
+     <l n="10" met="+--+++-" line_length="7">bien matará red de hierro.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

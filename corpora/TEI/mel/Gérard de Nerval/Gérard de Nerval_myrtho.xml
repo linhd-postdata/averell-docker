@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Myrtho</title>
+    <author>Gérard de Nerval</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Gérard de Nerval_myrtho</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Myrtho</title>
+     <author>Gérard de Nerval</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Myrtho</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Je pense à toi, Myrtho, divine enchanteresse,</l>
+     <l n="2" rhyme="b" line_length="6+6">Au Pausilippe altier, de mille feux brillant,</l>
+     <l n="3" rhyme="b" line_length="6+6">A ton front inondé des clartés d'Orient,</l>
+     <l n="4" rhyme="a" line_length="6+6">Aux raisins noirs mêlés avec l'or de la tresse.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">C'est dans ta coupe aussi que j'avais bu l'ivresse,</l>
+     <l n="6" rhyme="b" line_length="6+6">Et dans l'éclair furtif de ton œil souriant,</l>
+     <l n="7" rhyme="b" line_length="6+6">Quand aux pieds d'Iacchus on me voyait priant,</l>
+     <l n="8" rhyme="a" line_length="6+6">Car la Muse m'a fait l'un des fils de la Grèce.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Je sais pourquoi là-bas le volcan s'est rouvert…</l>
+     <l n="10" rhyme="d" line_length="6+6">C'est qu'hier tu l'avais touché d'un pied agile,</l>
+     <l n="11" rhyme="c" line_length="6+6">Et de cendres soudain l'horizon s'est couvert.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="d" line_length="6+6">Depuis qu'un duc normand brisa tes dieux d'argile,</l>
+     <l n="13" rhyme="d" line_length="6+6">Toujours, sous les rameaux du laurier de Virgile,</l>
+     <l n="14" rhyme="c" line_length="6+6">Le pâle Hortensia s'unit au Myrthe vert !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Smrt.</title>
+    <author>Nejedlý, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nejedlý, Jan_smrt</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Smrt.</title>
+     <author>Nejedlý, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Smrt.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101000" rhyme="1" line_length="10">Pročby jsme se smrti obávali?</l>
+     <l n="2" met="10101010" rhyme="2" line_length="8">Blazeť v hrobě musý býti,</l>
+     <l n="3" met="10001010" rhyme="2" line_length="8">Blažeji, než v světě žíti;</l>
+     <l n="4" met="0010101000" rhyme="1" line_length="10">Neb z těch, co se s světa odebrali,</l>
+     <l n="5" met="101010" rhyme="3" line_length="6">Ještě po tu dobu</l>
+     <l n="6" met="10001010" rhyme="3" line_length="8">Žádnému se nechce z hrobu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

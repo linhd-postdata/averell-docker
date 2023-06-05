@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Srpen.</title>
+    <author>Čech, Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čech, Svatopluk_srpen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Srpen.</title>
+     <author>Čech, Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Srpen.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010" rhyme="1" line_length="8">Srpen, když v kytici váže</l>
+     <l n="2" met="100100" rhyme="2" line_length="6">k žírnému obilí</l>
+     <l n="3" met="101100" rhyme="2" line_length="6">chrpy květ rozmilý,</l>
+     <l n="4" met="10010010" rhyme="1" line_length="8">pravdu – nechť starou – ti káže:</l>
+     <l n="5" met="100101" rhyme="3" line_length="6">Spojuj a rovno ceň</l>
+     <l n="6" met="100101" rhyme="3" line_length="6">srdce i hlavy žeň!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

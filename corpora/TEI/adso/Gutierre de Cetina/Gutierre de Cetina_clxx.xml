@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- CLXX - </title>
+    <author>Gutierre de Cetina</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Gutierre de Cetina_clxx</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- CLXX - </title>
+     <author>Gutierre de Cetina</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- CLXX - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--++--+-">Ira y amor me están dentro en el pecho</l>
+     <l n="2" met="-+---+++-+-">y cada cual me causa un mal extraño;</l>
+     <l n="3" met="--++-+---+-">el amor fue principio del engaño;</l>
+     <l n="4" met="-+-+-+-+-+-">después, del mismo amor nació el despecho.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">Deseo aborrecer por mi provecho,</l>
+     <l n="6" met="+----+-+-+-">visto que del amor me viene el daño;</l>
+     <l n="7" met="-++--+-+-+-">mas no basta la ira en mal tamaño</l>
+     <l n="8" met="-+---+--++-">el nudo deshacer que amor ha hecho.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+---+-">Ira me mueve a ser vuestro enemigo</l>
+     <l n="10" met="-+---+---+-">y muéstrame razón por que lo sea;</l>
+     <l n="11" met="-++--+-+-+-">mas ¿qué vale, si amor a amar me tira?</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---++--+-">Y así mientras los dos tratan conmigo,</l>
+     <l n="13" met="++---++--+-">es fuerza que la triste alma se vea,</l>
+     <l n="14" met="+-+--+-+-+-">siendo esclava de amor, sujeta de ira.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

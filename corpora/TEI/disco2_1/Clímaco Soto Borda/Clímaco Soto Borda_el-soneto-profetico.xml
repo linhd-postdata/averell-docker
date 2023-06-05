@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El soneto profético</title>
+    <author>Clímaco Soto Borda</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Clímaco Soto Borda_el-soneto-profetico</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El soneto profético</title>
+     <author>Clímaco Soto Borda</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El soneto profético</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+------+--+-">Esto pasa en el año tres del siglo presente:</l>
+     <l n="2" met="+--+-+---+--+-">de una nevada esteárica a los rubios reflejos,</l>
+     <l n="3" met="---+-+--+---+-">en descifrar se empeña sonetos suyos viejos</l>
+     <l n="4" met="-+--++-++---+-">y cojos, de tres años, un bardo decadente.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+++-+----+-+-">¡Nada! ¡Ni él mismo sabe lo que soñó su mente!</l>
+     <l n="6" met="-+-+-+-+--+-+-">Está perplejo el que antes a otros dejó perplejos.</l>
+     <l n="7" met="---+-+---+-+-+">Como olvidó los símbolos y ve las claves lejos...,</l>
+     <l n="8" met="++-+-+-+--+-+-">no entiende nada..., nada..., nada absolutamente.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+-----+-+">Vuelve el antiguo oráculo por la explicable cifra...,</l>
+     <l n="10" met="--+--+----+--+">mas tampoco el oráculo sus enredos descifra</l>
+     <l n="11" met="-+-+-+-+--+-+-">y ordénale que a estrofas claras su afán consagre.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+--+--+---+-">¡Oh, poetas! Del numen el jugo cristalino</l>
+     <l n="13" met="-+-+-+---+-+-+">verted en limpias ánforas, y así del genio el vino</l>
+     <l n="14" met="-----+-+--+-+-">sin mistificaciones nunca será vinagre.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Elogio del poeta</title>
+    <author>Félix Etchegoyen</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Félix Etchegoyen_elogio-del-poeta</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Elogio del poeta</title>
+     <author>Félix Etchegoyen</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Elogio del poeta</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Cantor de la belleza y la justicia</l>
+     <l n="2" met="-+-+-+---+-">en una edad prosaica y sin sentido,</l>
+     <l n="3" met="---+-+---+-">adorador eterno de Cupido</l>
+     <l n="4" met="--+--+---+-">cuando culto se rinde a la avaricia.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-++--++--+-">Tu musa es para el vulgo una estulticia,</l>
+     <l n="6" met="--+--++--+-">porque eunuco jamás ha comprendido</l>
+     <l n="7" met="-+---+---+-">el parto de la idea dolorido</l>
+     <l n="8" met="---+---+-+-">ni de la Gloria la inmortal caricia.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+-+----+-">Fuiste en Grecia y en Roma omnipotente,</l>
+     <l n="10" met="--+--+---+-">trovador en el claro Mediodía;</l>
+     <l n="11" met="-+-++-+--+-">del siglo diez y ocho, verbo ardiente.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+--++---+-">Hogaño que está el mundo en agonía,</l>
+     <l n="13" met="+--+---+-+-">pulsa tu lira y con cantar vidente</l>
+     <l n="14" met="-+-+---+-+-">señala al hombre su extraviada vía.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

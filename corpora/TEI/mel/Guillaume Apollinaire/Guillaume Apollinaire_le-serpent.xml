@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Serpent</title>
+    <author>Guillaume Apollinaire</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Guillaume Apollinaire_le-serpent</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Serpent</title>
+     <author>Guillaume Apollinaire</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Serpent</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Tu t’acharnes sur la beauté.</l>
+     <l n="2" rhyme="a" line_length="8">Et quelles femmes ont été</l>
+     <l n="3" rhyme="a" line_length="8">Victimes de ta cruauté !</l>
+     <l n="4" rhyme="b" line_length="8">Ève, Eurydice, Cléopâtre ;</l>
+     <l n="5" rhyme="b" line_length="8">J’en connais encor trois ou quatre.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

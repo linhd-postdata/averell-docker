@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Agosto</title>
+    <author>Carlos Mendoza</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Carlos Mendoza_agosto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Agosto</title>
+     <author>Carlos Mendoza</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Agosto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---+-">Mes de pereza, mes de insolaciones:</l>
+     <l n="2" met="--+--+---+-">achicharra el calor de la canícula,</l>
+     <l n="3" met="-+-+-+-+-+-">y todo el mundo busca un partícula</l>
+     <l n="4" met="+--+-----+-">de aire fresquito para sus pulmones.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">Quedan en cuadro muchas poblaciones</l>
+     <l n="6" met="--++-+-+-+-">por haberse hecho cosa asaz ridícula,</l>
+     <l n="7" met="--+--+-+-+-">si aparece en la piel cualquier vesícula,</l>
+     <l n="8" met="++-+-+---+-">no irse a dar algunos chapuzones.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+---+-">Sólo quedan los pobres e indigentes</l>
+     <l n="10" met="-+---+---+-">que sudan como patos trabajando</l>
+     <l n="11" met="-+---+---+-">en fábricas, talleres y oficinas,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+++-+-">debiendo resignarse a ser leyentes</l>
+     <l n="13" met="-+---+-+-+-">de cómo los demás están holgando</l>
+     <l n="14" met="-+---+---+-">en juergas y casinos y cocinas.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

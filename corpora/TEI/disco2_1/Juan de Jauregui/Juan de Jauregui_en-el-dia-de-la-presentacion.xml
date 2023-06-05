@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>En el día de la presentación</title>
+    <author>Juan de Jauregui</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan de Jauregui_en-el-dia-de-la-presentacion</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>En el día de la presentación</title>
+     <author>Juan de Jauregui</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>En el día de la presentación</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+--+-+--+-">El justo Simeón al Verbo humano</l>
+     <l n="2" met="-+--+----+-">abraza, y a la muerte apetecida</l>
+     <l n="3" met="+--+-----+-">grato se ofrece, al tiempo que la Vida</l>
+     <l n="4" met="+-+-+----+-">tiene, y el mismo Espíritu, en su mano.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+-+-+-">Y cual sonoro cisne, el sabio anciano,</l>
+     <l n="6" met="+--+-+-+-+-">ya su esperanza y gran edad cumplida,</l>
+     <l n="7" met="-+---+---+-">alegre de su fin, la agradecida</l>
+     <l n="8" met="+--+-+-+-+-">voz funeral así levanta ufano:</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">«La muerte agora (oh, claro sol, que abierta</l>
+     <l n="10" met="+-++---+-+-">senda nos muestras a la vida ausente!)</l>
+     <l n="11" met="+--+-+---+-">llegue, y en paz el cuerpo desanime.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++-+-+-+-+-">«No precie ya, quien ve tu luz presente,</l>
+     <l n="13" met="++-+---+-+-">ver otra luz; ni el que la firme y cierta</l>
+     <l n="14" met="-+-+---+-+-">salud alcanza, la mortal estime.»</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

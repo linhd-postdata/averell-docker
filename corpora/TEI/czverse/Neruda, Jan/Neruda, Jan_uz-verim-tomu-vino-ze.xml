@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Už věřím tomu, víno že</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_uz-verim-tomu-vino-ze</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Už věřím tomu, víno že</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Už věřím tomu, víno že</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Už věřím tomu, víno že </l>
+     <l n="2" met="1001010" rhyme="1" line_length="7">ve mlhách lépe zraje,</l>
+     <l n="3" met="01000100" line_length="8">vždyť po víně mně mozkem mým</l>
+     <l n="4" met="0101010" rhyme="1" line_length="7">vždy lehká mlha hraje.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101" line_length="8">A mívám pěkný, krásný čas,</l>
+     <l n="6" met="0101010" rhyme="2" line_length="7">když mlha k zemi sklesne,</l>
+     <l n="7" met="00110101" line_length="8">však když jde k výši, hlava má</l>
+     <l n="8" met="1001010" rhyme="2" line_length="7">pod těžkým mrakem zesne.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

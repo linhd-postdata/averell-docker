@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>¡Siempre solo!</title>
+    <author>Antonio Plaza</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Antonio Plaza_siempre-solo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>¡Siempre solo!</title>
+     <author>Antonio Plaza</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>¡Siempre solo!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+---+-">Si de la clara aurora diamantina</l>
+     <l n="2" met="--+--+---+-">se dibujan los célicos albores,</l>
+     <l n="3" met="-+---+---+-">los pájaros del viento moradores</l>
+     <l n="4" met="-+-+---+-+-">al éter mandan su canción divina.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">Y si el sol orgulloso se reclina</l>
+     <l n="6" met="-++--+---+-">sobre un lecho radiante de colores,</l>
+     <l n="7" met="+--+---+-+-">llenas de amor las carminadas flores</l>
+     <l n="8" met="-+---+---+-">entreabren su corola purpurina.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+-++-+-+-">Todos tienen un ser que los comprenda,</l>
+     <l n="10" met="++---+---+-">yo al vicio y la virtud indiferente</l>
+     <l n="11" met="-+-+---+-+-">aislado cruzo la maldita senda,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+---+-">cual se arrastra en las rocas la serpiente;</l>
+     <l n="13" met="-+++---+-+-">mas tengo un alma de vivir cansada</l>
+     <l n="14" met="-++--+-+-+-">que ni al cielo ni al mundo pide nada.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

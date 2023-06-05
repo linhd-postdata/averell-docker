@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Meridiano durmiente</title>
+    <author>Julio Herrera y Reissig</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Julio Herrera y Reissig_meridiano-durmiente</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Meridiano durmiente</title>
+     <author>Julio Herrera y Reissig</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Meridiano durmiente</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-----+---+---+">Frente a la soporífera canícula insensata,</l>
+     <l n="2" met="-+---+--+---+-">la vieja sus remiendos monótonos frangolla;</l>
+     <l n="3" met="-+---+--+--+-">y al son del gluglutante rezongo de la olla</l>
+     <l n="4" met="-+-+-+---+--+-">inspírase el ambiente de bucólica beata...</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+----+-+-">En el sobrio regazo de la cocina grata,</l>
+     <l n="6" met="---+-+-----+-+">su folletín la cándida maledicencia empolla,</l>
+     <l n="7" met="-----+--+---+-">hasta que la merienda de hogaza y de cebolla</l>
+     <l n="8" met="+++--+----+--+">abre un dulce paréntesis a la charla barata.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+++---+-+-">Afuera el aire es plomo... Casiopea y Melampo,</l>
+     <l n="10" met="+-+--+--+-+--+">turban sólo el narcótico gran silencio del campo.</l>
+     <l n="11" met="+--+-+-+-+--+-">Ella, la muy maligna, finge torpes enredos,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+-+---+--+-">como le habla al oído de divinos deslices...</l>
+     <l n="13" met="-++--+---+--+-">y así el tiempo resbala por sus almas felices,</l>
+     <l n="14" met="-+-+-+--+-+-+-">como un rosario fácil entre unos bellos dedos.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

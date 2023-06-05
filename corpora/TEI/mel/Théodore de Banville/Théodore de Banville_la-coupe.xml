@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Coupe</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_la-coupe</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Coupe</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Coupe</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Le poëte en sa coupe, orgueil du ciseleur,</l>
+     <l n="2" rhyme="a" line_length="6+6">S'enivre, et boit le vin amer de la douleur.</l>
+     <l n="3" rhyme="b" line_length="6+6">Puis, après avoir bu le vin, il boit la lie</l>
+     <l n="4" rhyme="b" line_length="6+6">Où dorment la tristesse et la mélancolie.</l>
+     <l n="5" rhyme="a" line_length="6+6">Et puis, après la lie encore, tout au fond,</l>
+     <l n="6" rhyme="a" line_length="6+6">Dorment en un flot noir l'accablement profond</l>
+     <l n="7" rhyme="b" line_length="6+6">Et l'inutile amour de l'Idéal qui lève</l>
+     <l n="8" rhyme="b" line_length="6+6">Son front chaste, et l'horreur effrayante du rêve.</l>
+     <l n="9" rhyme="a" line_length="6+6">Et comme, en regardant longtemps ce flot moqueur,</l>
+     <l n="10" rhyme="a" line_length="6+6">Le poëte qui sent se soulever son cœur,</l>
+     <l n="11" rhyme="b" line_length="6+6">A dans ses sombres yeux l'égarement d'Oreste,</l>
+     <l n="12" rhyme="b" line_length="6−6">La Muse lui dit : Mon bien-aimé, bois le reste !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

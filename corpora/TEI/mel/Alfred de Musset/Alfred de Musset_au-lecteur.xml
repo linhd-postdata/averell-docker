@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Au lecteur</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_au-lecteur</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Au lecteur</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Au lecteur</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Figure-toi, lecteur, que ton mauvais génie</l>
+     <l n="2" rhyme="b" line_length="6+6">T'a fait prendre ce soir un billet d'Opéra.</l>
+     <l n="3" rhyme="a" line_length="6+6">Te voilà devenu parterre ou galerie,</l>
+     <l n="4" rhyme="b" line_length="6+6">Et tu ne sais pas trop ce qu'on te chantera.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Il se peut qu'on t'amuse, il se peut qu'on t'ennuie ;</l>
+     <l n="6" rhyme="a" line_length="6+6">Il se peut que l'on pleure, à moins que l'on ne rie ;</l>
+     <l n="7" rhyme="b" line_length="6+6">Et le terme moyen, c'est que l'on bâillera.</l>
+     <l n="8" rhyme="b" line_length="6+6">Qu'importe ? c'est la mode, et le temps passera.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Mon livre, ami lecteur, t'offre une chance égale.</l>
+     <l n="10" rhyme="a" line_length="6+6">Il te coûte à peu près ce que coûte une stalle ;</l>
+     <l n="11" rhyme="b" line_length="6+6">Ouvre-le sans colère, et lis-le d'un bon œil.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="c" line_length="6+6">Qu'il te déplaise ou non, ferme-le sans rancune ;</l>
+     <l n="13" rhyme="c" line_length="6+6">Un spectacle ennuyeux est chose assez commune,</l>
+     <l n="14" rhyme="b" line_length="6+6">Et tu verras le mien sans quitter ton fauteuil.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

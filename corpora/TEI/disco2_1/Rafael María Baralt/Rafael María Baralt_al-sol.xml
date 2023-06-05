@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Al sol</title>
+    <author>Rafael María Baralt</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Rafael María Baralt_al-sol</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Al sol</title>
+     <author>Rafael María Baralt</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Al sol</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+-+-+-">Mares de luz, ¡oh sol!, en la alta esfera</l>
+     <l n="2" met="-+---+-+-+-">derrama triunfador tu carro de oro</l>
+     <l n="3" met="---+-+---+-">y la vencida luna con desdoro</l>
+     <l n="4" met="-+-+---+-+-">su antorcha apaga ante su inmensa hoguera.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">Y el águila de rayos altanera</l>
+     <l n="6" met="--+--++--+-">hasta el cielo a buscar va su tesoro;</l>
+     <l n="7" met="-+-+---+-+-">y esparce al viento su cantar sonoro</l>
+     <l n="8" met="--+--++--+-">del umbroso pensil ave parlera.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+-+--+-+-">Y la tierra y el mar y el claro cielo</l>
+     <l n="10" met="--+--+---+-">penetrados por ti hierven de amores</l>
+     <l n="11" met="+--+---+-+-">cual de su esposo al fecundante anhelo.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-++--+-">¿Quién la lumbre te da? ¿Quién los ardores?</l>
+     <l n="13" met="-+---+-+-+-">El ser a quien tu luz, que nos asombra,</l>
+     <l n="14" met="++---+++++-">es fuego sin calor, es mancha, es sombra.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

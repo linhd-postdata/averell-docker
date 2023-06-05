@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Napomenutí.</title>
+    <author>Hajniš, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">7</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hajniš, František_napomenuti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Napomenutí.</title>
+     <author>Hajniš, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Napomenutí.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101" rhyme="1" line_length="7">Nejnovější báseň má</l>
+     <l n="2" met="00001000" rhyme="2" line_length="8">Tak prý se Ti zalíbila,</l>
+     <l n="3" met="00101000" rhyme="2" line_length="8">Žes ji vroucně políbila.</l>
+     <l n="4" met="1000101" rhyme="1" line_length="7">Proukaž pak, děvo má!</l>
+     <l n="5" met="01001010" rhyme="3" line_length="8">Mně samému tuto lásku:</l>
+     <l n="6" met="0010100" rhyme="1" line_length="7">Neb se ve mně ozývá</l>
+     <l n="7" met="10101010" rhyme="3" line_length="8">Takých básní kolik svazků.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

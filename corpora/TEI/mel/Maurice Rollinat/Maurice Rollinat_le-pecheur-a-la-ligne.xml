@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LE PÊCHEUR À LA LIGNE</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_le-pecheur-a-la-ligne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LE PÊCHEUR À LA LIGNE</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LE PÊCHEUR À LA LIGNE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Mon liège fait plus d'un plongeon</l>
+     <l n="2" rhyme="b" line_length="8">Dans l'onde au lit de sable fin.</l>
+     <l n="3" rhyme="b" line_length="8">Ça mord à tout coup ; mais enfin</l>
+     <l n="4" rhyme="a" line_length="8">Je n'ai pas pris un seul goujon.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Et je tiens ma perche de jonc,</l>
+     <l n="6" rhyme="b" line_length="8">Patient comme un séraphin.</l>
+     <l n="7" rhyme="a" line_length="8">Mon liège fait plus d'un plongeon</l>
+     <l n="8" rhyme="b" line_length="8">Dans l'onde au lit de sable fin ;</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Derrière moi, le vieux donjon ;</l>
+     <l n="10" rhyme="b" line_length="8">Devant, un horizon sans fin.</l>
+     <l n="11" rhyme="b" line_length="8">Un brochet dort comme un dauphin</l>
+     <l n="12" rhyme="a" line_length="8">A fleur d'eau, près d'un sauvageon.</l>
+     <l n="13" rhyme="a" line_length="8">Mon liège fait plus d'un plongeon.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

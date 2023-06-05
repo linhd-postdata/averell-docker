@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Avemarías</title>
+    <author>Carlos Valverde López</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Carlos Valverde López_avemarias</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Avemarías</title>
+     <author>Carlos Valverde López</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Avemarías</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+---+-">Murió al albor del alba madrugada</l>
+     <l n="2" met="---+-+---+-">en estertor helado sobre el suelo</l>
+     <l n="3" met="--+--+-+-+-">y en postrera merced cuajara el cielo</l>
+     <l n="4" met="---+-+---+-">de golondrinas blancas la alborada.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">Del céfiro silbante la balada</l>
+     <l n="6" met="--+--+---+-">que aventara zorzales en su pelo</l>
+     <l n="7" met="+-+--++--+-">ha labrado en su piel rosas de hielo</l>
+     <l n="8" met="--+--+---+-">y velado sus ojos despiadada.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">Y no volvió a las ondas cristalinas</l>
+     <l n="10" met="--+--++--+-">ni el juncal alfombró dulce a su paso</l>
+     <l n="11" met="--+--+---+-">en cortejo de azul algarabías,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+---+-">sólo el ámbar de hiel y las espinas</l>
+     <l n="13" met="-+---+---+-">sembradas en el surco de su ocaso</l>
+     <l n="14" met="-+---+---+-">musitan vendaval de avemarías.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pretenciosa</title>
+    <author>Manuel Gutiérrez Nájera</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel Gutiérrez Nájera_pretenciosa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pretenciosa</title>
+     <author>Manuel Gutiérrez Nájera</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pretenciosa</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">Pretenciosa, ornamenta la exigencia,</l>
+     <l n="2" met="--+--+---+-">con idílico objeto perseguido:</l>
+     <l n="3" met="+-+--++--+-">hombre culto, cabal, bien parecido,</l>
+     <l n="4" met="--+--+---+-">y baluarte de amores y decencia.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">De sobradas alcurnias y presencia</l>
+     <l n="6" met="-++--+---+-">que le eclipse a los oros su pulido,</l>
+     <l n="7" met="--+--+-+-+-">coeficiente soberbio, y bien habido</l>
+     <l n="8" met="--+--+---+-">su dinero, atributo de su esencia.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Mas se venga, del torpe desatino,</l>
+     <l n="10" met="--+--+---+-">con burlesco fantoche en el camino,</l>
+     <l n="11" met="+-+--+---+-">esa cáustica fuerza del realismo,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">cimentada en la chanza del destino.</l>
+     <l n="13" met="--+-++---+-">Y resígnase sola, o estoicismo,</l>
+     <l n="14" met="+-+-++---+-">a una vida la obliga con cretino.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

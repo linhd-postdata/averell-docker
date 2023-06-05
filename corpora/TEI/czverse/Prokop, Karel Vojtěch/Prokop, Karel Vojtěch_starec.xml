@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>STAŘEC.</title>
+    <author>Prokop, Karel Vojtěch</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Prokop, Karel Vojtěch_starec</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>STAŘEC.</title>
+     <author>Prokop, Karel Vojtěch</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>STAŘEC.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010100" rhyme="1" line_length="10">Kývají na zdi staré hodiny –</l>
+     <l n="2" met="0010" rhyme="2" line_length="4">tyk tak, tyk tak,</l>
+     <l n="3" met="01010101" rhyme="2" line_length="8">a stařec v jizbě klopí zrak,</l>
+     <l n="4" met="010000010100" rhyme="1" line_length="12">dnes poprve tu sám – sám z celé rodiny.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010001" rhyme="3" line_length="10">„Má vnučko zlatá, zhasl mi tvůj hled,</l>
+     <l n="6" met="01000001010" rhyme="4" line_length="11">a nepohladím ti již hebkých vlásků,</l>
+     <l n="7" met="01010101010" rhyme="4" line_length="11">tys měla všecku moji zbylou lásku,</l>
+     <l n="8" met="01010001" rhyme="3" line_length="8">tys byla poslední můj květ.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101010001" rhyme="5" line_length="10">Tvá láska mladá – nedosněný sen –</l>
+     <l n="10" met="01010101010" rhyme="6" line_length="11">a dobrý hoch tvůj – Bůh jej potěš v bolu! –</l>
+     <l n="11" met="10010101010" rhyme="6" line_length="11">nespatřím více vaše hlavy spolu –</l>
+     <l n="12" met="0101010001" rhyme="5" line_length="10">tvé srdce schladlo, zašel již tvůj den.“</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1001010100" rhyme="7" line_length="10">Kývají na zdi staré hodiny:</l>
+     <l n="14" met="0010" rhyme="8" line_length="4">tyk tak, tyk tak –</l>
+     <l n="15" met="0101010101" rhyme="8" line_length="10">a stařec v jizbě klopí – klopí zrak,</l>
+     <l n="16" met="0100010100" rhyme="7" line_length="10">sám poprve tu z celé rodiny.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

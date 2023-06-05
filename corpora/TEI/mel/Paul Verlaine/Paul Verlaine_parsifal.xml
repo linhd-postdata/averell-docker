@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PARSIFAL</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_parsifal</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PARSIFAL</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PARSIFAL</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">PARSIFAL a vaincu les Filles, leur gentil</l>
+     <l n="2" rhyme="b" line_length="6+6">Babil et la luxure amusante – et sa pente</l>
+     <l n="3" rhyme="b" line_length="6+6">Vers la Chair de garçon vierge que cela tente</l>
+     <l n="4" rhyme="a" line_length="6+6">M’aimer les seins légers et ce gentil babil ;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="4+4+4">Il a vaincu la Femme belle, au cœur subtil,</l>
+     <l n="6" rhyme="b" line_length="6+6">Étalant ses bras frais et sa gorge excitante ;</l>
+     <l n="7" rhyme="b" line_length="6+6">Il a vaincu l’Enfer et rentre sous la tente</l>
+     <l n="8" rhyme="a" line_length="6+6">Avec un lourd trophée à son bras puéril,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Avec la lance qui perça le Flanc suprême !</l>
+     <l n="10" rhyme="c" line_length="6+6">Il a guéri le roi, le voici roi lui-même,</l>
+     <l n="11" rhyme="d" line_length="6+6">Et prêtre du très saint Trésor essentiel.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="4+8">En robe d’or il adore, gloire et symbole,</l>
+     <l n="13" rhyme="d" line_length="4+4+4">Le vase pur où resplendit le sang réel.</l>
+     <l n="14" rhyme="e" line_length="6+6">Et, ô ces voix d’enfants chantant dans la coupole !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

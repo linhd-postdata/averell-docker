@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Mort au printemps</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_la-mort-au-printemps</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Mort au printemps</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Mort au printemps</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">La nature, au printemps, semble par sa féerie</l>
+     <l n="2" rhyme="b" line_length="6−6">Glorifier tous les trépas qu'elle a conçus.</l>
+     <l n="3" rhyme="b" line_length="6+6">Passe un enterrement ? elle répand dessus</l>
+     <l n="4" rhyme="a" line_length="6+6">Son parfum, sa musique et sa grâce fleurie.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">On dirait qu'elle veut que chaque arbre sourie</l>
+     <l n="6" rhyme="b" line_length="6+6">Aux mignonnets cercueils des tout petits Jésus,</l>
+     <l n="7" rhyme="b" line_length="6+6">Que ces panaches, d'ombre et de vapeur tissus,</l>
+     <l n="8" rhyme="a" line_length="6+6">Célèbrent la candeur de leur âme inflétrie.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Alors, son beau soleil qui fait pâlir les cierges,</l>
+     <l n="10" rhyme="c" line_length="6+6">Nimbant aux chemins creux les convois blancs des vierges,</l>
+     <l n="11" rhyme="d" line_length="6+6">Elle fond ses couleurs à celles de leur mort.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Et leurs bières, hélas ! si roides et si closes,</l>
+     <l n="13" rhyme="d" line_length="6+6">Harmonieusement, passent dans le décor</l>
+     <l n="14" rhyme="e" line_length="6+6">Des cerisiers neigeux et des pommiers tout roses.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

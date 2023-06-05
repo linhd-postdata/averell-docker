@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KALEIDOSKOP.</title>
+    <author>z Wojkowicz, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>z Wojkowicz, Jan_kaleidoskop</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KALEIDOSKOP.</title>
+     <author>z Wojkowicz, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KALEIDOSKOP.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100100" rhyme="1" line_length="9">Padaly hvězdy a padaly,</l>
+     <l n="2" met="10010010" rhyme="2" line_length="8">v nádherných spadly se tvarech,</l>
+     <l n="3" met="100100100" rhyme="1" line_length="9">v nádherné květy se skládaly</l>
+     <l n="4" met="1001000" rhyme="2" line_length="7">v skleněných ve krystalech.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100100" rhyme="3" line_length="9">Zbožňuju krásu mass krystalných,</l>
+     <l n="6" met="10010010" rhyme="2" line_length="8">skvící se v barevných žárech,</l>
+     <l n="7" met="100101100" rhyme="3" line_length="9">zbožňuju nános skel nádherných</l>
+     <l n="8" met="10010010" rhyme="2" line_length="8">ztuhnoucí v studených tvarech.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MANGIN</title>
+    <author>Eugène Pottier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Eugène Pottier_mangin</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MANGIN</title>
+     <author>Eugène Pottier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MANGIN</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Jadis Mangin, froid, sous son casque,</l>
+     <l n="2" rhyme="b" line_length="8">Crossait les badauds de Paris ;</l>
+     <l n="3" rhyme="a" line_length="8">J'aimais son boniment fantasque,</l>
+     <l n="4" rhyme="b" line_length="8">J'aimais l'orgue de Vert-de-Gris.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="8">J'aime à Notre-Dame, en carême,</l>
+     <l n="6" rhyme="d" line_length="8">Un prédicateur virulent ;</l>
+     <l n="7" rhyme="d" line_length="8">Certes, son orgue est plus ronflant,</l>
+     <l n="8" rhyme="c" line_length="8">Mais son boniment, c'est le même !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="8">«Pêcheurs, achetez nos pardons,</l>
+     <l n="10" rhyme="e" line_length="8">»La sainte Église attend vos dons ;</l>
+     <l n="11" rhyme="f" line_length="8">»Soyez fervents, soyez dociles !</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="8">»Et, confits dans ces vérités,</l>
+     <l n="13" rhyme="g" line_length="8">»O mes frères qui m'écoutez,</l>
+     <l n="14" rhyme="f" line_length="8">Allez en paix ! — Tas d'imbéciles !»</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

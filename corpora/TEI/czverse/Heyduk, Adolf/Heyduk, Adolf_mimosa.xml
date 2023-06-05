@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mimosa.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_mimosa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mimosa.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mimosa.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101000100" rhyme="1" line_length="10">Ať onen haní tě, ať chválí ten,</l>
+     <l n="2" met="0100010100" rhyme="1" line_length="10">buď mimosou, sám v sebe uzavřen,</l>
+     <l n="3" met="01010100010" rhyme="2" line_length="11">a vlastní srdce vyzradí ti zdatně,</l>
+     <l n="4" met="01000100010" rhyme="2" line_length="11">zda dobře jsi kdy učinil či špatně</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001010100" rhyme="3" line_length="10">A jsi-li v hloubce duše spokojen,</l>
+     <l n="6" met="0100010110" rhyme="3" line_length="10">pak nechať vše tě haní, ven a ven,</l>
+     <l n="7" met="11010001010" rhyme="4" line_length="11">jas slunný zulíbá tě v smírném sletu</l>
+     <l n="8" met="01000100010" rhyme="4" line_length="11">a rozvineš se sobě zas i světu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

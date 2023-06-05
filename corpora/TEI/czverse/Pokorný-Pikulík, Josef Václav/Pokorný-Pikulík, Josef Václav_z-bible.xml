@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Z bible.</title>
+    <author>Pokorný-Pikulík, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný-Pikulík, Josef Václav_z-bible</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Z bible.</title>
+     <author>Pokorný-Pikulík, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Z bible.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100110" rhyme="1" line_length="10">Výklad bible některých slov tklivých:</l>
+     <l n="2" met="101000101010" rhyme="2" line_length="12">Hříšník před smrtí, – ač život celý hřešil, –</l>
+     <l n="3" met="1010101010" rhyme="2" line_length="10">z hříchů kál se, více nebe těšil,</l>
+     <l n="4" met="001000101000" rhyme="1" line_length="12">než-li devadesát devět spravedlivých!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

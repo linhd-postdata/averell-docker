@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Na Maďaromany.</title>
+    <author>Vinařický, Karel Alois</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vinařický, Karel Alois_na-madaromany</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Na Maďaromany.</title>
+     <author>Vinařický, Karel Alois</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Na Maďaromany.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" line_length="6">Maďaři, Maďaři,</l>
+     <l n="2" met="101000" rhyme="1" line_length="6">Ej co počínáte,</l>
+     <l n="3" met="010100" line_length="6">Že lidu našemu</l>
+     <l n="4" met="100100" rhyme="1" line_length="6">Jazyky řezáte?</l>
+     <l n="5" met="1010100" line_length="7">Toho ani Tataři</l>
+     <l n="6" met="100010" rhyme="2" line_length="6">Nedělali lítí:</l>
+     <l n="7" met="1000100" line_length="7">Žádáte-li Tatarů</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">Divočejší býti?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PODZIMNÍ DEN.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_podzimni-den</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PODZIMNÍ DEN.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PODZIMNÍ DEN.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010010" line_length="11">Prořidlé stromoví, podzimní ráno,</l>
+     <l n="2" met="1001" rhyme="1" line_length="4">mlčící sad,</l>
+     <l n="3" met="10010010" line_length="8">ticho tu ruší jen časem</l>
+     <l n="4" met="1001001" rhyme="1" line_length="7">zralého ovoce pád.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010010010" line_length="11">Utichlé cesty a zoraná pole,</l>
+     <l n="6" met="1001001" rhyme="2" line_length="7">na všem jak únava mdlá,</l>
+     <l n="7" met="10010010110" line_length="11">zestárlé přírody jakby vlas bílý</l>
+     <l n="8" met="1001000" rhyme="2" line_length="7">pavučí ve vzduchu vlá.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

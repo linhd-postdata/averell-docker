@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VIEUX-VERLAINES</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_vieux-verlaines</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VIEUX-VERLAINES</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VIEUX-VERLAINES</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+5">J'ai frémi comme un archet frivole</l>
+     <l n="2" rhyme="b" line_length="5+4">Sur la fibre pâle qui détonne</l>
+     <l n="3" rhyme="b" line_length="4+6">De cette fin de cette pâle automne.</l>
+     <l n="4" rhyme="a" line_length="4+5">J'ai frémi comme un archet frivole !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Láska má.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_laska-ma</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Láska má.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Láska má.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100101" rhyme="1" line_length="11">Má krásná vlasti, čemu tě rovnat smím? –</l>
+     <l n="2" met="01010100001" rhyme="1" line_length="11">Vše, všecko bledne, lepotu tvou kdy zřím.</l>
+     <l n="3" met="010101010" rhyme="2" line_length="9">Co vyšší tebe v světě velkém?</l>
+     <l n="4" met="1001001010" rhyme="2" line_length="10">Hory mně plání jsou, moře mělkem.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100100" rhyme="3" line_length="11">A co as tobě, národe, rovno jest,</l>
+     <l n="6" met="01010100101" rhyme="3" line_length="11">co slávy tvojí k obrazu mohu vznést?</l>
+     <l n="7" met="010101010" rhyme="4" line_length="9">Čím pevnost žuly, bouře síla,</l>
+     <l n="8" met="1001001010" rhyme="4" line_length="10">záře, již dennice světům sílá? –</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="11010100100" rhyme="5" line_length="11">Ó slávo česká, národe, vlasti! – K vám,</l>
+     <l n="10" met="01010100101" rhyme="5" line_length="11">již v srdci nosím, lásku, s čím rovnat mám? –</l>
+     <l n="11" met="000101010" rhyme="6" line_length="9">Jak vy jste velky, krásny, skvoucí,</l>
+     <l n="12" met="1001001010" rhyme="6" line_length="10">taková láska v mé duši vroucí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

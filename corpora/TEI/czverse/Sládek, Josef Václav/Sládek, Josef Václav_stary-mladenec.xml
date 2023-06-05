@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Starý mládenec.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_stary-mladenec</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Starý mládenec.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Starý mládenec.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100110" line_length="6">Kdybych já měl ženu,</l>
+     <l n="2" met="10100" rhyme="1" line_length="5">žil bych o vodě,</l>
+     <l n="3" met="100010" line_length="6">neseděl bych pořád</l>
+     <l n="4" met="10100" rhyme="1" line_length="5">u vás v hospodě.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100110" line_length="6">Kdybych já měl ženu,</l>
+     <l n="6" met="10101" rhyme="2" line_length="5">šel bych domů spat,</l>
+     <l n="7" met="100010" line_length="6">sotva by mne zdržel</l>
+     <l n="8" met="10100" rhyme="2" line_length="5">hodný kamarád.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100110" line_length="6">Kdybych já měl ženu</l>
+     <l n="10" met="10101" rhyme="3" line_length="5">jako v lese drozd,</l>
+     <l n="11" met="000010" line_length="6">však bych já si zpíval</l>
+     <l n="12" met="10100" rhyme="3" line_length="5">také doma dost.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100110" line_length="6">Kdybych já měl ženu</l>
+     <l n="14" met="10100" rhyme="4" line_length="5">třeba maličkou,</l>
+     <l n="15" met="000010" line_length="6">radš bych se s ní těšil</l>
+     <l n="16" met="00100" rhyme="4" line_length="5">než s tou opičkou.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>BÍLÉ RUCE.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_bile-ruce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>BÍLÉ RUCE.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>BÍLÉ RUCE.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" line_length="6">Milosrdné sestry,</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">bílé ruce máte,</l>
+     <l n="3" met="100010" line_length="6">povězte mi jenom,</l>
+     <l n="4" met="001000" rhyme="1" line_length="6">čím je umýváte?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101010" line_length="6">Čistou vřelou rosou</l>
+     <l n="6" met="001000" rhyme="2" line_length="6">si je umýváme,</l>
+     <l n="7" met="010010" line_length="6">když sirotkům ráno</l>
+     <l n="8" met="101000" rhyme="2" line_length="6">slzy utíráme.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100010" line_length="6">Do podušek bílých</l>
+     <l n="10" met="001000" rhyme="2" line_length="6">si je utíráme,</l>
+     <l n="11" met="010010" line_length="6">když nemocným v noci</l>
+     <l n="12" met="101000" rhyme="2" line_length="6">hlavy podkládáme.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

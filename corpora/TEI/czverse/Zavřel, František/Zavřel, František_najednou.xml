@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NAJEDNOU</title>
+    <author>Zavřel, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Zavřel, František_najednou</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NAJEDNOU</title>
+     <author>Zavřel, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NAJEDNOU</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001000" rhyme="1" line_length="8">Pacifismus, defaitismus,</l>
+     <l n="2" met="10001000" rhyme="1" line_length="8">realismus, humanismus</l>
+     <l n="3" met="100010100" rhyme="2" line_length="9">propadly se v propast bezednou.</l>
+     <l n="4" met="101000100" rhyme="3" line_length="9">Páni ku podivu obrací,</l>
+     <l n="5" met="10010100" rhyme="3" line_length="8">ze všech se stali vojáci.</l>
+     <l n="6" met="100" rhyme="2" line_length="3">Najednou!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

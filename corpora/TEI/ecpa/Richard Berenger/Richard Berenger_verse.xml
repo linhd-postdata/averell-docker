@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VERSE.</title>
+    <author>Richard Berenger</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Richard Berenger_verse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Eighteenth Century Poetry Archive</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VERSE.</title>
+     <author>Richard Berenger</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VERSE.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="quatrain">
+     <l n="1" met="-+|-+|-+|-+" line_length="8">YOU ask why in that garland fair,</l>
+     <l n="2" met="-+|-+|-+" line_length="6">Where various sweets abound,</l>
+     <l n="3" met="-+|-+|-+|-+" line_length="8">A  flow'r of merit rare</l>
+     <l n="4" met="-+|-+|-+" line_length="6">Is no where to be found?</l>
+    </lg>
+    <lg n="2" stanza_type="quatrain">
+     <l n="5" met="-+|-+|-+|-+" line_length="8">Why the same florist thought not meet</l>
+     <l n="6" met="-+|-+|-+" line_length="6">To give that bloom its due?</l>
+     <l n="7" met="-+|-+|-+|-+" line_length="8">Since none can odours yield more sweet,</l>
+     <l n="8" met="-+|-+|-+" line_length="6">Or boast a brighter hue.</l>
+    </lg>
+    <lg n="3" stanza_type="quatrain">
+     <l n="9" met="-+|-+|-+|-+" line_length="8">Then know, the modest swain, my friend,</l>
+     <l n="10" met="-+|-+|-+" line_length="6">Who cull'd those flow'rs so gay,</l>
+     <l n="11" met="-+|-+|-+|-+" line_length="8">Meant others worth to recommend,</l>
+     <l n="12" met="-+|-+|-+" line_length="6">And not his own display.</l>
+    </lg>
+    <lg n="4" stanza_type="quatrain">
+     <l n="13" met="-+|-+|-+|-+" line_length="8">But if this blooming wreath had been</l>
+     <l n="14" met="-+|-+|-+" line_length="6">Twin'd by another's care,</l>
+     <l n="15" met="-+|-+|-+|-+" line_length="8">Dodsley, thy flow'r, we then had seen</l>
+     <l n="16" met="-+|-+|-+" line_length="6">Shining distinguish'd there.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

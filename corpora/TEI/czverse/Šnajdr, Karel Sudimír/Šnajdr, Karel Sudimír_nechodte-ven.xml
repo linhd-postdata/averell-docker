@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nechoďte ven!</title>
+    <author>Šnajdr, Karel Sudimír</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">32</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Šnajdr, Karel Sudimír_nechodte-ven</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nechoďte ven!</title>
+     <author>Šnajdr, Karel Sudimír</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nechoďte ven!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" line_length="6">Okolo chaloupky</l>
+     <l n="2" met="100" rhyme="1" line_length="3">Chodíval,</l>
+     <l n="3" met="100010" line_length="6">Fábory a šperky</l>
+     <l n="4" met="100" rhyme="1" line_length="3">Nosýval.</l>
+     <l n="5" met="100010" line_length="6">Na okénko zvolna</l>
+     <l n="6" met="100" rhyme="2" line_length="3">Ťukával,</l>
+     <l n="7" met="010010" line_length="6">Bych na chvílku vyšla,</l>
+     <l n="8" met="100" rhyme="2" line_length="3">Žebrával.</l>
+    </lg>
+    <lg n="2">
+     <l n="9" met="100100" line_length="6">Pokud jsem, přesmutná,</l>
+     <l n="10" met="100" rhyme="3" line_length="3">Nešla ven,</l>
+     <l n="11" met="101010" line_length="6">Chodil ťukat mnohý,</l>
+     <l n="12" met="101" rhyme="3" line_length="3">Mnohý den.</l>
+     <l n="13" met="000010" line_length="6">Jak sem však jen pětkrát</l>
+     <l n="14" met="010" rhyme="4" line_length="3">Ven vyšla,</l>
+     <l n="15" met="100010" line_length="6">K chození mu chuť víc</l>
+     <l n="16" met="100" rhyme="4" line_length="3">Nepřišla.</l>
+    </lg>
+    <lg n="3">
+     <l n="17" met="001010" line_length="6">Teď se u nás ani</l>
+     <l n="18" met="110" rhyme="5" line_length="3">Zřít nedá,</l>
+     <l n="19" met="001010" line_length="6">Že vždy venku stojím,</l>
+     <l n="20" met="010" rhyme="5" line_length="3">Nic nedbá!</l>
+     <l n="21" met="100110" line_length="6">Kolikrát, ach! počnu</l>
+     <l n="22" met="100" rhyme="6" line_length="3">Plakati,</l>
+     <l n="23" met="000010" line_length="6">Že se ho juž nelze</l>
+     <l n="24" met="100" rhyme="6" line_length="3">Dočkati.</l>
+    </lg>
+    <lg n="4">
+     <l n="25" met="100100" line_length="6">Panenky! panenky!</l>
+     <l n="26" met="100" rhyme="7" line_length="3">Prosým vás,</l>
+     <l n="27" met="100100" line_length="6">Chraňte se, dokud je</l>
+     <l n="28" met="101" rhyme="7" line_length="3">Ještě čas.</l>
+     <l n="29" met="101010" line_length="6">Nechte ťukat rok a</l>
+     <l n="30" met="101" rhyme="8" line_length="3">Mnohý den,</l>
+     <l n="31" met="010010" line_length="6">A nechoďte nikdý,</l>
+     <l n="32" met="100" rhyme="8" line_length="3">Nikdý ven!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

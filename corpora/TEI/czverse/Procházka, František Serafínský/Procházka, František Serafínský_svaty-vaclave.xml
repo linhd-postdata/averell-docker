@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SVATÝ VÁCLAVE</title>
+    <author>Procházka, František Serafínský</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Procházka, František Serafínský_svaty-vaclave</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SVATÝ VÁCLAVE</title>
+     <author>Procházka, František Serafínský</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SVATÝ VÁCLAVE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010" rhyme="1" line_length="7">Vévodo české země,</l>
+     <l n="2" met="1001010" rhyme="1" line_length="7">na chvilku skloň se ke mně,</l>
+     <l n="3" met="1101010" rhyme="2" line_length="7">pár slov, jež v srdci nosím,</l>
+     <l n="4" met="0100010" rhyme="2" line_length="7">bys vyplnil, tě prosím.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001010" rhyme="1" line_length="7">Vévodo české země,</l>
+     <l n="6" met="0101010" rhyme="1" line_length="7">ty’s voly řvoucí temně</l>
+     <l n="7" met="0101010" rhyme="3" line_length="7">slal odtud, nejsa hloupý,</l>
+     <l n="8" met="0101010" rhyme="3" line_length="7">jak svého míru sloupy.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1011000" rhyme="4" line_length="7">Mír zas chcem v republice,</l>
+     <l n="10" met="0101000" rhyme="4" line_length="7">i prosím převelice,</l>
+     <l n="11" met="1000010" rhyme="5" line_length="7">pošli pryč zas ty voly,</l>
+     <l n="12" met="0101000" rhyme="5" line_length="7">nám srdce nezabolí.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1001010" rhyme="6" line_length="7">Sto jich tu bučí denně</l>
+     <l n="14" met="1000010" rhyme="6" line_length="7">po cizozemském seně – –</l>
+     <l n="15" met="0101110" rhyme="7" line_length="7">ať jdou, ať jdou, rač říci,</l>
+     <l n="16" met="0100010" rhyme="7" line_length="7">a zapálím ti svíci.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

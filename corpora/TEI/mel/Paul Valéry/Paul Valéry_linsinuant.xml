@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L’Insinuant</title>
+    <author>Paul Valéry</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Valéry_linsinuant</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L’Insinuant</title>
+     <author>Paul Valéry</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L’Insinuant</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="5">Ô courbes, méandre,</l>
+     <l n="2" rhyme="b" line_length="5">Secrets du menteur,</l>
+     <l n="3" rhyme="a" line_length="5">Est-il art plus tendre</l>
+     <l n="4" rhyme="b" line_length="5">Que cette lenteur ?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="5">Je sais où je vais,</l>
+     <l n="6" rhyme="b" line_length="5">Je t’y veux conduire,</l>
+     <l n="7" rhyme="a" line_length="5">Mon dessein mauvais</l>
+     <l n="8" rhyme="b" line_length="5">N’est pas de te nuire…</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="5">Quoique souriante</l>
+     <l n="10" rhyme="b" line_length="5">En pleine fierté,</l>
+     <l n="11" rhyme="b" line_length="5">Tant de liberté</l>
+     <l n="12" rhyme="a" line_length="5">Te désoriente ?</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="5">Ô Courbes, méandres,</l>
+     <l n="14" rhyme="b" line_length="5">Secrets du menteur,</l>
+     <l n="15" rhyme="a" line_length="5">Je veux faire attendre</l>
+     <l n="16" rhyme="a" line_length="5">Le mot le plus tendre.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

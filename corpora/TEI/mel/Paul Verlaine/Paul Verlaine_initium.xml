@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Initium</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_initium</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Initium</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Initium</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Les violons mêlaient leur rire au chant des flûtes,</l>
+     <l n="2" rhyme="b" line_length="6+6">Et le bal tournoyait quand je la vis passer</l>
+     <l n="3" rhyme="a" line_length="6+6">Avec ses cheveux blonds jouant sur les volutes</l>
+     <l n="4" rhyme="b" line_length="6−6">De son oreille où mon Désir comme un baiser</l>
+     <l n="5" rhyme="b" line_length="6+6">S'élançait et voulait lui parler, sans oser.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" rhyme="a" line_length="6+6">Cependant elle allait, et la mazurque lente</l>
+     <l n="7" rhyme="b" line_length="6+6">La portait dans son rhythme indolent comme un vers,</l>
+     <l n="8" rhyme="a" line_length="6+6">— Rime mélodieuse, image étincelante, —</l>
+     <l n="9" rhyme="b" line_length="6+6">Et son âme d'enfant rayonnait à travers</l>
+     <l n="10" rhyme="b" line_length="6+6">La sensuelle ampleur de ses yeux gris et verts.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" rhyme="a" line_length="6+6">Et depuis, ma Pensée – immobile – contemple</l>
+     <l n="12" rhyme="b" line_length="6+6">Sa Splendeur évoquée, en adoration,</l>
+     <l n="13" rhyme="a" line_length="6+6">Et, dans son Souvenir, ainsi que dans un temple,</l>
+     <l n="14" rhyme="b" line_length="6+6">Mon Amour entre, plein de superstition.</l>
+    </lg>
+    <lg n="4">
+     <l n="15" rhyme="x" line_length="6+6">Et je crois que voici venir la Passion.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

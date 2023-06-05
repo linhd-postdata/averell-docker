@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SPÁNEK.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_spanek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SPÁNEK.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SPÁNEK.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101010001010" rhyme="1" line_length="16">Největší ty všeho lidstva dobrodinče, spánku zlatý,</l>
+     <l n="2" met="1000101010101000" rhyme="1" line_length="16">na mladé i staré vylij pohár snů svých vrchovatý!</l>
+     <l n="3" met="001010101010100" rhyme="2" line_length="15">Ať ten jásá, onen kvílí, cítí mráz neb léta pal,</l>
+     <l n="4" met="101010101010100" rhyme="2" line_length="15">jedno jisté, jen když přišel’s, – pak jsi jistě nezklamal.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

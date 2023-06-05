@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MRZUTÉ SLOKY.</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_mrzute-sloky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MRZUTÉ SLOKY.</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MRZUTÉ SLOKY.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" rhyme="1" line_length="9">Je šeré ráno. V mlhy hale</l>
+     <l n="2" met="11010000" rhyme="2" line_length="8">den chví se listopadový.</l>
+     <l n="3" met="100101000" rhyme="1" line_length="9">Se stromů krouží ve spirále</l>
+     <l n="4" met="10010100" rhyme="2" line_length="8">uvadlé mokré listoví.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101010" rhyme="3" line_length="9">To býval čas, kdy člověk psancem</l>
+     <l n="6" met="10000100" rhyme="4" line_length="8">na bezútěšné zemi byl,</l>
+     <l n="7" met="010101010" rhyme="3" line_length="9">kdy zkoumal, jak by žití rancem</l>
+     <l n="8" met="01000100" rhyme="4" line_length="8">kdes nenápadně pohodil.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101010" rhyme="5" line_length="9">Teď do té mlhy tupě hledí</l>
+     <l n="10" met="11010101" rhyme="6" line_length="8">– čas ztratil pro něj tíhu, vztek –</l>
+     <l n="11" met="100101000" rhyme="5" line_length="9">nečeká na nic odpovědi</l>
+     <l n="12" met="01010100" rhyme="6" line_length="8">a nemá žádných otázek.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

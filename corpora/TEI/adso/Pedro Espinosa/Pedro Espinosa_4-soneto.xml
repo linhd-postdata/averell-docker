@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- 4 -  Soneto </title>
+    <author>Pedro Espinosa</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pedro Espinosa_4-soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- 4 -  Soneto </title>
+     <author>Pedro Espinosa</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- 4 -  Soneto </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+-+-+-">O blanca ninfa más que nieve helada,</l>
+     <l n="2" met="-+---+---+-">de honesta gentileza y cortesía,</l>
+     <l n="3" met="-+-+-+-+-+-">o cómo te haces rica a costa mía</l>
+     <l n="4" met="+--+-+---+-">gracia, valor, belleza sublimada.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">O blanca ninfa que con mano armada</l>
+     <l n="6" met="-+---+---+-">de honesta gentileza y cortesía,</l>
+     <l n="7" met="---+-+---+-">mi voluntad rendiste que tenía</l>
+     <l n="8" met="-+---++--+-">en dulce libertad muy descuidada.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+++-+-">O blanca ninfa ¿no fue gloria honrosa</l>
+     <l n="10" met="-+---+---+-">en parte tan segura y sin sospecha,</l>
+     <l n="11" met="+-++-+---+-">yendo yo muy de paz y desarmado</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+---+-">acometer con vista tan hermosa</l>
+     <l n="13" met="+--+-+---+-">un corazón sin armas desarmado</l>
+     <l n="14" met="---+-+-+-+-">y sobre paz, meterle en guerra estrecha?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ministr-krajanky.</title>
+    <author>Pachmayer, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pachmayer, Josef_ministr-krajanky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ministr-krajanky.</title>
+     <author>Pachmayer, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ministr-krajanky.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010011010" rhyme="1" line_length="9">Jen koho teď? Jde o to pouze!</l>
+     <l n="2" met="010001010" rhyme="1" line_length="9">Proč otázkou se mučit dlouze?</l>
+     <l n="3" met="00101010" rhyme="1" line_length="8">Proč se vzpírat dám těch touze?</l>
+     <l n="4" met="010101010" rhyme="1" line_length="9">Je přece bída jako nouze!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000100" line_length="8">Nač s státníky a s manžely</l>
+     <l n="6" met="10001010" rhyme="2" line_length="8">podnikat zas zkoušku novou?</l>
+     <l n="7" met="10001010" line_length="8">Posaďme hned v křeslo teplé</l>
+     <l n="8" met="10101000" rhyme="2" line_length="8">hezkou paní ministrovou!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

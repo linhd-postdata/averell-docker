@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LA VIE EST UNE ESCARPOLETTE, C'EST NOTOIRE</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_la-vie-est-une-escarpolette-c</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LA VIE EST UNE ESCARPOLETTE, C'EST NOTOIRE</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LA VIE EST UNE ESCARPOLETTE, C'EST NOTOIRE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8+4">La vie est une escarpolette, c'est notoire</l>
+     <l n="2" rhyme="a" line_length="6+6">Seul je tiens un des bouts de cette balançoire</l>
+     <l n="3" rhyme="b" line_length="8">Où je suis seul abandonné</l>
+     <l n="4" rhyme="c" line_length="6+4">Vous dont les malheureux connaissent l'âme,</l>
+     <l n="5" rhyme="c" line_length="4+6">Par charité, voulez-vous pas madame</l>
+     <l n="6" rhyme="b" line_length="8">Vous mettre à l'autre extrémité.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

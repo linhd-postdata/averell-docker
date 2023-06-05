@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El poeta galante -- I</title>
+    <author>José Santos Chocano</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Santos Chocano_el-poeta-galante-i</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El poeta galante -- I</title>
+     <author>José Santos Chocano</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El poeta galante -- I</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+++----+-+-">Añoro yo aquel tiempo del miriñaque inflado,</l>
+     <l n="2" met="--+-------+-+-">de los bucles en torno de la ovalada frente,</l>
+     <l n="3" met="--+--+--+---+-">de los largos zarcillos de plata reluciente</l>
+     <l n="4" met="-----+-++---+-">y del impertinente que hoy ha resucitado.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+-++---+-">En un daguerrotipo, que un fiel enamorado</l>
+     <l n="6" met="++++-+--++--+-">guarda, he visto una dama de aquel tiempo; y mi mente</l>
+     <l n="7" met="+-+--+------+-">se ha sentido confusa, porque en nuestro presente</l>
+     <l n="8" met="++-+-+-+----+-">ya no hay aquella gracia que hubo en nuestro pasado.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---++-+-">¡Oh tiempo aquel de gentes que, al mirarlas de lejos,</l>
+     <l n="10" met="--+--+-+-+--+-">aparecen rodeadas de una luz misteriosa,</l>
+     <l n="11" met="+-+--+---+--+-">cual si las reflejasen desconchados espejos!</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+----+-+-">Tibio rincón de encanto donde el amor chispea,</l>
+     <l n="13" met="-----+---+--+-">mientras que en el ambiente perfumado de rosa,</l>
+     <l n="14" met="+--+++--+---+-">flota el rumor de un ósculo entre una melopea...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

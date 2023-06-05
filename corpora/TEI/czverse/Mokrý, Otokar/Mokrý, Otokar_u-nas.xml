@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>U nás.</title>
+    <author>Mokrý, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mokrý, Otokar_u-nas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>U nás.</title>
+     <author>Mokrý, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>U nás.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001000" line_length="8">Bez nadšení – bez nadšení,</l>
+     <l n="2" met="1010100" rhyme="1" line_length="7">jako víno bez kvasu,</l>
+     <l n="3" met="01001010" line_length="8">jak bez perly lůno škeble,</l>
+     <l n="4" met="01001010" rhyme="1" line_length="8">jak pohled, jenž nemá jasu.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001000" line_length="8">Bez nadšení, bez nadšení,</l>
+     <l n="6" met="10101000" rhyme="2" line_length="8">jako moře bez lastury,</l>
+     <l n="7" met="10101010" line_length="8">jako nebe, na němž visí,</l>
+     <l n="8" met="10001010" rhyme="2" line_length="8">strhané jen, těžké chmury.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" line_length="8">Bože velký! vzmach jen jeden,</l>
+     <l n="10" met="10101000" rhyme="3" line_length="8">jedno jenom rozechvění,</l>
+     <l n="11" met="10101010" line_length="8">krok jen k předu, třeba přes práh,</l>
+     <l n="12" met="10101010" rhyme="3" line_length="8">z něhož více návrat není!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

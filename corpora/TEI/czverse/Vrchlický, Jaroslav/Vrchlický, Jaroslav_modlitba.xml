@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MODLITBA.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_modlitba</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MODLITBA.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MODLITBA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">V žití pouti, kde se hroutí</l>
+     <l n="2" met="10101010" rhyme="2" line_length="8">všecko v prach a noc a rumy,</l>
+     <l n="3" met="10101010" rhyme="2" line_length="8">trochu světlé, tiché dumy,</l>
+     <l n="4" met="00101010" line_length="8">jež by skvělá v život zřela</l>
+     <l n="5" met="10101010" rhyme="1" line_length="8">jako svlačec z vrbin proutí,</l>
+     <l n="6" met="10001" rhyme="3" line_length="5">osude mi přej!</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="10101000" rhyme="4" line_length="8">V ňader kalich, v neustálých</l>
+     <l n="8" met="10101010" rhyme="5" line_length="8">který žárech zeje, práhne,</l>
+     <l n="9" met="10101010" rhyme="5" line_length="8">žízní všecku vláhu vtáhne,</l>
+     <l n="10" met="10101010" line_length="8">trochu rosy, jak ji nosí</l>
+     <l n="11" met="10100010" rhyme="4" line_length="8">lilek ve kališkách malých,</l>
+     <l n="12" met="10100" rhyme="3" line_length="5">v hruď mi nalívej!</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="00101010" rhyme="6" line_length="8">A z těch vděků, řady věků</l>
+     <l n="14" met="10001000" rhyme="7" line_length="8">v umění co nakupily,</l>
+     <l n="15" met="10100010" rhyme="7" line_length="8">trochu svěžesti a síly</l>
+     <l n="16" met="10101010" line_length="8">v trud a pláče, co by ptáče</l>
+     <l n="17" met="10001010" rhyme="6" line_length="8">sezobalo – srdci k léku,</l>
+     <l n="18" met="10001" rhyme="3" line_length="5">ku písni mi dej!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

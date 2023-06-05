@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Al Petrarca</title>
+    <author>Clemente Althaus</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Clemente Althaus_al-petrarca</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Al Petrarca</title>
+     <author>Clemente Althaus</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Al Petrarca</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">¡Bendita sea la feliz tibieza</l>
+     <l n="2" met="---+---+-+-">con que, celosa de su pura fama,</l>
+     <l n="3" met="-+-+---+-+-">pagó tu amor la aviñonense dama</l>
+     <l n="4" met="--+--+---+-">que igualó su virtud con su belleza!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">¡Benditos el rigor y la esquiveza</l>
+     <l n="6" met="---+---+-+-">que acrisolaron tu amorosa llama,</l>
+     <l n="7" met="-+-+---+-+-">y te valieron la gloriosa rama</l>
+     <l n="8" met="+--+---+-+-">que hoy enguirnalda tu feliz cabeza!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-++--+---+-">Así Apolo que a Dafne perseguía</l>
+     <l n="10" met="---+++---+-">cuando a abrazarla llega, sus congojas</l>
+     <l n="11" met="+-++---+-+-">sienten de un árbol la corteza fría.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+---+-+-">Mas en sus ramas la deidad doliente</l>
+     <l n="13" met="+--+---+-+-">halla las verdes premiadoras hojas,</l>
+     <l n="14" met="+--+---+-+-">digna corona de su altiva frente.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

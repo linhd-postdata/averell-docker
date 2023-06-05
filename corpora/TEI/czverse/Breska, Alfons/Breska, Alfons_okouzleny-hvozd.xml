@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>OKOUZLENÝ HVOZD</title>
+    <author>Breska, Alfons</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Breska, Alfons_okouzleny-hvozd</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>OKOUZLENÝ HVOZD</title>
+     <author>Breska, Alfons</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>OKOUZLENÝ HVOZD</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010100" rhyme="1" line_length="8">Ó, sestro, tiše v lesů hloub,</l>
+     <l n="2" met="010001000" rhyme="2" line_length="9">kde tajemně vše světélkuje,</l>
+     <l n="3" met="01010101" rhyme="1" line_length="8">kde každý kmen je zlatý sloup</l>
+     <l n="4" met="010001010" rhyme="2" line_length="9">a čarodějka kouzla kuje.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" rhyme="3" line_length="8">Pověstný vrch se otvírá,</l>
+     <l n="6" met="010101000" rhyme="4" line_length="9">kde divy střeží pidimuži,</l>
+     <l n="7" met="10010100" rhyme="3" line_length="8">hlubiny země rozvírá</l>
+     <l n="8" met="010101010" rhyme="4" line_length="9">a tisíc svítí zlatých růží.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="11010101" rhyme="5" line_length="8">Jde měsíc květů, ejsa hej,</l>
+     <l n="10" met="100101010" rhyme="6" line_length="9">tušení bouří hvozdem chvějí,</l>
+     <l n="11" met="11010101" rhyme="5" line_length="8">ó, bílá sestro, pozor dej,</l>
+     <l n="12" met="010100010" rhyme="6" line_length="9">kde temné prohlubiny zejí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

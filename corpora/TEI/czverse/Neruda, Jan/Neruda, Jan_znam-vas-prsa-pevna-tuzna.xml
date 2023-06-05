@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Znám vás prsa pěvná, tužná,</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_znam-vas-prsa-pevna-tuzna</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Znám vás prsa pěvná, tužná,</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Znám vás prsa pěvná, tužná,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">Znám vás prsa pěvná, tužná, </l>
+     <l n="2" met="00101010" rhyme="1" line_length="8">a v těch prsou, srdce, tebe,</l>
+     <l n="3" met="10001010" rhyme="1" line_length="8">vycházejíť písně z tebe,</l>
+     <l n="4" met="10100010" rhyme="1" line_length="8">jako andělové z nebe.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10000010" line_length="8">Vycházejí buď v své nahé,</l>
+     <l n="6" met="01000010" rhyme="2" line_length="8">buď ve zahalené kráse,</l>
+     <l n="7" met="10101000" line_length="8">jedny k mému zatracení,</l>
+     <l n="8" met="10100010" rhyme="2" line_length="8">a ty druhé zas k mé spáse.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dans la rue</title>
+    <author>François Coppée</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>François Coppée_dans-la-rue</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dans la rue</title>
+     <author>François Coppée</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dans la rue</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Les deux petites sont en deuil ;</l>
+     <l n="2" rhyme="b" line_length="8">Et la plus grande — c'est la mère —</l>
+     <l n="3" rhyme="a" line_length="8">A conduit l'autre jusqu'au seuil</l>
+     <l n="4" rhyme="b" line_length="8">Qui mène à l'école primaire.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Elle inspecte, dans le panier,</l>
+     <l n="6" rhyme="b" line_length="8">Les tartines de confiture</l>
+     <l n="7" rhyme="a" line_length="8">Et jette un coup d'œil au dernier</l>
+     <l n="8" rhyme="b" line_length="8">Devoir du cahier d'écriture.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Puis comme c'est un matin froid</l>
+     <l n="10" rhyme="b" line_length="8">Où l'eau gèle dans la rigole,</l>
+     <l n="11" rhyme="a" line_length="8">Et comme il faut que l'enfant soit</l>
+     <l n="12" rhyme="b" line_length="8">En état d'entrer à l'école,</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">Écartant le vieux châle noir</l>
+     <l n="14" rhyme="b" line_length="8">Dont la petite s'emmitoufle,</l>
+     <l n="15" rhyme="a" line_length="8">L'aînée alors tire un mouchoir,</l>
+     <l n="16" rhyme="b" line_length="8">Lui prend le nez et lui dit : « Souffle. »</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

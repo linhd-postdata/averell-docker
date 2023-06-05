@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PROPOS DU CHANT DU CYGNE</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_propos-du-chant-du-cygne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PROPOS DU CHANT DU CYGNE</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PROPOS DU CHANT DU CYGNE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Le Cygne, lorsqu'il sent venir l'heure suprême,</l>
+     <l n="2" rhyme="b" line_length="6">A la blonde lumière, au beau fleuve qu'il aime,</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="6+6">Ainsi cette pauvre âme, à la rive lointaine,</l>
+     <l n="4" rhyme="b" line_length="6">S'exhalait en doux chants et déplorait sa peine</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

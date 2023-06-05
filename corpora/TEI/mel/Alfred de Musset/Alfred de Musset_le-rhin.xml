@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Rhin</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_le-rhin</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Rhin</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Rhin</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Le Rhin, sais-tu pourquoi les amants insensés,</l>
+     <l n="2" rhyme="b" line_length="6+6">Abandonnant leur âme aux tendres rêveries,</l>
+     <l n="3" rhyme="b" line_length="6+6">Par tes bois verdoyants, par tes larges prairies</l>
+     <l n="4" rhyme="a" line_length="6+6">S’en vont par leur folie incessamment poussés ?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="b" line_length="6+6">Sais-tu pourquoi jamais les tristes railleries,</l>
+     <l n="6" rhyme="a" line_length="6+6">Les exemples d’hier, ni ceux des temps passés,</l>
+     <l n="7" rhyme="b" line_length="6+6">De tes monts adorés, de tes rives chéries,</l>
+     <l n="8" rhyme="a" line_length="6+6">Ne les ont fait descendre et ne les ont chassés ?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">C’est que, dans tous les temps, ceux que l’homme sépare</l>
+     <l n="10" rhyme="d" line_length="6+6">Et que Dieu réunit iront chercher les bois,</l>
+     <l n="11" rhyme="d" line_length="6+6">Et des vastes torrents écouteront les voix.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="c" line_length="6+6">L’homme libre viendra, loin d’un monde barbare,</l>
+     <l n="13" rhyme="e" line_length="6+6">Sur les rocs et les monts, comme au pied d’un autel,</l>
+     <l n="14" rhyme="e" line_length="6+6">Protester contre l’homme en regardant le ciel.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

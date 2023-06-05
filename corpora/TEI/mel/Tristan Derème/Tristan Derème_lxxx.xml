@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LXXX</title>
+    <author>Tristan Derème</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tristan Derème_lxxx</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LXXX</title>
+     <author>Tristan Derème</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LXXX</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Un visage, une phrase, un merle, ce fruit d'if</l>
+     <l n="2" rhyme="a" line_length="6+6">Jaune, j'ai tout aimé d'un amour maladif.</l>
+     <l n="3" rhyme="b" line_length="6+6">Car en tout je trouvais la marque du mystère</l>
+     <l n="4" rhyme="b" line_length="6−6">Universel ; et sous les branches, solitaire</l>
+     <l n="5" rhyme="a" line_length="6+6">Dans l'herbe et la chaleur que de fois j'ai compté</l>
+     <l n="6" rhyme="a" line_length="6+6">Les anneaux éclatants des guêpes de l'été.</l>
+     <l n="7" rhyme="b" line_length="6−6">L'ombre émouvante est dans les choses minuscules</l>
+     <l n="8" rhyme="b" line_length="4+4+4">Et je me tais pour écouter aux crépuscules</l>
+     <l n="9" rhyme="a" line_length="6+6">Le grillon dont la voix déferle comme un flot</l>
+     <l n="10" rhyme="a" line_length="6+6">Et renaît et se brise ; et dans l'œil d'un mulot,</l>
+     <l n="11" rhyme="b" line_length="6+6">Ainsi que dans la mer où se perdent les voiles,</l>
+     <l n="12" rhyme="b" line_length="6+6">Se reflète l'azur, la lune et les étoiles.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

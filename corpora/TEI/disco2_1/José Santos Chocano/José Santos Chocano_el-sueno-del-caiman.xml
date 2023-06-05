@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El sueño del caimán</title>
+    <author>José Santos Chocano</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Santos Chocano_el-sueno-del-caiman</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El sueño del caimán</title>
+     <author>José Santos Chocano</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El sueño del caimán</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Enorme tronco que arrastró la ola,</l>
+     <l n="2" met="+--+-+---+-">yace el caimán varado en la ribera;</l>
+     <l n="3" met="--+--+---+-">espinazo de abrupta cordillera,</l>
+     <l n="4" met="+--+---+-+-">fauces de abismo y formidable cola.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+++-+---+-">El sol le envuelve en fúlgida aureola,</l>
+     <l n="6" met="--+--++--+-">y parece lucir cota y cimera,</l>
+     <l n="7" met="++---+---+-">cual monstruo de metal que reverbera</l>
+     <l n="8" met="-----+---+-">y que al reverberar se tornasola.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+--++---+-">Inmóvil como un ídolo sagrado,</l>
+     <l n="10" met="-+-+---+-+-">ceñido en mallas de compacto acero,</l>
+     <l n="11" met="-+-+-+---+-">está ante el agua estático y sombrío,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="----++---+-">a manera de un príncipe encantado</l>
+     <l n="13" met="-+-+-+---+-">que vive eternamente prisionero</l>
+     <l n="14" met="---+---+++-">en el palacio de cristal de un río.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hélène</title>
+    <author>Paul Valéry</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Valéry_helene</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hélène</title>
+     <author>Paul Valéry</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hélène</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Azur ! c’est moi… Je viens des grottes de la mort</l>
+     <l n="2" rhyme="b" line_length="6−6">Entendre l’onde se rompre aux degrés sonores,</l>
+     <l n="3" rhyme="b" line_length="4+8">Et je revois les galères dans les aurores</l>
+     <l n="4" rhyme="a" line_length="6+6">Ressusciter de l’ombre au fil des rames d’or.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">Mes solitaires mains appellent les monarques</l>
+     <l n="6" rhyme="d" line_length="6+6">Dont la barbe de sel amusait mes doigts purs ;</l>
+     <l n="7" rhyme="d" line_length="6+6">Je pleurais. Ils chantaient leurs triomphes obscurs</l>
+     <l n="8" rhyme="c" line_length="6+6">Et les golfes enfuis aux poupes de leurs barques.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="4+8">J’entends les conques profondes et les clairons</l>
+     <l n="10" rhyme="e" line_length="6+6">Militaires rythmer le vol des avirons ;</l>
+     <l n="11" rhyme="f" line_length="6+6">Le chant clair des rameurs enchaînes le tumulte,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="6+6">Et les Dieux, à la proue héroïque exaltés</l>
+     <l n="13" rhyme="f" line_length="6+6">Dans leur sourire antique et que l´écume insulte,</l>
+     <l n="14" rhyme="g" line_length="6+6">Tendent vers moi leurs bras indulgents et sculptés.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

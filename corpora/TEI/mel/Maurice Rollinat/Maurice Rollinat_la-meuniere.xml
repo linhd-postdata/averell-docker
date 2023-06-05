@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Meunière</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_la-meuniere</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Meunière</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Meunière</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">La meunière, une forte et rougeaude jeunesse,</l>
+     <l n="2" rhyme="b" line_length="6+6">Chantait dans sa charrette en piquant son bardeau ;</l>
+     <l n="3" rhyme="b" line_length="6+6">Tout à coup, l'animal quittant son pas lourdaud,</l>
+     <l n="4" rhyme="a" line_length="6+6">Partit brusque ! il venait de sentir une ânesse.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">Celle-ci, l'ayant vu du fond du brouillard pâle,</l>
+     <l n="6" rhyme="d" line_length="6+6">D'un long cri de désir hélait le bourriquot</l>
+     <l n="7" rhyme="d" line_length="6+6">Lequel hâtait sa course en ébranlant l'écho</l>
+     <l n="8" rhyme="c" line_length="6+6">D'un grand hi-han tout plein de sa vigueur de mâle.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="6+6">Jointe, ce fut l'éclair ! Entre ses pieds roidis</l>
+     <l n="10" rhyme="e" line_length="6+6">Il lui serra les flancs et l'eut toute ! Et, tandis</l>
+     <l n="11" rhyme="f" line_length="6+6">Qu'allaient se consommant ces amours bucoliques,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="6+6">Renversée en arrière, avec un œil fripon,</l>
+     <l n="13" rhyme="g" line_length="6+6">La meunière, à deux mains rabattant son jupon,</l>
+     <l n="14" rhyme="f" line_length="6+6">Riait, jambes en l'air sur les limons obliques.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

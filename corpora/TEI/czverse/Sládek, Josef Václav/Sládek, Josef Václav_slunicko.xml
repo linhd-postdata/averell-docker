@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SLUNÍČKO.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_slunicko</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SLUNÍČKO.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SLUNÍČKO.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010010" rhyme="1" line_length="6">JÁ, kočička malá,</l>
+     <l n="2" met="001010" rhyme="1" line_length="6">jak jsem ráno vstala,</l>
+     <l n="3" met="000100" line_length="6">hned jsem to sluníčko</l>
+     <l n="4" met="101000" rhyme="1" line_length="6">smát se uhlídala.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010010" line_length="6">A kdyby se smálo</l>
+     <l n="6" met="101000" rhyme="2" line_length="6">stokrát do pokoje,</l>
+     <l n="7" met="001000" line_length="6">tak se neusměje,</l>
+     <l n="8" met="010010" rhyme="2" line_length="6">jak matička moje.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

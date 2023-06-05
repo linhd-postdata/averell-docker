@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Bez nápisu.</title>
+    <author>Dvořáková-Mráčková, Albína</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořáková-Mráčková, Albína_bez-napisu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Bez nápisu.</title>
+     <author>Dvořáková-Mráčková, Albína</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Bez nápisu.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" line_length="11">Tak mnohá jiskra, zárod ducha velka,</l>
+     <l n="2" met="10010100010" rhyme="1" line_length="11">tlumena bídou uhasíná v málu;</l>
+     <l n="3" met="01010100010" line_length="11">tak mnohý démant neskonalé ceny</l>
+     <l n="4" met="10010100010" rhyme="1" line_length="11">nepoznán leží povržený v kalu.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010101010" line_length="11">Po něm ta panská hrdě šlape lůza</l>
+     <l n="6" met="01000101010" rhyme="2" line_length="11">a krvavě svou hnusnou šlepěj vbodne –</l>
+     <l n="7" met="01010101010" line_length="11">tu hlavu prázdnou, balón vzdušný vznášíc –</l>
+     <l n="8" met="10010100010" rhyme="2" line_length="11">ve mnohé čelo diadému hodné.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101010" line_length="11">Ba dobře šlape! vždyť by démant zleštěn</l>
+     <l n="10" met="1001010100" rhyme="3" line_length="10">oslepil zraky v děsnou temnotu,</l>
+     <l n="11" met="00010101010" line_length="11">vždyť by ta jiskra mocným vzdmuta dechem</l>
+     <l n="12" met="0101000100" rhyme="3" line_length="10">tu bídnou objasnila nicotu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

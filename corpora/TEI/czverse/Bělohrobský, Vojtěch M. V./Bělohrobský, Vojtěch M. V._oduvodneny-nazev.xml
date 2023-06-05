@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Odůvodněný název.</title>
+    <author>Bělohrobský, Vojtěch M. V.</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Bělohrobský, Vojtěch M. V._oduvodneny-nazev</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Odůvodněný název.</title>
+     <author>Bělohrobský, Vojtěch M. V.</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Odůvodněný název.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" line_length="8">„Drahá moje polovičko!“</l>
+     <l n="2" met="11011000" rhyme="1" line_length="8">dí ženě strýc Sýkorovic;</l>
+     <l n="3" met="00011010" line_length="8">víť on, že má ženu svoji</l>
+     <l n="4" met="10001000" rhyme="1" line_length="8">se sousedem na polovic.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

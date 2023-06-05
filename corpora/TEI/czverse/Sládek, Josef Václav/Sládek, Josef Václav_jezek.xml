@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JEŽEK.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_jezek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JEŽEK.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JEŽEK.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101010" rhyme="1" line_length="8">KDO z vás viděl pana ježka?</l>
+     <l n="2" met="0010100" rhyme="2" line_length="7">je to ježek ježatý;</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">moudrá řeč s ním věru těžká,</l>
+     <l n="4" met="0010100" rhyme="2" line_length="7">je tak mrzut, upjatý.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101000" rhyme="3" line_length="8">I když slunko do kožichu</l>
+     <l n="6" met="1000100" rhyme="4" line_length="7">vesele mu zasvítí,</l>
+     <l n="7" met="10001000" rhyme="3" line_length="8">zakoulí se bez ostychu,</l>
+     <l n="8" met="1010100" rhyme="4" line_length="7">nechce na ně patřiti.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="00001000" rhyme="5" line_length="8">Co pak je mu ježatému</l>
+     <l n="10" met="1010100" rhyme="6" line_length="7">světa vděk a lahoda?</l>
+     <l n="11" met="10001010" rhyme="5" line_length="8">pohlaďte ho, mluvte k němu,</l>
+     <l n="12" met="0010100" rhyme="6" line_length="7">on vás ještě pobodá.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10001010" rhyme="7" line_length="8">Nejraději ve svém šeru</l>
+     <l n="14" met="1000100" rhyme="8" line_length="7">nikoho by neviděl. –</l>
+     <l n="15" met="10000010" rhyme="7" line_length="8">Mrzout být jak ty, – to věru,</l>
+     <l n="16" met="1010100" rhyme="8" line_length="7">ježku, bych se zastyděl!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

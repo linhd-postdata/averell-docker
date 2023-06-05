@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- XXX - </title>
+    <author>Gutierre de Cetina</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Gutierre de Cetina_xxx</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- XXX - </title>
+     <author>Gutierre de Cetina</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- XXX - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+-+-+-">De las doce a las cuatro había pasado,</l>
+     <l n="2" met="--+--+-+-+-">por la quinta carrera el sol corría,</l>
+     <l n="3" met="-----+-+-+-">sin que del resplandor que dar solía</l>
+     <l n="4" met="+----+++-+-">muestra de su beldad, luz haya dado.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+-+-+-">O escondido o transpuesto o de un nublado</l>
+     <l n="6" met="+-+--+---+-">negro, lleno de horror, se le cubría</l>
+     <l n="7" met="-+---+--++-">al mísero Vandalio, el cual no vía</l>
+     <l n="8" met="-+-+-+---+-">sin él por do seguir con su ganado.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-++-+-+-+-">Llenos de un triste humor tenía los ojos</l>
+     <l n="10" met="--+--+-+-+-">el cuitado pastor mirando el cielo,</l>
+     <l n="11" met="-+---+---+-">mostrando sin hablar su desventura.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-----++--+-">Cuando, por renovar viejos enojos,</l>
+     <l n="13" met="-+---+-+++-">quitándose y poniendo el sol un velo,</l>
+     <l n="14" met="-+-+-+---+-">mostró y tornó a esconder su hermosura.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

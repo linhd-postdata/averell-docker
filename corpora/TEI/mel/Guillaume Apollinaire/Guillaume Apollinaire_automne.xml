@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Automne</title>
+    <author>Guillaume Apollinaire</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Guillaume Apollinaire_automne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Automne</title>
+     <author>Guillaume Apollinaire</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Automne</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Dans le brouillard s'en vont un paysan cagneux</l>
+     <l n="2" rhyme="b" line_length="6+6">Et son bœuf lentement dans le brouillard d'automne</l>
+     <l n="3" rhyme="a" line_length="6+6">Qui cache les hameaux pauvres et vergogneux</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="b" line_length="6+6">Et s'en allant là-bas le paysan chantonne</l>
+     <l n="5" rhyme="a" line_length="6+6">Une chanson d'amour et d'infidélité</l>
+     <l n="6" rhyme="b" line_length="6+6">Qui parle d'une bague et d'un cœur que l'on brise</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="a" line_length="6+6">Oh! l'automne l'automne a fait mourir l'été</l>
+     <l n="8" rhyme="b" line_length="6+6">Dans le brouillard s'en vont deux silhouettes grises</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

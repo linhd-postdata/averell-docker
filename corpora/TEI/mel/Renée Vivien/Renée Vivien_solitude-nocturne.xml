@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SOLITUDE NOCTURNE</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_solitude-nocturne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SOLITUDE NOCTURNE</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SOLITUDE NOCTURNE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Ô l’horreur d’être seule au profond de la nuit</l>
+     <l n="2" rhyme="a" line_length="6+6">Dans l’effroi du futur et de l’instant qui fuit !</l>
+     <l n="3" rhyme="a" line_length="6+6">Instant au front hagard ! Présence de la Nuit !</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="a" line_length="6+6">Voici que se réveille en mon cœur la rancœur</l>
+     <l n="5" rhyme="a" line_length="6+6">La rancœur endormie au profond de mon cœur !</l>
+     <l n="6" rhyme="a" line_length="6+6">Je ne puis étouffer cette ancienne rancœur.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="a" line_length="6+6">Et j’écoute le bruit monotone des flots</l>
+     <l n="8" rhyme="a" line_length="6+6">En y mêlant le bruit d’intérieurs sanglots.</l>
+     <l n="9" rhyme="a" line_length="6+6">La douleur de jadis pleure comme les flots.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

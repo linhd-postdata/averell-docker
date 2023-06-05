@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jelen.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_jelen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jelen.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jelen.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101000001" rhyme="1" line_length="10">Již zoře nadějí jsem všech se vzdal,</l>
+     <l n="2" met="00010100010" rhyme="2" line_length="11">již vše jsem složil do rakve svých přání,</l>
+     <l n="3" met="1101000101" rhyme="1" line_length="10">v půl cestě s veselím se potkal žal</l>
+     <l n="4" met="01001100010" rhyme="2" line_length="11">a s polibkem druh k druhovi se sklání.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101001010" rhyme="3" line_length="10">Proč, že mu v cestě jsem, dí ten i ten,</l>
+     <l n="6" met="01010100010" rhyme="4" line_length="11">když klidně bloudím bolestí svých pouští?</l>
+     <l n="7" met="0101000100" rhyme="3" line_length="10">Nač štvete jelena, jenž postřelen</l>
+     <l n="8" met="11000101010" rhyme="4" line_length="11">mře při červáncích noci v lesa houští?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

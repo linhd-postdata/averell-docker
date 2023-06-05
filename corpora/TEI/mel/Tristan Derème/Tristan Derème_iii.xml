@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>III</title>
+    <author>Tristan Derème</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tristan Derème_iii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>III</title>
+     <author>Tristan Derème</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>III</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Pélops, par l'épaule d'ivoire</l>
+     <l n="2" rhyme="b" line_length="6">M'arracheras-tu de l'esprit</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="8">Chaque aube annonce une victoire</l>
+     <l n="4" rhyme="b" line_length="6">Plus heureux celui qui n'écrit</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="c" line_length="8">Il est aux bois tièdes et verts</l>
+     <l n="6" rhyme="c" line_length="8">De jeunes femmes, et tes vers</l>
+    </lg>
+    <lg n="4">
+     <l n="7" rhyme="e" line_length="8">Et le vent dans un peuplier</l>
+     <l n="8" rhyme="e" line_length="8">Quand il chante fait oublier</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

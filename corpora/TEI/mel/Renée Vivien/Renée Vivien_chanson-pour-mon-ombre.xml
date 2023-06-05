@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CHANSON POUR MON OMBRE</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">17</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_chanson-pour-mon-ombre</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CHANSON POUR MON OMBRE</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CHANSON POUR MON OMBRE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Droite et longue comme un cyprès,</l>
+     <l n="2" rhyme="b" line_length="8">Mon ombre suit, à pas de louve,</l>
+     <l n="3" rhyme="b" line_length="8">Mes pas que l’aube désapprouve.</l>
+     <l n="4" rhyme="b" line_length="8">Mon ombre marche à pas de louve,</l>
+     <l n="5" rhyme="a" line_length="8">Droite et longue comme un cyprès.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" rhyme="a" line_length="8">Elle me suit comme un reproche,</l>
+     <l n="7" rhyme="b" line_length="8">— Malaise des mauvais matins</l>
+     <l n="8" rhyme="b" line_length="8">Qui se courbe sous les destins,</l>
+     <l n="9" rhyme="a" line_length="8">Se ressouvient et se rapproche… —</l>
+     <l n="10" rhyme="b" line_length="8">À travers les mauvais matins,</l>
+     <l n="11" rhyme="a" line_length="8">L’ombre me suit, comme un reproche…</l>
+    </lg>
+    <lg n="3">
+     <l n="12" rhyme="a" line_length="8">Mon ombre suit, comme un remords,</l>
+     <l n="13" rhyme="b" line_length="8">La trace de mes pas d’ermite,</l>
+     <l n="14" rhyme="b" line_length="8">De mes pas dont la crainte hésite,</l>
+     <l n="15" rhyme="a" line_length="8">Vers l’allée où gîtent les Morts…</l>
+     <l n="16" rhyme="b" line_length="8">Mon ombre suit mes pas d’ermite,</l>
+     <l n="17" rhyme="a" line_length="8">Implacable comme un remords.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

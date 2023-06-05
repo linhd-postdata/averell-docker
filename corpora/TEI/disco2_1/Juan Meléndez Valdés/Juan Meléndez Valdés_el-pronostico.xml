@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El pronóstico</title>
+    <author>Juan Meléndez Valdés</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Meléndez Valdés_el-pronostico</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El pronóstico</title>
+     <author>Juan Meléndez Valdés</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El pronóstico</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++---+--++-">No en vano, desdeñosa, su luz pura</l>
+     <l n="2" met="++---+---+-">ha el cielo a tus ojuelos trasladado,</l>
+     <l n="3" met="-++--+---+-">y ornó de oro el cabello ensortijado,</l>
+     <l n="4" met="-+-+-+---+-">y dio a tu frente gracia y hermosura.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">Esa rosada boca con ternura</l>
+     <l n="6" met="---+-+---+-">suspirará; tu seno regalado</l>
+     <l n="7" met="-+-+---+-+-">del blando fuego bullirá agitado,</l>
+     <l n="8" met="-+---+-+-+-">y el rostro volverás con más dulzura.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+---+-">Tirsi, el felice Tirse, tus favores</l>
+     <l n="10" met="--++-+---+-">cogerá, altiva Clori, su deseo</l>
+     <l n="11" met="--+--+---+-">coronando en el tálamo dichoso.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+---+++-">Los cupidillos verterán mil flores,</l>
+     <l n="13" met="-+-+-+---+-">llamando en suaves himnos a Himeneo,</l>
+     <l n="14" met="-+-+-+-+-+-">y Amor su beso le dará gozoso.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

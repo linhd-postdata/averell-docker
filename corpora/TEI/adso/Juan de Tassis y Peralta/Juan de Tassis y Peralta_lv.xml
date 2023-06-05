@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- LV - </title>
+    <author>Juan de Tassis y Peralta</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan de Tassis y Peralta_lv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- LV - </title>
+     <author>Juan de Tassis y Peralta</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- LV - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-++-++--+-">Este gran dios de Amor, este enemigo,</l>
+     <l n="2" met="---+-+-+-+-">sobre cualquier deidad temido y fuerte,</l>
+     <l n="3" met="--+-++--++-">me asegura en un punto y me da muerte,</l>
+     <l n="4" met="-+-+-+---+-">mostrando en mí su efecto y su castigo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">Mas tú, cruel, a quien adoro y sigo,</l>
+     <l n="6" met="--+--+---+-">vencedora del tiempo y de la suerte</l>
+     <l n="7" met="++---+---+-">das fuerza a su rigor para vencerte</l>
+     <l n="8" met="-+-+---+-+-">por sólo usar de tu poder contigo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">Confiésote milagro de hermosura,</l>
+     <l n="10" met="---+-+-+-+-">pero conozco en ti el exento efecto</l>
+     <l n="11" met="+--+---+-+-">que es el desdén de que el amor se ofende.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+-+-+-">La pasión encubierta en arte pura,</l>
+     <l n="13" met="+--+-+-+-+-">es el misterio libre de un sujeto</l>
+     <l n="14" met="-+---+-+-+-">que en medio de las llamas no se enciende.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

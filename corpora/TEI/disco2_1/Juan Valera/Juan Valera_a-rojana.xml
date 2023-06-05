@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Rojana</title>
+    <author>Juan Valera</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Valera_a-rojana</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Rojana</title>
+     <author>Juan Valera</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Rojana</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--++--+-">Es mi anhelo vivir siempre contigo,</l>
+     <l n="2" met="+-+---+--+-">oír tu dulce y regalado acento,</l>
+     <l n="3" met="-+-+---+-+-">mirar tus ojos, respirar tu aliento,</l>
+     <l n="4" met="--+--+---+-">sin rival de mi dicha, ni testigo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++-+-+-+-+-">Yo tanto bien, Rojana, no consigo,</l>
+     <l n="6" met="+-+--+---+-">mátame, pues, y acabe mi tormento;</l>
+     <l n="7" met="--++-+-+-+-">mas al verme morir, por un momento</l>
+     <l n="8" met="+--+-+---+-">une tu labio al labio de tu amigo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+--++-">Pensando en esta dicha que me espera,</l>
+     <l n="10" met="--+--+-+++-">si mi llanto y mis ruegos no son vanos,</l>
+     <l n="11" met="---+---+++-">con la esperanza de morir me alegro.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+-+-+-">¡Cuán supremo deleite yo sintiera</l>
+     <l n="13" met="---+---+-+-">si me amarrasen al morir, las manos</l>
+     <l n="14" met="-+-+---+-+-">con una trenza de tu pelo negro!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

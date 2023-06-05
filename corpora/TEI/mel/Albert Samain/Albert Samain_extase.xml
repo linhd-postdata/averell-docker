@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>EXTASE</title>
+    <author>Albert Samain</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Albert Samain_extase</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>EXTASE</title>
+     <author>Albert Samain</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>EXTASE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Mon cœur dans le silence a soudain tressailli,</l>
+     <l n="2" rhyme="b" line_length="6+6">Comme une onde que trouble une brise inquiète ;</l>
+     <l n="3" rhyme="b" line_length="6+6">Puis la paix des beaux soirs doucement s'est refaite,</l>
+     <l n="4" rhyme="b" line_length="6+6">Et c'est un calme ciel qu'à présent je reflète</l>
+     <l n="5" rhyme="a" line_length="6+6">Entendant vers tes yeux mon désir recueilli.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" rhyme="a" line_length="6+6">Comme ceux-là qu'on voit dans les anciens tableaux</l>
+     <l n="7" rhyme="b" line_length="6+6">Mains jointes et nu-tête, à genoux sur la pierre,</l>
+     <l n="8" rhyme="b" line_length="6+6">Je voudrais t'adorer sans lever la paupière.</l>
+     <l n="9" rhyme="b" line_length="6+6">Et t'offrir mon amour ainsi qu'une prière</l>
+     <l n="10" rhyme="a" line_length="6+6">Qui monte vers le ciel entre les grands flambeaux.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" rhyme="a" line_length="6+6">Ta respiration n'est qu'un faible soupir.</l>
+     <l n="12" rhyme="b" line_length="6+6">Dans la solennité de ta pose immobile,</l>
+     <l n="13" rhyme="b" line_length="6+6">Seul le rythme des mers gonfle ton sein tranquille</l>
+     <l n="14" rhyme="b" line_length="6+6">Et sur ton lit d'amour, d'où la pudeur s'exile,</l>
+     <l n="15" rhyme="a" line_length="6+6">La beauté de ton corps fait songer à mourir…</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

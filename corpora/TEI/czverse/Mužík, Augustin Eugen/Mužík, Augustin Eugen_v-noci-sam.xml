@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V noci sám.</title>
+    <author>Mužík, Augustin Eugen</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mužík, Augustin Eugen_v-noci-sam</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V noci sám.</title>
+     <author>Mužík, Augustin Eugen</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V noci sám.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="000101010" line_length="9">Tak sám tu stojím v pusté noci –</l>
+     <l n="2" met="11010101" rhyme="1" line_length="8">kol ticho, šero, prázdno, mráz,</l>
+     <l n="3" met="010101000" line_length="9">a jenom z dálky neskonalé</l>
+     <l n="4" met="01010101" rhyme="1" line_length="8">sem plane zlatý, hvězdný pás.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101010" line_length="9">Kde jaká hvězda, v dutou kouli</l>
+     <l n="6" met="01010100" rhyme="2" line_length="8">vše ruka tajná vetkala,</l>
+     <l n="7" met="010001010" line_length="9">jak na rubáš by slzy lásky</l>
+     <l n="8" met="10010100" rhyme="2" line_length="8">neznámá bytost plakala.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101010" line_length="9">A duše touží v onu chvíli</l>
+     <l n="10" met="10010100" rhyme="3" line_length="8">pro všecko světské odumřít,</l>
+     <l n="11" met="010101010" line_length="9">a choré srdce pije z plna</l>
+     <l n="12" met="01010101" rhyme="3" line_length="8">ten velký, svatý, věčný klid.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

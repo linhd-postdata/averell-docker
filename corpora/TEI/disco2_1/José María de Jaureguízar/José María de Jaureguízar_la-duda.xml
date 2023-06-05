@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La duda</title>
+    <author>José María de Jaureguízar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José María de Jaureguízar_la-duda</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La duda</title>
+     <author>José María de Jaureguízar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La duda</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+---+-">Vaga en mi alma el germen de lo bueno;</l>
+     <l n="2" met="+--+-+---+-">vaga en mi ser el germen de lo malo;</l>
+     <l n="3" met="-+-+---+-+-">que al ángel puro en la virtud igualo,</l>
+     <l n="4" met="-+---+---+-">que igualo a la serpiente en el veneno.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">Oigo en mi ser , como horroroso trueno,</l>
+     <l n="6" met="-+-+-+---+-">la voz del odio; y plácido intervalo</l>
+     <l n="7" met="+-+--+-+-+-">me presenta el amor, y luego exhalo</l>
+     <l n="8" met="+--+---+-+-">hondo suspiro de ventura lleno.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-+---+-">Y al extender la vista por el mundo</l>
+     <l n="10" met="+-+--+---+-">viéndome en equilibrio en mis pasiones,</l>
+     <l n="11" met="+--+---+++-">cierro los ojos para no caerme...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++-+-++-+-">¡Mas cuán grande es mi mal! ¡Oh cuán profundo</l>
+     <l n="13" met="--+--+---+-">al saber que esquivando tentaciones</l>
+     <l n="14" met="-+--+---++-">se me pasa la vida en sostenerme.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

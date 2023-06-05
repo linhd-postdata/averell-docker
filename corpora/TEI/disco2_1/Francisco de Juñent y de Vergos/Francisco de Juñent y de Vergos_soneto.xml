@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Francisco de Juñent y de Vergos</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco de Juñent y de Vergos_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Francisco de Juñent y de Vergos</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-----+-">Corre ligero a la Celeste Esfera,</l>
+     <l n="2" met="-+---+-+-+-">Amante girasol del ser Divino,</l>
+     <l n="3" met="+-+--+---+-">Reina en Solio mejor, que se previno</l>
+     <l n="4" met="--+--+---+-">La constancia feliz de tu carrera;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+-+-+-">Oficioso el respeto te venera:</l>
+     <l n="6" met="--+--+---+-">Superior a los fueros del destino,</l>
+     <l n="7" met="--+--+---+-">Regentado del orbe cristalino</l>
+     <l n="8" met="-+---+---+-">Eclécticas de luz desde tu hoguera;</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-----+---+-">Inalterable España en adorarte;</l>
+     <l n="10" met="---+-+---+-">Jurisdiciones busca que cederte,</l>
+     <l n="11" met="+--+-+--++-">Viendo perdida en ti su mejor parte</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+-+-+-">Solicita su Amor, eterno hacerte,</l>
+     <l n="13" met="-+--+-+---+">Throno formando en sí, que dedicarte,</l>
+     <l n="14" met="--++-+---+-">O en la gloria otra España, que ofrecerte.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

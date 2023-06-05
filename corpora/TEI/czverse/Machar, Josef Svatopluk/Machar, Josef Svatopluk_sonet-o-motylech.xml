@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sonet o motýlech.</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_sonet-o-motylech</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sonet o motýlech.</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sonet o motýlech.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0010101" rhyme="1" line_length="7">Zda jsi někdy v lese zřel</l>
+     <l n="2" met="1010100" rhyme="2" line_length="7">velké černé motýly?</l>
+     <l n="3" met="1000101" rhyme="1" line_length="7">– Sametový lesklý pel</l>
+     <l n="4" met="1000100" rhyme="3" line_length="7">chvěje se jim na křídlech –</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010100" rhyme="3" line_length="7">Lapil’s koho z tvorů těch</l>
+     <l n="6" met="1010100" rhyme="4" line_length="7">v jejich hravém přeletu?</l>
+     <l n="7" met="1000100" rhyme="2" line_length="7">Pohladil jsi na chvíli</l>
+     <l n="8" met="1010100" rhyme="4" line_length="7">kouzlo toho sametu? –</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010101" rhyme="5" line_length="7">Bídné žití, smutné dny...</l>
+     <l n="10" met="1010001" rhyme="5" line_length="7">Všecky nesplněné sny</l>
+     <l n="11" met="1010100" rhyme="6" line_length="7">krev nám pijí, ničí nás!</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="1000101" rhyme="6" line_length="7">A když se nám splní v ráz,</l>
+     <l n="13" met="1000100" rhyme="2" line_length="7">zbudou nám z nich za chvíli</l>
+     <l n="14" met="1000101" rhyme="6" line_length="7">bez sametu, lesklých krás</l>
+     <l n="15" met="1000100" rhyme="2" line_length="7">odření ti motýli...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

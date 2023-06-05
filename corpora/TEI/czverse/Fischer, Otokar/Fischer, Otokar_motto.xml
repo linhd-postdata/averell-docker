@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MOTTO</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_motto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MOTTO</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MOTTO</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11000101" rhyme="1" line_length="8">Chceš definici, co je rým?</l>
+     <l n="2" met="11000100" rhyme="1" line_length="8">V sled obrazů jej rozložím:</l>
+     <l n="3" met="10010101" rhyme="2" line_length="8">Milostné echo – střepů tmel –</l>
+     <l n="4" met="10010100" rhyme="2" line_length="8">myšlenky plod i ploditel –</l>
+     <l n="5" met="11010100" rhyme="3" line_length="8">tep krve – bzukot tětivy –</l>
+     <l n="6" met="11010100" rhyme="3" line_length="8">blesk, jímž se slijí protivy – –</l>
+     <l n="7" met="11000100" rhyme="4" line_length="8">Mám obratem to jedním zvlást?</l>
+     <l n="8" met="10100100" rhyme="4" line_length="8">Salto mortale přes propast!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

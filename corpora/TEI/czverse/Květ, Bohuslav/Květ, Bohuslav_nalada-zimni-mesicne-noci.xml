@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NÁLADA ZIMNÍ MĚSÍČNÉ NOCI.</title>
+    <author>Květ, Bohuslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Květ, Bohuslav_nalada-zimni-mesicne-noci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NÁLADA ZIMNÍ MĚSÍČNÉ NOCI.</title>
+     <author>Květ, Bohuslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NÁLADA ZIMNÍ MĚSÍČNÉ NOCI.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010001" rhyme="1" line_length="8">Teď, vím, že na polích je sníh</l>
+     <l n="2" met="01010100" rhyme="1" line_length="8">a živé duše není v nich.</l>
+     <l n="3" met="11010100" rhyme="2" line_length="8">Psů vytí nocí zaznívá,</l>
+     <l n="4" met="01010100" rhyme="2" line_length="8">že hrůzu ve mně budívá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" rhyme="3" line_length="8">A hory... hory bělavé</l>
+     <l n="6" met="11010100" rhyme="3" line_length="8">zří dolů na mne zvědavě:</l>
+     <l n="7" met="10010101" rhyme="4" line_length="8">„Jaký to červík v luny svit</l>
+     <l n="8" met="11000100" rhyme="4" line_length="8">jde dušičku svou roztesknit?“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

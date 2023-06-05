@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nové písně.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_nove-pisne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nové písně.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nové písně.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101010" rhyme="1" line_length="10">Píseň, píseň! Kohož píseň blaží,</l>
+     <l n="2" met="101010101" rhyme="2" line_length="9">kohož vábí květný její prach?</l>
+     <l n="3" met="1000101010" rhyme="1" line_length="10">netřímá-li píseň meče v paži,</l>
+     <l n="4" met="001010100" rhyme="2" line_length="9">co můž‘ zmoci v času nástrahách?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010101010" rhyme="3" line_length="10">Jenom píseň činů v každé chvíli</l>
+     <l n="6" met="100010101" rhyme="4" line_length="9">na hanobců práva zrádný šik!</l>
+     <l n="7" met="1010100010" rhyme="3" line_length="10">Verše buďte z odvahy a síly,</l>
+     <l n="8" met="101010100" rhyme="4" line_length="9">slova ze střel, rýmy z pevných dyk.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010101000" rhyme="5" line_length="10">Takou písní slávu obrodíme</l>
+     <l n="10" met="100010100" rhyme="6" line_length="9">udiveným světům na podiv...</l>
+     <l n="11" met="0100101010" rhyme="5" line_length="10">Pryč, mámivý sladkou vůni dýme,</l>
+     <l n="12" met="101010101" rhyme="6" line_length="9">z českých ňader, z českých chat a niv!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

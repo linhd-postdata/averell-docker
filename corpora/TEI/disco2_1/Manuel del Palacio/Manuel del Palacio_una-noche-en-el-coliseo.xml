@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Una noche en el Coliseo</title>
+    <author>Manuel del Palacio</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel del Palacio_una-noche-en-el-coliseo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Una noche en el Coliseo</title>
+     <author>Manuel del Palacio</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Una noche en el Coliseo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+-+-+-">Solo en la arena estoy; ¡a mí, lictores!</l>
+     <l n="2" met="-----++--+-">Augusto Emperador, te desafío:</l>
+     <l n="3" met="-+---+-+-+-">El Dios de los cristianos es el mío,</l>
+     <l n="4" met="---+-+---+-">y tu poder desprecio y tus furores.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-++-+---+-">Cérquenme ya los tigres bramadores,</l>
+     <l n="6" met="-+-+---+-+-">que quiero en ellos ensayar mi brío,</l>
+     <l n="7" met="+-++---+-+-">y una vez más el holocausto impío</l>
+     <l n="8" met="-+---+---+-">ofrece en el altar de tus errores...</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+-+-+-">Aun en la arena estoy, reposo mudo,</l>
+     <l n="10" met="-+---+--++-">fatídico silencio, quietud santa,</l>
+     <l n="11" met="--+--++-++-">indecible terror hallo do quiera;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+---+-+-">nadie responde a mi lenguaje rudo:</l>
+     <l n="13" met="++-+-+---+-">¡Sólo una cruz al cielo se levanta,</l>
+     <l n="14" met="---+-+---+-">donde la luna inmóvil reverbera!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

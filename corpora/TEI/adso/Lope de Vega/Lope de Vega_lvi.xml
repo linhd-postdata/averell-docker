@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- LVI - </title>
+    <author>Lope de Vega</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lope de Vega_lvi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- LVI - </title>
+     <author>Lope de Vega</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- LVI - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Que eternamente las cuarenta y nueve</l>
+     <l n="2" met="-+---+-+-+-">pretendan agotar el lago Averno,</l>
+     <l n="3" met="-+---+-+-+-">que Tántalo del agua y árbol tierno</l>
+     <l n="4" met="+--+---+-+-">nunca el cristal ni las manzanas pruebe;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">que sufra el curso que los ejes mueve</l>
+     <l n="6" met="--+--+-+-+-">de su rueda Ixión por tiempo eterno,</l>
+     <l n="7" met="-+---+---+-">que Sísifo llorando en el infierno,</l>
+     <l n="8" met="-+-+---+-+-">el duro canto por el monte lleve;</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+-+-+-">que pague Prometeo el loco aviso</l>
+     <l n="10" met="-+-+---+-+-">de ser ladrón de la divina llama,</l>
+     <l n="11" met="--+----+-+-">en el Caúcaso que sus brazos liga;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">terribles penas son, mas de improviso</l>
+     <l n="13" met="++-+-+---+-">ver otro amante en brazos de su dama,</l>
+     <l n="14" met="-+-+---+-+-">si son mayores, quien los vio los diga.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

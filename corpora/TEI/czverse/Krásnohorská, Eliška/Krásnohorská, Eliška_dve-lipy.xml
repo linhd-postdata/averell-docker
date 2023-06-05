@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dvě lípy.</title>
+    <author>Krásnohorská, Eliška</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Krásnohorská, Eliška_dve-lipy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dvě lípy.</title>
+     <author>Krásnohorská, Eliška</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dvě lípy.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010010" rhyme="1" line_length="11">Pod lípou v údolí veselo bývá;</l>
+     <l n="2" met="10010010110" rhyme="2" line_length="11">hoši jak sokoli, dívky – květ růží,</l>
+     <l n="3" met="10010010010" rhyme="2" line_length="11">babičky s dědoušky, ženy a muži,</l>
+     <l n="4" met="10010010010" rhyme="1" line_length="11">celičké okolí večer tam dlívá</l>
+     <l n="5" met="10010010110" rhyme="1" line_length="11">pod lípou v hovoru, mladý svět zpívá,</l>
+     <l n="6" met="0100100" rhyme="3" line_length="7">ba někdy, tak jako dnes,</l>
+     <l n="7" met="1001000" rhyme="3" line_length="7">dudáček usedne kdes,</l>
+     <l n="8" met="1001001001" rhyme="3" line_length="10">zahrá – i zavíří tanec a ples.</l>
+    </lg>
+    <lg n="2">
+     <l n="9" met="10010010010" rhyme="4" line_length="11">Pod lípou na vršku hřbitůvek prostý;</l>
+     <l n="10" met="10010010110" rhyme="2" line_length="11">hoši jak sokoli, dívky – květ růží,</l>
+     <l n="11" met="10010010010" rhyme="2" line_length="11">babičky s dědoušky, ženy a muži,</l>
+     <l n="12" met="10010001010" rhyme="4" line_length="11">všichni tam z okolí jsou na něm hosty,</l>
+     <l n="13" met="10010110010" rhyme="4" line_length="11">pod lípou každý má ukryté stkvosty;</l>
+     <l n="14" met="0101001" rhyme="5" line_length="7">ba někdy, v loučení čas,</l>
+     <l n="15" met="1001001" rhyme="5" line_length="7">zvonku tam těší je hlas,</l>
+     <l n="16" met="1001001000" rhyme="5" line_length="10">všichni že pod lípou sejdou se zas.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

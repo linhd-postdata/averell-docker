@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Rovnost.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_rovnost</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Rovnost.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Rovnost.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101000" rhyme="1" line_length="10">Všickni jsme si rovni před zákonem:</l>
+     <l n="2" met="1010100010" rhyme="2" line_length="10">Proto šlechtic, odsouzen když právem</l>
+     <l n="3" met="1000101010" rhyme="2" line_length="10">pro zločin byl sprostý, lůze stavem</l>
+     <l n="4" met="1010100010" rhyme="1" line_length="10">rovným bývá prohlašován honem.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

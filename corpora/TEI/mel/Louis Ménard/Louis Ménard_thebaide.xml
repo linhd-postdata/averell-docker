@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Thébaïde</title>
+    <author>Louis Ménard</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Louis Ménard_thebaide</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Thébaïde</title>
+     <author>Louis Ménard</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Thébaïde</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Quand notre dernier rêve est à jamais parti,</l>
+     <l n="2" rhyme="b" line_length="6+6">Il est une heure dure à traverser ; c'est l'heure</l>
+     <l n="3" rhyme="a" line_length="6+6">Où ceux pour qui la vie est mauvaise ont senti</l>
+     <l n="4" rhyme="b" line_length="6+6">Qu'il faut bien qu'à son tour chaque illusion meure.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="b" line_length="6+6">Ils se disent alors que la part la meilleure</l>
+     <l n="6" rhyme="a" line_length="6+6">Est celle de l'ascète au cœur anéanti,</l>
+     <l n="7" rhyme="b" line_length="6+6">Ils cherchent au désert la paix intérieure,</l>
+     <l n="8" rhyme="a" line_length="6+6">Mais cette fois encor l'espérance a menti.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">J'ai voulu vivre ainsi sans amour et sans haine,</l>
+     <l n="10" rhyme="c" line_length="6+6">Et j'ai fermé mon âme au désir, qui n'amène</l>
+     <l n="11" rhyme="d" line_length="6+6">Que le regret, souvent le remords, après lui.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Mais je ne trouve, au lieu de la béatitude,</l>
+     <l n="13" rhyme="e" line_length="6+6">Au lieu du ciel rêvé dans l'âpre solitude,</l>
+     <l n="14" rhyme="d" line_length="6+6">Que la morne impuissance et l'incurable ennui.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

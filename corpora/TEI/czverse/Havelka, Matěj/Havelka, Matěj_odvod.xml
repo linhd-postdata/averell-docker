@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Odvod.</title>
+    <author>Havelka, Matěj</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Havelka, Matěj_odvod</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Odvod.</title>
+     <author>Havelka, Matěj</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Odvod.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10100010" rhyme="1" line_length="8">V Praze počínají bráti,</l>
+     <l n="2" met="0010100" rhyme="2" line_length="7">Já tam půjdu k odvodu:</l>
+     <l n="3" met="01001010" rhyme="1" line_length="8">Jen, prosím vás, milá máti,</l>
+     <l n="4" met="1000100" rhyme="2" line_length="7">Neplačte mi k rozchodu.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00101000" rhyme="3" line_length="8">Proč pak byste naříkala?</l>
+     <l n="6" met="0010101" rhyme="4" line_length="7">Vždyť jsem povždy zdárný syn;</l>
+     <l n="7" met="01001000" rhyme="3" line_length="8">Vy sama jste říkávala:</l>
+     <l n="8" met="1010101" rhyme="4" line_length="7">Hájit vlast je slavný čin.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" rhyme="5" line_length="8">A já vlast svou hájit budu,</l>
+     <l n="10" met="0100110" rhyme="6" line_length="7">Jak císař i Bůh velí;</l>
+     <l n="11" met="10011010" rhyme="5" line_length="8">Životem chci naši půdu</l>
+     <l n="12" met="1010000" rhyme="6" line_length="7">Hájit před nepřátely.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

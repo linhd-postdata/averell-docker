@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>TKÁME A TKÁME...</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_tkame-a-tkame</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>TKÁME A TKÁME...</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>TKÁME A TKÁME...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1011001001" rhyme="1" line_length="10">Celý den za stavem sedím a tkám.</l>
+     <l n="2" met="10010010010" rhyme="2" line_length="11">Nízkým se okénkem bída k nám dívá.</l>
+     <l n="3" met="1001001000" rhyme="1" line_length="10">Písničkou smutnou jí odpovídám,</l>
+     <l n="4" met="10010110110" rhyme="2" line_length="11">písní, již tvrdě stav celý den zpívá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001001000" rhyme="3" line_length="10">Smutno je na horách. Kamení jen</l>
+     <l n="6" met="10010010010" rhyme="4" line_length="11">políčka malá nám na stráni rodí.</l>
+     <l n="7" met="1001001001" rhyme="3" line_length="10">Život nás tísní tu těžký jak sen.</l>
+     <l n="8" met="10010010010" rhyme="4" line_length="11">Nizoučko po horách oblaka chodí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1001011000" rhyme="5" line_length="10">S chudou tu půdou zlý osud nás spiav,</l>
+     <l n="10" met="10010010010" rhyme="6" line_length="11">hladem nás moří a tiskne nás k zemi.</l>
+     <l n="11" met="1001001001" rhyme="5" line_length="10">Pohřební píseň všem zpívá nám stav.</l>
+     <l n="12" met="10010010000" rhyme="6" line_length="11">S mrtvými žijeme pod závějemi.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1001001000" rhyme="7" line_length="10">Zapadly pěšiny na hory k nám.</l>
+     <l n="14" met="10010010010" rhyme="8" line_length="11">Zapadly ve sněhu, vichřice zpívá.</l>
+     <l n="15" met="1011001001" rhyme="7" line_length="10">Celý den za stavem sedím a tkám.</l>
+     <l n="16" met="10110010010" rhyme="8" line_length="11">Celý rok do oken bída se dívá.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

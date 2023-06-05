@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Útrpnosť Cynthie.</title>
+    <author>Neumann, Stanislav Kostka</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neumann, Stanislav Kostka_utrpnost-cynthie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Útrpnosť Cynthie.</title>
+     <author>Neumann, Stanislav Kostka</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Útrpnosť Cynthie.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" rhyme="1" line_length="8">Měkkého světla měsíce</l>
+     <l n="2" met="10001" rhyme="2" line_length="5">rozčeřený proud</l>
+     <l n="3" met="10010100" rhyme="1" line_length="8">šeptavých vlnek tisíce</l>
+     <l n="4" met="10101" rhyme="2" line_length="5">rozlil v každý kout.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11000100" rhyme="1" line_length="8">Dvůr nestačí.... A kypíce</l>
+     <l n="6" met="10010" rhyme="2" line_length="5">v mříž se drou bez pout...,</l>
+     <l n="7" met="01010100" rhyme="1" line_length="8">v těch sladkých vlnách měsíce</l>
+     <l n="8" met="10101" rhyme="2" line_length="5">blankyt zdá se plout...</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010100" rhyme="3" line_length="8">Chladivý blankyt večera,</l>
+     <l n="10" met="01010100" rhyme="3" line_length="8">kdy duše vchází do šera</l>
+     <l n="11" met="10001" rhyme="4" line_length="5">v bohoslužbě vzplát...</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="10010100" rhyme="5" line_length="8">Nad duší v rakvi smuteční</l>
+     <l n="13" met="01010101" rhyme="5" line_length="8">to modré světlo tiše sní,</l>
+     <l n="14" met="10101" rhyme="4" line_length="5">modro, vůně, chlad...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

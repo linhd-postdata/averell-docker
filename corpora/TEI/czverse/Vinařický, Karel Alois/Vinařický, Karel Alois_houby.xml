@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Houby.</title>
+    <author>Vinařický, Karel Alois</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vinařický, Karel Alois_houby</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Houby.</title>
+     <author>Vinařický, Karel Alois</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Houby.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">„Pojď, mé dítě, v lesní loubí,</l>
+     <l n="2" met="1000100" rhyme="2" line_length="7">myslivec nám dovolil;</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">v lese budem sbírat houby;</l>
+     <l n="4" met="1010100" rhyme="2" line_length="7">Bůh je chudým udělil.“</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10011010" rhyme="3" line_length="8">Dcerušce dí sirá vdova.</l>
+     <l n="6" met="1010100" rhyme="4" line_length="7">Dobré dítě zaplesá,</l>
+     <l n="7" met="10010010" rhyme="3" line_length="8">matčina slyševši slova;</l>
+     <l n="8" met="1001100" rhyme="4" line_length="7">poprvé jde do lesa.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="00100010" rhyme="5" line_length="8">Tam jí ukazuje matka</l>
+     <l n="10" met="1010010" rhyme="6" line_length="7">houby chutné a zdravé:</l>
+     <l n="11" met="10100100" rhyme="5" line_length="8">hřiby, smrže a kuřátka,</l>
+     <l n="12" met="1001000" rhyme="6" line_length="7">ryzce i červenavé.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101010" rhyme="7" line_length="8">Podle matky dítě hledá:</l>
+     <l n="14" met="1010100" rhyme="8" line_length="7">„Hle jak krásná houba ta!“</l>
+     <l n="15" met="10100010" rhyme="7" line_length="8">zvolá – muchomůrku zvedá. –</l>
+     <l n="16" met="1101000" rhyme="8" line_length="7">„„Nech, ta jest jedovatá!</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10000100" rhyme="9" line_length="8">Nezkušena tys, nevinná,</l>
+     <l n="18" met="1010101" rhyme="10" line_length="7">šálí tebe pěkná tvář.““</l>
+     <l n="19" met="10101000" rhyme="9" line_length="8">Matka dceři připomíná:</l>
+     <l n="20" met="1000101" rhyme="10" line_length="7">„„houba ta je krásný lhář.““</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El tiempo</title>
+    <author>Manuel Justo de Rubalcava</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel Justo de Rubalcava_el-tiempo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El tiempo</title>
+     <author>Manuel Justo de Rubalcava</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El tiempo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+-+-+-">El tiempo, que con tiempo no he mirado,</l>
+     <l n="2" met="-++--+---+-">el tiempo es vengador de mi apatía,</l>
+     <l n="3" met="++-+-+---+-">bien me castiga el tiempo la porfía</l>
+     <l n="4" met="-++--+---+-">de haberme con el tiempo descuidado.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-++-+-+-+-">Vime en un tiempo en tan feliz estado</l>
+     <l n="6" met="-+-+-+-+-+-">que al tiempo en tiempo alguno le temía,</l>
+     <l n="7" met="-++-++---+-">mas no espero ya tiempo de alegría</l>
+     <l n="8" met="--+--+-+-+-">pues el tiempo sin tiempo me ha dejado.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">Pasaron horas, tiempos y momentos</l>
+     <l n="10" met="--+--+---+-">en que pude del tiempo aprovecharme</l>
+     <l n="11" met="---+-+---+-">para evitar en tiempo mis tormentos;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+--++-">y pues del tiempo quise confiarme</l>
+     <l n="13" met="-+-+-+---+-">teniendo el tiempo varios movimientos,</l>
+     <l n="14" met="+-++-++--+-">yo de mí, no del tiempo he de quejarme.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

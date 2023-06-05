@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Spi sladce...</title>
+    <author>Květ, Bohuslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Květ, Bohuslav_spi-sladce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Spi sladce...</title>
+     <author>Květ, Bohuslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Spi sladce...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110100010" rhyme="1" line_length="9">Spi sladce, hlavičko má zlatá,</l>
+     <l n="2" met="01010100" rhyme="2" line_length="8">v tom hrobě u zdi hřbitova,</l>
+     <l n="3" met="110100010" rhyme="1" line_length="9">strom v zeleň obléc’ se už chvátá,</l>
+     <l n="4" met="11010100" rhyme="2" line_length="8">zem krášlí jaro poznova.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101010" rhyme="3" line_length="9">A vedle v sadě ptáček zpívá</l>
+     <l n="6" met="01010001" rhyme="4" line_length="8">v tvůj věčný, nekonečný sen...</l>
+     <l n="7" met="010011010" rhyme="3" line_length="9">a píseň ta mír v srdce vlívá,</l>
+     <l n="8" met="01000101" rhyme="4" line_length="8">co k večeru se chýlí den...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

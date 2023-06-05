@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JINDY A NYNÍ</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_jindy-a-nyni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JINDY A NYNÍ</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JINDY A NYNÍ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100" line_length="8">„Nu, nedělejte tolik přec,“</l>
+     <l n="2" met="010101010" rhyme="1" line_length="9">prál kdysi k bůžkům Joviš, „křiku;</l>
+     <l n="3" met="01000100" line_length="8">já napřesrok vám povolím</l>
+     <l n="4" met="110001000" rhyme="1" line_length="9">psát olympskou i politiku!“</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101000" line_length="9">Byl nový rok, a Prometheus</l>
+     <l n="6" met="110101000" rhyme="2" line_length="9">list jakýs počal redigovat,</l>
+     <l n="7" met="01000100" line_length="8">a Jovišek jej nechal hned</l>
+     <l n="8" met="100101010" rhyme="2" line_length="9">po třetím číslo z lásky – schovat...</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" line_length="8">Když tenkrát Joviš takový</l>
+     <l n="10" met="100001010" rhyme="3" line_length="9">Prometheovi vavřín uvil,</l>
+     <l n="11" met="01000100" line_length="8">proč nyní – Nu, nu! ticho přec!</l>
+     <l n="12" met="000101000" rhyme="3" line_length="9">vždyť jsem to ještě nedomluvil!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

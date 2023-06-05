@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MATKO!</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_matko</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MATKO!</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MATKO!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" rhyme="1" line_length="8">Jedno jméno za tisíce,</l>
+     <l n="2" met="1010101" rhyme="2" line_length="7">jedno jméno celý svět;</l>
+     <l n="3" met="10100010" rhyme="1" line_length="8">matko, neuzřím tě více,</l>
+     <l n="4" met="1001101" rhyme="2" line_length="7">v srdci však tkvíš v konec let.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101000" rhyme="3" line_length="8">Jedno tvoje pousmání,</l>
+     <l n="6" met="1010001" rhyme="4" line_length="7">život rozkvete hned máj;</l>
+     <l n="7" met="00101010" rhyme="3" line_length="8">když nám dětství zrak tvůj clání,</l>
+     <l n="8" met="1010001" rhyme="4" line_length="7">svět je pohádka a ráj.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" rhyme="5" line_length="8">Tvoje slovo písní zvoní,</l>
+     <l n="10" met="1010001" rhyme="6" line_length="7">kouzlem opřádá jak sen;</l>
+     <l n="11" met="10001010" rhyme="5" line_length="8">vzpomínkou se hlava skloní</l>
+     <l n="12" met="0100100" rhyme="6" line_length="7">a zrak hned je orosen.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101010" rhyme="7" line_length="8">Cítím na své tvoji ruku</l>
+     <l n="14" met="1010000" rhyme="8" line_length="7">a hned v duši mi je snáz;</l>
+     <l n="15" met="10101000" rhyme="7" line_length="8">smíříš život do souzvuku,</l>
+     <l n="16" met="1010100" rhyme="8" line_length="7">stín-li vstoupíš mezi nás.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="00100110" rhyme="9" line_length="8">Ať nás třeba i hrob dělí,</l>
+     <l n="18" met="1000101" rhyme="10" line_length="7">prostřed nás se klade noc,</l>
+     <l n="19" met="10001010" rhyme="9" line_length="8">obraz tvůj se ve sny vtělí,</l>
+     <l n="20" met="1000101" rhyme="10" line_length="7">očaruje tvoje moc.</l>
+    </lg>
+    <lg n="6">
+     <l n="21" met="10101000" rhyme="11" line_length="8">Matko! jméno okouzlené,</l>
+     <l n="22" met="1000101" rhyme="12" line_length="7">dražší než-li celý svět;</l>
+     <l n="23" met="10101000" rhyme="11" line_length="8">hle, ty ruce napřažené,</l>
+     <l n="24" met="1000101" rhyme="12" line_length="7">miliony, v každé květ!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

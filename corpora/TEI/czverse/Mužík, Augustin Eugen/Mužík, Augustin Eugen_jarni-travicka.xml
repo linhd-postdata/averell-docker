@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JARNÍ TRAVIČKA.</title>
+    <author>Mužík, Augustin Eugen</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mužík, Augustin Eugen_jarni-travicka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JARNÍ TRAVIČKA.</title>
+     <author>Mužík, Augustin Eugen</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JARNÍ TRAVIČKA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000100" line_length="7">Travička se zelená,</l>
+     <l n="2" met="100010" rhyme="1" line_length="6">na větru se chvěje,</l>
+     <l n="3" met="1000100" line_length="7">jako když se děťátko</l>
+     <l n="4" met="100010" rhyme="1" line_length="6">na mamičku směje.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1000100" rhyme="2" line_length="7">Větýrek ji kolíbá,</l>
+     <l n="6" met="1000100" rhyme="2" line_length="7">sluníčko ji zulíbá,</l>
+     <l n="7" met="1001100" rhyme="3" line_length="7">deštíček jí perličky</l>
+     <l n="8" met="1010000" rhyme="3" line_length="7">všije do košiličky.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0010100" line_length="7">Tak je ráda na světě,</l>
+     <l n="10" met="010100" rhyme="4" line_length="6">ať roste kdekoli,</l>
+     <l n="11" met="1000100" line_length="7">na louce i na hrobě,</l>
+     <l n="12" met="001000" rhyme="4" line_length="6">to ji nezabolí.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1000101" line_length="7">Pod ní se tak lehce spí</l>
+     <l n="14" met="100010" rhyme="5" line_length="6">unavené hlavě,</l>
+     <l n="15" met="1000100" line_length="7">jako když se děťátko</l>
+     <l n="16" met="101010" rhyme="5" line_length="6">houpe hravě, hravě.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

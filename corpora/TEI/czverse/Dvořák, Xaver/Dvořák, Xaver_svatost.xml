@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SVÁTOST</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_svatost</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SVÁTOST</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SVÁTOST</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Myslíš na svůj život zpátky,</l>
+     <l n="2" met="0010000" rhyme="2" line_length="7">jak bys v deníku svém čet’,</l>
+     <l n="3" met="10001010" rhyme="1" line_length="8">není to však pocit sladký,</l>
+     <l n="4" met="0010100" rhyme="2" line_length="7">co se vrací na pamět!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" rhyme="3" line_length="8">Dobrého míň, zlého více,</l>
+     <l n="6" met="0010100" rhyme="4" line_length="7">jak to napsal život sem;</l>
+     <l n="7" met="10001010" rhyme="3" line_length="8">při mnohém ti hoří líce,</l>
+     <l n="8" met="0110100" rhyme="4" line_length="7">ty čteš řádek za řádkem.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001010" rhyme="5" line_length="8">Psáno je to pevným tahem,</l>
+     <l n="10" met="1010100" rhyme="6" line_length="7">jako ryto pro věčnost,</l>
+     <l n="11" met="10001010" rhyme="5" line_length="8">setřel bys to rád tak šmahem,</l>
+     <l n="12" met="1000101" rhyme="6" line_length="7">za sebou strh’ jako most!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101010" rhyme="7" line_length="8">Vina na tě z toho civí</l>
+     <l n="14" met="1010100" rhyme="8" line_length="7">jako svědek cynický,</l>
+     <l n="15" met="10100010" rhyme="7" line_length="8">jako nepřítel tvůj mstivý,</l>
+     <l n="16" met="1000100" rhyme="8" line_length="7">nepodplatný na vždycky! –</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10101010" rhyme="9" line_length="8">A přec jedna naděj svítá</l>
+     <l n="18" met="1000100" rhyme="10" line_length="7">do smutku sem života:</l>
+     <l n="19" met="10001010" rhyme="9" line_length="8">do liljí jíž vina zmyta,</l>
+     <l n="20" met="1010100" rhyme="10" line_length="7">jedna svátost – jenom ta!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

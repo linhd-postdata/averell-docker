@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hoj, milý brate, zpívej, hrej...</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_hoj-mily-brate-zpivej-hrej</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hoj, milý brate, zpívej, hrej...</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hoj, milý brate, zpívej, hrej...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010101" line_length="8">Hoj, milý brate, zpívej, hrej!</l>
+     <l n="2" met="0101010" rhyme="1" line_length="7">mě život těší věru,</l>
+     <l n="3" met="01000100" line_length="8">vždyť k stoličnímu odvedli</l>
+     <l n="4" met="0100010" rhyme="1" line_length="7">dnes ženu mi a dceru.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11010100" line_length="8">Ó, hrej a zpívej, prosím tě;</l>
+     <l n="6" met="1100110" rhyme="2" line_length="7">pan stoliční rád věší –</l>
+     <l n="7" met="01010100" line_length="8">což nevíš, zvuk že divoký</l>
+     <l n="8" met="0101010" rhyme="2" line_length="7">mě v žití nejvíc těší.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010100" line_length="8">A dnes mě těší všecko tak,</l>
+     <l n="10" met="0101010" rhyme="3" line_length="7">že v mozku krev se pění,</l>
+     <l n="11" met="01000100" line_length="8">že s chutí bych si do prsou</l>
+     <l n="12" met="1101000" rhyme="3" line_length="7">nůž vrazil bez prodlení.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01010100" line_length="8">Leč ještě raděj chlapům těm,</l>
+     <l n="14" met="0101010" rhyme="4" line_length="7">již křivdy na nás množí,</l>
+     <l n="15" met="01000100" line_length="8">to pomůže, když nechce nás</l>
+     <l n="16" met="1100010" rhyme="4" line_length="7">znát smilování boží.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

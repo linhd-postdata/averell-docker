@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ELEGIE</title>
+    <author>Zavřel, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Zavřel, František_elegie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ELEGIE</title>
+     <author>Zavřel, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ELEGIE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110000010" rhyme="1" line_length="9">Lev heraldický už je v Pánu,</l>
+     <l n="2" met="100001010" rhyme="1" line_length="9">utahali ho lidé z Lánů</l>
+     <l n="3" met="100001010" rhyme="1" line_length="9">přivázavše ho k svému lanu.</l>
+     <l n="4" met="110100010" rhyme="2" line_length="9">Lev zkrátka v agonii upad’.</l>
+     <l n="5" met="010001010" rhyme="2" line_length="9">Teď uslyšíte osla cupat.</l>
+     <l n="6" met="100101010" rhyme="1" line_length="9">Růžových snů a četných plánů</l>
+     <l n="7" met="010001000" rhyme="1" line_length="9">a neméně i eroplánů</l>
+     <l n="8" met="010101010" rhyme="3" line_length="9">je tento osel věrný posel.</l>
+     <l n="9" met="100101010" rhyme="3" line_length="9">Z osla je lev a ze lva osel.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

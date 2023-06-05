@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Holgazanista</title>
+    <author>Nicolás Arnao</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nicolás Arnao_holgazanista</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Holgazanista</title>
+     <author>Nicolás Arnao</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Holgazanista</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++---+---+-">No nacen al recuerdo mis memorias,</l>
+     <l n="2" met="+++--+---+-">ni doy medio centavo por la fama;</l>
+     <l n="3" met="--+--+-+-+-">ni la voz del futuro me reclama,</l>
+     <l n="4" met="+++--+---+-">ni adoro esas deidades transitorias.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++-+---+-+-">Nunca he soñado, tras la vida, glorias,</l>
+     <l n="6" met="+--+---+-+-">nunca a mi puerta la mentira llama,</l>
+     <l n="7" met="-++--+-+-+-">dormir es mi blasón en buena cama</l>
+     <l n="8" met="---+-+---+-">con susurrantes brisas amatorias.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++---+-+++-">Yo soy materialista, yo no vivo</l>
+     <l n="10" met="--+--+-+-+-">mendigando a la fama algún andrajo:</l>
+     <l n="11" met="++---++--+-">¿Qué más prosperidad quiero en archivo</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+-+-+-">que dormir y soñar que no trabajo?</l>
+     <l n="13" met="+++--+---+-">¿Qué me importa que el mundo retroceda</l>
+     <l n="14" met="--+--+---+-">o que avance su carro sin mi rueda?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

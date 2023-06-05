@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pastýřova nedělní píseň.</title>
+    <author>Crha, Václav Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Crha, Václav Antonín_pastyrova-nedelni-pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pastýřova nedělní píseň.</title>
+     <author>Crha, Václav Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pastýřova nedělní píseň.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110100" rhyme="1" line_length="6">Den Páně nastal dnes!</l>
+     <l n="2" met="01000100" rhyme="2" line_length="8">Sám jediný jsem na pláni;</l>
+     <l n="3" met="01010100" rhyme="2" line_length="8">jen zvonek jitrem vyzvání – –</l>
+     <l n="4" met="010101" rhyme="1" line_length="6">již ztichl lán i les.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="011000" rhyme="3" line_length="6">Zde dlím v zanícení.</l>
+     <l n="6" met="10010100" rhyme="4" line_length="8">Tajemný dech mne obechvěl,</l>
+     <l n="7" met="10010101" rhyme="4" line_length="8">jakoby zástup duchů dlel</l>
+     <l n="8" met="101000" rhyme="3" line_length="6">vůkol na modlení.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100101" rhyme="1" line_length="6">Modlí se lán i les;</l>
+     <l n="10" met="10010101" rhyme="5" line_length="8">blankyt je v slávy lesku zřít,</l>
+     <l n="11" met="00010100" rhyme="5" line_length="8">jak by se chtěl už otevřít. –</l>
+     <l n="12" met="110100" rhyme="1" line_length="6">Den Páně nastal dnes!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

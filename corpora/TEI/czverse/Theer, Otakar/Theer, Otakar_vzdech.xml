@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VZDECH.</title>
+    <author>Theer, Otakar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Theer, Otakar_vzdech</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VZDECH.</title>
+     <author>Theer, Otakar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VZDECH.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0001100" rhyme="1" line_length="7">Kde je ten čas klassický,</l>
+     <l n="2" met="010101001101000" rhyme="1" line_length="15">kdy meč a hudba varyta zvuk měly identický,</l>
+     <l n="3" met="010101000100110" rhyme="2" line_length="15">kdy skutek tančil za touhou, kdy nebylo snů více,</l>
+     <l n="4" met="010101001001000" rhyme="2" line_length="15">kdy páry s loží rozkoše vstávaly zpívajíce.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

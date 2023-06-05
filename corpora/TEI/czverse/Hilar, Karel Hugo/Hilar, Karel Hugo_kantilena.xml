@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KANTILENA.</title>
+    <author>Hilar, Karel Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hilar, Karel Hugo_kantilena</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KANTILENA.</title>
+     <author>Hilar, Karel Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KANTILENA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" line_length="11">Jen klidně spi, ty velkých tužeb duchu,</l>
+     <l n="2" met="0101110000" rhyme="1" line_length="10">jen klidně spi, sni nerušeně dál – –</l>
+     <l n="3" met="01000101010" line_length="11">Tvé ideály s tebou spí i touhy</l>
+     <l n="4" met="010100010100" rhyme="1" line_length="12">a jejich rozbití jsi v žití nepoznal...</l>
+     <l n="5" met="1100" rhyme="1" line_length="4">Spi klidně dál!</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="01000101010" line_length="11">Tys nepoznal, jak bijí žití bouře</l>
+     <l n="7" met="1001010101" rhyme="2" line_length="10">a jak se umí o vše život rvát,</l>
+     <l n="8" met="01000101010" line_length="11">Tys nepoznal, jak srdce vlastní klame..</l>
+     <l n="9" met="0101010100" rhyme="2" line_length="10">jen jedno znal jsi pouze: – milovat –</l>
+     <l n="10" met="0101" rhyme="2" line_length="4">Nuž, můžeš spát – –!</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="10010101010" line_length="11">Za šerých kdysi přijdu k tobě nocí,</l>
+     <l n="12" met="1001010101" rhyme="3" line_length="10">rozerván, zmučen, s tebou abych spal</l>
+     <l n="13" met="01000101000" line_length="11">a nad rovem tvým tichým, zasmušilým</l>
+     <l n="14" met="0101010100" rhyme="3" line_length="10">si z hloubí duše volně zaplakal – –</l>
+     <l n="15" met="0100" rhyme="3" line_length="4">– – a žil zas dál – –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

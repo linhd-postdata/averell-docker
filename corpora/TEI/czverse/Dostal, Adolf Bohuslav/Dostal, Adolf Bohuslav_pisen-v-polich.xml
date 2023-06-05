@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PÍSEŇ V POLÍCH.</title>
+    <author>Dostal, Adolf Bohuslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostal, Adolf Bohuslav_pisen-v-polich</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PÍSEŇ V POLÍCH.</title>
+     <author>Dostal, Adolf Bohuslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PÍSEŇ V POLÍCH.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101100100" rhyme="1" line_length="9">Ode vsi písnička zavála,</l>
+     <l n="2" met="100101000" rhyme="2" line_length="9">ztracená, dávná melodie;</l>
+     <l n="3" met="100100100" rhyme="1" line_length="9">některá duše se zasmála,</l>
+     <l n="4" met="100101010" rhyme="2" line_length="9">která tu těžce, slzně žije.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001001000" rhyme="3" line_length="10">Stajené, pradávné utlačení</l>
+     <l n="6" met="100100100" rhyme="4" line_length="9">nad jarní pole se vzepjalo.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="1001001000" rhyme="3" line_length="10">Naslouchám písničky rozperlení;</l>
+     <l n="8" met="100100100" rhyme="4" line_length="9">v refrénu zpěváku selhalo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

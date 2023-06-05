@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Můj osud.</title>
+    <author>Kamarýt, Josef Vlastimil</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">2</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kamarýt, Josef Vlastimil_muj-osud</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Můj osud.</title>
+     <author>Kamarýt, Josef Vlastimil</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Můj osud.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="111000100011000" line_length="15">Ach! smrt ukrutná mi usouzena, smrt velehrozná!</l>
+     <l n="2" met="0101000100001" line_length="13">Sjíť touhou po milé – uh! Ugolínova smrt!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

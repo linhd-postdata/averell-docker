@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JUCHU!</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_juchu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JUCHU!</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JUCHU!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010100" line_length="8">Jdu podél říčky údolím</l>
+     <l n="2" met="0101010" rhyme="1" line_length="7">a v pravo, v levo stráně,</l>
+     <l n="3" met="01000100" line_length="8">tam čekají už pasáci,</l>
+     <l n="4" met="0101010" rhyme="1" line_length="7">až slunce svitne na ně.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" line_length="8">A jak se slunce rozsvítí,</l>
+     <l n="6" met="0100010" rhyme="2" line_length="7">už otvírají ústa</l>
+     <l n="7" met="01000100" line_length="8">a volání a jásání</l>
+     <l n="8" met="1001010" rhyme="2" line_length="7">od stráně k stráni vzrůstá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000100" line_length="8">Tu nemohu se udržet</l>
+     <l n="10" met="0101010" rhyme="3" line_length="7">a musím zpívat taky,</l>
+     <l n="11" met="01000100" line_length="8">tak jásavě, tak vysoko</l>
+     <l n="12" met="0101000" rhyme="3" line_length="7">až k slunci nad oblaky.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01000101" line_length="8">A líto je mi pánů, dam,</l>
+     <l n="14" met="1001010" rhyme="4" line_length="7">v kočárech jedou němě,</l>
+     <l n="15" met="01000100" line_length="8">neb nesluší se na panstvo,</l>
+     <l n="16" met="010010010" rhyme="4" line_length="9">by jásalo nad krásou země.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="000100101" rhyme="5" line_length="9">Jen já a pasák a prostý lid,</l>
+     <l n="18" met="01001010" rhyme="6" line_length="8">my smíme v tom božím vzduchu</l>
+     <l n="19" met="0100100100" rhyme="5" line_length="10">své nesmírné radosti ulevit</l>
+     <l n="20" met="010010010" rhyme="6" line_length="9">a vykřiknout jásavé juchu!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

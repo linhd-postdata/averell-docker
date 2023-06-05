@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A la muerte de Lope de Vega</title>
+    <author>Bitris de Gevora</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Bitris de Gevora_a-la-muerte-de-lope-de-vega</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A la muerte de Lope de Vega</title>
+     <author>Bitris de Gevora</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A la muerte de Lope de Vega</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">Arda en tu grande sepulcral hoguera</l>
+     <l n="2" met="-+-+-+---+-">la envidia aromas, bálsamos el celo,</l>
+     <l n="3" met="-+-+---+-+-">y en alto, heroico, incomparable duelo</l>
+     <l n="4" met="---+++---+-">la emulación te llore lisonjera.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">En esta breve racional carrera,</l>
+     <l n="6" met="-+-+-+---+-">o sol de Europa, rápido tu vuelo</l>
+     <l n="7" met="---+-++--+-">se anocheció en mortal lóbrego velo,</l>
+     <l n="8" met="---+++-+-+-">por alumbrarte ya en mejor esfera.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--++-+---+-">Si mortal dos Españas influidas,</l>
+     <l n="10" met="--+-++---+-">si caduca tres orbes ilustrados</l>
+     <l n="11" met="+--+-+---+-">dejo tu pluma en obras repetidas.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+---+-">Hoy de inmortales rayos coronados</l>
+     <l n="13" met="-+---+-+-+-">tus méritos infundan nuevas vidas,</l>
+     <l n="14" met="-+---+---+-">que dejen nuestros genios enseñados.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PASTEL</title>
+    <author>Toman, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Toman, Karel_pastel</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PASTEL</title>
+     <author>Toman, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PASTEL</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101000" rhyme="1" line_length="9">Dnes asi v slunné odpoledne</l>
+     <l n="2" met="1001000100" rhyme="2" line_length="10">se třemi kozlátky a beránkem</l>
+     <l n="3" met="010101" rhyme="2" line_length="6">a s věrným černým psem</l>
+     <l n="4" met="1001010" line_length="7">vyběhl k lesu Ala.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100101010" rhyme="1" line_length="9">Pod plavým vlasem tvář mu hnědne</l>
+     <l n="6" met="0101010100" rhyme="3" line_length="10">a v očích jiskří radost. Kopřivy</l>
+     <l n="7" met="010100" rhyme="3" line_length="6">ho velmi podiví</l>
+     <l n="8" met="0101000" line_length="7">i drsné ostružiny.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100101000" rhyme="4" line_length="9">Sluníčko sebral na třeslici,</l>
+     <l n="10" met="1001010100" rhyme="5" line_length="10">aby mu vzlétlo s dlaně. Nechce. Ne.</l>
+     <l n="11" met="010100" rhyme="5" line_length="6">A stádo posměšné</l>
+     <l n="12" met="0100010" line_length="7">jen trká se a směje.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="010101000" rhyme="4" line_length="9">Zved’ na ně ruku trestající</l>
+     <l n="14" met="0101010100" rhyme="6" line_length="10">a volá matku. V dálce, nemocna,</l>
+     <l n="15" met="100101" rhyme="6" line_length="6">z těžkého blouzní sna.</l>
+     <l n="16" met="1001010" line_length="7">Netuší, neví Ala.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

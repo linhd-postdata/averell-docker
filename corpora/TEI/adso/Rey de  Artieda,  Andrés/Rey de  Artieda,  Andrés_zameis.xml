@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Zameis </title>
+    <author>Rey de  Artieda,  Andrés</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Rey de  Artieda,  Andrés_zameis</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Zameis </title>
+     <author>Rey de  Artieda,  Andrés</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Zameis </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+---+-">Pasmado queda el pueblo del engaño</l>
+     <l n="2" met="--++-+-+-+-">en que tan dulcemente le has traído,</l>
+     <l n="3" met="--+--+---+-">con mi nombre y mi rostro y mi vestido</l>
+     <l n="4" met="-++-++-+-+-">en mil guerras un año y otro año.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">Y alegre del presente desengaño</l>
+     <l n="6" met="+-+--+---+-">cada cual de los dos reconocido,</l>
+     <l n="7" met="---+-+---+-">con general aplauso y alarido</l>
+     <l n="8" met="-+---+---+-">te alaba nuestro pueblo y el extraño.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+++-+---+-">Y yo así mismo loo tu grandeza</l>
+     <l n="10" met="--+--+---+-">y encarezco tu espíritu elevado,</l>
+     <l n="11" met="-+---+---+-">y admiro tu prudencia y fortaleza.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+-+-+-">Y ser tu hijo y ser de ti estimado,</l>
+     <l n="13" met="+---++-+-+-">tengo por mayor suerte y más riqueza</l>
+     <l n="14" met="---+-++--+-">que si del alto Amón fuera engendrado.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VRCHLICKÉMU S KNIHOU „V POLÍCH.“</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_vrchlickemu-s-knihou-v-polich</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VRCHLICKÉMU S KNIHOU „V POLÍCH.“</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VRCHLICKÉMU S KNIHOU „V POLÍCH.“</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" rhyme="1" line_length="8">Kéž z květů vzrostlých na polích</l>
+     <l n="2" met="01010101" rhyme="1" line_length="8">a z duše brázd a z žití lích</l>
+     <l n="3" met="01010100" rhyme="2" line_length="8">tu kytku k srdci bysi zved’,</l>
+     <l n="4" met="01010100" rhyme="2" line_length="8">než v pole musím naposled!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

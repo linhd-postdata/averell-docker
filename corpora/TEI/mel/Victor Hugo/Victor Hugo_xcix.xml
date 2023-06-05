@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XCIX</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_xcix</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XCIX</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XCIX</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Pour que l'humanité soit complète et divine,</l>
+     <l n="2" rhyme="b" line_length="6+6">C'est peu qu'elle triomphe, il faut qu'elle ait raison ;</l>
+     <l n="3" rhyme="a" line_length="6+6">Heureux celui qui plaint les vaincus ! il devine</l>
+     <l n="4" rhyme="b" line_length="6+6">Ce que pense quelqu'un derrière l'horizon.</l>
+     <l n="5" rhyme="c" line_length="6+6">Les vaincus d'on ne sait quelle guerre inconnue</l>
+     <l n="6" rhyme="d" line_length="6+6">Ce sont les animaux ; vénérons leur malheur ;</l>
+     <l n="7" rhyme="c" line_length="6+6">La victoirè par trop, d'orgueil se diminue,</l>
+     <l n="8" rhyme="d" line_length="6+6">Et l'on n'est le plus fort qu'en étant le meilleur.</l>
+    </lg>
+    <lg n="2">
+     <l n="9" rhyme="a" line_length="6+6">D'ailleurs connaissons-nous les horizons de l'ombre ?</l>
+     <l n="10" rhyme="b" line_length="6+6">Et nous, qui sommes-nous ? Nos ports sont nos écueils.</l>
+     <l n="11" rhyme="a" line_length="6+6">Songeons au ciel ; tâchons que cette aurore sombre</l>
+     <l n="12" rhyme="b" line_length="6+6">Si noire en nos berceaux, soit blanche en nos cercueils.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

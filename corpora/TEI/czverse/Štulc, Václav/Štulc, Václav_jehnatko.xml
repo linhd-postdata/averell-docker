@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jehňátko.</title>
+    <author>Štulc, Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Štulc, Václav_jehnatko</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jehňátko.</title>
+     <author>Štulc, Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jehňátko.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100100100" rhyme="1" line_length="12">Jehňátko, co si tak běduješ, co je ti?</l>
+     <l n="2" met="100100100100" rhyme="1" line_length="12">„Ach mně se matička, bídnému jehněti,</l>
+     <l n="3" met="100010100100" rhyme="1" line_length="12">Ztratila, i nelze o ní co zvěděti.“</l>
+     <l n="4" met="1001001000" rhyme="2" line_length="10">A ty se strachuješ, že ti tu snad</l>
+     <l n="5" met="1101010100" rhyme="2" line_length="10">Chce něco zlého někdo udělat?</l>
+     <l n="6" met="1000100110" rhyme="3" line_length="10">Báti se, to nevím; ne ach, to ne!</l>
+     <l n="7" met="0000101000" rhyme="3" line_length="10">Jen kdy bych již bylo u matky mé.</l>
+    </lg>
+    <lg n="2">
+     <l n="8" met="010100101100" rhyme="4" line_length="12">Jak stará zaslechla smutný křik jehněčí,</l>
+     <l n="9" met="101000100100" rhyme="4" line_length="12">Honem ze zahrady ku vrátkům přiskočí,</l>
+     <l n="10" met="101000100100" rhyme="5" line_length="12">Sotva zabečela, sotva ji slyšelo,</l>
+     <l n="11" met="100100100100" rhyme="5" line_length="12">Jehňátko s radostí na proti běželo.</l>
+     <l n="12" met="100100100010" rhyme="6" line_length="12">Běželo do honu k matince své milé</l>
+     <l n="13" met="000100100100" rhyme="6" line_length="12">I k ní se vinulo jehňátko veselé.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

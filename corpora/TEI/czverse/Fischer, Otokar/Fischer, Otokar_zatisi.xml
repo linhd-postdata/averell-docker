@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ZÁTIŠÍ</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_zatisi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ZÁTIŠÍ</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ZÁTIŠÍ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110100" rhyme="1" line_length="6">Hrst vlašských fialek.</l>
+     <l n="2" met="1101000" rhyme="2" line_length="7">Strom s listy nahořklými.</l>
+     <l n="3" met="110001" rhyme="1" line_length="6">Třpyt na očích a lék</l>
+     <l n="4" met="1001010" rhyme="2" line_length="7">po táhlých mlhách zimy.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100" rhyme="3" line_length="6">Piniím pod vrchol</l>
+     <l n="6" met="1001010" rhyme="4" line_length="7">vějíře palem vlají.</l>
+     <l n="7" met="100101" rhyme="3" line_length="6">Promlouvá keř i stvol.</l>
+     <l n="8" met="0100010" rhyme="4" line_length="7">Jsem v antickém tu kraji.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100101" rhyme="5" line_length="6">V přeletu zlatý věk</l>
+     <l n="10" met="1100010" rhyme="6" line_length="7">dí větrnými slovy:</l>
+     <l n="11" met="100100" rhyme="5" line_length="6">Utrhni lísteček,</l>
+     <l n="12" met="1001000" rhyme="6" line_length="7">lísteček vavřínový!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

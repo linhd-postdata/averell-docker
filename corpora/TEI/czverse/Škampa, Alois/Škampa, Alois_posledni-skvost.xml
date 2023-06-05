@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poslední skvost.</title>
+    <author>Škampa, Alois</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Škampa, Alois_posledni-skvost</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Poslední skvost.</title>
+     <author>Škampa, Alois</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Poslední skvost.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010100" rhyme="1" line_length="10">Mladinký javor mrazem ohlodán</l>
+     <l n="2" met="11000101010" rhyme="2" line_length="11">hle, truhlivě se chýlí nad kraj luhu.</l>
+     <l n="3" met="0101010101" rhyme="1" line_length="10">On sotva hoch – juž v posměch vichru dán,</l>
+     <l n="4" met="01010100010" rhyme="2" line_length="11">že výše vzrostl nad hlavy svých druhů!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001010100" rhyme="3" line_length="10">Nejkrasších listů hebkou ozdobu</l>
+     <l n="6" met="11000101010" rhyme="4" line_length="11">zlá jeseň juž mu sklála k zemi prvé,</l>
+     <l n="7" met="0100010100" rhyme="3" line_length="10">pak ve sněhu, jenž slét jim ku hrobu,</l>
+     <l n="8" met="11000101010" rhyme="4" line_length="11">tlum bratrů jich se zarděl barvou krve!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1001000101" rhyme="5" line_length="10">A teď, i tyto kdy juž zasul sníh,</l>
+     <l n="10" met="01010101010" rhyme="6" line_length="11">sám holý peň jen k nebi zvedá rysy.</l>
+     <l n="11" met="0100100100" rhyme="5" line_length="10">Leč u výši, nad rakví ostatních –</l>
+     <l n="12" met="11000101010" rhyme="6" line_length="11">tři poslední jak zlaté hvězdy visí!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

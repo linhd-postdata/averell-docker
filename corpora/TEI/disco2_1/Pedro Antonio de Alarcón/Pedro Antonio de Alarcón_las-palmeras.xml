@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Las palmeras</title>
+    <author>Pedro Antonio de Alarcón</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pedro Antonio de Alarcón_las-palmeras</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Las palmeras</title>
+     <author>Pedro Antonio de Alarcón</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Las palmeras</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+-+++-">«¡Quiero sol!» Moribunda dijo un día</l>
+     <l n="2" met="+--+---+-+-">una palmera que en umbroso huerto,</l>
+     <l n="3" met="---+---+-+-">amortajada en su ramaje yerto,</l>
+     <l n="4" met="++---+---+-">cual alma sin amor languidecía.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">Y elevando sus ramas con porfía,</l>
+     <l n="6" met="--++-+-+-+-">descubrió al fin su copa el campo abierto,</l>
+     <l n="7" met="-+-+-----+-">y vio marchita, en medio del desierto,</l>
+     <l n="8" met="+--+---+-+-">otra palmera que de sed moría.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--++--+-">«¡Quiero sombra!» Decía esta palmera,</l>
+     <l n="10" met="-+--++---+-">gimiendo por un soplo de frescura.</l>
+     <l n="11" met="+-+--+---+-">«¡Quiero sol!» Repetía la primera...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+-+-+-">Y de ambas condolida el aura pura,</l>
+     <l n="13" met="---+-+---+-">compaginó las cosas de manera</l>
+     <l n="14" met="--+--+---+-">que gozaron de igual temperatura.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

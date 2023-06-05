@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ELA</title>
+    <author>Olavo Bilac e Guimarães Passos</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Olavo Bilac e Guimarães Passos_ela</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Stichotheque Portuguese</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ELA</title>
+     <author>Olavo Bilac e Guimarães Passos</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ELA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1">Maria tem vinte amantes!</l>
+     <l n="2">Uns tortos, outros direitos;</l>
+     <l n="3">Todos eles são galantes,</l>
+     <l n="4">Todos vivem satisfeitos...</l>
+    </lg>
+    <lg n="2">
+     <l n="5">Mulher de recursos fartos!</l>
+     <l n="6">Como é que esta impenitente,</l>
+     <l n="7">Tendo no corpo dous quartos,</l>
+     <l n="8">Dá pousada a tanta gente?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hovory.</title>
+    <author>Geisslová, Irma</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Geisslová, Irma_hovory</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hovory.</title>
+     <author>Geisslová, Irma</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hovory.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" rhyme="1" line_length="8">Milé moje spolužačky</l>
+     <l n="2" met="10101010" rhyme="1" line_length="8">mají každá jiné hračky,</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">při tom v smíchu nebo plačky</l>
+     <l n="4" met="1010100" rhyme="2" line_length="7">jedna s druhou štěbetá</l>
+     <l n="5" met="0100100" rhyme="2" line_length="7">jak kolečka rozjetá.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="00101010" rhyme="3" line_length="8">Já si také hraji ráda,</l>
+     <l n="7" met="10101010" rhyme="3" line_length="8">z hraní dětský svět se skládá,</l>
+     <l n="8" met="10101010" rhyme="3" line_length="8">lepší, nežli křik a váda,</l>
+     <l n="9" met="1000100" rhyme="4" line_length="7">ale s kým si povídám – – ?</l>
+     <l n="10" met="1010000" rhyme="4" line_length="7">Mám-li vyzraditi Vám?</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="00010110" rhyme="5" line_length="8">Ať si kdo chce, co chce říká,</l>
+     <l n="12" met="01101010" rhyme="5" line_length="8">že zní krásně, neb jen kviká,</l>
+     <l n="13" met="10001000" rhyme="5" line_length="8">trojnohého společníka,</l>
+     <l n="14" met="1010100" rhyme="6" line_length="7">klavír ráda slýchávám,</l>
+     <l n="15" met="1000100" rhyme="6" line_length="7">hraji-li, on mluví sám.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

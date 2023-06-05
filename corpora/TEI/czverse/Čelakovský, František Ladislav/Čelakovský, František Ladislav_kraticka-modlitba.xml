@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kratičká modlitba.</title>
+    <author>Čelakovský, František Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čelakovský, František Ladislav_kraticka-modlitba</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kratičká modlitba.</title>
+     <author>Čelakovský, František Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kratičká modlitba.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100" rhyme="1" line_length="7">Pane Bože, zachovej</l>
+     <l n="2" met="101000" rhyme="2" line_length="6">Naše oseníčko;</l>
+     <l n="3" met="1010100" rhyme="3" line_length="7">Ke žni hojné požehnej</l>
+     <l n="4" met="101000" rhyme="2" line_length="6">Zlaté obilíčko;</l>
+     <l n="5" met="1000100" rhyme="3" line_length="7">Před zlobou nám ostříhej</l>
+     <l n="6" met="010010" rhyme="4" line_length="6">I před ohněm střechy;</l>
+     <l n="7" met="1010100" rhyme="1" line_length="7">K dlouhým věkům dochovej</l>
+     <l n="8" met="101010" rhyme="4" line_length="6">Všecky věrné Čechy!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

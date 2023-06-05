@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mis deseos</title>
+    <author>Juan Bautista Arriaza</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Bautista Arriaza_mis-deseos</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mis deseos</title>
+     <author>Juan Bautista Arriaza</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mis deseos</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+-+-+-">Si Dios omnipotente me mandara</l>
+     <l n="2" met="--+--+---+-">de sus dones tomar el que quisiera,</l>
+     <l n="3" met="-+---+-+-+-">ni el oro ni la plata le pidiera,</l>
+     <l n="4" met="-+---+---+-">ni imperios ni coronas deseara.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+-+-+-">Si un sublime talento me bastara</l>
+     <l n="6" met="---+-+++-+-">para vivir feliz, yo lo eligiera:</l>
+     <l n="7" met="-+-+---+-+-">¿Mas qué de sabios recordar pudiera</l>
+     <l n="8" met="-+-+-+--++-">a quién su misma ciencia costó cara?</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+-----+-">Yo sólo pido al Todopoderoso</l>
+     <l n="10" met="+-+--++-++-">me conceda propicio estos tres dones,</l>
+     <l n="11" met="---+-+-+-+-">con que vivir en paz y ser dichoso:</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++-+-+---+-">un fiel amigo en todas ocasiones,</l>
+     <l n="13" met="+--+-+---+-">un corazón sencillo y generoso,</l>
+     <l n="14" met="++-+-+---+-">y un juicio, en fin, que rija mis acciones.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

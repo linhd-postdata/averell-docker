@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Den dnešní...</title>
+    <author>Mužík, Augustin Eugen</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mužík, Augustin Eugen_den-dnesni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Den dnešní...</title>
+     <author>Mužík, Augustin Eugen</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Den dnešní...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11000100010" rhyme="1" line_length="11">Den dnešní je tak hluboký a chmurný,</l>
+     <l n="2" met="01010101000" rhyme="1" line_length="11">je obzor šedý, rmutný, nelazurný,</l>
+     <l n="3" met="0101010101" rhyme="2" line_length="10">jen mhy a stíny světem volně jdou,</l>
+     <l n="4" met="0100110100" rhyme="2" line_length="10">jak žebračky jdou jedna za druhou.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11010101010" rhyme="3" line_length="11">Ó lidské srdce v křiku, vádě, vřavě</l>
+     <l n="6" met="01010101000" rhyme="3" line_length="11">se dělí, ono pláče usedavě.</l>
+     <l n="7" met="01001101010" rhyme="4" line_length="11">Pak stařeny zlé v další pouť se zvednou,</l>
+     <l n="8" met="01000101000" rhyme="4" line_length="11">a za sebe se ani neohlednou.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

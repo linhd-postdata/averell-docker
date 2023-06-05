@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Citlivé srdce.</title>
+    <author>Menhard, František Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Menhard, František Ladislav_citlive-srdce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Citlivé srdce.</title>
+     <author>Menhard, František Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Citlivé srdce.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010001" line_length="10">Jak pana rady Klepetarze choť</l>
+     <l n="2" met="1101000101000" rhyme="1" line_length="13">má srdce citlivé, to nikdo neuvěří!</l>
+     <l n="3" met="0101010101" line_length="10">Jí bolno, trudno, bídu, nouzi zřít,</l>
+     <l n="4" met="0101000101010" rhyme="1" line_length="13">a proto žebráka – pryč žene od svých dveří...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

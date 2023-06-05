@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Den a noc.</title>
+    <author>Furch, Vincenc</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Furch, Vincenc_den-a-noc</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Den a noc.</title>
+     <author>Furch, Vincenc</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Den a noc.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101110" rhyme="1" line_length="6">Plodí den – noc kojí –</l>
+     <l n="2" met="101110" rhyme="1" line_length="6">Mučí den – noc hojí,</l>
+     <l n="3" met="111000" rhyme="2" line_length="6">Den krev rozpaluje,</l>
+     <l n="4" met="101000" rhyme="2" line_length="6">K činu povzbuzuje;</l>
+     <l n="5" met="101000" rhyme="2" line_length="6">Den nám ukazuje</l>
+     <l n="6" met="101010" rhyme="3" line_length="6">Květné zemské sady –</l>
+     <l n="7" met="101000" rhyme="2" line_length="6">Noc nám odhaluje</l>
+     <l n="8" met="101010" rhyme="3" line_length="6">Hvězdné nebes vnady.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

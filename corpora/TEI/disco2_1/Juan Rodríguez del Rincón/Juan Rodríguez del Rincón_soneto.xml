@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Juan Rodríguez del Rincón</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Rodríguez del Rincón_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Juan Rodríguez del Rincón</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-++--+-+-+-">También A la eminencia, al Sol, y Rosa</l>
+     <l n="2" met="-+-+-+---+-">(monarcas siendo) amaga los rigores;</l>
+     <l n="3" met="-+-+-+---+-">de ardientes rayos, cierzos, y vapores;</l>
+     <l n="4" met="++++-+---+-">que a un tiempo es ser grandeza y peligrosa.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+---+-">Todo en ti amenazado (o prodigiosa</l>
+     <l n="6" met="--+--++--+-">Majestad) se lloró vanos temores</l>
+     <l n="7" met="-+---+--++-">si eternos se vinculan en ti flores,</l>
+     <l n="8" met="+--+-++--+-">sacro laurel, y luz tan poderosa.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+---++-+-+-">Frustro de fatal hado triste suerte</l>
+     <l n="10" met="+-+--+---+-">de un veneno prudencia prevenida.</l>
+     <l n="11" met="-++--+-+-+-">Veneno es la grandeza dulce, y fuerte.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-++----+-">Mas burla de él, si aun antes de nacida,</l>
+     <l n="13" met="+--+---+-+-">próvido el cielo en excusar tu muerte,</l>
+     <l n="14" met="+--+---+-+-">de este veneno alimentó tu vida.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

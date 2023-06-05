@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Flor de cieno</title>
+    <author>Julián del Casal</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Julián del Casal_flor-de-cieno</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Flor de cieno</title>
+     <author>Julián del Casal</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Flor de cieno</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+-+---+-">Yo soy como una choza solitaria</l>
+     <l n="2" met="-+---+---+-">que el viento huracanado desmorona</l>
+     <l n="3" met="---+-+---+-">y en cuyas piedras húmedas entona</l>
+     <l n="4" met="+-+--+---+-">hosco búho su endecha funeraria.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+++---+-">Por fuera sólo es urna cineraria</l>
+     <l n="6" met="---+-+---+-">sin inscripción, ni fecha, ni corona,</l>
+     <l n="7" met="-+---+---+-">mas dentro, donde el cielo se amontona,</l>
+     <l n="8" met="+--+-+---+-">cubre sus hojas fresca pasionaria.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+-+-">Huyen los hombres al oír el canto</l>
+     <l n="10" met="-+---+---+-">del búho que en la atmósfera se pierde,</l>
+     <l n="11" met="---+---+-+-">y, sin que sepan reprimir su espanto,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++---+-+-+-">no ven que, como planta siempre verde,</l>
+     <l n="13" met="--+--+---+-">entre el negro raudal de mi amargura</l>
+     <l n="14" met="+----+-+-+-">guarda mi corazón su esencia pura.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

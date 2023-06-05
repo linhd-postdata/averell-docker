@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ČESKÉMU LVU!</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_ceskemu-lvu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ČESKÉMU LVU!</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ČESKÉMU LVU!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101" rhyme="1" line_length="8">Když lev, pak lev a nikdy pes,</l>
+     <l n="2" met="01000100" rhyme="1" line_length="8">je za tebou už, co jsi snes’;</l>
+     <l n="3" met="0101010" rhyme="2" line_length="7">však v slávě těchto chvílí</l>
+     <l n="4" met="1101010" rhyme="2" line_length="7">zjev, co je v tobě síly!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" rhyme="3" line_length="8">Nuž, ať si jenom dovolí</l>
+     <l n="6" met="11000100" rhyme="3" line_length="8">brát z tvého kdo a cokoli,</l>
+     <l n="7" met="0101010" rhyme="4" line_length="7">co’s zdědil z časů prve</l>
+     <l n="8" met="0101010" rhyme="4" line_length="7">či dobyl proudy krve!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101" rhyme="3" line_length="8">Ať z lovců smělých každý zví,</l>
+     <l n="10" met="01010101" rhyme="3" line_length="8">než zpychne, že je v zemi lví,</l>
+     <l n="11" met="0100010" rhyme="5" line_length="7">ať zděsí jej tvé stopy,</l>
+     <l n="12" met="0101010" rhyme="5" line_length="7">dřív, než se k lupu vzchopí!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="11010100" rhyme="6" line_length="8">Zem naplň svojí slávou zas;</l>
+     <l n="14" met="11010010" rhyme="6" line_length="8">stín noci tvojí zbled’ a zhas’,</l>
+     <l n="15" met="1001010" rhyme="7" line_length="7">den tvůj už vstal a hoří</l>
+     <l n="16" met="010001010" rhyme="7" line_length="9">a ozářil tě svojí zoří!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

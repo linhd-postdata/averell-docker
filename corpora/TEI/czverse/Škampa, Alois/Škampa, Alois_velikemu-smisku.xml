@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Velikému smíšku.</title>
+    <author>Škampa, Alois</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Škampa, Alois_velikemu-smisku</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Velikému smíšku.</title>
+     <author>Škampa, Alois</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Velikému smíšku.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" rhyme="1" line_length="11">Nechť s oka Tobě září po dny všecky</l>
+     <l n="2" met="01000101010" rhyme="1" line_length="11">ten rozkošný a sladký půvab dětský,</l>
+     <l n="3" met="0100010001" rhyme="2" line_length="10">jímž’s dobrá tak a přítulná, jak laň.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="01001001110" rhyme="3" line_length="11">Nechť v životě, jenž vstříc Ti plá pln vděku,</l>
+     <l n="5" met="01000100010" rhyme="3" line_length="11">vždy stezkou svou až do pozdního věku</l>
+     <l n="6" met="0100010101" rhyme="2" line_length="10">jen míru snět si nese Tvoje dlaň!</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="10010101010" rhyme="4" line_length="11">A vždy a všady, po Tvé žití celé</l>
+     <l n="8" met="01010100010" rhyme="4" line_length="11">ať na Tě svět tak upřímně a vřele</l>
+     <l n="9" met="0100100100" rhyme="2" line_length="10">se usmívá, – jak Ty se směješ naň!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- CLI - </title>
+    <author>Gutierre de Cetina</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Gutierre de Cetina_cli</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- CLI - </title>
+     <author>Gutierre de Cetina</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- CLI - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+--++-+-+-">Temor de mayor mal a algunos suele</l>
+     <l n="2" met="-+-+---+-+-">hacer correr a voluntaria muerte,</l>
+     <l n="3" met="-+-+-+-+++-">pensando así excusar dolor más fuerte,</l>
+     <l n="4" met="-++--+-+-+-">si bien más que el morir ninguno duele.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">Hizo Catón que su memoria vuele,</l>
+     <l n="6" met="-+-+-++--+-">y el nombre a tal morir muda y pervierte;</l>
+     <l n="7" met="+----++--+-">uso de libertad llama su suerte,</l>
+     <l n="8" met="-+---+---+-">y muestra que con ella se consuele.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-----+---+-">Si nuestra religión lo permitiera,</l>
+     <l n="10" met="--+--+-+-+-">como aquella gentil que solamente</l>
+     <l n="11" met="+-+--++--+-">de un hermoso morir tuvo cuidado,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++-+-+---+-">yo sé por menos mal lo que hiciera:</l>
+     <l n="13" met="-+-+-++--+-">que salvo a no morir siéndoos ausente,</l>
+     <l n="14" met="-+-+-+-+-+-">en todo puedo ser de vos forzado.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

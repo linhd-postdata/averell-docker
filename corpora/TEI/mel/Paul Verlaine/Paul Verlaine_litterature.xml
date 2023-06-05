@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LITTÉRATURE</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">25</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_litterature</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LITTÉRATURE</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LITTÉRATURE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">BONS camarades de la Presse</l>
+     <l n="2" rhyme="b" line_length="8">Comme aussi de la Poésie,</l>
+     <l n="3" rhyme="a" line_length="8">Fleurs de muflisme et de bassesse ?</l>
+     <l n="4" rhyme="b" line_length="8">Élite par quel Dieu choisie,</l>
+     <l n="5" rhyme="a" line_length="8">Par quel Dieu de toute bassesse ?</l>
+    </lg>
+    <lg n="2">
+     <l n="6" rhyme="a" line_length="8">Confrères mal frères de moi</l>
+     <l n="7" rhyme="b" line_length="8">Qui m’enterriez presque jadis</l>
+     <l n="8" rhyme="a" line_length="8">Sous tout ce silence — pourquoi ? —</l>
+     <l n="9" rhyme="b" line_length="8">Depuis l’affreux soixante-dix.</l>
+     <l n="10" rhyme="a" line_length="8">Confrères mal frères de moi.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" rhyme="a" line_length="8">Pourquoi ce silence mal frère</l>
+     <l n="12" rhyme="b" line_length="8">Depuis de si longues années,</l>
+     <l n="13" rhyme="a" line_length="8">Et tout à coup comme en colère</l>
+     <l n="14" rhyme="b" line_length="8">Tant de clameurs, comme étonnées ?</l>
+     <l n="15" rhyme="a" line_length="8">Pourquoi ce changement mal frère ?</l>
+    </lg>
+    <lg n="4">
+     <l n="16" rhyme="a" line_length="8">Ah, si l’on pouvait m’étouffer</l>
+     <l n="17" rhyme="b" line_length="8">Sous cette pile de journaux</l>
+     <l n="18" rhyme="a" line_length="8">Où mon nom qu’on feint de trouver</l>
+     <l n="19" rhyme="b" line_length="8">Comme on rencontre des cerneaux</l>
+     <l n="20" rhyme="a" line_length="8">Se gonfle à le faire crever !</l>
+    </lg>
+    <lg n="5">
+     <l n="21" rhyme="a" line_length="8">C’est ce qu’on appelle la Gloire !</l>
+     <l n="22" rhyme="b" line_length="8">— Avec le droit à la famine,</l>
+     <l n="23" rhyme="a" line_length="8">A la grande misère noire</l>
+     <l n="24" rhyme="b" line_length="8">Et presque jusqu’à la vermine —</l>
+     <l n="25" rhyme="a" line_length="8">C’est ce qu’on appelle la Gloire !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

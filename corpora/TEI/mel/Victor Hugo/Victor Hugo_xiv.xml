@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XIV</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_xiv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XIV</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XIV</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Je ne demande pas autre chose aux forêts</l>
+     <l n="2" rhyme="a" line_length="6+6">Que de faire silence autour des antres frais</l>
+     <l n="3" rhyme="b" line_length="6+6">Et de ne pas troubler la chanson des fauvettes.</l>
+     <l n="4" rhyme="b" line_length="6+6">Je veux entendre aller et venir les navettes</l>
+     <l n="5" rhyme="a" line_length="6+6">De Pan, noir tisserand que nous entrevoyons</l>
+     <l n="6" rhyme="a" line_length="6+6">Et qui file, en tordant l'eau, le vent, les rayons,</l>
+     <l n="7" rhyme="b" line_length="6+6">Ce grand réseau, la vie, immense et sombre toile</l>
+     <l n="8" rhyme="b" line_length="6+6">Où brille et tremble en bas la fleur, en haut l'étoile.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

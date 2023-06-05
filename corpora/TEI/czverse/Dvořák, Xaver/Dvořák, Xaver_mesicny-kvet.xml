@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Měsíčný květ.</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_mesicny-kvet</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Měsíčný květ.</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Měsíčný květ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100110100" rhyme="1" line_length="10">Juž vyrostl květ luny stříbrný</l>
+     <l n="2" met="100" rhyme="2" line_length="3">na vodách,</l>
+     <l n="3" met="11011100" rhyme="1" line_length="8">hvězd – zlatých ryb roj nádherný</l>
+     <l n="4" met="100" rhyme="2" line_length="3">k němu táh’.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1101000100" rhyme="3" line_length="10">Květ mrtvých nadějí juž blednoucí</l>
+     <l n="6" met="000" rhyme="4" line_length="3">v hloub mi kles’,</l>
+     <l n="7" met="0101010100" rhyme="3" line_length="10">jak odlesk luny mdlý a hasnoucí</l>
+     <l n="8" met="100" rhyme="4" line_length="3">od nebes.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1001000100" rhyme="5" line_length="10">Po stupních myšlenek sem zvlněný</l>
+     <l n="10" met="100" rhyme="6" line_length="3">duch můj táh’;</l>
+     <l n="11" met="0100010100" rhyme="5" line_length="10">zda měsíčný by květ ten ztracený</l>
+     <l n="12" met="100" rhyme="6" line_length="3">nedosáh’...!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

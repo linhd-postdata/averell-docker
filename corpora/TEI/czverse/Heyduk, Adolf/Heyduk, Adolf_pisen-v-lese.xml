@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Píseň v lese.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_pisen-v-lese</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Píseň v lese.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Píseň v lese.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101000" rhyme="1" line_length="10">Po krajině velké, bezeměrné</l>
+     <l n="2" met="1000101010" rhyme="1" line_length="10">rozlévá se moře noci černé,</l>
+     <l n="3" met="1010101010" rhyme="2" line_length="10">nikde hvězdy, jež by zářit chtěla,</l>
+     <l n="4" met="0010101000" rhyme="2" line_length="10">jen v mé duši píseň osamělá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1000101010" rhyme="3" line_length="10">Pro koho tě, prostá písni, nesu?</l>
+     <l n="6" met="1010100010" rhyme="3" line_length="10">Ticho kol, nuž zazpívám tě lesu!</l>
+     <l n="7" met="1010100010" rhyme="4" line_length="10">Slyš, kdos se mnou zpívá zas a zase! –</l>
+     <l n="8" met="0010001000" rhyme="4" line_length="10">Ne, jen ozvěna mně vysmívá se!..</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

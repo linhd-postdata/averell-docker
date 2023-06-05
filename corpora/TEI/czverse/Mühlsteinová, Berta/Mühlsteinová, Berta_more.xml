@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Moře.</title>
+    <author>Mühlsteinová, Berta</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mühlsteinová, Berta_more</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Moře.</title>
+     <author>Mühlsteinová, Berta</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Moře.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100010" line_length="11">V mé duši jest jak v rozvlněném moři.</l>
+     <l n="2" met="1001010100" rhyme="1" line_length="10">Kolem mne mračna, všade vzbouření,</l>
+     <l n="3" met="10010100010" line_length="11">vichřice hučí o ztraceném mládí –</l>
+     <l n="4" met="0101010100" rhyme="1" line_length="10">a nikde světla, nikde spasení.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101010" line_length="11">Tu vrací moře, co kdys krylo v lůně;</l>
+     <l n="6" met="1101010100" rhyme="2" line_length="10">ó znám ty perle, jsou to naděje;</l>
+     <l n="7" met="01010101000" line_length="11">tam opět vlna žene rozbitiny,</l>
+     <l n="8" met="1000010100" rhyme="2" line_length="10">potápí je – a zase zdvíhá je.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010001010" line_length="11">Znám též ty trosky; jsou to zbytky lodě,</l>
+     <l n="10" met="1001000100" rhyme="3" line_length="10">na které směle kdys jsem vyplula;</l>
+     <l n="11" met="10010101010" line_length="11">u strmé skály, která zradu chová,</l>
+     <l n="12" met="0001010100" rhyme="3" line_length="10">tam bouř se zdvihla, vesla ztonula.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01010101010" line_length="11">A od té doby moře stále bouří;</l>
+     <l n="14" met="0101010100" rhyme="4" line_length="10">jen chvilkou tichne, chvilkou umlkne;</l>
+     <l n="15" met="01100100010" line_length="11">tu blesk protrhne černošedé mraky,</l>
+     <l n="16" met="1100010001" rhyme="4" line_length="10">hrom zaduní, a moře zas se pne.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

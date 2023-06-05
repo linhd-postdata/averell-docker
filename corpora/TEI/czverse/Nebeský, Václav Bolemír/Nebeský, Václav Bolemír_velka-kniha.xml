@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VELKÁ KNIHA.</title>
+    <author>Nebeský, Václav Bolemír</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nebeský, Václav Bolemír_velka-kniha</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VELKÁ KNIHA.</title>
+     <author>Nebeský, Václav Bolemír</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VELKÁ KNIHA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010101010" rhyme="1" line_length="12">Ach, jak velká, božské věštby plná kníha</l>
+     <l n="2" met="101000100100" rhyme="2" line_length="12">Tiše, divosvatě srdci se otvírá,</l>
+     <l n="3" met="100010001010" rhyme="2" line_length="12">Oko tam když v nezkoumané říše zírá,</l>
+     <l n="4" met="001010010010" rhyme="1" line_length="12">Kde se hvězda za hvězdou bez konce míhá!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100010001010" rhyme="3" line_length="12">Nikdy jsem ti nerozuměl, kního svatá!</l>
+     <l n="6" met="100010101010" rhyme="4" line_length="12">Ale teď, když na svém lůžku trudně sedím,</l>
+     <l n="7" met="101010101010" rhyme="4" line_length="12">V oku slzu, v srdci bol, a zhůru hledím –</l>
+     <l n="8" met="101010101000" rhyme="3" line_length="12">Ach, teď vím, co mluvíš, kního hvězdozlatá!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Resurgendis!</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_resurgendis</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Resurgendis!</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Resurgendis!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010011010" rhyme="1" line_length="11">Den svatý vzplanul již hle, zora zlatá</l>
+     <l n="2" met="01001101000" rhyme="2" line_length="11">kol paprsků zář smavou rozhazuje;</l>
+     <l n="3" met="11010101010" rhyme="1" line_length="11">květ voní, zpívá pták, že země jatá</l>
+     <l n="4" met="10010001010" rhyme="2" line_length="11">na vlnách písní těch se chvějíc, pluje.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11010011000" rhyme="3" line_length="11">Den svatý vzplanul již, den allelují,</l>
+     <l n="6" met="10010111010" rhyme="4" line_length="11">na srdcí vašich hrob zář jeho padá,</l>
+     <l n="7" met="01010101010" rhyme="3" line_length="11">kde ještě stín a temno chmurné bují,</l>
+     <l n="8" met="01010001000" rhyme="4" line_length="11">kde hřích své pavučiny rozepřádá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="11000101010" rhyme="5" line_length="11">Ach, otevřete srdce svoje honem,</l>
+     <l n="10" met="01010101010" rhyme="6" line_length="11">kdy na ně tluče jako posel Boží</l>
+     <l n="11" met="1010101010" rhyme="5" line_length="10">anděl, milost svatá, v květu vonném,</l>
+     <l n="12" met="01010100010" rhyme="6" line_length="11">ať v nitro vaše bohatství své složí;</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01010101010" rhyme="7" line_length="11">ať těžký kámen s duše zvolna svalí</l>
+     <l n="14" met="01010101010" rhyme="8" line_length="11">a mastí drahých vůni v hrob ten střese,</l>
+     <l n="15" met="01010101010" rhyme="7" line_length="11">ať jako Kristus, vítěz z mrtvých vstalý</l>
+     <l n="16" met="11000100010" rhyme="8" line_length="11">duch očistěn se do azuru vznese.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

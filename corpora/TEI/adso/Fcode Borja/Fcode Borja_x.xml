@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- X - </title>
+    <author>Fcode Borja</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fcode Borja_x</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- X - </title>
+     <author>Fcode Borja</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- X - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+---+-">En breve Ocaso yace sepultada</l>
+     <l n="2" met="-+-+---+-+-">del Sol de España la infeliz Aurora;</l>
+     <l n="3" met="++-+---+-+-">no dije bien, pues de estación mejora,</l>
+     <l n="4" met="---+-+---+-">y sobre el Sol termina su jornada.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">Ver la virtud en su niñez premiada,</l>
+     <l n="6" met="---+-+---+-">cuando ningún suceso la desdora,</l>
+     <l n="7" met="-+-+---+-+-">ni el bien la engaña, ni el temor la llora,</l>
+     <l n="8" met="-+-+---+-+-">ni el peso siente de la edad cansada.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+-+---+-">¡Qué más verdad, Monarca soberano,</l>
+     <l n="10" met="+--+-+---+-">pudo mover tu espíritu divino,</l>
+     <l n="11" met="-+-+---+-+-">a ser ejemplo del valor Cristiano!</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">Que mude patria Carlos, te convino.</l>
+     <l n="13" met="-+-+---+-+-">Y hoy en la propia te dará la mano,</l>
+     <l n="14" met="-+++-+---+-">que dar no pudo en esta peregrino.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Uzel.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_uzel</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Uzel.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Uzel.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100100" rhyme="1" line_length="9">Gordiem uzel byl zamotán,</l>
+     <l n="2" met="000100101" rhyme="1" line_length="9">kdo by jej rozvázal, světa pán;</l>
+     <l n="3" met="1001000" line_length="7">rozťal jej Alexandr.</l>
+     <l n="4" met="10010100" rhyme="2" line_length="8">Život náš mocí přetržen:</l>
+     <l n="5" met="0001001000" rhyme="2" line_length="10">Kéž by se vyskyt’ nám Gordios jen,</l>
+     <l n="6" met="1001000" line_length="7">nikdy však Alexandr.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

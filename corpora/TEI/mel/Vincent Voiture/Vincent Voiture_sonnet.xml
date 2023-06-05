@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SONNET</title>
+    <author>Vincent Voiture</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vincent Voiture_sonnet</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SONNET</title>
+     <author>Vincent Voiture</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SONNET</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Il faut finir mes jours en l'amour d'Uranie,</l>
+     <l n="2" rhyme="b" line_length="6+6">L'absence ni le temps ne m'en sçauroient guerir</l>
+     <l n="3" rhyme="b" line_length="6+6">Et je ne voy plus rien qui me pût secourir,</l>
+     <l n="4" rhyme="a" line_length="6+6">Ni qui sceust r'appeller ma liberté bannie.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Dés long-temps je connois sa rigueur infinie,</l>
+     <l n="6" rhyme="b" line_length="6+6">Mais pensant aux beautez pour qui je dois perir :</l>
+     <l n="7" rhyme="b" line_length="6+6">je benis mon martyre, et content de mourir,</l>
+     <l n="8" rhyme="a" line_length="6+6">je n'ose murmurer contre sa tyrannie.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Quelquefois ma raison, par de foibles discours,</l>
+     <l n="10" rhyme="c" line_length="6+6">M'incite à la revolte, et me promet secours.</l>
+     <l n="11" rhyme="d" line_length="6+6">Mais lors qu'à mon besoin je me veux servir d'elle ;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Apres beaucoup de peine et d'efforts impuissans</l>
+     <l n="13" rhyme="d" line_length="6+6">Elle dit qu'Uranie est seule aymable et belle,</l>
+     <l n="14" rhyme="e" line_length="6+6">Et m'y rengage plus que ne font tous mes sens.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

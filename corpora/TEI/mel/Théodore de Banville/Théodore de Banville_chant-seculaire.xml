@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Chant séculaire</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_chant-seculaire</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Chant séculaire</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Chant séculaire</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="5">Mes amis, enfin doit éclore :</l>
+     <l n="2" rhyme="b" line_length="8">Je vois une nouvelle aurore.</l>
+     <l n="3" rhyme="a" line_length="5">Voici l'heure, ô sainte colère !</l>
+     <l n="4" rhyme="b" line_length="8">De chanter le chant séculaire :</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="5">Forts et seuls comme les grands chênes,</l>
+     <l n="6" rhyme="b" line_length="8">Tendres lys brisés par des chaînes !</l>
+     <l n="7" rhyme="a" line_length="5">Car Cypris, la pâle captive,</l>
+     <l n="8" rhyme="b" line_length="8">A lavé son front dans l'eau vive :</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="5">Dévouement, liberté, génie,</l>
+     <l n="10" rhyme="b" line_length="8">Pour le règne de l'harmonie :</l>
+     <l n="11" rhyme="a" line_length="5">Et la Muse, pareille aux femmes,</l>
+     <l n="12" rhyme="b" line_length="8">Chantera ses épithalames :</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="5">Rejaillir en strophes écloses,</l>
+     <l n="14" rhyme="b" line_length="8">Un miel pur couler dans les roses.</l>
+     <l n="15" rhyme="a" line_length="5">Et leur pas dans les fleurs naissantes</l>
+     <l n="16" rhyme="b" line_length="8">Guide en chœur les vierges dansantes :</l>
+    </lg>
+    <lg n="5">
+     <l n="17" rhyme="a" line_length="5">A quitté les bois de Cythère ;</l>
+     <l n="18" rhyme="b" line_length="8">Resplendit sur toute la terre,</l>
+     <l n="19" rhyme="a" line_length="5">Nous tenons sans honte et sans fièvres</l>
+     <l n="20" rhyme="b" line_length="8">L'Idéal vivant sous nos lèvres :</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

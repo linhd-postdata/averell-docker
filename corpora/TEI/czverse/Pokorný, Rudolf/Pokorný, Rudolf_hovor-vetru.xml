@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>HOVOR VĚTRŮ.</title>
+    <author>Pokorný, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný, Rudolf_hovor-vetru</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>HOVOR VĚTRŮ.</title>
+     <author>Pokorný, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>HOVOR VĚTRŮ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" line_length="6">Zašumělo v lese,</l>
+     <l n="2" met="010010" rhyme="1" line_length="6">a u černé skály,</l>
+     <l n="3" met="100100" line_length="6">u skály černoučké</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">dva se větry spjaly.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100010" line_length="6">Zahovoří prvý</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">sladkým básně retem:</l>
+     <l n="7" met="100100" line_length="6">„U skály černoučké</l>
+     <l n="8" met="100110" rhyme="2" line_length="6">končila pouť světem!“</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100010" line_length="6">Zahovoří druhý</l>
+     <l n="10" met="101010" rhyme="3" line_length="6">trpkou notou slova:</l>
+     <l n="11" met="100100" line_length="6">„Pod skálou černoučkou</l>
+     <l n="12" met="101010" rhyme="3" line_length="6">chýžka její nová!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

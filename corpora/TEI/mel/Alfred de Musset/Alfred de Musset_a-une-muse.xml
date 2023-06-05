@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A une Muse</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_a-une-muse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A une Muse</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A une Muse</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Quand Madame W…aldor à P…aul F…oucher s’accroche</l>
+     <l n="2" rhyme="b" line_length="8">Et dans la valse en feu, comme l’huître à la roche,</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="6+6">Quand, de ses longs cheveux flagellant sa pommette,</l>
+     <l n="4" rhyme="b" line_length="6+6">De son épine osseuse elle crispe les nœuds,</l>
+     <l n="5" rhyme="a" line_length="6+6">Coudoyant les valseurs, ainsi qu’une comète</l>
+    </lg>
+    <lg n="3">
+     <l n="6" rhyme="a" line_length="6+6">Quand, d’un sourire affreux glaçant la contredanse,</l>
+     <l n="7" rhyme="b" line_length="6+6">Suspendue au collet du hanneton crépu,</l>
+    </lg>
+    <lg n="4">
+     <l n="8" rhyme="a" line_length="6+6">Quand la molle sueur qui de son sein ruisselle</l>
+     <l n="9" rhyme="b" line_length="8">Sur ses pieds avachis tombant de son aisselle</l>
+    </lg>
+    <lg n="5">
+     <l n="10" rhyme="a" line_length="6+6">Et quand, brisée enfin par la valse rapide,</l>
+     <l n="11" rhyme="b" line_length="8">Elle laisse flotter sa mamelle livide,</l>
+     <l n="12" rhyme="a" line_length="6+6">Et darde un regard fauve au Werther pustuleux,</l>
+    </lg>
+    <lg n="6">
+     <l n="13" rhyme="a" line_length="6+6">Alors, le ciel pâlit, la chouette siffle et crie,</l>
+     <l n="14" rhyme="b" line_length="6+6">Les morts dans leurs tombeaux se retournent d’horreur,</l>
+     <l n="15" rhyme="a" line_length="6+6">La lune disparaît, la rivière charrie,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

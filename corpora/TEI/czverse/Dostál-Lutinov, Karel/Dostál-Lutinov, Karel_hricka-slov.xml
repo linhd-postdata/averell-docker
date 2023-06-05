@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>HŘÍČKA SLOV.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_hricka-slov</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>HŘÍČKA SLOV.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>HŘÍČKA SLOV.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001000" rhyme="1" line_length="8">Satirikón. Macharikón.</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">Jakže? Machar–ikón?</l>
+     <l n="3" met="101001" rhyme="1" line_length="6">I ne! Machar i Kohn!</l>
+     <l n="4" met="101000" rhyme="1" line_length="6">(Nebo: Machar–ryk–hon?)</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

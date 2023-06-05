@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V.</title>
+    <author>Fučík, Milan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fučík, Milan_v</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V.</title>
+     <author>Fučík, Milan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">Přišlo jaro v celé kráse,</l>
+     <l n="2" met="00101000" rhyme="1" line_length="8">teď nám kvete nad hlavami,</l>
+     <l n="3" met="10001010" line_length="8">opilí jsme jeho dechem,</l>
+     <l n="4" met="10101010" rhyme="1" line_length="8">štěstí pijem sami, sami...</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" line_length="8">Kolik jar v svém sladkém lesku</l>
+     <l n="6" met="10100010" rhyme="2" line_length="8">přijde ještě zas a znova,</l>
+     <l n="7" met="10101010" line_length="8">prochví štěstím naše duše,</l>
+     <l n="8" met="10101010" rhyme="2" line_length="8">vzbudí v srdcích chvění nová,</l>
+     <l n="9" met="100" line_length="3">jako dnes...?</l>
+    </lg>
+    <lg n="3">
+     <l n="10" met="00101010" line_length="8">Až pak jednou jeseň žití</l>
+     <l n="11" met="10101010" rhyme="3" line_length="8">zbarví vlasy tónem světlým,</l>
+     <l n="12" met="10101000" rhyme="1" line_length="8">budem mládi vzpomínkami</l>
+     <l n="13" met="10101010" rhyme="3" line_length="8">s každým jarem nově zkvetlým</l>
+     <l n="14" met="100" line_length="3">jako dnes.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

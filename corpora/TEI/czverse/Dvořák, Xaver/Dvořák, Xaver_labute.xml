@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Labutě.</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">25</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_labute</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Labutě.</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Labutě.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Tiše nebem měsíc pluje</l>
+     <l n="2" met="1010100" line_length="7">jako bílá labutě,</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">jenom větřík chvílí duje,</l>
+     <l n="4" met="00101000" rhyme="1" line_length="8">jak když křídlem zavesluje</l>
+     <l n="5" met="1010100" line_length="7">bílá nebes labutě.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="10101010" rhyme="2" line_length="8">Tisíc ptáčat letí za ní,</l>
+     <l n="7" met="1010101" line_length="7">každé jako zlatý bod;</l>
+     <l n="8" met="10001010" rhyme="2" line_length="8">azurovou táhnou plání</l>
+     <l n="9" met="10001000" rhyme="2" line_length="8">za labutí bez ustání</l>
+     <l n="10" met="1010101" line_length="7">sladké hvězdy zlatý bod.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="00101000" rhyme="3" line_length="8">Kam jen pohled otvírá se</l>
+     <l n="12" met="1010101" line_length="7">v hloubku nebes, plno hvězd,</l>
+     <l n="13" met="01001010" rhyme="3" line_length="8">až na zemi dští to v jase,</l>
+     <l n="14" met="00101000" rhyme="3" line_length="8">ta již sama obléká se</l>
+     <l n="15" met="1010101" line_length="7">v roucho rosné plno hvězd.</l>
+    </lg>
+    <lg n="4">
+     <l n="16" met="10101010" rhyme="4" line_length="8">A tak plují v tichém tahu</l>
+     <l n="17" met="1010100" line_length="7">v jakés kraje záhadné,</l>
+     <l n="18" met="10001010" rhyme="4" line_length="8">na věčnosti jistě prahu</l>
+     <l n="19" met="01001010" rhyme="4" line_length="8">dnes ukončí pyšnou dráhu,</l>
+     <l n="20" met="0110100" line_length="7">než vzplá slunce záhadné.</l>
+    </lg>
+    <lg n="5">
+     <l n="21" met="10001010" rhyme="5" line_length="8">Poesie! Kam mě nese?</l>
+     <l n="22" met="1010101" line_length="7">Sny mé? jde jich k věčnu let!</l>
+     <l n="23" met="10001010" rhyme="5" line_length="8">umdlí-li, pak tělo střese</l>
+     <l n="24" met="10101010" rhyme="5" line_length="8">duše má a dá se v plese</l>
+     <l n="25" met="1010101" line_length="7">přes práh hrobu k věčnu v let!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

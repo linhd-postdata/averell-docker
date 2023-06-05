@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>En el sepulcro</title>
+    <author>Ricardo Rodríguez Cáceres</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ricardo Rodríguez Cáceres_en-el-sepulcro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>En el sepulcro</title>
+     <author>Ricardo Rodríguez Cáceres</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>En el sepulcro</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Las matas de jazmín y de diamela</l>
+     <l n="2" met="--+--+-+-+-">del jardín de tu patio, aquí transplanto;</l>
+     <l n="3" met="-+-+---+-+-">porque esas flores que cuidabas tanto,</l>
+     <l n="4" met="+++--++--+-">no verlas junto a ti me desconsuela.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-++--+-+-+-">Aquí al menos mi pecho no recela</l>
+     <l n="6" met="---+---+-+-">de que marchiten su florido encanto;</l>
+     <l n="7" met="+--+---+-+-">siempre en la tierra que humedece el llanto</l>
+     <l n="8" met="+--+--++-+-">viven las plantas cuando un alma vela.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+----+---+-">Solas en el hogar languidecían,</l>
+     <l n="10" met="-+-+---+-+-">porque eras tú con tu color y riego,</l>
+     <l n="11" met="-+---+-+-+-">la ninfa de la fuente, el sol de fuego</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">que en sus tallos y vástagos nutrían,</l>
+     <l n="13" met="--++-+---+-">y tendrán nueva savia en tus despojos</l>
+     <l n="14" met="--++---+-+-">cuando estén mustios de llorar mis ojos.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

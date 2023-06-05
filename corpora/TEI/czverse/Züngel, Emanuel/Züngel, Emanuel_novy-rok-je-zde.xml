@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nový rok je zde</title>
+    <author>Züngel, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Züngel, Emanuel_novy-rok-je-zde</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nový rok je zde</title>
+     <author>Züngel, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nový rok je zde</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10100" rhyme="1" line_length="5">Nový rok je zde </l>
+     <l n="2" met="10100" rhyme="1" line_length="5">v celé slávě své!</l>
+     <l n="3" met="00101010" rhyme="2" line_length="8">Kéž by každá z jeho chvilek</l>
+     <l n="4" met="10100100" rhyme="2" line_length="8">dobrá, milá, jak anjílek,</l>
+     <l n="5" met="100100" rhyme="3" line_length="6">chtěla Vám přinésti</l>
+     <l n="6" met="100010" rhyme="3" line_length="6">radost jen a štěstí!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

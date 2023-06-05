@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Písni.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_pisni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Písni.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Písni.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Stále k srdci vlasti plane</l>
+     <l n="2" met="101010" rhyme="2" line_length="6">cizí hněv a záští,</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">a nám jenom slza kane,</l>
+     <l n="4" met="101010" rhyme="2" line_length="6">jenom tvář se vraští.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01001010" rhyme="3" line_length="8">Což nemáme v pravé chvíli</l>
+     <l n="6" met="101010" rhyme="4" line_length="6">ani jedné střely</l>
+     <l n="7" met="10101010" rhyme="3" line_length="8">pro ty, kdo nás v lebku bili,</l>
+     <l n="8" met="100010" rhyme="4" line_length="6">hubili a třeli?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01001000" rhyme="5" line_length="8">Což nemáme v zřítelnici</l>
+     <l n="10" met="100010" rhyme="6" line_length="6">jediného hrotu</l>
+     <l n="11" met="10001000" rhyme="5" line_length="8">na nepřátel zlolající</l>
+     <l n="12" met="100010" rhyme="6" line_length="6">poběsilou rotu?</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01001010" rhyme="3" line_length="8">Což nemáme, pěvci milí,</l>
+     <l n="14" met="101010" rhyme="7" line_length="6">ani jedné dýky,</l>
+     <l n="15" met="10100100" rhyme="3" line_length="8">bychom k hanbě jí přibili</l>
+     <l n="16" met="101000" rhyme="7" line_length="6">podlé zákeřníky?</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="01101010" rhyme="8" line_length="8">Kéž blesk každé pěvců slovo</l>
+     <l n="18" met="101010" rhyme="9" line_length="6">boží silou protká!</l>
+     <l n="19" met="10101000" rhyme="8" line_length="8">V meč se proměň, ve olovo,</l>
+     <l n="20" met="101010" rhyme="9" line_length="6">písni naše krotká!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

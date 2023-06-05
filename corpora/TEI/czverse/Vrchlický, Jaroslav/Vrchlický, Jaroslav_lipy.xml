@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Lípy.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_lipy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Lípy.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Lípy.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100110101" rhyme="1" line_length="9">Poslední svit v koši starých lip,</l>
+     <l n="2" met="1010100010" rhyme="2" line_length="10">zřím jej, k listu od listu se skrádá.</l>
+     <l n="3" met="101000100" rhyme="1" line_length="9">Bože! tenkráte nám bylo líp,</l>
+     <l n="4" met="1000101010" rhyme="2" line_length="10">zdálo se mi, máš mne trochu ráda.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="111010101" rhyme="3" line_length="9">Svět snů mojich starých lip je tlum,</l>
+     <l n="6" met="1010111010" rhyme="2" line_length="10">lásky naší zář v klín jejich padá,</l>
+     <l n="7" met="100110101" rhyme="3" line_length="9">nezhasne víc, plane šerem dum,</l>
+     <l n="8" met="0110100010" rhyme="2" line_length="10">teď vím teprv: Máš mne jak vždy ráda!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

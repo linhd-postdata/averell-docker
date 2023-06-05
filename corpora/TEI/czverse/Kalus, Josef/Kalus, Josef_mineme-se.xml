@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MINEME SE...</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_mineme-se</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MINEME SE...</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MINEME SE...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010" line_length="6">Žijem mezi sebou</l>
+     <l n="2" met="010010" rhyme="1" line_length="6">jak v neznámém lese:</l>
+     <l n="3" met="100010" line_length="6">potkáme se stokrát –</l>
+     <l n="4" met="101000" rhyme="1" line_length="6">chladně mineme se.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="110010" line_length="6">Jde proti nám zpěvák,</l>
+     <l n="6" met="101010" rhyme="1" line_length="6">srdce v písni nese,</l>
+     <l n="7" met="100010" line_length="6">mohli jsme být bratři –</l>
+     <l n="8" met="101000" rhyme="1" line_length="6">ale mineme se.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="110010" line_length="6">Jde proti nám dívka,</l>
+     <l n="10" met="101010" rhyme="1" line_length="6">jako laň se nese,</l>
+     <l n="11" met="100010" line_length="6">mohla být nám milou –</l>
+     <l n="12" met="101000" rhyme="1" line_length="6">ale mineme se.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="110010" line_length="6">Jde proti nám dítě,</l>
+     <l n="14" met="101010" rhyme="1" line_length="6">košík jahod nese,</l>
+     <l n="15" met="001010" line_length="6">moh’ jsem k němu přilnout –</l>
+     <l n="16" met="101000" rhyme="1" line_length="6">ale mineme se.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="101010" line_length="6">Mnohým vyhnem sami</l>
+     <l n="18" met="100010" rhyme="1" line_length="6">na chodníku v lese,</l>
+     <l n="19" met="100110" line_length="6">s těmi, jež chcem potkat,</l>
+     <l n="20" met="101000" rhyme="1" line_length="6">věčně mineme se!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

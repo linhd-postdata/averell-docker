@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VLAŠŤOVIČKY.</title>
+    <author>Sabina, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sabina, Karel_vlastovicky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VLAŠŤOVIČKY.</title>
+     <author>Sabina, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VLAŠŤOVIČKY.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001000" line_length="8">Vlašťovičky, vlašťovičky</l>
+     <l n="2" met="100100" rhyme="1" line_length="6">Milé, kam spěcháte?</l>
+     <l n="3" met="10010010" line_length="8">K vlasti-li věčného jara,</l>
+     <l n="4" met="101000" rhyme="1" line_length="6">K jihu zalétáte?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101000" line_length="8">Ó, jak blahé živobytí,</l>
+     <l n="6" met="010010" rhyme="2" line_length="6">Vám dopřáno vésti;</l>
+     <l n="7" met="10010010" line_length="8">Svobodně nad smutnou zemí</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">Povětřím se nésti!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10000100" line_length="8">Pozdravujte tam ode mne</l>
+     <l n="10" met="110000" rhyme="3" line_length="6">Jih zavívající,</l>
+     <l n="11" met="10100100" line_length="8">A ty hory, i květinky</l>
+     <l n="12" met="100100" rhyme="3" line_length="6">Břehem se chladící.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10000100" line_length="8">Člověka-li kde spatříte</l>
+     <l n="14" met="100000" rhyme="4" line_length="6">Osamotnělého</l>
+     <l n="15" met="10010000" line_length="8">V zármutku, – nezapomeňte</l>
+     <l n="16" met="100010" rhyme="4" line_length="6">Pozdravení mého!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

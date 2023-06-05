@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Manuel Gutiérrez Nájera</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel Gutiérrez Nájera_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Manuel Gutiérrez Nájera</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="unknown">
+     <l n="1" met="--+--+---+-">Si en la tela expectante de la vida</l>
+     <l n="2" met="--+--+---+-">se deslucen los óleos animosos,</l>
+     <l n="3" met="--+--++--+-">y agoniza de opaco ese brilloso</l>
+     <l n="4" met="--+--+---+-">escenario de luces escondidas;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---++--+-">si en todo el pensamiento halla medida,</l>
+     <l n="6" met="-++--+---+-">y en un plazo fatal para lo hermoso</l>
+     <l n="7" met="+-+--+-+-+-">ya caduca el placer y muere el gozo;</l>
+     <l n="8" met="-++--+---+-">si no hay gracia, alegría ni salida</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">en el túnel estrecho de los días</l>
+     <l n="10" met="-++--+---+-">que nos abra de risa a la sorpresa;</l>
+     <l n="11" met="+-+--+-+-+-">si un letargo de tiempo nos espía</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">con el ojo de hastío y de pereza;</l>
+     <l n="13" met="+++--+---+-">ya no hay dudas, con toda su porfía,</l>
+     <l n="14" met="+-+--+---+-">nos horada la vida la tristeza.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

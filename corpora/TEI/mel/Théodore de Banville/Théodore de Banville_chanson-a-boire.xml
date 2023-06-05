@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Chanson à boire</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">20</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_chanson-a-boire</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Chanson à boire</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Chanson à boire</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" />
+    <lg n="2" />
+    <lg n="3" />
+    <lg n="4">
+     <l n="1" line_length="5+5">La treille a ployé tout le long des murs,</l>
+     <l n="2" line_length="5+5">Allez, vendangeurs, les raisins sont mûrs !</l>
+    </lg>
+    <lg n="5" />
+    <lg n="6" />
+    <lg n="7" />
+    <lg n="8">
+     <l n="3" line_length="5+5">La treille a ployé tout le long des murs,</l>
+     <l n="4" line_length="5+5">Allez, vendangeurs, les raisins sont mûrs !</l>
+    </lg>
+    <lg n="9" />
+    <lg n="10" />
+    <lg n="11" />
+    <lg n="12">
+     <l n="5" line_length="5+5">La treille a ployé tout le long des murs,</l>
+     <l n="6" line_length="5+5">Allez, vendangeurs, les raisins sont mûrs !</l>
+    </lg>
+    <lg n="13" />
+    <lg n="14" />
+    <lg n="15" />
+    <lg n="16">
+     <l n="7" line_length="5+5">La treille a ployé tout le long des murs,</l>
+     <l n="8" line_length="5+5">Allez, vendangeurs, les raisins sont mûrs !</l>
+    </lg>
+    <lg n="17" />
+    <lg n="18" />
+    <lg n="19" />
+    <lg n="20">
+     <l n="9" line_length="5+5">La treille a ployé tout le long des murs,</l>
+     <l n="10" line_length="5+5">Allez, vendangeurs, les raisins sont mûrs !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

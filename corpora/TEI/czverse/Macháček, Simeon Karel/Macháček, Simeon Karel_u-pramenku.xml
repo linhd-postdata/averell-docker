@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>U praménku.</title>
+    <author>Macháček, Simeon Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Macháček, Simeon Karel_u-pramenku</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>U praménku.</title>
+     <author>Macháček, Simeon Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>U praménku.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000100" rhyme="1" line_length="7">Pramení se, pramení</l>
+     <l n="2" met="101000" rhyme="2" line_length="6">Voda neustále,</l>
+     <l n="3" met="1000100" rhyme="1" line_length="7">Po kmenech a kamení</l>
+     <l n="4" met="100010" rhyme="2" line_length="6">Hučí dál a dále.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1000100" rhyme="3" line_length="7">Nestírejte slzy mé,</l>
+     <l n="6" met="000010" rhyme="4" line_length="6">Tať mi lík a zdraví,</l>
+     <l n="7" met="1010100" rhyme="3" line_length="7">Slova vaše laskavé</l>
+     <l n="8" met="001000" rhyme="4" line_length="6">Vždy jí nezastaví.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0010100" rhyme="5" line_length="7">Zde si hoví tužba má</l>
+     <l n="10" met="100010" rhyme="6" line_length="6">O samotě lesní,</l>
+     <l n="11" met="1000100" rhyme="5" line_length="7">Volněji tu viniká,</l>
+     <l n="12" met="001010" rhyme="6" line_length="6">Co mě doma těsní.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1010100" rhyme="7" line_length="7">Kdyby pramen nehrčel,</l>
+     <l n="14" met="100010" rhyme="8" line_length="6">Smutno by tu bylo:</l>
+     <l n="15" met="1010101" rhyme="7" line_length="7">Kdybych slzu tajit měl,</l>
+     <l n="16" met="001010" rhyme="8" line_length="6">Již by srdce hnilo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

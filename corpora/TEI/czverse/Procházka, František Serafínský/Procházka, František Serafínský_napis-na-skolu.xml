@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NÁPIS NA ŠKOLU.</title>
+    <author>Procházka, František Serafínský</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Procházka, František Serafínský_napis-na-skolu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NÁPIS NA ŠKOLU.</title>
+     <author>Procházka, František Serafínský</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NÁPIS NA ŠKOLU.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010101010" rhyme="1" line_length="11">Stůj povýš všeho v slunci, volném vzduchu,</l>
+     <l n="2" met="11000101010" rhyme="2" line_length="11">růst k moudrosti a spolné lásce dávej,</l>
+     <l n="3" met="01010100110" rhyme="1" line_length="11">přim silné šíje, osvětou plaj duchu</l>
+     <l n="4" met="01000101000" rhyme="2" line_length="11">a neoblomné Čechy vychovávej.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Madonna.</title>
+    <author>Škampa, Alois</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Škampa, Alois_madonna</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Madonna.</title>
+     <author>Škampa, Alois</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Madonna.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000101010" rhyme="1" line_length="11">Kam andělská jen bytost její vkročí –</l>
+     <l n="2" met="01010100010" rhyme="2" line_length="11">tam stejně kouzlí vzrůstem svým i rtoma,</l>
+     <l n="3" met="00110100010" rhyme="2" line_length="11">tam vlá mír nebes, radost je tam doma!</l>
+     <l n="4" met="11010101010" rhyme="1" line_length="11">Krok ptačí má a srny hnědé oči –</l>
+     <l n="5" met="00010001000" rhyme="2" line_length="11">leč vší té krásy jest si nevědoma!</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="01010100010" rhyme="3" line_length="11">Ač ve květ teprv rozpuknout se chystá</l>
+     <l n="7" met="01010101000" rhyme="4" line_length="11">a v jitro vzplanout, posud nerozňaté –</l>
+     <l n="8" met="01000101010" rhyme="4" line_length="11">přec vnadou svou juž všecky hochy mate!</l>
+     <l n="9" met="01010001010" rhyme="3" line_length="11">Leč duše její jest jak křišťál čistá,</l>
+     <l n="10" met="01010001010" rhyme="4" line_length="11">a její srdce –- to je celé zlaté!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

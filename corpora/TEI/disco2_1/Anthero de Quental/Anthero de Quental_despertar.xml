@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Despertar</title>
+    <author>Anthero de Quental</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Anthero de Quental_despertar</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Despertar</title>
+     <author>Anthero de Quental</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Despertar</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="unknown">
+     <l n="1" met="-+-+---+-+-">Soñando a veces -si el soñar quebranta</l>
+     <l n="2" met="+-+--++--+-">ese vago sufrir, esa agonía -,</l>
+     <l n="3" met="--+--+-+-+-">como canta al volar la alondra pía,</l>
+     <l n="4" met="--+-+-+--+-">por el cielo mi alma vuela y canta.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+-+-+-">Canta el alba, la luz, la estrella santa</l>
+     <l n="6" met="--+--+-+++-">que ilumina la tierra... sólo un día.</l>
+     <l n="7" met="+-+--+---+-">Canta el cambio en las cosas, la alegría</l>
+     <l n="8" met="--+--+-+-+-">que las llena de amor y las levanta.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---++++--+-">Mas de repente, un viento húmedo y frío</l>
+     <l n="10" met="+--+-+---+-">sopla en mi sueño. Un leve escalofrío</l>
+     <l n="11" met="+-+-++---+-">me despierta. Y es noche. Es el dolor</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">que vela como antes a mi lado.</l>
+     <l n="13" met="--+--++--+-">¡Ay! mis cantos de luz, ángel amado,</l>
+     <l n="14" met="++-+-+---+-">tan sólo sueño son, como mi amor.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

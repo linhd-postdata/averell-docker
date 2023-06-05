@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Podoby.</title>
+    <author>Ambrož, Vilém</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ambrož, Vilém_podoby</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Podoby.</title>
+     <author>Ambrož, Vilém</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Podoby.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010110011000" line_length="15">V poskoku tam kvapném, viz, laškuje šum vodopádu:</l>
+     <l n="2" met="10101001010010" line_length="14">takto kypí jarotou v síle mladosti jinoch.</l>
+     <l n="3" met="0101001010010" line_length="13">Zdeť volným proudem se plouží v údolu veltok:</l>
+     <l n="4" met="010101001010" line_length="12">v něm poznej vážnou rozvahu statna muže.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

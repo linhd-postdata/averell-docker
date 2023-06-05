@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Contra el amor</title>
+    <author>Manuel de Zequeira y Arango</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel de Zequeira y Arango_contra-el-amor</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Contra el amor</title>
+     <author>Manuel de Zequeira y Arango</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Contra el amor</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---+-">Huye, Climene, deja los encantos</l>
+     <l n="2" met="--+-++---+-">del amor, que no son sino dolores;</l>
+     <l n="3" met="++-+-+---+-">es una oculta sierpe entre las flores</l>
+     <l n="4" met="--+--+-+-+-">cuyos silbos parecen dulces cantos:</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+++--+-+-+-">es un néctar que quema y da quebrantos,</l>
+     <l n="6" met="+-+--+---+-">es Vesubio que esconde sus ardores,</l>
+     <l n="7" met="+-+--+---+-">es delicia mezclada con rigores</l>
+     <l n="8" met="+-+--+---+-">es jardín que se riega con los llantos:</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+----+---+-">Es del entendimiento laberinto</l>
+     <l n="10" met="-+-+---+-+-">de entrada fácil y salida estrecha,</l>
+     <l n="11" met="--+--++--+-">donde el más racional pierde su instinto:</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+---+-">Jamás mira su llama satisfecha,</l>
+     <l n="13" met="--+--+-+-+-">y en fingiendo que está su ardor extinto,</l>
+     <l n="14" met="+--+-++--+-">es cuando más estrago hace su flecha.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

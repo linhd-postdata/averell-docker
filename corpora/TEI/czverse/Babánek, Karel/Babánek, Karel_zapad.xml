@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ZÁPAD.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_zapad</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ZÁPAD.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ZÁPAD.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100010" line_length="11">Zapadá slunce, úsměvem se loučí,</l>
+     <l n="2" met="1001010001" rhyme="1" line_length="10">i tvůj už na noc nachýlil se den</l>
+     <l n="3" met="01000100010" line_length="11">a nazpět-li se ohlédneš dnes přece,</l>
+     <l n="4" met="0101010001" rhyme="1" line_length="10">vše jako krátký připadá ti sen.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101000100010" line_length="13">Je život za tebou a stíny už se dlouží,</l>
+     <l n="6" met="0101010101" rhyme="2" line_length="10">tou cestou krátkou ještě jdeš a jdeš,</l>
+     <l n="7" met="10010100010" line_length="11">zapadá slunce, úsměvem se loučí,</l>
+     <l n="8" met="10010100" rhyme="2" line_length="8">čeho ty s láskou vzpomeneš?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Bílé ruce.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_bile-ruce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Bílé ruce.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Bílé ruce.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Bílé ruce, sladké ruce,</l>
+     <l n="2" met="10001010" rhyme="1" line_length="8">smály jste se mojí muce</l>
+     <l n="3" met="10100" rhyme="2" line_length="5">svojí bělostí!</l>
+     <l n="4" met="10101010" rhyme="1" line_length="8">A já bez vás v žití shluce</l>
+     <l n="5" met="10101010" rhyme="1" line_length="8">neměl, sladké, bílé ruce,</l>
+     <l n="6" met="10100" rhyme="2" line_length="5">žádné radosti!</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="10101010" rhyme="1" line_length="8">Bílé ruce, sladké ruce,</l>
+     <l n="8" met="10100" rhyme="2" line_length="5">plné milosti!</l>
+     <l n="9" met="10100010" rhyme="1" line_length="8">Chci vás, odstrčíte prudce</l>
+     <l n="10" met="00100" rhyme="2" line_length="5">zpět mne v úzkosti?</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="10001000" rhyme="3" line_length="8">A když vy mne odstrčíte,</l>
+     <l n="12" met="10101010" rhyme="3" line_length="8">bílé ruce, vy to víte,</l>
+     <l n="13" met="00101010" rhyme="1" line_length="8">že já umru v hořké muce</l>
+     <l n="14" met="10101010" rhyme="1" line_length="8">pro vás, bílé, sladké ruce,</l>
+     <l n="15" met="10100" rhyme="2" line_length="5">v samé žalosti!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

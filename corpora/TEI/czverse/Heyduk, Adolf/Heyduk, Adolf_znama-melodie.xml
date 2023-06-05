@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Známá melodie.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_znama-melodie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Známá melodie.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Známá melodie.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101010" rhyme="1" line_length="10">Teplý večer, klidny břehu lemy,</l>
+     <l n="2" met="1010101010" rhyme="1" line_length="10">moře líbá skály, nebe, zemi,</l>
+     <l n="3" met="1010011010" rhyme="2" line_length="10">v dálku vlaštovkou loď letí ručí;</l>
+     <l n="4" met="101010001" rhyme="3" line_length="9">s církve, skryté v úžlabině hor,</l>
+     <l n="5" met="1010001010" rhyme="2" line_length="10">zvon svou podvečerní píseň zvučí –</l>
+     <l n="6" met="101010101" rhyme="3" line_length="9">zvučí – tichne – a mně vlhne zor.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="1010101000" rhyme="4" line_length="10">Milá, známá jakás melodie</l>
+     <l n="8" met="1000100010" rhyme="4" line_length="10">z večerních těch zvuků dál se vije,</l>
+     <l n="9" met="1010100010" rhyme="5" line_length="10">a mé srdce chvěje se a chvěje;</l>
+     <l n="10" met="101010001" rhyme="6" line_length="9">ach, již nevím, kdo mi ji dřív pěl!...</l>
+     <l n="11" met="0110001010" rhyme="5" line_length="10">Či duch dětí mých to křídly věje,</l>
+     <l n="12" met="001000101" rhyme="6" line_length="9">jenž mne provází, bych šťastně jel?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

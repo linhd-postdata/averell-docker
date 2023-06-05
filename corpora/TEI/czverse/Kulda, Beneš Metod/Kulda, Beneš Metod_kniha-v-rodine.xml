@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kniha v rodině.</title>
+    <author>Kulda, Beneš Metod</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kulda, Beneš Metod_kniha-v-rodine</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kniha v rodině.</title>
+     <author>Kulda, Beneš Metod</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kniha v rodině.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010" rhyme="1" line_length="6">Dobrá, moudrá kniha</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">mysl k Bohu zdvihá;</l>
+     <l n="3" met="101010" rhyme="2" line_length="6">ale kniha špatná</l>
+     <l n="4" met="001010" rhyme="2" line_length="6">jest nám málo platná;</l>
+     <l n="5" met="101010" rhyme="3" line_length="6">zhusta mravy kazí,</l>
+     <l n="6" met="101010" rhyme="3" line_length="6">cestu k hříchům razí;</l>
+     <l n="7" met="10001010" rhyme="4" line_length="8">vypuďte ji rychle z domů,</l>
+     <l n="8" met="10001000" rhyme="4" line_length="8">nečekejte na pohromu;</l>
+     <l n="9" met="10101010" rhyme="5" line_length="8">z knihy bludné jed se vdýchá,</l>
+     <l n="10" met="10101010" rhyme="5" line_length="8">člověk pozdě honí bycha.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

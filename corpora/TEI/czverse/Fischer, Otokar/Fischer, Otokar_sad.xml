@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SAD</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_sad</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SAD</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SAD</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Přikloň ucho k temnu, k dlani,</l>
+     <l n="2" met="1010010" rhyme="2" line_length="7">k listům, k hlíně blíž a níž.</l>
+     <l n="3" met="10001010" rhyme="1" line_length="8">Nezní to jak táhlé vání?</l>
+     <l n="4" met="1010100" rhyme="2" line_length="7">Moře šumět neslyšíš?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00101010" rhyme="3" line_length="8">Vším, co v tichou béřeš ruku,</l>
+     <l n="6" met="0010001" rhyme="4" line_length="7">vším, co přiblížil jsi rtům,</l>
+     <l n="7" met="10101010" rhyme="3" line_length="8">duje příval cizích zvuků,</l>
+     <l n="8" met="1010101" rhyme="4" line_length="7">jako v mušli hučí šum.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" rhyme="5" line_length="8">Všechny věci země této,</l>
+     <l n="10" met="0011001" rhyme="6" line_length="7">k nimž tvůj sluch se zbožně klad,</l>
+     <l n="11" met="10101010" rhyme="5" line_length="8">dí, že srdce jejich vkleto</l>
+     <l n="12" met="1000101" rhyme="6" line_length="7">v podmořský kdys bylo sad.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101000" rhyme="7" line_length="8">Dávno vlny opadaly,</l>
+     <l n="14" met="1010001" rhyme="8" line_length="7">jinam provalil se proud,</l>
+     <l n="15" met="00101010" rhyme="7" line_length="8">ty však z dávných dob, ty v dáli</l>
+     <l n="16" met="1010101" rhyme="8" line_length="7">příboj věčna slyšíš dout.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

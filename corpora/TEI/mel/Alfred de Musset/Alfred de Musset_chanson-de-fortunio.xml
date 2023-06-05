@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CHANSON DE FORTUNIO</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_chanson-de-fortunio</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CHANSON DE FORTUNIO</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CHANSON DE FORTUNIO</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Si vous croyez que je vais dire</l>
+     <l n="2" rhyme="b" line_length="4">Je ne saurais, pour un empire,</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="8">Nous allons chanter à la ronde,</l>
+     <l n="4" rhyme="b" line_length="4">Que je l'adore et qu'elle est blonde</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="8">Je fais ce que sa fantaisie</l>
+     <l n="6" rhyme="b" line_length="4">Et je puis, s'il lui faut ma vie,</l>
+    </lg>
+    <lg n="4">
+     <l n="7" rhyme="a" line_length="8">Du mal qu'une amour ignorée</l>
+     <l n="8" rhyme="b" line_length="4">J'en porte l'âme déchirée</l>
+    </lg>
+    <lg n="5">
+     <l n="9" rhyme="a" line_length="8">Mais j'aime trop pour que je die</l>
+     <l n="10" rhyme="b" line_length="4">Et je veux mourir pour ma mie,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

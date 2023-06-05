@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ubohý umělec.</title>
+    <author>Menhard, František Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Menhard, František Ladislav_ubohy-umelec</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ubohý umělec.</title>
+     <author>Menhard, František Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ubohý umělec.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100001010" rhyme="1" line_length="9">Při díle svém – to mnohdy v pýše –</l>
+     <l n="2" met="10010001000" rhyme="1" line_length="11">malíř a literát se podepíše;</l>
+     <l n="3" met="010100" rhyme="2" line_length="6">tož řezbář měl by snad</l>
+     <l n="4" met="100100" rhyme="2" line_length="6">chudák – se „podřezat“!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

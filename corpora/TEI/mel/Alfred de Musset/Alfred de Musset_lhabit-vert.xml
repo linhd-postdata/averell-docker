@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L’Habit vert</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_lhabit-vert</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L’Habit vert</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L’Habit vert</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">L’heure a sonné — pourtant ta main</l>
+     <l n="2" rhyme="b" line_length="6">Il est déjà presque demain —</l>
+     <l n="3" rhyme="a" line_length="8">Épargne-moi ! ne pleure pas —</l>
+     <l n="4" rhyme="b" line_length="6">Mais dite adieu, je ne sais pas !</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Nous n’avons ni pain sur la planche,</l>
+     <l n="6" rhyme="b" line_length="8">Ni doux loisirs pour les amours !</l>
+     <l n="7" rhyme="a" line_length="8">Ne perdons pas notre dimanche :</l>
+     <l n="8" rhyme="b" line_length="8">Dieu n’en fait qu’un tous les huit jours.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

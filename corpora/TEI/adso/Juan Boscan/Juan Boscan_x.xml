@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- X - </title>
+    <author>Juan Boscan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Boscan_x</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- X - </title>
+     <author>Juan Boscan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- X - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-++-+---+-">¿Quién tendrá en sí tan duro sentimiento,</l>
+     <l n="2" met="-+-+-+-+++-">que en ver mi mal la vuelta no dé luego?</l>
+     <l n="3" met="+-+--+-+-+-">¿Quién tan loco será, o será tan ciego,</l>
+     <l n="4" met="--+-++---+-">que los ojos no cierre a mi tormento?</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+--++-">Delante van las penas que en mí siento,</l>
+     <l n="6" met="+-+------+-">dando nuevas de mi desasosiego,</l>
+     <l n="7" met="--+--+-+-+-">y en las manos llevando el vivo fuego,</l>
+     <l n="8" met="-+-+-+---+-">do ardiendo está mi triste pensamiento.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-+---+-">Los que tras mí vendrán, si se perdieren,</l>
+     <l n="10" met="+++--++--+-">no sé cómo podrán ser disculpados;</l>
+     <l n="11" met="--+--+---+-">morirán a sabiendas, si murieren.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+-+-+-">Dignos serán de ser al campo echados,</l>
+     <l n="13" met="-+---+---+-">por manos de las gentes que les vieren</l>
+     <l n="14" met="--+--+---+-">tan adrede morir desesperados.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

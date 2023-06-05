@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Balzac</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">10</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_balzac</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Balzac</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Balzac</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">O toi dont l'œuvre qu'on admire</l>
+     <l n="2" rhyme="b" line_length="4">Où notre humanité se mire,</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="8">Oui, nous dresserons ta statue,</l>
+     <l n="4" rhyme="b" line_length="4">Auguste et de splendeur vêtue,</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="8">Alors, ô sculpteur de colosses</l>
+     <l n="6" rhyme="b" line_length="4">Contre qui tant de vils molosses</l>
+    </lg>
+    <lg n="4">
+     <l n="7" rhyme="a" line_length="8">Géant, chevelu comme un arbre</l>
+     <l n="8" rhyme="b" line_length="4">Dans l'immortalité du marbre</l>
+    </lg>
+    <lg n="5">
+     <l n="9" rhyme="a" line_length="8">Tu riras au ciel qui t'azure !</l>
+     <l n="10" rhyme="b" line_length="4">Tu désigneras la masure,</l>
+    </lg>
+    <lg n="6">
+     <l n="11" rhyme="a" line_length="8">Et mille femmes, et le lustre</l>
+     <l n="12" rhyme="b" line_length="4">Et tout ce qui vit, fils illustre</l>
+    </lg>
+    <lg n="7">
+     <l n="13" rhyme="a" line_length="8">Et dans son sublime délire,</l>
+     <l n="14" rhyme="b" line_length="4">Roi, ta bouche semblera dire :</l>
+    </lg>
+    <lg n="8">
+     <l n="15" rhyme="a" line_length="8">Passez, amours, colères, foule</l>
+     <l n="16" rhyme="b" line_length="4">Se lamentent comme la houle</l>
+    </lg>
+    <lg n="9">
+     <l n="17" rhyme="a" line_length="8">Mais dans le sacré sanctuaire</l>
+     <l n="18" rhyme="b" line_length="4">Moi l'Ouvrier, le Statuaire</l>
+    </lg>
+    <lg n="10">
+     <l n="19" rhyme="a" line_length="8">O foules pâles et meurtries,</l>
+     <l n="20" rhyme="b" line_length="4">Qui de mes mains vous ai pétries,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

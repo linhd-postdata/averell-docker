@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PÍSNIČKA.</title>
+    <author>Procházka, František Serafínský</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Procházka, František Serafínský_pisnicka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PÍSNIČKA.</title>
+     <author>Procházka, František Serafínský</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PÍSNIČKA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Mračno, smutek, tak to chodí,</l>
+     <l n="2" met="1000111" rhyme="2" line_length="7">beznaděje, žal, stín, mráz</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">jako řada černých lodí –</l>
+     <l n="4" met="1010100" rhyme="2" line_length="7">nech je plout a přečkáš snáz.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="3" line_length="8">Poznals baby, rody zmijí,</l>
+     <l n="6" met="1010100" rhyme="4" line_length="7">dračí vášně pardalí,</l>
+     <l n="7" met="10001000" rhyme="3" line_length="8">z Kollárových utopií</l>
+     <l n="8" met="1000100" rhyme="4" line_length="7">sami jsme si zůstali.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" rhyme="5" line_length="8">Vděč, že porod nových světů</l>
+     <l n="10" met="1010100" rhyme="6" line_length="7">sňal ti s očí šupiny,</l>
+     <l n="11" met="10001010" rhyme="5" line_length="8">vlastnímu se zatěš květu</l>
+     <l n="12" met="1010100" rhyme="6" line_length="7">z vlastní kypré noviny.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10001010" rhyme="7" line_length="8">Rozlehne se píseň díků</l>
+     <l n="14" met="1000101" rhyme="8" line_length="7">v prošlehaný blesky vzduch,</l>
+     <l n="15" met="10101000" rhyme="7" line_length="8">přijde soudce loupežníků,</l>
+     <l n="16" met="1010101" rhyme="8" line_length="7">studem zrudne jejich bůh.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10101010" rhyme="9" line_length="8">Jarní mráček táhne bílý,</l>
+     <l n="18" met="1010100" rhyme="10" line_length="7">lícha tryskem ježatí,</l>
+     <l n="19" met="10101010" rhyme="9" line_length="8">jenom horkou tužbou cíli</l>
+     <l n="20" met="1010100" rhyme="10" line_length="7">musíš věrným zůstati.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

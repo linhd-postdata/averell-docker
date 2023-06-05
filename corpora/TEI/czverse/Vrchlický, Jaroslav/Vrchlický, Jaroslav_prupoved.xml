@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PRŮPOVĚĎ.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_prupoved</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PRŮPOVĚĎ.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PRŮPOVĚĎ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Ó by za všech hříchů roje</l>
+     <l n="2" met="10101010" rhyme="1" line_length="8">tekly všecky slzy moje,</l>
+     <l n="3" met="10101000" rhyme="2" line_length="8">moře, zem jich nepostihne;</l>
+     <l n="4" met="10101000" rhyme="3" line_length="8">jedno vím, jak nad potopu</l>
+     <l n="5" met="00101010" rhyme="3" line_length="8">že se nad mých slzí stopu</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">duha smíru zdvihne!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

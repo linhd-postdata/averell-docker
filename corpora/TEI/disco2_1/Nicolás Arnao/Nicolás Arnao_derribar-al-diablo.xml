@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Derribar al diablo</title>
+    <author>Nicolás Arnao</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nicolás Arnao_derribar-al-diablo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Derribar al diablo</title>
+     <author>Nicolás Arnao</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Derribar al diablo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--++--+-">Con mis pobres ideas cuanto añejas</l>
+     <l n="2" met="-+++-+-+-+-">hurtar no quiero a nadie genio o ciencia,</l>
+     <l n="3" met="---+-+---+-">ni con rosario ajeno de indulgencia</l>
+     <l n="4" met="+--+-+---+-">quiero llenar mi saco de consejas.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-++-+--+-+-">Pero hay empeño cruel de hacer madejas</l>
+     <l n="6" met="-+---+---+-">del prójimo que muestra inteligencia,</l>
+     <l n="7" met="--+--+---+-">y cargada la vida de inclemencia,</l>
+     <l n="8" met="-+-+---+-+-">pavesas te hace si talento enrejas.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+--++-">No comprende mi chola como hay gentes</l>
+     <l n="10" met="--+--+-+++-">que porque otro cacumen piense un poco,</l>
+     <l n="11" met="--+--+---+-">desmembradas se sienten en sus mentes</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+-+-+-">y denuncien al tal, de tonto o loco.</l>
+     <l n="13" met="-+-+-+-+-+-">Si fuerzas tiene Pedro, puede Pablo,</l>
+     <l n="14" met="-+-+---+-+-">con propia garra derribar al Diablo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

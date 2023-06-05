@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Náhrobní nápis Brousku.</title>
+    <author>Kalaš, Josef V.</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalaš, Josef V._nahrobni-napis-brousku</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Náhrobní nápis Brousku.</title>
+     <author>Kalaš, Josef V.</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Náhrobní nápis Brousku.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Tady leží bídná mrcha,</l>
+     <l n="2" met="10101010" rhyme="1" line_length="8">přítel vlasti před ní prchá,</l>
+     <l n="3" met="10101000" rhyme="2" line_length="8">život český zneřádila,</l>
+     <l n="4" met="10101000" rhyme="2" line_length="8">mysl lidu otrávila,</l>
+     <l n="5" met="1010001" rhyme="3" line_length="7">pravdu šlapala i čest,</l>
+     <l n="6" met="1010100" rhyme="3" line_length="7">scíplá tuto nyní jest.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Voyelles</title>
+    <author>Arthur Rimbaud</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Arthur Rimbaud_voyelles</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Voyelles</title>
+     <author>Arthur Rimbaud</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Voyelles</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">A noir, E blanc, I rouge, U vert, O bleu, voyelles,</l>
+     <l n="2" rhyme="b" line_length="6+6">Je dirai quelque jour vos naissances latentes.</l>
+     <l n="3" rhyme="b" line_length="6+6">A, noir corset velu des mouches éclatantes</l>
+     <l n="4" rhyme="a" line_length="6+6">Qui bombillent autour des puanteurs cruelles,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="b" line_length="6+6">Golfe d’ombre ; E, candeur des vapeurs et des tentes,</l>
+     <l n="6" rhyme="a" line_length="6+6">Lance des glaciers fiers, rois blancs, frissons d’ombelles</l>
+     <l n="7" rhyme="a" line_length="6+6">I, pourpres, sang craché, rire des lèvres belles</l>
+     <l n="8" rhyme="b" line_length="6−6">Dans la colère ou les ivresses pénitentes ;</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">U, cycles, vibrements divins des mers virides,</l>
+     <l n="10" rhyme="c" line_length="6+6">Paix des pâtis semés d’animaux, paix des rides</l>
+     <l n="11" rhyme="d" line_length="6+6">Que l’alchimie imprime aux grands fronts studieux ;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">O, suprême Clairon plein des strideurs étranges,</l>
+     <l n="13" rhyme="e" line_length="6+6">Silences traversés des Mondes et des Anges :</l>
+     <l n="14" rhyme="d" line_length="6+6">— O l’Oméga, rayon violet de Ses Yeux !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>À LOUIS B.</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_a-louis-b</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>À LOUIS B.</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>À LOUIS B.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Ô Louis ! je songeais ! — Baigné d'ombre sereine,</l>
+     <l n="2" rhyme="a" line_length="6+6">Le soir tombait ; des feux scintillaient dans la plaine ;</l>
+     <l n="3" rhyme="b" line_length="6+6">Les vastes flots berçaient le nid de l'alcyon ;</l>
+     <l n="4" rhyme="c" line_length="6+6">J'écoutais vers le ciel, où toute aube commence,</l>
+     <l n="5" rhyme="c" line_length="6+6">Monter confusément une louange immense</l>
+     <l n="6" rhyme="b" line_length="6+6">Des deux extrémités de la création.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" rhyme="a" line_length="6+6">Ce que Dieu fit petit chantait dans son délire</l>
+     <l n="8" rhyme="a" line_length="6+6">Tout ce que Dieu fait grand, et je voyais sourire</l>
+     <l n="9" rhyme="b" line_length="6+6">Le colosse à l'atome et l'étoile au flambeau ;</l>
+     <l n="10" rhyme="c" line_length="6+6">La nature semblait n'avoir qu'une âme aimante.</l>
+     <l n="11" rhyme="c" line_length="6+6">La montagne disait : Que la fleur est charmante !</l>
+     <l n="12" rhyme="b" line_length="6+6">Le moucheron disait : Que l'océan est beau !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

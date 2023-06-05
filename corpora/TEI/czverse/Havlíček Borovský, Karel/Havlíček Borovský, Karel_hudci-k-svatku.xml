@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>HUDCI K SVÁTKU</title>
+    <author>Havlíček Borovský, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Havlíček Borovský, Karel_hudci-k-svatku</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>HUDCI K SVÁTKU</title>
+     <author>Havlíček Borovský, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>HUDCI K SVÁTKU</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0011101010" rhyme="1" line_length="10">Kýž ti Pán Bůh za tvých houslí zvuky</l>
+     <l n="2" met="1011101010" rhyme="1" line_length="10">místo dvou dát ráčí čtyry ruky.</l>
+     <l n="3" met="0010101010" rhyme="2" line_length="10">To ti přeju k svátku srdcem, duší,</l>
+     <l n="4" met="0010101010" rhyme="2" line_length="10">bys si mohl hraje zacpat uši.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

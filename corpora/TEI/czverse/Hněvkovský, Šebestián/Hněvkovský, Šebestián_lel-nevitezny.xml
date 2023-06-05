@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Lel nevítězný.</title>
+    <author>Hněvkovský, Šebestián</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hněvkovský, Šebestián_lel-nevitezny</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Lel nevítězný.</title>
+     <author>Hněvkovský, Šebestián</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Lel nevítězný.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010100" rhyme="1" line_length="11">Amor z více očí střílí po tobě,</l>
+     <l n="2" met="0010001010" rhyme="2" line_length="10">Chtě tě opojiti slastí jedu;</l>
+     <l n="3" met="010010100" rhyme="1" line_length="9">Mní, že vše mu vězí v porobě,</l>
+     <l n="4" met="1010101010" rhyme="2" line_length="10">Zná i jiskry loudit ze kry ledu.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="001010100" rhyme="3" line_length="9">Jen mu bylo posud nemožné</l>
+     <l n="6" met="1000100010" rhyme="4" line_length="10">Podrobit tvé srdce; co tě chrání?</l>
+     <l n="7" met="101010100" rhyme="3" line_length="9">„Pevná mysl, city nábožné</l>
+     <l n="8" met="1010011010" rhyme="4" line_length="10">Mění v nebeský ples Lela plání.“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

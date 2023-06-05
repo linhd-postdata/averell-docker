@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>España</title>
+    <author>José Fornaris</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Fornaris_espana</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>España</title>
+     <author>José Fornaris</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>España</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">Cuanto en la historia de los Godos brilla</l>
+     <l n="2" met="+--+++---+-">es de alabarse en metro cadencioso;</l>
+     <l n="3" met="--+--+---+-">en la lid a Pelayo valeroso,</l>
+     <l n="4" met="---+-+---+-">en el cadalso a Riego y a Padilla;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">en el trono a Fernando que en Castilla</l>
+     <l n="6" met="-+---++--+-">levanta su pendón libre y glorioso,</l>
+     <l n="7" met="--+--+---+-">en las artes al genio poderoso</l>
+     <l n="8" met="-+---+---+-">de Goya, de Madrazo y de Pradilla;</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">en el númen la liras celebradas</l>
+     <l n="10" met="-+---+-+-+-">de Rioja que cantó con gracia y brío,</l>
+     <l n="11" met="--+--+---+-">y de Herrera el de versos horacianos;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">mas ni altares alcé a sus Torquemadas,</l>
+     <l n="13" met="--+--+---+-">ni en sus curas hipócritas confío,</l>
+     <l n="14" met="-++--+---+-">ni me postro a los pies de sus tiranos.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

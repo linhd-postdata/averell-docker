@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pense à moi</title>
+    <author>Auguste Lacaussade</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Auguste Lacaussade_pense-a-moi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pense à moi</title>
+     <author>Auguste Lacaussade</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pense à moi</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Si tu vois une fleur, que le zéphyr délaisse,</l>
+     <l n="2" rhyme="a" line_length="6+6">Mourir à son matin sans baiser ni caresse,</l>
+     <l n="3" rhyme="b" line_length="6">Et si tu plains l'oiseau que le vent ou l'orage</l>
+     <l n="4" rhyme="c" line_length="6+6">Égara loin du nid qui berça son jeune âge,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Si tu vois un front pâle où languit la jeunesse,</l>
+     <l n="6" rhyme="a" line_length="6+6">S'incliner sous le poids d'une vague tristesse,</l>
+     <l n="7" rhyme="b" line_length="6">Et sensible à l'accent de quelque voix aimante,</l>
+     <l n="8" rhyme="c" line_length="6+6">Si tu l'entends au ciel demander une amante,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Si d'un triste exilé quelque beauté frivole</l>
+     <l n="10" rhyme="a" line_length="6+6">Repoussait devant toi l'amoureuse parole,</l>
+     <l n="11" rhyme="b" line_length="6">Et si tu vois alors ce fils d'un autre monde</l>
+     <l n="12" rhyme="c" line_length="6+6">Au ciel lever des yeux que la douleur inonde,</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="6+6">Si tu vois quelque jour une funèbre pierre</l>
+     <l n="14" rhyme="a" line_length="6+6">Où nul ne vient porter ses fleurs ni sa prière,</l>
+     <l n="15" rhyme="b" line_length="6">Et sur la tombe où gît la dépouille endormie,</l>
+     <l n="16" rhyme="c" line_length="6+6">Si tu trouves ces mots : « Il n'eut jamais d'amie ! »</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

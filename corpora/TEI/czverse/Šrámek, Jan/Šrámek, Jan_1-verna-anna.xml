@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>1. Věrná Anna.</title>
+    <author>Šrámek, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Šrámek, Jan_1-verna-anna</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>1. Věrná Anna.</title>
+     <author>Šrámek, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>1. Věrná Anna.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000100" line_length="7">Michalovic Anninka</l>
+     <l n="2" met="1000100" rhyme="1" line_length="7">věrností se chlubila;</l>
+     <l n="3" met="10010110" line_length="8">právem to, neb již sto mužům</l>
+     <l n="4" met="1010100" rhyme="1" line_length="7">věčnou věrnosť slíbila.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

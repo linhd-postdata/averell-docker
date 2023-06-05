@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Me dio la mano</title>
+    <author>Nicolás Arnao</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nicolás Arnao_me-dio-la-mano</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Me dio la mano</title>
+     <author>Nicolás Arnao</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Me dio la mano</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+-+-+-">Mi saludo cordial, lector amigo,</l>
+     <l n="2" met="--+-++---+-">con mi afecto te envío cariñoso:</l>
+     <l n="3" met="-+++-+---+-">al verte ya jadeante y silencioso</l>
+     <l n="4" met="---+---+-+-">por el camino donde irás conmigo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-++--+-+-+-">Si ten cansa seguir o ser testigo</l>
+     <l n="6" met="-+-+---+-+-">del hosco viaje por el campo hojoso,</l>
+     <l n="7" met="-+---+-+-+-">detente en el andar, que yo amistoso</l>
+     <l n="8" met="-+---+-+-+-">del duro compromiso te desligo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-----++--+-">No obstante, si a mi voz vas lisonjero</l>
+     <l n="10" met="+----+---+-">y entras por los quebrados donde el llano,</l>
+     <l n="11" met="---+-+---+-">o de la cumbre bajas al sendero,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++-+---+-+-">do va el arroyo en su correr liviano,</l>
+     <l n="13" met="-+---+---+-">serás como el extraño pasajero</l>
+     <l n="14" met="--+--+++-+-">que en la vía al pasar me dio la mano.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

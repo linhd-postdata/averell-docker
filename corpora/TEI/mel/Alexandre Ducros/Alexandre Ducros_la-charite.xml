@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LA CHARITÉ</title>
+    <author>Alexandre Ducros</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">7</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alexandre Ducros_la-charite</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LA CHARITÉ</title>
+     <author>Alexandre Ducros</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LA CHARITÉ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" />
+    <lg n="2" />
+    <lg n="3" />
+    <lg n="4" />
+    <lg n="5" />
+    <lg n="6" />
+    <lg n="7">
+     <l n="1" rhyme="a" line_length="7">Muse ! dont la voix accompagne</l>
+     <l n="2" rhyme="b" line_length="7">Et souvent raffermit mes pas,</l>
+     <l n="3" rhyme="a" line_length="8">Dis lui, dis-lui que chaque aumône,</l>
+     <l n="4" rhyme="b" line_length="8">Goutte de rosée et de miel,</l>
+     <l n="5" rhyme="a" line_length="8">Deviendra perle à la couronne</l>
+     <l n="6" rhyme="b" line_length="8">Que Dieu lui garde encore au Ciel</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Sirène</title>
+    <author>Louis Ménard</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Louis Ménard_la-sirene</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Sirène</title>
+     <author>Louis Ménard</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Sirène</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">La vie appelle à soi la foule haletante</l>
+     <l n="2" rhyme="b" line_length="6+6">Des germes animés ; sous le clair firmament</l>
+     <l n="3" rhyme="b" line_length="6+6">Ils se pressent, et tous boivent avidement</l>
+     <l n="4" rhyme="a" line_length="6+6">À la coupe magique où le désir fermente.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="b" line_length="6+6">Ils savent que l'ivresse est courte ; à tout moment</l>
+     <l n="6" rhyme="a" line_length="6+6">Retentissent des cris d'horreur et d'épouvante,</l>
+     <l n="7" rhyme="a" line_length="6+6">Mais la molle sirène, à la voix caressante,</l>
+     <l n="8" rhyme="b" line_length="6−6">Les attire comme un irrésistible aimant.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Puisqu'ils ont soif de vivre, ils ont leur raison d'être :</l>
+     <l n="10" rhyme="d" line_length="6+6">Qu'ils se baignent, joyeux, dans le rayon vermeil</l>
+     <l n="11" rhyme="d" line_length="6+6">Que leur dispense à tous l'impartial soleil ;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="c" line_length="6+6">Mais moi, je ne sais pas pourquoi j'ai voulu naître ;</l>
+     <l n="13" rhyme="e" line_length="6+6">J'ai mal fait, je me suis trompé, je devrais bien</l>
+     <l n="14" rhyme="e" line_length="6+6">M'en aller de ce monde où je n'espère rien.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

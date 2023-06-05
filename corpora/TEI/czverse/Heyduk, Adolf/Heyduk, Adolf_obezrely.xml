@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Obezřelý.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_obezrely</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Obezřelý.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Obezřelý.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1100100010" rhyme="1" line_length="10">Len na poli vyrostl mi plavý,</l>
+     <l n="2" met="1010101010" rhyme="1" line_length="10">šel jsem mimo, sňal jsem čapku s hlavy:</l>
+     <l n="3" met="1010101010" rhyme="2" line_length="10">„Dobré jitro“, děl jsem lnu se klaně,</l>
+     <l n="4" met="1010101010" rhyme="2" line_length="10">„dobré jitro, chraň tě ruka Páně!“</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0010001010" rhyme="3" line_length="10">Proč bych nezdravil ho řečí prostou?</l>
+     <l n="6" met="1000100010" rhyme="3" line_length="10">Kmentové v něm košile mi rostou;</l>
+     <l n="7" met="1010001010" rhyme="4" line_length="10">v símě změní se mi květy zdobné,</l>
+     <l n="8" met="1010100010" rhyme="4" line_length="10">a to símě na propití v drobné.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

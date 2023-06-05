@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>USQUE AD ULTIMA</title>
+    <author>Dyk, Viktor</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dyk, Viktor_usque-ad-ultima</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>USQUE AD ULTIMA</title>
+     <author>Dyk, Viktor</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>USQUE AD ULTIMA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01101" line_length="5">A šla ke mně Smrt...</l>
+     <l n="2" met="10010" line_length="5">(Vzdálený chodec!)</l>
+     <l n="3" met="10001010001" line_length="11">Čarovnými kroky obcházela dům.</l>
+     <l n="4" met="100100100" line_length="9">Pohlédla v okna: „Hé, synáčku!“</l>
+     <l n="5" met="10010100100" line_length="11">Dala mi ruku, pěšinkou vedla mne</l>
+     <l n="6" met="100100100100" line_length="12">(Byly tam paseky, třešně a jahody,</l>
+     <l n="7" met="100100100100" line_length="12">mravenci, čmeláci, sršně a – všelicos!)</l>
+     <l n="8" met="01" line_length="2">Už čas...!</l>
+    </lg>
+    <lg n="2">
+     <l n="9" met="10010010100" line_length="11">S hůlčičkou v rukou mi kruhy kreslila.</l>
+     <l n="10" met="100001001010" line_length="12">(Pythagorejská věta a více ještě...)</l>
+     <l n="11" met="10010010010" line_length="11">Nevím již – nevidím – zmizely kruhy,</l>
+     <l n="12" met="100110010" line_length="9">přichází noc – a je tak temno.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

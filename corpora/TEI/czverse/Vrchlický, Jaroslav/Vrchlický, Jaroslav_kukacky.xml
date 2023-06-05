@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KUKAČKY.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_kukacky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KUKAČKY.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KUKAČKY.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101" rhyme="1" line_length="7">Kukačky, kde pestrá mez,</l>
+     <l n="2" met="1010101" rhyme="2" line_length="7">vroubí polní stezky lem;</l>
+     <l n="3" met="1010101" rhyme="1" line_length="7">skřivan jásá jeden ples,</l>
+     <l n="4" met="1010101" rhyme="2" line_length="7">rosou hoří celá zem.</l>
+     <l n="5" met="1010100" rhyme="1" line_length="7">Pravý jarní svátek dnes!</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="1011000" rhyme="1" line_length="7">A kde tmí se skalní tes,</l>
+     <l n="7" met="1010100" rhyme="2" line_length="7">slyším volat navzájem</l>
+     <l n="8" met="1000100" rhyme="1" line_length="7">na buku a dále kdes</l>
+     <l n="9" met="100" line_length="3">kukačky.</l>
+    </lg>
+    <lg n="3">
+     <l n="10" met="1010100" rhyme="1" line_length="7">Smích se k mému uchu nes’,</l>
+     <l n="11" met="1010100" rhyme="2" line_length="7">samé perly hrály v něm,</l>
+     <l n="12" met="1010100" rhyme="2" line_length="7">hledím snětí závojem:</l>
+     <l n="13" met="1010101" rhyme="1" line_length="7">Děti sedly v zkvětlý vřes,</l>
+     <l n="14" met="1010101" rhyme="1" line_length="7">v rudých šatcích patří v les</l>
+     <l n="15" met="100" line_length="3">kukačky!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

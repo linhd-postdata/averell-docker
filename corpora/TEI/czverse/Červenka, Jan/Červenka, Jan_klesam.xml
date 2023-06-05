@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KLESÁM!</title>
+    <author>Červenka, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červenka, Jan_klesam</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KLESÁM!</title>
+     <author>Červenka, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KLESÁM!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010010010" line_length="9">Ty klesáš vždy hlouběji, hochu,</l>
+     <l n="2" met="0101001" rhyme="1" line_length="7">kdys děl mi básník, můj druh,</l>
+     <l n="3" met="01010010" line_length="8">ty hyneš sladkými verši,</l>
+     <l n="4" met="0101001" rhyme="1" line_length="7">v nichž není smysl, ni duch.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="110010010" line_length="9">Ach bože, což mohu já za to,</l>
+     <l n="6" met="0001001" rhyme="2" line_length="7">že výš se nemohu vznést?</l>
+     <l n="7" met="01010010" line_length="8">Jsem pouhý člověk a k zemi</l>
+     <l n="8" met="0101000" rhyme="2" line_length="7">můj osud přikován jest!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010010010" line_length="9">A klesám-li, hledaje v srdci</l>
+     <l n="10" met="0101001" rhyme="3" line_length="7">ty zbytky ztracených dob:</l>
+     <l n="11" met="00010010" line_length="8">což víc! Vždyť klesáme všichni,</l>
+     <l n="12" met="0001001" rhyme="3" line_length="7">ten dřív, ten později, v hrob!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les Saisons</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_les-saisons</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Les Saisons</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Les Saisons</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="7">Transformant les horizons</l>
+     <l n="2" rhyme="b" line_length="7">Où les nuages s'amassent,</l>
+     <l n="3" rhyme="a" line_length="7">D'un pas léger les Saisons</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="a" line_length="7">L'Hiver frileux et subtil,</l>
+     <l n="5" rhyme="b" line_length="7">Parmi son pâle cortège,</l>
+     <l n="6" rhyme="a" line_length="7">Est blanc comme un lys, quand il</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="a" line_length="7">Le Printemps, dans les palais</l>
+     <l n="8" rhyme="b" line_length="7">Sous ses fleurs cache les marbres,</l>
+     <l n="9" rhyme="a" line_length="7">Et pose des nids dans les</l>
+    </lg>
+    <lg n="4">
+     <l n="10" rhyme="a" line_length="7">Sous les grands cieux triomphants,</l>
+     <l n="11" rhyme="b" line_length="7">L'Été, plein d'apothéoses,</l>
+     <l n="12" rhyme="a" line_length="7">Dore les fronts des enfants</l>
+    </lg>
+    <lg n="5">
+     <l n="13" rhyme="a" line_length="7">Et le rouge Automne, cher</l>
+     <l n="14" rhyme="b" line_length="7">Au vendangeur, nous enseigne</l>
+     <l n="15" rhyme="a" line_length="7">Par son raisin dont la chair</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

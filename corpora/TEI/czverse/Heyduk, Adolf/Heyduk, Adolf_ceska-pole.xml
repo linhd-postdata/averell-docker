@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Česká pole.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_ceska-pole</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Česká pole.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Česká pole.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010100010" rhyme="1" line_length="12">Široširá pole, široširé lány,</l>
+     <l n="2" met="101000101000" rhyme="1" line_length="12">buďte pozdraveny, buďte požehnány!</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="101000101010" rhyme="2" line_length="12">Budiž požehnáno, co vám z ňader roste,</l>
+     <l n="4" met="101000101010" rhyme="2" line_length="12">buďte požehnáni zpěvní nebes hosté.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="001000101010" rhyme="3" line_length="12">Vše buď požehnáno, co vám z hrudi pučí,</l>
+     <l n="6" met="101010101010" rhyme="3" line_length="12">i ta bystrá řeka, jež vám v srdci zvučí.</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="101010101010" rhyme="4" line_length="12">I té řeky perle i to její proutí –</l>
+     <l n="8" met="110110101000" rhyme="4" line_length="12">ach, kéž vás lze všecka vroucně obejmouti.</l>
+    </lg>
+    <lg n="5">
+     <l n="9" met="101000101000" rhyme="5" line_length="12">Všecka obejmouti, všecka zulíbati,</l>
+     <l n="10" met="100010100010" rhyme="5" line_length="12">od výběžku hory ku poslední hati.</l>
+    </lg>
+    <lg n="6">
+     <l n="11" met="100010100010" rhyme="2" line_length="12">Od zlatého klasu do metlice prosté;</l>
+     <l n="12" met="010010101010" rhyme="2" line_length="12">vždyť z vašeho žití naše žití roste!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

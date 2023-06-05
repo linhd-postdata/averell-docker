@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>U strojů.</title>
+    <author>Korvín, Jan Daniel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Korvín, Jan Daniel_u-stroju</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>U strojů.</title>
+     <author>Korvín, Jan Daniel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>U strojů.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" rhyme="1" line_length="8">Jako stroj jsem, na výstavě</l>
+     <l n="2" met="000010" rhyme="2" line_length="6">když se sem tam dívám.</l>
+     <l n="3" met="00101010" rhyme="1" line_length="8">„To je krása!“ řekneš hravě,</l>
+     <l n="4" met="001010" rhyme="2" line_length="6">já jen hlavou kývám.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="3" line_length="8">Jako stroj jsem, který řídí</l>
+     <l n="6" met="100010" rhyme="4" line_length="6">výstavy té krása:</l>
+     <l n="7" met="10101010" rhyme="3" line_length="8">noha kráčí, oko vidí,</l>
+     <l n="8" met="101010" rhyme="4" line_length="6">a už srdce jásá!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="00101010" rhyme="5" line_length="8">Jak jsou částky u všech strojů</l>
+     <l n="10" met="101010" rhyme="6" line_length="6">pevně spjaty k sobě!</l>
+     <l n="11" met="10101010" rhyme="5" line_length="8">Držme spolu ve dnech bojů</l>
+     <l n="12" met="101010" rhyme="6" line_length="6">stejně vůči zlobě!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="00100010" rhyme="7" line_length="8">Ač se v části jak ty stroje</l>
+     <l n="14" met="011010" rhyme="8" line_length="6">ten lid český dělí,</l>
+     <l n="15" met="10100010" rhyme="7" line_length="8">jděme v práce své a boje</l>
+     <l n="16" met="100110" rhyme="8" line_length="6">také co lid celý!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

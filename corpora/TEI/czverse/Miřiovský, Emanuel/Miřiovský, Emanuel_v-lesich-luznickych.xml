@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V lesích lužnických.</title>
+    <author>Miřiovský, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Miřiovský, Emanuel_v-lesich-luznickych</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V lesích lužnických.</title>
+     <author>Miřiovský, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V lesích lužnických.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Ty stíne lesův lužnických,</l>
+     <l n="2" met="01010100" rhyme="1" line_length="8">mně často býval’s přítelem,</l>
+     <l n="3" met="00010100" line_length="8">když jsem se k tobě utíkal,</l>
+     <l n="4" met="10010100" rhyme="1" line_length="8">poraněn v srdci rozchvělém.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">Tvých šumů měkké vanutí</l>
+     <l n="6" met="01010100" rhyme="2" line_length="8">mi často klidu poskytlo,</l>
+     <l n="7" met="10010100" line_length="8">i těch tvých ptáčků drobátko,</l>
+     <l n="8" met="01010100" rhyme="2" line_length="8">co z houští na mez vylítlo.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010101" line_length="8">Byli to ptáci dvé a dvé,</l>
+     <l n="10" met="10000001" rhyme="3" line_length="8">a já byl sám jak tam ten kmen,</l>
+     <l n="11" met="01010100" line_length="8">a přece pro mne v údolí</l>
+     <l n="12" met="01010101" rhyme="3" line_length="8">má růže kvetla den co den.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

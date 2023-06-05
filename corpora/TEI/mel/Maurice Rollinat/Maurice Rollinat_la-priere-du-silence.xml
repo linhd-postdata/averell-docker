@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Prière du silence</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_la-priere-du-silence</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Prière du silence</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Prière du silence</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Ici jonc, coudrier, viorne,</l>
+     <l n="2" rhyme="b" line_length="8">Enfants du roc et du marais,</l>
+     <l n="3" rhyme="b" line_length="8">Sont les côtoyeurs toujours frais</l>
+     <l n="4" rhyme="a" line_length="8">De leur rivière lente et morne.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Or, voici qu'en forme de corne,</l>
+     <l n="6" rhyme="b" line_length="8">Du haut des penchantes forêts,</l>
+     <l n="7" rhyme="b" line_length="8">La lune, verte tout exprès,</l>
+     <l n="8" rhyme="a" line_length="8">D'un nimbe émeraudé les orne.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="8">Un petit vent mystérieux</l>
+     <l n="10" rhyme="c" line_length="8">Traverse d'un frisson pieux</l>
+     <l n="11" rhyme="d" line_length="8">Le brin d'herbe, l'onde et la feuille.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="8">Mais tout se tait à l'unisson :</l>
+     <l n="13" rhyme="e" line_length="8">Et c'est la nocturne oraison</l>
+     <l n="14" rhyme="d" line_length="8">Du silence qui se recueille.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

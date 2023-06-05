@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Lorenzo Ortiz de Bujedo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lorenzo Ortiz de Bujedo_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Lorenzo Ortiz de Bujedo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+---+-">Si se oscurece el mundo con la ausencia</l>
+     <l n="2" met="-+---+-+-+-">del padre de la luz, del sol hermoso,</l>
+     <l n="3" met="++---+---+-">yo luego con semblante luminoso</l>
+     <l n="4" met="--+--+---+-">sustituyo benigna su presencia.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-----+---+-">Cuando con melancólica influencia</l>
+     <l n="6" met="+--+-+---+-">tiende la noche el manto pavoroso,</l>
+     <l n="7" met="--+--+---+-">mi hermosísima luz del tenebroso</l>
+     <l n="8" met="-+-+-+---+-">horror, que infunde, burla la inclemencia.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+---+-">Alza al cielo los ojos, y al mirarme,</l>
+     <l n="10" met="+--+-+---+-">te llenarás de gozo y de alegría,</l>
+     <l n="11" met="--++-+---+-">sin dejar un momento de admirarme.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+++---+-">¡Oh Luna! Dime ¿quién tanta hidalguía</l>
+     <l n="13" met="+-+--+++++-">pudo a ti concederte, y en ti darme?</l>
+     <l n="14" met="-++--+---+-">El ser símbolo expreso de María.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

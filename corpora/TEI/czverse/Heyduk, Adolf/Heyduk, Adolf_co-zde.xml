@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CO ZDE?</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_co-zde</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CO ZDE?</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CO ZDE?</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" rhyme="1" line_length="9">Co starý skřivan s drobnou písní,</l>
+     <l n="2" met="00010101" rhyme="2" line_length="8">co já bych tady ještě chtěl,</l>
+     <l n="3" met="110101010" rhyme="1" line_length="9">čas nový v mladých křídel tísni</l>
+     <l n="4" met="01010100" rhyme="2" line_length="8">dost záhy na mne zapomněl.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101010" rhyme="3" line_length="9">Tož, kveťte jenom tajně v duši,</l>
+     <l n="6" met="01010100" rhyme="4" line_length="8">mé drobné písně, tiše dál,</l>
+     <l n="7" met="010101000" rhyme="3" line_length="9">tam hněvu sníh vás neporuší,</l>
+     <l n="8" met="01000101" rhyme="4" line_length="8">byť nade mnou i mrakem stál.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

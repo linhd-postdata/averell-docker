@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Tres víolas del cielo</title>
+    <author>Luis de Góngora Y Argote</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Luis de Góngora Y Argote_tres-violas-del-cielo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Poesía Lírica Castellana Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Tres víolas del cielo</title>
+     <author>Luis de Góngora Y Argote</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Tres víolas del cielo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="Madrigal">
+     <l n="1" met="+---+-">Tres víolas del cielo,</l>
+     <l n="2" met="+--+-+--+-">tres de las flores ya breves estrellas,</l>
+     <l n="3" met="-+-+-+-">fragrante mármol, sellas,</l>
+     <l n="4" met="---+-+---+-">que aljofaró la muerte de su hielo;</l>
+     <l n="5" met="--+-+-+-+-">si las trenzas no están ciñendo ahora</l>
+     <l n="6" met="+---+---+-">de una Alba que crepúsculos ignora.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

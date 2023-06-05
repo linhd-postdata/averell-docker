@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Paisaje espiritual</title>
+    <author>Julián del Casal</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Julián del Casal_paisaje-espiritual</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Paisaje espiritual</title>
+     <author>Julián del Casal</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Paisaje espiritual</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Perdió mi corazón el entusiasmo</l>
+     <l n="2" met="---+---+-+-">al penetrar en la mudanza liza,</l>
+     <l n="3" met="+-+--+---+-">cual la chispa al caer en la ceniza</l>
+     <l n="4" met="+--+---+-+-">pierde el ardor en fugitivo espasmo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">Sumergido en estúpido marasmo</l>
+     <l n="6" met="---+-+---+-">mi pensamiento atónito agoniza</l>
+     <l n="7" met="---+-+---+-">o, al revivir, mis fuerzas paraliza</l>
+     <l n="8" met="-+-+-+++-+-">mostrándome en la acción un vil sarcasmo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--++---+-+-">Y aunque no endulcen mi infernal tormento</l>
+     <l n="10" met="---+-+---+-">ni la Pasión, ni el Arte, ni la Ciencia,</l>
+     <l n="11" met="-+---+---+-">soporto los ultrajes de la suerte,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+---+-+-">porque en mi alma desolada siento</l>
+     <l n="13" met="--+-+----+-">el hastío glacial de la existencia</l>
+     <l n="14" met="--+--+---+-">y el horror infinito de la muerte.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

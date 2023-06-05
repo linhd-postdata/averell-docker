@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A ella</title>
+    <author>Dilio</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dilio_a-ella</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A ella</title>
+     <author>Dilio</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A ella</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Nació en el seno de tranquilos mares</l>
+     <l n="2" met="+-+--+---+-">una virgen de faz encantadora,</l>
+     <l n="3" met="---+---+-+-">la que aparece al despuntar la aurora</l>
+     <l n="4" met="---+-+---+-">entre frondosas ceibas y palmares;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">de lirios, azucenas y azahares</l>
+     <l n="6" met="--+--+-+-+-">primavera gentil su sien decora;</l>
+     <l n="7" met="---+---+-+-">su porvenir inconsolable llora</l>
+     <l n="8" met="-+--+----+-">la linfa del poético Almendares.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+-+-">Cubren su cielo tenebrosas brumas,</l>
+     <l n="10" met="-+-+--++-+-">inclina mustia la tan pura frente,</l>
+     <l n="11" met="--+--+---+-">y la sangre del mártir inocente</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+---+-+-">mancha su lecho virginal de espumas,</l>
+     <l n="13" met="-+-+---+-+-">por eso triste y abatida vive</l>
+     <l n="14" met="---+---+-+-">a las orillas de la mar caribe.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Cikánka.</title>
+    <author>Přibil, Martin Alexander</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">32</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Přibil, Martin Alexander_cikanka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Cikánka.</title>
+     <author>Přibil, Martin Alexander</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Cikánka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101000" line_length="8">Když se s pole uklízela</l>
+     <l n="2" met="100" rhyme="1" line_length="3">Pohánka,</l>
+     <l n="3" met="10001000" line_length="8">Seděla tam u potůčku</l>
+     <l n="4" met="100" rhyme="1" line_length="3">Cikánka.</l>
+     <l n="5" met="10101010" line_length="8">Z pole zklízel lepý jinoch</l>
+     <l n="6" met="100" rhyme="2" line_length="3">Pohánku,</l>
+     <l n="7" met="01001000" line_length="8">A spatřil tam u potůčku</l>
+     <l n="8" met="100" rhyme="2" line_length="3">Cikánku.</l>
+    </lg>
+    <lg n="2">
+     <l n="9" met="10101010" line_length="8">Pojď sem, hochu! počne bába</l>
+     <l n="10" met="100" rhyme="3" line_length="3">Volati;</l>
+     <l n="11" met="00101010" line_length="8">Já ti budu ze tvé dlaně</l>
+     <l n="12" met="100" rhyme="3" line_length="3">Hádati.</l>
+     <l n="13" met="10100100" line_length="8">Dlouho jůnek se volati</l>
+     <l n="14" met="100" rhyme="4" line_length="3">Nenechal,</l>
+     <l n="15" met="10001010" line_length="8">Hádati si ze své dlaně</l>
+     <l n="16" met="100" rhyme="4" line_length="3">Ponechal;</l>
+    </lg>
+    <lg n="3">
+     <l n="17" met="01001010" line_length="8">Tu cikánka ostře zírá</l>
+     <l n="18" met="100" rhyme="5" line_length="3">Na tahy,</l>
+     <l n="19" met="10101100" line_length="8">„Ou!“ rce – „divné máš kochánku!</l>
+     <l n="20" met="100" rhyme="5" line_length="3">Povahy.</l>
+     <l n="21" met="10101010" line_length="8">Vidím, vidím, že jsi hrozný</l>
+     <l n="22" met="100" rhyme="6" line_length="3">Nevěrník;</l>
+     <l n="23" met="01101100" line_length="8">Že chceš býti dvou děvčátek</l>
+     <l n="24" met="100" rhyme="6" line_length="3">Milovník.</l>
+    </lg>
+    <lg n="4">
+     <l n="25" met="10100100" line_length="8">Nešiď dívky; jich nevinný</l>
+     <l n="26" met="110" rhyme="7" line_length="3">Cti věnec;</l>
+     <l n="27" met="10101010" line_length="8">Poslyš bábu, šťastný budeš</l>
+     <l n="28" met="100" rhyme="7" line_length="3">Mládenec.</l>
+     <l n="29" met="10101010" line_length="8">Jedním srdcem, jedné budiž</l>
+     <l n="30" met="100" rhyme="7" line_length="3">Milenec;</l>
+     <l n="31" met="10101010" line_length="8">Sicbys umřel, jako starý –</l>
+     <l n="32" met="100" rhyme="7" line_length="3">Mládenec.“ –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ZVONILI, ZVONILI.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_zvonili-zvonili</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ZVONILI, ZVONILI.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ZVONILI, ZVONILI.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" rhyme="1" line_length="6">ZVONILI, zvonili</l>
+     <l n="2" met="1000" rhyme="2" line_length="4">na zvoneček,</l>
+     <l n="3" met="100100" rhyme="1" line_length="6">lidé se sbíhali</l>
+     <l n="4" met="1000" rhyme="2" line_length="4">na kopeček</l>
+     <l n="5" met="01001010" line_length="8">jak na koni: „Kdo to zvoní?“</l>
+     <l n="6" met="100100" line_length="6">Zvonil to maličký</l>
+     <l n="7" met="1000" rhyme="2" line_length="4">mraveneček.</l>
+    </lg>
+    <lg n="2">
+     <l n="8" met="010100" line_length="6">„Ty jeden ošklivý</l>
+     <l n="9" met="1000" rhyme="3" line_length="4">mravenečku,</l>
+     <l n="10" met="000101" line_length="6">co že ty dělat máš</l>
+     <l n="11" met="1000" rhyme="3" line_length="4">u zvonečku?</l>
+     <l n="12" met="10101010" rhyme="4" line_length="8">Běž si domů, hleď si svého,</l>
+     <l n="13" met="100100" line_length="6">nezvoň a nežaluj</l>
+     <l n="14" met="1000" rhyme="4" line_length="4">na každého!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

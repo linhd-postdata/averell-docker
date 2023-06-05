@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A la memoria de don Pedro Calderón de la Barca</title>
+    <author>José Sanchís Sivera</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Sanchís Sivera_a-la-memoria-de-don-pedro-cald</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A la memoria de don Pedro Calderón de la Barca</title>
+     <author>José Sanchís Sivera</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A la memoria de don Pedro Calderón de la Barca</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---+-">¡Gloria A tu ingenio, vate sacrosanto</l>
+     <l n="2" met="-+---+---+-">orgullo de la España adormecida</l>
+     <l n="3" met="--+--+---+-">en el piélago triste de la vida,</l>
+     <l n="4" met="+-+--+-+-+-">gloria a ti de la escena dulce encanto.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+----+-+-">Pise tu huella el amorosos manto</l>
+     <l n="6" met="---+--+--+-">de que se cubre tu patria querida,</l>
+     <l n="7" met="+--+-+---+-">vuelva a entonar tu lira adormecida</l>
+     <l n="8" met="--+--++--+-">al dolor y al placer célico canto.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+-+-">Oye del mundo el admirable acento</l>
+     <l n="10" met="-+---+--++-">de gloria y alabanza que te canta,</l>
+     <l n="11" met="-+-+-+---+-">contempla airoso el regio monumento</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+-+-+-">que el mundo sin cesar a ti levanta</l>
+     <l n="13" met="-+-+---+-+-">haciendo grande la eternal memoria</l>
+     <l n="14" met="-+---+---+-">que siempre ocuparás en nuestra Historia.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

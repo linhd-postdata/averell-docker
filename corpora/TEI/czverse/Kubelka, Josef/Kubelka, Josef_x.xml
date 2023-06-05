@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>X.</title>
+    <author>Kubelka, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kubelka, Josef_x</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>X.</title>
+     <author>Kubelka, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>X.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010010100" line_length="9">Až stáří nám vlasy pobělí,</l>
+     <l n="2" met="010010010" rhyme="1" line_length="9">co z mládí nám do stáří zbude?</l>
+     <l n="3" met="0100100101" rhyme="2" line_length="10">Nás potěší vzpomínka v dobách zlých</l>
+     <l n="4" met="010010100" rhyme="2" line_length="9">a za nocí dlouhých, bezesných</l>
+     <l n="5" met="01001010" rhyme="1" line_length="8">jak lampa nám svítit bude.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="010010100" line_length="9">Až stáří nám vlasy pobělí,</l>
+     <l n="7" met="010010010" rhyme="1" line_length="9">co z mládí nám do stáří zbude?</l>
+     <l n="8" met="110110100" rhyme="3" line_length="9">Sto písní z dob šťastné nálady</l>
+     <l n="9" met="010010100" rhyme="3" line_length="9">a bohaté citu poklady</l>
+     <l n="10" met="01001010" rhyme="1" line_length="8">v té každičké písni chudé.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

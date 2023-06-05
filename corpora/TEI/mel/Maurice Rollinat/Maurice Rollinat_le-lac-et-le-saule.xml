@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Lac et le Saule</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_le-lac-et-le-saule</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Lac et le Saule</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Lac et le Saule</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">La solitude est bien l'hôtesse</l>
+     <l n="2" rhyme="b" line_length="8">Qui convient à ce lac profond :</l>
+     <l n="3" rhyme="b" line_length="8">Son saule unique et lui se font</l>
+     <l n="4" rhyme="a" line_length="8">Le vis-à-vis de la tristesse.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="8">Immobiles ou se mouvant</l>
+     <l n="6" rhyme="d" line_length="8">Ils joignent leurs mélancolies,</l>
+     <l n="7" rhyme="d" line_length="8">Par les froidures, sous les pluies,</l>
+     <l n="8" rhyme="c" line_length="8">Dans le soleil et dans le vent.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="8">Ils échangent même en secret</l>
+     <l n="10" rhyme="e" line_length="8">Ce qui les charme ou les distrait.</l>
+     <l n="11" rhyme="f" line_length="8">L'arbre a des oiseaux dans ses branches,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="8">Il les montre au Lac qui, toujours,</l>
+     <l n="13" rhyme="g" line_length="8">À fleur d'eau lui montre à son tour</l>
+     <l n="14" rhyme="f" line_length="8">Ses belles carpes et ses tanches !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

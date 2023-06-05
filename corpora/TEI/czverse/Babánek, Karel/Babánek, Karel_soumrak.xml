@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SOUMRAK.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_soumrak</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SOUMRAK.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SOUMRAK.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010100010100" rhyme="1" line_length="12">Jak slunce v červáncích když padá za obzor,</l>
+     <l n="2" met="0101011101000" rhyme="2" line_length="13">a žáry letních dnů mráz ledný vystřídává,</l>
+     <l n="3" met="0101010101010" rhyme="2" line_length="13">tak v smutku pozdních let se tobě náhle zdává,</l>
+     <l n="4" met="010100010101" rhyme="1" line_length="12">to vichru studený jak dech by vanul z hor.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101011001010" rhyme="3" line_length="13">A mraky houstnout zříš se světlem na jich lemě,</l>
+     <l n="6" met="0101000101010" rhyme="4" line_length="13">a jako plavec byls’, jenž v moře nořil zraky,</l>
+     <l n="7" met="1001011001000" rhyme="4" line_length="13">prohlédnout cestou chtěl tajemné za oblaky,</l>
+     <l n="8" met="0101001001010" rhyme="3" line_length="13">a nikdy nezvolal vítězně: Země! Země!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

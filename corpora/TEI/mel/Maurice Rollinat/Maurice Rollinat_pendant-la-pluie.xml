@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pendant la pluie</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">8</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_pendant-la-pluie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pendant la pluie</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pendant la pluie</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" />
+    <lg n="2" />
+    <lg n="3" />
+    <lg n="4" />
+    <lg n="5" />
+    <lg n="6" />
+    <lg n="7">
+     <l n="1" rhyme="a" line_length="8">Moi, de mon coin pierreux, j'observe les nuages,</l>
+     <l n="2" rhyme="b" line_length="6+6">Au tintement de l'eau sur le gravier qui luit ;</l>
+    </lg>
+    <lg n="8">
+     <l n="3" rhyme="b" line_length="8">Ce gazouillis claquant me rappelant le bruit</l>
+     <l n="4" rhyme="a" line_length="6+6">Que fait l'huile fumante en une poêle à frire.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

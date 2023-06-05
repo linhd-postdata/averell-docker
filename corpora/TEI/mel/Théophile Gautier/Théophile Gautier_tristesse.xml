@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>TRISTESSE</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_tristesse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>TRISTESSE</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>TRISTESSE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6">Hélas ! j'ai dans le cœur une tristesse affreuse.</l>
+    </lg>
+    <lg n="2">
+     <l n="2" rhyme="a" line_length="6">Hélas ! j'ai dans le cœur une tristesse affreuse.</l>
+    </lg>
+    <lg n="3">
+     <l n="3" rhyme="a" line_length="6">Hélas ! j'ai dans le cœur une tristesse affreuse.</l>
+    </lg>
+    <lg n="4">
+     <l n="4" rhyme="a" line_length="6">Hélas ! j'ai dans le cœur une tristesse affreuse.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

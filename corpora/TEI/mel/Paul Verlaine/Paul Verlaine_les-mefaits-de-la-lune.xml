@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LES MÉFAITS DE LA LUNE</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_les-mefaits-de-la-lune</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LES MÉFAITS DE LA LUNE</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LES MÉFAITS DE LA LUNE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4−5">SUR mon front, mille fois solitaire,</l>
+     <l n="2" rhyme="b" line_length="4+5">Puisque je dois dormir loin de toi,</l>
+     <l n="3" rhyme="b" line_length="5+4">La lune déjà maligne en soi,</l>
+     <l n="4" rhyme="a" line_length="4−5">Ce soir jette un regard délétère.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="5+4">Il dit ce regard – pût-il se taire !</l>
+     <l n="6" rhyme="b" line_length="5+4">Mais il ne prétend pas rester coi, –</l>
+     <l n="7" rhyme="b" line_length="5+4">Qu’il n’est pas sans toi de paix pour moi ;</l>
+     <l n="8" rhyme="a" line_length="4+5">Je le sais bien, pourquoi ce mystère,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="5+4">Pourquoi ce regard, oui, lui, pourquoi ?</l>
+     <l n="10" rhyme="b" line_length="4+5">Qu’ont de commun la lune et la terre ?</l>
+     <l n="11" rhyme="b" line_length="4+5">Bah, reviens vite, assez de mystère !</l>
+     <l n="12" rhyme="a" line_length="5+4">Toi, c’est le soleil, luis clair sur moi !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

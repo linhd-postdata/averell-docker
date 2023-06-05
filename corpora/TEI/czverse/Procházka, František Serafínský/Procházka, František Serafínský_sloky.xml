@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SLOKY.</title>
+    <author>Procházka, František Serafínský</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Procházka, František Serafínský_sloky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SLOKY.</title>
+     <author>Procházka, František Serafínský</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SLOKY.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" rhyme="1" line_length="8">Než prvé květy vykvetou,</l>
+     <l n="2" met="10010100" rhyme="1" line_length="8">přilítne Jaro s paletou,</l>
+     <l n="3" met="11001100" rhyme="2" line_length="8">modř průsvitnou dá oblaku</l>
+     <l n="4" met="0101000" rhyme="3" line_length="7">a stříbro konvalince</l>
+     <l n="5" met="01010100" rhyme="2" line_length="8">a pro sbor ptačích zpěváků</l>
+     <l n="6" met="1101010" rhyme="3" line_length="7">má nové písně v skřínce.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="10010100" rhyme="4" line_length="8">Na našem mlýnském náhoně</l>
+     <l n="8" met="10010100" rhyme="4" line_length="8">nadechne růží jabloně,</l>
+     <l n="9" met="10010100" rhyme="5" line_length="8">fialek najde v úkrytu</l>
+     <l n="10" met="1001010" rhyme="6" line_length="7">procitlých bledé stopy,</l>
+     <l n="11" met="10010100" rhyme="5" line_length="8">nejdražší prškou blankytu</l>
+     <l n="12" met="0100010" rhyme="6" line_length="7">je v okamžení skropí.</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="10010101" rhyme="7" line_length="8">Zlatého prachu dá se v let</l>
+     <l n="14" met="10010100" rhyme="7" line_length="8">nasypat jivám do jehněd,</l>
+     <l n="15" met="10010100" rhyme="8" line_length="8">motýlům duhu z opálů</l>
+     <l n="16" met="1001010" rhyme="9" line_length="7">vykouzlí v divu z křídel</l>
+     <l n="17" met="01000100" rhyme="8" line_length="8">a cinkotavých křišťálů</l>
+     <l n="18" met="1101010" rhyme="9" line_length="7">hrst hodí do všech zřídel.</l>
+    </lg>
+    <lg n="4">
+     <l n="19" met="01010100" rhyme="10" line_length="8">V tom pestrých barev plápolu</l>
+     <l n="20" met="01010100" rhyme="10" line_length="8">jsou srdce blíže pospolu,</l>
+     <l n="21" met="11010100" rhyme="11" line_length="8">ó, vzdej se, Jaru vítězi!</l>
+     <l n="22" met="0101000" rhyme="12" line_length="7">Jen vždycky najde-li je</l>
+     <l n="23" met="01000100" rhyme="11" line_length="8">jak fialky své pod mezí</l>
+     <l n="24" met="0101000" rhyme="12" line_length="7">a svoje konvalije!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

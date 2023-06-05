@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CII</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_cii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CII</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CII</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="6+6">Je te dis qu'il travaille et travaille toujours,</l>
+     <l n="2" rhyme="a" line_length="6+6">Et que, rien qu'en vidant son verre dès l'aurore,</l>
+     <l n="3" rhyme="a" line_length="6+6">Et qu'en le remplissant pour le vider encore,</l>
+     <l n="4" rhyme="b" line_length="6+6">En riant, en chantant, en narguant tout devoir,</l>
+     <l n="5" rhyme="b" line_length="6+6">En se laissant rouler sous la table le soir,</l>
+     <l n="6" rhyme="a" line_length="6+6">Aidé sans le savoir par le dèstin qu'il raille,</l>
+     <l n="7" rhyme="a" line_length="6+6">Il construit, sans marteau, sans clous et sans tenaille,</l>
+     <l n="8" rhyme="b" line_length="6+6">Par un travail certain, infaillible et fatal,</l>
+     <l n="9" rhyme="b" line_length="6+6">Le brancard qui le doit porter à l'hôpital !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

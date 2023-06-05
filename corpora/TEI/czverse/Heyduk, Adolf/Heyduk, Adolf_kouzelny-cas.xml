@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kouzelný čas.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_kouzelny-cas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kouzelný čas.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kouzelný čas.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101" rhyme="1" line_length="8">Už rudne jetel, rudne mák,</l>
+     <l n="2" met="11000101" rhyme="1" line_length="8">v říš blankytnou se vznáší pták,</l>
+     <l n="3" met="01010101" rhyme="2" line_length="8">a z drobných v hrudi lesa hnízd</l>
+     <l n="4" met="110101" rhyme="2" line_length="6">zní písklat první hvizd.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11001100" rhyme="3" line_length="8">Den líbezný jde přes nivy,</l>
+     <l n="6" met="01010100" rhyme="3" line_length="8">s ním dětí jásot zvonivý,</l>
+     <l n="7" met="11010101" rhyme="4" line_length="8">květ louka má a pole klas</l>
+     <l n="8" met="010100" rhyme="4" line_length="6">a člověk křídla zas.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="11000101" rhyme="5" line_length="8">Chce oblétnouti celý svět,</l>
+     <l n="10" met="11010101" rhyme="5" line_length="8">chce urvat žití zlatý květ,</l>
+     <l n="11" met="11110101" rhyme="6" line_length="8">chce vrch mít blaha, štěstí, zdob,</l>
+     <l n="12" met="010001" rhyme="6" line_length="6">a zapomíná hrob. –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

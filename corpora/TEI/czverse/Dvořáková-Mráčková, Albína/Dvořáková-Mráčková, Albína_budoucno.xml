@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Budoucno.</title>
+    <author>Dvořáková-Mráčková, Albína</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořáková-Mráčková, Albína_budoucno</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Budoucno.</title>
+     <author>Dvořáková-Mráčková, Albína</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Budoucno.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" rhyme="1" line_length="11">Kdy den již zašel za ty hory dálné,</l>
+     <l n="2" met="00100101010" rhyme="2" line_length="11">a s ním přítomna žaly, strasti, boje –</l>
+     <l n="3" met="01010100010" rhyme="1" line_length="11">tu před mou duší uplašenou žalné</l>
+     <l n="4" met="10010100010" rhyme="2" line_length="11">budoucno mraky rozestírá svoje.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010101010" rhyme="3" line_length="11">Budoucno temné, jako závoj vdovy,</l>
+     <l n="6" met="10010101000" rhyme="4" line_length="11">truchlé jak její píseň rozželená –</l>
+     <l n="7" met="10000100010" rhyme="3" line_length="11">nad manžela a dítek kdy se rovy</l>
+     <l n="8" met="10010101000" rhyme="4" line_length="11">večerním nese vánkem rozechvěná.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

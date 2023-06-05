@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soleil</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">7</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_soleil</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soleil</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soleil</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Lorsque Juin fait même sourire</l>
+     <l n="2" rhyme="b" line_length="4">Je n'aime pas entendre dire</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="8">Non. Pas assez chaud. Que notre âme</l>
+     <l n="4" rhyme="b" line_length="4">Renaisse, prenne un bain de flamme</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="8">O Zéphyr, tandis que tu bouges</l>
+     <l n="6" rhyme="b" line_length="4">Que toutes les lèvres soient rouges</l>
+    </lg>
+    <lg n="4">
+     <l n="7" rhyme="a" line_length="8">Que hors du corsage, sans honte</l>
+     <l n="8" rhyme="b" line_length="4">Tressaillent, sans rendre nul compte</l>
+    </lg>
+    <lg n="5">
+     <l n="9" rhyme="a" line_length="8">Je veux dans les apothéoses</l>
+     <l n="10" rhyme="b" line_length="4">Du jardin, les bouches des roses</l>
+    </lg>
+    <lg n="6">
+     <l n="11" rhyme="a" line_length="8">Oublions les matins livides,</l>
+     <l n="12" rhyme="b" line_length="4">La malignité des avides</l>
+    </lg>
+    <lg n="7">
+     <l n="13" rhyme="a" line_length="8">Et voulant que l'azur nous voie</l>
+     <l n="14" rhyme="b" line_length="4">Les prunelles pleines de joie</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

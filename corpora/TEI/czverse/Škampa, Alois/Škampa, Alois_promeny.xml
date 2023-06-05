@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Proměny.</title>
+    <author>Škampa, Alois</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Škampa, Alois_promeny</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Proměny.</title>
+     <author>Škampa, Alois</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Proměny.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010101000" rhyme="1" line_length="11">Jde život, letí – ani nevíme to,</l>
+     <l n="2" met="0101010000" rhyme="2" line_length="10">jak rychle sami pospícháme s ním,</l>
+     <l n="3" met="0101010001" rhyme="2" line_length="10">jak zítra dnešek rozplývá se v dým,</l>
+     <l n="4" met="01010101010" rhyme="1" line_length="11">jak prchá zima, jaro, podzim, léto.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11000101010" rhyme="3" line_length="11">Svět okolo se mění v každém kroku</l>
+     <l n="6" met="0101010000" rhyme="4" line_length="10">a divné změny dějou se i v nás:</l>
+     <l n="7" met="0101010101" rhyme="4" line_length="10">kde ráno květ byl – najdem večer mráz,</l>
+     <l n="8" met="01010101010" rhyme="3" line_length="11">dnes máme smích – a zítra slze v oku.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100010" rhyme="5" line_length="11">A mine rok – a zapomenem snadno,</l>
+     <l n="10" met="01000100010" rhyme="5" line_length="11">a cítíme, jak lhostejnosti chladno</l>
+     <l n="11" met="1001010100" rhyme="6" line_length="10">za námi padá hrobním kamenem...</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="01000100010" rhyme="7" line_length="11">Jen na pohádky z dětinského mládí</l>
+     <l n="13" met="01000100010" rhyme="7" line_length="11">a na ony, kdož mívali nás rádi –</l>
+     <l n="14" met="0100010100" rhyme="6" line_length="10">si tisíckrát a vděčně vzpomenem!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

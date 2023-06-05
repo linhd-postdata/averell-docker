@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NÍZKÁ KRČMA (V)</title>
+    <author>Benešová, Božena</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Benešová, Božena_nizka-krcma-v</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NÍZKÁ KRČMA (V)</title>
+     <author>Benešová, Božena</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NÍZKÁ KRČMA (V)</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Je nízká krčma za městem,</l>
+     <l n="2" met="110001" rhyme="1" line_length="6">má zrcadlový sál,</l>
+     <l n="3" met="11000100" line_length="8">ó nežije ni odrazem,</l>
+     <l n="4" met="101100" rhyme="1" line_length="6">koho svět nevolal,</l>
+     <l n="5" met="01010101" line_length="8">jen prázdnou lstí a prázdnou mstou</l>
+     <l n="6" met="100000" rhyme="1" line_length="6">v nevykoupenou dál.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="010010001" line_length="9">A marně i otevřený hrob</l>
+     <l n="8" met="100101" rhyme="2" line_length="6">čeká, kdy přijde host,</l>
+     <l n="9" met="11000101" line_length="8">chlad, napojený věků tmou</l>
+     <l n="10" met="100100" rhyme="2" line_length="6">nespasí budoucnost,</l>
+     <l n="11" met="01010001" line_length="8">je přísný nezrozených řád,</l>
+     <l n="12" met="010101" rhyme="2" line_length="6">jen anděl hříchu prost.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

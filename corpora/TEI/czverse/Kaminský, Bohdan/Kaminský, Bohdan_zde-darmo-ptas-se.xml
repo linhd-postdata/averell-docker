@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Zde darmo ptáš se...</title>
+    <author>Kaminský, Bohdan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kaminský, Bohdan_zde-darmo-ptas-se</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Zde darmo ptáš se...</title>
+     <author>Kaminský, Bohdan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Zde darmo ptáš se...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" rhyme="1" line_length="8">Zde darmo ptáš se, co je víc,</l>
+     <l n="2" met="010101010" rhyme="2" line_length="9">zda život, jenž je velkým divem,</l>
+     <l n="3" met="01010100" rhyme="1" line_length="8">či smrt, jež všecko ukončíc</l>
+     <l n="4" met="01010" rhyme="3" line_length="5">tě mlčky chvátí</l>
+     <l n="5" met="010" rhyme="3" line_length="3">a dá ti</l>
+     <l n="6" met="110010010" rhyme="2" line_length="9">mír hluboký po boji divém.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="01010101" rhyme="4" line_length="8">Je život lidský velký dar,</l>
+     <l n="8" met="010101010" rhyme="5" line_length="9">jenž pro tu smrt však ceny strádá,</l>
+     <l n="9" met="01010100" rhyme="4" line_length="8">a žebrák jako hosudar</l>
+     <l n="10" met="01010" rhyme="6" line_length="5">je červík před ní.</l>
+     <l n="11" met="010" rhyme="6" line_length="3">To všední,</l>
+     <l n="12" met="110001010" rhyme="5" line_length="9">smrt s životem se věčně hádá.</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="01010100" rhyme="7" line_length="8">A život tisíc pokladů</l>
+     <l n="14" met="010101000" rhyme="8" line_length="9">by dal ti v duši zanícenou –:</l>
+     <l n="15" met="10010100" rhyme="7" line_length="8">za hroznou chvíli rozkladu</l>
+     <l n="16" met="01010" rhyme="9" line_length="5">v té chvíli jedné</l>
+     <l n="17" met="010" rhyme="9" line_length="3">a bědné</l>
+     <l n="18" met="010101010" rhyme="8" line_length="9">je život celý trpkou cenou.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

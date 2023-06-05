@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Comédie Française</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_comedie-francaise</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Comédie Française</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Comédie Française</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Pégase bondit sur les monts</l>
+     <l n="2" rhyme="b" line_length="8">Et s'ébaudit à sa manière.</l>
+     <l n="3" rhyme="a" line_length="8">Art, Comédie, ô fiers démons,</l>
+     <l n="4" rhyme="b" line_length="8">Empoignez-le par la crinière.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Volez à l'immortalité !</l>
+     <l n="6" rhyme="b" line_length="8">Le blanc cheval sans selle y mène.</l>
+     <l n="7" rhyme="a" line_length="8">Il est grave, en réalité,</l>
+     <l n="8" rhyme="b" line_length="8">De vouloir jouer Célimène.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Car il n'est pas bénin, bénin,</l>
+     <l n="10" rhyme="b" line_length="8">Ce beau rôle, fiel et délice.</l>
+     <l n="11" rhyme="a" line_length="8">Il contient tout l'art féminin</l>
+     <l n="12" rhyme="b" line_length="8">Et tout le sac à la malice.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">Donc, mademoiselle Marsy</l>
+     <l n="14" rhyme="b" line_length="8">L'a compris. C'est de bon augure.</l>
+     <l n="15" rhyme="a" line_length="8">En son temps, la grande Mars y</l>
+     <l n="16" rhyme="b" line_length="8">Faisait, aussi, bonne figure.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" rhyme="a" line_length="8">Où se sont enfuis vos printemps,</l>
+     <l n="18" rhyme="b" line_length="8">O Mars, Anaïs et Monrose ?</l>
+     <l n="19" rhyme="a" line_length="8">Baste ! il est bon d'avoir vingt ans</l>
+     <l n="20" rhyme="b" line_length="8">Et l'œil vif et la bouche rose.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

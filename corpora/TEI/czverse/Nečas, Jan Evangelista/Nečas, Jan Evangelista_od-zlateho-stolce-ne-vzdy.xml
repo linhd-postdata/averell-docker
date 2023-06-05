@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Od zlatého stolce ne vždy</title>
+    <author>Nečas, Jan Evangelista</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nečas, Jan Evangelista_od-zlateho-stolce-ne-vzdy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Od zlatého stolce ne vždy</title>
+     <author>Nečas, Jan Evangelista</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Od zlatého stolce ne vždy</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001000" line_length="8">Od zlatého stolce ne vždy </l>
+     <l n="2" met="1010100" rhyme="1" line_length="7">zoře lásky svítila,</l>
+     <l n="3" met="10001000" line_length="8">často se tam krvelačná</l>
+     <l n="4" met="1010100" rhyme="1" line_length="7">výheň války vznítila.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101000" line_length="8">Za to v stáji chuďasově</l>
+     <l n="6" met="1010100" rhyme="2" line_length="7">spáse pro svět celičký</l>
+     <l n="7" met="10001000" line_length="8">za kolébku posloužily</l>
+     <l n="8" met="1000100" rhyme="2" line_length="7">pastýřovy jesličky.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

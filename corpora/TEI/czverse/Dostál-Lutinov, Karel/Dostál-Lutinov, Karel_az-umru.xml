@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>AŽ UMRU...</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_az-umru</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>AŽ UMRU...</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>AŽ UMRU...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Až umru, vsaďte na hrob můj</l>
+     <l n="2" met="110100" rhyme="1" line_length="6">tré velkých slunečnic,</l>
+     <l n="3" met="01010100" line_length="8">by za mne k slunci zíraly</l>
+     <l n="4" met="010101" rhyme="1" line_length="6">a k Bohu lící v líc.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">Pak ještě máky miluji,</l>
+     <l n="6" met="010100" rhyme="2" line_length="6">těch vsejte několik,</l>
+     <l n="7" met="01010101" line_length="8">že zář a barvy měl jsem rád</l>
+     <l n="8" met="010100" rhyme="2" line_length="6">jak Čech a katolík.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" line_length="8">A v čelo hrobu, nad hlavu</l>
+     <l n="10" met="010101" rhyme="3" line_length="6">mi vsaďte svatý kříž.</l>
+     <l n="11" met="01000101" line_length="8">Můj čtenáři, až půjdeš kol,</l>
+     <l n="12" met="000100" rhyme="3" line_length="6">zda též se pomodlíš?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

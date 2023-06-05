@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LES QUAIS</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_les-quais</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LES QUAIS</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LES QUAIS</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+4+4">Quais de Paris ! Beaux souvenirs ! J’étais agile,</l>
+     <l n="2" rhyme="b" line_length="6+6">J’étais, sinon bien riche, à mon aise, en ces temps…</l>
+     <l n="3" rhyme="b" line_length="6+6">J’étais jeune et j’avais des goûts très militants,</l>
+     <l n="4" rhyme="a" line_length="12">Tel un bon iconographobibliophile.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Loin de moi l’orgueil sot de me prétendre habile,</l>
+     <l n="6" rhyme="b" line_length="6+6">Même alors ! Mais c’étaient de précieux instants,</l>
+     <l n="7" rhyme="b" line_length="6−6">Perdus ou non dans des déboires persistants</l>
+     <l n="8" rhyme="a" line_length="6+6">Pour les prix… et le reste ! Et pas la moindre bile !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">La Seine s’allongeait — elle s’allonge encor —</l>
+     <l n="10" rhyme="c" line_length="6+6">Comme un serpent jaspé de vert, de noir et d’or…</l>
+     <l n="11" rhyme="d" line_length="6+6">Le vent frémit toujours… L’aimable paysage !…</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Mais bouquiner, n’y plus songer ! De vils pisteurs</l>
+     <l n="13" rhyme="d" line_length="6+6">Pour les libraires ont exercé leur ravage,</l>
+     <l n="14" rhyme="e" line_length="6+6">Et les boîtes ont fait la nique aux amateurs.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

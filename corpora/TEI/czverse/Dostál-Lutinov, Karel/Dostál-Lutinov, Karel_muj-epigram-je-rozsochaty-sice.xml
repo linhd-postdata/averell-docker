@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Můj epigram je rozsochatý sice,</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">7</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_muj-epigram-je-rozsochaty-sice</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Můj epigram je rozsochatý sice,</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Můj epigram je rozsochatý sice,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100010" rhyme="1" line_length="11">Můj epigram je rozsochatý sice, </l>
+     <l n="2" met="1000101000" rhyme="1" line_length="10">nevadí však, slečno kadeřnice:</l>
+     <l n="3" met="10010101010" rhyme="1" line_length="11">Pilníček musí hrany mít a špice!</l>
+     <l n="4" met="100010" rhyme="2" line_length="6">Za žezlem se točí</l>
+     <l n="5" met="1010" rhyme="3" line_length="4">v jiné sféry,</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">bratře, nejen oči,</l>
+     <l n="7" met="101000" rhyme="3" line_length="6">také karaktéry!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

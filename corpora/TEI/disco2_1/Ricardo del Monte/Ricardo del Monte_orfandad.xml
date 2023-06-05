@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Orfandad</title>
+    <author>Ricardo del Monte</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ricardo del Monte_orfandad</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Orfandad</title>
+     <author>Ricardo del Monte</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Orfandad</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---+-">¿Creíste que eran almas las estrellas,</l>
+     <l n="2" met="--++---+-+-">como tú tristes, que en la niebla oscura</l>
+     <l n="3" met="+-+--+---+-">velan esa reciente sepultura</l>
+     <l n="4" met="-+---+---+-">y trémulas escuchan tus querellas!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-++--++-+-">Niña, no esperes que te expriman ellas</l>
+     <l n="6" met="+--+-+---+-">dulce cordial que alivie tu amargura,</l>
+     <l n="7" met="-+-+-+---+-">cuando un raudal de angélica ternura</l>
+     <l n="8" met="+--+---+-+-">orla de perlas tus pestañas bellas.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+-+-">Llora infeliz, junto al ciprés sombrío;</l>
+     <l n="10" met="++-+---+-+-">baja esos ojos que volviste al cielo</l>
+     <l n="11" met="--+--+---+-">y en la fosa derramen su rocío.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">Doblega, sauce, tu ramaje al suelo.</l>
+     <l n="13" met="-+-+---+-+-">De arriba vienen el calor y el frío,</l>
+     <l n="14" met="-+-+---+-+-">la luz y el rayo; pero no el consuelo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

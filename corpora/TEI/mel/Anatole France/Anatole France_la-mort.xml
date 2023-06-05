@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La mort</title>
+    <author>Anatole France</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Anatole France_la-mort</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La mort</title>
+     <author>Anatole France</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La mort</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Si la vierge vers toi jette sous les ramures</l>
+     <l n="2" rhyme="b" line_length="6+6">Le rire par sa mère à ses lèvres appris ;</l>
+     <l n="3" rhyme="b" line_length="6+6">Si, tiède dans son corps dont elle sait le prix,</l>
+     <l n="4" rhyme="a" line_length="6+6">Le désir a gonflé ses formes demi-mûres ;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Le soir, dans la forêt pleine de frais murmures,</l>
+     <l n="6" rhyme="b" line_length="6+6">Si, méditant d'unir vos chairs et vos esprits,</l>
+     <l n="7" rhyme="b" line_length="6+6">Vous mêlez, de sang jeune et de baisers fleuris,</l>
+     <l n="8" rhyme="a" line_length="6+6">Vos lèvres, en jouant, teintes du suc des mûres ;</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Si le besoin d'aimer vous caresse et vous mord,</l>
+     <l n="10" rhyme="c" line_length="6+6">Amants, c'est que déjà plane sur vous la Mort :</l>
+     <l n="11" rhyme="d" line_length="6+6">Son aiguillon fait seul d'un couple un dieu qui crée.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Le sein d'un immortel ne saurait s'embraser.</l>
+     <l n="13" rhyme="d" line_length="6+6">Louez, vierges, amants, louez la Mort sacrée,</l>
+     <l n="14" rhyme="e" line_length="6+6">Puisque vous lui devez l'ivresse du baiser.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

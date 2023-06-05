@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Zlatá pšenice.</title>
+    <author>Hajniš, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hajniš, František_zlata-psenice</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Zlatá pšenice.</title>
+     <author>Hajniš, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Zlatá pšenice.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01001010" rhyme="1" line_length="8">Zde překrásný domek stával,</l>
+     <l n="2" met="10010100" rhyme="2" line_length="8">Okrasa celé ulice,</l>
+     <l n="3" met="10100100" rhyme="2" line_length="8">Nazván: U zlaté pšenice;</l>
+     <l n="4" met="10100100" rhyme="1" line_length="8">Švárný mladík v něm zůstával.</l>
+     <l n="5" met="101010" rhyme="3" line_length="6">Přišly bujné časy,</l>
+     <l n="6" met="101010" rhyme="3" line_length="6">Zlaté spadly klasy,</l>
+     <l n="7" met="100100" rhyme="4" line_length="6">Pšenici vymlátil,</l>
+     <l n="8" met="101010" rhyme="4" line_length="6">Celý domek zklátil;</l>
+     <l n="9" met="100010" rhyme="5" line_length="6">Nyní když se blížím,</l>
+     <l n="10" met="101010" rhyme="5" line_length="6">Jaký znak to zhlížím?</l>
+     <l n="11" met="100100" rhyme="6" line_length="6">Zrak-li mne nemámí:</l>
+     <l n="12" met="100010" rhyme="6" line_length="6">„U pšeničné slámy.“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

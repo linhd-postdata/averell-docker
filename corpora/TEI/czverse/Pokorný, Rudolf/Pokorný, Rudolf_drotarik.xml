@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Drotařík.</title>
+    <author>Pokorný, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">27</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný, Rudolf_drotarik</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Drotařík.</title>
+     <author>Pokorný, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Drotařík.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100100" line_length="9">Viděl jsem drotara na horách,</l>
+     <l n="2" met="010010010" rhyme="1" line_length="9">jak často se po kraji vídá:</l>
+     <l n="3" met="100100100" line_length="9">báťou mu slovenská poroba</l>
+     <l n="4" met="010010010" rhyme="1" line_length="9">a maměnkou trenčanská bída...</l>
+     <l n="5" met="010100" line_length="6">Až půjdeš okolo,</l>
+     <l n="6" met="1001" rhyme="2" line_length="4">u nás se stav:</l>
+     <l n="7" met="100100" line_length="6">dobře nám, drotare,</l>
+     <l n="8" met="0101" rhyme="2" line_length="4">co třeba, sprav –</l>
+     <l n="9" met="10010" rhyme="1" line_length="5">maměnka přidá!</l>
+    </lg>
+    <lg n="2">
+     <l n="10" met="100100100" line_length="9">Nereptal drotařík na báťu</l>
+     <l n="11" met="010010010" rhyme="3" line_length="9">i s maměnkou vycházel v míru:</l>
+     <l n="12" met="100100100" line_length="9">„Jakáž to byla by rodinka,</l>
+     <l n="13" met="010010010" rhyme="3" line_length="9">by na svého zabudla Jíru?“–</l>
+     <l n="14" met="010100" line_length="6">Až půjdeš okolo,</l>
+     <l n="15" met="1001" rhyme="4" line_length="4">u nás se stav:</l>
+     <l n="16" met="100100" line_length="6">dobře nám, drotare,</l>
+     <l n="17" met="1001" rhyme="4" line_length="4">po Čechách sprav</l>
+     <l n="18" met="10010" rhyme="3" line_length="5">v budoucnosť víru!</l>
+    </lg>
+    <lg n="3">
+     <l n="19" met="100100100" line_length="9">Vyprávěl drotar nám nejednou</l>
+     <l n="20" met="010010010" rhyme="5" line_length="9">svou čarovnou nitranskou zkazku:</l>
+     <l n="21" met="110100101" line_length="9">hoj, což mu zajiskřil vlhký zrak,</l>
+     <l n="22" met="010010010" rhyme="5" line_length="9">což vymklo se čelo mu z vrásků!...</l>
+     <l n="23" met="010100" line_length="6">Až půjdeš okolo,</l>
+     <l n="24" met="1001" rhyme="6" line_length="4">u nás se stav:</l>
+     <l n="25" met="100100" line_length="6">dobře nám po Čechách</l>
+     <l n="26" met="1001" rhyme="6" line_length="4">zdrátuj a sprav</l>
+     <l n="27" met="10010" rhyme="5" line_length="5">svornosť a lásku!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

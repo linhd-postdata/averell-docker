@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La fuente del paraíso</title>
+    <author>Jerónimo Ossa</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jerónimo Ossa_la-fuente-del-paraiso</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La fuente del paraíso</title>
+     <author>Jerónimo Ossa</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La fuente del paraíso</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">De una colina en la gentil ladera,</l>
+     <l n="2" met="-++--+---+-">al fin de una quebrada primorosa,</l>
+     <l n="3" met="+--+-+---+-">hay una oculta fuente misteriosa</l>
+     <l n="4" met="-++--+---+-">bajo un bosque de crespa enredadera.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-++--+---+-">Feliz vive el amor en su ribera,</l>
+     <l n="6" met="-+---+-+-+-">el genio del placer allí reposa</l>
+     <l n="7" met="--+--+---+-">y en su linfa escondida y milagrosa</l>
+     <l n="8" met="+--+---+-+-">calma su sed la humanidad entera.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+---+-+-">Desde su fondo de pulida grama</l>
+     <l n="10" met="--+--+---+-">en vivida corriente inagotable</l>
+     <l n="11" met="-+-+---+-+-">la ardiente savia de los goces mana.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+---+-">Produce una embriaguez inexplicable.</l>
+     <l n="13" met="--+-++---+-">Y aunque suele dar muerte su bebida</l>
+     <l n="14" met="-+-+-+---+-">en ella está el principio de la vida.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nepokoj.</title>
+    <author>Furch, Vincenc</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Furch, Vincenc_nepokoj</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nepokoj.</title>
+     <author>Furch, Vincenc</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nepokoj.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010" rhyme="1" line_length="8">Nechci jen u nohou děvy</l>
+     <l n="2" met="10010010" rhyme="1" line_length="8">Zpívati milostné zpěvy,</l>
+     <l n="3" met="1010100" rhyme="2" line_length="7">Nechci jenom jedině</l>
+     <l n="4" met="1010100" rhyme="2" line_length="7">Živ být lásce k dívčině.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10110010" rhyme="3" line_length="8">Duše má činnosti žádá,</l>
+     <l n="6" met="10010010" rhyme="3" line_length="8">Vznáší se do výšky ráda,</l>
+     <l n="7" met="1001100" rhyme="4" line_length="7">Jímá ji let orlový,</l>
+     <l n="8" met="1001100" rhyme="4" line_length="7">Jímá ji zvuk hromový!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

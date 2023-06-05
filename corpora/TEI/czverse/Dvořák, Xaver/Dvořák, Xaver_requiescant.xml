@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Requiescant!</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_requiescant</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Requiescant!</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Requiescant!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010001010" rhyme="1" line_length="11">Juž zrnko poslední mně z ruky padlo</l>
+     <l n="2" met="01000101010" rhyme="1" line_length="11">a upomínky žalné mrazem schladlo</l>
+     <l n="3" met="0101010100" rhyme="2" line_length="10">v mém nitru svaté náhle nadšení;</l>
+     <l n="4" met="1100010100" rhyme="2" line_length="10">ach, poslední? proč ptám se v zachvění?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010001010" rhyme="1" line_length="11">A kolem jakoby se temno kladlo</l>
+     <l n="6" met="01010001010" rhyme="1" line_length="11">a rosou v oko mé se zvolna kradlo:</l>
+     <l n="7" met="0101010100" rhyme="2" line_length="10">proč myslím na vás spáči umdlení,</l>
+     <l n="8" met="0101000100" rhyme="2" line_length="10">jež v mukách čekáte své vzkřísení?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010100010" rhyme="3" line_length="11">Nad trýzní vaší soucitem se chvěji:</l>
+     <l n="10" met="11010101000" rhyme="3" line_length="11">ó Matko, pomoz v jejich beznaději,</l>
+     <l n="11" met="0101001100" rhyme="4" line_length="10">jich zmírni muka a ztiš bolesti,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="0100010100" rhyme="4" line_length="10">buď edenu jim blízkou předzvěstí...</l>
+     <l n="13" met="01010101000" rhyme="5" line_length="11">Snad jednou někdo, duše opuštěné,</l>
+     <l n="14" met="01010001000" rhyme="5" line_length="11">se na mě v chvíli své též rozpomene.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

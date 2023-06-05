@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Journée de printemps</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_journee-de-printemps</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Journée de printemps</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Journée de printemps</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Ici, le rocher, l'arbre et l'eau</l>
+     <l n="2" rhyme="b" line_length="8">Font pour mon œil ce qu'il convoite.</l>
+     <l n="3" rhyme="b" line_length="8">Tout ce qui luit, tremble ou miroite,</l>
+     <l n="4" rhyme="a" line_length="8">Forme un miraculeux tableau.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="b" line_length="8">Sur le murmure qui se ouate</l>
+     <l n="6" rhyme="a" line_length="8">Le rossignol file un solo :</l>
+     <l n="7" rhyme="a" line_length="8">L'écorce blanche du bouleau</l>
+     <l n="8" rhyme="b" line_length="8">Met du mystique dans l'air moite.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="8">À la fois légère et touffue</l>
+     <l n="10" rhyme="c" line_length="8">La lumière danse à ma vue</l>
+     <l n="11" rhyme="d" line_length="8">Derrière l'écran du zéphyr ;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="8">Je m'attarde, et le soir achève</l>
+     <l n="13" rhyme="d" line_length="8">Avec de l'ombre et du soupir</l>
+     <l n="14" rhyme="e" line_length="8">La félicité de mon rêve.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

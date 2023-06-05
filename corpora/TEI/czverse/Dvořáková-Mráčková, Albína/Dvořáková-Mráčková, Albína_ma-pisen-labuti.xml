@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Má píseň labutí.</title>
+    <author>Dvořáková-Mráčková, Albína</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořáková-Mráčková, Albína_ma-pisen-labuti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Má píseň labutí.</title>
+     <author>Dvořáková-Mráčková, Albína</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Má píseň labutí.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" line_length="8">Pohřbili můj život mladý</l>
+     <l n="2" met="10101010" rhyme="1" line_length="8">v kruté hloubi dravé trýzně,</l>
+     <l n="3" met="10011000" line_length="8">vznesly se, aj! nad propastí</l>
+     <l n="4" met="10100010" rhyme="1" line_length="8">tóny labutí mé písně.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101000" line_length="8">A ta píseň – nesmrtelna</l>
+     <l n="6" met="10101010" rhyme="2" line_length="8">jiskra, z žití rumů vzlétla,</l>
+     <l n="7" met="10001010" line_length="8">ve život se vtělíc nový –</l>
+     <l n="8" met="10001000" rhyme="2" line_length="8">v dítku mém zas rozekvětla.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

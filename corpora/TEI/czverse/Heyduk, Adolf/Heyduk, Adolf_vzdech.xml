@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vzdech.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">7</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_vzdech</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vzdech.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vzdech.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010001" rhyme="1" line_length="8">Pln zvuků skřivánčích je vzduch –</l>
+     <l n="2" met="0100010" rhyme="2" line_length="7">jak rozkošné to ráno!</l>
+     <l n="3" met="0101000" rhyme="2" line_length="7">Vše jako zčarováno:</l>
+     <l n="4" met="110101" rhyme="1" line_length="6">les, pole, řeka, luh;</l>
+     <l n="5" met="0101010" rhyme="3" line_length="7">jen píseň v mysli hnutí</l>
+     <l n="6" met="0101010" rhyme="3" line_length="7">jak motýl v kukle smutí;</l>
+     <l n="7" met="010101" rhyme="1" line_length="6">zda křídla dá jí Bůh?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

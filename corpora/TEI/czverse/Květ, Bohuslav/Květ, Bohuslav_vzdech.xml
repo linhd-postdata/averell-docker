@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VZDECH.</title>
+    <author>Květ, Bohuslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Květ, Bohuslav_vzdech</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VZDECH.</title>
+     <author>Květ, Bohuslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VZDECH.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010100010" rhyme="1" line_length="13">Když Osud zdeptá v prach a do krve nás zraní,</l>
+     <l n="2" met="01000100110" rhyme="2" line_length="11">že bez kletby i bez slzí jdem v lože,</l>
+     <l n="3" met="0001010001010" rhyme="1" line_length="13">tu přec, než přijde milosrdný spánek, maní</l>
+     <l n="4" met="01010100010" rhyme="2" line_length="11">si vzdechnem slábi, zlomeni: „Můj Bože!“</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010101010" rhyme="3" line_length="13">A divná věc... Co tvrdý vzdor tu nemoh’ zmoci,</l>
+     <l n="6" met="01001101010" rhyme="2" line_length="11">ni pokorných slz proud, když jindy v lože</l>
+     <l n="7" met="0100110001010" rhyme="3" line_length="13">jsme zoufalí šli, uklidnil nás, tichou nocí</l>
+     <l n="8" met="01010101010" rhyme="2" line_length="11">jenž maní zazněl, vzdech: „Můj Bože, Bože!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Componere magnis.</title>
+    <author>Karas, Josef František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Karas, Josef František_componere-magnis</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Componere magnis.</title>
+     <author>Karas, Josef František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Componere magnis.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100110" line_length="10">Mistra Husa studentstvo chce uctít,</l>
+     <l n="2" met="101001101" rhyme="1" line_length="9">Praha na Husa dá korun sto.</l>
+     <l n="3" met="1010101010" rhyme="2" line_length="10">Hus byl pouhý mistr, tož to stačí;</l>
+     <l n="4" met="1010101010" rhyme="2" line_length="10">kacíř k tomu! Heja, kam se tlačí,</l>
+     <l n="5" met="101010100" rhyme="1" line_length="9">třeba trefit pánům na gusto!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

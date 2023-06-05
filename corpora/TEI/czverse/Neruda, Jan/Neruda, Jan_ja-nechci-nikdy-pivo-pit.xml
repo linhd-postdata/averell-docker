@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Já nechci nikdy pivo pít,</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_ja-nechci-nikdy-pivo-pit</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Já nechci nikdy pivo pít,</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Já nechci nikdy pivo pít,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101" line_length="8">Já nechci nikdy pivo pít, </l>
+     <l n="2" met="1100010" rhyme="1" line_length="7">chci červené jen víno,</l>
+     <l n="3" met="10010100" line_length="8">po pivě bývá v myšlénkách</l>
+     <l n="4" met="0101010" rhyme="1" line_length="7">mých skoro strašně líno.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" line_length="8">Pro pivo v českém pokroku</l>
+     <l n="6" met="1001010" rhyme="1" line_length="7">jde vše až hrůza líno,</l>
+     <l n="7" met="01010100" line_length="8">a chcem-li pomoct lidstvu dál,</l>
+     <l n="8" met="0101010" rhyme="1" line_length="7">nuž víno – víno – víno!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

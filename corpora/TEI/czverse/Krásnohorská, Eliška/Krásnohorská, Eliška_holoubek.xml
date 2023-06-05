@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Holoubek.</title>
+    <author>Krásnohorská, Eliška</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Krásnohorská, Eliška_holoubek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Holoubek.</title>
+     <author>Krásnohorská, Eliška</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Holoubek.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000100" line_length="7">Přiletěl mi holoubek</l>
+     <l n="2" met="101000" rhyme="1" line_length="6">hravý na okénko,</l>
+     <l n="3" met="1010100" line_length="7">tvář mi hladil křídloma,</l>
+     <l n="4" met="101000" rhyme="1" line_length="6">sedl na raménko,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010101" line_length="7">upřel na mne vroucný hled...</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">ó vy oči klamné!</l>
+     <l n="7" met="0010100" line_length="7">když mne Jeník rozhněval,</l>
+     <l n="8" met="010110" rhyme="2" line_length="6">tak, ba tak zřel na mne!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Cervantes</title>
+    <author>Benito Mas y Prat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Benito Mas y Prat_a-cervantes</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Cervantes</title>
+     <author>Benito Mas y Prat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Cervantes</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Si todo el peso del orgullo humano</l>
+     <l n="2" met="++---+---+-">un tiempo gravitó sobre el «Quijote»,</l>
+     <l n="3" met="-+-+-+---+-">alzándose en titánico rebote</l>
+     <l n="4" met="-++--+++-+-">al fin lo sacudió cual polvo vano.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">Su autor, de los ingenios soberano,</l>
+     <l n="6" met="-----+---+-">y de la Edad Moderna sacerdote,</l>
+     <l n="7" met="-+-+-+---+-">venció a Roldán, Orlando y Lamarote,</l>
+     <l n="8" met="--+--+-+-+-">derribando a los tres con una mano.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-+---+-">Como el alud que rueda en la montaña,</l>
+     <l n="10" met="-+---+---+-">el libro sin rival y sin segundo,</l>
+     <l n="11" met="-+---+---+-">rodó desde el palacio a la cabaña.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">Logrando el héroe, pensador profundo,</l>
+     <l n="13" met="---+---+-+-">con la tizona, contener a España</l>
+     <l n="14" met="---+---+-+-">y con la pluma, conmover al mundo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

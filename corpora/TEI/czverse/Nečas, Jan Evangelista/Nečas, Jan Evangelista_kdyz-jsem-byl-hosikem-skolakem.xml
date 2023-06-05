@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Když jsem byl hošíkem, školákem,</title>
+    <author>Nečas, Jan Evangelista</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nečas, Jan Evangelista_kdyz-jsem-byl-hosikem-skolakem</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Když jsem byl hošíkem, školákem,</title>
+     <author>Nečas, Jan Evangelista</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Když jsem byl hošíkem, školákem,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="000100100" line_length="9">Když jsem byl hošíkem, školákem, </l>
+     <l n="2" met="10010010" rhyme="1" line_length="8">smrt mi mou matičku vzala –</l>
+     <l n="3" met="101100100" line_length="9">Od těch dob vichřice přemnohá</l>
+     <l n="4" met="10010010" rhyme="1" line_length="8">přes moji hlavu se hnala.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100100" line_length="9">Poznal jsem hořce a hluboko</l>
+     <l n="6" met="10010010" rhyme="2" line_length="8">ve dne i v půlnočním bdění –</l>
+     <l n="7" met="100100100" line_length="9">Nad srdce matčino na světě</l>
+     <l n="8" met="10010010" rhyme="2" line_length="8">lepšího místa že není!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

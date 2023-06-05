@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sur l'Herbe</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_sur-l-herbe</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sur l'Herbe</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sur l'Herbe</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">— L’abbé divague. — Et toi, marquis,</l>
+     <l n="2" rhyme="b" line_length="8">Tu mets de travers ta perruque.</l>
+     <l n="3" rhyme="a" line_length="8">— Ce vieux vin de Chypre est exquis</l>
+     <l n="4" rhyme="b" line_length="8">Moins, Camargo, que votre nuque.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">— Ma flamme… — Do, mi, sol, la, si,</l>
+     <l n="6" rhyme="b" line_length="8">L’abbé, ta noirceur se dévoile !</l>
+     <l n="7" rhyme="a" line_length="8">— Que je meure, mesdames, si</l>
+     <l n="8" rhyme="b" line_length="8">Je ne vous décroche une étoile !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">— Je voudrais être petit chien !</l>
+     <l n="10" rhyme="b" line_length="8">— Embrassons nos bergères, l’une</l>
+     <l n="11" rhyme="a" line_length="8">Après l’autre. — Messieurs, eh bien ?</l>
+     <l n="12" rhyme="b" line_length="8">— Do, mi, sol. — Hé! bonsoir la Lune !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

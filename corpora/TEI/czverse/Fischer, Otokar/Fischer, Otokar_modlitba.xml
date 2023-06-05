@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MODLITBA</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_modlitba</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MODLITBA</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MODLITBA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010100" rhyme="1" line_length="8">Jde listím lesa vonný van</l>
+     <l n="2" met="010010010" rhyme="2" line_length="9">a překotně řine se řeka,</l>
+     <l n="3" met="10010101" rhyme="1" line_length="8">oblakům k výškám kyne pán</l>
+     <l n="4" met="010110010" rhyme="2" line_length="9">a duše má na zemi kleká.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" rhyme="3" line_length="8">Vám dvěma, jež jsem svěřil dnes</l>
+     <l n="6" met="10000010" rhyme="4" line_length="8">milostiplnému klínu,</l>
+     <l n="7" met="01010101" rhyme="3" line_length="8">vám žehnej bůh – a lid i les</l>
+     <l n="8" met="01001000" rhyme="4" line_length="8">vám dejte svou domovinu.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010101" rhyme="5" line_length="8">Dechem svých prsou chci tě hřát,</l>
+     <l n="10" met="0101000" rhyme="6" line_length="7">mé dílo nestvořené,</l>
+     <l n="11" met="010010101" rhyme="5" line_length="9">a nade vše živé mám tě rád,</l>
+     <l n="12" met="0101000" rhyme="6" line_length="7">mé dítě nezrozené.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="11010100" rhyme="7" line_length="8">Jde světlým světem tvůrčí van</l>
+     <l n="14" met="01001010" rhyme="8" line_length="8">a milostně zpívá řeka,</l>
+     <l n="15" met="10010101" rhyme="7" line_length="8">večerem vonným kráčí pán</l>
+     <l n="16" met="010110010" rhyme="8" line_length="9">a duše má mlčí a čeká.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SRDCE!</title>
+    <author>Racek, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Racek, Adolf_srdce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SRDCE!</title>
+     <author>Racek, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SRDCE!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010010" line_length="11">Proklaté, proklaté, proklaté srdce,</l>
+     <l n="2" met="10010101001" line_length="11">svíjej se, pukej, praskej, chytni a shoř!</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="10010010010" line_length="11">Bezedná nebesa, nesmírná studně</l>
+     <l n="4" met="1001010101" line_length="10">s ještěry mračen, s mloky hvězd a chmur!</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="10010010010" line_length="11">Závratná, otravná, zakletá studně,</l>
+     <l n="6" met="10010010100" line_length="11">zalitá krví a žlučí červánků!</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="10010010010" line_length="11">Cisterno příšerná, zrcadlo černé,</l>
+     <l n="8" met="10010101011" line_length="11">drtící duhu touhy, bledou snů modř!</l>
+    </lg>
+    <lg n="5">
+     <l n="9" met="10010010010" line_length="11">Šílící zatmělým azurem nocí,</l>
+     <l n="10" met="10010010100" line_length="11">oněmlá pýchou a slastí v bolestech!</l>
+    </lg>
+    <lg n="6">
+     <l n="11" met="10010010010" line_length="11">Proklaté, proklaté, proklaté srdce,</l>
+     <l n="12" met="1011010010100" line_length="13">v pekla žár vrhni vesmír a lidstvo zuřící,</l>
+     <l n="13" met="10010101001" line_length="11">svíjej se, pukej, praskej, chytni a shoř!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

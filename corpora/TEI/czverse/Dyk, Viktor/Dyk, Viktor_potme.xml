@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>POTMĚ</title>
+    <author>Dyk, Viktor</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dyk, Viktor_potme</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>POTMĚ</title>
+     <author>Dyk, Viktor</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>POTMĚ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010001000" line_length="14">Tenkráte vkročil jsem do jejího pokojíku.</l>
+     <l n="2" met="100101001001000" line_length="15">U kamen potmě seděla s rukama skříženýma.</l>
+     <l n="3" met="01000100010" rhyme="1" line_length="11">„Proč rozsvěcuješ?“ usmála se jemně.</l>
+     <l n="4" met="01010101010" rhyme="1" line_length="11">„Když světlo zhasnu, mrtví chodí ke mně.“</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100101001" rhyme="2" line_length="9">Zhasl jsem světlo, zatajil dech.</l>
+     <l n="6" met="10010100" rhyme="2" line_length="8">Kroků jsem přece nezaslech’.</l>
+     <l n="7" met="0101010100" rhyme="3" line_length="10">Snad chodí matka krokem nejtišším?</l>
+     <l n="8" met="10010100" rhyme="3" line_length="8">A snad já dosud neslyším?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

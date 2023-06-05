@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Rybářská píseň.</title>
+    <author>Jungmann, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jungmann, Josef_rybarska-pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Rybářská píseň.</title>
+     <author>Jungmann, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Rybářská píseň.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100100" rhyme="1" line_length="9">Osuda rybákům lahodí,</l>
+     <l n="2" met="101001010" rhyme="1" line_length="9">Voda pole jim, pluh je lodí;</l>
+     <l n="3" met="100100100" rhyme="1" line_length="9">Semene na záhon nehodí,</l>
+     <l n="4" met="100010100" rhyme="1" line_length="9">Ve keseru žeň však nachodí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101011100" rhyme="2" line_length="9">Kudy zemi vln tok protéká,</l>
+     <l n="6" met="101000100" rhyme="2" line_length="9">Role zasahá jich daleká;</l>
+     <l n="7" met="101001010" rhyme="2" line_length="9">V moři bohatý lov je čeká,</l>
+     <l n="8" met="100010100" rhyme="2" line_length="9">Hlubina i žádná neleká.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100010100" rhyme="3" line_length="9">Nebesa se mračnem zatají,</l>
+     <l n="10" met="101010010" rhyme="3" line_length="9">Vlny vody mutné se vlají,</l>
+     <l n="11" met="101010100" rhyme="3" line_length="9">Ale oni bouřem nelají;</l>
+     <l n="12" met="101010100" rhyme="3" line_length="9">V moku ryby kalném lapají.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100010010" rhyme="4" line_length="9">Rybaři ti švarní a pleší</l>
+     <l n="14" met="010010010" rhyme="4" line_length="9">Vždy u vodě ladné se těší;</l>
+     <l n="15" met="100100100" rhyme="4" line_length="9">Lichota nemá v nich peleší,</l>
+     <l n="16" met="101010010" rhyme="4" line_length="9">Proti Bohu řídko kdy hřeší.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="001000100" rhyme="5" line_length="9">Kdy se tuto pak dost naloví,</l>
+     <l n="18" met="100010100" rhyme="5" line_length="9">V životě si věčném pohoví;</l>
+     <l n="19" met="101010010" rhyme="5" line_length="9">Kudy v nebe, Petrem se doví,</l>
+     <l n="20" met="100101100" rhyme="5" line_length="9">Bohu je, rybák, rád opoví.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

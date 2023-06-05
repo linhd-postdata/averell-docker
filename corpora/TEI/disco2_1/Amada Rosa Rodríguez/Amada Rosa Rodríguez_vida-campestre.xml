@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vida campestre</title>
+    <author>Amada Rosa Rodríguez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Amada Rosa Rodríguez_vida-campestre</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vida campestre</title>
+     <author>Amada Rosa Rodríguez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vida campestre</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+-+-+-">El céfiro ligero, suavemente</l>
+     <l n="2" met="-+---+---+-">las flores del jardín acariciando,</l>
+     <l n="3" met="--+--+---+-">a lo lejos el sol agonizando</l>
+     <l n="4" met="---+-+---+-">en su rosado lecho de occidente.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">Cerca de aquí un arroyo transparente,</l>
+     <l n="6" met="-++--+---+-">al pie de una colina murmurando;</l>
+     <l n="7" met="---+-+---+-">y los frondosos árboles mirando</l>
+     <l n="8" met="--+--+---+-">sus siluetas que copia la corriente.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+-+---+-">No lejos una palma majestuosa</l>
+     <l n="10" met="--+--+-+-+-">sus penachos meciendo a gran altura;</l>
+     <l n="11" met="-+---+---+-">la noche, con su sombra misteriosa,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">borrando los encantos de Natura;</l>
+     <l n="13" met="-++--+---+-">y yo sola, en mi alcoba silenciosa,</l>
+     <l n="14" met="-+---+---+-">buscando distracción en la lectura.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

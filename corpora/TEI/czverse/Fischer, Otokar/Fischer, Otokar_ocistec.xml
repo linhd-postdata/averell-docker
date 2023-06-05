@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Očistec</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_ocistec</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Očistec</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Očistec</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000" rhyme="1" line_length="4">Siracusa.</l>
+     <l n="2" met="10010010010" rhyme="1" line_length="11">Idyla medu a pekelná hrůza.</l>
+     <l n="3" met="001001000" rhyme="2" line_length="9">Tam, kde po stu a po tisíci</l>
+     <l n="4" met="1001001000" rhyme="2" line_length="10">padali zajatci-robotníci,</l>
+     <l n="5" met="10010010" rhyme="3" line_length="8">do zprahle kamenných lomů</l>
+     <l n="6" met="1000010010010" rhyme="3" line_length="13">nasázeli teď omamně dýšících stromů.</l>
+     <l n="7" met="001001000" rhyme="4" line_length="9">Tak je podsvětí porajštěno,</l>
+     <l n="8" met="0100101001" rhyme="5" line_length="10">tak z otrocké jámy vonný je klín.</l>
+     <l n="9" met="101010010" rhyme="4" line_length="9">Mají pro to děsivé jméno:</l>
+     <l n="10" met="1100" rhyme="5" line_length="4">lom Venušin.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

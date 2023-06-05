@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Mme J…</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_a-mme-j</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Mme J…</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Mme J…</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="14">Je vous ai promis mon sonnet pour ce soir.</l>
+     <l n="2" rhyme="b" line_length="6+6">En revanche vous m’avez promis une récompense</l>
+     <l n="3" rhyme="b" line_length="6+8">Certes imméritée, et voici que j’y pense.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="a" line_length="4+6">Mais que pour moi l’avenir serait noir</l>
+     <l n="5" rhyme="b" line_length="6+6">Si, pendant que je rêve à la bonne bombance</l>
+     <l n="6" rhyme="b" line_length="6+6">Espérée et promise et voici que je panse</l>
+     <l n="7" rhyme="a" line_length="6−6">La blessure que me ferait de ne pas voir</l>
+    </lg>
+    <lg n="3">
+     <l n="8" rhyme="c" line_length="6+6">De mes yeux presque en pleurs dans cette incertitude</l>
+     <l n="9" rhyme="c" line_length="6+6">Vos yeux sourire avec plus de mansuétude</l>
+     <l n="10" rhyme="d" line_length="6+6">Que de coutume envers Pauvre et, de plus l’auteur.</l>
+    </lg>
+    <lg n="4">
+     <l n="11" rhyme="e" line_length="6+6">Et j’ai fait ces vers-ci qu’il fallait que je fisse,</l>
+     <l n="12" rhyme="e" line_length="6+6">Ne vous faisant d’ailleurs pas d’autre sacrifice</l>
+     <l n="13" rhyme="d" line_length="6+6">Que de vous plaire un peu, bien qu’un peu radoteur.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

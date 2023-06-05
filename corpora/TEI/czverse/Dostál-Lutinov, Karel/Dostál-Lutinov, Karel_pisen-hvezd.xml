@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Píseň hvězd.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_pisen-hvezd</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Píseň hvězd.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Píseň hvězd.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010010" rhyme="1" line_length="8">Kdys v lůně Slunce, své matky,</l>
+     <l n="2" met="010010110" rhyme="1" line_length="9">jsme, kuřátka, snily sen sladký –</l>
+     <l n="3" met="01001001001" rhyme="2" line_length="11">a všemocnou rukou jsme vrženy v svět.</l>
+     <l n="4" met="010010110" rhyme="1" line_length="9">Teď vesmírem bloudí krok vratký,</l>
+     <l n="5" met="01001010" rhyme="1" line_length="8">kdy schýlíme hlavu zpátky</l>
+     <l n="6" met="01001001" rhyme="2" line_length="8">jak ptáčata na rodnou sněť?</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="010010010" rhyme="3" line_length="9">Tak milion tančíme roků –</l>
+     <l n="8" met="01010010" rhyme="3" line_length="8">už máme píchání v boku –</l>
+     <l n="9" met="0101001" rhyme="4" line_length="7">kde lávka, kam by si sed?</l>
+     <l n="10" met="110010010" rhyme="3" line_length="9">Smrt v srdci – a pochodeň v oku</l>
+     <l n="11" met="01010010" rhyme="3" line_length="8">a svítit do Jeho kroků,</l>
+     <l n="12" met="01001010" rhyme="4" line_length="8">Jenž z ničeho v žití nad zved.</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="010010010" rhyme="5" line_length="9">Tak železnou drahou se ploužit</l>
+     <l n="14" met="010010010" rhyme="5" line_length="9">a neznámým zákonům sloužit,</l>
+     <l n="15" met="11001001" rhyme="4" line_length="8">mít poslušně zamčený ret –</l>
+     <l n="16" met="01010010" rhyme="5" line_length="8">jak maják na břehu toužít</l>
+     <l n="17" met="010010010" rhyme="5" line_length="9">a ku matce nirvaně kroužit,</l>
+     <l n="18" met="01001001" rhyme="4" line_length="8">až v trosky se rozpadne svět...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

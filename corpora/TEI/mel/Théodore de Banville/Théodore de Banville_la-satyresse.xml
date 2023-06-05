@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Satyresse</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_la-satyresse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Satyresse</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Satyresse</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Ce n'est pas dans une maison</l>
+     <l n="2" rhyme="b" line_length="8">Qu'elle endort tes joyeuses fièvres,</l>
+     <l n="3" rhyme="b" line_length="8">Printemps charmeur, quand tu nous sèvres</l>
+     <l n="4" rhyme="a" line_length="8">Du lait amer de la Raison ;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Mais par les prés en floraison</l>
+     <l n="6" rhyme="b" line_length="8">Elle a sa double flûte aux lèvres !</l>
+     <l n="7" rhyme="b" line_length="8">Indocile comme les chèvres,</l>
+     <l n="8" rhyme="a" line_length="8">Elle s'assied dans le gazon,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="8">Et jeune, folâtre, ingénue,</l>
+     <l n="10" rhyme="c" line_length="8">Offrant sa belle gorge nue</l>
+     <l n="11" rhyme="d" line_length="8">Au zéphyr de ces lieux déserts,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="8">La Satyresse aux yeux fantasques</l>
+     <l n="13" rhyme="d" line_length="8">Fait danser, en jouant des airs,</l>
+     <l n="14" rhyme="e" line_length="8">Une troupe de petits masques.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

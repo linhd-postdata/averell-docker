@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Querelle</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_querelle</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Querelle</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Querelle</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Lorsque ma sœur et moi, dans les forêts profondes,</l>
+     <l n="2" rhyme="b" line_length="6+6">Nous avions déchiré nos pieds sur les cailloux,</l>
+     <l n="3" rhyme="b" line_length="6+6">En nous baisant au front tu nous appelais fous,</l>
+     <l n="4" rhyme="a" line_length="6+6">Après avoir maudit nous courses vagabondes.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Puis, comme un vent d'été, brisant les fraîches ondes,</l>
+     <l n="6" rhyme="b" line_length="6+6">Mêle deux ruisseaux purs sur un lit calme et doux,</l>
+     <l n="7" rhyme="b" line_length="6+6">Lorsque tu nous tenais tous deux sur tes genoux,</l>
+     <l n="8" rhyme="a" line_length="6+6">Tu mêlais en riant nos chevelures blondes.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Et pendant bien longtemps nous restions là blottis,</l>
+     <l n="10" rhyme="c" line_length="6+6">Heureux, et tu disais parfois : O chers petits !</l>
+     <l n="11" rhyme="d" line_length="6+6">Un jour vous serez grands, et moi je serai vieille !</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Les jours se sont enfuis, d'un vol mystérieux,</l>
+     <l n="13" rhyme="d" line_length="6+6">Mais toujours la jeunesse éclatante et vermeille</l>
+     <l n="14" rhyme="e" line_length="6+6">Fleurit dans ton sourire et brille dans tes yeux.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

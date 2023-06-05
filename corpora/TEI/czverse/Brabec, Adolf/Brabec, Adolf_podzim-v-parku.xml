@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PODZIM V PARKU.</title>
+    <author>Brabec, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">11</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Brabec, Adolf_podzim-v-parku</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PODZIM V PARKU.</title>
+     <author>Brabec, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PODZIM V PARKU.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" rhyme="1" line_length="9">Je všecko hra a přelud stálý,</l>
+     <l n="2" met="11010101" rhyme="2" line_length="8">pojď, půjdem, dítě, v starý sad,</l>
+     <l n="3" met="100101000" rhyme="1" line_length="9">po cestách, kde jsme milovali,</l>
+     <l n="4" met="01000100" rhyme="2" line_length="8">se rozložil dnes listopad.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010100110" line_length="9">Kde dlela láska a květ štěstí,</l>
+     <l n="6" met="01010100" rhyme="3" line_length="8">v těch místech duše okřívá,</l>
+     <l n="7" met="01010100" rhyme="3" line_length="8">když zrak se kolem zadívá.</l>
+    </lg>
+    <lg n="3">
+     <l n="8" met="010111010" rhyme="4" line_length="9">Má drahá, pojď, kol podzim voní,</l>
+     <l n="9" met="01010100" rhyme="2" line_length="8">což na tom, že je listopad,</l>
+     <l n="10" met="100101010" rhyme="4" line_length="9">ve větru list se s listem honí,</l>
+     <l n="11" met="01010101" rhyme="2" line_length="8">v té době s tebou chodím rád!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

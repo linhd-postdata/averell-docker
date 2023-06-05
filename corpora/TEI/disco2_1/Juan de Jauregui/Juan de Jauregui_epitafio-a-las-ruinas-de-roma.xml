@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Epitafio a las ruinas de Roma</title>
+    <author>Juan de Jauregui</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan de Jauregui_epitafio-a-las-ruinas-de-roma</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Epitafio a las ruinas de Roma</title>
+     <author>Juan de Jauregui</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Epitafio a las ruinas de Roma</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">El nombre ausonio, que, ligera y suelta,</l>
+     <l n="2" met="-+++---+-+-">la fama un tiempo resonó, y el culto</l>
+     <l n="3" met="+--+---+-+-">templo tarpeyo, a quien el indio oculto</l>
+     <l n="4" met="-+-+---+-+-">rindió tesoros, y el iberio celta,</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+---+-">aquí difunto yace. Aquí, resuelta</l>
+     <l n="6" met="-+-+---+-+-">la piedra en polvo y el antiguo vulto,</l>
+     <l n="7" met="++-+---+-+-">nos muestra Roma su sepulcro inculto,</l>
+     <l n="8" met="---+--++-+-">en las cenizas de sí misma envuelta.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+---+-+-">Fue rara Fénix, que su cuerpo mismo</l>
+     <l n="10" met="+--+---+-+-">quiso abrasar en encendidas guerras,</l>
+     <l n="11" met="---+---+-+-">porque su vida renovase el vuelo.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+-+-+-">Y si un tiempo rigió las anchas tierras,</l>
+     <l n="13" met="++---+---+-">hoy estiende desde ellas al abismo</l>
+     <l n="14" met="-+-+--+--+-">su sacro imperio, y al empíreo cielo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

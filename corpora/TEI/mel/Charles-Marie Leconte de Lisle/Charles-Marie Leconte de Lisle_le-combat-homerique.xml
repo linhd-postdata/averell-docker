@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Combat homérique</title>
+    <author>Charles-Marie Leconte de Lisle</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Charles-Marie Leconte de Lisle_le-combat-homerique</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Combat homérique</title>
+     <author>Charles-Marie Leconte de Lisle</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Combat homérique</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">De même qu'au soleil l'horrible essaim des mouches</l>
+     <l n="2" rhyme="b" line_length="6+6">Des taureaux égorgés couvre les cuirs velus,</l>
+     <l n="3" rhyme="b" line_length="6+6">Un tourbillon guerrier de peuples chevelus,</l>
+     <l n="4" rhyme="a" line_length="6+6">Hors des nefs, s'épaissit, plein de clameurs farouches.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Tout roule et se confond, souffle rauque des bouches,</l>
+     <l n="6" rhyme="b" line_length="6+6">Bruit des coups, les vivants et ceux qui ne sont plus,</l>
+     <l n="7" rhyme="b" line_length="6+6">Chars vides, étalons cabrés, flux et reflux</l>
+     <l n="8" rhyme="a" line_length="6+6">Des boucliers d'airain hérissés d'éclairs louches.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Les reptiles tordus au front, les yeux ardents,</l>
+     <l n="10" rhyme="c" line_length="6+6">L'aboyeuse Gorgô vole et grince des dents</l>
+     <l n="11" rhyme="d" line_length="6+6">Par la plaine où le sang exhale ses buées.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Zeus, sur le Pavé d'or, se lève, furieux,</l>
+     <l n="13" rhyme="e" line_length="6+6">Et voici que la troupe héroïque des Dieux</l>
+     <l n="14" rhyme="d" line_length="6+6">Bondit dans le combat du faîte des nuées.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Starý kazda.</title>
+    <author>Tůma, Jan Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tůma, Jan Václav_stary-kazda</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Starý kazda.</title>
+     <author>Tůma, Jan Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Starý kazda.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001000" line_length="8">Rybařil jsem, rybařil jsem,</l>
+     <l n="2" met="10001010" rhyme="1" line_length="8">rybky se mi v sítě draly,</l>
+     <l n="3" met="10101000" line_length="8">malé, velké, všelijaké,</l>
+     <l n="4" met="00101000" rhyme="1" line_length="8">ty mi sítě potrhaly.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001000" line_length="8">Kramařil jsem, kramařil jsem,</l>
+     <l n="6" met="10101010" rhyme="1" line_length="8">přišli z blízka, přišli z dáli,</l>
+     <l n="7" met="10101010" line_length="8">hezké oči, pěkné tváře,</l>
+     <l n="8" met="00101000" rhyme="1" line_length="8">ty mi zboží rozebraly.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001000" line_length="8">Dorybařil, dokramařil,</l>
+     <l n="10" met="00110110" rhyme="2" line_length="8">teď jsem stár, a co mám z toho?</l>
+     <l n="11" met="10001010" line_length="8">okraden jsem – v duši trpkosť,</l>
+     <l n="12" met="10001010" rhyme="2" line_length="8">v srdci nic – a v světě mnoho!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Čekání.</title>
+    <author>Rožek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Rožek, Karel_cekani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Čekání.</title>
+     <author>Rožek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Čekání.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100010100010" line_length="13">To umírání věčné znavilo mou duši.</l>
+     <l n="2" met="110101001001000" line_length="15">Den jitrem každým shroutí se v třesoucím omámení</l>
+     <l n="3" met="0101100100101001010010" line_length="22">a čekám den příští, že přinese pozdrav zelených břehů splněné touhy.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="010100010010001" line_length="15">A čekám, zmítaje se na loži vysílených muk</l>
+     <l n="5" met="010110001010010" line_length="15">a příští den přichází s týmž smutkem v spálených očích,</l>
+     <l n="6" met="1010010010" line_length="10">v jakém sešílel prožitý včera,</l>
+     <l n="7" met="010010010010010" line_length="15">mně vzdálený celými věčnostmi minulých žití.</l>
+     <l n="8" met="01001010" line_length="8">A nevím, co bylo včera,</l>
+     <l n="9" met="0100010" line_length="7">co myslel jsem, co cítil,</l>
+     <l n="10" met="01000" line_length="5">...proč neumřel již...</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="010110010010" line_length="12">Jen tolik vím, bylo to třeštění v pláči,</l>
+     <l n="12" met="1010010010" line_length="10">smutek večerů zlomených žití,</l>
+     <l n="13" met="100010001010" line_length="12">agonie rozsáhlé a řídké touhy</l>
+     <l n="14" met="0100" line_length="4">a jako dnes:</l>
+     <l n="15" met="1000" line_length="4">Umírání...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

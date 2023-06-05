@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Études et Préludes</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_etudes-et-preludes</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Études et Préludes</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Études et Préludes</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Le souffle violent et superbe des roses</l>
+     <l n="2" rhyme="b" line_length="6+6">M’enivre comme un vin mélangé de poisons.</l>
+     <l n="3" rhyme="a" line_length="6+6">Tes yeux bleus, à travers tes paupières mi-closes,</l>
+     <l n="4" rhyme="b" line_length="6+6">Recèlent les lueurs des vagues trahisons.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">À l’heure où dans les prés brûlent les lucioles,</l>
+     <l n="6" rhyme="b" line_length="6+6">À l’heure de désir et d’ensorcellement,</l>
+     <l n="7" rhyme="a" line_length="6+6">Tu prodigues en vain les lascives paroles…</l>
+     <l n="8" rhyme="b" line_length="6+6">Je te hais et je t’aime abominablement.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

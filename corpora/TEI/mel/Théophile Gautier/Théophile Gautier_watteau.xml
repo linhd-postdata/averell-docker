@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>WATTEAU</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_watteau</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>WATTEAU</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>WATTEAU</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+6">Devers Paris, un soir, dans la campagne,</l>
+     <l n="2" rhyme="b" line_length="4+6">J'allais suivant l'ornière d'un chemin,</l>
+     <l n="3" rhyme="a" line_length="4+6">Seul avec moi, n'ayant d'autre compagne</l>
+     <l n="4" rhyme="b" line_length="4+6">Que ma douleur qui me donnait la main.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="4+6">L'aspect des champs était sévère et morne,</l>
+     <l n="6" rhyme="b" line_length="4+6">En harmonie avec l'aspect des cieux ;</l>
+     <l n="7" rhyme="a" line_length="4+6">Rien n'était vert sur la plaine sans borne,</l>
+     <l n="8" rhyme="b" line_length="4+6">Hormis un parc planté d'arbres très-vieux.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="4+6">Je regardai bien longtemps par la grille,</l>
+     <l n="10" rhyme="b" line_length="4+6">C'était un parc dans le goût de Watteau :</l>
+     <l n="11" rhyme="a" line_length="4+6">Ormes fluets, ifs noirs, verte charmille,</l>
+     <l n="12" rhyme="b" line_length="4+6">Sentiers peignés et tirés au cordeau.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="4+6">Je m'en allai l'âme triste et ravie ;</l>
+     <l n="14" rhyme="b" line_length="4+6">En regardant j'avais compris cela :</l>
+     <l n="15" rhyme="a" line_length="4+6">Que j'étais près du rêve de ma vie,</l>
+     <l n="16" rhyme="b" line_length="4+6">Que mon bonheur était enfermé là.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soudruhu.</title>
+    <author>Frič, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Frič, Josef Václav_soudruhu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soudruhu.</title>
+     <author>Frič, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soudruhu.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100010101000" rhyme="1" line_length="13">I kdyby ti ten svět byl pouhou komedií,</l>
+     <l n="2" met="11010101010" rhyme="2" line_length="11">hraj dobrý úkol! co ti na tom sejde,</l>
+     <l n="3" met="0100000101000" rhyme="1" line_length="13">zdaž intrikána hráš, neb kopeš tragedii;</l>
+     <l n="4" met="010101010101010" rhyme="2" line_length="15">buď rekem rač a trp – a miluj, co se do tě vejde!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

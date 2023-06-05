@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Domácnost.</title>
+    <author>Furch, Vincenc</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Furch, Vincenc_domacnost</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Domácnost.</title>
+     <author>Furch, Vincenc</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Domácnost.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010010" line_length="6">Když minula ranní</l>
+     <l n="2" met="100010" rhyme="1" line_length="6">Růžozáře skvělá,</l>
+     <l n="3" met="100010" line_length="6">Na života pouti</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">Pot nám teče s čela –</l>
+     <l n="5" met="010010" line_length="6">Tu v poslední parně,</l>
+     <l n="6" met="100100" rhyme="2" line_length="6">Toužíce po stínu,</l>
+     <l n="7" met="100010" line_length="6">Hledáme si stánek</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">V domácnosti klínu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

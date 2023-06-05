@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Klásek.</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_klasek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Klásek.</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Klásek.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101000" rhyme="1" line_length="9">Ty klásku v poli osamělý,</l>
+     <l n="2" met="100101000" rhyme="1" line_length="9">na tebe ženci zapomněli,</l>
+     <l n="3" met="0100010" rhyme="2" line_length="7">když válčili zde srpy;</l>
+     <l n="4" met="010001010" rhyme="3" line_length="9">smrť vyhnula se tvému žití...</l>
+     <l n="5" met="010101010" rhyme="3" line_length="9">Své bratry viděl’s všechny mříti,</l>
+     <l n="6" met="0101010" rhyme="2" line_length="7">i sestry, modré chrpy.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="000101000" rhyme="4" line_length="9">Ted’ sám tu stojíš na strništi,</l>
+     <l n="8" met="010101000" rhyme="4" line_length="9">jak sirý vojín na bojišti,</l>
+     <l n="9" met="0101010" rhyme="5" line_length="7">když druzi padli v boji –</l>
+     <l n="10" met="110001010" rhyme="6" line_length="9">slyš, v stodole již cepy buší:</l>
+     <l n="11" met="010100010" rhyme="6" line_length="9">smrť čestná míjela tvou duši, –</l>
+     <l n="12" met="1001010" rhyme="5" line_length="7">jakou ti osud strojí?</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="010100010" rhyme="7" line_length="9">Co k předu po strništi pílí:</l>
+     <l n="14" met="010011010" rhyme="7" line_length="9">toť křiklavých hus zástup bílý</l>
+     <l n="15" met="0100010" rhyme="8" line_length="7">jak potopa se valí,</l>
+     <l n="16" met="010100010" rhyme="9" line_length="9">blíž krky natažené syčí...</l>
+     <l n="17" met="110101010" rhyme="9" line_length="9">Ach, hloupá husa nectně zničí</l>
+     <l n="18" met="1001010" rhyme="8" line_length="7">tebe, můj klásku zralý!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

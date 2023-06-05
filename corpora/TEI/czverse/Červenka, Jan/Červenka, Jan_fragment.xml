@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>FRAGMENT.</title>
+    <author>Červenka, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červenka, Jan_fragment</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>FRAGMENT.</title>
+     <author>Červenka, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>FRAGMENT.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" rhyme="1" line_length="8">Co na tom, jestli v závisti</l>
+     <l n="2" met="110101010" rhyme="2" line_length="9">květ sehne tíha nohy jedné</l>
+     <l n="3" met="01010100" rhyme="1" line_length="8">a stopu nechá na listí!</l>
+     <l n="4" met="000101010" rhyme="2" line_length="9">Však on se vlastní silou zvedne</l>
+     <l n="5" met="01010100" rhyme="1" line_length="8">a první déšť jej očistí!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

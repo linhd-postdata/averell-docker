@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Šero.</title>
+    <author>Breska, Alfons</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Breska, Alfons_sero</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Šero.</title>
+     <author>Breska, Alfons</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Šero.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" rhyme="1" line_length="9">Kdos náhle moji duši stmívá,</l>
+     <l n="2" met="01010101" rhyme="2" line_length="8">jak jasná okna chladný dech,</l>
+     <l n="3" met="100101010" rhyme="1" line_length="9">a vše se šeří, všechno splývá</l>
+     <l n="4" met="10010100" rhyme="2" line_length="8">v mlhavých, matných obrysech.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100101010" rhyme="3" line_length="9">Nejasné stíny duší spějí,</l>
+     <l n="6" met="01010100" rhyme="4" line_length="8">vše v kalném přítmí usíná,</l>
+     <l n="7" met="010111000" rhyme="3" line_length="9">a každý tón zní tlumeněji</l>
+     <l n="8" met="01010100" rhyme="4" line_length="8">a každé světlo shasíná.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="110001010" rhyme="5" line_length="9">Cos chvílemi se ještě bleskne</l>
+     <l n="10" met="01011100" rhyme="6" line_length="8">jak z kalných vln ryb šupiny</l>
+     <l n="11" met="010101010" rhyme="5" line_length="9">a opět zmizí v šero teskné</l>
+     <l n="12" met="10010100" rhyme="6" line_length="8">záhadné, temné hlubiny.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="110001010" rhyme="7" line_length="9">Cos chvílemi se zvučně dere</l>
+     <l n="14" met="01010101" rhyme="8" line_length="8">jak z šedé mlhy zvonů hlas</l>
+     <l n="15" met="010101010" rhyme="7" line_length="9">a opět zmlkne v hloubi šeré</l>
+     <l n="16" met="01010100" rhyme="8" line_length="8">a ticho v duši, ticho zas.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

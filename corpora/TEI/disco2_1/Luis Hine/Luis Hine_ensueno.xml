@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ensueño</title>
+    <author>Luis Hine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Luis Hine_ensueno</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ensueño</title>
+     <author>Luis Hine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ensueño</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">Reclinar mi cabeza en tu regazo</l>
+     <l n="2" met="---++-+--+-">para dormirme en él. Sentir que el sueño</l>
+     <l n="3" met="+-+--+-">va cerrando mis párpados. Beleño</l>
+     <l n="4" met="-----+-+-+-">para mi corazón que está en su ocaso.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-++-+-+-">No pensar, no sentir. Soñar, acaso,</l>
+     <l n="6" met="--+---+--+-">en que llega hasta mi, tibio y risueño,</l>
+     <l n="7" met="-+---+-+-+-">tu beso perfumado, flor de ensueño,</l>
+     <l n="8" met="+--+-+---+-">mientras dormido estoy en tu regazo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+-">Y nunca despertar. Eternamente</l>
+     <l n="10" met="-+++---+-+-">quedarse allí para que dulcemente</l>
+     <l n="11" met="+-+--+---+-">pueda mi alma tu espíritu absorber.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+-+-+-">Vivir de tu perfume. Ser un muerto</l>
+     <l n="13" met="-+-+---+-+-">que sólo está para tu amor despierto,</l>
+     <l n="14" met="---+---+++-">y para todo lo demás, no ser.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

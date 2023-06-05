@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LE SONNET DE L’OREILLE</title>
+    <author>Albert Mérat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Albert Mérat_le-sonnet-de-loreille</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LE SONNET DE L’OREILLE</title>
+     <author>Albert Mérat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LE SONNET DE L’OREILLE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Elles seraient la nacre au bord des coquillages</l>
+     <l n="2" rhyme="b" line_length="6+6">Si les nacres avaient ces humaines blancheurs ;</l>
+     <l n="3" rhyme="b" line_length="6+6">Elles seraient le rose et le satin des fleurs,</l>
+     <l n="4" rhyme="a" line_length="6+6">Si les roses vivaient aux barreaux des treillages.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Il semble qu’une fée, en de lointains pillages,</l>
+     <l n="6" rhyme="b" line_length="6+6">Ait pris leur éclat frais à toutes les fraîcheurs ;</l>
+     <l n="7" rhyme="b" line_length="6+6">Leur coloris est fait de toutes les couleurs,</l>
+     <l n="8" rhyme="a" line_length="6+6">Et la lumière y trace, exquise, des sillages.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">C’est la volute et c’est la conque ; c’est la chair</l>
+     <l n="10" rhyme="c" line_length="6+6">Devenue arabesque avec son ourlet clair</l>
+     <l n="11" rhyme="d" line_length="6+6">Où préside une loi d’harmonie ancienne ;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Et vous avez, malgré la date du sculpteur,</l>
+     <l n="13" rhyme="d" line_length="6+6">Des airs de curieuse et de Parisienne</l>
+     <l n="14" rhyme="e" line_length="6+6">Qui fait des mots et qui provoque le conteur.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

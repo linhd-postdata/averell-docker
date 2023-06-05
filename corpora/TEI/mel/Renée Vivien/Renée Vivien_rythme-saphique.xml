@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>RYTHME SAPHIQUE</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_rythme-saphique</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>RYTHME SAPHIQUE</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>RYTHME SAPHIQUE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="5+6">L’ombre se drapait en des voiles de veuves,</l>
+     <l n="2" rhyme="a" line_length="5+6">La mer aspirait le sang tiède des fleuves,</l>
+     <l n="3" rhyme="b" line_length="5+6">L’Aphroditâ blonde au regard décevant</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="a" line_length="5+6">J’entendis gémir, au profond de l’espace,</l>
+     <l n="5" rhyme="a" line_length="5+6">Celle qui versa la strophe ardente et lasse,</l>
+     <l n="6" rhyme="b" line_length="5+6">Et dont le laurier fleurit et triompha :</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="a" line_length="5+6">« Le rossignol râle et frémit par saccades,</l>
+     <l n="8" rhyme="a" line_length="5+6">Et l’ombre engloutit la lune et les Pléiades :</l>
+     <l n="9" rhyme="b" line_length="5+6">L’heure sans espoir et sans extase fuit</l>
+     <l n="10" rhyme="b" line_length="5">« Parmi les parfums glorieux de la terre,</l>
+     <l n="11" rhyme="a" line_length="5+6">Je rêve d’amour et je dors solitaire,</l>
+     <l n="12" rhyme="a" line_length="5+6">Vierge au corps pétri dans l’ivoire et dans l’or,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

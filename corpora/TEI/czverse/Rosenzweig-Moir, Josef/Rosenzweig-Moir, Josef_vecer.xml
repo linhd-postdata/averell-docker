@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VEČER.</title>
+    <author>Rosenzweig-Moir, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Rosenzweig-Moir, Josef_vecer</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VEČER.</title>
+     <author>Rosenzweig-Moir, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VEČER.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" rhyme="1" line_length="11">Je večer šumný jako vlídná řeka.</l>
+     <l n="2" met="1001010100" rhyme="2" line_length="10">Čistotu nebe mráček nekalí.</l>
+     <l n="3" met="11010100010" rhyme="1" line_length="11">Jde vzduchem zvláštní melodie měkká,</l>
+     <l n="4" met="1001010100" rhyme="2" line_length="10">jakoby v dálce housle plakaly.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11000101010" rhyme="3" line_length="11">Les modravý a zlatá pole širá</l>
+     <l n="6" met="0100010100" rhyme="4" line_length="10">se černavého halí do roucha.</l>
+     <l n="7" met="01010100010" rhyme="3" line_length="11">A člověk mlčky do daleka zírá,</l>
+     <l n="8" met="1001010100" rhyme="4" line_length="10">zatají dech a tiše naslouchá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101010" rhyme="5" line_length="11">A kolem všechno mluví divnou řečí,</l>
+     <l n="10" met="1001010100" rhyme="6" line_length="10">zpívá v ní pták a klasy ševelí,</l>
+     <l n="11" met="10010101010" rhyme="5" line_length="11">zapadá do ní teskná píseň něčí</l>
+     <l n="12" met="0100110100" rhyme="6" line_length="10">a zvoní z ní smích dívčí veselý.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01010100010" rhyme="7" line_length="11">V té chvíli celá země je ti blízká,</l>
+     <l n="14" met="1001110100" rhyme="8" line_length="10">vítězně zní hlas její jásavý.</l>
+     <l n="15" met="01010101010" rhyme="7" line_length="11">A světlo, které z první hvězdy tryská,</l>
+     <l n="16" met="0101010100" rhyme="8" line_length="10">v tvých očích jasnou stopu zůstaví.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

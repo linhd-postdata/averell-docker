@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Mal</title>
+    <author>Arthur Rimbaud</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Arthur Rimbaud_le-mal</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Mal</title>
+     <author>Arthur Rimbaud</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Mal</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Tandis que les crachats rouges de la mitraille</l>
+     <l n="2" rhyme="b" line_length="6−6">Sifflent tout le jour par l’infini du ciel bleu ;</l>
+     <l n="3" rhyme="a" line_length="6+6">Qu’écarlates ou verts, près du Roi qui les raille,</l>
+     <l n="4" rhyme="b" line_length="6+6">Croulent les bataillons en masse dans le feu ;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">Tandis qu’une folie épouvantable, broie</l>
+     <l n="6" rhyme="d" line_length="6+6">Et fait de cent milliers d’hommes un tas fumant ;</l>
+     <l n="7" rhyme="c" line_length="6+6">— Pauvres morts ! dans l’été, dans l’herbe, dans ta joie,</l>
+     <l n="8" rhyme="d" line_length="6+6">Nature ! ô toi qui fis ces hommes saintement !…</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="6+6">— Il est un Dieu, qui rit aux nappes damassées</l>
+     <l n="10" rhyme="f" line_length="6+6">Des autels, à l’encens, aux grands calices d’or ;</l>
+     <l n="11" rhyme="f" line_length="6+6">Qui dans le bercement des hosannah s’endort,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Et se réveille, quand des mères, ramassées</l>
+     <l n="13" rhyme="g" line_length="6+6">Dans l’angoisse, et pleurant sous leur vieux bonnet noir,</l>
+     <l n="14" rhyme="g" line_length="6+6">Lui donnent un gros sou lié dans leur mouchoir !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

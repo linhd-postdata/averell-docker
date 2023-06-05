@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El motivo de mis versos</title>
+    <author>Manuel de Zequeira y Arango</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel de Zequeira y Arango_el-motivo-de-mis-versos</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El motivo de mis versos</title>
+     <author>Manuel de Zequeira y Arango</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El motivo de mis versos</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">Canta el forzado en su fatal tormento,</l>
+     <l n="2" met="-+-+---+-+-">y al son del remo el marinero canta,</l>
+     <l n="3" met="-+-+---+-+-">cantando, al sueño el pecador espanta,</l>
+     <l n="4" met="--+--+-+-+-">y el cautivo cantando está contento:</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-----+-">al artesano en su entretenimiento</l>
+     <l n="6" met="+-+--+---+-">le divierte la voz de su garganta;</l>
+     <l n="7" met="+--+---+-+-">canta el herrero que el metal quebranta,</l>
+     <l n="8" met="-+---+---+-">y canta el desvalido macilento.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">El más infortunado entre sus penas</l>
+     <l n="10" met="--+--+-+-+-">con la armónica voz mitiga el llanto,</l>
+     <l n="11" met="-+---+---+-">y el peso de sus bárbaras caderas;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+-+-+-">pues si el dulce cantar consuela tanto</l>
+     <l n="13" met="-+---+---+-">al mísero mortal en sus faenas,</l>
+     <l n="14" met="+--+---+-+-">yo por burlar mis desventuras canto.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

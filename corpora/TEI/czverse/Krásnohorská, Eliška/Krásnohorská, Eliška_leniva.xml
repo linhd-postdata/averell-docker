@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Lenivá.</title>
+    <author>Krásnohorská, Eliška</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Krásnohorská, Eliška_leniva</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Lenivá.</title>
+     <author>Krásnohorská, Eliška</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Lenivá.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" line_length="6">Svítání růžové</l>
+     <l n="2" met="100010" rhyme="1" line_length="6">do oken se dívá,</l>
+     <l n="3" met="100100" line_length="6">ale mé panence</l>
+     <l n="4" met="101000" rhyme="1" line_length="6">noci neubývá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100101" line_length="6">Jitřenka „dobrý den“</l>
+     <l n="6" met="100010" rhyme="2" line_length="6">pánubohu dává,</l>
+     <l n="7" met="101100" line_length="6">ale má panenka</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">nemodlena vstává.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100100" line_length="6">Kohoutek na plotě</l>
+     <l n="10" met="101010" rhyme="1" line_length="6">časně ráno zpívá,</l>
+     <l n="11" met="101100" line_length="6">ale má panenka</l>
+     <l n="12" met="100010" rhyme="1" line_length="6">do poledne zívá.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100101" line_length="6">Slunko se každý den</l>
+     <l n="14" met="101010" rhyme="3" line_length="6">z jedné strany bere,</l>
+     <l n="15" met="101100" line_length="6">ale má panenka</l>
+     <l n="16" met="101010" rhyme="3" line_length="6">ještě neví, z které.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Smutek.</title>
+    <author>Tůma, Jan Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tůma, Jan Václav_smutek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Smutek.</title>
+     <author>Tůma, Jan Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Smutek.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01001000" line_length="8">„Má matičko smutno je mi,</l>
+     <l n="2" met="1010000" rhyme="1" line_length="7">a já nevím proč je to?“ –</l>
+     <l n="3" met="10000100" line_length="8">,zazpívej si můj synáčku,</l>
+     <l n="4" met="0100100" rhyme="1" line_length="7">než dozpíváš, přejde to!‘</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01001000" line_length="8">„Má matičko! nepřechází,</l>
+     <l n="6" met="1000100" rhyme="2" line_length="7">nemohu se dozpívat!“</l>
+     <l n="7" met="01001000" line_length="8">,Můj synáčku, hřešil jsi snad,</l>
+     <l n="8" met="1010100" rhyme="2" line_length="7">jdi se knězi zpovídat.‘</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01001000" line_length="8">„Má matičko! vyzpovídal,</l>
+     <l n="10" met="0110100" rhyme="3" line_length="7">a kněz pomoc’ nemůže!“</l>
+     <l n="11" met="11001010" line_length="8">,Jdi synáčku děvče hledat,</l>
+     <l n="12" met="0010100" rhyme="3" line_length="7">až je najdeš, pomůže!‘ –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

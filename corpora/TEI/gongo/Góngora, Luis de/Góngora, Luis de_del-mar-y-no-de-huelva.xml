@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Del mar (y no de Huelva)</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_del-mar-y-no-de-huelva</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Del mar (y no de Huelva)</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Del mar (y no de Huelva)</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="-+-++-" line_length="6">Del mar (y no de Huelva)</l>
+     <l n="2" met="--+--+-+-+-" line_length="11">los escollos el sol (los muros) raya.</l>
+     <l n="3" met="-+--++--+-" line_length="10">Gimiendo el alcïón, era en la playa</l>
+     <l n="4" met="--+--+-" line_length="7">ruiseñor en la selva,</l>
+     <l n="5" met="----++-" line_length="7">cuando pescador pobre</l>
+     <l n="6" met="+--+-+-+-+-" line_length="11">mucha despide red, de poco robre.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

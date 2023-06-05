@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sonetos en su honor -- El doctor Jerónimo de Virués</title>
+    <author>Cristóbal de Virués</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cristóbal de Virués_sonetos-en-su-honor-el-doctor</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sonetos en su honor -- El doctor Jerónimo de Virués</title>
+     <author>Cristóbal de Virués</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sonetos en su honor -- El doctor Jerónimo de Virués</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+++-+-">Un Ulises prudente, un pío Eneas,</l>
+     <l n="2" met="--+--+---+-">en sus largos viajes y cuidados</l>
+     <l n="3" met="+----+---+-">de ánimos y elementos indicados</l>
+     <l n="4" met="-+--++---+-">metidos en mil ásperas peleas,</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+-+-+-">hace mi hermano aquí, Lector, que veas</l>
+     <l n="6" met="-++--+---+-">en un monje pobrísimo cifrados,</l>
+     <l n="7" met="---+--+--+-">y con cristiana Poesía ornados</l>
+     <l n="8" met="-+-+-+---+-">de mil hermosas galas y libreas,</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">y vivamente ante tus ojos pone</l>
+     <l n="10" met="---+-+---+-">la maravilla vista en Monserrate</l>
+     <l n="11" met="---+-+-+-+-">del virginal Retrato y Templo santo.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">El arte juzga tu con qué dispone</l>
+     <l n="13" met="-+-+-+---+-">y guarda, y da, su altísimo quilate</l>
+     <l n="14" met="-+-+---+-+-">al verso heroico y al heroico canto.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

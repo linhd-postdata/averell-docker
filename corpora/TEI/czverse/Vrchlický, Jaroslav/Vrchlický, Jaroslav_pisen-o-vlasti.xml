@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PÍSEŇ O VLASTI.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_pisen-o-vlasti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PÍSEŇ O VLASTI.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PÍSEŇ O VLASTI.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100" rhyme="1" line_length="8">Je zastaralá, vím to dnes,</l>
+     <l n="2" met="01010101" rhyme="1" line_length="8">však pláň jí zvučí, hlučí les,</l>
+     <l n="3" met="01000101" rhyme="2" line_length="8">kam pohlédneš, tam zní ti v sluch,</l>
+     <l n="4" met="10010101" rhyme="2" line_length="8">a kdo v ní zní, jest Boží duch.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000101" rhyme="3" line_length="8">Ji deptají a na rtu smích</l>
+     <l n="6" met="01011001" rhyme="3" line_length="8">jí kopou hrob ve troudu knih,</l>
+     <l n="7" met="01010100" rhyme="4" line_length="8">však v srdci lidu živa jest</l>
+     <l n="8" met="01010101" rhyme="4" line_length="8">jak větrů van, jak písmo hvězd.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000101" rhyme="5" line_length="8">A oněmí-li lidský ret,</l>
+     <l n="10" met="01010101" rhyme="5" line_length="8">ji kámen bude dále pět,</l>
+     <l n="11" met="01000101" rhyme="6" line_length="8">i Vyšehradu šedá leb –</l>
+     <l n="12" met="10010100" rhyme="6" line_length="8">A dál zas bude vnukům chleb.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01010001" rhyme="7" line_length="8">Neb pokud máme oč se třást</l>
+     <l n="14" met="01000101" rhyme="7" line_length="8">a bojovat, je živa vlast,</l>
+     <l n="15" met="01010101" rhyme="8" line_length="8">a píseň o ní v žule skal</l>
+     <l n="16" met="01010100" rhyme="8" line_length="8">a v polích, hvozdech žije dál!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

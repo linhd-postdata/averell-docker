@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KABRŇÁCl.</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_kabrnacl</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KABRŇÁCl.</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KABRŇÁCl.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001000" rhyme="1" line_length="8">Takoví jsme kabrňáci:</l>
+     <l n="2" met="10001010" rhyme="1" line_length="8">chválíme jen cizí práci,</l>
+     <l n="3" met="1010101" rhyme="2" line_length="7">cizí náhled, cizí vtip.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="10101010" rhyme="3" line_length="8">Pro ty naše oči slepé</l>
+     <l n="5" met="10001000" rhyme="3" line_length="8">cizí vše je velkolepé,</l>
+     <l n="6" met="1000101" rhyme="2" line_length="7">domácí vše – plné chyb.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

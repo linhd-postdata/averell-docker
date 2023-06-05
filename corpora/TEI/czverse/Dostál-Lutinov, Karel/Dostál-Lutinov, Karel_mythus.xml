@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MYTHUS.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_mythus</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MYTHUS.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MYTHUS.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001000" line_length="8">Znásilniti Spravedlnost</l>
+     <l n="2" met="101000100" rhyme="1" line_length="9">chtěla Putifarka, lidská Zášt.</l>
+     <l n="3" met="1000101010" line_length="10">Spravedlnost prchla, v světě zůstal</l>
+     <l n="4" met="10101" rhyme="1" line_length="5">jenom její plášť.</l>
+     <l n="5" met="10101010" rhyme="2" line_length="8">Lidé plášť ten tady našli:</l>
+     <l n="6" met="0101001010" rhyme="2" line_length="10">kdo má moc, ten jím svá bedra krášlí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

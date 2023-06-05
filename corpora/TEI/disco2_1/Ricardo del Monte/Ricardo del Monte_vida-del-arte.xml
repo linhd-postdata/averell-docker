@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vida del arte</title>
+    <author>Ricardo del Monte</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ricardo del Monte_vida-del-arte</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vida del arte</title>
+     <author>Ricardo del Monte</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vida del arte</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">El jardín de Verona, el balconaje</l>
+     <l n="2" met="--+--+---+-">enramado de verde filigrana;</l>
+     <l n="3" met="-+-+---+-+-">la niña, presa de pasión temprana,</l>
+     <l n="4" met="+--+---+-+-">suelto el cabello y desceñido el traje.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">El granado inmortal que su follaje</l>
+     <l n="6" met="-+-+-+---+-">con flor y estrellas rojas engalana;</l>
+     <l n="7" met="-+--+-+--+-">tardío ruiseñor o alondra ufana</l>
+     <l n="8" met="-+---+---+-">trinando en la penumbra del paisaje;</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+----+---+-">duran sin caducar, y confundiendo</l>
+     <l n="10" met="---+-+---+-">con la ideal efigie de Julieta</l>
+     <l n="11" met="---+---+-+-">su deleznable realidad, reviven.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+--++---+-">¡Oh torpe que te engríes presumiendo</l>
+     <l n="13" met="---+-+---+-">escarnecer los sueños del poeta,</l>
+     <l n="14" met="+--+-+---+-">tú morirás. Sus sueños sobreviven!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

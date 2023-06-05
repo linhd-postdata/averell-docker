@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A mi madre</title>
+    <author>Julián del Casal</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Julián del Casal_a-mi-madre</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A mi madre</title>
+     <author>Julián del Casal</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A mi madre</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+++--+-+-+-">No fuiste una mujer sino una santa</l>
+     <l n="2" met="--+-+++--+-">que murió de dar vida a un desdichado,</l>
+     <l n="3" met="--+--+---+-">pues salí de tu seno delicado</l>
+     <l n="4" met="--++-+-+-+-">como sale una espina de una planta.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">Hoy que tu dulce imagen se levanta</l>
+     <l n="6" met="-+---+---+-">del fondo de mi lóbrego pasado,</l>
+     <l n="7" met="-+-+-+---+-">el llanto está en los ojos asomado,</l>
+     <l n="8" met="--+--+---+-">los sollozos comprimen mi garganta.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+-+-+-">Y aunque yazgas trocada en polvo yerto,</l>
+     <l n="10" met="---++--+-+-">sin ofrecerme bienhechor arrimo,</l>
+     <l n="11" met="-----++-++-">como quiera que estés siempre te adoro,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--++---+++-">por que me dice el corazón que has muerto</l>
+     <l n="13" met="-++-+--+-+-">por no oírme gemir como ahora gimo,</l>
+     <l n="14" met="-+++-+-+-+-">por no verme llorar como ahora lloro.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

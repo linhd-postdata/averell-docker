@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LA MORT DU COCHON</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_la-mort-du-cochon</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LA MORT DU COCHON</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LA MORT DU COCHON</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Moi, qui l'avais vu si petit,</l>
+     <l n="2" rhyme="b" line_length="8">Je fus tout chagrin de sa perte,</l>
+     <l n="3" rhyme="b" line_length="8">Et cette pauvre masse inerte</l>
+     <l n="4" rhyme="a" line_length="8">Ne m'inspira nul appétit.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Lorsque chacun se divertit</l>
+     <l n="6" rhyme="b" line_length="8">Et festoya dans l'herbe verte,</l>
+     <l n="7" rhyme="a" line_length="8">Moi, qui l'avais vu si petit,</l>
+     <l n="8" rhyme="b" line_length="8">Je fus tout chagrin de sa perte.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Mais la porchère compatit</l>
+     <l n="10" rhyme="b" line_length="8">A son sort, dans la cour déserte,</l>
+     <l n="11" rhyme="b" line_length="8">Car, en voyant sa bête ouverte,</l>
+     <l n="12" rhyme="a" line_length="8">Ce sanglot de son cœur sortit :</l>
+     <l n="13" rhyme="a" line_length="8">« Moi qui l'avais vu si petit ! »</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

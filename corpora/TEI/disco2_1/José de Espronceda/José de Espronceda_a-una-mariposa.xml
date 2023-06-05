@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A una mariposa</title>
+    <author>José de Espronceda</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José de Espronceda_a-una-mariposa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A una mariposa</title>
+     <author>José de Espronceda</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A una mariposa</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">Vuela, gentil mariposilla; ondea</l>
+     <l n="2" met="++---+---+-">cual átomo de luz entre las flores;</l>
+     <l n="3" met="-+-+-+---+-">imagen fiel de cándidos amores</l>
+     <l n="4" met="-+---+-+-+-">que en sueños de candor la virgen crea.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+-+-+-">La flor enamorada te desea,</l>
+     <l n="6" met="-+--+---+-">el céfiro viste tus colores</l>
+     <l n="7" met="-+-----+-+-">y esparce abril para tu aliento olores</l>
+     <l n="8" met="--+--+---+-">y en tu imagen la fuente se recrea.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+----+---+-">Huelga, mariposilla, y suave</l>
+     <l n="10" met="-+-+---+-+-">perfume buscas entre flores puras,</l>
+     <l n="11" met="+-++-+--++-">ya la flor te diré que mejor sabe.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">Manantial de suavísimas dulzuras</l>
+     <l n="13" met="-+-+---+-+-">los labios son de mi Bernarda bella;</l>
+     <l n="14" met="++-+---+-+-">un beso en ellos por su amante sella.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

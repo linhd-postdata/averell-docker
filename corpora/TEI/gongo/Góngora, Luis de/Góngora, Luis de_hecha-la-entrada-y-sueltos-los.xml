@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hecha la entrada, y sueltos los leones,</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_hecha-la-entrada-y-sueltos-los</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hecha la entrada, y sueltos los leones,</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hecha la entrada, y sueltos los leones,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="+--+-+--+-" line_length="10">Hecha la entrada, y sueltos los leones,</l>
+     <l n="2" met="---+-+-+-+-" line_length="11">el que a mejor caballo bate espuela,</l>
+     <l n="3" met="--+--+---+-" line_length="11">o la lanza, el rejón, o la cañuela</l>
+     <l n="4" met="-+---+--+-" line_length="10">la dé a la redención de los peones,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="-+---+---+-" line_length="11">y en altas y arriscadas ocasiones,</l>
+     <l n="6" met="-+-+---++-" line_length="10">a vista ya de quien lo abrasa o hiela...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

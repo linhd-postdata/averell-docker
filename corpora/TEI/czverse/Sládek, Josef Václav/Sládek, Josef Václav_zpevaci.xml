@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ZPĚVÁCI.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_zpevaci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ZPĚVÁCI.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ZPĚVÁCI.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" line_length="6">OD rána do šera,</l>
+     <l n="2" met="10110" rhyme="1" line_length="5">celý den boží</l>
+     <l n="3" met="100100" line_length="6">zpívají ptáčata</l>
+     <l n="4" met="10010" rhyme="1" line_length="5">v poli a hloží.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100" line_length="6">Pěnkavy v zahradě,</l>
+     <l n="6" met="10010" rhyme="2" line_length="5">kosové v lese,</l>
+     <l n="7" met="100100" line_length="6">skřivánek písničku</l>
+     <l n="8" met="10010" rhyme="2" line_length="5">k nebi až nese.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100100" line_length="6">Písnička, perlička</l>
+     <l n="10" met="10000" rhyme="3" line_length="5">na poslouchání,</l>
+     <l n="11" met="010100" line_length="6">ti malí zpěváci</l>
+     <l n="12" met="01010" rhyme="3" line_length="5">nic nechtí za ni.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100100" line_length="6">Dokud jim prostírá</l>
+     <l n="14" met="10010" rhyme="4" line_length="5">slunéčko léta,</l>
+     <l n="15" met="100100" line_length="6">za ni by nevzali</l>
+     <l n="16" met="10010" rhyme="4" line_length="5">poklady světa.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="100100" line_length="6">Ale až na zimu,</l>
+     <l n="18" met="10010" rhyme="5" line_length="5">v sněhu a mrazu,</l>
+     <l n="19" met="100100" line_length="6">dáme jim dukátků</l>
+     <l n="20" met="10010" rhyme="5" line_length="5">nového rázu:</l>
+    </lg>
+    <lg n="6">
+     <l n="21" met="100100" line_length="6">Žitečka, zrnéčka</l>
+     <l n="22" met="10010" rhyme="6" line_length="5">pšenky jak zlato,</l>
+     <l n="23" met="100100" line_length="6">budou zas na jaře</l>
+     <l n="24" met="10010" rhyme="6" line_length="5">zpívati za to.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

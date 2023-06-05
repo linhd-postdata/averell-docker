@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V trní.</title>
+    <author>Krásnohorská, Eliška</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Krásnohorská, Eliška_v-trni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V trní.</title>
+     <author>Krásnohorská, Eliška</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V trní.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0010101" rhyme="1" line_length="7">Že je lstivá jako had,</l>
+     <l n="2" met="10001000" rhyme="2" line_length="8">říkají mi o Haničce,</l>
+     <l n="3" met="00101000" rhyme="2" line_length="8">vždy jak trní na růžičce</l>
+     <l n="4" met="1000100" rhyme="1" line_length="7">hotova prý pobodat.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010101" rhyme="3" line_length="7">Jakož černé oči má,</l>
+     <l n="6" met="00101010" rhyme="4" line_length="8">tak prý černá duše její;</l>
+     <l n="7" met="00101010" rhyme="4" line_length="8">bych ji míjel, lidé chtějí,</l>
+     <l n="8" met="1010100" rhyme="3" line_length="7">zlo že nikdy nedřímá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010100" rhyme="5" line_length="7">Radit, ach toť snadno vám!</l>
+     <l n="10" met="10101010" rhyme="6" line_length="8">hadem ovit, v trní chycen,</l>
+     <l n="11" met="10101010" rhyme="6" line_length="8">jedem černých očí vznícen</l>
+     <l n="12" met="1010100" rhyme="5" line_length="7">černé duši propadám.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

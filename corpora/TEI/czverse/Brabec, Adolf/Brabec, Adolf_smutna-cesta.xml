@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Smutná cesta.</title>
+    <author>Brabec, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Brabec, Adolf_smutna-cesta</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Smutná cesta.</title>
+     <author>Brabec, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Smutná cesta.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010101" rhyme="1" line_length="8">Šel cestou smutnou, sám jsem šel,</l>
+     <l n="2" met="11010101" rhyme="2" line_length="8">kol žluté listí vítr rval,</l>
+     <l n="3" met="01010100" rhyme="1" line_length="8">a měsíc dosud nevyšel,</l>
+     <l n="4" met="01001100" rhyme="2" line_length="8">by září svou kraj zulíbal.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010100" rhyme="3" line_length="7">V kraji smutno, v srdci též,</l>
+     <l n="6" met="01010100" rhyme="4" line_length="8">nač ještě žít a toužiti,</l>
+     <l n="7" met="11010101" rhyme="3" line_length="8">lze poznat jenom klam a lež</l>
+     <l n="8" met="01010100" rhyme="4" line_length="8">a bolest třeba prožíti.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010100" rhyme="5" line_length="8">Jdu dál, kam nevím ani sám,</l>
+     <l n="10" met="10010100" rhyme="6" line_length="8">do noci jdu a dálavy,</l>
+     <l n="11" met="11000101" rhyme="5" line_length="8">pár upomínek v duši mám</l>
+     <l n="12" met="01100100" rhyme="6" line_length="8">a zrak od pláče krvavý...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

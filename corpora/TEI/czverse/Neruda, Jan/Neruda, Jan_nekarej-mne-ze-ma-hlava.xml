@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nekárej mne, že má hlava</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_nekarej-mne-ze-ma-hlava</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nekárej mne, že má hlava</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nekárej mne, že má hlava</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10000110" line_length="8">Nekárej mne, že má hlava </l>
+     <l n="2" met="10101010" rhyme="1" line_length="8">na zem holou sobě stele,</l>
+     <l n="3" met="10001010" line_length="8">nemám nic, vždyť musel dát jsem</l>
+     <l n="4" met="10001010" rhyme="1" line_length="8">žebrákům své jmění celé.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001000" line_length="8">Nekárej mne z rozplýtvání,</l>
+     <l n="6" met="10000010" rhyme="2" line_length="8">naučilas mne mu sama,</l>
+     <l n="7" met="00101010" line_length="8">když jsi řekla, že tvůj půvab</l>
+     <l n="8" met="10001010" rhyme="2" line_length="8">společným je mezi náma.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001010" line_length="8">Nekárej mne sama chuda,</l>
+     <l n="10" met="00101010" rhyme="3" line_length="8">vždyť jsi celou lásku vzala,</l>
+     <l n="11" met="10101000" line_length="8">abys svému žebrákovi,</l>
+     <l n="12" met="10001010" rhyme="3" line_length="8">abys mně tu lásku dala.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

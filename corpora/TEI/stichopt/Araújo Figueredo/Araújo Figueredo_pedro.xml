@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pedro</title>
+    <author>Araújo Figueredo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Araújo Figueredo_pedro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Stichotheque Portuguese</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pedro</title>
+     <author>Araújo Figueredo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pedro</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="10">Pedro seria o nome predileto</l>
+     <l n="2" line_length="10">Deste que, coitadinho, nasceu morto.</l>
+     <l n="3" line_length="10">Ah! Pedro, não! o Galileu, absorto,</l>
+     <l n="4" line_length="10">Não deu ao Mestre um coração correto.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" line_length="10">Outro nome teria esse dileto</l>
+     <l n="6" line_length="10">Filho do nosso amor, do nosso horto...</l>
+     <l n="7" line_length="10">Nem mesmo o nosso coração é um porto</l>
+     <l n="8" line_length="10">Com barco a vela, de saudoso aspecto.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" line_length="10">Mas o que digo? Pois ninguém na terra</l>
+     <l n="10" line_length="10">Que tanta lama de miséria encerra,</l>
+     <l n="11" line_length="10">Jamais deixou, no fundo dos reveses,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" line_length="10">Ou na alegria que na vida o açoite,</l>
+     <l n="13" line_length="10">De negar, dia e noite, dia e noite,</l>
+     <l n="14" line_length="10">Mais do que Pedro, bilhões de vezes?!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

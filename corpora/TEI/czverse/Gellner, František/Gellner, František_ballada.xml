@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>BALLADA</title>
+    <author>Gellner, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">7</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Gellner, František_ballada</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>BALLADA</title>
+     <author>Gellner, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>BALLADA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010101010" rhyme="1" line_length="11">Mdlý přísvit noci s tváří shodných tahů</l>
+     <l n="2" met="10010101000" rhyme="1" line_length="11">se smek’ a stíny dva vrh’ na podlahu.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="11010101000" rhyme="2" line_length="11">Vzduch výhní sálal, po dni nelítostném</l>
+     <l n="4" met="10010101010" rhyme="2" line_length="11">dobíjel chabé duše tupým ostnem.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="11000100010" rhyme="3" line_length="11">V tmách tíživých se na besedu sešli</l>
+     <l n="6" met="10010101010" rhyme="3" line_length="11">člověk a přízrak. Směj se tomu, chceš-li!</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="11000101010" rhyme="4" line_length="11">Z úst otevřených matně zuby plály,</l>
+     <l n="8" met="10010100010" rhyme="4" line_length="11">horečné ruce hady být se zdály.</l>
+    </lg>
+    <lg n="5">
+     <l n="9" met="01000101000" rhyme="5" line_length="11">Níž klonila se těla pod únavou.</l>
+     <l n="10" met="10010101010" rhyme="5" line_length="11">Šeptal co’s člověk. Přízrak kýval hlavou.</l>
+    </lg>
+    <lg n="6">
+     <l n="11" met="01000101010" rhyme="6" line_length="11">Tak seděli až v prvý záblesk jitra.</l>
+     <l n="12" met="11010100010" rhyme="6" line_length="11">Vstal tiše přízrak: „Na shledanou zítra!“</l>
+    </lg>
+    <lg n="7">
+     <l n="13" met="10010101010" rhyme="7" line_length="11">Vztýčil se člověk, jako dravec zavyl.</l>
+     <l n="14" met="01010101010" rhyme="7" line_length="11">„Co čekáš ještě?“ smutně přízrak pravil.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

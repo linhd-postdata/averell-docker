@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sugestión</title>
+    <author>Vicente Bove</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vicente Bove_sugestion</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sugestión</title>
+     <author>Vicente Bove</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sugestión</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+-+----+-">Es de piedra. Pero habla a mis antojos</l>
+     <l n="2" met="---+---+-+-">en la mañana del amor florida,</l>
+     <l n="3" met="-----+-+-+-">como la ensoñación de gloria y vida</l>
+     <l n="4" met="--++---+-+-">aunque estén mustios y sin luz sus ojos.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">Corona ostenta de laureles rojos</l>
+     <l n="6" met="---+---+-+-">sobre su frente magistral ceñida.</l>
+     <l n="7" met="--+--+---+-">Y en lo alto la diestra suspendida</l>
+     <l n="8" met="-++--+---+-">en un signo inviolable a los arrojos.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+---+++-">Más de una vez a contemplarla acaso</l>
+     <l n="10" met="+--+---+-+-">he detenido mi errabundo paso;</l>
+     <l n="11" met="+--++--+-+-">quise confiarla mi pasión secreta.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+---+-+-">Y enardecido en su mudez amante,</l>
+     <l n="13" met="---+-+-+-+-">a la hermosura le canté triunfante</l>
+     <l n="14" met="-+-+-+-+-+-">y más que nunca me sentí poeta...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

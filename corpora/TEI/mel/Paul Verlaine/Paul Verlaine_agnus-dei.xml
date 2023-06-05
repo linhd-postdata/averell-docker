@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>AGNUS DEI</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_agnus-dei</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>AGNUS DEI</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>AGNUS DEI</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="6+3">Son pas fait le bruit d’une averse sur la poussière.</l>
+    </lg>
+    <lg n="2">
+     <l n="2" line_length="3+6">Puis il bêle vers sa mère accourue inquiète…</l>
+    </lg>
+    <lg n="3">
+     <l n="3" line_length="6+3">Agneau de Dieu, vois, prends pitié de ce que nous sommes,</l>
+    </lg>
+    <lg n="4">
+     <l n="4" line_length="3+6">O toi, seul Agneau, Dieu le seul fils de Dieu le Père.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

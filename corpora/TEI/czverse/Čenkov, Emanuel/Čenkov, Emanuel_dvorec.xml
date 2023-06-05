@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dvorec.</title>
+    <author>Čenkov, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čenkov, Emanuel_dvorec</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dvorec.</title>
+     <author>Čenkov, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dvorec.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11000101010" rhyme="1" line_length="11">V luk zeleni a žlutém moři polí</l>
+     <l n="2" met="11010001010" rhyme="1" line_length="11">zříš dvorec bílý; až tě oči bolí,</l>
+     <l n="3" met="01010100010" rhyme="2" line_length="11">jak nebe žhavé nad krajem se slévá!</l>
+     <l n="4" met="10010001010" rhyme="2" line_length="11">Na vlídné průčelí se šplhá réva,</l>
+     <l n="5" met="10010010010" rhyme="3" line_length="11">v třešňové aleji, jež sem se stáčí,</l>
+     <l n="6" met="10010101010" rhyme="3" line_length="11">s drůbeží čilou krocan vážně kráčí.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="00010101010" rhyme="4" line_length="11">To byl dřív tichý klášter chmurných mnichů:</l>
+     <l n="8" met="01110001010" rhyme="4" line_length="11">teď dvůr pln čeledi a řečí, smíchu</l>
+     <l n="9" met="01010001010" rhyme="5" line_length="11">a šotek veselí tu stálým hostem.</l>
+     <l n="10" met="10010101010" rhyme="5" line_length="11">Chvílemi zní tu píseň v zpěvu prostém,</l>
+     <l n="11" met="10010001010" rhyme="6" line_length="11">kohouti kokrhají, pestří pávi</l>
+     <l n="12" met="11010001000" rhyme="6" line_length="11">křik z hrdel vyrážejí pronikavý.</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="01001100010" rhyme="7" line_length="11">Sem zahrady dech opojivý voní,</l>
+     <l n="14" met="10010101010" rhyme="7" line_length="11">ze stájů slyšet řehot bujných koní...</l>
+     <l n="15" met="10010011010" rhyme="8" line_length="11">Poledne. Opouští lid polní práci</l>
+     <l n="16" met="01010100010" rhyme="8" line_length="11">a potem znaven do statku se vrací.</l>
+     <l n="17" met="10010011000" rhyme="9" line_length="11">Na střeše korouhví dech nezahraje</l>
+     <l n="18" met="01010011010" rhyme="9" line_length="11">ni větru nejslabší... Kol všechno zraje.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

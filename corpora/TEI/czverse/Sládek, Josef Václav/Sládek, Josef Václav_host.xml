@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>HOST.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_host</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>HOST.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>HOST.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101010" rhyme="1" line_length="8">CO se děje, co se děje? –</l>
+     <l n="2" met="10101000" rhyme="1" line_length="8">Pes nám štěká na zloděje!</l>
+     <l n="3" met="10101000" rhyme="2" line_length="8">Ale zázrak nad zázraky,</l>
+     <l n="4" met="10101010" rhyme="2" line_length="8">zloděj na psa štěká taky!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101000" rhyme="3" line_length="8">Nebyl zloděj: – bez oběda</l>
+     <l n="6" met="10011000" rhyme="3" line_length="8">přiběh’ k nám pes od souseda;</l>
+     <l n="7" met="10101000" rhyme="4" line_length="8">byli s naším kamarádi,</l>
+     <l n="8" met="10001010" rhyme="4" line_length="8">měli se prý tuze rádi.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" rhyme="5" line_length="8">Hosta nutno uctít přece; –</l>
+     <l n="10" met="00101010" rhyme="5" line_length="8">náš proň ukrad’ slípku s pece:</l>
+     <l n="11" met="10001010" rhyme="6" line_length="8">ale že tak pěkně voní,</l>
+     <l n="12" met="10001010" rhyme="6" line_length="8">raděj’ sám se pustil do ní.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="00101000" rhyme="7" line_length="8">Tak si vjeli bez ostychu</l>
+     <l n="14" met="10001000" rhyme="7" line_length="8">kamarádsky do kožichu,</l>
+     <l n="15" met="10001010" rhyme="8" line_length="8">poprali se jako lití! –</l>
+     <l n="16" met="10101010" rhyme="8" line_length="8">Byli za to oba biti.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

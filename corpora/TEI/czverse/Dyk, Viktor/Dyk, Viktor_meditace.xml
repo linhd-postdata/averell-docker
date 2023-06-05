@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MEDITACE</title>
+    <author>Dyk, Viktor</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dyk, Viktor_meditace</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MEDITACE</title>
+     <author>Dyk, Viktor</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MEDITACE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010101" rhyme="1" line_length="10">Ten obraz nyní duše moje sní,</l>
+     <l n="2" met="01010101000" rhyme="2" line_length="11">– on tíhou svojí do ní zarývá se –!</l>
+     <l n="3" met="0101010100" rhyme="1" line_length="10">Je léto – noc je – chvíle půlnoční.</l>
+     <l n="4" met="01010101010" rhyme="2" line_length="11">Zem’ leží ticha v tmavé svojí kráse.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001010100" rhyme="3" line_length="10">Obrysy temné vidět nyní jen,</l>
+     <l n="6" met="01000101010" rhyme="4" line_length="11">co netopýr tu přelét’ lehce, tiše.</l>
+     <l n="7" met="0101010101" rhyme="3" line_length="10">– Ten ještě jímá duši moji sen:</l>
+     <l n="8" met="01010101010" rhyme="4" line_length="11">ty slyšíš, kterak zvolna země dýše.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101010100" rhyme="5" line_length="10">A všechno skryto v městech vzdálených.</l>
+     <l n="10" met="01010101010" rhyme="6" line_length="11">Ti jedni spí, ti druzí v krčmách pijí.</l>
+     <l n="11" met="0100110001" rhyme="5" line_length="10">A frivolní zní do ulice smích...</l>
+     <l n="12" met="11010101010" rhyme="6" line_length="11">Eh, celkem jedno. Všichni dobře žijí.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="0101010100" rhyme="7" line_length="10">Zem’ dýchá zvolna... Všechno temné je.</l>
+     <l n="14" met="01000101000" rhyme="8" line_length="11">A zoufalec se na vše rozpomene!</l>
+     <l n="15" met="1101010100" rhyme="7" line_length="10">Hle, lehl sobě znaven v koleje.</l>
+     <l n="16" met="01010101000" rhyme="8" line_length="11">A vlak se blíží, – oči rozpálené!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

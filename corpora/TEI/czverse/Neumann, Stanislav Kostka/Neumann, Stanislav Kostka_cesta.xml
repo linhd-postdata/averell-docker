@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>cesta</title>
+    <author>Neumann, Stanislav Kostka</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neumann, Stanislav Kostka_cesta</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>cesta</title>
+     <author>Neumann, Stanislav Kostka</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>cesta</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" rhyme="1" line_length="8">co bude nebo nebude</l>
+     <l n="2" met="10010101" rhyme="2" line_length="8">ráno či večer, kdož to ví,</l>
+     <l n="3" met="10010100" rhyme="2" line_length="8">slovo se snadno vysloví,</l>
+     <l n="4" met="01010100" rhyme="1" line_length="8">a vášeň smyslů pozbude,</l>
+     <l n="5" met="010100" rhyme="2" line_length="6">když dlouho hladoví.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="10010100" rhyme="3" line_length="8">vdova si z karet vykládá</l>
+     <l n="7" met="10010101" rhyme="4" line_length="8">proradný sen a lstivý čas.</l>
+     <l n="8" met="10010100" rhyme="4" line_length="8">muž se však dívá na kompas,</l>
+     <l n="9" met="01010101" rhyme="3" line_length="8">když za tím jde, co býti má,</l>
+     <l n="10" met="010011" rhyme="4" line_length="6">jak po dlouhé tmě jas.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="10010100" rhyme="5" line_length="8">nahoru dolů stranou vpřed</l>
+     <l n="12" met="11010100" rhyme="6" line_length="8">jde naše cesta na hřeben,</l>
+     <l n="13" met="11000101" rhyme="6" line_length="8">z tmy rozporů se klube den,</l>
+     <l n="14" met="11000101" rhyme="5" line_length="8">z hry rozporů se klube svět</l>
+     <l n="15" met="010100" rhyme="6" line_length="6">jak z hlíny socha-sen.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

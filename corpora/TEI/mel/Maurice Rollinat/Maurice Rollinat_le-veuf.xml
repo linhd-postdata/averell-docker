@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Veuf</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_le-veuf</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Veuf</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Veuf</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" />
+    <lg n="2" />
+    <lg n="3" />
+    <lg n="4">
+     <l n="1" rhyme="a" line_length="6+6">Enfin, faut espérer q' la nouvellʼ que j' vas prendre,</l>
+     <l n="2" rhyme="b" line_length="6+6">Dans sa naturʼ de femme agit et pensʼ commʼ moi.</l>
+     <l n="3" rhyme="b" line_length="6+6">C'qui prouvʼrait qu'en amour si j' suis pas d' ceux plus froids,</l>
+     <l n="4" rhyme="a" line_length="6+6">Ellʼ, non plus, tout à fait, ellʼ gèlʼ pas à pierrʼ fendre. »</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

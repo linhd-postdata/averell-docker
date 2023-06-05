@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hoy metimos tres varones</title>
+    <author>Cristóbal de Castillejo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cristóbal de Castillejo_hoy-metimos-tres-varones</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Poesía Lírica Castellana Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hoy metimos tres varones</title>
+     <author>Cristóbal de Castillejo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hoy metimos tres varones</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="Coplas">
+     <l n="1" met="+-+-+-+-">Hoy metimos tres varones</l>
+     <l n="2" met="--+---+-">en el horno aprisionados,</l>
+     <l n="3" met="-+-+--+-">y ahora siendo mirados,</l>
+     <l n="4" met="+-+---+-">veo cuatro sin prisiones;</l>
+     <l n="5" met="-+-+--+-">y el fuego no les empece</l>
+     <l n="6" met="--+---+-">ni les toca en los cabellos;</l>
+     <l n="7" met="-+--+-+-">la vista del cuarto dellos</l>
+     <l n="8" met="+--+--+-">Hijo de Dios me parece.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

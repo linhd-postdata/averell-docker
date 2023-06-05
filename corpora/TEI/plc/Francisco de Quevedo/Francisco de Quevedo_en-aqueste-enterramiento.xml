@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>En aqueste enterramiento</title>
+    <author>Francisco de Quevedo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco de Quevedo_en-aqueste-enterramiento</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Poesía Lírica Castellana Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>En aqueste enterramiento</title>
+     <author>Francisco de Quevedo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>En aqueste enterramiento</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="Redondillas">
+     <l n="1" met="--+---+-">En aqueste enterramiento</l>
+     <l n="2" met="-+-+--+-">humilde, pobre y mezquino,</l>
+     <l n="3" met="+-+-+-+-">yace envuelto en oro fino</l>
+     <l n="4" met="+-+--+-">un hombre rico avariento.</l>
+     <l n="5" met="-+--+-+-">Murió con cien mil dolores,</l>
+     <l n="6" met="--+---+-">sin poderlo remediar.</l>
+     <l n="7" met="+--+-+-">Tan sólo por no gastar,</l>
+     <l n="8" met="+-+--+-">ni aun gasta malos humores.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

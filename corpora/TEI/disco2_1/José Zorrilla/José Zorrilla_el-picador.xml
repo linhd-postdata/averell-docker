@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El picador</title>
+    <author>José Zorrilla</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Zorrilla_el-picador</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El picador</title>
+     <author>José Zorrilla</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El picador</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+---+-+-">Con el hirviente resoplido moja</l>
+     <l n="2" met="-+-+---+-+-">el ronco toro la tostada arena,</l>
+     <l n="3" met="-+---++--+-">la vista en el jinete alta y serena</l>
+     <l n="4" met="+-+--+-+-+-">ancho espacio buscando al asta roja.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">Su arranque audaz a recibir se arroja</l>
+     <l n="6" met="+----+-+-+-">pálida de valor la faz morena,</l>
+     <l n="7" met="+--+---+-+-">e hincha en la frente la robusta vena</l>
+     <l n="8" met="---+---+-+-">el picador, a quien el tiempo enoja.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+++-">Duda la fiera, el español la llama:</l>
+     <l n="10" met="-+-+---+-+-">sacude el toro la enastada frente,</l>
+     <l n="11" met="-+-+-+---+-">la tierra escarba, sopla y desparrama;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++-+-+---+-">le obliga el hombre, parte de repente,</l>
+     <l n="13" met="-+---++-++-">y herido en la cerviz, húyele y brama,</l>
+     <l n="14" met="-+---++--+-">y en grito universal rompe la gente.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

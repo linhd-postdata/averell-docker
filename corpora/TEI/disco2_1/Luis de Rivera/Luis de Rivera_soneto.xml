@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Luis de Rivera</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Luis de Rivera_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Luis de Rivera</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">Última raya de las cosas nuestras</l>
+     <l n="2" met="+-+--+---+-">eres, hora terrible y despechada</l>
+     <l n="3" met="--+--+-+-+-">embeleso fatal en sombra helada</l>
+     <l n="4" met="--+--+---+-">de figuras horribles y siniestras.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++-+-+--++-">¡Qué osadas son tus flechas y qué diestras</l>
+     <l n="6" met="--+-+----+-">para abrir la herida acelerada!</l>
+     <l n="7" met="-+---+-+-+-">De sangre, amarillez, hedor manchada</l>
+     <l n="8" met="-+-+---+++-">así en tus trances con pavor te muestras.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--++-+-+-+-">Mas a ti, tan aleve y tan temida,</l>
+     <l n="10" met="-+-+-+--++-">el justo te desprecia, y en paz santa</l>
+     <l n="11" met="-++--+---+-">recibe ese tu abrazo deseado,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="----+-+--+-">porque para hacer que seas vencida,</l>
+     <l n="13" met="--+--++--+-">el vigor con que a sí propio quebranta,</l>
+     <l n="14" met="---+-++--+-">en inmortal ardor lo ha transformado.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

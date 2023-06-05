@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les Montreurs</title>
+    <author>Charles-Marie Leconte de Lisle</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Charles-Marie Leconte de Lisle_les-montreurs</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Les Montreurs</title>
+     <author>Charles-Marie Leconte de Lisle</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Les Montreurs</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Tel qu'un morne animal, meurtri, plein de poussière,</l>
+     <l n="2" rhyme="b" line_length="6+6">La chaîne au cou, hurlant au chaud soleil d'été,</l>
+     <l n="3" rhyme="b" line_length="6+6">Promène qui voudra son cœur ensanglanté</l>
+     <l n="4" rhyme="a" line_length="6+6">Sur ton pavé cynique, ô plèbe carnassière !</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="b" line_length="6+6">Pour mettre un feu stérile en ton œil hébété,</l>
+     <l n="6" rhyme="a" line_length="6+6">Pour mendier ton rire ou ta pitié grossière,</l>
+     <l n="7" rhyme="a" line_length="6+6">Déchire qui voudra la robe de lumière</l>
+     <l n="8" rhyme="b" line_length="6+6">De la pudeur divine et de la volupté.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Dans mon orgueil muet, dans ma tombe sans gloire,</l>
+     <l n="10" rhyme="c" line_length="6+6">Dussé-je m'engloutir pour l'éternité noire,</l>
+     <l n="11" rhyme="d" line_length="6+6">Je ne te vendrai pas mon ivresse ou mon mal,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Je ne livrerai pas ma vie à tes huées,</l>
+     <l n="13" rhyme="d" line_length="6+6">Je ne danserai pas sur ton tréteau banal</l>
+     <l n="14" rhyme="e" line_length="6+6">Avec tes histrions et tes prostituées.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

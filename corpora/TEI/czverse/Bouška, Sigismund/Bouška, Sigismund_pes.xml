@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pes.</title>
+    <author>Bouška, Sigismund</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Bouška, Sigismund_pes</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pes.</title>
+     <author>Bouška, Sigismund</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pes.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101010" rhyme="1" line_length="10">Byla noc a všecky hvězdy zhasly.</l>
+     <l n="2" met="1010101000" rhyme="2" line_length="10">V hustou tmu se dívám do zahrady;</l>
+     <l n="3" met="1010101010" rhyme="2" line_length="10">byla hrůzná s temným okem zrady,</l>
+     <l n="4" met="1010100010" rhyme="1" line_length="10">chvílí listy chvěly se a třásly.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010101010" rhyme="2" line_length="10">Tichem noci, jak by zmíral hlady,</l>
+     <l n="6" met="1010101000" rhyme="3" line_length="10">zavyl pes v tak děsném nesouzvuku,</l>
+     <l n="7" met="1010100010" rhyme="2" line_length="10">spící pták že nevěda si rady,</l>
+     <l n="8" met="1010101010" rhyme="3" line_length="10">prchal v dáli v křídel tichém tluku.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1000101000" rhyme="4" line_length="10">Rozladěn jsem zavřel okenice.</l>
+     <l n="10" met="1010101000" rhyme="5" line_length="10">Avšak znova v ticho monastýru</l>
+     <l n="11" met="1010100010" rhyme="4" line_length="10">stenal pes jak poraněná lvice.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="1000101010" rhyme="6" line_length="10">Lehl jsem. I v snu mě pes ten leká:</l>
+     <l n="13" met="1010101010" rhyme="5" line_length="10">stále vidím, v zlobných vášní víru</l>
+     <l n="14" met="1010001010" rhyme="6" line_length="10">světa nenávist že venku čeká.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

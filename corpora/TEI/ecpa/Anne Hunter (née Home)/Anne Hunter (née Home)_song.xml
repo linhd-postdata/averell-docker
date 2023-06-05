@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SONG.</title>
+    <author>Anne Hunter (née Home)</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Anne Hunter (née Home)_song</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Eighteenth Century Poetry Archive</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SONG.</title>
+     <author>Anne Hunter (née Home)</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SONG.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="quatrain">
+     <l n="1" met="-+|-+|-+|-+" line_length="8">THE moments fly, and we must part,</l>
+     <l n="2" met="-+|-+|-+" line_length="6">To weep a long adieu;</l>
+     <l n="3" met="-+|-+|-+|-+" line_length="8">But still this fond, this faithful heart,</l>
+     <l n="4" met="-+|-+|-+" line_length="6">Shall feel, shall beat for you.</l>
+    </lg>
+    <lg n="2" stanza_type="quatrain">
+     <l n="5" met="-+|-+|-+|-+" line_length="8">Though seas and adverse fates divide,</l>
+     <l n="6" met="-+|-+|-+" line_length="6">Yet thought unseen shall fly</l>
+     <l n="7" met="-+|-+|-+|-+" line_length="8">Upon the light breeze o'er the tide.</l>
+     <l n="8" met="-+|-+|-+" line_length="6">And in your bosom die.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

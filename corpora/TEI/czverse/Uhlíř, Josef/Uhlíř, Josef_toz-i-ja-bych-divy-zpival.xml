@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Tož i já bych divy zpíval.</title>
+    <author>Uhlíř, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Uhlíř, Josef_toz-i-ja-bych-divy-zpival</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Tož i já bych divy zpíval.</title>
+     <author>Uhlíř, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Tož i já bych divy zpíval.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Lehko růži, v sladkém lůně</l>
+     <l n="2" met="10100010" rhyme="1" line_length="8">Množit líbodechy vůně,</l>
+     <l n="3" met="00101000" rhyme="2" line_length="8">Když se její ve korunce</l>
+     <l n="4" met="10010010" rhyme="2" line_length="8">Koupají paprsky slunce.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101000" rhyme="3" line_length="8">Aniž div to u lilie,</l>
+     <l n="6" met="10101010" rhyme="3" line_length="8">Která nebes rosu pije,</l>
+     <l n="7" met="00100100" rhyme="4" line_length="8">Že pak ze svého kalicha</l>
+     <l n="8" met="10001010" rhyme="4" line_length="8">Medosladkou vůni dýchá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10100010" rhyme="5" line_length="8">Kdyby nebeskými paly</l>
+     <l n="10" met="10101000" rhyme="5" line_length="8">Moje prsa plápolaly,</l>
+     <l n="11" met="10101010" rhyme="6" line_length="8">Kdybych rájský nektar píval,</l>
+     <l n="12" met="01001010" rhyme="6" line_length="8">Tož i já bych divy zpíval.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

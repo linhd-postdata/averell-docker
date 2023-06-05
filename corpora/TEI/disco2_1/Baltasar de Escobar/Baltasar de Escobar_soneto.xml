@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Baltasar de Escobar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Baltasar de Escobar_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Baltasar de Escobar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Entrada a fuerza de armas Cartagena,</l>
+     <l n="2" met="--+--+---+-">y rendida al ejército romano,</l>
+     <l n="3" met="+--+---+-+-">dieron al saco la violenta mano,</l>
+     <l n="4" met="+-+---+--+-">que hace propia la riqueza ajena.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+--++-">Reservan de la presa la más buena</l>
+     <l n="6" met="+-----+-+-+-">joya, para Scipión guardada en vano,</l>
+     <l n="7" met="---+-+---+-">pues al común desorden el humano</l>
+     <l n="8" met="-+-+---+-+-">querer el joven capitán refrena.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">La esposa de Luceyo al afligido</l>
+     <l n="10" met="-+-+---+-+-">amado esposo (liberal hazaña),</l>
+     <l n="11" met="--+----+-+-">sin violar su honestidad, envía,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">Luceyo, a tal valor reconocido,</l>
+     <l n="13" met="-+-+-++--+-">la tierra le rindió, y así la España</l>
+     <l n="14" met="-+-+-+---+-">vencida fue, mas fue de cortesía.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

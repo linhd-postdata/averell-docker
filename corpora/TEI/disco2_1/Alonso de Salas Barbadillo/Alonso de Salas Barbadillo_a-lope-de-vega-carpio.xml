@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Lope de Vega Carpio</title>
+    <author>Alonso de Salas Barbadillo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alonso de Salas Barbadillo_a-lope-de-vega-carpio</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Lope de Vega Carpio</title>
+     <author>Alonso de Salas Barbadillo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Lope de Vega Carpio</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+-+-+-">Es la patria del sol el alto cielo</l>
+     <l n="2" met="---+-+---+-">por donde solo sigue su camino,</l>
+     <l n="3" met="-+-+-++--+-">y así en su propia patria es Peregrino,</l>
+     <l n="4" met="-+---+---+-">cursando su divino paralelo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+---+-">De allí cercado el ámbito del suelo</l>
+     <l n="6" met="+--+-+---+-">rompe y quebranta el hielo cristalino,</l>
+     <l n="7" met="-+-+---+-+-">mostrando al hombre su poder divino</l>
+     <l n="8" met="---+---+-+-">con la presteza de su hermoso vuelo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--++--+-">Vos, Belardo, en Madrid, patria dichosa,</l>
+     <l n="10" met="---+-+---+-">con vuestro ingenio célebre seguiste</l>
+     <l n="11" met="+-+--+-+-+-">un camino desierto, raro y solo,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">y así, por esta hazaña milagrosa,</l>
+     <l n="13" met="---+---+-+-">en vuestra patria Peregrino fuiste,</l>
+     <l n="14" met="---+---+-+-">como en el cielo el soberano Apolo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

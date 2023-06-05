@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ciudad dormida</title>
+    <author>José Santos Chocano</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Santos Chocano_ciudad-dormida</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ciudad dormida</title>
+     <author>José Santos Chocano</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ciudad dormida</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="----+-+--+-">Cartagena de Indias: tú que, a solas,</l>
+     <l n="2" met="---+---+-+-">entre el rigor de las murallas fieras,</l>
+     <l n="3" met="+-+--+---+-">crees que te acarician las banderas</l>
+     <l n="4" met="--+--+---+-">de pretéritas huestes españolas;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+---+-">tú, que ciñes radiantes aureolas,</l>
+     <l n="6" met="--+--+---+-">desenvuelves, soñando en las riberas,</l>
+     <l n="7" met="---+-+---+-">la perezosa voz de tus palmeras</l>
+     <l n="8" met="--+--+---+-">y el escándalo eterno de tus olas...</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--++--+-">¿Para qué es despertar, bella durmiente?</l>
+     <l n="10" met="--+--+---+-">Los piratas tus sueños mortifican,</l>
+     <l n="11" met="-++--+-+-+-">mas tú, siempre serena, te destacas;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+-+-+-">y los párpados cierras blandamente,</l>
+     <l n="13" met="-----+-+-+-">mientras que tus palmeras te abanican</l>
+     <l n="14" met="--+-++---+-">y tus olas te mecen como hamacas...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

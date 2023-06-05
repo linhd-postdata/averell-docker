@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hoj, ty světe chlubný,</title>
+    <author>Jahn, Jiljí Vratislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jahn, Jiljí Vratislav_hoj-ty-svete-chlubny</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hoj, ty světe chlubný,</title>
+     <author>Jahn, Jiljí Vratislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hoj, ty světe chlubný,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010" line_length="6">Hoj, ty světe chlubný, </l>
+     <l n="2" met="010010" rhyme="1" line_length="6">jen dorážej na mne!</l>
+     <l n="3" met="100010" line_length="6">nepohnou mne k želu</l>
+     <l n="4" met="100010" rhyme="1" line_length="6">ouskoky tvé klamné.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100010" line_length="6">Snahy mé se ani</l>
+     <l n="6" met="101000" rhyme="2" line_length="6">o krok neuchýlí</l>
+     <l n="7" met="100010" line_length="6">od trnité cesty</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">k velebnému cíli.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="101010" line_length="6">Nech ať srdce pukne,</l>
+     <l n="10" met="101010" rhyme="3" line_length="6">žár-li šlehne z něho,</l>
+     <l n="11" met="010010" line_length="6">jenž pokořit může</l>
+     <l n="12" met="101000" rhyme="3" line_length="6">soka urputného.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="001100" line_length="6">Nechť mne hrob pohltí,</l>
+     <l n="14" met="100100" rhyme="4" line_length="6">paměť mou odvane –</l>
+     <l n="15" met="001010" line_length="6">jen když nad ním jednou</l>
+     <l n="16" met="101010" rhyme="4" line_length="6">vlasti mstitel vstane!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

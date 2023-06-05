@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Coucher de soleil</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_coucher-de-soleil</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Coucher de soleil</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Coucher de soleil</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Le soleil sur les monts s'écroule,</l>
+     <l n="2" rhyme="b" line_length="8">S'empourpre, et, graduellement,</l>
+     <l n="3" rhyme="b" line_length="8">Rétrécit son rayonnement,</l>
+     <l n="4" rhyme="a" line_length="8">Toujours plus se ramasse en boule.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="8">Sa grande âme presque exhalée,</l>
+     <l n="6" rhyme="d" line_length="8">De ses derniers soupirs de feu</l>
+     <l n="7" rhyme="d" line_length="8">Rougit la côte et le milieu</l>
+     <l n="8" rhyme="c" line_length="8">De la solitaire vallée.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="8">Et quand il s'éteint, descendu</l>
+     <l n="10" rhyme="e" line_length="8">Sur un roc lierreux et fendu,</l>
+     <l n="11" rhyme="f" line_length="8">Taché de noir comme les marbres,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="8">Il figure, brûlant les yeux,</l>
+     <l n="13" rhyme="g" line_length="8">Un saint sacrement monstrueux</l>
+     <l n="14" rhyme="f" line_length="8">Qui saigne parmi des troncs d'arbres.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

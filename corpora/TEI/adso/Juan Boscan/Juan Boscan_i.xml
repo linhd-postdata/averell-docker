@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- I - </title>
+    <author>Juan Boscan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Boscan_i</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- I - </title>
+     <author>Juan Boscan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- I - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+---+-">Disimulando voy con alegría</l>
+     <l n="2" met="-+-+---+-+-">mi triste estado y nuestro estar contento;</l>
+     <l n="3" met="-+-+-+---+-">alcanza luego allí mi pensamiento</l>
+     <l n="4" met="-+-+-+-+-+-">el mal que viene de esto el alma mía.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-++--+-">Porque siguiendo yo tal fantasía</l>
+     <l n="6" met="-+-+---+-+-">el mal se encoge donde más le siento</l>
+     <l n="7" met="-+-+-+---+-">y así le dura más y el sentimiento</l>
+     <l n="8" met="-+-+-+-+-+-">se muestra poco envuelto en tal porfía.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">¡Oh fuerte caso! ¡Oh duros pensamientos</l>
+     <l n="10" met="-+-+-+-+-+-">que siempre estáis pensando nueva guerra!</l>
+     <l n="11" met="-+++-++--+-">Haced ya paz, si no dadme la muerte,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++---++--+-">¿qué vale imaginar nuevos tormentos</l>
+     <l n="13" met="-+---++--+-">en hombre que viviendo esta so tierra,</l>
+     <l n="14" met="-+---+--++-">muriendo sin morir, ni mudar suerte?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

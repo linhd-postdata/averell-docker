@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XXI. Nový den, nový den</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_xxi-novy-den-novy-den</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XXI. Nový den, nový den</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XXI. Nový den, nový den</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101101" rhyme="1" line_length="6">Nový den, nový den </l>
+     <l n="2" met="0010100" rhyme="1" line_length="7">zas mi svítí do oken,</l>
+     <l n="3" met="1010101" rhyme="2" line_length="7">nová cesta, nový cíl,</l>
+     <l n="4" met="0010100" rhyme="2" line_length="7">jaks mi, Bože, stanovil!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101101" rhyme="3" line_length="6">Nová noc, nová noc,</l>
+     <l n="6" met="0010100" rhyme="3" line_length="7">kdo mi přijde na pomoc?</l>
+     <l n="7" met="0010101" rhyme="4" line_length="7">Kéž mi aspoň nové sny</l>
+     <l n="8" met="1010100" rhyme="4" line_length="7">svítí staré do Vesny!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Chci písněmi tě zasypat.</title>
+    <author>Jesenská, Růžena</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jesenská, Růžena_chci-pisnemi-te-zasypat</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Chci písněmi tě zasypat.</title>
+     <author>Jesenská, Růžena</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Chci písněmi tě zasypat.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11000100" rhyme="1" line_length="8">Chci písněmi tě zasypat</l>
+     <l n="2" met="01000100" rhyme="2" line_length="8">jak růžemi, jak růžemi,</l>
+     <l n="3" met="10010101" rhyme="1" line_length="8">a ty mě musíš láskou hřát</l>
+     <l n="4" met="01000100" rhyme="2" line_length="8">tu na zemi, tu na zemi.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" rhyme="1" line_length="8">A musíš na mne vzpomínat</l>
+     <l n="6" met="01000100" rhyme="2" line_length="8">pak růžemi, pak růžemi,</l>
+     <l n="7" met="01010101" rhyme="1" line_length="8">až budu němě, tvrdě spát</l>
+     <l n="8" met="01000100" rhyme="2" line_length="8">tam pod zemí, tam pod zemí!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Což je sněhu čerstvá bělost,</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_coz-je-snehu-cerstva-belost</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Což je sněhu čerstvá bělost,</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Což je sněhu čerstvá bělost,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101010" line_length="8">Což je sněhu čerstvá bělost, </l>
+     <l n="2" met="00101010" rhyme="1" line_length="8">což je perel barva stkvělá</l>
+     <l n="3" met="10100010" line_length="8">proti zoubkům tvým, z nichž každý</l>
+     <l n="4" met="00101010" rhyme="1" line_length="8">se jak jasný démant bělá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00101010" line_length="8">Z nichž se každý bělá jako</l>
+     <l n="6" met="10000010" rhyme="2" line_length="8">zkrystalisované zdraví –</l>
+     <l n="7" met="10101000" line_length="8">ach jakž asi žaloudek tvůj,</l>
+     <l n="8" met="10101010" rhyme="2" line_length="8">krásné děvče, dobře tráví!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

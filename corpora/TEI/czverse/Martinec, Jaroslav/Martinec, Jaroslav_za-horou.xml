@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Za horou.</title>
+    <author>Martinec, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Martinec, Jaroslav_za-horou</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Za horou.</title>
+     <author>Martinec, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Za horou.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101" rhyme="1" line_length="8">Za horou dřímá mladý den</l>
+     <l n="2" met="100100010" rhyme="2" line_length="9">zahalen v purpurovém havu.</l>
+     <l n="3" met="10010101" rhyme="1" line_length="8">Na víčkách dlí mu růžný sen</l>
+     <l n="4" met="010010010" rhyme="2" line_length="9">a červánky věnčí mu hlavu. –</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" line_length="8">Za horou den se probudil,</l>
+     <l n="6" met="010100010" rhyme="3" line_length="9">když slunce nad výšinou plálo;</l>
+     <l n="7" met="01010101" rhyme="1" line_length="8">a rděl se dlouho mladý den,</l>
+     <l n="8" met="00010010" rhyme="3" line_length="8">že se mu o slunci zdálo!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

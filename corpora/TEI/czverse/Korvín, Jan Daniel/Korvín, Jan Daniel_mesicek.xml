@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Měsíček.</title>
+    <author>Korvín, Jan Daniel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Korvín, Jan Daniel_mesicek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Měsíček.</title>
+     <author>Korvín, Jan Daniel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Měsíček.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01001000" rhyme="1" line_length="8">Ten měsíček nad výstavou,</l>
+     <l n="2" met="001010" rhyme="2" line_length="6">ten si nějak brouká,</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">neboť jenom nocí smavou,</l>
+     <l n="4" met="101010" rhyme="2" line_length="6">chudák, do ní kouká!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001000" rhyme="3" line_length="8">Výklady jsou uzavřeny,</l>
+     <l n="6" met="100010" rhyme="4" line_length="6">turnikety váznou,</l>
+     <l n="7" met="10101010" rhyme="3" line_length="8">mimo šenky vidí, ctěný,</l>
+     <l n="8" met="100010" rhyme="4" line_length="6">výstavu jen prázdnou.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01101000" rhyme="5" line_length="8">A má koukat’ do pivnice,</l>
+     <l n="10" met="001010" rhyme="6" line_length="6">tím svou tišit’ trýzeň?</l>
+     <l n="11" met="10101010" rhyme="5" line_length="8">Darmo trpět’ bude více –</l>
+     <l n="12" met="001010" rhyme="6" line_length="6">moh’ by dostat žízeň!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01001000" rhyme="7" line_length="8">Ten měsíček nad výstavou,</l>
+     <l n="14" met="001010" rhyme="8" line_length="6">ten si nějak brouká!</l>
+     <l n="15" met="10001010" rhyme="7" line_length="8">Ponocný jen nocí smavou</l>
+     <l n="16" met="101010" rhyme="8" line_length="6">zdola na něj kouká...</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="01001000" rhyme="9" line_length="8">A měsíček pozoruje</l>
+     <l n="18" met="101010" rhyme="10" line_length="6">všechny kolem stíny,</l>
+     <l n="19" met="00101000" rhyme="9" line_length="8">zda se někde ukazuje</l>
+     <l n="20" met="101010" rhyme="10" line_length="6">ještě někdo jiný!</l>
+    </lg>
+    <lg n="6">
+     <l n="21" met="10100010" rhyme="11" line_length="8">Jiný – Leda že by v brány</l>
+     <l n="22" met="100010" rhyme="12" line_length="6">v popůlnoční tiši</l>
+     <l n="23" met="10001000" rhyme="11" line_length="8">podlezly sem nepozvány</l>
+     <l n="24" met="010010" rhyme="12" line_length="6">ty německé myši.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

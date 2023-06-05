@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Památka.</title>
+    <author>Furch, Vincenc</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">7</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Furch, Vincenc_pamatka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Památka.</title>
+     <author>Furch, Vincenc</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Památka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010001010" rhyme="1" line_length="14">Plná luna druhdy Polska – teď jak měsíc nový!</l>
+     <l n="2" met="101000101000" rhyme="1" line_length="12">Proto nevýslovně bolno Polákovi:</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="100010001000" rhyme="2" line_length="12">Od černého moře až tam k baltickému</l>
+     <l n="4" met="101000100100" rhyme="2" line_length="12">Všechno kořilo se pánovi polskému,</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="101000010010" rhyme="3" line_length="12">Všechno rozpadlo se – jen památka zbyla,</l>
+     <l n="6" met="010010101000" rhyme="3" line_length="12">Ta obrazy svoje krásné nezakryla.</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="010010101000" rhyme="4" line_length="12">Ty obrazy matka dětem ukazuje,</l>
+     <l n="8" met="110010101000" rhyme="4" line_length="12">Jim o dávné slávě zkazky vypravuje.</l>
+    </lg>
+    <lg n="5">
+     <l n="9" met="100010101010" rhyme="5" line_length="12">Obrazy ty Polák zírá v chrámu Páně –</l>
+     <l n="10" met="100100100110" rhyme="5" line_length="12">V zpovědi, v kázání zpomíná kněz na ně.</l>
+    </lg>
+    <lg n="6">
+     <l n="11" met="001010101000" rhyme="6" line_length="12">Když se jinoch, dívka vroucně objímají,</l>
+     <l n="12" met="100100101000" rhyme="6" line_length="12">Sobě a ojczyzně věrnost přisáhají;</l>
+    </lg>
+    <lg n="7">
+     <l n="13" met="010010101010" rhyme="7" line_length="12">Když umírá Polák, když se s světem loučí,</l>
+     <l n="14" met="100100101000" rhyme="7" line_length="12">Děti a ojczyznu Bohu odporoučí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

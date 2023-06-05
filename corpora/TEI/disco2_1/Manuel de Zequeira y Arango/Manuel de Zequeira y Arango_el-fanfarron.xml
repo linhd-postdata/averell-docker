@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El fanfarrón</title>
+    <author>Manuel de Zequeira y Arango</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel de Zequeira y Arango_el-fanfarron</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El fanfarrón</title>
+     <author>Manuel de Zequeira y Arango</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El fanfarrón</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+++-">Cierto preciado fanfarrón un día,</l>
+     <l n="2" met="+-+--+---+-">de estos que andan a caza de aventuras,</l>
+     <l n="3" met="--+--+---+-">instigado por simples conjeturas,</l>
+     <l n="4" met="--++-+---+-">desfacer un entuerto discurría:</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--++--+-">para dar a la acción más energía</l>
+     <l n="6" met="--+--+---+-">fatigaba su mente con lecturas,</l>
+     <l n="7" met="-+---+---+-">y el héroe de la Mancha y sus locuras,</l>
+     <l n="8" met="+-+--+--++-">era el norte y la estrella que le influía.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+-+-+-">El broquel requirió, la daga afianza,</l>
+     <l n="10" met="--+--+-+-+-">registró sus espadas una a una,</l>
+     <l n="11" met="-+---+-+-+-">calose el morrión, tomó la lanza;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">y después provocando a la fortuna</l>
+     <l n="13" met="-+---+-+-+-">intrépido salió a buscar venganza.</l>
+     <l n="14" met="-+-+---+-+-">Y al fin ¿qué sucedió? Cosa ninguna.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

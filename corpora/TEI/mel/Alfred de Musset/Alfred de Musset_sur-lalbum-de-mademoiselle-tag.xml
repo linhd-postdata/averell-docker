@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sur l’Album de Mademoiselle Taglioni</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_sur-lalbum-de-mademoiselle-tag</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sur l’Album de Mademoiselle Taglioni</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sur l’Album de Mademoiselle Taglioni</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Si vous ne voulez plus danser,</l>
+     <l n="2" rhyme="a" line_length="8">Si vous ne faites que passer</l>
+     <l n="3" rhyme="b" line_length="8">Sur ce grand théâtre si sombre,</l>
+     <l n="4" rhyme="b" line_length="8">Ne courez pas après votre ombre,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

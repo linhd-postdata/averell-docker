@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VĚZEŇ BOLESTI</title>
+    <author>Sova, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sova, Antonín_vezen-bolesti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VĚZEŇ BOLESTI</title>
+     <author>Sova, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VĚZEŇ BOLESTI</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100100" line_length="7">Já do záhad zašel jsem</l>
+     <l n="2" met="010010" rhyme="1" line_length="6">a ze záhad vyšel.</l>
+     <l n="3" met="0100101" line_length="7">Já nad sebou ptáky pět</l>
+     <l n="4" met="01010" rhyme="1" line_length="5">jsem někde slyšel.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0100100" rhyme="2" line_length="7">Jsem vězněm své bolesti</l>
+     <l n="6" met="010010" rhyme="3" line_length="6">a přikován k stěně.</l>
+     <l n="7" met="0100100" rhyme="2" line_length="7">Je okno v ní na štěstí.</l>
+     <l n="8" met="010010" rhyme="3" line_length="6">Jím vyhlížím denně.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0100100" rhyme="4" line_length="7">Už někdy si necením</l>
+     <l n="10" met="110010" rhyme="5" line_length="6">dnů smutného žití:</l>
+     <l n="11" met="1000100" rhyme="4" line_length="7">nad zamčeným vězením</l>
+     <l n="12" met="01010" rhyme="5" line_length="5">když hvězdy svítí.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="0100100" line_length="7">Když v moře se rezavá</l>
+     <l n="14" met="110010" rhyme="6" line_length="6">loď odvážně tratí.</l>
+     <l n="15" met="0100100" line_length="7">Když mládež tam v pobřeží</l>
+     <l n="16" met="010110" rhyme="6" line_length="6">si tancem dny krátí.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="1100100" rhyme="7" line_length="7">Pán smutků mne uzavřel</l>
+     <l n="18" met="100010" rhyme="8" line_length="6">na zámek v té věži,</l>
+     <l n="19" met="0100101" rhyme="7" line_length="7">bych za lidské štěstí mřel,</l>
+     <l n="20" met="010010" rhyme="8" line_length="6">a smutek můj střeží.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MARNO!</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_marno</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MARNO!</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MARNO!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101000" rhyme="1" line_length="9">Své duši chtěl jsem ironické</l>
+     <l n="2" met="01010100" rhyme="2" line_length="8">a nové strojit divadlo,</l>
+     <l n="3" met="000101010" rhyme="1" line_length="9">leč co v ní bylo ryzí, lidské,</l>
+     <l n="4" met="01010100" rhyme="2" line_length="8">kams v bezdno hluché zapadlo.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010001010" rhyme="3" line_length="9">I namáhám se, tkám své dumy,</l>
+     <l n="6" met="01010100" rhyme="4" line_length="8">však cítím, duše mrtvá je,</l>
+     <l n="7" met="010101000" rhyme="3" line_length="9">mé slepé touze nerozumí,</l>
+     <l n="8" met="01100100" rhyme="4" line_length="8">co psát na knih svých okraje?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010001010" rhyme="5" line_length="9">Vše zbytečné jsou lidské glossy.</l>
+     <l n="10" met="01010010" rhyme="6" line_length="8">Jen jednou řekneš, co máš říc’.</l>
+     <l n="11" met="010101010" rhyme="5" line_length="9">Jen oči mrtvých ještě prosí,</l>
+     <l n="12" met="01010000" rhyme="6" line_length="8">však rty jich neřeknou již nic.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

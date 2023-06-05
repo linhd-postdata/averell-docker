@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>BŮH</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_buh</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>BŮH</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>BŮH</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10100010101" rhyme="1" line_length="11">Pojmem nejasným nám v mládí bývá Bůh:</l>
+     <l n="2" met="10100010101" rhyme="1" line_length="11">nade všecko jeť nám život, vášní vzruch,</l>
+     <l n="3" met="10100010001" rhyme="2" line_length="11">říší obraznosti nespoutaný let,</l>
+     <l n="4" met="10101010101" rhyme="2" line_length="11">úsměv dívčí krásy, lauru zlatý květ.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00101010101" rhyme="3" line_length="11">Když však život zmrazí žhavou naši krev,</l>
+     <l n="6" met="10001010101" rhyme="3" line_length="11">zklamáním a zradou zhořkne všechen zpěv</l>
+     <l n="7" met="01001010101" rhyme="1" line_length="11">a vypadne stářím z rukou pero, pluh:</l>
+     <l n="8" met="00100010101" rhyme="1" line_length="11">kdo je oporou nám? – Nikdo: jenom Bůh!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

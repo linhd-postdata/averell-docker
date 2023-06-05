@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KDYBY...</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_kdyby</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KDYBY...</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KDYBY...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101000" rhyme="1" line_length="9">„Kdyby tak zvaní radikáli</l>
+     <l n="2" met="010001010" rhyme="1" line_length="9">v ten překotný náš dnešek vstali,</l>
+     <l n="3" met="10000101" rhyme="2" line_length="8">z Havlíčka byl by starý pán</l>
+     <l n="4" met="01010101" rhyme="2" line_length="8">a s Římem šel by mistr Jan:</l>
+     <l n="5" met="010101000" rhyme="3" line_length="9">toť fakt, jenž zjištěn historicky!“</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="010100010" rhyme="3" line_length="9">Co z času, přežije se vždycky!</l>
+     <l n="7" met="01010100" rhyme="4" line_length="8">Však nejhloub žije v člověku</l>
+     <l n="8" met="10010100" rhyme="4" line_length="8">kacířství z věku do věku.</l>
+     <l n="9" met="010001000" rhyme="5" line_length="9">Dnes vzdor by zas byl na levici –</l>
+     <l n="10" met="010101000" rhyme="5" line_length="9">A Hus –? Jak tenkrát: na hranici!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

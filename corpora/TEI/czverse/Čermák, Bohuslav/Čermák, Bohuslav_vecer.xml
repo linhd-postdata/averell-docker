@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Večer.</title>
+    <author>Čermák, Bohuslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čermák, Bohuslav_vecer</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Večer.</title>
+     <author>Čermák, Bohuslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Večer.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Slední pozdrav slunci tklivý</l>
+     <l n="2" met="10101010" rhyme="2" line_length="8">umlk v dálce ohlas zvonu,</l>
+     <l n="3" met="10101000" rhyme="1" line_length="8">tichý večer mlčenlivý,</l>
+     <l n="4" met="10101010" rhyme="2" line_length="8">v kraj se snáší obraz skonu.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="3" line_length="8">Ani vánku, v hrad i chýši</l>
+     <l n="6" met="10101000" rhyme="4" line_length="8">míru kane požehnání;</l>
+     <l n="7" met="00101010" rhyme="3" line_length="8">mou však duši v teskné tíši</l>
+     <l n="8" met="10101000" rhyme="4" line_length="8">truchlé jímá zpomínání.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01101010" rhyme="5" line_length="8">Kdys ach také zvonku hlásky</l>
+     <l n="10" met="10001010" rhyme="6" line_length="8">doznívaly v soumrak jemné,</l>
+     <l n="11" met="00101010" rhyme="5" line_length="8">mé kdy první růže lásky</l>
+     <l n="12" met="10101010" rhyme="6" line_length="8">smrti klesla v náruč temné.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101010" rhyme="7" line_length="8">Tehda mysl druhdy jarou</l>
+     <l n="14" met="10101010" rhyme="8" line_length="8">smutku na vždy moci jaly,</l>
+     <l n="15" met="10101010" rhyme="7" line_length="8">truchlý večer v duši charou,</l>
+     <l n="16" met="10101010" rhyme="8" line_length="8">těžké padly v srdce žaly.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

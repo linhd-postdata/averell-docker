@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VII.</title>
+    <author>Kubelka, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kubelka, Josef_vii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VII.</title>
+     <author>Kubelka, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VII.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010010100" line_length="9">Ten kahanec matně plápolá,</l>
+     <l n="2" met="01001000" rhyme="1" line_length="8">jenž svítí nám nad hlavami.</l>
+     <l n="3" met="010010100" rhyme="2" line_length="9">Ten kahanec matně plápolá</l>
+     <l n="4" met="010010100" rhyme="2" line_length="9">a sladké je přítmí dokola,</l>
+     <l n="5" met="10001010" rhyme="1" line_length="8">a my jsme tak sami, sami.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="010010100" line_length="9">Ten kahanec přítmí neruší,</l>
+     <l n="7" met="01001010" rhyme="3" line_length="8">jen hrozivé stíny plaší</l>
+     <l n="8" met="010010101" rhyme="4" line_length="9">a plane tak zbožně, stlumen, tich,</l>
+     <l n="9" met="0101100100" rhyme="4" line_length="10">že svítit směl do nocí blažených</l>
+     <l n="10" met="01001010" rhyme="3" line_length="8">nám se hvězdou lásky naší.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

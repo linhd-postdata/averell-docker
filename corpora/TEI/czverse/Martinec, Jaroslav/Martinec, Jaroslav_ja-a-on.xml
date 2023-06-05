@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Já a On.</title>
+    <author>Martinec, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Martinec, Jaroslav_ja-a-on</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Já a On.</title>
+     <author>Martinec, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Já a On.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000100" rhyme="1" line_length="7">Bude-li pak brzy líp?</l>
+     <l n="2" met="00101000" rhyme="2" line_length="8">Již to není k vydržení!!</l>
+     <l n="3" met="1010101" rhyme="1" line_length="7">Milý pane, to je vtip,</l>
+     <l n="4" met="10101010" rhyme="2" line_length="8">proto, že to pravda není.</l>
+     <l n="5" met="101010" line_length="6">Oba pravdu díte,</l>
+     <l n="6" met="001010" rhyme="3" line_length="6">jen že v různém duchu:</l>
+     <l n="7" met="101010" line_length="6">První stojí v louži,</l>
+     <l n="8" met="101010" rhyme="3" line_length="6">druhý sedí v suchu!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

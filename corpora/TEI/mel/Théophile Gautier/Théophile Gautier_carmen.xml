@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CARMEN</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_carmen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CARMEN</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CARMEN</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Carmen est maigre,— un trait de bistre</l>
+     <l n="2" rhyme="b" line_length="8">Cerne son œil de gitana.</l>
+     <l n="3" rhyme="a" line_length="8">Ses cheveux sont d'un noir sinistre,</l>
+     <l n="4" rhyme="b" line_length="8">Sa peau, le diable la tanna.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Les femmes disent qu'elle est laide,</l>
+     <l n="6" rhyme="b" line_length="8">Mais tous les hommes en sont fous :</l>
+     <l n="7" rhyme="a" line_length="8">Et l'archevêque de Tolède</l>
+     <l n="8" rhyme="b" line_length="8">Chante la messe à ses genoux ;</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Car sur sa nuque d'ambre fauve</l>
+     <l n="10" rhyme="b" line_length="8">Se tord un énorme chignon</l>
+     <l n="11" rhyme="a" line_length="8">Qui, dénoué, fait dans l'alcôve</l>
+     <l n="12" rhyme="b" line_length="8">Une mante à son corps mignon.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">Et, parmi sa pâleur, éclate</l>
+     <l n="14" rhyme="b" line_length="8">Une bouche aux rires vainqueurs ;</l>
+     <l n="15" rhyme="a" line_length="8">Piment rouge, fleur écarlate,</l>
+     <l n="16" rhyme="b" line_length="8">Qui prend sa pourpre au sang des cœurs.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" rhyme="a" line_length="8">Ainsi faite, la moricaude</l>
+     <l n="18" rhyme="b" line_length="8">Bat les plus altières beautés,</l>
+     <l n="19" rhyme="a" line_length="8">Et de ses yeux la lueur chaude</l>
+     <l n="20" rhyme="b" line_length="8">Rend la flamme aux satiétés.</l>
+    </lg>
+    <lg n="6">
+     <l n="21" rhyme="a" line_length="8">Elle a, dans sa laideur piquante,</l>
+     <l n="22" rhyme="b" line_length="8">Un grain de sel de cette mer</l>
+     <l n="23" rhyme="a" line_length="8">D'où jaillit, nue et provocante,</l>
+     <l n="24" rhyme="b" line_length="8">L'âcre Vénus du gouffre amer.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

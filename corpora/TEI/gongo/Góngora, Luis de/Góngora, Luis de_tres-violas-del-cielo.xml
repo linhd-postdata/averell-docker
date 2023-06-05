@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Tres vïolas del cielo,</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_tres-violas-del-cielo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Tres vïolas del cielo,</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Tres vïolas del cielo,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="+-+--+-" line_length="7">Tres vïolas del cielo,</l>
+     <l n="2" met="+--+-++--+-" line_length="11">tres de las flores ya breves estrellas,</l>
+     <l n="3" met="-+-+-+-" line_length="7">fragrante mármol, sellas,</l>
+     <l n="4" met="---+-+--+-" line_length="10">que aljofaró, la muerte, de su hielo,</l>
+     <l n="5" met="--+-++-+-+-" line_length="11">si las trenzas no están ciñendo ahora</l>
+     <l n="6" met="++---+---+-" line_length="11">de una alba que crepúsculos ignora.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

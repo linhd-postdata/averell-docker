@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Odbytý.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_odbyty</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Odbytý.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Odbytý.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101010" rhyme="1" line_length="10">Hleď tu štíhlou břízu plnou listí!</l>
+     <l n="2" met="1010100010" rhyme="1" line_length="10">Můžeš zlaté lupeny ty sčísti?</l>
+     <l n="3" met="1000100010" rhyme="2" line_length="10">Nemůžeš; vždy některé se kryjí,</l>
+     <l n="4" met="1000101000" rhyme="2" line_length="10">nemůžeš; než kdyby podsekli ji,</l>
+     <l n="5" met="1000101010" rhyme="3" line_length="10">nemůžeš!... Leč zkus to, milý hochu,</l>
+     <l n="6" met="1000101010" rhyme="3" line_length="10">nesčítáš-li, počkáš ještě trochu,</l>
+     <l n="7" met="1000101010" rhyme="4" line_length="10">sčítáš-li však, můžeš, hochu zlatý,</l>
+     <l n="8" met="0010101010" rhyme="4" line_length="10">hned jak ženich vejít do mé chaty.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

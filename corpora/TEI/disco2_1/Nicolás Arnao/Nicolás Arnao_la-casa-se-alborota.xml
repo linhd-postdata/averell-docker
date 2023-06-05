@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La casa se alborota</title>
+    <author>Nicolás Arnao</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nicolás Arnao_la-casa-se-alborota</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La casa se alborota</title>
+     <author>Nicolás Arnao</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La casa se alborota</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+-+-+-">Cuando a veces de insomnio me resiento,</l>
+     <l n="2" met="-+---+---+-">contemplo como brumas en el techo,</l>
+     <l n="3" met="--+--+---+-">los ensueños que salen a mi acecho</l>
+     <l n="4" met="----+-+---+-">para recordar mi lira con su acento.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">Tratando silenciar el movimiento,</l>
+     <l n="6" met="+-+--+---+-">me levanto quedito de mi lecho,</l>
+     <l n="7" met="--+-++-+-+-">y mi esposa me dice: lo sospecho,</l>
+     <l n="8" met="-+-+---+-+-">alguna rima revolando al viento.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">A su voz los muchachos sorprendidos</l>
+     <l n="10" met="--+--+---+-">se despiertan, la casa se alborota,</l>
+     <l n="11" met="--+-++-+-+-">y preguntan ¿ qué pasa se oyen ruidos?</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-++-++--+-">Duerman, les digo: nada, es que mi nota,</l>
+     <l n="13" met="-+-+-+---+-">mi mente en la alta noche solicita</l>
+     <l n="14" met="-+---+---+-">y yo, hijos míos, acudo a su visita.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

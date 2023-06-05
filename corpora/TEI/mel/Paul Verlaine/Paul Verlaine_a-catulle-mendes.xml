@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A CATULLE MENDÈS</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_a-catulle-mendes</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A CATULLE MENDÈS</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A CATULLE MENDÈS</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8+4">VOUS avez magnifiquement vengé la Muse</l>
+     <l n="2" rhyme="b" line_length="6+6">D’un blasphème trop bête en son impiété :</l>
+     <l n="3" rhyme="b" line_length="6+6">« Baudelaire, grand cœur douloureux », a dicté</l>
+     <l n="4" rhyme="a" line_length="6+6">Votre vers châtiant tel pédant qui s’amuse.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="b" line_length="6+6">« Notre cher Baudelaire » ah, qu’il fut bien jeté</l>
+     <l n="6" rhyme="a" line_length="6+6">Ce cri de notre cœur à la face camuse,</l>
+     <l n="7" rhyme="a" line_length="6+6">D’une ignorance qui s’en croit, mais qui s’abuse,</l>
+     <l n="8" rhyme="b" line_length="4+4+4">Et d’un muflisme aggravément prémédité.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Oui, faisons respecter de la foule et du cuistre</l>
+     <l n="10" rhyme="c" line_length="6+6">Nos aînés au tombeau qu’insulte un cri sinistre</l>
+     <l n="11" rhyme="d" line_length="6+6">Corbeaux au lourd vol noir, belettes au corps tors.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Et consolons d’un beau courroux qui berce et flatte</l>
+     <l n="13" rhyme="e" line_length="6+6">D’un bruit encor de gloire en cette fosse ingrate</l>
+     <l n="14" rhyme="d" line_length="6+6">Qui ne sais plus leur nom, les morts, les pauvres morts.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

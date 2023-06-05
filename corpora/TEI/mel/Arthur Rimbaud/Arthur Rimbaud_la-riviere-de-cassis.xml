@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Rivière de Cassis</title>
+    <author>Arthur Rimbaud</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Arthur Rimbaud_la-riviere-de-cassis</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Rivière de Cassis</title>
+     <author>Arthur Rimbaud</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Rivière de Cassis</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="5−6">La Rivière de Cassis roule ignorée</l>
+     <l n="2" line_length="5">La voix de cent corbeaux l'accompagne, vraie</l>
+     <l n="3" line_length="6+5">Avec les grands mouvements des sapinaies</l>
+    </lg>
+    <lg n="2">
+     <l n="4" line_length="5−6">Tout roule avec des mystères révoltants</l>
+     <l n="5" line_length="7">De donjons visités, de parcs importants :</l>
+     <l n="6" line_length="6+5">Les passions mortes des chevaliers errants :</l>
+    </lg>
+    <lg n="3">
+     <l n="7" line_length="6+5">Que le piéton regarde à ces claires-voies :</l>
+     <l n="8" line_length="7">Soldats des forêts que le Seigneur envoie,</l>
+     <l n="9" line_length="5+6">Faites fuir d'ici le paysan matois</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

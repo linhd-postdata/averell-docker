@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A una nave corriendo tormenta</title>
+    <author>Juan de Moncayo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan de Moncayo_a-una-nave-corriendo-tormenta</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A una nave corriendo tormenta</title>
+     <author>Juan de Moncayo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A una nave corriendo tormenta</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---+-">Surca la nave el húmedo alboroto</l>
+     <l n="2" met="-+---+---+-">del mar, y en sus cristales sumergida,</l>
+     <l n="3" met="+--+-+---+-">náufraga, da ejemplares a la vida</l>
+     <l n="4" met="--+--+---+-">con la tarda experiencia del piloto.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++---+---+-">No bien, pues, a los ímpetus del Noto</l>
+     <l n="6" met="-+---+---+-">resiste, de sus furias compelida,</l>
+     <l n="7" met="---+-+---+-">cuando en el riesgo muestra dividida,</l>
+     <l n="8" met="+--+---+-+-">rotas las jarcias y el trinquete roto.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-++--+---+-">Surcó el mar, en peñascos desiguales,</l>
+     <l n="10" met="--+--+---+-">señoreó de su centro las arenas,</l>
+     <l n="11" met="+-+--+---+-">ya tocando los astros celestiales.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+++-+-">Mas al soplo veloz de un viento, apenas</l>
+     <l n="13" met="---+++---+-">de lo que fue no deja las señales,</l>
+     <l n="14" met="-+---+---+-">¡oh trágico retrato de mis penas!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

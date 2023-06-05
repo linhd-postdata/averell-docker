@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>DRAPEAU VRAI</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_drapeau-vrai</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>DRAPEAU VRAI</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>DRAPEAU VRAI</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">LE soldat qui sait bien et veut bien son métier</l>
+     <l n="2" rhyme="b" line_length="6+6">Sera l’homme qu’il faut au Devoir inflexible :</l>
+     <l n="3" rhyme="b" line_length="6+6">Le Devoir, qu’il combatte ou qu’il tire à la bible,</l>
+     <l n="4" rhyme="a" line_length="6+6">Qu’il s’essore à la mort ou batte un plat sentier ;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Le Devoir, qu’il subisse (et l’aime !) un ordre altier</l>
+     <l n="6" rhyme="b" line_length="6+6">Ou repousse le bas conseil de tel horrible</l>
+     <l n="7" rhyme="b" line_length="6+6">Dégoût ; le Devoir bon, le Devoir dur, le crible</l>
+     <l n="8" rhyme="a" line_length="6+6">Où restent les défauts de l’homme tout entier ;</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Le Devoir saint, la fière et douce Obéissance,</l>
+     <l n="10" rhyme="c" line_length="6+6">Rappel de la Famille en dépit de la France</l>
+     <l n="11" rhyme="d" line_length="6+6">Actuelle, au mépris de cette France-là !</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Famille, foyer, France antique et l’immortelle,</l>
+     <l n="13" rhyme="d" line_length="6+6">Le Devoir seul devoir, le Soldat qu’appela</l>
+     <l n="14" rhyme="e" line_length="6+6">D’avance cette France : or l’Espérance est telle.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

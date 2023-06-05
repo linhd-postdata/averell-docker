@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Fragment</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_fragment</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Fragment</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Fragment</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Puis je viens retrouver la place bien-aimée,</l>
+     <l n="2" rhyme="a" line_length="6+6">De fleurs d’or et d’argent la pelouse embaumée,</l>
+     <l n="3" rhyme="b" line_length="6+6">Je regarde des cieux l’aspect toujours nouveau,</l>
+     <l n="4" rhyme="a" line_length="6+6">Et cette vérité qu’on a tant blasphémée</l>
+     <l n="5" rhyme="b" line_length="6+6">Me vient alors au cœur que ce monde si beau</l>
+     <l n="6" rhyme="b" line_length="6+6">Ne peut manquer d’un père et n’être qu’un tombeau.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

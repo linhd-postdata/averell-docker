@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Žal.</title>
+    <author>Havelka, Matěj</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Havelka, Matěj_zal</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Žal.</title>
+     <author>Havelka, Matěj</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Žal.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" rhyme="1" line_length="8">Neptejte se, co mne svírá,</l>
+     <l n="2" met="0010101" rhyme="2" line_length="7">Proč jsem plesu výhost dal;</l>
+     <l n="3" met="10010100" rhyme="1" line_length="8">Srdci, jež bolem umírá,</l>
+     <l n="4" met="1000101" rhyme="2" line_length="7">Útěchou jest tichý žal.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" rhyme="3" line_length="8">Zabřesklo mi jednou světlo</l>
+     <l n="6" met="1000101" rhyme="4" line_length="7">V duši mou, jak hvězdy jas;</l>
+     <l n="7" met="10100100" rhyme="3" line_length="8">Mžikem ale pryč zalétlo,</l>
+     <l n="8" met="1001001" rhyme="4" line_length="7">Marně je volá můj hlas.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" rhyme="5" line_length="8">Chřadne srdce, slze linou,</l>
+     <l n="10" met="1010100" rhyme="6" line_length="7">Ona nedbá na vzdechy;</l>
+     <l n="11" met="10101010" rhyme="5" line_length="8">Smutně mladá léta minou,</l>
+     <l n="12" met="1010100" rhyme="6" line_length="7">V žalu hledám útěchy.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

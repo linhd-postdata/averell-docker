@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Mademoiselle Melesville</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_a-mademoiselle-melesville</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Mademoiselle Melesville</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Mademoiselle Melesville</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Bénis soient le moment, et l’heure, et la journée,</l>
+     <l n="2" rhyme="a" line_length="6+6">Et le temps et les lieux, et le mois de l’année,</l>
+     <l n="3" rhyme="b" line_length="6+6">Et la place chérie où, dans mon triste cœur,</l>
+     <l n="4" rhyme="b" line_length="6+6">Pénétra de ses yeux la charmante douceur !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

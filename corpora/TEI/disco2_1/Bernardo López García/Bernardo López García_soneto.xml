@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Bernardo López García</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Bernardo López García_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Bernardo López García</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">Ellos murieron con la frete erguida;</l>
+     <l n="2" met="-+-+---+-+-">también la tumba devoró al coloso</l>
+     <l n="3" met="--+--+---+-">que humilló con su brazo poderoso</l>
+     <l n="4" met="--+--+---+-">la cabeza de Europa enardecida.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">Ellos cedieron con afán su vida</l>
+     <l n="6" met="--+--++--+-">por el patrio blasón, noble y hermoso;</l>
+     <l n="7" met="+--+-+---+-">él, por regir con cetro belicoso</l>
+     <l n="8" met="-+-+---+-+-">segundo Dios la humanidad vencida.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+---+-">Una corona altiva y esplendente,</l>
+     <l n="10" met="--+--+-+-+-">del tercer Bonaparte el culto abona</l>
+     <l n="11" met="+--+---+-+-">regia brillando en su blasón potente;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+---+-+-">de ellos la tumba la virtud pregona;</l>
+     <l n="13" met="+--+-+---+-">¡héroes... dormid en paz...! para el que siente,</l>
+     <l n="14" met="--++-+---+-">vuestra tumba es mejor que su corona.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

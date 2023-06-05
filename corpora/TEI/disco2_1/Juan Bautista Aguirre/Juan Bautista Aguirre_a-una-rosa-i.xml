@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A una rosa -- I</title>
+    <author>Juan Bautista Aguirre</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Bautista Aguirre_a-una-rosa-i</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A una rosa -- I</title>
+     <author>Juan Bautista Aguirre</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A una rosa -- I</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+-+-+-">En catre de esmeraldas nace altiva</l>
+     <l n="2" met="-+-+---+-+-">la bella rosa, vanidad de Flora,</l>
+     <l n="3" met="-+-+-+-+-+-">y cuanto en perlas le bebió a la aurora</l>
+     <l n="4" met="+--+-+-+-+-">cobra en rubís del sol la luz altiva.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+++-+-">De nacarado incendio es llama viva</l>
+     <l n="6" met="-+-+-+--++-">que al prado ilustra en fe de que la adora;</l>
+     <l n="7" met="-+++-+-+-+-">la luz la enciende, el sol sus hojas dora</l>
+     <l n="8" met="-+-+---+++-">con bello nácar de que al fin la priva.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+----++--+-">Rosas, escarmentad: no presurosas</l>
+     <l n="10" met="--++-+---+-">anheléis a este ardor, que si autoriza,</l>
+     <l n="11" met="--+--+-+-+-">aniquila también el sol, ¡oh rosas!</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+--++-+-+-">Naced y vivir lentas; no en la prisa</l>
+     <l n="13" met="+--+-+---+-">os confundáis, floridas mariposas,</l>
+     <l n="14" met="+--+-+-+-+-">que es anhelar arder, buscar ceniza.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>RESSOUVENIR</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_ressouvenir</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>RESSOUVENIR</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>RESSOUVENIR</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Ô passé des chants doux ! ô l’autrefois des fleurs !…</l>
+     <l n="2" rhyme="a" line_length="6+6">Je chante ici le chant des anciennes douleurs.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="6+6">Je le chante, sans pleurs et sans haine à voix basse,</l>
+     <l n="4" rhyme="a" line_length="6+6">Comme on se bercerait d’une musique lasse…</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="6+6">Profond, irrépressible, autant que le soupir,</l>
+     <l n="6" rhyme="a" line_length="6+6">S’échappe de mon cœur le mauvais souvenir…</l>
+    </lg>
+    <lg n="4">
+     <l n="7" rhyme="a" line_length="6+6">Je vois s’abandonner mon âme lente et lasse</l>
+     <l n="8" rhyme="a" line_length="6+6">Au charme des bruits doux, de la lumière basse.</l>
+    </lg>
+    <lg n="5">
+     <l n="9" rhyme="a" line_length="6+6">Que vont envelopper les anciennes douleurs ?…</l>
+     <l n="10" rhyme="a" line_length="6+6">Ô l’autrefois des chants ! ô le passé des fleurs !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

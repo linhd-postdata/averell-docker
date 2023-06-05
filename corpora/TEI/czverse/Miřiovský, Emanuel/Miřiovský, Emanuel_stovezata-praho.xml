@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Stověžatá Praho!</title>
+    <author>Miřiovský, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Miřiovský, Emanuel_stovezata-praho</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Stověžatá Praho!</title>
+     <author>Miřiovský, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Stověžatá Praho!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001100010" line_length="10">Hluboká noc nad tebou se vznáší,</l>
+     <l n="2" met="1010101000" line_length="10">hřích a cnost ti v lůně ukrývá se,</l>
+     <l n="3" met="1010001010" line_length="10">tisíc myšlenek a tisíc vášní</l>
+     <l n="4" met="1010" line_length="4">ve tvých prsou,</l>
+     <l n="5" met="100010" line_length="6">stověžatá Praho!</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="1000100010" line_length="10">Sirotek tvůj, Vyšehrad je smutný,</l>
+     <l n="7" met="1010001010" line_length="10">jemu Vltava své žalmy pěje</l>
+     <l n="8" met="1000100010" line_length="10">nad uprchlou, dávnověkou slávou,</l>
+     <l n="9" met="1010" line_length="4">žalem pláče,</l>
+     <l n="10" met="100010" line_length="6">stověžatá Praho!</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="1000100010" line_length="10">Genius tvůj nad vodami pluje,</l>
+     <l n="12" met="1000100010" line_length="10">nad oblaky k Hospodinu letí,</l>
+     <l n="13" met="1010101000" line_length="10">hvězda padá, za ní červánkový</l>
+     <l n="14" met="1001" line_length="4">naděje pruh,</l>
+     <l n="15" met="100010" line_length="6">stověžatá Praho!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

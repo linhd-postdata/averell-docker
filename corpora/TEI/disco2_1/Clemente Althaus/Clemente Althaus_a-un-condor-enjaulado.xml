@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A un cóndor enjaulado</title>
+    <author>Clemente Althaus</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Clemente Althaus_a-un-condor-enjaulado</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A un cóndor enjaulado</title>
+     <author>Clemente Althaus</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A un cóndor enjaulado</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+-+---+-">Un tiempo, allá en el suelo americano,</l>
+     <l n="2" met="++-+---+-+-">rey te aclamó la voladora plebe,</l>
+     <l n="3" met="---+--++-+-">y de los Andes la más alta nieve</l>
+     <l n="4" met="-+-+---+-+-">atrás dejabas en tu vuelo ufano:</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+-+-+-">el espacio sin fin del aire vano</l>
+     <l n="6" met="+--+---+-+-">era tu imperio; mas en cárcel breve</l>
+     <l n="7" met="++--+-+--+-">hoy en vano tus alas alza y mueve</l>
+     <l n="8" met="-+-+-+---+-">tu no perdido instinto soberano.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+++-+-+-">¡Cuánto, al mirarte, oh cóndor, me apiadas</l>
+     <l n="10" met="+-+---+--+-">preso, y en suelo, como yo, extranjero!</l>
+     <l n="11" met="-++--+---+-">Mas yo pronto a las playas adoradas</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+-+-+-">de mi dulce Perú tornar espero,</l>
+     <l n="13" met="-++--+---+-">y tú, blanco curioso a las miradas,</l>
+     <l n="14" met="-+---+---+-">ausente morirás y prisionero.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

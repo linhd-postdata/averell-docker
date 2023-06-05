@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XLVII</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_xlvii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XLVII</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XLVII</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">O siècle inachevé, plein d'angoisse et de doutes,</l>
+     <l n="2" rhyme="b" line_length="6+6">Où tout flotte et se mêle en un milieu diffus !</l>
+     <l n="3" rhyme="a" line_length="6+6">Que l'œil avec terreur s'enfonce sous tes voûtes</l>
+     <l n="4" rhyme="a" line_length="6+6">Où les rois à tâtons, vont demandant leurs routes,</l>
+     <l n="5" rhyme="b" line_length="6+6">Car la concession perd comme le refus !</l>
+    </lg>
+    <lg n="2">
+     <l n="6" rhyme="a" line_length="6+6">Quels bouleversements dans tes lointains sans nombre,</l>
+     <l n="7" rhyme="b" line_length="6+6">Que d'antres ténébreux sous tes rameaux touffus,</l>
+     <l n="8" rhyme="a" line_length="6+6">Redoutable avenir où le poète sombre</l>
+     <l n="9" rhyme="a" line_length="6+6">Voit les trônes pencher de plus en plus dans l'ombre</l>
+     <l n="10" rhyme="b" line_length="6+6">Sous un amas croulant d'évènements confus !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

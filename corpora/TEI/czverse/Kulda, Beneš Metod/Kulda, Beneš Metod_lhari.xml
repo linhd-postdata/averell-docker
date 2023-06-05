@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Lháři.</title>
+    <author>Kulda, Beneš Metod</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kulda, Beneš Metod_lhari</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Lháři.</title>
+     <author>Kulda, Beneš Metod</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Lháři.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0010101010" rhyme="1" line_length="10">Mníš-li, lháři, že ti každý věří?</l>
+     <l n="2" met="1010100010" rhyme="1" line_length="10">Moudrý člověk pomluvy tvé měří;</l>
+     <l n="3" met="001010100" rhyme="2" line_length="9">on tvou chytrost jasně prohlédá,</l>
+     <l n="4" met="100010100" rhyme="2" line_length="9">na vějíčku tobě nesedá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1000101010" rhyme="3" line_length="10">O tobě jsem druhdy chvalně soudil,</l>
+     <l n="6" met="1000101010" rhyme="3" line_length="10">znenáhla se’s do mé duše vloudil;</l>
+     <l n="7" met="101010100" rhyme="4" line_length="9">užil’s toho na svou výhodu,</l>
+     <l n="8" met="001000100" rhyme="4" line_length="9">mně však sklamanému na škodu.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1000101010" rhyme="5" line_length="10">Ode mne jsi arciť dostal kvinde,</l>
+     <l n="10" met="1000100010" rhyme="5" line_length="10">nejednej tak ošemetně jinde;</l>
+     <l n="11" met="100010100" rhyme="6" line_length="9">upadl bys rychle v pohanu</l>
+     <l n="12" met="101010100" rhyme="6" line_length="9">u všech soudných, věrných křesťanů.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

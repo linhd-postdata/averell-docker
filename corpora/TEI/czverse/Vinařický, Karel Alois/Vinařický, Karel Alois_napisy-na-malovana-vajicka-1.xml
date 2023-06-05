@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nápisy na malovaná vajíčka. (1.)</title>
+    <author>Vinařický, Karel Alois</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vinařický, Karel Alois_napisy-na-malovana-vajicka-1</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nápisy na malovaná vajíčka. (1.)</title>
+     <author>Vinařický, Karel Alois</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nápisy na malovaná vajíčka. (1.)</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010" rhyme="1" line_length="5">Červené líčko</l>
+     <l n="2" met="10100" rhyme="1" line_length="5">Má to vajíčko;</l>
+     <l n="3" met="10010" rhyme="2" line_length="5">Písmo, až mílo,</l>
+     <l n="4" met="10010" rhyme="2" line_length="5">Na něm je bílo.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10100" rhyme="3" line_length="5">Barva červená</l>
+     <l n="6" met="10100" rhyme="3" line_length="5">Radost znamená,</l>
+     <l n="7" met="10100" rhyme="4" line_length="5">Bílá nevinnost;</l>
+     <l n="8" met="00110" rhyme="4" line_length="5">Ta ti dá radost.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KYRIE ELEISON</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">8</measure>
+    <measure unit="line">7</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_kyrie-eleison</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KYRIE ELEISON</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KYRIE ELEISON</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" />
+    <lg n="2">
+     <l n="1" rhyme="0" line_length="3+6">Donnez-nous la victoire et l’honneur</l>
+    </lg>
+    <lg n="3">
+     <l n="2" rhyme="2" line_length="3+6">Rendez-nous plus croyants et plus doux</l>
+    </lg>
+    <lg n="4">
+     <l n="3" rhyme="0" line_length="3+6">Criblez-nous comme fait le vanneur</l>
+    </lg>
+    <lg n="5">
+     <l n="4" rhyme="2" line_length="3+6">Nous vous en supplions à genoux,</l>
+     <l n="5" rhyme="0" line_length="3+6">Ouvrez-nous par la Foi le Bonheur.</l>
+    </lg>
+    <lg n="6">
+     <l n="6" rhyme="0" line_length="3+6">Ouvrez-nous par l’Amour le Bonheur,</l>
+    </lg>
+    <lg n="7">
+     <l n="7" rhyme="1" line_length="3−6">Seigneur, par l’Espérance, ouvrez-nous,</l>
+    </lg>
+    <lg n="8" />
+   </lg>
+  </body>
+ </text>
+</TEI>

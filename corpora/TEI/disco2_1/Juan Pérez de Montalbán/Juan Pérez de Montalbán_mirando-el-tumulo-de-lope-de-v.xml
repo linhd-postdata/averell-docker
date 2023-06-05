@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mirando el túmulo de Lope de Vega</title>
+    <author>Juan Pérez de Montalbán</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Pérez de Montalbán_mirando-el-tumulo-de-lope-de-v</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mirando el túmulo de Lope de Vega</title>
+     <author>Juan Pérez de Montalbán</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mirando el túmulo de Lope de Vega</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-++--++--+-">Aquí yace, ¡ay dolor! ¡ay hado esquivo!</l>
+     <l n="2" met="-+-+-+-+-+-">aquí reposo, ¡ay fin dudoso y cierto!</l>
+     <l n="3" met="-+-+---+-+-">aquí fluctúa, ¡ay peligroso puerto!</l>
+     <l n="4" met="-+-+-+---+-">aquí fallece, ¡ay golpe ejecutivo!</l>
+    </lg>
+    <lg n="2" stanza_type="unknown">
+     <l n="5" met="++---+-+-+-">Un hombre, cuyo nombre no percibe,</l>
+     <l n="6" met="++---+--++-">un ángel, cuyo espíritu no acierto,</l>
+     <l n="7" met="++---+---+-">un vivo con escrúpulos de muerto,</l>
+     <l n="8" met="++---+---+-">y un muerto con relámpagos de vivo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++---+--++-">Un Héroe, que a su patria inmortal hace,</l>
+     <l n="10" met="+------+-+-">un semi-Dios, que su fortuna elige,</l>
+     <l n="11" met="++---+-+-+-">un fénix racional que muere y nace.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++-+---+-+-">Un sacro Apolo que el Parnaso rige,</l>
+     <l n="13" met="+--+-+++-+-">dígolo de una vez, LOPE es quien yace,</l>
+     <l n="14" met="+-++-+-+-+-">todo lo digo ya, pues LOPE dije.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

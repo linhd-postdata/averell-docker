@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>OBLAKA.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_oblaka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>OBLAKA.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>OBLAKA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010100" line_length="9">Na plující hledíš oblaka,</l>
+     <l n="2" met="0100101000" rhyme="1" line_length="10">a někdy se lodím podobají,</l>
+     <l n="3" met="100010100" line_length="9">na lodích těch bílých navždycky</l>
+     <l n="4" met="11001000" rhyme="1" line_length="8">sny mladosti odplouvají.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010010100" line_length="9">A smutně jen hledíš za nimi</l>
+     <l n="6" met="1001000" rhyme="2" line_length="7">v tesklivém usmívání:</l>
+     <l n="7" met="110010100" line_length="9">Ó plujte a plujte, sbohem už,</l>
+     <l n="8" met="1001000" rhyme="2" line_length="7">na nikdy neshledání!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>En vuestras manos ya creo</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_en-vuestras-manos-ya-creo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>En vuestras manos ya creo</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>En vuestras manos ya creo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="---+-++-" line_length="8">En vuestras manos ya creo</l>
+     <l n="2" met="-+-+-++-" line_length="8">el plectro, Lope, más grave,</l>
+     <l n="3" met="---+-+-" line_length="7">y aun la violencia süave</l>
+     <l n="4" met="--+-+-+-" line_length="8">que a los bosques hizo Orfeo,</l>
+     <l n="5" met="------+-" line_length="8">pues cuando en vuestro museo</l>
+     <l n="6" met="--+---+-" line_length="8">por lo blando y cebellín</l>
+     <l n="7" met="+--+--+-" line_length="8">cerdas rascáis al violín,</l>
+     <l n="8" met="++--+-+-" line_length="8">no un árbol os sigue, o dos,</l>
+     <l n="9" met="--+---+-" line_length="8">mas descienden sobre vos</l>
+     <l n="10" met="-+---+-" line_length="7">las piedras de Valsaín.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

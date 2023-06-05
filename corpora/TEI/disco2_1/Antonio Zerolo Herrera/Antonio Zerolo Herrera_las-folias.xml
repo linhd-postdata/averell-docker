@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Las folias</title>
+    <author>Antonio Zerolo Herrera</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Antonio Zerolo Herrera_las-folias</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Las folias</title>
+     <author>Antonio Zerolo Herrera</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Las folias</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+----+---+-">Música original la de mis lares,</l>
+     <l n="2" met="--+--+---+-">pues conmueven el alma del patriota,</l>
+     <l n="3" met="--+--+---+-">desde la isla, hermana de la jota,</l>
+     <l n="4" met="--+--+---+-">hasta el viento que zumba en los pinares.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---++---+-">¡Oh, las folías!... Tienen sus cantares</l>
+     <l n="6" met="+-+--+-+-+-">un recuerdo de amor en cada nota;</l>
+     <l n="7" met="-+--+--+-+-">pero hay algo también que a veces brota</l>
+     <l n="8" met="--+--+---+-">del undívago seno de los mares.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">Allá en las noches plácidas, serenas,</l>
+     <l n="10" met="--+--+---+-">cuando flota el misterio en el ambiente</l>
+     <l n="11" met="--+--+---+-">y reposa el Atlante en las arenas,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+----+++-">más que el oído, el corazón lo siente:</l>
+     <l n="13" met="+-++-+---+-">¡es la voz, es la voz de la sirenas</l>
+     <l n="14" met="-+--+--+-+-">que cantan a la isla eternamente!...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

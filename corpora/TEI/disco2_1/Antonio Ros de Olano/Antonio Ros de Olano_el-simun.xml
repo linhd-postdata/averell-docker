@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El simún</title>
+    <author>Antonio Ros de Olano</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Antonio Ros de Olano_el-simun</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El simún</title>
+     <author>Antonio Ros de Olano</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El simún</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+++---+-">La soledad lo aborta sin destino</l>
+     <l n="2" met="--+--+---+-">sobre el páramo inmenso del desierto;</l>
+     <l n="3" met="---+-+-+-+-">a su presencia duélese el Mar Muerto</l>
+     <l n="4" met="-+-+-+---+-">y gime triste el campo palestino.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-++--+-">Con polvorosa crin barre el camino,</l>
+     <l n="6" met="---+---+-+-">y a su bochorno el caminante incierto,</l>
+     <l n="7" met="-+-+-+---+-">el cuerpo tiende, el hálito cubierto</l>
+     <l n="8" met="-+---+---+-">del raudo y abrasante remolino.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">¡Pasó!... Y el tigre bota en la candente</l>
+     <l n="10" met="-+--++---+-">arena, en que el león ruge erizado,</l>
+     <l n="11" met="-+---+---+-">y silba y se retuerce la serpiente...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">¡Pasó!... Y en la quietud del despoblado</l>
+     <l n="13" met="--+--+---+-">la ciudad solitaria del Oriente</l>
+     <l n="14" met="+----+---+-">llora con el Profeta su pecado.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

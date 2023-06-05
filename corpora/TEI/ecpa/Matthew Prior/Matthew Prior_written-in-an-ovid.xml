@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Written in an OVID.</title>
+    <author>Matthew Prior</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Matthew Prior_written-in-an-ovid</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Eighteenth Century Poetry Archive</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Written in an OVID.</title>
+     <author>Matthew Prior</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Written in an OVID.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="quatrain">
+     <l n="1" met="+-|+-|+-|+" line_length="7">is the surest Guide,</l>
+     <l n="2" met="+-|+-|+-|+" line_length="7">You can name, to show the Way</l>
+     <l n="3" met="+-|+-|+-|+" line_length="7">To any Woman, Maid, or Bride,</l>
+     <l n="4" met="+-|+-|+-|+" line_length="7">Who resolves to go astray.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

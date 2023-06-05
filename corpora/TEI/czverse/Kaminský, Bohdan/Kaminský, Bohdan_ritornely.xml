@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ritornely.</title>
+    <author>Kaminský, Bohdan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kaminský, Bohdan_ritornely</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ritornely.</title>
+     <author>Kaminský, Bohdan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ritornely.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100010" rhyme="1" line_length="11">Je ona píseň světější a vyšší</l>
+     <l n="2" met="0001010100" line_length="10">než ta, již básník zpívat musí všem:</l>
+     <l n="3" met="01000101010" rhyme="1" line_length="11">ta, již jen on, s ním jedno srdce slyší.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="01001001010" rhyme="2" line_length="11">A básníku, jemuž je země malá</l>
+     <l n="5" met="0101010100" line_length="10">i vesmír celý, náhle postačí</l>
+     <l n="6" met="10010101000" rhyme="2" line_length="11">jediná ústa, jež se usmívala.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="10010100010" rhyme="3" line_length="11">Raněné ptáče zatíkalo želem.</l>
+     <l n="8" met="0100010100" line_length="10">Kdo zhojí je? – A srdce člověka,</l>
+     <l n="9" met="01000101000" rhyme="3" line_length="11">když zasteskne si v žití osamělém? –</l>
+    </lg>
+    <lg n="4">
+     <l n="10" met="01010101010" rhyme="4" line_length="11">Vy chcete lásku? – Není z toho světa.</l>
+     <l n="11" met="0101010100" line_length="10">A štěstí? – Ah, – to motýl těkavý</l>
+     <l n="12" met="01010101010" rhyme="4" line_length="11">z těch cizích světů hostem k zemi slétá.</l>
+    </lg>
+    <lg n="5">
+     <l n="13" met="01000101010" rhyme="5" line_length="11">Co ze všeho nám zbude v život celý? –</l>
+     <l n="14" met="1001010100" line_length="10">Na jeden pohled divná vzpomínka –</l>
+     <l n="15" met="00010101000" rhyme="5" line_length="11">to mně; Vám v knize tyto ritornely.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

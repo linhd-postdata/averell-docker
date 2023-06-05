@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Epigrama</title>
+    <author>Juan Francisco Andrés</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Francisco Andrés_epigrama</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Epigrama</title>
+     <author>Juan Francisco Andrés</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Epigrama</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">El Ebro en su corriente cristalina,</l>
+     <l n="2" met="+--+---+-+-">célebre Alcino, tus discretas sales,</l>
+     <l n="3" met="-----+---+-">pues, con tus agudezas, sus caudales,</l>
+     <l n="4" met="+--+-+---+-">no envidiarán la fuente Cabalina.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+---+-">Tu voz resuene dulce, peregrina,</l>
+     <l n="6" met="--+--+---+-">en los climas remotos Boreales,</l>
+     <l n="7" met="-----+---+-">porque de tu elocuencia los raudales</l>
+     <l n="8" met="--++-+-+-+-">al mayor Lauro, Febo los destina.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">El Clarín resonante de la fama</l>
+     <l n="10" met="-+---+---+-">aplauda sus cadencias ingeniosas,</l>
+     <l n="11" met="---+-+-+-+-">cuando el sonoro Pindo las aclama.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">Y exentas de las sombras envidiosas,</l>
+     <l n="13" met="-+-+-+--++-">de Daphne las corone inmortal Rama,</l>
+     <l n="14" met="---+-+---+-">para que brillen siempre victoriosas.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

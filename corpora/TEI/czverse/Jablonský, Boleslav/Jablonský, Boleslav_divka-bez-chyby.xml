@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dívka bez chyby.</title>
+    <author>Jablonský, Boleslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jablonský, Boleslav_divka-bez-chyby</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dívka bez chyby.</title>
+     <author>Jablonský, Boleslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dívka bez chyby.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">„Krásné dítě! Všecky cnosti</l>
+     <l n="2" met="10001000" rhyme="1" line_length="8">Srdcejemné zpannilosti</l>
+     <l n="3" met="1010100" rhyme="2" line_length="7">Bytost tvoje spojuje:</l>
+     <l n="4" met="10101000" rhyme="1" line_length="8">Duši plnou nevinnosti,</l>
+     <l n="5" met="1010100" rhyme="2" line_length="7">Tílko plno grácie!“</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="10101000" rhyme="3" line_length="8">„Jednu ale chybu já ti</l>
+     <l n="7" met="10101000" rhyme="3" line_length="8">Přece musím vytýkati...“</l>
+     <l n="8" met="0010100" rhyme="4" line_length="7">„„Což se pánu nelíbí?““</l>
+     <l n="9" met="00101000" rhyme="3" line_length="8">„Že mě nechceš milovati!“</l>
+     <l n="10" met="0100100" rhyme="4" line_length="7">„„Nuž – tedy jsem – bez chyby!““</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

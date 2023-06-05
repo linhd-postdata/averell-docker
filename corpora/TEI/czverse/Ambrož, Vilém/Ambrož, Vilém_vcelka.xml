@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Včelka.</title>
+    <author>Ambrož, Vilém</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ambrož, Vilém_vcelka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Včelka.</title>
+     <author>Ambrož, Vilém</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Včelka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010010010010" line_length="15">Včelku pilnou pozoruj, květnou jak vesluje loukou,</l>
+     <l n="2" met="1011001001010" line_length="13">ve všech, viz, květinách mízu si pracně hledá;</l>
+     <l n="3" met="100101010011000" line_length="15">v lidstva-li proud tě vrhá nezměnná moc povolání –</l>
+     <l n="4" met="110101010010" line_length="12">med sbírej ctnosti, straň se neřesti jedu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

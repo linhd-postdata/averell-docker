@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Un soneto más</title>
+    <author>Alejandro de Gabriel y Ramírez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alejandro de Gabriel y Ramírez_un-soneto-mas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Un soneto más</title>
+     <author>Alejandro de Gabriel y Ramírez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Un soneto más</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--++-+-+-+-">Escribir un soneto en media hora</l>
+     <l n="2" met="+--+-+-+-+-">quiere decir que el vate está inspirado:</l>
+     <l n="3" met="--+--+-+-+-">por saber si la Musa me ha soplado,</l>
+     <l n="4" met="+-++-+---+-">va a intentarlo mi pluma previsora.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+---+-">Cinco versos escritos hasta ahora</l>
+     <l n="6" met="+------+-+-">dicen que diez minutos he tardado,</l>
+     <l n="7" met="--+--+---+-">y el reloj, en su son acompasado,</l>
+     <l n="8" met="-+-+-+---+-">que pasa el plazo avisa sin demora.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Mas, sin duda, la Musa, complaciente,</l>
+     <l n="10" met="--+--+-+++-">con su soplo divino a mí me inspira;</l>
+     <l n="11" met="---+-+---+-">pues, sin forzar el alma ni la mente,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+-+-+-">cuando el tiempo fijado casi expira,</l>
+     <l n="13" met="--+--+---+-">observando con ánimo indulgente,</l>
+     <l n="14" met="--+--+-+-+-">terminado el soneto bien se mira.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

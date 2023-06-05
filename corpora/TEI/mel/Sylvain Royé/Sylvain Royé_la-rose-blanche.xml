@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Rose blanche</title>
+    <author>Sylvain Royé</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sylvain Royé_la-rose-blanche</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Rose blanche</title>
+     <author>Sylvain Royé</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Rose blanche</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6−6">Je vous envoie, ô bien-aimée, entre ces pages</l>
+     <l n="2" rhyme="b" line_length="6−6">La rose blanche du jardin abandonné</l>
+     <l n="3" rhyme="b" line_length="4+8">Malgré le deuil des pétales déjà fanés</l>
+     <l n="4" rhyme="a" line_length="6−6">Acceptez-la pour le parfum qu'elle dégage.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Je l'ai cueillie, au fond du parc, en vous rêvant.</l>
+     <l n="6" rhyme="b" line_length="4+4+4">En vous rêvant toute charmante et toute sage ;</l>
+     <l n="7" rhyme="b" line_length="6−6">Et je la glisse, ô bien-aimée, entre ces pages</l>
+     <l n="8" rhyme="a" line_length="6+6">Où j'abandonne en mots pressés, mon coeur fervent.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Autour de moi c'était la lutte inexorable.</l>
+     <l n="10" rhyme="b" line_length="6−6">On se battait de la terrasse au petit bois.</l>
+     <l n="11" rhyme="b" line_length="6−6">Mais à présent c'est le silence autour de moi.</l>
+     <l n="12" rhyme="a" line_length="4+4+4">L’ombre d’un pin s'immobilise sur le sable.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="6−6">Et s’il y a sur un pétale un peu de sang,</l>
+     <l n="14" rhyme="b" line_length="6−6">Ne croyez pas — je vous en prie — aux pires choses.</l>
+     <l n="15" rhyme="b" line_length="4+4+4">Impatient de posséder la blanche rose…</l>
+     <l n="16" rhyme="a" line_length="6+6">Je me serai… piqué les doigts en la cueillant !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

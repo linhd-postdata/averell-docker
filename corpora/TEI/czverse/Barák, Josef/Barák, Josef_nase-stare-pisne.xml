@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Naše staré písně</title>
+    <author>Barák, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Barák, Josef_nase-stare-pisne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Naše staré písně</title>
+     <author>Barák, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Naše staré písně</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000100010" rhyme="1" line_length="10">Otevřely stavěké se hroby,</l>
+     <l n="2" met="0010100010" rhyme="2" line_length="10">a z nich místo starobylé plísně</l>
+     <l n="3" met="1000101010" rhyme="2" line_length="10">vyřinou se mocně dávné písně, –</l>
+     <l n="4" met="1010001010" rhyme="1" line_length="10">zpěvní svědkové to zašlé doby.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010101010" rhyme="3" line_length="10">Zpíval národ! – Jeho jaré zpěvy</l>
+     <l n="6" met="1000101010" rhyme="4" line_length="10">zachovaly obraz dávné síly,</l>
+     <l n="7" met="1010101010" rhyme="3" line_length="10">mužův ráznost, bolnou něhu děvy, –</l>
+     <l n="8" met="0010001010" rhyme="4" line_length="10">jsou jak otcové a matky byli.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010101000" rhyme="5" line_length="10">A teď lid náš v zpěvu dostonává;</l>
+     <l n="10" met="1010101010" rhyme="6" line_length="10">jeho píseň bolův svět je celý,</l>
+     <l n="11" met="1010001000" rhyme="6" line_length="10">jeho píseň však též rozveselí</l>
+     <l n="12" met="1010101000" rhyme="5" line_length="10">toho, jehož pláč už dokonává.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1000001000" rhyme="6" line_length="10">Doplakali jsme a doželeli,</l>
+     <l n="14" met="1000100010" rhyme="7" line_length="10">odvrhli jsme stavěké své tísně,</l>
+     <l n="15" met="1010100010" rhyme="6" line_length="10">mocně, jaře, otcové jak pěli,</l>
+     <l n="16" met="1010001010" rhyme="7" line_length="10">nové zaznějí zas lidem písně.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

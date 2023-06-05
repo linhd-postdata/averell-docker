@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Diálogo pastoral</title>
+    <author>Evaristo Méndez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Evaristo Méndez_dialogo-pastoral</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Diálogo pastoral</title>
+     <author>Evaristo Méndez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Diálogo pastoral</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+--+-+--">Es la tarde; el crepúsculo se ha vestido de malva,</l>
+     <l n="2" met="---+-+-+-+--+-">y en los trigales rubios glisa el céfiro lento.</l>
+     <l n="3" met="-+--+++-+--+-">Othilia, ¿si algún día yo olvidase tu acento</l>
+     <l n="4" met="+--+-+--+-+-+-">viendo pasar las nubes...? -La noche tiene su alba.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++-+-+-+--++-">-Hay una noche eterna... -Que aun el amor salva.</l>
+     <l n="6" met="---+-+-+----+-">-En tus pupilas verdes hundo mi pensamiento,</l>
+     <l n="7" met="++++++-++--+-">¡son un mar!... -Son un mar o son un firmamento...</l>
+     <l n="8" met="-+-+-+----+-+-">(El sol se había ocultado tras la montaña calva.)</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+---+-+-">-Estas viñas se inclinan a tu paso. La espiga</l>
+     <l n="10" met="+-+--+--+---+-">te saluda, pues sabe que su oro se mitiga</l>
+     <l n="11" met="-+---+----++-">al lado de los oros de tu cabello. El Hada</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+-+-+-+-">eres de esta pradera. Yo quiero ser la reina</l>
+     <l n="13" met="--+--+---+--+-">de tu imperio. (La noche su cabello despeina.)</l>
+     <l n="14" met="+----+++---+-">-¡Quiero crucificarme, Otilia, en tu mirada!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

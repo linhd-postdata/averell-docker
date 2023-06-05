@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soñar y amar</title>
+    <author>José Gonzalo Roldán</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Gonzalo Roldán_sonar-y-amar</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soñar y amar</title>
+     <author>José Gonzalo Roldán</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soñar y amar</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+---+-">Soñé que una selva silenciosa</l>
+     <l n="2" met="-++--+---+-">junto a un lago risueño y transparente,</l>
+     <l n="3" met="+--+-+-+-+-">vi de mi Lesbia la serena frente</l>
+     <l n="4" met="+--+---+-+-">pura cual siempre y como siempre hermosa.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">Soñé que con manera pudorosa</l>
+     <l n="6" met="+-++-+-+-+-">puso en un lazo azul jazmín luciente,</l>
+     <l n="7" met="-+---++--+-">y al seño los unió tierno y latiente,</l>
+     <l n="8" met="-+-+-+---+-">con trenzas de áurea seda primorosa.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+----+---+-">Díjome «Adiós» y vuelvo a mi retiro.</l>
+     <l n="10" met="-+-+---+-+-">En vano quise detener su brazo,</l>
+     <l n="11" met="+--+-+---+-">fue como el viento rápido su giro.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+-+-+-">Y mi dulce ilusión cumplió su plazo...</l>
+     <l n="13" met="---+-+-+-+-">Y el corazón llevóse en un suspiro</l>
+     <l n="14" met="+-+--++--+-">selva, lago, jazmín, trenzas y lazo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

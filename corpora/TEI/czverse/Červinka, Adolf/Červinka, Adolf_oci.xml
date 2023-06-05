@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>OČI.</title>
+    <author>Červinka, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červinka, Adolf_oci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>OČI.</title>
+     <author>Červinka, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>OČI.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01001001" rhyme="1" line_length="8">Jen duši tvou chtěl bych si vzít,</l>
+     <l n="2" met="010010010" rhyme="2" line_length="9">jež očima tvýma se dívá,</l>
+     <l n="3" met="10100101" rhyme="1" line_length="8">a pak zase svou cestou jít,</l>
+     <l n="4" met="010010010" rhyme="2" line_length="9">jež ve smutnou nížinu splývá...</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01001000" rhyme="3" line_length="8">Snad rety tvé žhavé jsou dost</l>
+     <l n="6" met="010010010" rhyme="4" line_length="9">a k polibkům rády se nahnou...</l>
+     <l n="7" met="01001001" rhyme="3" line_length="8">Já z jiného světa jsem host,</l>
+     <l n="8" met="010010010" rhyme="4" line_length="9">jen po duši ruce mé prahnou!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01001001" rhyme="5" line_length="8">A všecko, co dosud jsem žil,</l>
+     <l n="10" met="010010010" rhyme="6" line_length="9">je najednou nicotnou tříští,</l>
+     <l n="11" met="01001001" rhyme="5" line_length="8">když z hlubin tvé duše jsem pil,</l>
+     <l n="12" met="010010010" rhyme="6" line_length="9">mně lásky se zjevilo Příští!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

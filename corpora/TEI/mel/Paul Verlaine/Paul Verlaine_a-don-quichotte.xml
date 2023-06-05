@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>À DON QUICHOTTE</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_a-don-quichotte</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>À DON QUICHOTTE</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>À DON QUICHOTTE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Ô Don Quichotte, vieux paladin, grand Bohème,</l>
+     <l n="2" rhyme="b" line_length="6+6">En vain la foule absurde et vile rit de toi :</l>
+     <l n="3" rhyme="a" line_length="6+6">Ta mort fut un martyre et ta vie un poème,</l>
+     <l n="4" rhyme="b" line_length="6+6">Et les moulins à vent avaient tort, ô mon roi !</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="b" line_length="6+6">Va toujours, va toujours, protégé par ta foi,</l>
+     <l n="6" rhyme="a" line_length="6+6">Monté sur ton coursier fantastique que j'aime.</l>
+     <l n="7" rhyme="b" line_length="6+6">Glaneur sublime, va ! ― les oublis de la loi</l>
+     <l n="8" rhyme="a" line_length="6+6">Sont plus nombreux, plus grands qu'au temps jadis lui-même.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Hurrah ! nous te suivons, nous, les poètes saints</l>
+     <l n="10" rhyme="c" line_length="6+6">Aux cheveux de folie et de verveine ceints.</l>
+     <l n="11" rhyme="d" line_length="6+6">Conduis-nous à l'assaut des hautes fantaisies,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Et bientôt, en dépit de toute trahison,</l>
+     <l n="13" rhyme="d" line_length="6+6">Flottera l'étendard ailé des Poésies</l>
+     <l n="14" rhyme="e" line_length="6+6">Sur le crâne chenu de l'inepte raison !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

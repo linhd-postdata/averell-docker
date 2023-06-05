@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LACRIMAE RERUM.</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_lacrimae-rerum</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LACRIMAE RERUM.</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LACRIMAE RERUM.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010101010" rhyme="1" line_length="11">Lom, odkud kámen berou, smutně zeje</l>
+     <l n="2" met="01000100010" rhyme="2" line_length="11">jak žaloval by do modrého nebe,</l>
+     <l n="3" met="01010001010" rhyme="1" line_length="11">a zahleď do něho se – smutek schvěje</l>
+     <l n="4" met="01000100010" rhyme="2" line_length="11">a zalije, ty poutníče, i tebe.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101000" rhyme="3" line_length="11">Je bolest věcí... Je to rozervaná</l>
+     <l n="6" met="11010101010" rhyme="4" line_length="11">hruď matky země. Chvíli hledíš němý</l>
+     <l n="7" met="01010101010" rhyme="3" line_length="11">a zdá se, že se chví ta živá rána</l>
+     <l n="8" met="01010101000" rhyme="4" line_length="11">a vlhne krve svojí krůpějemi.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

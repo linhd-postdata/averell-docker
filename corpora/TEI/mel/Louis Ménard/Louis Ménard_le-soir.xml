@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Soir</title>
+    <author>Louis Ménard</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Louis Ménard_le-soir</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Soir</title>
+     <author>Louis Ménard</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Soir</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Plus fraîche qu'un parfum d'avril après l'hiver,</l>
+     <l n="2" rhyme="b" line_length="6+6">L'espérance bénie arrive et nous enlace,</l>
+     <l n="3" rhyme="a" line_length="6+6">La menteuse éternelle, avec son rire clair</l>
+     <l n="4" rhyme="c" line_length="6+6">Et ses folles chansons qui s'égrènent dans l'air.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="b" line_length="6+6">Mais comme on voit, la nuit, sous le flot noir qui passe</l>
+     <l n="6" rhyme="c" line_length="6+6">Glisser les pâles feux des étoiles de mer,</l>
+     <l n="7" rhyme="a" line_length="6+6">Tous nos rêves ailés, dans le lugubre espace</l>
+     <l n="8" rhyme="a" line_length="6+6">Disparaissent, à l'heure où l'espérance est lasse.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="b" line_length="6+6">En vain on les rappelle, on tend les bras vers eux ;</l>
+     <l n="10" rhyme="b" line_length="6+6">Les fantômes chéris s'en vont, silencieux,</l>
+     <l n="11" rhyme="a" line_length="6+6">Par le chemin perdu des paradis qu'on pleure :</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="b" line_length="6+6">Ah ! Mon ciel était là, je m'en suis aperçu</l>
+     <l n="13" rhyme="a" line_length="6+6">Trop tard, l'ange est parti, j'ai laissé passer l'heure,</l>
+     <l n="14" rhyme="b" line_length="6+6">Et maintenant tout est fini : si j'avais su !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

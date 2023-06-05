@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Duel</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_duel</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Duel</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Duel</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Laquelle des deux, ô mystère !</l>
+     <l n="2" rhyme="b" line_length="8">Prendra pour amant le public ?</l>
+     <l n="3" rhyme="b" line_length="8">Théo le dispute à Judic</l>
+     <l n="4" rhyme="a" line_length="8">En son appareil militaire.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Judic, s'adressant au parterre</l>
+     <l n="6" rhyme="b" line_length="8">Dit : Je rayonne comme un pic ;</l>
+     <l n="7" rhyme="b" line_length="8">J'ai le regard du basilic</l>
+     <l n="8" rhyme="a" line_length="8">Et la force de la panthère.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="8">Chère aux Amours, je suis comme eux</l>
+     <l n="10" rhyme="c" line_length="8">Et l'on peut voir chaque gommeux</l>
+     <l n="11" rhyme="d" line_length="8">Emprisonné par mes yeux, comme</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="8">Un criminel dans un préau.</l>
+     <l n="13" rhyme="d" line_length="8">Mais l'autre, avec sa joue en pomme,</l>
+     <l n="14" rhyme="e" line_length="8">Dit : Ego nominor Théo !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

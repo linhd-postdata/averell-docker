@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LES DEUX LOUPS</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_les-deux-loups</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LES DEUX LOUPS</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LES DEUX LOUPS</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Bruns et maigres comme des clous,</l>
+     <l n="2" rhyme="b" line_length="8">Ils m'ont surpris dans la clairière,</l>
+     <l n="3" rhyme="b" line_length="8">Et jusqu'au bord d'une carrière</l>
+     <l n="4" rhyme="a" line_length="8">M'ont suivi comme deux filous.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">— Jamais œil de mauvais jaloux</l>
+     <l n="6" rhyme="b" line_length="8">N'eut de lueur plus meurtrière !</l>
+     <l n="7" rhyme="a" line_length="8">Bruns et maigres comme des clous,</l>
+     <l n="8" rhyme="b" line_length="8">Ils m'ont surpris dans la clairière.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">— Mais la faim les a rendus fous,</l>
+     <l n="10" rhyme="b" line_length="8">Car ils ont franchi ma barrière,</l>
+     <l n="11" rhyme="b" line_length="8">Et les voilà sur leur derrière,</l>
+     <l n="12" rhyme="a" line_length="8">A ma porte, les deux grands loups,</l>
+     <l n="13" rhyme="a" line_length="8">Bruns et maigres comme des clous !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>AU LARGE</title>
+    <author>Jules Laforgue</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jules Laforgue_au-large</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>AU LARGE</title>
+     <author>Jules Laforgue</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>AU LARGE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="5+5">Comme la nuit est lointainement pleine</l>
+     <l n="2" rhyme="b" line_length="5+5">De silencieuse infinité claire !</l>
+     <l n="3" rhyme="b" line_length="5+5">Pas le moindre écho des gens de la terre,</l>
+     <l n="4" rhyme="a" line_length="10">Sous la lune méditerranéenne !</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="5+5">Voilà le néant dans sa pâle gangue,</l>
+     <l n="6" rhyme="b" line_length="5+5">Voilà notre hostie et sa sainte-table,</l>
+     <l n="7" rhyme="b" line_length="5+5">Le seul bras d'ami par l'inconnaissable,</l>
+     <l n="8" rhyme="a" line_length="5+5">Le seul mot solvable en nos folles langues !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="5+5">Au delà des cris choisis des époques,</l>
+     <l n="10" rhyme="b" line_length="5+5">Au delà des sens, des larmes, des vierges,</l>
+     <l n="11" rhyme="b" line_length="10">Voilà quel astre indiscutable émerge,</l>
+     <l n="12" rhyme="a" line_length="5+5">Voilà l'immortel et seul soliloque !</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="5−5">Et toi, là-bas, pot-au-feu, pauvre terre !</l>
+     <l n="14" rhyme="b" line_length="5+5">Avec tes essais de mettre en rubriques</l>
+     <l n="15" rhyme="b" line_length="5+5">Tes reflets perdus du grand dynamique !</l>
+     <l n="16" rhyme="a" line_length="5+5">Tu fais un métier, ah ! Bien sédentaire !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

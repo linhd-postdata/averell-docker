@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Má píseň tobě zní.</title>
+    <author>Baše, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Baše, Josef_ma-pisen-tobe-zni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Má píseň tobě zní.</title>
+     <author>Baše, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Má píseň tobě zní.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101" rhyme="1" line_length="6">Má píseň tobě zní</l>
+     <l n="2" met="0101010" rhyme="2" line_length="7">a tvoji hlásá chválu,</l>
+     <l n="3" met="0101010" rhyme="2" line_length="7">ty mocný Králi králů,</l>
+     <l n="4" met="010010" rhyme="1" line_length="6">když nad krajem se dní.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101" rhyme="3" line_length="6">A slunce skvělá zář</l>
+     <l n="6" met="0101000" rhyme="4" line_length="7">když zemi osvěcuje,</l>
+     <l n="7" met="0101000" rhyme="4" line_length="7">má duše prozpěvuje:</l>
+     <l n="8" met="010010" rhyme="3" line_length="6">„Výš leskne tvá se tvář!“</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101" rhyme="5" line_length="6">Když hor se dlouží stín,</l>
+     <l n="10" met="0101010" rhyme="6" line_length="7">a noc se s krajem snoubí,</l>
+     <l n="11" met="1001010" rhyme="6" line_length="7">ze srdce volám hloubi:</l>
+     <l n="12" met="010001" rhyme="5" line_length="6">„Vše zastírá tvůj klín!“</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="010100" rhyme="7" line_length="6">A hvězdný diadem</l>
+     <l n="14" met="0101000" rhyme="8" line_length="7">když rozpjat na nebesa,</l>
+     <l n="15" met="0101010" rhyme="8" line_length="7">mé nitro hlasně plesá:</l>
+     <l n="16" met="010101" rhyme="7" line_length="6">„To roucha tvého lem!“</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="110101" rhyme="9" line_length="6">Aj, všecek vesmír chrám</l>
+     <l n="18" met="0101010" rhyme="10" line_length="7">a podnož tvého trónu –</l>
+     <l n="19" met="1001000" rhyme="10" line_length="7">nad davy milionů</l>
+     <l n="20" met="100010" rhyme="9" line_length="6">panuješ sám a sám!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

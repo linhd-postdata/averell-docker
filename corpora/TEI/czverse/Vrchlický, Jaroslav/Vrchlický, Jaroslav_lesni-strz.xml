@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Lesní strž.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_lesni-strz</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Lesní strž.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Lesní strž.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010001010" rhyme="1" line_length="11">Až úzkost přepadá tě v strži lesní,</l>
+     <l n="2" met="1001010100" rhyme="2" line_length="10">nad kterou kmenů starých olbřími</l>
+     <l n="3" met="01010100010" rhyme="1" line_length="11">se k nebi pnou v své samotě tak děsní,</l>
+     <l n="4" met="0101010100" rhyme="2" line_length="10">že nelze vidět nebe nad nimi.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100010" rhyme="3" line_length="11">Přes kluzký mech co do balvanů padá,</l>
+     <l n="6" met="0101000101" rhyme="4" line_length="10">jest pouze obrovských těch sloupů stín,</l>
+     <l n="7" met="01010001010" rhyme="3" line_length="11">a smutek z všeho se v tvou duši vkrádá</l>
+     <l n="8" met="1101010001" rhyme="4" line_length="10">pln stínů zašlých, promlčených vin...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Věštba.</title>
+    <author>Mokrý, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mokrý, Otokar_vestba</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Věštba.</title>
+     <author>Mokrý, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Věštba.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Duše má kdys tiše vhledla</l>
+     <l n="2" met="1010100" rhyme="2" line_length="7">ve snu v jizby okénka,</l>
+     <l n="3" met="00101010" rhyme="1" line_length="8">když tam zlatá vlákna předla</l>
+     <l n="4" met="1001000" rhyme="2" line_length="7">sudička do vřeténka.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01001000" rhyme="3" line_length="8">Když zlehýnka schylovala</l>
+     <l n="6" met="1000101" rhyme="4" line_length="7">ku kolébce svrasklou líc,</l>
+     <l n="7" met="01001000" rhyme="3" line_length="8">a nad děckem šepotala</l>
+     <l n="8" met="1010100" rhyme="4" line_length="7">chmurných věšteb na tisíc:</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001010" line_length="8">„Šťastno buď – jak racek v bouři,</l>
+     <l n="10" met="0100100" rhyme="5" line_length="7">když na rahno usedne,</l>
+     <l n="11" met="00101010" line_length="8">než jej vlna s divým jekem</l>
+     <l n="12" met="1010100" rhyme="5" line_length="7">spláchne v tůně bezedné.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10001000" line_length="8">Šťastno buď – jak veveřice</l>
+     <l n="14" met="1000100" rhyme="6" line_length="7">na posledním poskoku,</l>
+     <l n="15" met="01101000" line_length="8">než jí kule netušená</l>
+     <l n="16" met="1000100" rhyme="6" line_length="7">zaryje se do boku.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10001010" line_length="8">Šťastno buď – jak hvězda bledá</l>
+     <l n="18" met="1000100" rhyme="7" line_length="7">v dobrodružném kolotu,</l>
+     <l n="19" met="00101010" line_length="8">než ji strhne s mléčné dráhy</l>
+     <l n="20" met="1010100" rhyme="7" line_length="7">ruka boží v temnotu!“</l>
+    </lg>
+    <lg n="6">
+     <l n="21" met="10001010" rhyme="8" line_length="8">Šeptala dál, měkce, hebce,</l>
+     <l n="22" met="1010100" rhyme="9" line_length="7">chmurných bájí na tisíc,</l>
+     <l n="23" met="00101000" rhyme="8" line_length="8">hled’ jsem blíže – na kolébce</l>
+     <l n="24" met="1010101" rhyme="9" line_length="7">zřel jsem – vlastní děckou líc.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

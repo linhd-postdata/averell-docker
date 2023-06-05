@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La cigarra</title>
+    <author>Miguel Sánchez Pesquera</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Miguel Sánchez Pesquera_la-cigarra</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La cigarra</title>
+     <author>Miguel Sánchez Pesquera</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La cigarra</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+-+-+-">Amor del sol, mi origen es divino;</l>
+     <l n="2" met="---+-+--++-">embelesado Sócrates me oía;</l>
+     <l n="3" met="-+-+---+++-">delicias era de la Grecia un día;</l>
+     <l n="4" met="++-+-+---+-">me habló Virgilio en verso peregrino.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-++--+-">Cantar, amar, morir es mi destino.</l>
+     <l n="6" met="+--+-+---+-">Yo de la ciencia gaya en la porfía,</l>
+     <l n="7" met="-+-+---+-+-">el premio soy que el trovador ansía.</l>
+     <l n="8" met="+--+---+-+-">Canto la siesta en odorante pino.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+-+-">Soy la cigarra; en el tendido llano</l>
+     <l n="10" met="-+-----+-+-">nací de junio en el calor primero,</l>
+     <l n="11" met="+--+---+-+-">alma del trigo y su fecundo grano;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+---+-+-">y enamorada de la luz espero,</l>
+     <l n="13" met="--+--+---+-">la encendida mañana del verano,</l>
+     <l n="14" met="-+-+---+-+-">y canto el sol y cuando canto muero.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

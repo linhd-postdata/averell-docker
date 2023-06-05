@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PÍSMA MRTVÝCH.</title>
+    <author>Procházka, František Serafínský</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Procházka, František Serafínský_pisma-mrtvych</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PÍSMA MRTVÝCH.</title>
+     <author>Procházka, František Serafínský</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PÍSMA MRTVÝCH.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11000100" rhyme="1" line_length="8">Rok za rokem jich přibývá,</l>
+     <l n="2" met="01010101" rhyme="2" line_length="8">těch drahých jmen, těch zlatých jmen,</l>
+     <l n="3" met="10010100" rhyme="1" line_length="8">člověk se na ně zadívá –</l>
+     <l n="4" met="01000101" rhyme="2" line_length="8">též přibude k nim kterýs den.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000101" rhyme="3" line_length="8">A přibude k nim, bože, rád,</l>
+     <l n="6" met="10010100" rhyme="4" line_length="8">rychleji, než se naděje,</l>
+     <l n="7" met="01000101" rhyme="3" line_length="8">jak se stromu když padne svát</l>
+     <l n="8" met="11000100" rhyme="4" line_length="8">list do vozové koleje.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010101" rhyme="3" line_length="8">A to ho při tom bude hřát,</l>
+     <l n="10" met="10010100" rhyme="5" line_length="8">a to ho při tom zkonejší,</l>
+     <l n="11" met="01000101" rhyme="3" line_length="8">že bude těm, jež míval rád,</l>
+     <l n="12" met="01010100" rhyme="5" line_length="8">v těch mrtvých ještě milejší...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

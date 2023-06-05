@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Una historia</title>
+    <author>José Estrani</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Estrani_una-historia</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Una historia</title>
+     <author>José Estrani</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Una historia</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++---+---+-">Un lance interesante y peregrino,</l>
+     <l n="2" met="--++-+---+-">que al inglés más estoico maravilla,</l>
+     <l n="3" met="--++-+---+-">ocurrió en una aldea de Castilla</l>
+     <l n="4" met="---+-+--++-">con cuyo nombre clásico no atino.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+-+-+-">Hallábanse a la sombra de un molino</l>
+     <l n="6" met="-+-+-+---+-">y de un arroyo plácido a la orilla</l>
+     <l n="7" met="+----+---+-">-émulos de Isabel y de Mancilla-</l>
+     <l n="8" met="+-+++---++-">una moza y un mozo como un pino.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---++--+-+-">Después de hablarse con acento amargo,</l>
+     <l n="10" met="--+++++-+-">sucedió... ¡Sí fue atroz! ¡Vaya un aprieto!</l>
+     <l n="11" met="-++--+-+-">El caso es que también... mas... sin embargo...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-++-+---+-">¡Voto va Poncio! ¡El último terceto!</l>
+     <l n="13" met="-+-+-+++-+-">Hasta ahora ¡vive Dios! no me hice cargo</l>
+     <l n="14" met="-+-+-+---+-">de que es mayor la historia que el soneto.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

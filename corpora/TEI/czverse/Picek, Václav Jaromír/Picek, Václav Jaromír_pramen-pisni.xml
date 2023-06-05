@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pramen písní.</title>
+    <author>Picek, Václav Jaromír</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Picek, Václav Jaromír_pramen-pisni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pramen písní.</title>
+     <author>Picek, Václav Jaromír</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pramen písní.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10100010" line_length="8">Děvo, nediv se, že zpívám,</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">Cítě lásky tíseň,</l>
+     <l n="3" met="10101010" rhyme="2" line_length="8">Každý pohled oka tvého</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">Dá mi jednu píseň.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00100100" line_length="8">Když ta píseň se vyvíjí,</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">Z hloubi srdce mého,</l>
+     <l n="7" met="10101010" line_length="8">Zdá se, že mi anděl šeptá</l>
+     <l n="8" met="101010" rhyme="2" line_length="6">Slova z žalmu svého.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" line_length="8">A když takto slova najdu,</l>
+     <l n="10" met="101010" rhyme="3" line_length="6">Sáhnu k české lyře,</l>
+     <l n="11" met="10101100" line_length="8">A ta sladce zní o lásce,</l>
+     <l n="12" met="100010" rhyme="3" line_length="6">Naději a víře.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101010" line_length="8">Kolik zhledů, tolik písní!</l>
+     <l n="14" met="011010" rhyme="4" line_length="6">Teď víš jejich pramen;</l>
+     <l n="15" met="11001010" line_length="8">Chceš tisíckrát na mne zhlednout?</l>
+     <l n="16" met="101010" rhyme="4" line_length="6">Řekni, děvo, „amen“.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PODZIM.</title>
+    <author>Procházka, František Serafínský</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Procházka, František Serafínský_podzim</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PODZIM.</title>
+     <author>Procházka, František Serafínský</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PODZIM.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101" line_length="8">V haluzích lesních slyšíš rej?</l>
+     <l n="2" met="11010010" rhyme="1" line_length="8">Bor vedle jedliny šumí,</l>
+     <l n="3" met="01010100" line_length="8">a větřík s mračnou plachetkou</l>
+     <l n="4" met="10010010" rhyme="1" line_length="8">pospíchá přes holé chlumy.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010101" line_length="8">Naslouchá laňka, kdo to jde</l>
+     <l n="6" met="10010010" rhyme="2" line_length="8">po krásných srpnových plesích,</l>
+     <l n="7" met="01010100" line_length="8">když zhaslo slunce najednou</l>
+     <l n="8" met="10010010" rhyme="2" line_length="8">v ustydlých, zchmuřených lesích.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="11010100" line_length="8">Pln letních žárů ztajených</l>
+     <l n="10" met="01010010" rhyme="3" line_length="8">jen hrozen na révě kyne,</l>
+     <l n="11" met="01010100" line_length="8">a z role drobných ohníčků</l>
+     <l n="12" met="10010010" rhyme="3" line_length="8">kouř se níž v dolinu line.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10010101" rhyme="4" line_length="8">Oblakem bledá hrstka hvězd</l>
+     <l n="14" met="10010010" rhyme="5" line_length="8">zamžiká v smrákání dlouhá,</l>
+     <l n="15" met="10010101" rhyme="4" line_length="8">aby nám v srdcích mohla zkvést</l>
+     <l n="16" met="10010010" rhyme="5" line_length="8">po jarních fialkách touha.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

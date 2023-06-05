@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>TÊTE DE PIPE</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_tete-de-pipe</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>TÊTE DE PIPE</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>TÊTE DE PIPE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8+5">C’est une face avec un casque en cône tronqué</l>
+     <l n="2" rhyme="b" line_length="13">Sur le front de laquelle une main mal définie</l>
+     <l n="3" rhyme="b" line_length="5−8">Au bout d’un bras de rêve a sa poigne en harmonie,</l>
+     <l n="4" rhyme="a" line_length="5−8">Comme contre la pensée un geste un peu manqué.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="5−8">Un sein, est-ce le gauche ou le droit ? mais un seul sein,</l>
+     <l n="6" rhyme="b" line_length="8+5">Pend sous le bras, – battant pour qui ? Près d’allaiter qu’est-ce ?</l>
+     <l n="7" rhyme="b" line_length="8+5">Et du cône tronqué du casque un panache laisse</l>
+     <l n="8" rhyme="a" line_length="8+5">Monter parfois dans son allure un cœur sans dessein…</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

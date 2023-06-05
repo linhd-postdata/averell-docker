@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Grégr.</title>
+    <author>Pokorný, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný, Rudolf_gregr</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Grégr.</title>
+     <author>Pokorný, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Grégr.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010001000" rhyme="1" line_length="10">Spusťte kalafuno, elektřino</l>
+     <l n="2" met="01001010000" rhyme="2" line_length="11">a pompo, jak sluší na demokrata,</l>
+     <l n="3" met="0100101000" rhyme="1" line_length="10">ty do dálky prchni, disciplino,</l>
+     <l n="4" met="01000100010" rhyme="2" line_length="11">ať neukáže se zde víc tvá pata,</l>
+     <l n="5" met="01010000" rhyme="3" line_length="8">neb navzdor všechněm já jsem já,</l>
+     <l n="6" met="01000100" rhyme="3" line_length="8">jenž nikomu se nepoddá;</l>
+     <l n="7" met="100010101" rhyme="4" line_length="9">promluvil teď perné pravdy kus</l>
+     <l n="8" met="100100" line_length="6">v úctě Vám oddaný</l>
+     <l n="9" met="10100" rhyme="4" line_length="5">Grégr Julius,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

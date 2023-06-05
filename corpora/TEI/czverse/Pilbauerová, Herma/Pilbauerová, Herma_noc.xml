@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NOC.</title>
+    <author>Pilbauerová, Herma</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pilbauerová, Herma_noc</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NOC.</title>
+     <author>Pilbauerová, Herma</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NOC.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00110100" line_length="8">Co jen, ó noci zářivá,</l>
+     <l n="2" met="1001000" rhyme="1" line_length="7">na čele vdechnuto tvém,</l>
+     <l n="3" met="10010100" line_length="8">tolik že klidu, úsměvu</l>
+     <l n="4" met="1001001" rhyme="1" line_length="7">s něho k nám zalétá snem!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">Co ve tvé oko hluboké</l>
+     <l n="6" met="1001001" rhyme="2" line_length="7">vepsal as odvěký třpyt?</l>
+     <l n="7" met="10000100" line_length="8">Do něho když se zadívám,</l>
+     <l n="8" met="1001001" rhyme="2" line_length="7">žaly mé zulíbá klid.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10110100" rhyme="3" line_length="8">Beze slov tolik povědět</l>
+     <l n="10" met="1001001" rhyme="3" line_length="7">umí tvůj tajemný ret,</l>
+     <l n="11" met="10010101" line_length="8">zkolébá bolest, ztiší sten,</l>
+     <l n="12" met="1001001" rhyme="3" line_length="7">čarovný, bájný tvůj květ. –</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10010100" line_length="8">Uprchnout světu! Ve hvězdy</l>
+     <l n="14" met="1001001" rhyme="4" line_length="7">vepsat své zářivé sny –</l>
+     <l n="15" met="10010101" line_length="8">zůstanou třeba jenom snem,</l>
+     <l n="16" met="1001000" rhyme="4" line_length="7">zlobě však zatajeny.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

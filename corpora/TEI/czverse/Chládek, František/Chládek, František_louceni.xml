@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Loučení.</title>
+    <author>Chládek, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Chládek, František_louceni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Loučení.</title>
+     <author>Chládek, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Loučení.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010101" rhyme="1" line_length="9">V květu stojí celý krásný svět,</l>
+     <l n="2" met="101010101" rhyme="1" line_length="9">vadne jenom srdce mého květ!</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="101000101" rhyme="2" line_length="9">Všude chvalozpěvy v jarní den,</l>
+     <l n="4" met="110010100" rhyme="2" line_length="9">červ zármutku hlodá ve mně jen.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="111010100" rhyme="3" line_length="9">Ó pojď, milá smrti, veď mne tam,</l>
+     <l n="6" met="001010101" rhyme="3" line_length="9">kde je tichý klid, ne bludný klam.</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="101010010" rhyme="4" line_length="9">Rád svůj stánek opustí duch můj,</l>
+     <l n="8" met="101001100" rhyme="4" line_length="9">zemi černá – zde máš podíl svůj.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

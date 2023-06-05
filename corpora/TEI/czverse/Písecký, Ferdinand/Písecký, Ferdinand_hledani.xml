@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hledání.</title>
+    <author>Písecký, Ferdinand</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Písecký, Ferdinand_hledani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hledání.</title>
+     <author>Písecký, Ferdinand</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hledání.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001001001000" rhyme="1" line_length="13">Ovál mne dechem svým, nemohu odolati</l>
+     <l n="2" met="010101" rhyme="2" line_length="6">a musím za ním jít.</l>
+     <l n="3" met="11000101010" rhyme="1" line_length="11">Vím, nemohu ho nikdy dobře znáti,</l>
+     <l n="4" met="010101" rhyme="3" line_length="6">leč tuším v dáli svit.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001000101010" rhyme="4" line_length="13">Ruce mé vztaženy a těžce ve tmách tápu...</l>
+     <l n="6" met="010100" rhyme="5" line_length="6">Tam v dáli bude snad?</l>
+     <l n="7" met="10100101010" rhyme="4" line_length="11">Nevím, kdo on – co chce, jen zpola chápu,</l>
+     <l n="8" met="010101" rhyme="5" line_length="6">leč nesmím, nesmím stát.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010101010" rhyme="6" line_length="11">Najdu jej? Nevím. – Vím však, že mne volá,</l>
+     <l n="10" met="010101" rhyme="2" line_length="6">že musím za ním jít.</l>
+     <l n="11" met="01000100010" rhyme="6" line_length="11">Snad vyvede mne ze bludného kola</l>
+     <l n="12" met="010101" rhyme="3" line_length="6">ten slabý v dáli svit.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

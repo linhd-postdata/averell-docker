@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NA KNIHU PÍSNÍ.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_na-knihu-pisni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NA KNIHU PÍSNÍ.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NA KNIHU PÍSNÍ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010010" rhyme="1" line_length="8">Vím, nejsem pro píseň stvořen,</l>
+     <l n="2" met="0101001" rhyme="2" line_length="7">ta lítá, motýl a pták.</l>
+     <l n="3" met="010010110" rhyme="1" line_length="9">Můj hluboko v zemi tkví kořen,</l>
+     <l n="4" met="1100101" rhyme="2" line_length="7">zřím z jednoho místa v mrak.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010010010" rhyme="3" line_length="9">A přece to duši mou láká</l>
+     <l n="6" met="01001010" rhyme="4" line_length="8">vždy dále a dále a dál...</l>
+     <l n="7" met="10010010" rhyme="3" line_length="8">postihnout motýla, ptáka.</l>
+     <l n="8" met="1000101" rhyme="4" line_length="7">A tak jsem ty písně psal.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Rosas</title>
+    <author>Esther Lucila Vázquez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Esther Lucila Vázquez_rosas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Rosas</title>
+     <author>Esther Lucila Vázquez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Rosas</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--++--+-+-">Rosa de fuego era al nacer el día</l>
+     <l n="2" met="-+-+-+---+-">el áureo sol de vivos resplandores,</l>
+     <l n="3" met="--+--+---+-">y la luna, a la tarde, en los alcores,</l>
+     <l n="4" met="--+--+---+-">«como rosa de nieve se entreabría».</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">¡Oh, fresca Rosa de la patria mía,</l>
+     <l n="6" met="-+---+---+-">que estando de la vida en los albores,</l>
+     <l n="7" met="---+---+-+-">a las pintadas y fragantes flores</l>
+     <l n="8" met="--+--+---+-">tu arrogante colora desafía!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+---+-">Radia en tus ojos negros el vislumbre</l>
+     <l n="10" met="--+--+---+-">de la rosa de fuego de la aurora</l>
+     <l n="11" met="---+---+-+-">con eternal y poderosa lumbre,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+---+-+-">y en tus mejillas delicadas arde</l>
+     <l n="13" met="---+-+---+-">la nacarada luz deslumbradora</l>
+     <l n="14" met="--+--+---+-">de la rosa de nieve de la tarde.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

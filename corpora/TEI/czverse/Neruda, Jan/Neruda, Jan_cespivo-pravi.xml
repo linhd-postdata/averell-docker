@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ČEŠPIVO PRAVÍ:</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_cespivo-pravi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ČEŠPIVO PRAVÍ:</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ČEŠPIVO PRAVÍ:</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010101" rhyme="1" line_length="14">Ten jeden z piva cítí chmel a druhý zase slad,</l>
+     <l n="2" met="01010100010100" rhyme="1" line_length="14">a třetí cítí pelyněk a čtvrtý rejži snad;</l>
+     <l n="3" met="01010100010001" rhyme="2" line_length="14">já ale z piva každého – a upřímně to dím –</l>
+     <l n="4" met="11010100010100" rhyme="2" line_length="14">čuch chytnu ihned z opice, jak sklenku nasadím.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

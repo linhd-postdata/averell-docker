@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Danseuse</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_la-danseuse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Danseuse</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Danseuse</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Salomé, déjà près d'accomplir son dessein,</l>
+     <l n="2" rhyme="b" line_length="6+6">Sous ses riches paillons et ses robes fleuries</l>
+     <l n="3" rhyme="b" line_length="6+6">Songeait, l'œil enchanté par les orfèvreries</l>
+     <l n="4" rhyme="a" line_length="6+6">Du riant coutelas vermeil et du bassin.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Sa chevelure éparse et tombant sur son sein,</l>
+     <l n="6" rhyme="b" line_length="6+6">La Danseuse au front brun, parmi ses rêveries,</l>
+     <l n="7" rhyme="b" line_length="6+6">Regardait le soleil mettre des pierreries</l>
+     <l n="8" rhyme="a" line_length="6+6">Dans les caprices d'or au fantasque dessin,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Mêlant la chrysoprase et son fauve incendie</l>
+     <l n="10" rhyme="c" line_length="6+6">Au saphir, où le ciel azuré s'irradie,</l>
+     <l n="11" rhyme="d" line_length="6+6">Et le sang des rubis aux pleurs du diamant,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Comme c'est votre joie, ô fragiles poupées !</l>
+     <l n="13" rhyme="d" line_length="6+6">Car vous avez toujours aimé naïvement</l>
+     <l n="14" rhyme="e" line_length="6+6">Les joujoux flamboyants et les têtes coupées.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

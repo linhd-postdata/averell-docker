@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les Asperges</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_les-asperges</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Les Asperges</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Les Asperges</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Soigné par un malin, le vieux ayant pour tic</l>
+     <l n="2" rhyme="b" line_length="6+6">De balayer son nez du revers de sa manche</l>
+     <l n="3" rhyme="a" line_length="6+6">Bâfrait, buvait, montrant par plus d'un pronostic,</l>
+     <l n="4" rhyme="b" line_length="6+6">Qu'il achèverait saoul le saint jour du dimanche.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Il avait nettoyé tous les plats ric à ric.</l>
+     <l n="6" rhyme="b" line_length="6+6">Le pain sec y passait, les os après les tranches.</l>
+     <l n="7" rhyme="a" line_length="6+6">Ah ! voilà la salade enfin, dit le loustic :</l>
+     <l n="8" rhyme="b" line_length="6+6">« Comment l'aimez-vous mieux père Jean ? verte ou blanche ?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">— C'est la blanche, mon fils, moi, que j'aime le mieux. »</l>
+     <l n="10" rhyme="c" line_length="6+6">Or, la salade étant des asperges, le vieux,</l>
+     <l n="11" rhyme="d" line_length="6+6">Tandis que l'autre en hâte engouffrait les bouts verts,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="d" line_length="6+6">Grognait les chicots pris et mâchant de travers :</l>
+     <l n="13" rhyme="e" line_length="6+6">« C'est peut-être ben bon, mais que le diablʼ me torde !</l>
+     <l n="14" rhyme="e" line_length="6+6">Si ça n'me paraît pas que j'mange de la corde ! »</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

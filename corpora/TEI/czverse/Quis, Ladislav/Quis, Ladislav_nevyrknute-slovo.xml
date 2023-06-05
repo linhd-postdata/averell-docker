@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nevyřknuté slovo.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_nevyrknute-slovo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nevyřknuté slovo.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nevyřknuté slovo.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100010" rhyme="1" line_length="10">Ach, co slov se napsalo a řeklo!</l>
+     <l n="2" met="101010100" line_length="9">Kdyby každé bylo krůpějí,</l>
+     <l n="3" met="1000101010" rhyme="1" line_length="10">přes Montblank by moře vlnou teklo.</l>
+     <l n="4" met="101010101010" rhyme="2" line_length="12">Mezi nimi slova plná síly, krásy,</l>
+     <l n="5" met="101000101010" rhyme="2" line_length="12">dosud nevyřčeno ale slovo spásy.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

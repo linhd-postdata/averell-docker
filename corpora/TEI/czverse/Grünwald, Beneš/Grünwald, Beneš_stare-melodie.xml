@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Staré melodie.</title>
+    <author>Grünwald, Beneš</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Grünwald, Beneš_stare-melodie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Staré melodie.</title>
+     <author>Grünwald, Beneš</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Staré melodie.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11000101010" rhyme="1" line_length="11">Z dob klasicismu hudba plná míru</l>
+     <l n="2" met="01010101000" rhyme="1" line_length="11">jest známým hostem u mne na klavíru,</l>
+     <l n="3" met="01010101010" rhyme="2" line_length="11">neb jakés tety kniha nad vše milá,</l>
+     <l n="4" met="01010100010" rhyme="2" line_length="11">teď němý odkaz, ve skříni mi zbyla.</l>
+     <l n="5" met="01010101000" rhyme="3" line_length="11">Co žalných tÓnů, dlouhých, s ligaturou,</l>
+     <l n="6" met="01010100010" rhyme="3" line_length="11">jí dobré srdce zastíralo chmurou</l>
+     <l n="7" met="11000100110" rhyme="4" line_length="11">v tmách večerů, jež samotna šla světem!</l>
+     <l n="8" met="10010100010" rhyme="4" line_length="11">Ó já ji vidím: laskava vždy k dětem,</l>
+     <l n="9" met="01000100010" rhyme="5" line_length="11">mou nad kolébkou obličej svůj svadlý</l>
+     <l n="10" met="01001001010" rhyme="5" line_length="11">prý skláněla, a vždy jí brejle padly.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

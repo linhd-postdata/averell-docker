@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nedejme se!</title>
+    <author>Wenzig, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Wenzig, Josef_nedejme-se</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nedejme se!</title>
+     <author>Wenzig, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nedejme se!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010000" rhyme="1" line_length="9">Nedejme se nevědomosti,</l>
+     <l n="2" met="10001000" rhyme="2" line_length="8">Nedejme se nečestnosti,</l>
+     <l n="3" met="100010000" rhyme="1" line_length="9">Nedejme se zahálčivosti,</l>
+     <l n="4" met="100001000" rhyme="1" line_length="9">Lenivosti a zbabělosti,</l>
+     <l n="5" met="10001000" rhyme="2" line_length="8">Nedejme se nesvornosti,</l>
+     <l n="6" met="1000100000" rhyme="2" line_length="10">Nedejme se nedůvěrčivosti</l>
+     <l n="7" met="10101000" rhyme="2" line_length="8">Ke své slavné minulosti,</l>
+     <l n="8" met="101010000" rhyme="1" line_length="9">A tak s Boží milostivostí</l>
+     <l n="9" met="1000101000" rhyme="2" line_length="10">Dožijem se slavné budoucnosti!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

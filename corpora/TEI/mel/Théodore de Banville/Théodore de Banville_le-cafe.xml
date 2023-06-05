@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Café</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_le-cafe</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Café</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Café</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Ce bon élixir, le Café</l>
+     <l n="2" rhyme="b" line_length="8">Met dans nos cœurs sa flamme noire ;</l>
+     <l n="3" rhyme="b" line_length="8">Grâce à lui, fier de sa victoire,</l>
+     <l n="4" rhyme="a" line_length="8">L'esprit subtil a triomphé.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Faux Lignon que chantait d'Urfé,</l>
+     <l n="6" rhyme="b" line_length="8">Tu ne nous en fait plus accroire ;</l>
+     <l n="7" rhyme="a" line_length="8">Ce bon élixir, le Café</l>
+     <l n="8" rhyme="b" line_length="8">Met dans nos cœurs sa flamme noire.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Ne faisons qu'un autodafé</l>
+     <l n="10" rhyme="b" line_length="8">Des vieux mensonges de l'Histoire ;</l>
+     <l n="11" rhyme="b" line_length="8">Et mêlons, sans peur du grimoire,</l>
+     <l n="12" rhyme="a" line_length="8">A notre vieux sang réchauffé,</l>
+     <l n="13" rhyme="a" line_length="8">Ce bon élixir, le Café.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

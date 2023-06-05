@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>DESTINÉE</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_destinee</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>DESTINÉE</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>DESTINÉE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Comme la vie est faite ! et que le train du monde</l>
+     <l n="2" rhyme="b" line_length="6+6">Nous pousse aveuglément en des chemins divers !</l>
+     <l n="3" rhyme="b" line_length="6+6">Pareil au Juif maudit, l'un, par tout l'univers,</l>
+     <l n="4" rhyme="a" line_length="6+6">Promène sans repos sa course vagabonde ;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">L'autre, vrai docteur Faust, baigné d'ombre profonde,</l>
+     <l n="6" rhyme="b" line_length="6+6">Auprès de sa croisée étroite, à carreaux verts,</l>
+     <l n="7" rhyme="b" line_length="6+6">Poursuit de son fauteuil quelques rêves amers,</l>
+     <l n="8" rhyme="a" line_length="6+6">Et dans l'âme sans fond laisse filer la sonde.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Eh bien ! celui qui court sur la terre était né</l>
+     <l n="10" rhyme="d" line_length="6+6">Pour vivre au coin du feu : le foyer, la famille,</l>
+     <l n="11" rhyme="c" line_length="6+6">C'était son vœu ; mais Dieu ne l'a pas couronné.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="d" line_length="6+6">Et l'autre, qui n'a vu du ciel que ce qui brille</l>
+     <l n="13" rhyme="e" line_length="6+6">Par le trou du volet, était le voyageur.</l>
+     <l n="14" rhyme="e" line_length="6+6">Ils ont passé tous deux à côté du bonheur.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V měsíční noci.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_v-mesicni-noci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V měsíční noci.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V měsíční noci.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101001" line_length="9">Jaká to čarná májová noc</l>
+     <l n="2" met="10010010" rhyme="1" line_length="8">hostí se v stromech i vřesu,</l>
+     <l n="3" met="10010100" rhyme="2" line_length="8">přítulná její milostnost</l>
+     <l n="4" met="100101001" rhyme="2" line_length="9">v drahý mi náhle změnila skvost</l>
+     <l n="5" met="10010010" rhyme="1" line_length="8">kytku, již na ňadrech nesu.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="100101001" line_length="9">Stojím jak v bájce zakletý druh,</l>
+     <l n="7" met="10010010" rhyme="3" line_length="8">sotva své záměny tuše,</l>
+     <l n="8" met="10010100" rhyme="4" line_length="8">v stříbrný plášť jsem zahalen,</l>
+     <l n="9" met="010100101" rhyme="4" line_length="9">a z pršků měsíčných tkaný sen</l>
+     <l n="10" met="10010010" rhyme="3" line_length="8">chvěje se v hloubce mé duše.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

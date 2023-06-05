@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>DO KRÁSY</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_do-krasy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>DO KRÁSY</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>DO KRÁSY</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010010010" line_length="9">Jen nečiň tak pyšně a vzácně,</l>
+     <l n="2" met="010010010" rhyme="1" line_length="9">jen nepýchej velkou svou krásou,</l>
+     <l n="3" met="010010010" line_length="9">a neskládej posměšně ústa,</l>
+     <l n="4" met="010010010" rhyme="1" line_length="9">a nekryj tou pohrdnou řasou!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010011010" line_length="9">Vždyť zajisté víš, co se říká:</l>
+     <l n="6" met="010010010" rhyme="2" line_length="9">„Kdo miluje, do krásy květe“ –</l>
+     <l n="7" met="100010010" line_length="9">a já – já dle míry své lásky</l>
+     <l n="8" met="010010010" rhyme="2" line_length="9">jsem nejhezčí chlapík teď v světě.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

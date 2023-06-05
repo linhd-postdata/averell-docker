@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El cielo de Leopardi</title>
+    <author>Ramón de Campoamor</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ramón de Campoamor_el-cielo-de-leopardi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El cielo de Leopardi</title>
+     <author>Ramón de Campoamor</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El cielo de Leopardi</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">¡Genio infeliz!, en su postrer momento</l>
+     <l n="2" met="--+--+-+-+-">a su amiga la Muerte le decía:</l>
+     <l n="3" met="++-++--+-+-">«Dame la nada, esa región vacía</l>
+     <l n="4" met="--+--+---+-">en que no hay ni placer ni sufrimiento.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+-+-+-">Donde se halla la vida está el tormento.</l>
+     <l n="6" met="+++--+---+-">Dame paz en la nada -repetía-,</l>
+     <l n="7" met="-+---+-+-+-">y mata con el cuerpo el alma mía,</l>
+     <l n="8" met="+-+--+---+-">esta amarga raíz del pensamiento.»</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-++-+-+--+-">Al oírle implorar de esta manera,</l>
+     <l n="10" met="--+--+---+-">consolando al filósofo afligido,</l>
+     <l n="11" met="-+-+-+-+-+-">la Muerte le responde: «Espera, espera;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+-+-+-">que, en pago de lo bien que me has querido,</l>
+     <l n="13" met="-+-+-+-+-+-">mañana te daré la muerte entera</l>
+     <l n="14" met="---+-+--++-">y volverás al ser del que no has sido.»</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

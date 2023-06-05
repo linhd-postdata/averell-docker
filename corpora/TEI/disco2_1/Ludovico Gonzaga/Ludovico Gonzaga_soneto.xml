@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Ludovico Gonzaga</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ludovico Gonzaga_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Ludovico Gonzaga</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---+-">¿Cuándo en el duro mal de mi tormento</l>
+     <l n="2" met="+-+--+-+-+-">tan severo rigor veré aplacarse,</l>
+     <l n="3" met="----++---+-">o adonde de sí mismo retirarse</l>
+     <l n="4" met="-+-+-+---+-">podrá quien lleva en sí su sentimiento?</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+++--+---+-">Un fiero, un parricida pensamiento</l>
+     <l n="6" met="--+--+-+-+-">en mis mismas entrañas veo forjarse,</l>
+     <l n="7" met="-+---+---+-">y tanto en mi dolor encarnizarse,</l>
+     <l n="8" met="-+-+-+-+-+-">que di mi muerte misma toma aliento.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-+---+-">Entre mortales ansias agonizo,</l>
+     <l n="10" met="-+---+---+-">que afecta a la conciencia de mis males,</l>
+     <l n="11" met="---+-+-+-+-">y sin poder morir estoy muriendo.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">¡Oh, tristes y durísimas señales,</l>
+     <l n="13" met="--+--+-+-+-">pues la muerte, que ya de rabia emprendo,</l>
+     <l n="14" met="--+--+--++-">se que me ha de rogar por que la atizo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

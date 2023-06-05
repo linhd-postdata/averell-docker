@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>IX.</title>
+    <author>Havlíček Borovský, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Havlíček Borovský, Karel_ix</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>IX.</title>
+     <author>Havlíček Borovský, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>IX.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001000" line_length="8">Přijeli jsme do Brixenu</l>
+     <l n="2" met="10100" rhyme="1" line_length="5">bez vší turbací,</l>
+     <l n="3" met="1010101000" line_length="10">krajská vláda dala Dederovi</l>
+     <l n="4" met="10100" rhyme="1" line_length="5">na mne kvitancí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001100" line_length="8">Místo mne ten kus papíru</l>
+     <l n="6" met="10010" rhyme="2" line_length="5">vrátili do Čech;</l>
+     <l n="7" met="0010100010" line_length="10">mne zde černý dvojhlavatý orel</l>
+     <l n="8" met="10100" rhyme="2" line_length="5">drží v klepetech.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101000" line_length="8">Krajskou vládu, podkrajského,</l>
+     <l n="10" met="10000" rhyme="3" line_length="5">žandarmerii,</l>
+     <l n="11" met="0010100010" line_length="10">ty mi dali za anděly strážce</l>
+     <l n="12" met="01000" rhyme="3" line_length="5">v té Siberii.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>HOU ! HOU !</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_hou-hou</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>HOU ! HOU !</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>HOU ! HOU !</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="5+6">SWELLS de Brussels et gratin de la Campine,</l>
+     <l n="2" rhyme="b" line_length="5+6">Malins de Malines, élégants de Gand,</l>
+     <l n="3" rhyme="a" line_length="5+6">A Linos, Orpheus et leur race divine</l>
+     <l n="4" rhyme="b" line_length="6+5">Jetez le caleçon, relevez leur gant.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="5+6">Mais las ! j’oublie, et vous êtes pittoresque</l>
+     <l n="6" rhyme="b" line_length="11">En même temps qu’esthétique et musical.</l>
+     <l n="7" rhyme="a" line_length="6+5">Pour la couleur aucun ne vous vaut que presque</l>
+     <l n="8" rhyme="b" line_length="5+6">Et votre Rubens marche mal votre égal.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="5+6">L’esprit vous étouffe et les bords de la Senne</l>
+     <l n="10" rhyme="b" line_length="6+5">N’ont que ceux de la Sprée en ça pour rivaux</l>
+     <l n="11" rhyme="a" line_length="6+5">Et, de par Léopold, KÖNING DER BELGEN,</l>
+     <l n="12" rhyme="b" line_length="5−6">Vos mots vont bien au niveau de vos travaux.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="5+6">Enfin c’est vrai que vous sonnez la diane</l>
+     <l n="14" rhyme="b" line_length="11">Et nous aller « annexer » ainsi que dû.</l>
+     <l n="15" rhyme="a" line_length="5+6">Heureusement, comme l’on dit, que la douane</l>
+     <l n="16" rhyme="b" line_length="6+5">Est là pour une fois, bons messieurs, sais-tu ?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

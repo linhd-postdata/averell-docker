@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>?</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_dvorak-xaver</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>?</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>?</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001000" rhyme="1" line_length="7">Hodiny ubíhají,</l>
+     <l n="2" met="010101" rhyme="2" line_length="6">a rychle plyne čas;</l>
+     <l n="3" met="0101010" rhyme="1" line_length="7">kdo ví, co v sobe tají,</l>
+     <l n="4" met="010100" rhyme="2" line_length="6">co komu nese as.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001010" rhyme="3" line_length="7">Jednomu štěstí strojí,</l>
+     <l n="6" met="100101" rhyme="4" line_length="6">druhému jenom žal;</l>
+     <l n="7" met="1001010" rhyme="3" line_length="7">jednomu rány hojí,</l>
+     <l n="8" met="100100" rhyme="4" line_length="6">jiné by zraňoval!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1001010" rhyme="5" line_length="7">Tomu kdo jařmo shodil,</l>
+     <l n="10" met="010100" rhyme="6" line_length="6">zas chystá řetězy;</l>
+     <l n="11" met="0101000" rhyme="5" line_length="7">kdo v bojích nepochodil,</l>
+     <l n="12" met="010100" rhyme="6" line_length="6">jsou v posled vítězi!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="0100010" rhyme="7" line_length="7">Ký osud nám as tají</l>
+     <l n="14" met="100100" rhyme="8" line_length="6">nejbližší hodina,</l>
+     <l n="15" met="1000010" rhyme="7" line_length="7">národem být či lájí,</l>
+     <l n="16" met="010100" rhyme="8" line_length="6">jíž hořce vzpomíná?! –</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="1100010" rhyme="9" line_length="7">Cíl ve mlhách se tratí,</l>
+     <l n="18" met="100101" rhyme="10" line_length="6">zůstane pouhým snem?</l>
+     <l n="19" met="0101010" rhyme="9" line_length="7">a dech se v tobě krátí:</l>
+     <l n="20" met="010101" rhyme="10" line_length="6">co lvíče – bude lvem?!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

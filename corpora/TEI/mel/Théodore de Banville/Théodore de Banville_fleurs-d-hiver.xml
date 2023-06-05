@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Fleurs d'hiver</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_fleurs-d-hiver</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Fleurs d'hiver</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Fleurs d'hiver</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Oui, quelques fleurs d'hiver, et c'est tout ! Leurs corolles</l>
+     <l n="2" rhyme="b" line_length="6+6">Ne s'ouvriront pas ; mais leurs boutons ingénus</l>
+     <l n="3" rhyme="a" line_length="6+6">Te ravissent, ma mère, et mieux que des paroles</l>
+     <l n="4" rhyme="b" line_length="6+6">Évoquent les jardins que nous avons connus.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">O notre cher Moulins ! Devant nos yeux éclate</l>
+     <l n="6" rhyme="b" line_length="6+6">Parmi nos souvenirs gracieux et pensifs</l>
+     <l n="7" rhyme="a" line_length="6+6">Un éblouissement de rose et d'écarlate ;</l>
+     <l n="8" rhyme="b" line_length="6+6">Et les deux pièces d'eau, la verdure, les ifs,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Nous voyons tout, les Dieux de pierre, la rocaille,</l>
+     <l n="10" rhyme="b" line_length="6+6">Et je te vois riante et les cheveux flottants,</l>
+     <l n="11" rhyme="a" line_length="6+6">Avec ton léger voile et ton chapeau de paille,</l>
+     <l n="12" rhyme="b" line_length="6+6">Et si belle au milieu d'un triomphal printemps !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

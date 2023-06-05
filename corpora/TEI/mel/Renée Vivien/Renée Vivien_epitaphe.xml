@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ÉPITAPHE</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_epitaphe</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ÉPITAPHE</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ÉPITAPHE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Doucement tu passas du sommeil à la mort,</l>
+     <l n="2" rhyme="b" line_length="6+6">De la nuit à la tombe et du rêve au silence,</l>
+     <l n="3" rhyme="a" line_length="6+6">Comme s’évanouit le sanglot d’un accord</l>
+     <l n="4" rhyme="b" line_length="6+6">Dans l’air d’un soir d’été qui meurt de somnolence.</l>
+     <l n="5" rhyme="c" line_length="6+6">Au fond du Crépuscule où sombrent les couleurs,</l>
+     <l n="6" rhyme="d" line_length="6+6">Où le monde pâli s’estompe au fond du rêve,</l>
+     <l n="7" rhyme="d" line_length="6+6">Tu sembles écouter le reflux de la sève</l>
+     <l n="8" rhyme="c" line_length="6+6">Murmurer, musical, dans les veines des fleurs.</l>
+     <l n="9" rhyme="e" line_length="6+6">Le velours de la terre aux caresses muettes</l>
+     <l n="10" rhyme="e" line_length="6+6">T’enserre, et sur ton front pleurent les violettes.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

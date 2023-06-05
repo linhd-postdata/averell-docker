@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JARO V ZIMĚ.</title>
+    <author>Bogner, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Bogner, Adolf_jaro-v-zime</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JARO V ZIMĚ.</title>
+     <author>Bogner, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JARO V ZIMĚ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101" rhyme="1" line_length="3">Padá sníh!</l>
+     <l n="2" met="10101010" rhyme="2" line_length="8">Třeba zima se mnou chvěje,</l>
+     <l n="3" met="10101010" rhyme="2" line_length="8">přece krásné jaro hřeje</l>
+     <l n="4" met="100" rhyme="1" line_length="3">z oček Tvých!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101" rhyme="3" line_length="3">Krutý mráz!</l>
+     <l n="6" met="10101010" rhyme="4" line_length="8">Pouze ze tvé krásné tváře</l>
+     <l n="7" met="10011010" rhyme="4" line_length="8">příjemná plá slunka záře –</l>
+     <l n="8" met="100" rhyme="3" line_length="3">jaro zas!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="101" rhyme="1" line_length="3">Padá sníh!</l>
+     <l n="10" met="10001010" rhyme="5" line_length="8">Posněžena každá snítka –</l>
+     <l n="11" met="10101010" rhyme="5" line_length="8">a já přece trhám kvítka</l>
+     <l n="12" met="100" rhyme="1" line_length="3">se rtů Tvých!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

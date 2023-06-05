@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A...</title>
+    <author>Pedro Antonio de Alarcón</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pedro Antonio de Alarcón_a</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A...</title>
+     <author>Pedro Antonio de Alarcón</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Sin fe ni amor, y a la esperanza muerta,</l>
+     <l n="2" met="-+-+---+-+-">como una estatua sepulcral yacías,</l>
+     <l n="3" met="-+---+-+-+-">ensueños y venturas de otros días</l>
+     <l n="4" met="+----+-+-+-">muda representando, hermosa y yerta.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">Turbar osé tu soledad desierta;</l>
+     <l n="6" met="-+-+-+---+-">consuelos te he brindado y alegrías,</l>
+     <l n="7" met="-+-+---+-+-">y bella surges de las sombras frías</l>
+     <l n="8" met="++-+---+-+-">y a un nuevo amor tu corazón despierta.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+-+-">¿Fue que tu alma sacudió la muerte?</l>
+     <l n="10" met="+--+---+-+-">¿Es que renace su extinguido fuego?</l>
+     <l n="11" met="-+-+---+-+-">¿O inmóvil sigues en adusta calma?</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++---+-+-+-">No: fue que al abrazar tu cuerpo inerte,</l>
+     <l n="13" met="-+---+-+-+-">pasmosa emulación del mármol griego,</l>
+     <l n="14" met="--+--+++-+-">en mis besos de amor te di mi alma.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

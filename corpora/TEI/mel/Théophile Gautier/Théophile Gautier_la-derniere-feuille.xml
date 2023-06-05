@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LA DERNIERE FEUILLE</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_la-derniere-feuille</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LA DERNIERE FEUILLE</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LA DERNIERE FEUILLE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Dans la forêt chauve et rouillée</l>
+     <l n="2" rhyme="b" line_length="8">Il ne reste plus au rameau</l>
+     <l n="3" rhyme="a" line_length="8">Qu'une pauvre feuille oubliée,</l>
+     <l n="4" rhyme="b" line_length="8">Rien qu'une feuille et qu'un oiseau.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Il ne reste plus dans mon âme</l>
+     <l n="6" rhyme="b" line_length="8">Qu'un seul amour pour y chanter,</l>
+     <l n="7" rhyme="a" line_length="8">Mais le vent d'automne qui brame</l>
+     <l n="8" rhyme="b" line_length="8">Ne permet pas de l'écouter ;</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">L'oiseau s'en va, la feuille tombe,</l>
+     <l n="10" rhyme="b" line_length="8">L'amour s'éteint, car c'est l'hiver.</l>
+     <l n="11" rhyme="a" line_length="8">Petit oiseau, viens sur ma tombe</l>
+     <l n="12" rhyme="b" line_length="8">Chanter, quand l'arbre sera vert !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto </title>
+    <author>Salinas,  Juan de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Salinas,  Juan de_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto </title>
+     <author>Salinas,  Juan de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Los dos Pompeyos del mayor Romano</l>
+     <l n="2" met="+--+-+---+-">hijos, a Europa y Asia dividieron</l>
+     <l n="3" met="--+--+---+-">sus cenizas; y allí donde se vieron</l>
+     <l n="4" met="-+-+---+-+-">triunfar, cedieron a enemiga mano.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">Las arenas que baña el africano</l>
+     <l n="6" met="+--+-+-+-+-">Nilo, sepulcro al gran Pompeyo fueron,</l>
+     <l n="7" met="+-+--+-+-+-">si es que al Cielo los Dioses no subieron,</l>
+     <l n="8" met="--+--+-+-+-">del divino valor asombro humano.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-++--+---+-">Las tres partes del mundo sujetadas,</l>
+     <l n="10" met="---+---+-+-">por su valor, por su saber profundo,</l>
+     <l n="11" met="-+---+---+-">por túmulo la Parca les destina.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">Prodigio grande, ¡oh, suertes desdichadas!</l>
+     <l n="13" met="---+-+-+++-">porque menor lugar, que todo un mundo</l>
+     <l n="14" met="-+++--++-+-">capaz no fuera de tan grande ruina.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

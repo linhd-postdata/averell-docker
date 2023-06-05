@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>OBĚTOVÁNÍ</title>
+    <author>Holý, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Holý, Josef_obetovani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>OBĚTOVÁNÍ</title>
+     <author>Holý, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>OBĚTOVÁNÍ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101" rhyme="1" line_length="7">Bůh nás volá, touží cit,</l>
+     <l n="2" met="1000" rhyme="2" line_length="4">rozlétá se,</l>
+     <l n="3" met="1010100" rhyme="1" line_length="7">kyne, jdem se poklonit</l>
+     <l n="4" met="10" rhyme="2" line_length="2">kráse.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010100" rhyme="3" line_length="7">Nebe jasem spálilo,</l>
+     <l n="6" met="0010" rhyme="4" line_length="4">byl jsem prvý,</l>
+     <l n="7" met="1000100" rhyme="3" line_length="7">srdce se mi zalilo</l>
+     <l n="8" met="10" rhyme="4" line_length="2">krví.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1000100" rhyme="5" line_length="7">Krása tvá mne zabije,</l>
+     <l n="10" met="1010" rhyme="6" line_length="4">sladké jméno,</l>
+     <l n="11" met="1000100" rhyme="5" line_length="7">sněhobílá lilie,</l>
+     <l n="12" met="10" rhyme="6" line_length="2">ženo.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1010100" rhyme="7" line_length="7">Záříš věčně, zdaleka,</l>
+     <l n="14" met="1010" rhyme="8" line_length="4">slunce v moři,</l>
+     <l n="15" met="1010100" rhyme="7" line_length="7">krev mi proudy vytéká,</l>
+     <l n="16" met="10" rhyme="8" line_length="2">hoří.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

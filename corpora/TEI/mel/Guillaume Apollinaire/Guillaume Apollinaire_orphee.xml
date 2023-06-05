@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Orphée</title>
+    <author>Guillaume Apollinaire</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Guillaume Apollinaire_orphee</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Orphée</title>
+     <author>Guillaume Apollinaire</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Orphée</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">La femelle de l’alcyon,</l>
+     <l n="2" rhyme="b" line_length="8">L’Amour, les volantes Sirènes,</l>
+     <l n="3" rhyme="a" line_length="8">Savent de mortelles chansons</l>
+     <l n="4" rhyme="b" line_length="8">Dangereuses et inhumaines.</l>
+     <l n="5" rhyme="c" line_length="8">N’oyez pas ces oiseaux maudits,</l>
+     <l n="6" rhyme="c" line_length="8">Mais les Anges du paradis.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

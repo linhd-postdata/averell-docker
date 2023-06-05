@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>¡Ser feliz!</title>
+    <author>Francisco de Icaza</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco de Icaza_ser-feliz</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>¡Ser feliz!</title>
+     <author>Francisco de Icaza</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>¡Ser feliz!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-++-++++-">Ser feliz, ¡ser feliz! Nadie lo ha sido;</l>
+     <l n="2" met="+++--+---+-">¿quién no llora sus penas en secreto?</l>
+     <l n="3" met="-++---+-+-+-">Y ¿quién d e entre vosotros ha podido</l>
+     <l n="4" met="-++--+---+-">sentirse venturoso por completo?</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+++--+-+-+-">Yo no busco la dicha; me someto</l>
+     <l n="6" met="-+---++--+-">al yugo que al nacer he merecido,</l>
+     <l n="7" met="-+-+---+-+-">y vivo al tedio y al dolor sujeto,</l>
+     <l n="8" met="-+---+---+-">guardando los rencores del vencido.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+---+-+-">Y si la vista sobre el cielo clavo</l>
+     <l n="10" met="---+-+-+-+-">ante el oscuro enigma, fuerte y bravo,</l>
+     <l n="11" met="++---+---+-">no busco la esperanza que consuela.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+--++-">Aunque el golpe del látigo me duela,</l>
+     <l n="13" met="--++---+-+-">como no tengo condición de esclavo,</l>
+     <l n="14" met="--+--+-+-+-">el sentir el azote me rebela.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

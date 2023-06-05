@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dnes...</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_dnes</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dnes...</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dnes...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101" rhyme="1" line_length="6">Dnes půjdem smutně spat,</l>
+     <l n="2" met="110010010" rhyme="2" line_length="9">ach, smutně, tak smutně, tak smutně!</l>
+     <l n="3" met="0101001" rhyme="1" line_length="7">Kdos přišel srdce mi rvát...</l>
+     <l n="4" met="11010010" rhyme="2" line_length="8">mnich žalost v obžalob kutně.</l>
+     <l n="5" met="01010100" rhyme="3" line_length="8">To všecko mohlo jiné být,</l>
+     <l n="6" met="01000101" rhyme="3" line_length="8">když nemožno to v snu i cit</l>
+     <l n="7" met="1100" rhyme="3" line_length="4">hleď zapomnít,</l>
+     <l n="8" met="0010010" rhyme="2" line_length="7">snad být musí tak nutně!</l>
+     <l n="9" met="01010101" rhyme="1" line_length="8">Dnes půjdem smutně, smutně spat,</l>
+     <l n="10" met="110" rhyme="2" line_length="3">ach smutně!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

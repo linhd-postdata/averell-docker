@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Tomu českému arcivrtáku.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_tomu-ceskemu-arcivrtaku</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Tomu českému arcivrtáku.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Tomu českému arcivrtáku.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010" rhyme="1" line_length="6">Vrtá stále, vrtá,</l>
+     <l n="2" met="100010" rhyme="1" line_length="6">zahanbuje krta;</l>
+     <l n="3" met="0010100010" rhyme="2" line_length="10">kéž by aspoň – oželíme škodu –</l>
+     <l n="4" met="1000101000" rhyme="2" line_length="10">dovrtal se záhy antipodů.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

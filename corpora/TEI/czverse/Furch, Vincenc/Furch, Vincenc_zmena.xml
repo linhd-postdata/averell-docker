@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Změna.</title>
+    <author>Furch, Vincenc</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Furch, Vincenc_zmena</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Změna.</title>
+     <author>Furch, Vincenc</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Změna.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101000" line_length="8">Kde jste, časy Chmelnického?</l>
+     <l n="2" met="100010" rhyme="1" line_length="6">Zanikly jste v moři –</l>
+     <l n="3" met="10100100" line_length="8">Marná ve srdcích kozáckých</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">Touha po vás hoří.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01001000" line_length="8">Ni jednoho Záporožce</l>
+     <l n="6" met="100100" rhyme="2" line_length="6">Nenajdeš lucernou –</l>
+     <l n="7" met="10010010" line_length="8">V noci jen kozáckou vidíš</l>
+     <l n="8" met="100100" rhyme="2" line_length="6">Družinu příšernou:</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101000" line_length="8">Stíny starých Záporožců</l>
+     <l n="10" met="101000" rhyme="3" line_length="6">Z mohyl povstávají – –</l>
+     <l n="11" met="10101010" line_length="8">Vlastní svoje syny, vnuky</l>
+     <l n="12" met="010000" rhyme="3" line_length="6">Již nepoznávají.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01001010" line_length="8">A kozácká sláva hyne</l>
+     <l n="14" met="110110" rhyme="4" line_length="6">Den ode dne více –</l>
+     <l n="15" met="10101100" line_length="8">A kde stála Sič přeslavná –</l>
+     <l n="16" met="101010" rhyme="4" line_length="6">Zříš teď švábské líce.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

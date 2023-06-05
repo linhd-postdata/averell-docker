@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vzpomene srdce rádo si.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_vzpomene-srdce-rado-si</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vzpomene srdce rádo si.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vzpomene srdce rádo si.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" line_length="8">Vzpomene srdce rádo si. </l>
+     <l n="2" met="10010100" rhyme="1" line_length="8">Zapadá slunce za hory.</l>
+     <l n="3" met="10010100" line_length="8">Pod lípou dávno ve kraji</l>
+     <l n="4" met="10010100" rhyme="1" line_length="8">sváteční zmlkly hovory.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" line_length="8">Vzpomene srdce, steskne si.</l>
+     <l n="6" met="10011100" rhyme="2" line_length="8">Z továren lid jde po práci.</l>
+     <l n="7" met="10110100" line_length="8">Bártův syn domů z ciziny</l>
+     <l n="8" met="10010100" rhyme="2" line_length="8">v rodný už kraj se nevrací.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

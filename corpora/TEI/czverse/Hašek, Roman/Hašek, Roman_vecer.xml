@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VEČER.</title>
+    <author>Hašek, Roman</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hašek, Roman_vecer</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VEČER.</title>
+     <author>Hašek, Roman</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VEČER.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010100" rhyme="1" line_length="8">Mdlé slunce kleslo za hory,</l>
+     <l n="2" met="11010100" rhyme="1" line_length="8">v tmách hasnou moje obzory,</l>
+     <l n="3" met="01010100" rhyme="2" line_length="8">a Večer padá na nivy,</l>
+     <l n="4" met="01010100" rhyme="2" line_length="8">můj Večer chorý, tesklivý.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101" rhyme="3" line_length="8">A ve kraj spjatý těžkou mhou,</l>
+     <l n="6" met="11000101" rhyme="3" line_length="8">zní píseň těch, kdož domů jdou,</l>
+     <l n="7" met="01010100" rhyme="3" line_length="8">ta píseň s notou veselou</l>
+     <l n="8" met="10010100" rhyme="3" line_length="8">o mnohých, kteří nedojdou...</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101" rhyme="4" line_length="8">Je po všem. Večer. Půjdu spat.</l>
+     <l n="10" met="11000101" rhyme="4" line_length="8">Oh, nedojít a jedno znát:</l>
+     <l n="11" met="01010100" rhyme="5" line_length="8">že lán můj nikdo neskosí,</l>
+     <l n="12" met="11010100" rhyme="5" line_length="8">má smutná pole bez rosy..!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

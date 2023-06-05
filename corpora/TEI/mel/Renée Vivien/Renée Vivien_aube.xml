@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>AUBE</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_aube</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>AUBE</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>AUBE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Voici le matin clair… Mon âme ouvre les yeux.</l>
+     <l n="2" rhyme="b" line_length="6+6">De ses nocturnes yeux ouverts, elle regarde…</l>
+     <l n="3" rhyme="b" line_length="6+6">Avec une stupeur tragiquement hagarde,</l>
+     <l n="4" rhyme="a" line_length="6+6">Redoutant la lumière évidente des cieux.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="0" line_length="6+6">C’est l’heure que je crains, celle où s’ouvrent les yeux.</l>
+     <l n="6" rhyme="2" line_length="6+6">Vient-il donc m’apporter quelque douleur nouvelle,</l>
+     <l n="7" rhyme="3" line_length="6+6">Ce matin dont m’atteint la première stupeur ?</l>
+     <l n="8" rhyme="0" line_length="6+6">Je les referme en vain dans l’instant anxieux…</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Voici, j’ai trop ployé sous le poids du destin</l>
+     <l n="10" rhyme="b" line_length="6+6">Pour ne point redouter l’inconnu de l’aurore.</l>
+     <l n="11" rhyme="b" line_length="6+6">Dois-je donc m’éveiller ? Dois-je souffrir encore ?…</l>
+     <l n="12" rhyme="a" line_length="6+6">Que vient-tu m’apporter, ô le nouveau matin ?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

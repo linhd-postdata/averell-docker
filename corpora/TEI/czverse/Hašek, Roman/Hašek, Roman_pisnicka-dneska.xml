@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PÍSNIČKA DNEŠKA:</title>
+    <author>Hašek, Roman</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hašek, Roman_pisnicka-dneska</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PÍSNIČKA DNEŠKA:</title>
+     <author>Hašek, Roman</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PÍSNIČKA DNEŠKA:</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001001001" rhyme="1" line_length="10">K výskavé polce nám nebudou hrát.</l>
+     <l n="2" met="1001001001" rhyme="1" line_length="10">Nemám tě, holka, už nemám tě rád.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="1001001001" rhyme="2" line_length="10">Dlouho jsme hledali uprchlý sen –</l>
+     <l n="4" met="100101000" rhyme="2" line_length="9">Zapomeň, děvče, zapomeň jen!</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="1001001001" rhyme="3" line_length="10">Zmíravý plamének dneška už zhas.</l>
+     <l n="6" met="1001001000" rhyme="3" line_length="10">S jiným se protlučeš životem snáz.</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="1001001001" rhyme="4" line_length="10">Marno vše. – Udal jsem poslední vtip.</l>
+     <l n="8" met="1000101000" rhyme="4" line_length="10">Odejdi, má milá, je to tak líp.</l>
+    </lg>
+    <lg n="5">
+     <l n="9" met="1001001000" rhyme="5" line_length="10">Nebude nikdy, jak bývalo dřív.</l>
+     <l n="10" met="00010100" rhyme="5" line_length="8">Už nám buď Pánbůh milostiv!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

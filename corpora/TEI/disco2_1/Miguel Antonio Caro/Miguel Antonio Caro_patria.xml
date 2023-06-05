@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Patria</title>
+    <author>Miguel Antonio Caro</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Miguel Antonio Caro_patria</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Patria</title>
+     <author>Miguel Antonio Caro</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Patria</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+----+-+-">¡Patria! Te adoro en mi silencio mudo,</l>
+     <l n="2" met="-+---+-+-+-">y temo profanar tu nombre santo.</l>
+     <l n="3" met="-+-+---+-+-">Por ti he gozado y padecido tanto</l>
+     <l n="4" met="+-+--+-+++-">cuanto lengua mortal decir no pudo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+++--+---+-">No te pido el amparo de tu escudo,</l>
+     <l n="6" met="---+-+---+-">sino la dulce sombra de tu manto:</l>
+     <l n="7" met="+--+---+-+-">quiero en tu seno derramar mi llanto,</l>
+     <l n="8" met="-+-+-++--+-">vivir, morir en ti pobre y desnudo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Ni poder, ni esplendor, ni lozanía,</l>
+     <l n="10" met="+-+---++-+-">son razones de amar. Otro es el lazo</l>
+     <l n="11" met="-+-+---+-+-">que nadie, nunca, desatar podría.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+---+-">Amo yo por instinto tu regazo,</l>
+     <l n="13" met="++-+---+-+-">madre eres tú de la familia mía:</l>
+     <l n="14" met="+----+-+-+-">¡Patria! de tus entrañas soy pedazo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

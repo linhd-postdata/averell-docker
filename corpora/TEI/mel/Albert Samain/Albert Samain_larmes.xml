@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LARMES</title>
+    <author>Albert Samain</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">8</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Albert Samain_larmes</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LARMES</title>
+     <author>Albert Samain</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LARMES</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" />
+    <lg n="2" />
+    <lg n="3" />
+    <lg n="4" />
+    <lg n="5" />
+    <lg n="6" />
+    <lg n="7">
+     <l n="1" rhyme="a" line_length="4+4+4">Gouttes d'extase, éplorement délicieux,</l>
+     <l n="2" rhyme="a" line_length="6+6">Tombez des nuits ! Tombez des fleurs ! Tombez des yeux !</l>
+    </lg>
+    <lg n="8">
+     <l n="3" rhyme="b" line_length="6−6">Et toi, mon cœur, sois le doux fleuve harmonieux,</l>
+     <l n="4" rhyme="b" line_length="6+6">Qui, riche du trésor tari des urnes vides,</l>
+     <l n="5" rhyme="a" line_length="6+6">Roule un grand rêve triste aux mers des soirs languides.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

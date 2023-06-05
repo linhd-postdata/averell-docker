@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>UTOPENÁ</title>
+    <author>Holý, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Holý, Josef_utopena</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>UTOPENÁ</title>
+     <author>Holý, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>UTOPENÁ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">„Hlava moje bílé sněhy,</l>
+     <l n="2" met="10101010" rhyme="2" line_length="8">tělo vyschlá blana trávná,</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">srdce plné touhy, něhy:</l>
+     <l n="4" met="00101010" rhyme="2" line_length="8">Kde jsi, kde jsi, milá dávná?“</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001000" rhyme="3" line_length="8">„Utlučená, porobená,</l>
+     <l n="6" met="10001010" rhyme="4" line_length="8">zakřiklá se krčím křivá,</l>
+     <l n="7" met="10101010" rhyme="4" line_length="8">jenom ze sna volnost zpívá,</l>
+     <l n="8" met="10001010" rhyme="3" line_length="8">vodníkova divá žena,</l>
+     <l n="9" met="10101010" rhyme="4" line_length="8">mrtvá, ale přece živá,</l>
+     <l n="10" met="10101000" rhyme="3" line_length="8">na dně bahna utopená.“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

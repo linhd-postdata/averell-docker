@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LE VASE</title>
+    <author>Albert Samain</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Albert Samain_le-vase</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LE VASE</title>
+     <author>Albert Samain</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LE VASE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">C'était un vase étrange ; on y voyait courir,</l>
+     <l n="2" rhyme="b" line_length="6−6">Pantelante sous la torche des Érinnyes,</l>
+     <l n="3" rhyme="b" line_length="6+6">Une foule mouvante en spires infinies…</l>
+     <l n="4" rhyme="a" line_length="6+6">Et l'argile vivante avait l'air de souffrir.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Quelque ouvrier terrible avait dû la pétrir</l>
+     <l n="6" rhyme="b" line_length="6+6">Avec de la chair âpre et des pleurs d'agonies ;</l>
+     <l n="7" rhyme="b" line_length="6+6">Des hydres s'y tordaient, et les Voix réunies</l>
+     <l n="8" rhyme="a" line_length="6+6">Clamaient la double horreur de naître et de mourir.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Ivres, les Passions fracassaient des cymbales ;</l>
+     <l n="10" rhyme="c" line_length="6+6">L'Avarice et la Haine, ourdissant leurs cabales.</l>
+     <l n="11" rhyme="d" line_length="6+6">Insultaient la Justice avec des bras sanglants.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Et seul un lys, élu pour les miséricordes,</l>
+     <l n="13" rhyme="e" line_length="6+6">Priait dans la lumière, et sur l'enfer des hordes</l>
+     <l n="14" rhyme="d" line_length="6+6">Versait son âme triste et noble en parfums blancs.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

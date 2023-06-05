@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vzpomínání.</title>
+    <author>Krásnohorská, Eliška</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Krásnohorská, Eliška_vzpominani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vzpomínání.</title>
+     <author>Krásnohorská, Eliška</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vzpomínání.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Ó zda v mysli mám jen tebe?</l>
+     <l n="2" met="1010101" rhyme="2" line_length="7">mine noc a mine den,</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">a mně hvězdy, zem i nebe</l>
+     <l n="4" met="1010100" rhyme="2" line_length="7">stále jeví tebe jen.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10100100" rhyme="3" line_length="8">Časná zoře se za šera:</l>
+     <l n="6" met="1000101" rhyme="4" line_length="7">„Miluji tě?“ tiše ptá,</l>
+     <l n="7" met="01001000" rhyme="3" line_length="8">a červánek za večera,</l>
+     <l n="8" met="1000100" rhyme="4" line_length="7">„miluji tě!“ zašeptá.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

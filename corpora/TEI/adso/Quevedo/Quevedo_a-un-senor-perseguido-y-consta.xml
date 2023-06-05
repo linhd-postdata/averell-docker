@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A un señor perseguido y constante en los trabajos.</title>
+    <author>Quevedo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quevedo_a-un-senor-perseguido-y-consta</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A un señor perseguido y constante en los trabajos.</title>
+     <author>Quevedo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A un señor perseguido y constante en los trabajos.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">De amenazas del Ponto rodeado</l>
+     <l n="2" met="--+--+---+-">y de enojos del viento sacudido,</l>
+     <l n="3" met="-++--+---+-">tu pompa es la borrasca, y su gemido</l>
+     <l n="4" met="+-+--+-+-+-">más aplauso te da que no cuidado.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+----+-+-+-">Reinas con majestad, escollo osado,</l>
+     <l n="6" met="--+--+---+-">en las iras del mar enfurecido,</l>
+     <l n="7" met="--+--+---+-">y, de sañas de espuma, encanecido,</l>
+     <l n="8" met="-+---+---+-">te ves de tus peligros coronado.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+---+-">Eres robusto escándalo a orgullosa</l>
+     <l n="10" met="+----+---+-">prora que, por peligros naufragante,</l>
+     <l n="11" met="-+-+-+---+-">te advierte, y no te toca, escrupulosa.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--++--+-">Y a su envidia y al mar, siempre constante,</l>
+     <l n="13" met="--+--++--+-">de advertido bajel seña piadosa</l>
+     <l n="14" met="+-+--+-+-+-">eres, norte y aviso a vela errante.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jasno je venku...</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_jasno-je-venku</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jasno je venku...</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jasno je venku...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101001" rhyme="1" line_length="9">Jasno je venku, tuhý je mráz,</l>
+     <l n="2" met="10010010" rhyme="2" line_length="8">s vysoka měsíček svítí</l>
+     <l n="3" met="10010101" rhyme="1" line_length="8">v nebeském luze – samý jas –</l>
+     <l n="4" met="10010010" rhyme="2" line_length="8">hvozdnaté, plamenné kvítí;</l>
+     <l n="5" met="00010101" rhyme="1" line_length="8">jak se tam asi v taký čas</l>
+     <l n="6" met="1001010" rhyme="2" line_length="7">děti mé budou míti?</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="10010100" rhyme="3" line_length="8">Rád bych se na ty luhy vznes’,</l>
+     <l n="8" met="10010010" rhyme="4" line_length="8">abych Vás uzřel, mé děti;</l>
+     <l n="9" met="10010100" rhyme="3" line_length="8">na nich si milé hráti dnes,</l>
+     <l n="10" met="10010010" rhyme="4" line_length="8">slyšel Vás smáti se, pěti,</l>
+     <l n="11" met="10010101" rhyme="3" line_length="8">vznáším se, srdcem v hrob jsem kles,</l>
+     <l n="12" met="1001010" rhyme="4" line_length="7">duch můj však letí, letí...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

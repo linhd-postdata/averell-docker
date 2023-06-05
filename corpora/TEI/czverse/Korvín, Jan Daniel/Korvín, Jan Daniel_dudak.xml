@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dudák.</title>
+    <author>Korvín, Jan Daniel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Korvín, Jan Daniel_dudak</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dudák.</title>
+     <author>Korvín, Jan Daniel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dudák.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="001010" rhyme="1" line_length="6">Co ten dudák dudá,</l>
+     <l n="2" met="010010" rhyme="2" line_length="6">co na návsi sedí?</l>
+     <l n="3" met="001010" rhyme="1" line_length="6">Či si, chudák chudá,</l>
+     <l n="4" met="101010" rhyme="2" line_length="6">jenom chleba hledí?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101010" rhyme="3" line_length="6">Chce snad líčit tíseň,</l>
+     <l n="6" met="101010" rhyme="4" line_length="6">jaká v Čechách byla,</l>
+     <l n="7" met="011010" rhyme="3" line_length="6">či chce, aby píseň</l>
+     <l n="8" met="001000" rhyme="4" line_length="6">nás snad zveselila?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="101010" rhyme="5" line_length="6">Dudy – dudy – dudy</l>
+     <l n="10" met="001010" rhyme="6" line_length="6">už to zase píská!</l>
+     <l n="11" met="011010" rhyme="5" line_length="6">Ty zvou u všech všudy</l>
+     <l n="12" met="101000" rhyme="6" line_length="6">jenom dobrotiska!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="101010" rhyme="7" line_length="6">Hraje dudák starý</l>
+     <l n="14" met="010010" rhyme="8" line_length="6">a na toho brouká,</l>
+     <l n="15" met="001000" rhyme="7" line_length="6">kdo tu na krejcary</l>
+     <l n="16" met="101010" rhyme="8" line_length="6">jako Mošna kouká!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

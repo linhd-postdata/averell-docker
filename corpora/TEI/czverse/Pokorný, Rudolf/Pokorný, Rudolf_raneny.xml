@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>RANĚNÝ.</title>
+    <author>Pokorný, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný, Rudolf_raneny</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>RANĚNÝ.</title>
+     <author>Pokorný, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>RANĚNÝ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010100" rhyme="1" line_length="9">Dívko, dívko, růže spanilá,</l>
+     <l n="2" met="101010100" rhyme="1" line_length="9">zhoubná střela srdce ranila – –</l>
+     <l n="3" met="1010101" line_length="7">budiž vlídnou, léku dej!</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="101010100" rhyme="2" line_length="9">„Není bylin, není hojení!“</l>
+     <l n="5" met="101010100" rhyme="2" line_length="9">Oči tvoje bylin zkvetení,</l>
+     <l n="6" met="1010101" line_length="7">budiž vlídnou, léku dej!</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="101010100" rhyme="3" line_length="9">„Není jara, co je vyhání!“</l>
+     <l n="8" met="101010100" rhyme="3" line_length="9">Tváře tvoje jara usmání,</l>
+     <l n="9" met="1010101" line_length="7">budiž vlídnou, léku dej!</l>
+    </lg>
+    <lg n="4">
+     <l n="10" met="101010100" rhyme="4" line_length="9">„Není slunce, co je ohřívá!“</l>
+     <l n="11" met="101010100" rhyme="4" line_length="9">Srdce tvoje slunce ukrývá,</l>
+     <l n="12" met="1010101" line_length="7">budiž vlídnou, léku dej!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

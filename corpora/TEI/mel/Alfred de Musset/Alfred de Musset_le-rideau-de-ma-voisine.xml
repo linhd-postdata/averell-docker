@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LE RIDEAU DE MA VOISINE</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_le-rideau-de-ma-voisine</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LE RIDEAU DE MA VOISINE</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LE RIDEAU DE MA VOISINE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="0" line_length="7">Le rideau de ma voisine</l>
+     <l n="2" rhyme="1" line_length="7">Se soulève lentement.</l>
+     <l n="3" rhyme="0" line_length="7">Elle va, je l'imagine,</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="2" line_length="7">On entr'ouvre la fenêtre ;</l>
+     <l n="5" rhyme="3" line_length="7">Je sens mon cœur palpiter.</l>
+     <l n="6" rhyme="2" line_length="7">Elle veut savoir peut-être</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="4" line_length="7">Mais, hélas ! ce n'est qu'un rêve ;</l>
+     <l n="8" rhyme="5" line_length="7">Ma voisine aime un lourdaud,</l>
+     <l n="9" rhyme="4" line_length="7">Et c'est le vent qui soulève</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

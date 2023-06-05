@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PŘÁNÍ MLADOSTI</title>
+    <author>Sova, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sova, Antonín_prani-mladosti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PŘÁNÍ MLADOSTI</title>
+     <author>Sova, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PŘÁNÍ MLADOSTI</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101" rhyme="1" line_length="8">Je letní večer... vidím rád,</l>
+     <l n="2" met="010101010" rhyme="2" line_length="9">jak soumrak žhnoucí k zemi padá.</l>
+     <l n="3" met="11000101" rhyme="1" line_length="8">Sním... Budoucnosti volám spád,</l>
+     <l n="4" met="01001100" rhyme="1" line_length="8">by purpurem šel přikrývat</l>
+     <l n="5" met="11010" rhyme="2" line_length="5">má léta mladá.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="01010100" rhyme="3" line_length="8">A rád bych jako večer ten</l>
+     <l n="7" met="100100010" rhyme="4" line_length="9">v ohnivě purpurové záři</l>
+     <l n="8" met="01000101" rhyme="3" line_length="8">a ve vůních svůj skončil den,</l>
+     <l n="9" met="10110100" rhyme="3" line_length="8">a jak zem – slunce záchvit jen</l>
+     <l n="10" met="11010" rhyme="4" line_length="5">měl v klidné tváři.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ZAKOPAL</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_zakopal</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ZAKOPAL</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ZAKOPAL</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001000" rhyme="1" line_length="8">Sosiáše, Sganarella,</l>
+     <l n="2" met="1010100" rhyme="2" line_length="7">Vlachy dává, Hispance,</l>
+     <l n="3" met="10100010" rhyme="1" line_length="8">a tu hleďme – je to mela! –</l>
+     <l n="4" met="10100010" rhyme="1" line_length="8">naráz do smíchu a těla</l>
+     <l n="5" met="10001010" rhyme="1" line_length="8">muzika mu z pouti vjela,</l>
+     <l n="6" met="1010100" rhyme="2" line_length="7">Bohuš dá se do tance!</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="10101010" rhyme="3" line_length="8">„Tidli-fidli“ zní a hrá to,</l>
+     <l n="8" met="10011010" rhyme="3" line_length="8">potichu cos „děti – táto“</l>
+     <l n="9" met="1010100" rhyme="4" line_length="7">zvučí do všech legrací,</l>
+     <l n="10" met="00001010" rhyme="5" line_length="8">vždyť to je ta divná struna,</l>
+     <l n="11" met="10011000" rhyme="5" line_length="8">na kterou hrá Kalafuna,</l>
+     <l n="12" met="0010100" rhyme="4" line_length="7">když se domů navrací.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

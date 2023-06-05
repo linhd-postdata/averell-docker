@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A la muerte de Lope de Vega</title>
+    <author>Antonio Carnero</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Antonio Carnero_a-la-muerte-de-lope-de-vega</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A la muerte de Lope de Vega</title>
+     <author>Antonio Carnero</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A la muerte de Lope de Vega</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+-+-+-">Lope yace en reposo, no su fama,</l>
+     <l n="2" met="---+-+-+-+-">que resonante trompa gravemente,</l>
+     <l n="3" met="---+-+---+-">de donde muere en húmido tridente</l>
+     <l n="4" met="-+-+-+-+-+-">a donde nace el sol su nombre aclama.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">Penda su avena de luctuosa rama,</l>
+     <l n="6" met="---+---+-+-">cuando del Tajo funeral corriente</l>
+     <l n="7" met="--+-++---+-">de cristales lo erige, si eminente</l>
+     <l n="8" met="+--+---+-+-">pira sus cisnes, reposada cama.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-+---+-">Gloria de Pindo fue, cuya enseñanza</l>
+     <l n="10" met="--++-+---+-">su nación ha imitado y las ajenas</l>
+     <l n="11" met="-+---+---+-">oráculo veneran su Talía.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+--+--+-">¡O miserable humana confianza!</l>
+     <l n="13" met="+----+-+-+-">¿cómo en tus ambiciones te encadenas,</l>
+     <l n="14" met="+-+--+-+-+-">viendo tanto varón ceniza fría?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

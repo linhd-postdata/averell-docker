@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>2. Potůček.</title>
+    <author>Šrámek, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Šrámek, Jan_2-potucek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>2. Potůček.</title>
+     <author>Šrámek, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>2. Potůček.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000100" line_length="7">Potůček to život náš,</l>
+     <l n="2" met="100010" rhyme="1" line_length="6">lučinou se vine,</l>
+     <l n="3" met="1010100" line_length="7">kolem kvítí vykvétá,</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">kolem kvítí hyne.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010010" line_length="7">Vlnka běží dál a dál,</l>
+     <l n="6" met="100010" rhyme="2" line_length="6">ku břehům se kloní,</l>
+     <l n="7" met="0010100" rhyme="3" line_length="7">hned zas v ostrém kamení</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">žalostivě zvoní.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010100" rhyme="3" line_length="7">Někdy vodu rozpění,</l>
+     <l n="10" met="101010" rhyme="4" line_length="6">mladou hlavu ježí,</l>
+     <l n="11" met="1010101" line_length="7">potom opět dlouhý čas</l>
+     <l n="12" met="101010" rhyme="4" line_length="6">klidně cestou běží.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1000101" line_length="7">Přichází-li běhu cíl,</l>
+     <l n="14" met="101010" rhyme="5" line_length="6">bujně zvedne hlavu,</l>
+     <l n="15" met="1010100" line_length="7">ale hlava umdlévá,</l>
+     <l n="16" met="101010" rhyme="5" line_length="6">zdlouha klesne v navu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

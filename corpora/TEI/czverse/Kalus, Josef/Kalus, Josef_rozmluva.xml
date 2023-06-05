@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ROZMLUVA.</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_rozmluva</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ROZMLUVA.</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ROZMLUVA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="000100" rhyme="1" line_length="6">„Co je ti, dceruško?“</l>
+     <l n="2" met="100010" rhyme="2" line_length="6">„Střevíček mne tlačí.“</l>
+     <l n="3" met="101100" rhyme="1" line_length="6">„Zuj se, jdi na lůžko.“</l>
+     <l n="4" met="100010" rhyme="2" line_length="6">„Tančila bych radši.“</l>
+     <l n="5" met="010100" rhyme="3" line_length="6">„Snad nechceš k muzice?“</l>
+     <l n="6" met="100010" rhyme="4" line_length="6">„Kdekterá tam bude.“</l>
+     <l n="7" met="100100" rhyme="3" line_length="6">„Bohatých nejvíce.“</l>
+     <l n="8" met="100010" rhyme="4" line_length="6">„Budou tam i chudé.“</l>
+     <l n="9" met="010100" rhyme="5" line_length="6">„Jsme z chudých nejchudší.“</l>
+     <l n="10" met="001010" rhyme="2" line_length="6">„To mne málo tlačí:</l>
+     <l n="11" met="010100" rhyme="5" line_length="6">jak cimbál zazvučí,</l>
+     <l n="12" met="100100" rhyme="5" line_length="6">milého v náručí</l>
+     <l n="13" met="001000" rhyme="2" line_length="6">jsem tou nejbohatší!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JESEŇ</title>
+    <author>Breska, Alfons</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Breska, Alfons_jesen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JESEŇ</title>
+     <author>Breska, Alfons</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JESEŇ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101010" rhyme="1" line_length="9">ZLACENÉ listí padá k zemi,</l>
+     <l n="2" met="10010100" rhyme="2" line_length="8">do zimy všechno opadá,</l>
+     <l n="3" met="100101000" rhyme="1" line_length="9">obloha svítá haluzemi,</l>
+     <l n="4" met="01000100" rhyme="2" line_length="8">jež pavučina opřádá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010001010" rhyme="3" line_length="9">A pod listím se cesty ztrácí,</l>
+     <l n="6" met="01010100" rhyme="4" line_length="8">jež vedly lesem do světa,</l>
+     <l n="7" met="100101010" rhyme="3" line_length="9">do slunných krajů táhnou ptáci,</l>
+     <l n="8" met="10010100" rhyme="4" line_length="8">labutí hejno odlétá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101010" rhyme="5" line_length="9">Kdes v dáli věčný tulák zpívá,</l>
+     <l n="10" met="01000100" rhyme="6" line_length="8">že pampelišky zahynou,</l>
+     <l n="11" met="010101000" rhyme="5" line_length="9">a jeho píseň zadumčivá</l>
+     <l n="12" met="10010100" rhyme="6" line_length="8">podzimní splývá krajinou.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

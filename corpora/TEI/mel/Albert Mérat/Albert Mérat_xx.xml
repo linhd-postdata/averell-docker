@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XX</title>
+    <author>Albert Mérat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Albert Mérat_xx</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XX</title>
+     <author>Albert Mérat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XX</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="5+5">Quand on est heureux, on n’a pas d’histoire.</l>
+     <l n="2" rhyme="b" line_length="5+5">On se cache, on s’aime à l’ombre, tout bas;</l>
+     <l n="3" rhyme="a" line_length="5+5">Rien de glorieux, pas de fait notoire;</l>
+     <l n="4" rhyme="b" line_length="5+5">Le monde oublié ne vous connaît pas.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="5+5">Si quelqu’un pourtant, avec un sourire.</l>
+     <l n="6" rhyme="b" line_length="5+5">Dit, en vous voyant fuir l’éclat du jour :</l>
+     <l n="7" rhyme="a" line_length="5+5">«Ce sont des hiboux !» eh bien, laissez dire…</l>
+     <l n="8" rhyme="b" line_length="5+5">Ce sont des oiseaux éblouis d’amour.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="5+5">Quand le baiser fait la parole vaine,</l>
+     <l n="10" rhyme="b" line_length="5+5">On s’en va, muets, dans les grands prés verts.</l>
+     <l n="11" rhyme="a" line_length="5+5">— Loin de mon bonheur, je fixe ma peine</l>
+     <l n="12" rhyme="b" line_length="5+5">Sur l’émail fragile et bleu de mes vers.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

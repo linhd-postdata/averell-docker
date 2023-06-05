@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LE LÉZARD</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_le-lezard</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LE LÉZARD</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LE LÉZARD</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Sur le vieux mur qui se lézarde,</l>
+     <l n="2" rhyme="b" line_length="8">Que de lézards gris ! ça fourmille !</l>
+     <l n="3" rhyme="b" line_length="8">Quand je m'en vais dans la charmille,</l>
+     <l n="4" rhyme="a" line_length="8">Toutes les fois je les regarde.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">L'un d'eux sur ma main se hasarde,</l>
+     <l n="6" rhyme="b" line_length="8">Car moi, je suis de la famille.</l>
+     <l n="7" rhyme="a" line_length="8">Sur le vieux mur qui se lézarde</l>
+     <l n="8" rhyme="b" line_length="8">Que de lézards gris ! ça fourmille !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Je n'ai point la mine hagarde</l>
+     <l n="10" rhyme="b" line_length="8">Pour la bestiole gentille,</l>
+     <l n="11" rhyme="b" line_length="8">Et c'est en paix qu'elle frétille,</l>
+     <l n="12" rhyme="a" line_length="8">Se sachant bien en bonne garde</l>
+     <l n="13" rhyme="a" line_length="8">Sur le vieux mur qui se lézarde.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

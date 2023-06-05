@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sonet z procházky.</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_sonet-z-prochazky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sonet z procházky.</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sonet z procházky.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100100" rhyme="1" line_length="9">S kaštanů listy již seváty –</l>
+     <l n="2" met="00010010" rhyme="2" line_length="8">jak jsou teď stromy už holé!</l>
+     <l n="3" met="110100100" rhyme="1" line_length="9">Pár listů mají jen akáty,</l>
+     <l n="4" met="01010010" rhyme="2" line_length="8">ty s prvním větrem jsou dole!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101100100" rhyme="1" line_length="9">Nebes pruh v šedivo rozpjatý</l>
+     <l n="6" met="11010010" rhyme="2" line_length="8">s mhou splývá v obzoru kole,</l>
+     <l n="7" met="011100100" rhyme="1" line_length="9">a pár vran s černými pařáty</l>
+     <l n="8" met="11010110" rhyme="2" line_length="8">zří drze na tě z brázd pole...</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="110100100" rhyme="3" line_length="9">Zříš v příkop u cesty do trávy:</l>
+     <l n="10" met="1100100100" rhyme="3" line_length="10">pár sedmikrás kvítek svůj krvavý</l>
+     <l n="11" met="010010110" rhyme="4" line_length="9">z té zeleně zmrzlé vznést pídí...</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="000100100" rhyme="5" line_length="9">Nic se tu nehne, nic nešumí...</l>
+     <l n="13" met="0100100100" rhyme="5" line_length="10">Těm podzimkům člověk tak rozumí</l>
+     <l n="14" met="100101000" rhyme="4" line_length="9">a tak je z duše nenávidí...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Miguel Teurbe Tolón</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Miguel Teurbe Tolón_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Miguel Teurbe Tolón</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">De negras sombras pavoroso manto</l>
+     <l n="2" met="+--+-+---+-">lúgubre envuelto el ancho firmamento:</l>
+     <l n="3" met="+--+---+++-">cruje la ceiba al sacudirla el viento,</l>
+     <l n="4" met="-+-+---+-+-">rimbomba el trueno con horrendo espanto.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+----+-+-+-">Gime la humanidad y todo cuanto</l>
+     <l n="6" met="-+-+-+-+-+-">respira ¡ay triste! en tan fatal momento.</l>
+     <l n="7" met="-+++---+-+-">Romperse quiere con fragor violento</l>
+     <l n="8" met="-+-+---+-+-">el Orbe todo, ante fracaso tanto.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+---+-+-">Yo entonces solo, con incierta huella,</l>
+     <l n="10" met="+----+--++-">busco la salvación ¡oh! si la alcanzo</l>
+     <l n="11" met="--+--+-+-+-">a la trémula luz de alguna estrella.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+-+-+-">Allá en la oscuridad diviso el puerto...</l>
+     <l n="13" met="+-+-+-+-+++-">corro... llego... un abismo ¡Oh, Dios! me lanzo</l>
+     <l n="14" met="--+--+-+-+-">y al rodar por las peñas me despierto.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

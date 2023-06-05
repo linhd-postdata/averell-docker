@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Smrt na samotě.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_smrt-na-samote</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Smrt na samotě.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Smrt na samotě.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" rhyme="1" line_length="8">Zatáčkami, jež vždy ouží</l>
+     <l n="2" met="1000101" rhyme="2" line_length="7">na srna jak štvaný chrt,</l>
+     <l n="3" met="10001010" rhyme="1" line_length="8">nad kleslou mi hlavou krouží</l>
+     <l n="4" met="1010001" rhyme="2" line_length="7">sivě rozkřídlená smrt.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" rhyme="3" line_length="8">Tuším ji; jak skřivan s kříku</l>
+     <l n="6" met="1010101" rhyme="4" line_length="7">slétám z ruchu v samot skrýš,</l>
+     <l n="7" met="01001000" rhyme="3" line_length="8">leč i tam mě po výkřiku</l>
+     <l n="8" met="1010100" rhyme="4" line_length="7">najde – lapí mnohem spíš.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

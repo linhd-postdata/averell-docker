@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Églé</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_egle</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Églé</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Églé</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Sous le lourd fleuve d'or qui va le caressant,</l>
+     <l n="2" rhyme="b" line_length="6+6">Avec ses sombres yeux et sa bouche de rose,</l>
+     <l n="3" rhyme="b" line_length="6+6">Le visage d'Églé, fait pour l'apothéose,</l>
+     <l n="4" rhyme="a" line_length="6+6">Apparaît, comme au ciel un astre éblouissant.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Dans sa prunelle en feu rit le désir naissant,</l>
+     <l n="6" rhyme="b" line_length="6+6">Et du col au talon qui sur le sol se pose,</l>
+     <l n="7" rhyme="b" line_length="6+6">Sur le torse, où le lys a mis sa neige éclose,</l>
+     <l n="8" rhyme="a" line_length="6+6">La ligne glorieuse et tranquille descend.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Toute troublée encor par le songe nocturne,</l>
+     <l n="10" rhyme="c" line_length="6+6">Églé lève ses bras comme des anses d'urne,</l>
+     <l n="11" rhyme="d" line_length="6+6">Et prend ses grands cheveux, mêlés par le sommeil.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Un frissonnant rayon de lumière glisse entre</l>
+     <l n="13" rhyme="d" line_length="6+6">Ses jeunes seins, baisant leur bout rose et vermeil,</l>
+     <l n="14" rhyme="e" line_length="6+6">Et met dans la clarté la blancheur de son ventre.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

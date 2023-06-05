@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>X. Vojáci jsou páni, ovládají svět,</title>
+    <author>Mašek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mašek, Karel_x-vojaci-jsou-pani-ovladaji-sv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>X. Vojáci jsou páni, ovládají svět,</title>
+     <author>Mašek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>X. Vojáci jsou páni, ovládají svět,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010001" rhyme="1" line_length="11">Vojáci jsou páni, ovládají svět, </l>
+     <l n="2" met="00101010000" rhyme="1" line_length="11">jak je děvče vidí, náleží jim hned.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="10101010001" rhyme="2" line_length="11">Mají pěkné šaty, oficír i kmán,</l>
+     <l n="4" met="10101010101" rhyme="2" line_length="11">taky hezké koně dá jim císař pán.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="10001010100" rhyme="3" line_length="11">Po smrti pak mají slávu velikou,</l>
+     <l n="6" met="10011010100" rhyme="3" line_length="11">na funus jde vojsko s krásnou muzikou.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

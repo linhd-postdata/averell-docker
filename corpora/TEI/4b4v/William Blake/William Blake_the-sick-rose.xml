@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>The Sick Rose</title>
+    <author>William Blake</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>William Blake_the-sick-rose</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>For Better For Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>The Sick Rose</title>
+     <author>William Blake</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>The Sick Rose</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="quatrain">
+     <l n="1" met="-+--+|++--+">O Rose, thou art sick!</l>
+     <l n="2" met="--+--+">The invisible worm</l>
+     <l n="3" met="-+--+">That flies in the night</l>
+     <l n="4" met="--+-+">In the howling storm</l>
+    </lg>
+    <lg n="2" stanza_type="quatrain">
+     <l n="5" met="-+--+">Has found out thy bed</l>
+     <l n="6" met="-+-+">Of crimson joy,</l>
+     <l n="7" met="--++-+">And his dark secret love</l>
+     <l n="8" met="--+-+">Does thy life destroy.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

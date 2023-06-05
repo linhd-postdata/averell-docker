@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Amar y morir</title>
+    <author>José Jacinto Milanés</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Jacinto Milanés_amar-y-morir</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Amar y morir</title>
+     <author>José Jacinto Milanés</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Amar y morir</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+---+-+-">Bella es la edad, cuando el amor convida</l>
+     <l n="2" met="-+---+---+-">con un incontrastable poderío</l>
+     <l n="3" met="-++--++--+-">a darte el corazón, ídolo mío,</l>
+     <l n="4" met="-+-+-+---+-">y a hacer de ti mi júbilo y mi vida.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++-+---+-+-">¿Cuál cosa habrá que idolatrar me impida</l>
+     <l n="6" met="-+-+---+-+-">tu rostro y talle, en que beldad y brío</l>
+     <l n="7" met="+----+---+-">ponen con duplicado señorío</l>
+     <l n="8" met="++-+---+-+-">un grillo eterno a mi ventura huida?</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+-+-+-">Ser del todo feliz ninguno sabe,</l>
+     <l n="10" met="-+++-++--+-">así lo dice el rey y así el esclavo,</l>
+     <l n="11" met="--+--+-+-+-">por tener la esperanza cosas de ave.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+++-">Mas yo que nunca de adorarte acabo,</l>
+     <l n="13" met="+-++-+---+-">digo que es carga plácida y suave</l>
+     <l n="14" met="-+-+---+++-">morir de amor, si al fenecer te alabo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

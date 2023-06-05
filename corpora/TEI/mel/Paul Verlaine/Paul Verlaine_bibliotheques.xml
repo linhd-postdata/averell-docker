@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>BIBLIOTHÈQUES</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_bibliotheques</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>BIBLIOTHÈQUES</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>BIBLIOTHÈQUES</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+4+4">Meuble sublime ou ridicule, ou tous les deux,</l>
+     <l n="2" rhyme="b" line_length="6+6">Qui, mon goût consulté, serait plutôt modeste</l>
+     <l n="3" rhyme="b" line_length="6+6">Et de proportions, et de luxe, et du reste,</l>
+     <l n="4" rhyme="a" line_length="6+6">Salut, Bibliothèque, antre auguste et hideux !</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Mais les livres, ici, n’en point parler vaut mieux ;</l>
+     <l n="6" rhyme="b" line_length="6+6">Le logis, le local, indigent ou céleste,</l>
+     <l n="7" rhyme="b" line_length="6+6">Seul, nous veut occuper d’un oeil profond ou leste,</l>
+     <l n="8" rhyme="a" line_length="6+6">Et déjà l’examen me convainc d’être vieux :</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Car je hais la dorure et la fioriture</l>
+     <l n="10" rhyme="d" line_length="6+6">Sur l’acajou trop dense ou tels autres bois lourds :</l>
+     <l n="11" rhyme="d" line_length="8+4">Tout au plus des pattes en cuivre et des chefs d’ours ;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="c" line_length="6+6">Ou bien du bois de rose aux coins, où se torture</l>
+     <l n="13" rhyme="e" line_length="6+6">Le rococo de Boulle et celui de Boucher…</l>
+     <l n="14" rhyme="e" line_length="6+6">Ou des planches au long d’un mur, où tout nicher !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

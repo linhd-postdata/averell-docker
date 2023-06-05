@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jen začátek!</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_jen-zacatek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jen začátek!</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jen začátek!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01001000" rhyme="1" line_length="8">Jsou Maďaři „pod šablami“,</l>
+     <l n="2" met="100010" rhyme="2" line_length="6">dobře se jim daří,</l>
+     <l n="3" met="000010" rhyme="2" line_length="6">my jsme však ti staří,</l>
+     <l n="4" met="1010100010" rhyme="1" line_length="10">raby z dětí děláme si sami,</l>
+     <l n="5" met="01100010" rhyme="2" line_length="8">až bůh do pusta nás zmaří.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="10101000" rhyme="3" line_length="8">Rozum dáme za hrjaté,</l>
+     <l n="7" met="101010" rhyme="4" line_length="6">právo za číš vína,</l>
+     <l n="8" met="100010" rhyme="4" line_length="6">za turáček syna,</l>
+     <l n="9" met="1010000010" rhyme="3" line_length="10">jazyk za polovic – tu ho máte,</l>
+     <l n="10" met="00101010" rhyme="4" line_length="8">vždyť náš život samá psina. –</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="11001010" rhyme="5" line_length="8">No, Parome, dolů na to,</l>
+     <l n="12" met="101010" rhyme="6" line_length="6">jsili Slovák starý,</l>
+     <l n="13" met="100010" rhyme="6" line_length="6">zahlaholi: Vari!</l>
+     <l n="14" met="1010101010" rhyme="5" line_length="10">syp jim v hrdlo pěkné živé zlato,</l>
+     <l n="15" met="10101000" rhyme="6" line_length="8">máš ho dosti na podary.</l>
+    </lg>
+    <lg n="4">
+     <l n="16" met="10101010" rhyme="7" line_length="8">Pusť tu smečku řvoucích hromů,</l>
+     <l n="17" met="110010" rhyme="8" line_length="6">vzbuď jimi, kdo dřímá,</l>
+     <l n="18" met="001010" rhyme="8" line_length="6">nač je ruka třímá?</l>
+     <l n="19" met="1010101010" rhyme="7" line_length="10">Metej v setí, však ty víš už komu;</l>
+     <l n="20" met="10100010" rhyme="8" line_length="8">podpal: ostatní se zdýmá!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

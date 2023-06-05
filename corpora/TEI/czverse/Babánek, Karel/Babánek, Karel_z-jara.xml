@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Z JARA.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_z-jara</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Z JARA.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Z JARA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" rhyme="1" line_length="11">Tak každým rokem kvete třešně stará,</l>
+     <l n="2" met="01000101010" rhyme="1" line_length="11">zas jako dřív’ a jako loni z jara</l>
+     <l n="3" met="01000101010" rhyme="2" line_length="11">a záhony se pestří novým květem,</l>
+     <l n="4" met="11010001010" rhyme="2" line_length="11">mák rudě zahoří, zas v polích s létem.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010101010" rhyme="3" line_length="11">Pod zkvetlým stromem stařec vetchý sedí,</l>
+     <l n="6" met="10010100010" rhyme="3" line_length="11">vyhaslé zraky v minulo kams’ hledí,</l>
+     <l n="7" met="0100010101" rhyme="4" line_length="10">jak dohlédnout by nazpět v dáli chtěl,</l>
+     <l n="8" met="0100010101" rhyme="4" line_length="10">co nad hlavou mu zpívá hudba včel.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1100010101" rhyme="5" line_length="10">Zrak pohaslý, sám jakby ztracen v snech,</l>
+     <l n="10" met="0100110100" rhyme="5" line_length="10">a omamně květ voní v záhonech.</l>
+     <l n="11" met="01010001010" rhyme="6" line_length="11">A tiše, korunou jak stromu včely,</l>
+     <l n="12" met="01000101000" rhyme="6" line_length="11">tak vzpomínky se v hlavě rozzvučely.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

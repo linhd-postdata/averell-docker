@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>BALADA.</title>
+    <author>Zavřel, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Zavřel, František_balada</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>BALADA.</title>
+     <author>Zavřel, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>BALADA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10011000" line_length="8">Kantoři dva obsadili</l>
+     <l n="2" met="1010100" rhyme="1" line_length="7">světa slávu veškeru:</l>
+     <l n="3" met="10101000" line_length="8">jeden dělá politiku,</l>
+     <l n="4" met="1010100" rhyme="1" line_length="7">druhý řídí operu.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101000" line_length="8">Oba zvyklí na notesy</l>
+     <l n="6" met="0100100" rhyme="2" line_length="7">a na křídu s tabulí,</l>
+     <l n="7" met="10001000" line_length="8">s divadlem a politikou</l>
+     <l n="8" met="1000100" rhyme="2" line_length="7">absolutně nehnuli.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001000" line_length="8">Bez ohně a bez obsahu</l>
+     <l n="10" met="1000100" rhyme="3" line_length="7">nad notami živoří.</l>
+     <l n="11" met="00101000" line_length="8">Jsou to zkrátka školometi,</l>
+     <l n="12" met="1010100" rhyme="3" line_length="7">mdlí a chladní kantoři.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10001000" line_length="8">Divadlo i politiku</l>
+     <l n="14" met="1010100" rhyme="4" line_length="7">jejich „genij“ rozdrtí.</l>
+     <l n="15" met="10001010" line_length="8">Kantoři však budou, zdá se,</l>
+     <l n="16" met="1000100" rhyme="4" line_length="7">řádit zde i po smrti!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

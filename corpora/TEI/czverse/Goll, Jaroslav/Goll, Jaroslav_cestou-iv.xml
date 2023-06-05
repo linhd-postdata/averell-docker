@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CESTOU. (IV.)</title>
+    <author>Goll, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Goll, Jaroslav_cestou-iv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CESTOU. (IV.)</title>
+     <author>Goll, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CESTOU. (IV.)</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" line_length="8">Někdy přece po domovu</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">stesk se v duši vkrádá:</l>
+     <l n="3" met="10001010" line_length="8">zazpívám si chutě píseň,</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">doma lid co skládá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" line_length="8">Cizí hory, cizí stráně</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">cizím zrakem hledí:</l>
+     <l n="7" met="00101000" line_length="8">přec jich echa domácími</l>
+     <l n="8" met="101000" rhyme="2" line_length="6">slovy odpovědí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

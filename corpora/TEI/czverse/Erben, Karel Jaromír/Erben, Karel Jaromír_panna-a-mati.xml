@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Panna a máti.</title>
+    <author>Erben, Karel Jaromír</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Erben, Karel Jaromír_panna-a-mati</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Panna a máti.</title>
+     <author>Erben, Karel Jaromír</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Panna a máti.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" rhyme="1" line_length="8">Růži v jara spanilosti</l>
+     <l n="2" met="10101000" rhyme="2" line_length="8">panna stoudná podobá se;</l>
+     <l n="3" met="10001010" rhyme="2" line_length="8">dokonaláť ve své kráse,</l>
+     <l n="4" met="10101000" rhyme="3" line_length="8">perla dechem nezkalená.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" rhyme="1" line_length="8">Máti však, jež dítky ctnosti</l>
+     <l n="6" met="10101000" rhyme="4" line_length="8">a své vlasti vychovává:</l>
+     <l n="7" met="01000100" rhyme="4" line_length="8">té rovného nic nestává –</l>
+     <l n="8" met="10101000" rhyme="3" line_length="8">před tou klekni na kolena!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001000" rhyme="5" line_length="8">Nad perly a nad korale</l>
+     <l n="10" met="10100010" rhyme="6" line_length="8">svěží růžový je vínek;</l>
+     <l n="11" met="10101000" rhyme="5" line_length="8">avšak ceny neskonalé</l>
+     <l n="12" met="10100100" rhyme="6" line_length="8">routa dodá a barvínek.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

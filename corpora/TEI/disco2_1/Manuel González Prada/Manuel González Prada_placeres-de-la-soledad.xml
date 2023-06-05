@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Placeres de la soledad</title>
+    <author>Manuel González Prada</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel González Prada_placeres-de-la-soledad</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Placeres de la soledad</title>
+     <author>Manuel González Prada</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Placeres de la soledad</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+----++-">Pláceme, huyendo el mundanal ruido,</l>
+     <l n="2" met="-+-+---+-+-">tender al bosque mi ligero paso</l>
+     <l n="3" met="--+--+-+-+-">y en la negra espesura errar perdido</l>
+     <l n="4" met="---+-+---+-">al fallecer del sol en el ocaso;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">pláceme agreste monte y escondido,</l>
+     <l n="6" met="+--+---+-+-">luna que brilla en el etéreo raso,</l>
+     <l n="7" met="-+-+-+---+-">volcán de eterna nieve revestido,</l>
+     <l n="8" met="+--+--+--+-">fuente sonora y arroyuelo escaso.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+---+-+-">Que en tu recinto, soledad secreta,</l>
+     <l n="10" met="+--+---+-+-">duerme el dolor que al infeliz oprime</l>
+     <l n="11" met="++-+---+-+-">y es todo paz y venturanza quieta:</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+---+-+-">habla el silencio en tu solemne calma;</l>
+     <l n="13" met="---+---+-+-">adormecido el universo gime</l>
+     <l n="14" met="+--+---+-+-">y ábrense a Dios el corazón y el alma.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Salomé</title>
+    <author>Guillaume Apollinaire</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">19</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Guillaume Apollinaire_salome</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Salomé</title>
+     <author>Guillaume Apollinaire</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Salomé</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Pour que sourie encore une fois Jean-Baptiste</l>
+     <l n="2" rhyme="b" line_length="6+6">Sire je danserais mieux que les séraphins</l>
+     <l n="3" rhyme="a" line_length="6−6">Ma mère dites-moi pourquoi vous êtes triste</l>
+     <l n="4" rhyme="b" line_length="6+6">En robe de comtesse à côté du Dauphin</l>
+    </lg>
+    <lg n="2">
+     <l n="5" line_length="6+6">Mon cœur battait battait très fort à sa parole</l>
+     <l n="6" line_length="6−6">Quand je dansais dans le fenouil en écoutant</l>
+     <l n="7" line_length="6+6">Et je brodais des lys sur une banderole</l>
+     <l n="8" line_length="6+6">Destinée à flotter au bout de son bâton</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Et pour qui voulez-vous qu'à présent je la brode</l>
+     <l n="10" rhyme="b" line_length="6+6">Son bâton refleurit sur les bords du Jourdain</l>
+     <l n="11" rhyme="a" line_length="6−6">Et tous les lys quand vos soldats ô roi Hérode</l>
+     <l n="12" rhyme="b" line_length="6+6">L'emmenèrent se sont flétris dans mon jardin</l>
+    </lg>
+    <lg n="4">
+     <l n="13" line_length="6+6">Venez tous avec moi là-bas sous les quinconces</l>
+     <l n="14" line_length="4+6">Prends cette tête au lieu de ta marotte et danse</l>
+     <l n="15" line_length="6+6">N'y touchez pas son front ma mère est déjà froid</l>
+    </lg>
+    <lg n="5">
+     <l n="16" rhyme="a" line_length="6+6">Sire marchez devant trabants marchez derrière</l>
+     <l n="17" rhyme="b" line_length="6+6">Nous creuserons un trou et l'y enterrerons</l>
+     <l n="18" rhyme="b" line_length="6+6">Nous planterons des fleurs et danserons en rond</l>
+     <l n="19" rhyme="a" line_length="6+6">Jusqu'à l'heure où j'aurai perdu ma jarretière</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

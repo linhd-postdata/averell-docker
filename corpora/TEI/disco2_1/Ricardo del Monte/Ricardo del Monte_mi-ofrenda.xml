@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mi ofrenda</title>
+    <author>Ricardo del Monte</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ricardo del Monte_mi-ofrenda</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mi ofrenda</title>
+     <author>Ricardo del Monte</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mi ofrenda</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++---+---+-">Un arpa altisonante con maestra</l>
+     <l n="2" met="+-+--+---+-">mano y estro pindárico tañida,</l>
+     <l n="3" met="-+---++--+-">ansiaba consagrarte, embellecida</l>
+     <l n="4" met="-+-+-+---+-">con un laurel ganado en la palestra,</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">y el vano esfuerzo mi impotencia muestra;</l>
+     <l n="6" met="---+---+-+-">pero tu fiesta secular convida,</l>
+     <l n="7" met="-+-+-+---+-">y al ara traen tus fieles la debida</l>
+     <l n="8" met="-+-+-+---+-">ofrenda, humilde o pródiga, en la diestra.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--++---+++-">La que te da mi corazón es pobre,</l>
+     <l n="10" met="---+-+---+-">aunque tu gloria amé desde mi infancia:</l>
+     <l n="11" met="+--+---+-+-">grano de mirra, para ti se enciende</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+---+-+-">en incensario de inesculto cobre;</l>
+     <l n="13" met="-+-+-+---+-">el humo blanco esparce su fragancia,</l>
+     <l n="14" met="+--+---+-+-">roza tus lauros y ondulando asciende.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

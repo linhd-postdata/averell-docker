@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PARFRÁZE</title>
+    <author>Dyk, Viktor</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dyk, Viktor_parfraze</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PARFRÁZE</title>
+     <author>Dyk, Viktor</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PARFRÁZE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101001010" rhyme="1" line_length="10">Vy máte statky, vy máte domky,</l>
+     <l n="2" met="010101010" rhyme="1" line_length="9">své máte každý světa zlomky,</l>
+     <l n="3" met="00" line_length="2">já nic.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="0101001010" rhyme="2" line_length="10">Vy máte hory, vy máte doly,</l>
+     <l n="5" met="0101001010" rhyme="2" line_length="10">vy máte kostel, vy máte školy,</l>
+     <l n="6" met="00" line_length="2">já nic.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="0101010010" rhyme="3" line_length="10">Vy máte práci, komínů kouře,</l>
+     <l n="8" met="0101001010" rhyme="3" line_length="10">vy máte volby, vy máte bouře,</l>
+     <l n="9" met="00" line_length="2">já nic.</l>
+    </lg>
+    <lg n="4">
+     <l n="10" met="1001010010" rhyme="4" line_length="10">Pod víry plášti, pod zájmů plášti</l>
+     <l n="11" met="0101001010" rhyme="4" line_length="10">vy máte lásku, vy máte záští,</l>
+     <l n="12" met="00" line_length="2">já nic.</l>
+    </lg>
+    <lg n="5">
+     <l n="13" met="0101001010" rhyme="5" line_length="10">Vy máte ženy, vy máte děcko,</l>
+     <l n="14" met="0101010010" rhyme="5" line_length="10">zem’ máte, nebe: vaše je všecko.</l>
+     <l n="15" met="0101" line_length="4">Já chci vše mít.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

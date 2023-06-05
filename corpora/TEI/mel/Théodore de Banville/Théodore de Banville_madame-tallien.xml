@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Madame Tallien</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_madame-tallien</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Madame Tallien</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Madame Tallien</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Cette Theresia, que le rustre et la gouge</l>
+     <l n="2" rhyme="b" line_length="6+6">Ont jadis adorée, une pique à la main</l>
+     <l n="3" rhyme="b" line_length="6+6">Et triomphant avec son proconsul romain</l>
+     <l n="4" rhyme="a" line_length="6+6">Sur un char, les cheveux couverts du bonnet rouge,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Dédaignant à présent les caresses du bouge,</l>
+     <l n="6" rhyme="b" line_length="6+6">Laisse voir ses pieds nus aux ongles de carmin ;</l>
+     <l n="7" rhyme="b" line_length="6+6">Sa robe, qui frémit sur son corps surhumain,</l>
+     <l n="8" rhyme="a" line_length="6+6">Est comme un tissu d'air tramé, que le vent bouge.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Ses beaux seins, comme avec des éblouissements</l>
+     <l n="10" rhyme="c" line_length="6−6">D'astres, sont pris dans un collier de diamants</l>
+     <l n="11" rhyme="d" line_length="6+6">Qui les brûle d'un clair scintillement d'étoiles ;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Et victorieux, fiers de leurs boutons vermeils</l>
+     <l n="13" rhyme="d" line_length="6+6">Ils luttent de blancheur avec ces légers voiles,</l>
+     <l n="14" rhyme="e" line_length="6+6">Et de splendeur avec ce carcan de soleils.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

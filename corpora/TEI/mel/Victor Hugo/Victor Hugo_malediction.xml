@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Malédiction</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_malediction</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Malédiction</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Malédiction</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Qu'il erre sans repos, courbé dès sa jeunesse,</l>
+     <l n="2" rhyme="a" line_length="6+6">En des sables sans borne où le soleil renaisse</l>
+     <l n="3" rhyme="b" line_length="6">Comme un noir meurtrier qui fuit dans la nuit sombre,</l>
+     <l n="4" rhyme="c" line_length="6+6">S'il marche, que sans cesse il entende dans l'ombre</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">En des glaciers polis comme un tranchant de hache,</l>
+     <l n="6" rhyme="a" line_length="6+6">Qu'il glisse, et roule, et tombe, et tombe et se rattache</l>
+     <l n="7" rhyme="b" line_length="6">Qu'il soit pris pour un autre, et, râlant sur la roue,</l>
+     <l n="8" rhyme="c" line_length="6+6">Dise : je n'ai rien fait ! et qu'alors on le cloue</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Qu'il pende échevelé, la bouche violette !</l>
+     <l n="10" rhyme="a" line_length="6+6">Que, visible à lui seul, la mort, chauve squelette,</l>
+     <l n="11" rhyme="b" line_length="6">Que son cadavre souffre, et vive assez encore</l>
+     <l n="12" rhyme="c" line_length="6+6">Pour sentir, quand la mort le ronge et le dévore,</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="6+6">Qu'il ne soit plus vivant, et ne soit pas une âme !</l>
+     <l n="14" rhyme="a" line_length="6+6">Que sur ses membres nus tombe un soleil de flamme</l>
+     <l n="15" rhyme="b" line_length="6">Qu'il s'éveille en sursaut chaque nuit dans la brume,</l>
+     <l n="16" rhyme="c" line_length="6+6">Et lutte, et se secoue, et vainement écume</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

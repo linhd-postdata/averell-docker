@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les Roses</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_les-roses</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Les Roses</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Les Roses</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Le Printemps rayonnant, qui fait rire le jour</l>
+     <l n="2" rhyme="b" line_length="6+6">En montrant son beau front, vermeil comme l'aurore,</l>
+     <l n="3" rhyme="b" line_length="6+6">Naît, tressaille, fleurit, chante, et dans l'air sonore</l>
+     <l n="4" rhyme="a" line_length="6+6">Éveille les divins murmures de l'amour.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">O Sylphes ingénus, vous voilà de retour !</l>
+     <l n="6" rhyme="b" line_length="6+6">De mille joyaux d'or la forêt se décore,</l>
+     <l n="7" rhyme="b" line_length="6+6">Et blanche, regardant les corolles éclore,</l>
+     <l n="8" rhyme="a" line_length="6+6">Titania folâtre au milieu de sa cour,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">A travers l'éther pur dont elle fait sa proie,</l>
+     <l n="10" rhyme="c" line_length="6+6">Tandis que la lumière, éclatante de joie,</l>
+     <l n="11" rhyme="d" line_length="6+6">Frissonne dans la bleue immensité des cieux.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Beauté qui nous ravis avec tes molles poses,</l>
+     <l n="13" rhyme="d" line_length="6+6">Dis, n'est-ce pas qu'il est doux et délicieux</l>
+     <l n="14" rhyme="e" line_length="6+6">De plonger follement ta bouche dans les roses ?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

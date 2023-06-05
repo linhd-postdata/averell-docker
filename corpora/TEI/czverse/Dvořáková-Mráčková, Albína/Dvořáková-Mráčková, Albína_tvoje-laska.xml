@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Tvoje láska.</title>
+    <author>Dvořáková-Mráčková, Albína</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořáková-Mráčková, Albína_tvoje-laska</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Tvoje láska.</title>
+     <author>Dvořáková-Mráčková, Albína</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Tvoje láska.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010" line_length="7">Mně láska vzešla tvoje,</l>
+     <l n="2" met="010100" rhyme="1" line_length="6">co skvělý meteor,</l>
+     <l n="3" met="1001010" line_length="7">temnem kdy noci bleskně</l>
+     <l n="4" met="100101" rhyme="1" line_length="6">s oblačných letí hor.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001010" line_length="7">Žhoucím jsem zrakem ssála</l>
+     <l n="6" met="100101" rhyme="2" line_length="6">ohnivý jeho let,</l>
+     <l n="7" met="1001010" line_length="7">v čarovných blesků moři</l>
+     <l n="8" met="100101" rhyme="2" line_length="6">vzplanul mi krásný svět.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1001010" line_length="7">Přežhnouc mou dráhu shaslo</l>
+     <l n="10" met="010100" rhyme="3" line_length="6">to žití plamenné –</l>
+     <l n="11" met="1001010" line_length="7">v pustém se octlo temnu</l>
+     <l n="12" met="010100" rhyme="3" line_length="6">mé srdce zmámené. –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

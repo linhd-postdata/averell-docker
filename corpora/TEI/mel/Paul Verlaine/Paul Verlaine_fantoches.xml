@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Fantoches</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_fantoches</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Fantoches</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Fantoches</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Scaramouche et Pulcinella</l>
+     <l n="2" rhyme="a" line_length="8">Qu’un mauvais destin rassembla</l>
+     <l n="3" rhyme="b" line_length="8">Gesticulent, noirs sous la lune.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="c" line_length="8">Cependant l’excellent docteur</l>
+     <l n="5" rhyme="c" line_length="8">Bolonais cueille avec lenteur</l>
+     <l n="6" rhyme="b" line_length="8">Des simples parmi l’herbe brune.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="a" line_length="8">Lors sa fille, piquant minois,</l>
+     <l n="8" rhyme="a" line_length="8">Sous la charmille, en tapinois,</l>
+     <l n="9" rhyme="b" line_length="8">Se glisse, demi-nue, en quête</l>
+    </lg>
+    <lg n="4">
+     <l n="10" rhyme="c" line_length="8">De son beau pirate espagnol,</l>
+     <l n="11" rhyme="c" line_length="8">Dont un langoureux rossignol</l>
+     <l n="12" rhyme="b" line_length="8">Clame la détresse à tue-tête.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

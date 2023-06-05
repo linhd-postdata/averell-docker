@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Obraz mysli mojí.</title>
+    <author>Dvořáková-Mráčková, Albína</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořáková-Mráčková, Albína_obraz-mysli-moji</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Obraz mysli mojí.</title>
+     <author>Dvořáková-Mráčková, Albína</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Obraz mysli mojí.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" line_length="8">Mlhavý závoj mysl mou</l>
+     <l n="2" met="1001000" rhyme="1" line_length="7">nezralou obestírá,</l>
+     <l n="3" met="01010100" line_length="8">jak těsný obal pučící</l>
+     <l n="4" met="1001010" rhyme="1" line_length="7">na jaře poupě svírá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" line_length="8">A jak se poupě rozvinouc</l>
+     <l n="6" met="1001010" rhyme="2" line_length="7">roztrhne roušku taje</l>
+     <l n="7" met="01010100" line_length="8">a jasna slunka paprslek</l>
+     <l n="8" met="1001010" rhyme="2" line_length="7">ve kalich vonný ssaje:</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" line_length="8">tak mysl má se rozbují</l>
+     <l n="10" met="0101010" rhyme="3" line_length="7">a závoj temna zruší,</l>
+     <l n="11" met="01010100" line_length="8">a v pravdy svaté pablesku</l>
+     <l n="12" met="1001010" rhyme="3" line_length="7">celou svou ztopím duši. –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LII</title>
+    <author>Tristan Derème</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tristan Derème_lii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LII</title>
+     <author>Tristan Derème</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LII</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Ah ! jeter les filets crevés, les hameçons,</l>
+     <l n="2" rhyme="a" line_length="6+6">Les livres. Devenir un de ces bons garçons</l>
+     <l n="3" rhyme="b" line_length="6+6">Sans tristesse, railleurs des barbons à catarrhe,</l>
+     <l n="4" rhyme="b" line_length="6−6">Qui le soir lancent des chansons sur leur guitare</l>
+     <l n="5" rhyme="a" line_length="6+6">Et dont l'âme aux exploits amoureux se complaît.</l>
+     <l n="6" rhyme="a" line_length="6+6">Moduleurs de couplets, leur bonheur est complet</l>
+     <l n="7" rhyme="b" line_length="6+6">S'ils voient rimer austère et stère, Estelle et stèle.</l>
+     <l n="8" rhyme="b" line_length="6+6">Mais sentir que la vie est l'épaisse dentelle</l>
+     <l n="9" rhyme="a" line_length="6+6">Sous laquelle palpite un visage inconnu…</l>
+    </lg>
+    <lg n="2">
+     <l n="10" rhyme="a" line_length="6+6">Un liseron s'enroule autour de ton bras nu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CE QUE DIT LE ROSIER</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_ce-que-dit-le-rosier</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CE QUE DIT LE ROSIER</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CE QUE DIT LE ROSIER</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Je parlais au rosier dans un beau soir perdu</l>
+     <l n="2" rhyme="a" line_length="6−6">Et voici ce que le rosier m’a répondu :</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="6+6">Ayant su l’écouter alors je reconnus</l>
+     <l n="4" rhyme="a" line_length="6+6">Que ces mots étaient vrais… Je partis, les pieds nus.</l>
+     <l n="5" rhyme="b" line_length="6−6">Car, en ce monde où la fatigue se prolonge,</l>
+     <l n="6" rhyme="b" line_length="6+6">Chacun sait que rien n’est si parfait que le songe.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

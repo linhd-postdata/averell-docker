@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LES ORIPEAUX</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_les-oripeaux</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LES ORIPEAUX</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LES ORIPEAUX</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Lorsque fermente en moi la tristesse du vin,</l>
+     <l n="2" rhyme="b" line_length="5+5">J’ai drapé follement tes membres d’arlequine.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="6+6">Découvre à l’air des nuits tes seins prostitués.</l>
+     <l n="4" rhyme="b" line_length="5+5">Ô toi la danseuse ivre, ô moi la saltimbanque.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="6+6">Des souffles cauteleux éteignent les quinquets…</l>
+     <l n="6" rhyme="b" line_length="5−5">Ce spectacle effronté de nos âmes publiques !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

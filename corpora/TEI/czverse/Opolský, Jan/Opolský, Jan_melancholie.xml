@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MELANCHOLIE.</title>
+    <author>Opolský, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Opolský, Jan_melancholie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MELANCHOLIE.</title>
+     <author>Opolský, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MELANCHOLIE.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001000101010" rhyme="1" line_length="13">Za půldní sychravých se nelze trpčej smáti,</l>
+     <l n="2" met="110100010000" rhyme="2" line_length="12">klec nebe nemůže líp uzavřena být,</l>
+     <l n="3" met="0101000101010" rhyme="1" line_length="13">jen samot zrcadla můj smutný úsměv vrátí,</l>
+     <l n="4" met="0001010100" rhyme="2" line_length="10">neb míň než úsměv nelze navrátit.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11010011010" rhyme="1" line_length="11">Ó, dlouhé deště v ten čas musí zráti,</l>
+     <l n="6" met="11010101010" rhyme="3" line_length="11">v stu kapek kalných stesků rovněž tolik,</l>
+     <l n="7" met="10010001000" rhyme="1" line_length="11">bez cíle, schýlen jme se ubírati</l>
+     <l n="8" met="10010101000" rhyme="3" line_length="11">přes hory doly krásný melancholik.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

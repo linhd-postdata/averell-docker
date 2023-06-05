@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Martín Juan Barceló</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Martín Juan Barceló_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Martín Juan Barceló</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-++-+-+-+-">Una, dos, tres Estrellas, veinte, ciento,</l>
+     <l n="2" met="+----+--+-">mil, un millón, millares de millares,</l>
+     <l n="3" met="+-+-++---+-">¡Válgame Dios! ¡qué tengan mis pesares</l>
+     <l n="4" met="--+--+---+-">su retrato en el alto firmamento!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++-+-+-+-+-">Tú, Norte, siempre fijo en un asiento,</l>
+     <l n="6" met="--+-++-+-+-">a mi Fe será bien que te compares.</l>
+     <l n="7" met="--+--+---+-">Tu, Bocina, con buenas circulares</l>
+     <l n="8" met="+--+-+---+-">siempre por un nivel, a mi Tormento.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+-+-+-">Las estrellas errante, son mis Dichas,</l>
+     <l n="10" met="-+-+---+-+-">las fijas son, como los males míos,</l>
+     <l n="11" met="--+--+--++-">los Luceros, los Ojos que yo adoro.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">Las Nubes, en efecto mi Desdichas,</l>
+     <l n="13" met="--+--++--+-">pues lloviendo crecer hacen los Ríos,</l>
+     <l n="14" met="---+-+---+-">como mi mal, las lágrimas que lloro.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

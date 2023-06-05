@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JEDNOU...</title>
+    <author>Mahen, Jiří</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mahen, Jiří_jednou</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JEDNOU...</title>
+     <author>Mahen, Jiří</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JEDNOU...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" line_length="8">Jednou..! jako do klekání</l>
+     <l n="2" met="10001000" rhyme="1" line_length="8">nade mnou to zašumělo.</l>
+     <l n="3" met="10101010" line_length="8">Jednou šla prý mimo láska,</l>
+     <l n="4" met="10101010" rhyme="1" line_length="8">zbylo z toho smutné čelo.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101000" line_length="8">Jednou..! jako raketou to</l>
+     <l n="6" met="10001010" rhyme="2" line_length="8">zasyčelo z noci kolem...</l>
+     <l n="7" met="10001010" line_length="8">Jednou byl já šťasten také,</l>
+     <l n="8" met="10101010" rhyme="2" line_length="8">rázem hotov se vším bolem.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" line_length="8">Jednou..! Nač to dále přísti?</l>
+     <l n="10" met="10101010" rhyme="3" line_length="8">Slovo krásné jako přítel,</l>
+     <l n="11" met="10101010" line_length="8">slovo jako lupič zrádné,</l>
+     <l n="12" met="10101000" rhyme="3" line_length="8">slavné jako Vykupitel!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10100010" rhyme="4" line_length="8">Jednou možno líp že bude,</l>
+     <l n="14" met="10100010" rhyme="5" line_length="8">jako jednou hůř už bylo,</l>
+     <l n="15" met="10001010" rhyme="4" line_length="8">jednou snad to žití chudé</l>
+     <l n="16" met="10101010" rhyme="5" line_length="8">zrodí něco jako dílo...</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10101010" line_length="8">Jednou přijde chvíle svatá,</l>
+     <l n="18" met="10001010" rhyme="6" line_length="8">k nebi nás až vlny zvednou!</l>
+     <l n="19" met="00001010" line_length="8">Čím se já to těším vlastně,</l>
+     <l n="20" met="10001010" rhyme="6" line_length="8">živ když jsem tu jenom jednou?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

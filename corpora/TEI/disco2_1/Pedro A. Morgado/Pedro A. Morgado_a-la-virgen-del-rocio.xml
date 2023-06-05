@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A la virgen del rocío</title>
+    <author>Pedro A. Morgado</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pedro A. Morgado_a-la-virgen-del-rocio</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A la virgen del rocío</title>
+     <author>Pedro A. Morgado</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A la virgen del rocío</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+----+---+-">Virgen de la marisma solitaria,</l>
+     <l n="2" met="--+--+---+-">a tus plantas se tiende la llanura</l>
+     <l n="3" met="--+--+---+-">y por ella, magnífica, murmura</l>
+     <l n="4" met="-+---+---+-">la fronda de los pinos su plegaria.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-----+-">Reina triunfante: la Naturaleza</l>
+     <l n="6" met="++---+-+-+-">te rinde adoración con su amplio rito;</l>
+     <l n="7" met="-+---+---+-">y el sol -en su rodar- con infinito</l>
+     <l n="8" met="+--+++---+-">trazo de luz te nimba la cabeza.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+---+-">Virgen, Reina y Pastora: la guirnalda</l>
+     <l n="10" met="-+---+---+-">perenne de los campos de esmeralda</l>
+     <l n="11" met="+--+-+---+-">forma, a tus pies, inmensa canastilla...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+---+-">Y te levas magnífica y serena</l>
+     <l n="13" met="---+-+---+-">como deidad espléndida y morena</l>
+     <l n="14" met="--+--+---+-">arrancada del alma de Sevilla.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

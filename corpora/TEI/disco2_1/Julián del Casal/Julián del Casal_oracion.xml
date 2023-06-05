@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Oración</title>
+    <author>Julián del Casal</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Julián del Casal_oracion</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Oración</title>
+     <author>Julián del Casal</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Oración</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+--+--+-">¡Ah, los muertos deseos! Nada ansío</l>
+     <l n="2" met="---+-+---+-">de lo que el mundo ofrece ante mi vista:</l>
+     <l n="3" met="-+---+-+-+-">aquello que mi alma no contrista</l>
+     <l n="4" met="++-+-+-+-+-">tan sólo me produce amargo hastío.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+-+-+-">Como encalla entre rocas un navío</l>
+     <l n="6" met="--+--+---+-">que se lanza del oro a la conquista,</l>
+     <l n="7" met="-+-+--+--+-">así ha encallado el ideal de artista</l>
+     <l n="8" met="---+---+-+-">entre las nieblas del cerebro mío...</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+-+-+-">¡Oh, Señor! si la sombra no deshaces</l>
+     <l n="10" met="-+-+---+-+-">y en mi alma arrojas luminosas haces,</l>
+     <l n="11" met="-++--+---+-">como un sol en oscuro firmamento,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+---+-">haz que sienta en mi espíritu moroso</l>
+     <l n="13" met="-+---+---+-">primero la tormenta que el reposo,</l>
+     <l n="14" met="-+---+--+-">primero que el hastío... ¡el sufrimiento!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

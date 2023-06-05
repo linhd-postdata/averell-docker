@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NOCTURNO.</title>
+    <author>Brabec, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Brabec, Adolf_nocturno</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NOCTURNO.</title>
+     <author>Brabec, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NOCTURNO.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" rhyme="1" line_length="9">Je půlnoc, svítím... všude zima,</l>
+     <l n="2" met="10010101" line_length="8">při každém vzdechu vidím dech,</l>
+     <l n="3" met="100001010" rhyme="1" line_length="9">na okně mém si měsíc dřímá</l>
+     <l n="4" met="1000101" line_length="7">v nadhvězdných svých smutných snech.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="000101010" rhyme="2" line_length="9">Jsem sám a klid se v síni šíří,</l>
+     <l n="6" met="01010101" rhyme="3" line_length="8">mé světlo žlutě v dálku plá,</l>
+     <l n="7" met="10101010" rhyme="2" line_length="8">v duši stará bolest hýří</l>
+     <l n="8" met="01010100" rhyme="3" line_length="8">a citů strun se dotekla.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100101010" rhyme="4" line_length="9">Za květem květ mi život zničil,</l>
+     <l n="10" met="10010100" rhyme="5" line_length="8">ze slz mých nový vykvet’ zas,</l>
+     <l n="11" met="010101010" rhyme="4" line_length="9">by vzdorně hlavu vzhůru vztýčil</l>
+     <l n="12" met="01010100" rhyme="5" line_length="8">jen novým bouřím na pospas...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

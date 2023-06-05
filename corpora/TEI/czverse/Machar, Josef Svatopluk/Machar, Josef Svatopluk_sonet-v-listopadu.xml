@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sonet v listopadu.</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_sonet-v-listopadu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sonet v listopadu.</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sonet v listopadu.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101" rhyme="1" line_length="7">Šeré ráno, šerý den,</l>
+     <l n="2" met="1010100" rhyme="2" line_length="7">nebe jako z oceli –</l>
+     <l n="3" met="1010100" rhyme="1" line_length="7">šedé světlo do oken</l>
+     <l n="4" met="1010100" rhyme="2" line_length="7">zří jak žebrák nesmělý.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010100" rhyme="2" line_length="7">Kotouč slunce zvetšelý</l>
+     <l n="6" met="1000100" rhyme="1" line_length="7">stranou mdle se leskne jen</l>
+     <l n="7" met="1010100" rhyme="1" line_length="7">jako plech, jenž pohozen</l>
+     <l n="8" met="1010100" rhyme="2" line_length="7">leží v schladlém popeli.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010001" rhyme="3" line_length="7">Člověk s resignací zří,</l>
+     <l n="10" met="0010101" rhyme="4" line_length="7">jak se staví v šedý řad</l>
+     <l n="11" met="0010100" rhyme="3" line_length="7">to „dnes“, „zítra“, „pozítří“ –</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="1010101" rhyme="5" line_length="7">nemá stesků, nemá tuch –</l>
+     <l n="13" met="1010011" rhyme="5" line_length="7">leda moci jak pár much</l>
+     <l n="14" met="1010101" rhyme="4" line_length="7">po ty dny kdes v koutku spat...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

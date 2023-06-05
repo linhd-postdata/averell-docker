@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VE SV. JANĚ POD SKÁLOU.</title>
+    <author>Dostal, Adolf Bohuslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostal, Adolf Bohuslav_ve-sv-jane-pod-skalou</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VE SV. JANĚ POD SKÁLOU.</title>
+     <author>Dostal, Adolf Bohuslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VE SV. JANĚ POD SKÁLOU.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Mezi lesy ticho spalo</l>
+     <l n="2" met="1000100" rhyme="2" line_length="7">nezbuzeno krokem tvým,</l>
+     <l n="3" met="10101000" rhyme="1" line_length="8">stopu tvoji posypalo</l>
+     <l n="4" met="1010100" rhyme="2" line_length="7">slunce prachem zlatistým.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="3" line_length="8">Šla jsi pružná podle skály,</l>
+     <l n="6" met="10101000" rhyme="3" line_length="8">a jen v trávě počítaly</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="10101010" rhyme="4" line_length="8">tep tvé krve nízké vřesy.</l>
+     <l n="8" met="10101010" rhyme="4" line_length="8">Ticho spalo mezi lesy.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

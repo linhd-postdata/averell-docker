@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nic nechci víc.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_nic-nechci-vic</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nic nechci víc.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nic nechci víc.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000101" rhyme="1" line_length="8">Nic nechci víc, než v duši klid</l>
+     <l n="2" met="0100110" rhyme="2" line_length="7">a žádného víc štěstí,</l>
+     <l n="3" met="00010101" rhyme="1" line_length="8">než co ho ptáče může mít</l>
+     <l n="4" met="1001000" rhyme="2" line_length="7">na květné ratolesti.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" rhyme="3" line_length="8">Když slunce hřeje s vysoka</l>
+     <l n="6" met="0101010" rhyme="4" line_length="7">a zem je pestrá květem</l>
+     <l n="7" met="01010100" rhyme="3" line_length="8">a vítr duje z hluboka</l>
+     <l n="8" met="0111010" rhyme="4" line_length="7">a mír jde celým světem.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000101" rhyme="5" line_length="8">A pochybností neznat hles,</l>
+     <l n="10" met="0101010" rhyme="6" line_length="7">jež v duši nesvár nítí,</l>
+     <l n="11" met="01010100" rhyme="5" line_length="8">– jen cítit, že je krásno dnes,</l>
+     <l n="12" met="0100010" rhyme="6" line_length="7">a dýchat jen a žíti!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

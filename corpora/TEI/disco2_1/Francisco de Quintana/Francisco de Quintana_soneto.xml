@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Francisco de Quintana</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco de Quintana_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Francisco de Quintana</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+---+-+-">Lejos de sí, de sentimiento ausente,</l>
+     <l n="2" met="+--+-+-+-+-">cerca de Dios, al mismo Dios unido,</l>
+     <l n="3" met="-+---+---+-">ausente, porque ajeno de sentido,</l>
+     <l n="4" met="-+---+-+-+-">y unido, por tener a Dios presente.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">Absorto en glorias, que insensible siente,</l>
+     <l n="6" met="+--+---+-+-">falto al discurso, si de amor vencido,</l>
+     <l n="7" met="-+-+-++--+-">dudando el propio bien que ha recibido,</l>
+     <l n="8" met="-+-+---+-+-">confuso IGNACIO a lo que ignora asiente.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+-+-+-">Contempla, advierte, estima, atiende, adora</l>
+     <l n="10" met="+--+-+-+-+-">suma deidad, poder, bondad, alteza,</l>
+     <l n="11" met="+--+-+---+-">poco percibe, y mucho se suspende.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+---+-">Vese ignorante, y sabio se mejora,</l>
+     <l n="13" met="---+-+---+-">porque en el ser de Dios, en su grandeza</l>
+     <l n="14" met="+--+-+++-+-">sólo el que ignora más, más le comprende.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

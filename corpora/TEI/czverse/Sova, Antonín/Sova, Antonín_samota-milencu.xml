@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Samota milenců.</title>
+    <author>Sova, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sova, Antonín_samota-milencu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Samota milenců.</title>
+     <author>Sova, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Samota milenců.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101001010" line_length="12">Byl tichý háj a unaven zpíval dlouze</l>
+     <l n="2" met="010010010010" rhyme="1" line_length="12">a zdřímnul a zalknul se v staletém echu.</l>
+     <l n="3" met="100100100100100" line_length="15">Pod sluncem poledním voněly krvavé jahody</l>
+     <l n="4" met="01001001010" rhyme="1" line_length="11">a parnem se rozdýchnul samet mechů.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010010100100" line_length="12">To dřímalo těžce mlčící boroví!</l>
+     <l n="6" met="01011010010" rhyme="2" line_length="11">Jen tvoje rty vlhly vůní svou planou.</l>
+     <l n="7" met="010010001010010" rhyme="3" line_length="15">A zelená ještěrka! Jak blýskla šustivou trávou!</l>
+     <l n="8" met="01001010010010" rhyme="2" line_length="14">A zahnědlé skvrny slunce jak větvemi kanou!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="101001010100100" line_length="15">Slyšíš vzkříšené zvony? Prudkým zaváním z Neznáma</l>
+     <l n="10" met="010010010010010" rhyme="3" line_length="15">tvé srdce se rozdulo opojnou, vítěznou slávou,</l>
+     <l n="11" met="10001010100100" line_length="14">na nejvyšších věžích Snů, kam možno jen dostoupit</l>
+     <l n="12" met="10010010010010" rhyme="3" line_length="14">před nutným pádem a bolestí krutou a žhavou...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

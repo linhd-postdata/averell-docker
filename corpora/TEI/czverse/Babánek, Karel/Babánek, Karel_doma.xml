@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>DOMA.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_doma</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>DOMA.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>DOMA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010010" line_length="11">Vlní se obilí, žlutavé klasy,</l>
+     <l n="2" met="10010010" rhyme="1" line_length="8">písničku cvrček si hude;</l>
+     <l n="3" met="10010110110" line_length="11">rozžhaven chví se vzduch, hudbou zní léta,</l>
+     <l n="4" met="10010011010" rhyme="1" line_length="11">o vášni zpívají, žhnou máky rudé.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010110010" line_length="11">V rozkvetlých lípách včel zvučivá hudba</l>
+     <l n="6" met="10010010" rhyme="2" line_length="8">chvěje se pod modrým nebem –</l>
+     <l n="7" met="10010011010" line_length="11">žlutavé klasy, až čas přijde zrání</l>
+     <l n="8" met="10010010" rhyme="2" line_length="8">na polích zavoní chlebem.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010110010" line_length="11">Nadějí novou krev proudí zas tělem,</l>
+     <l n="10" met="10010010" rhyme="3" line_length="8">života píseň si zpívá,</l>
+     <l n="11" met="10010010010" line_length="11">písničku vášnivou o lásce, štěstí –</l>
+     <l n="12" met="10010010010" rhyme="3" line_length="11">do oken s úsměvem radost se dívá.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10010010010" line_length="11">Oživí, rozkvete domova dechem,</l>
+     <l n="14" met="10010010" rhyme="4" line_length="8">srdcem co vášnivě chvělo,</l>
+     <l n="15" met="01010010010" line_length="11">vše, co jak zlomeno větrem a bouří</l>
+     <l n="16" met="10010010" rhyme="4" line_length="8">stonavé bylo a mřelo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

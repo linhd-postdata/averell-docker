@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Věřil jsem, jak se věřívá,</title>
+    <author>Mayer, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mayer, Rudolf_veril-jsem-jak-se-veriva</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Věřil jsem, jak se věřívá,</title>
+     <author>Mayer, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Věřil jsem, jak se věřívá,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" line_length="8">Věřil jsem, jak se věřívá, </l>
+     <l n="2" met="1001000" rhyme="1" line_length="7">Na věčné milování</l>
+     <l n="3" met="01000100" line_length="8">A na nebe a na Boha</l>
+     <l n="4" met="0101000" rhyme="1" line_length="7">A boží slitování.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">Ta láska z světa uprchla,</l>
+     <l n="6" met="0110010" rhyme="2" line_length="7">A Bůh s anděly dřímá –</l>
+     <l n="7" met="01000100" line_length="8">A brzo-li se nezbudí,</l>
+     <l n="8" met="0101010" rhyme="2" line_length="7">Já budu dřímat s nima.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

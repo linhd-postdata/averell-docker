@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sonetos -- III</title>
+    <author>Gaspar Núñez de Arce</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Gaspar Núñez de Arce_sonetos-iii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sonetos -- III</title>
+     <author>Gaspar Núñez de Arce</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sonetos -- III</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+---+-">Huyeron ya mis años de pelea,</l>
+     <l n="2" met="---+-+---+-">y de la ardiente lucha retraído,</l>
+     <l n="3" met="+--+---+-+-">sólo a mis vagos pensamientos pido</l>
+     <l n="4" met="-+---+---+-">la calma que mi espíritu desea.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+----+---+-">Soy como el veterano que, en la aldea</l>
+     <l n="6" met="---+-+---+-">donde ignorado vive y escondido,</l>
+     <l n="7" met="--+--+-+-+-">en contar los azares que ha corrido</l>
+     <l n="8" met="--+--+---+-">sus veladas inútiles emplea.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+--+---+-">¿Quién os pretende borrar de la memoria,</l>
+     <l n="10" met="+----++--+-">sueños de la ambición, locos deslices</l>
+     <l n="11" met="--+--++--+-">de la edad juvenil, y ansias de gloria,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-----+---+-">si, como las honrosas cicatrices,</l>
+     <l n="13" met="--+--+---+-">para siempre fijáis en nuestra historia</l>
+     <l n="14" met="--+--+-+-+-">el recuerdo de tiempos más felices?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

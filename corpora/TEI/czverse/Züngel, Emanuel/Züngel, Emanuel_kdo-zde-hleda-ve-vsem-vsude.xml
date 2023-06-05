@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kdo zde hledá ve všem všude</title>
+    <author>Züngel, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Züngel, Emanuel_kdo-zde-hleda-ve-vsem-vsude</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kdo zde hledá ve všem všude</title>
+     <author>Züngel, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kdo zde hledá ve všem všude</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101010" line_length="8">Kdo zde hledá ve všem všude </l>
+     <l n="2" met="101010" rhyme="1" line_length="6">stále jenom sebe,</l>
+     <l n="3" met="10101010" line_length="8">toho mine pravdy záře,</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">míru slastné nebe.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Letanías de noviembre -- I</title>
+    <author>Federico Bermúdez y Ortega</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Federico Bermúdez y Ortega_letanias-de-noviembre-i</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Letanías de noviembre -- I</title>
+     <author>Federico Bermúdez y Ortega</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Letanías de noviembre -- I</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="-+-+-+---+--+-">¡Están tocando a muerte las campanas lejanas...!</l>
+     <l n="2" met="+--+-+---+--+-">Hablan los viejos bronces de quietud y partida</l>
+     <l n="3" met="-+-+-+---+---+">con esa lengua lúgubre que tienen las campanas</l>
+     <l n="4" met="--+--+--+---+-">cuando cantan el canto de cisne de la vida...</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+---+--+-">¡Están tocando a muerte las lejanas campanas...!</l>
+     <l n="6" met="--+--+-+-+--+-">Y a los vagos confines van en alas del viento</l>
+     <l n="7" met="--+--+---+--+-">las esquelas mortuorias, como el hondo lamento</l>
+     <l n="8" met="--+--+---+--+-">de dolores ignotos y quimeras lejanas...</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+----+--+">En la antigua Necrópolis, de cipreses y cruces</l>
+     <l n="10" met="+-+--+---+--+-">cuelga el vésper el velo de sus pálidas luces</l>
+     <l n="11" met="--+--+---+--+-">y la humana dolencia sus adelfas y lirios;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+--+-">mientras dicen los labios las palabras piadosas</l>
+     <l n="13" met="-+---+--+---+-">que vuelan como vagan dolientes mariposas</l>
+     <l n="14" met="--+--+---+--+-">al redor de la fama de los místicos cirios...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

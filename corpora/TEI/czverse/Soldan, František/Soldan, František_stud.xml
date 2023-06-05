@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>STUD.</title>
+    <author>Soldan, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Soldan, František_stud</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>STUD.</title>
+     <author>Soldan, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>STUD.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000101" rhyme="1" line_length="8">Jak stydím se, že mám tě rád!</l>
+     <l n="2" met="010001010" rhyme="2" line_length="9">Už nechtěl bych tě ani vidět.</l>
+     <l n="3" met="01010100" rhyme="1" line_length="8">Je třeba přestat milovat</l>
+     <l n="4" met="010101000" rhyme="2" line_length="9">a zvyknout sobě nenávidět.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" rhyme="3" line_length="8">A tvoji tvář si představit</l>
+     <l n="6" met="010101010" rhyme="4" line_length="9">už ani nechci tuto chvíli –</l>
+     <l n="7" met="11000001" rhyme="3" line_length="8">Vztek zoufalý by snad mne chyt,</l>
+     <l n="8" met="000100010" rhyme="4" line_length="9">že byl mi profil tvůj tak milý.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" rhyme="5" line_length="8">A nechci s tebou mluvit víc</l>
+     <l n="10" met="010100010" rhyme="6" line_length="9">a slyšet chválit tě. – Buď hezká!</l>
+     <l n="11" met="01000100" rhyme="5" line_length="8">Já nevím nic a nechci nic,</l>
+     <l n="12" met="110101010" rhyme="6" line_length="9">svět zhynul pro mě s tebou dneska.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

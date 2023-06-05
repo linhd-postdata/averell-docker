@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Má hrobka.</title>
+    <author>Stach, Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Stach, Václav_ma-hrobka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Má hrobka.</title>
+     <author>Stach, Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Má hrobka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Od své vlasti dlouho vzdálen,</l>
+     <l n="2" met="10101010" rhyme="1" line_length="8">Pro svou věrnost hrubě skálen,</l>
+     <l n="3" met="10101000" rhyme="2" line_length="8">Novým duchem neomámen.</l>
+     <l n="4" met="01010010" rhyme="2" line_length="8">Zde má svůj památný kámen.</l>
+     <l n="5" met="10101000" rhyme="3" line_length="8">Hanou k zpěvu donucený.</l>
+     <l n="6" met="00101000" rhyme="3" line_length="8">Syc jen Bohu posvěcený.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="00101000" rhyme="4" line_length="8">To mi na hrob položíte.</l>
+     <l n="8" met="10101000" rhyme="4" line_length="8">A se v zpěvích polepšíte,</l>
+     <l n="9" met="11001000" rhyme="5" line_length="8">Hrob pelinkem posvětivše,</l>
+     <l n="10" met="10100100" rhyme="5" line_length="8">O něj na něm se dělivše.*)</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

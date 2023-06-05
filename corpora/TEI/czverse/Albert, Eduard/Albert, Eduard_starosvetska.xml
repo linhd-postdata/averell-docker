@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>STAROSVĚTSKÁ</title>
+    <author>Albert, Eduard</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Albert, Eduard_starosvetska</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>STAROSVĚTSKÁ</title>
+     <author>Albert, Eduard</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>STAROSVĚTSKÁ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101010" line_length="10">„Pojedu ti ráno zasit žito,“</l>
+     <l n="2" met="10011010" rhyme="1" line_length="8">povídá děd večer vnuku.</l>
+     <l n="3" met="1010101000" line_length="10">„Nech ho!“ praví bába, „dělal by mi</l>
+     <l n="4" met="10011010" rhyme="1" line_length="8">celičký den plno hluku.“</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1000100010" line_length="10">„Selo se to!“ usmívá se děda,</l>
+     <l n="6" met="10101010" rhyme="2" line_length="8">„jenom v zimě hodně sněhu!“</l>
+     <l n="7" met="1010100010" line_length="10">A když první vánice sem přišly,</l>
+     <l n="8" met="00101000" rhyme="2" line_length="8">byl už věčném na noclehu.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010101000" line_length="10">Dlouho ležel sníh a na hřbitově</l>
+     <l n="10" met="10101010" rhyme="3" line_length="8">ani hrobů vidět není.</l>
+     <l n="11" met="0010011010" line_length="10">Když zas vylezly, jde bába honem</l>
+     <l n="12" met="10001000" rhyme="3" line_length="8">podívat se na osení.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1011101010" rhyme="3" line_length="10">„Naděl Pán Bůh! Škoda, že tu není.</l>
+     <l n="14" met="0010101010" rhyme="4" line_length="10">Co tu ještě horších mizer zbylo!</l>
+     <l n="15" met="1000101000" line_length="10">Musíme mu dáti na otčenáš,</l>
+     <l n="16" met="00001000" rhyme="4" line_length="8">že se mu tak urodilo!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

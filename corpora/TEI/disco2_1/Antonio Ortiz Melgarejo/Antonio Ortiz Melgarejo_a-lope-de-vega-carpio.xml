@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Lope de Vega Carpio</title>
+    <author>Antonio Ortiz Melgarejo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Antonio Ortiz Melgarejo_a-lope-de-vega-carpio</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Lope de Vega Carpio</title>
+     <author>Antonio Ortiz Melgarejo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Lope de Vega Carpio</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-++--+-+-+-">¿En qué fresco jardín de olor divino,</l>
+     <l n="2" met="-+-+---+-+-">famoso Lope, en que dichoso suelo</l>
+     <l n="3" met="---+---+-+-">a su fortuna hallará consuelo,</l>
+     <l n="4" met="-+---+---+-">si sale de tu vega el PEREGRINO?</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--++-+---+-">Que aunque le ofrezca el próspero destino</l>
+     <l n="6" met="--+---+-+-+-">el alcázar de Psique en presto vuelo,</l>
+     <l n="7" met="---+---+-+-">para quien viene del empíreo cielo,</l>
+     <l n="8" met="++-+---+-+-">¿qué son palacios de diamante fino?</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+-+-+-">Trabajos pasará, porque es discreto;</l>
+     <l n="10" met="+-+--++--+-">más tendrá, si su lira es conocida,</l>
+     <l n="11" met="-+---+---+-">lugar entre los dignos de memoria.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-----+---+-">Y, a pesar de la envidia y del secreto</l>
+     <l n="13" met="-+---++--+-">olvido, durará siempre extendida</l>
+     <l n="14" met="-+-+---+-+-">su fama, y canto y peregrina historia.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

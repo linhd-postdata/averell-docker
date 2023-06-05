@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L’ÉTERNEL SOT</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_leternel-sot</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L’ÉTERNEL SOT</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L’ÉTERNEL SOT</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+6">L’ÉTERNEL sot qui fut jadis Fréron</l>
+     <l n="2" rhyme="b" line_length="4+6">Et maintenant se nomme Brunetière</l>
+     <l n="3" rhyme="b" line_length="4+6">Mériterait une ode tout entière</l>
+     <l n="4" rhyme="a" line_length="6+4">Pour l’exécration du fanfaron !</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="4+6">Du fanfaron de bêtise au ronron</l>
+     <l n="6" rhyme="b" line_length="4+6">Affreux du chat pire que de gouttière,</l>
+     <l n="7" rhyme="b" line_length="4+6">Mais non, un dur sonnet en étrivière</l>
+     <l n="8" rhyme="a" line_length="6+4">Suffit pour châtier tel lourd baron</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+4">Du snobisme actuel comme de l’autre</l>
+     <l n="10" rhyme="c" line_length="4+6">Et le voici pour l’autre et pour le nôtre</l>
+     <l n="11" rhyme="d" line_length="6+4">Le voici pour le nôtre, hélas ! surtout,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="4−6">Car il n’est pire pédant pour déplaire</l>
+     <l n="13" rhyme="d" line_length="4+6">Que celui qui, méprisable à tout bout</l>
+     <l n="14" rhyme="e" line_length="6+4">De champ, nous insultait en Baudelaire.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

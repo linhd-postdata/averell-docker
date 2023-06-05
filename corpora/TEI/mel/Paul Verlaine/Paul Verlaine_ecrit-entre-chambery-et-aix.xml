@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ÉCRIT ENTRE CHAMBÉRY ET AIX</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_ecrit-entre-chambery-et-aix</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ÉCRIT ENTRE CHAMBÉRY ET AIX</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ÉCRIT ENTRE CHAMBÉRY ET AIX</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6">Deux minutes plus tard</l>
+     <l n="2" rhyme="b" line_length="6">Je restais à Saint-Pierre,</l>
+     <l n="3" rhyme="a" line_length="6">Amis, chez Blanc-bolbard</l>
+     <l n="4" rhyme="b" line_length="6">En vidant la soupière ;</l>
+     <l n="5" rhyme="a" line_length="6">Pour votre gai pochard</l>
+     <l n="6" rhyme="a" line_length="6">Dites une prière !</l>
+    </lg>
+    <lg n="2">
+     <l n="7" rhyme="b" line_length="6">Ave ! le voilà loin,</l>
+     <l n="8" rhyme="a" line_length="6">Ô Monsieur le Vicaire</l>
+     <l n="9" rhyme="b" line_length="6">Pour le soulô du coin</l>
+     <l n="10" rhyme="a" line_length="6">Lisez votre bréviaire ! !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

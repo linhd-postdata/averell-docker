@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El burgo</title>
+    <author>Julio Herrera y Reissig</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Julio Herrera y Reissig_el-burgo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El burgo</title>
+     <author>Julio Herrera y Reissig</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El burgo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+-+-+--+-">Junto al cielo, en la cumbre de una tierra lampiña,</l>
+     <l n="2" met="-----+---+--+-">tal como descansando de la marcha, se sienta</l>
+     <l n="3" met="-+---+---+--+-">el burgo, con su iglesia, su molino y su venta,</l>
+     <l n="4" met="-++--+--+---+-">en medio a un estridente mosaico de campiña.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+---++--+">Regálase de oxígeno, de nuez sana y de piña...</l>
+     <l n="6" met="+--+-+--+---+-">rige chillonamente gitana vestimenta:</l>
+     <l n="7" met="+--+-+-+-+--+-">chales de siembra, rosas y una carga opulenta</l>
+     <l n="8" met="+----+----+--+">de ágatas, lapislázulis y collares de viña.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-+--++--+-">Naturaleza pródiga lo embriaga de altruismo:</l>
+     <l n="10" met="-++--+---+---+">el campo es su filósofo, su ley el catecismo.</l>
+     <l n="11" met="+-+--+---+-+-">Fieramente embutido en sus costumbres hoscas,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+--+---+-">por vanidad ni gloria mundanas se encapricha;</l>
+     <l n="13" met="++-+-+--+---+-">tan cerca está del cielo que goza de su dicha,</l>
+     <l n="14" met="--+--+---+---+">y se duerme al narcótico zumbido de las moscas.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

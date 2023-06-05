@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les Coquillages</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_les-coquillages</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Les Coquillages</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Les Coquillages</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Chaque coquillage incrusté</l>
+     <l n="2" rhyme="b" line_length="8">Dans la grotte où nous nous aimâmes</l>
+     <l n="3" rhyme="a" line_length="8">A sa particularité.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="b" line_length="8">L’un a la pourpre de nos âmes</l>
+     <l n="5" rhyme="c" line_length="8">Dérobée au sang de nos cœurs</l>
+     <l n="6" rhyme="b" line_length="8">Quand je brûle et que tu t’enflammes ;</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="c" line_length="8">Cet autre affecte tes langueurs</l>
+     <l n="8" rhyme="a" line_length="8">Et tes pâleurs alors que, lasse,</l>
+     <l n="9" rhyme="c" line_length="8">Tu m’en veux de mes yeux moqueurs ;</l>
+    </lg>
+    <lg n="4">
+     <l n="10" rhyme="a" line_length="8">Celui-ci contrefait la grâce</l>
+     <l n="11" rhyme="b" line_length="8">De ton oreille, et celui-là</l>
+     <l n="12" rhyme="a" line_length="8">Ta nuque rose, courte et grasse ;</l>
+    </lg>
+    <lg n="5">
+     <l n="13" rhyme="b" line_length="8">Mais un, entre autres, me troubla.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

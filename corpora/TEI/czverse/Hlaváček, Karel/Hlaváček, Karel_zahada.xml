@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Záhada.</title>
+    <author>Hlaváček, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hlaváček, Karel_zahada</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Záhada.</title>
+     <author>Hlaváček, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Záhada.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101000101000" rhyme="1" line_length="15">Ač pozdě v noci na náměstí, ušlí, dorazili – –</l>
+     <l n="2" met="110001000101000" rhyme="1" line_length="15">tři poutníci – přec navzájem se mlčky pozdravili.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="010010010101000" rhyme="2" line_length="15">A z náměstí do úzkých ulic spěšně vybíhali,</l>
+     <l n="4" met="100101000101000" rhyme="2" line_length="15">a víc než dneska přijde-li, si ptát se netroufali.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="010101001001000" rhyme="3" line_length="15">A k ránu ani tázavě na sebe nepohlédli,</l>
+     <l n="6" met="010100010001010" rhyme="3" line_length="15">když ještě nepřišel, a nad střechami hvězdy bledly...</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="010001010101010" rhyme="4" line_length="15">A slíbivše jen dáti o tom zprávu v rodných krajích</l>
+     <l n="8" met="010001000100010" rhyme="4" line_length="15">zas rozešli se na Sever a na Západ a na Jih...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

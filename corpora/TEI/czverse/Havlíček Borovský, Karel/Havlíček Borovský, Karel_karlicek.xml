@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KARLÍČEK</title>
+    <author>Havlíček Borovský, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Havlíček Borovský, Karel_karlicek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KARLÍČEK</title>
+     <author>Havlíček Borovský, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KARLÍČEK</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010101000" rhyme="1" line_length="12">Nedaleko Skalska v temném oudolísku</l>
+     <l n="2" met="10101000101010" rhyme="1" line_length="14">sedí Karlík nad knihami, má jich plnou lísku.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="101010011000" rhyme="2" line_length="12">Knížek plnou lísku a půl slabikáře,</l>
+     <l n="4" met="11101000100010" rhyme="2" line_length="14">Pán Bůh rač ho uchovati pochleby a lháře.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="100010100010" rhyme="3" line_length="12">Pochleby a lháře varuje se Kato,</l>
+     <l n="6" met="10001010100010" rhyme="3" line_length="14">nepřijímá kozích bobků za perly a zlato.</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="100010100010" rhyme="4" line_length="12">Za perly i zlato, za zrnaté klasy,</l>
+     <l n="8" met="10101010101000" rhyme="4" line_length="14">hanba psáti v něžnou růži lístky pro mamlasy.</l>
+    </lg>
+    <lg n="5">
+     <l n="9" met="010010100100" rhyme="5" line_length="12">Nač perly, nač zlato, Kato a pochleba,</l>
+     <l n="10" met="01001001101010" rhyme="5" line_length="14">však Karlíček dobře to ví, komu chvály třeba.</l>
+    </lg>
+    <lg n="6">
+     <l n="11" met="100" line_length="3">Repete:</l>
+     <l n="12" met="01101001101010" line_length="14">I pan Štulc též dobře to ví, komu chvály třeba.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XLIX</title>
+    <author>Tristan Derème</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tristan Derème_xlix</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XLIX</title>
+     <author>Tristan Derème</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XLIX</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+4">Dans le calme, la barque se balance</l>
+     <l n="2" rhyme="b" line_length="6">Dors, mon amour, aux vagues de silence</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="6+4">Pour toi, j'ai déserté l'ombre des grèves,</l>
+     <l n="4" rhyme="b" line_length="6">Tes larges yeux ont reflété mes rêves,</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="4+6">J'ai mis ma vie au chaton de ta bague</l>
+     <l n="6" rhyme="b" line_length="6">Dors, mon amour, il n'est pas une vague</l>
+    </lg>
+    <lg n="4">
+     <l n="7" rhyme="a" line_length="4+6">N'écoute pas siffler sur toutes choses</l>
+     <l n="8" rhyme="b" line_length="6">Et que pour toi les heures soient des roses</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

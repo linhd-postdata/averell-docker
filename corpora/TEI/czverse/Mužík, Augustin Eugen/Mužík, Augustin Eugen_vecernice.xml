@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Večernice.</title>
+    <author>Mužík, Augustin Eugen</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mužík, Augustin Eugen_vecernice</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Večernice.</title>
+     <author>Mužík, Augustin Eugen</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Večernice.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110100010101" line_length="12">Ó hvězdo západu, jež slunce smutný hrob</l>
+     <l n="2" met="10010101010" rhyme="1" line_length="11">samotna střežíš svojí září skvělou,</l>
+     <l n="3" met="0100010100" line_length="10">jenž přátelstvím všech družek pohrdáš,</l>
+     <l n="4" met="100101010" rhyme="1" line_length="9">ó jak jsi velkou, slavnou, smělou!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010100" line_length="10">S tvých zlatých hrotů padá paprslek</l>
+     <l n="6" met="10011001010" rhyme="2" line_length="11">na spící zem, jež jak jen den se sseří</l>
+     <l n="7" met="0101010100" line_length="10">si hledá místo k spánku tichému</l>
+     <l n="8" met="01010001010" rhyme="2" line_length="11">a noci krásu jen dle klidu měří.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101011001" line_length="10">Jen básník s tebou bdí a ty mu díš:</l>
+     <l n="10" met="11000101010" rhyme="3" line_length="11">,Sviť jako já vždy čistým, plným žárem,</l>
+     <l n="11" met="1001010100" line_length="10">v před kráčej tmou a zhrdej soustrastí</l>
+     <l n="12" met="10010101010" rhyme="3" line_length="11">a buď vždy svěží v onom světě starém!’</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

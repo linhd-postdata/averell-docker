@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>HLAS</title>
+    <author>Benešová, Božena</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Benešová, Božena_hlas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>HLAS</title>
+     <author>Benešová, Božena</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>HLAS</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010100" rhyme="1" line_length="9">Jenom hlasem na mne nevolej,</l>
+     <l n="2" met="1010101010" line_length="10">který neví, nač mé srdce čeká,</l>
+     <l n="3" met="101010101" rhyme="1" line_length="9">jenom na hlas dobrý pozor měj!</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="1011101010" rhyme="2" line_length="10">Lidský hlas jde jako posel hlásat,</l>
+     <l n="5" met="1010100010" line_length="10">který zpříma vyřizuje duši,</l>
+     <l n="6" met="1010101010" rhyme="2" line_length="10">slova tají, on je smyslem nassát.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="101010100010" line_length="12">Spí-li žalost v tobě, jistotně ji vzbudí,</l>
+     <l n="8" met="1010100010" line_length="10">ale radost zakleje ti naráz</l>
+     <l n="9" met="101010" rhyme="3" line_length="6">drahý hlas, kdy i zazní</l>
+     <l n="10" met="100010" rhyme="3" line_length="6">pochybou neb bázní.</l>
+    </lg>
+    <lg n="4">
+     <l n="11" met="101010101000" rhyme="4" line_length="12">Marně v dlaně skrýváš uši rozbolené,</l>
+     <l n="12" met="101010001" line_length="9">marně slovy opakuješ zvěst,</l>
+     <l n="13" met="1010001010" rhyme="4" line_length="10">vlna poznání se přece vžene</l>
+     <l n="14" met="100010100" line_length="9">do srdce a pláče v krvi tvé.</l>
+    </lg>
+    <lg n="5">
+     <l n="15" met="0010100010" line_length="10">Jsi jak raněn otráveným šípem,</l>
+     <l n="16" met="001010100" rhyme="5" line_length="9">jsi jak zmámen žalnou závratí:</l>
+     <l n="17" met="101010100" line_length="9">Víš, jak cizí člověk člověku...</l>
+     <l n="18" met="100010100" rhyme="5" line_length="9">Trpčího nic nelze poznati!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Když den se nachýlí...</title>
+    <author>Červenka, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červenka, Jan_kdyz-den-se-nachyli</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Když den se nachýlí...</title>
+     <author>Červenka, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Když den se nachýlí...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101000101010" rhyme="1" line_length="13">Když den se nachýlí a ke rtům noci kvapí</l>
+     <l n="2" met="0101010101010" rhyme="1" line_length="13">a v zlaté záři hvězd se tichý večer ztápí,</l>
+     <l n="3" met="010100010101" rhyme="2" line_length="12">tím květem růžovým, jejž líbáš, byl bych rád...</l>
+     <l n="4" met="010001010" rhyme="1" line_length="9">Však štěstí tvé mne více trápí,</l>
+     <l n="5" met="010001" rhyme="2" line_length="6">než kouzlo všech tvých vnad.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="0101000101010" rhyme="3" line_length="13">Neb aspoň, v červáncích když zplane jitro chladné,</l>
+     <l n="7" met="0101000101010" rhyme="3" line_length="13">tvé růže kvetoucí být listem, který vadne,</l>
+     <l n="8" met="010100010101" rhyme="4" line_length="12">jejž zničí ruka tvá, by stonek zůstal čist...</l>
+     <l n="9" met="110101010" rhyme="3" line_length="9">Mám strach, že všecko štěstí padne</l>
+     <l n="10" met="010100" rhyme="4" line_length="6">tvé kráse za kořist!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SUR LE RYTHME SAPHIQUE</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">11</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_sur-le-rythme-saphique</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SUR LE RYTHME SAPHIQUE</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SUR LE RYTHME SAPHIQUE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="5+6">Pour moi, ni l’amour triomphant, ni la gloire,</l>
+     <l n="2" rhyme="b" line_length="5+6">Ni le souffle vain d’hommages superflus.</l>
+     <l n="3" rhyme="a" line_length="5+6">Mais la paix d’un coin dans une maison noire</l>
+     <l n="4" rhyme="b" line_length="5">Où l’on n’aime plus.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="5+6">Je sais qu’ici-bas jamais rien ne fut juste,</l>
+     <l n="6" rhyme="b" line_length="5+6">Je fus patiente en attendant la mort.</l>
+     <l n="7" rhyme="a" line_length="5+6">J’ai tû ma douleur, et quoiqu’il fut injuste</l>
+     <l n="8" rhyme="b" line_length="5">J’ai subi mon sort.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="5+6">Pour moi, ni l’accueil bienveillant des fêtes,</l>
+     <l n="10" rhyme="b" line_length="5+6">Mais l’apaisement d’un très profond soupir,</l>
+     <l n="11" rhyme="a" line_length="5">Le silence noir qui succède aux défaites</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

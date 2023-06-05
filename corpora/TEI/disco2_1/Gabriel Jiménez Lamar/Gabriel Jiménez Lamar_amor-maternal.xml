@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Amor maternal</title>
+    <author>Gabriel Jiménez Lamar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Gabriel Jiménez Lamar_amor-maternal</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Amor maternal</title>
+     <author>Gabriel Jiménez Lamar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Amor maternal</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+---+-">Cuatro fúnebres cirios macilentos,</l>
+     <l n="2" met="--+--+---+-">alumbraban el cuerpo de la muerta,</l>
+     <l n="3" met="--+--++--+-">acentuando en su faz pálida y yerta</l>
+     <l n="4" met="-+---+---+-">las huellas que grabaron los tormentos.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-----+---+-">Sobre la majestad de los momentos,</l>
+     <l n="6" met="-+-+---+-+-">de aquellos cirios a la luz incierta,</l>
+     <l n="7" met="-+---+---+-">se oyeron avanzar hasta la puerta,</l>
+     <l n="8" met="--+--++--+-">de supremo dolor, vivos lamentos.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Con los ojos nublados por el llanto,</l>
+     <l n="10" met="++---+-+-+-">un hombre penetró en la alcoba fría.</l>
+     <l n="11" met="-+--++---+-">Su pecho lanzó un grito sacrosanto,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+-+-+-">y al pronunciar sus labios: ¡Madre mía!</l>
+     <l n="13" met="-+-+-+-+-+-">la gente pudo ver con hondo espanto,</l>
+     <l n="14" met="-+---+--+--">que el rostro de la muerta sonreía...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

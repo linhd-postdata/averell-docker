@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Lo único eterno</title>
+    <author>Guillermo Blest Gana</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Guillermo Blest Gana_lo-unico-eterno</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Lo único eterno</title>
+     <author>Guillermo Blest Gana</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Lo único eterno</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+++-+-">Las verdades de ayer son hoy mentira,</l>
+     <l n="2" met="-+-+-+-+-+-">las e hoy acaso lo serán mañana;</l>
+     <l n="3" met="---+---+-+-">la incorregible vanidad humana</l>
+     <l n="4" met="+--+---+-+-">siempre creyendo razonar, delira.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+---+-">Como Nerón, cantando ante la pira</l>
+     <l n="6" met="---+---+-+-">en que convierte a la ciudad romana,</l>
+     <l n="7" met="+--+-+---+-">ciega destruye o cínica profana</l>
+     <l n="8" met="--++---+-+-">lo que, poco antes, ensalzó la lira.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">Y así, a través de todas las edades,</l>
+     <l n="10" met="+--+--++-+-">siempre abrasada por un fuego interno,</l>
+     <l n="11" met="-+---++--+-">buscó la Humanidad nuevas verdades.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+-+-+-">Y halló que en todo tiempo -joven, tierno-,</l>
+     <l n="13" met="--+--+---+-">en aldeas, en campos y ciudades,</l>
+     <l n="14" met="+--++--+-+-">sólo el amor es en la tierra eterno.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

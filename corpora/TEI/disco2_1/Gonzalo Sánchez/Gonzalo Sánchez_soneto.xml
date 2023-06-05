@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Gonzalo Sánchez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Gonzalo Sánchez_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Gonzalo Sánchez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+---+-+-">Diosa Phebea, que tu rayo puro</l>
+     <l n="2" met="+--+---+-+-">rompe la fuerza del nocturno velo</l>
+     <l n="3" met="---+---+-+-">con cuya luz a los del bajo suelo</l>
+     <l n="4" met="-+-+---+-+-">indicio das del resplandor futuro,</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+---+-+-">si la memoria del Amor perjuro</l>
+     <l n="6" met="++-+---+-+-">no ha muerto el tiempo con su presto vuelo,</l>
+     <l n="7" met="-+-+---+-+-">también probaste el miserable duelo</l>
+     <l n="8" met="-+++---+-+-">que a mí me causa con su golpe duro.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+---+-+-">Y, si por ver a Endimión dormido,</l>
+     <l n="10" met="--+--+---+-">cuando Apolo del mar se descubría</l>
+     <l n="11" met="-+---+---+-">culpabas su venida presurosa,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++--+----+-">cubre ahora tu rostro esclarecido,</l>
+     <l n="13" met="-----+-+-+-">que para desterrar la niebla fría</l>
+     <l n="14" met="-+-+---+-+-">los ojos bastan de mi ninfa hermosa.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

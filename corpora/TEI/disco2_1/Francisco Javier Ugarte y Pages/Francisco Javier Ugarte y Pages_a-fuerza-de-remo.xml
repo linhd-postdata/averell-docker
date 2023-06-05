@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A fuerza de remo</title>
+    <author>Francisco Javier Ugarte y Pages</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco Javier Ugarte y Pages_a-fuerza-de-remo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A fuerza de remo</title>
+     <author>Francisco Javier Ugarte y Pages</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A fuerza de remo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+-+-++-+-">Cada día que vivo es un indulto</l>
+     <l n="2" met="-++--+---+-">que me otorga, Señor, vuestra clemencia,</l>
+     <l n="3" met="--+--+---+-">pues, decrépita y muda mi existencia,</l>
+     <l n="4" met="+-++-+---+-">sólo soy un cadáver insepulto.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">Brillar quisiera, renovado el culto</l>
+     <l n="6" met="-++--+---+-">que al arte he tributado y a la ciencia...</l>
+     <l n="7" met="---+-+---+-">Y al contemplar mi estéril indigencia,</l>
+     <l n="8" met="-+-+---+-+-">ni al lauro aspiro, ni al fracaso oculto.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">¿Por qué alejáis del viejo navegante,</l>
+     <l n="10" met="-+-+-+---+-">cuando es mayor su triste desamparo,</l>
+     <l n="11" met="--+--+---+-">la arribada a la tierra prometida?...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+++-+-">Quizá queréis, Señor, verle triunfante</l>
+     <l n="13" met="-----+-+-+-">a fuerza de remar... con rumbo al faro</l>
+     <l n="14" met="-+-+---+-+-">que anuncia el puerto de la eterna vida.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

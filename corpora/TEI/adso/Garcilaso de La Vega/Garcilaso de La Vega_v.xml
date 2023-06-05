@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>-V-</title>
+    <author>Garcilaso de La Vega</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Garcilaso de La Vega_v</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>-V-</title>
+     <author>Garcilaso de La Vega</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>-V-</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+---+-">Escrito está en mi alma vuestro gesto,</l>
+     <l n="2" met="-+-+-+-+-+-">y cuanto yo escribir de vos deseo;</l>
+     <l n="3" met="++---+-+-+-">vos sola lo escribiste, yo lo leo</l>
+     <l n="4" met="-+---+-+-+-">tan solo, que aun de vos me guardo en esto.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+--++-+-">En esto estoy y estaré siempre puesto,</l>
+     <l n="6" met="--++-+--++-">que aunque no cabe en mí cuanto en vos veo,</l>
+     <l n="7" met="-+-+--++-+-">de tanto bien lo que no entiendo creo,</l>
+     <l n="8" met="-+-+-+---+-">tomando ya la fe por presupuesto.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+-----+-">Yo no nací sino para quereros;</l>
+     <l n="10" met="-+-+-+---+-">mi alma os ha cortado a su medida:</l>
+     <l n="11" met="-+---+-+-+-">por hábito del alma misma os quiero.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+-+-+-">Cuanto tengo confieso yo deberos;</l>
+     <l n="13" met="-+-+-++--+-">por vos nací, por vos tengo la vida,</l>
+     <l n="14" met="-++--+--++-">por vos he de morir y por vos muero.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

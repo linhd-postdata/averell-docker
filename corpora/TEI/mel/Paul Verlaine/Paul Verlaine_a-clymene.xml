@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>À Clymène</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_a-clymene</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>À Clymène</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>À Clymène</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6">Mystiques barcarolles,</l>
+     <l n="2" rhyme="a" line_length="6">Romances sans paroles,</l>
+     <l n="3" rhyme="b" line_length="6">Chère, puisque tes yeux,</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="a" line_length="6">Puisque ta voix, étrange</l>
+     <l n="5" rhyme="a" line_length="6">Vision qui dérange</l>
+     <l n="6" rhyme="b" line_length="6">Et trouble l’horizon</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="a" line_length="6">Puisque l’arôme insigne</l>
+     <l n="8" rhyme="a" line_length="6">De ta pâleur de cygne</l>
+     <l n="9" rhyme="b" line_length="6">Et puisque la candeur</l>
+    </lg>
+    <lg n="4">
+     <l n="10" rhyme="a" line_length="6">Ah ! puisque tout ton être,</l>
+     <l n="11" rhyme="a" line_length="6">Musique qui pénètre,</l>
+     <l n="12" rhyme="b" line_length="6">Nimbes d’anges défunts,</l>
+    </lg>
+    <lg n="5">
+     <l n="13" rhyme="a" line_length="6">A, sur d’almes cadences</l>
+     <l n="14" rhyme="a" line_length="6">En ses correspondances</l>
+     <l n="15" rhyme="b" line_length="6">Induit mon cœur subtil,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Vin</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_le-vin</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Vin</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Vin</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Dans la pourpre de ce vieux Vin</l>
+     <l n="2" rhyme="b" line_length="8">Une étincelle d'or éclate ;</l>
+     <l n="3" rhyme="b" line_length="8">Un rayon de flamme écarlate</l>
+     <l n="4" rhyme="a" line_length="8">Brûle en son flot sombre et divin.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Comme dans l'œil d'un vieux Sylvain</l>
+     <l n="6" rhyme="b" line_length="8">Qu'une Nymphe caresse et flatte,</l>
+     <l n="7" rhyme="a" line_length="8">Dans la pourpre de ce vieux Vin</l>
+     <l n="8" rhyme="b" line_length="8">Une étincelle d'or éclate.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Il ne coulera pas en vain !</l>
+     <l n="10" rhyme="b" line_length="8">A le voir mon cœur se dilate.</l>
+     <l n="11" rhyme="b" line_length="8">Il n'est pas de ceux qu'on frelate</l>
+     <l n="12" rhyme="a" line_length="8">Et je lirai comme un devin</l>
+     <l n="13" rhyme="a" line_length="8">Dans la pourpre de ce vieux Vin.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

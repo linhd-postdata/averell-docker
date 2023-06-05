@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>(VESUV.)</title>
+    <author>H. Uden</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>H. Uden_vesuv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>(VESUV.)</title>
+     <author>H. Uden</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>(VESUV.)</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100010" rhyme="1" line_length="11">Když po třetí jsem na temeni stanul,</l>
+     <l n="2" met="11010001010" rhyme="2" line_length="11">vrch celý otřásal se v hluku dravém</l>
+     <l n="3" met="01000101010" rhyme="2" line_length="11">a zahalen byl v hustém dýmu čpavém,</l>
+     <l n="4" met="01010100010" rhyme="1" line_length="11">jenž dechem sirným pronikavě vanul.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11010101010" rhyme="1" line_length="11">Proud lávy úzkou stružkou rychle kanul,</l>
+     <l n="6" met="01010001010" rhyme="2" line_length="11">by rozlil úbočím se v toku žhavém,</l>
+     <l n="7" met="01010101000" rhyme="2" line_length="11">kam krok se vbodl v spěchu nedočkavém,</l>
+     <l n="8" met="01010101010" rhyme="1" line_length="11">hned malý otvor jiskrou hněvu vzplanul.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="11000100010" rhyme="3" line_length="11">Déšť kamení kdes v neprůhledném kouři</l>
+     <l n="10" met="11000101010" rhyme="3" line_length="11">hřměl výstřely a duněl plnou bouří,</l>
+     <l n="11" met="01010100010" rhyme="4" line_length="11">a stará země hájila se živě:</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="01010101010" rhyme="5" line_length="11">„Zde vizte všichni, vlastním ohněm žiji,</l>
+     <l n="13" met="01000101000" rhyme="4" line_length="11">a křivdí mně, kdo soudí pohrdlivě,</l>
+     <l n="14" met="01010101010" rhyme="5" line_length="11">že pouze z tepla cizích světel tyji.“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

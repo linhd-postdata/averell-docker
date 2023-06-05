@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poemas del mar -- V</title>
+    <author>Tomás Morales</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tomás Morales_poemas-del-mar-v</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Poemas del mar -- V</title>
+     <author>Tomás Morales</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Poemas del mar -- V</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="+-+--+-+----+-">Esta vieja fragata tiene sobre el sollado</l>
+     <l n="2" met="+-+--+--+-+-+-">un fanal primoroso como una imagen linda;</l>
+     <l n="3" met="--+--+---+--+-">y en la popa, en barrocos caracteres grabado,</l>
+     <l n="4" met="---++-++-+-+-">sobre el Lisboa clásico, un dulce nombre: Olinda...</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+-++---+-">Como es de mucho porte y es cara la estadía,</l>
+     <l n="6" met="-+---+----+-+-">alija el cargamento con profusión liviana:</l>
+     <l n="7" met="-+-+-+--+---+-">Llegó anteayer de Porto, filando el Mediodía,</l>
+     <l n="8" met="--+-+-+--+-+-">y hacia el cabo de Hornos ha de salir mañana...</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+--+--+-">¡Con qué desenvoltura ceñía la ribera!</l>
+     <l n="10" met="+-+--+-+-+--+-">Y era tan femenina, y era tan marinera,</l>
+     <l n="11" met="-+-+-+---+--+-">entrando, a todo trapo, bajo el sol cenital,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-++-+---+-">que se creyera al verla, velívola y sonora,</l>
+     <l n="13" met="+-+-+--+---+-">una nao almirante que torna vencedora</l>
+     <l n="14" met="--+--+-+-+--+-">de la insigne epopeya de un combate naval...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

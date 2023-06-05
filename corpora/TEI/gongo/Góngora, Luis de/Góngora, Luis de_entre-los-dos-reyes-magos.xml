@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Entre los dos reyes magos,</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_entre-los-dos-reyes-magos</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Entre los dos reyes magos,</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Entre los dos reyes magos,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="---++-+-" line_length="8">Entre los dos reyes magos,</l>
+     <l n="2" met="--+-+-" line_length="6">entre el chantre y el deán,</l>
+     <l n="3" met="-+-+--+-" line_length="8">el buen obispo Laguna</l>
+     <l n="4" met="-+----+-" line_length="8">cagó de pontifical.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Amor</title>
+    <author>Juan Valera</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Valera_amor</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Amor</title>
+     <author>Juan Valera</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Amor</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+-+-+-">Del tierno pecho aquel amor nacido,</l>
+     <l n="2" met="-+-+---+-+-">que él viviendo mis delicias era,</l>
+     <l n="3" met="-++--+--++-">creció, quiso el pecho salir fuera,</l>
+     <l n="4" met="+--+---+-+-">pudo volar y abandonó su nido.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+++-+-">Y no logrando yo darle al olvido,</l>
+     <l n="6" met="+-++-----+-">le busqué inútilmente por doquiera,</l>
+     <l n="7" met="-+-+---+-+-">y ya pensaba que en la cuarta esfera</l>
+     <l n="8" met="-+-+---+-+-">se hubiese al centro de la luz unido,</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-+-+-+-">cuando tus ojos vi, señora mía,</l>
+     <l n="10" met="-+---+---+-">y en ellos a mi amor con esperanza,</l>
+     <l n="11" met="--+-++-+-+-">y llamándole a mí tendí los brazos;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+-+-+-">mas él me desconoce, guerra impía</l>
+     <l n="13" met="+--+-+--++-">mueve en mi daño y flechas que me lanza</l>
+     <l n="14" met="+--+---+-+-">hacen mi pobre corazón pedazos.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

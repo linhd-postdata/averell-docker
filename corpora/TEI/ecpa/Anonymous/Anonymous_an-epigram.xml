@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>An EPIGRAM.</title>
+    <author>Anonymous</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Anonymous_an-epigram</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Eighteenth Century Poetry Archive</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>An EPIGRAM.</title>
+     <author>Anonymous</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>An EPIGRAM.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="couplet">
+     <l n="1" met="-+|-+|-+|-+|-+" line_length="10">I Dropt a thing in verse, without a name;</l>
+     <l n="2" met="-+|-+|-+|-+|-+" line_length="10">I felt no censure, and I gain'd no fame:</l>
+     <l n="3" met="-+|-+|-+|-+|-+" line_length="10">The public saw the bastard in the cradle,</l>
+     <l n="4" met="-+|-+|-+|-+|-+" line_length="10">But ne'er enquir'd; so left it to the beadle.</l>
+     <l n="5" met="-+|-+|-+|-+|-+" line_length="10">A certain nobleman takes up the child,</l>
+     <l n="6" met="-+|-+|-+|-+|-+" line_length="10">The real father lay perdue, and smil'd.</l>
+     <l n="7" met="-+|-+|-+|-+|-+" line_length="10">The public now enlarges every grace,</l>
+     <l n="8" met="-+|-+|-+|-+|-+" line_length="10">What shining eyes it has! how fair a face!</l>
+     <l n="9" met="-+|-+|-+|-+|-+" line_length="10">Of parts what symmetry! what strength divine!</l>
+     <l n="10" met="-+|-+|-+|-+|-+" line_length="10">The noble brat is sure of Pelops' line.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

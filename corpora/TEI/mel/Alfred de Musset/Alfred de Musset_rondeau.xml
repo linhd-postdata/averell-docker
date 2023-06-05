@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Rondeau</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_rondeau</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Rondeau</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Rondeau</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+6">Il est aisé de plaire à qui veut plaire.</l>
+     <l n="2" rhyme="b" line_length="4+6">D’un ignorant un bavard écouté,</l>
+     <l n="3" rhyme="b" line_length="4+6">D’un journaliste un rimailleur vanté,</l>
+     <l n="4" rhyme="a" line_length="4+6">Sans nulle peine y trouvent leur affaire.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="4+6">Louer un sot, c’est pure charité.</l>
+     <l n="6" rhyme="b" line_length="4+6">Une Araminte à demi centenaire</l>
+     <l n="7" rhyme="a" line_length="4+6">Dans son miroir voit un portrait flatté.</l>
+     <l n="8" rhyme="b" line_length="4+6">De nos bas bleus si l’éloge est à faire,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="4+6">Mais, s’il faut peindre avec sincérité</l>
+     <l n="10" rhyme="b" line_length="4+6">L’air simple et bon, la grâce involontaire,</l>
+     <l n="11" rhyme="b" line_length="4+6">L’esprit facile et la raison sévère,</l>
+     <l n="12" rhyme="a" line_length="4+6">D’un double charme entourant la beauté, —</l>
+     <l n="13" rhyme="b" line_length="4+6">D’un tel portrait, certe, on ne dira guère :</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

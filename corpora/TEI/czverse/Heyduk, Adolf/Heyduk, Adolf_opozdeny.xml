@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Opozděný.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_opozdeny</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Opozděný.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Opozděný.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0000101000" rhyme="1" line_length="10">Proč pak dřív jsi domů nepřijechal,</l>
+     <l n="2" met="1011001010" rhyme="1" line_length="10">bratře, mluv!... A kde jsi čapku nechal?</l>
+     <l n="3" met="1100101010" rhyme="2" line_length="10">Věz, sestřičko, to nás chlapců zvykem:</l>
+     <l n="4" met="1000100010" rhyme="2" line_length="10">u krčmáře na džbánu je víkem.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nedůvěra.</title>
+    <author>Picek, Václav Jaromír</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Picek, Václav Jaromír_neduvera</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nedůvěra.</title>
+     <author>Picek, Václav Jaromír</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nedůvěra.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100" line_length="7">Kolik’s dala hubiček</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">Druhu mému včera,</l>
+     <l n="3" met="0010101" line_length="7">Jak jsi byla, Lidko má,</l>
+     <l n="4" met="101000" rhyme="1" line_length="6">Dole u jezera?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0010100" line_length="7">„Já mu více nedala</l>
+     <l n="6" met="010010" rhyme="2" line_length="6">Než hubičku jednu,</l>
+     <l n="7" met="1010100" line_length="7">A když pravdu nemluvím,</l>
+     <l n="8" met="010010" rhyme="2" line_length="6">Ať na místě zblednu.“</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010100" line_length="7">Lidé ale pravili,</l>
+     <l n="10" met="101010" rhyme="3" line_length="6">Asi sto že’s dala;</l>
+     <l n="11" met="1010100" line_length="7">Vidíš, Lidko spanilá!</l>
+     <l n="12" met="001000" rhyme="3" line_length="6">Jak’s mne obelhala.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1010101" line_length="7">„Aj to na mne lidé zlí</l>
+     <l n="14" met="100010" rhyme="4" line_length="6">Nadělali klevet,</l>
+     <l n="15" met="0000100" line_length="7">Vždyť on mi jich vrátil zas</l>
+     <l n="16" met="100010" rhyme="4" line_length="6">Devadesát devět.“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

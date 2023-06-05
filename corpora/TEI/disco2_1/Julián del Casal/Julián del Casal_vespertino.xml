@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vespertino</title>
+    <author>Julián del Casal</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Julián del Casal_vespertino</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vespertino</title>
+     <author>Julián del Casal</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vespertino</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">Pensativo, vagando entre las ruinas</l>
+     <l n="2" met="--+--+---+-">de las viejas moradas señoriales,</l>
+     <l n="3" met="--+--+---+-">que rodean espesos matorrales</l>
+     <l n="4" met="--+--+---+-">erizadas de múltiples espinas,</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+----+---+-">veo las azuladas golondrinas</l>
+     <l n="6" met="-+---+---+-">llegar a las regiones tropicales,</l>
+     <l n="7" met="--++-+---+-">donde no braman vientos invernales</l>
+     <l n="8" met="--+--+---+-">ni oscurecen el cielo las neblinas.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+---+-">Pasan después los rudos labradores,</l>
+     <l n="10" met="+-+-+----+-">caído el hombro al peso de la azada</l>
+     <l n="11" met="---+-+-+-+-">en que dejó la tierra impuras huellas;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">y mostrando sombríos esplendores</l>
+     <l n="13" met="--+--+---+-">aparece la noche coronada</l>
+     <l n="14" met="---+-+---+-">con su diadema fúlgida de estrellas.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

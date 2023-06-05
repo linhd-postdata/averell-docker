@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Píseň vystěhovalce.</title>
+    <author>Brabec, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Brabec, Adolf_pisen-vystehovalce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Píseň vystěhovalce.</title>
+     <author>Brabec, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Píseň vystěhovalce.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00010010" rhyme="1" line_length="8">Dnes zde a zítra kdo ví kde!</l>
+     <l n="2" met="01010100" rhyme="2" line_length="8">Víc nemám mít juž domova,</l>
+     <l n="3" met="10010101" rhyme="1" line_length="8">za mnou jen anděl strastí jde,</l>
+     <l n="4" met="01010100" rhyme="2" line_length="8">a zítra půjde poznova.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000101" rhyme="3" line_length="8">Však nejhorší, že ztratím cos,</l>
+     <l n="6" met="01010101" rhyme="4" line_length="8">tu drahou moji rodnou vlast,</l>
+     <l n="7" met="01010101" rhyme="3" line_length="8">proč připad na mne krutý los,</l>
+     <l n="8" met="01010101" rhyme="4" line_length="8">že musím kosti jinde klást.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101" rhyme="5" line_length="8">A zítra moře, vlny hluk,</l>
+     <l n="10" met="01000101" rhyme="5" line_length="8">zda přehluší ten srdce tluk,</l>
+     <l n="11" met="01010100" rhyme="6" line_length="8">vlasť dá jen jednu květinku,</l>
+     <l n="12" met="01010100" rhyme="6" line_length="8">však drahou – na ni vzpomínku.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

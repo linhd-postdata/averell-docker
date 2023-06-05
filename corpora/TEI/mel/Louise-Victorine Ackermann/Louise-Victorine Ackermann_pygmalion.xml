@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pygmalion</title>
+    <author>Louise-Victorine Ackermann</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Louise-Victorine Ackermann_pygmalion</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pygmalion</title>
+     <author>Louise-Victorine Ackermann</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pygmalion</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Du chef-d’œuvre toujours un cœur fut le berceau.</l>
+     <l n="2" rhyme="b" line_length="6+6">L’art, au fond, n’est qu’amour. Pour provoquer la vie,</l>
+     <l n="3" rhyme="a" line_length="6+6">Soit qu’on ait la palette en main ou le ciseau,</l>
+     <l n="4" rhyme="b" line_length="6+6">Il faut une âme ardente et qu’un charme a ravie.</l>
+     <l n="5" rhyme="a" line_length="6+6">Après tout, tes enfants ne sont point des ingrats,</l>
+     <l n="6" rhyme="b" line_length="6+6">Artiste ! ils sauront bien te rendre ta caresse.</l>
+     <l n="7" rhyme="b" line_length="6+6">Croit n’avoir embrassé qu’un marbre en son ivresse,</l>
+     <l n="8" rhyme="b" line_length="6+6">C’est de la chair qu’il sent palpiter dans ses bras.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NÁŠ OSUD</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_nas-osud</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NÁŠ OSUD</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NÁŠ OSUD</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" rhyme="1" line_length="8">My málo lásky zkusili –</l>
+     <l n="2" met="00010" rhyme="2" line_length="5">jak dnes, tak včera –</l>
+     <l n="3" met="0100010100" rhyme="1" line_length="10">a proto jsme si svět tak zhnusili,</l>
+     <l n="4" met="0101000" rhyme="2" line_length="7">a v srdci nedůvěra.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010100" rhyme="3" line_length="10">My známe jenom přísnou povinnost</l>
+     <l n="6" met="0100010" rhyme="4" line_length="7">a neúprosné jármo –</l>
+     <l n="7" met="0100010101" rhyme="3" line_length="10">nám hodí se jen jako psovi kost –</l>
+     <l n="8" met="0101010" rhyme="4" line_length="7">a proto všecko darmo.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" rhyme="1" line_length="8">Kde mohli, tam nás hubili,</l>
+     <l n="10" met="010101010" rhyme="5" line_length="9">ne bratry, jenom pány známe.</l>
+     <l n="11" met="01010100" rhyme="1" line_length="8">My málo lásky zkusili</l>
+     <l n="12" met="010101010" rhyme="5" line_length="9">a proto málo lásky máme.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

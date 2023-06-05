@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Lope de Vega</title>
+    <author>Juan de Piña</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan de Piña_a-lope-de-vega</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Lope de Vega</title>
+     <author>Juan de Piña</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Lope de Vega</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+++-">Lope, tu pluma (si el amor no engaña,</l>
+     <l n="2" met="-++--+-+-+-">que amor suele engañar, y más conmigo)</l>
+     <l n="3" met="-+---+---+-">atrévome a decir, si lo que digo</l>
+     <l n="4" met="+--+-+-+-+-">sufre la envidia, que es honor de España.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+-+-+-">Si la fama a la vida no acompaña,</l>
+     <l n="6" met="-+++-+-+-+-">y tú la tienes, ¿qué mayor testigo</l>
+     <l n="7" met="-+-+---+-+-">del don que el cielo repartió contigo?</l>
+     <l n="8" met="-+-+-+---+-">Pues vive, escribe, imprime y desengaña.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">Si en otro siglo juzga que viviste</l>
+     <l n="10" met="-+---+-+-+-">la gente, que la inmensa copia admira</l>
+     <l n="11" met="---+-+---+-">de lo que en estos años escribiste,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++-+-+-+-+-">no cuelgues, no, la bien templada lira,</l>
+     <l n="13" met="+--+----++-">dure tu voz, que si antes de ser fuiste,</l>
+     <l n="14" met="-++-+--+-+-">serás no siendo. Lo que vales mira.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La última tabla</title>
+    <author>Federico Balart</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Federico Balart_la-ultima-tabla</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La última tabla</title>
+     <author>Federico Balart</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La última tabla</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+---+-+-">En el abismo del dolor sumido</l>
+     <l n="2" met="--+--+---+-">la mirada levanto a las alturas,</l>
+     <l n="3" met="---+-+---+-">y desde el hondo valle de amarguras</l>
+     <l n="4" met="++-+-+---+-">te invoco ¡oh Dios! con ánimo abatido.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">¡De la duda que ofusca mi sentido</l>
+     <l n="6" met="-+-+-+---+-">disipa Tú las ráfagas oscuras!</l>
+     <l n="7" met="+++--+---+-">No te pido grandeza ni venturas;</l>
+     <l n="8" met="--+--+-+++-">¡esperanza, y amor, y fe te pido!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+---+-+-">Aunque en sollozos mi dolor exhalo,</l>
+     <l n="10" met="--+--+-+-+-">de punzante inquietud y angustia lleno,</l>
+     <l n="11" met="+--+---+-+-">aún tu bondad a tu poder igualo.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++-+---+-+-">No al odio dejes invadir mi seno:</l>
+     <l n="13" met="--++---+-+-">bueno te juzgo; pero, si eres malo,</l>
+     <l n="14" met="+-+--+-+++-">¡déjame, por piedad, juzgarte bueno!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

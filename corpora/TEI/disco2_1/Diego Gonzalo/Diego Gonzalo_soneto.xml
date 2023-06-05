@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Diego Gonzalo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Diego Gonzalo_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Diego Gonzalo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+-+-+-">España tuvo el más felice día,</l>
+     <l n="2" met="--++-+-+-+-">y temió España el más sangriento estrago,</l>
+     <l n="3" met="-+-+-+-+-+-">pobló el contento todo el viento vago,</l>
+     <l n="4" met="-+-+-+---+-">borró el pesar la luz de la alegría.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">Nació Felipe Próspero, y debía,</l>
+     <l n="6" met="-+-+-+---+-">que el Reino le esperaba con halago;</l>
+     <l n="7" met="-+---+-+-+-">costó su nacimiento duro halago,</l>
+     <l n="8" met="--+--+---+-">que en su Madre temió la Monarquía.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+++++-">España el parabién te da dos veces,</l>
+     <l n="10" met="--+--+---+-">(pues Mariana, que tanto a deseado)</l>
+     <l n="11" met="-+---+--++-">del riesgo en que saliste con más gloria.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--++-+---+-">Con que te da el aplauso que mereces</l>
+     <l n="13" met="--+--+-+-+-">porque añade valor al triunfo osado,</l>
+     <l n="14" met="--+------+-">quien se arriesga después de la victoria.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

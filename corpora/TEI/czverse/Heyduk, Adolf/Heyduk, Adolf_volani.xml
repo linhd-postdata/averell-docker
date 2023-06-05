@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Volání!</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_volani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Volání!</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Volání!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Tmavo! v nebi ani tečka –</l>
+     <l n="2" met="101010" rhyme="2" line_length="6">Rúna smutně pláče,</l>
+     <l n="3" met="01001010" rhyme="1" line_length="8">hned, jako ta vlků smečka,</l>
+     <l n="4" met="010010" rhyme="2" line_length="6">hned jako to máče.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00101010" rhyme="3" line_length="8">To ne Rúna, to je Sláva,</l>
+     <l n="6" met="101010" rhyme="4" line_length="6">nockou cestu razí,</l>
+     <l n="7" met="10001000" rhyme="3" line_length="8">korunu si vyhledává,</l>
+     <l n="8" met="001010" rhyme="4" line_length="6">co jí vzali vrazi.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001010" line_length="8">Z Vyšehradu znějí tklivá</l>
+     <l n="10" met="100010" rhyme="5" line_length="6">o půlnoci slova:</l>
+     <l n="11" met="00101010" line_length="8">„To je ona!“ v kraj se volá</l>
+     <l n="12" met="101000" rhyme="5" line_length="6">s křesla Mojmírova.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10001010" rhyme="6" line_length="8">Slyšíte, ty žalné zpěvy?</l>
+     <l n="14" met="100010" rhyme="7" line_length="6">Neslyšíte? běda!</l>
+     <l n="15" met="01101000" rhyme="6" line_length="8">tož vnuk bude bez úlevy,</l>
+     <l n="16" met="101010" rhyme="7" line_length="6">jako býval děda.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="01001000" line_length="8">Tož bude vám na porobě</l>
+     <l n="18" met="101010" rhyme="8" line_length="6">dcera, jak dřív máti;</l>
+     <l n="19" met="11001010" rhyme="8" line_length="8">hoj, spojme se v jedno, brati,</l>
+     <l n="20" met="101000" rhyme="8" line_length="6">chcem ji vyhledati! –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

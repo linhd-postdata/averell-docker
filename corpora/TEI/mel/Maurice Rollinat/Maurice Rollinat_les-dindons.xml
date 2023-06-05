@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LES DINDONS</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_les-dindons</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LES DINDONS</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LES DINDONS</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Ils vont la queue en éventail,</l>
+     <l n="2" rhyme="b" line_length="8">A la file, par les sentiers,</l>
+     <l n="3" rhyme="b" line_length="8">Glougloutinant des jours entiers :</l>
+     <l n="4" rhyme="a" line_length="8">Aux champs, c'est le menu bétail.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Doux pèlerins, sans attirail,</l>
+     <l n="6" rhyme="b" line_length="8">Et béats comme des rentiers,</l>
+     <l n="7" rhyme="a" line_length="8">Ils vont la queue en éventail,</l>
+     <l n="8" rhyme="b" line_length="8">A la file, par les sentiers.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Parfois pour caravansérail</l>
+     <l n="10" rhyme="b" line_length="8">Ils ont de grands jardins fruitiers,</l>
+     <l n="11" rhyme="b" line_length="8">Et là, prenant des airs altiers,</l>
+     <l n="12" rhyme="a" line_length="8">Sans redouter l'épouvantail,</l>
+     <l n="13" rhyme="a" line_length="8">Ils vont la queue en éventail.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

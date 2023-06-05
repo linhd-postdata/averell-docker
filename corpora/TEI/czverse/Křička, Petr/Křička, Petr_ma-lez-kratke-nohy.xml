@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Má lež krátké nohy?</title>
+    <author>Křička, Petr</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Křička, Petr_ma-lez-kratke-nohy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Má lež krátké nohy?</title>
+     <author>Křička, Petr</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Má lež krátké nohy?</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010100010" rhyme="1" line_length="12">Vznikla hádka mezi indickými bohy,</l>
+     <l n="2" met="1000101110" rhyme="1" line_length="10">krátké-li či dlouhé lež má nohy?</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="001000101010" rhyme="2" line_length="12">„Tak se podívejte!“ vece starý Pandu.</l>
+     <l n="4" met="1000101000" rhyme="2" line_length="10">„V Berlíně přec řídí propagandu.“</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="101000100010" rhyme="3" line_length="12">Jeden přes druhého bohové se tlačí:</l>
+     <l n="6" met="1010101010" rhyme="3" line_length="10">„Nemá jednu delší, druhou kratší?“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

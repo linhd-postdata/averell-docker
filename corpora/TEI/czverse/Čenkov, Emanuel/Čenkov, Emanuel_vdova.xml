@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vdova.</title>
+    <author>Čenkov, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čenkov, Emanuel_vdova</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vdova.</title>
+     <author>Čenkov, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vdova.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101010" rhyme="1" line_length="11">Ze zvyku denně chodí v alej stmělou,</l>
+     <l n="2" met="0101010101" rhyme="2" line_length="10">jež vede k lesům lánem luk a niv...</l>
+     <l n="3" met="01010001000" rhyme="1" line_length="11">Tam nejprv líbával ji, uzardělou,</l>
+     <l n="4" met="01010101010" rhyme="1" line_length="11">jí tiskl ruku, šeptal řečí vřelou</l>
+     <l n="5" met="10010101" rhyme="2" line_length="8">nebožtík manžel, když byl živ.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="10010101010" rhyme="3" line_length="11">A jak se slunce v purpur žhavý ztratí,</l>
+     <l n="7" met="1001010100" rhyme="4" line_length="10">obrací k městu drobné kročeje;</l>
+     <l n="8" met="11000101010" rhyme="3" line_length="11">den ke dnu dřív – vždyť dny se kvapně krátí,</l>
+     <l n="9" met="10010101010" rhyme="3" line_length="11">se stromů listí brzo větry schvátí</l>
+     <l n="10" met="01010100" rhyme="4" line_length="8">a cestu skryjou závěje.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="01010001010" rhyme="5" line_length="11">Pak časem zapomene ve dnů letu</l>
+     <l n="12" met="1001010101" rhyme="6" line_length="10">na smutnou alej středem luk a niv...</l>
+     <l n="13" met="10010100010" rhyme="5" line_length="11">Bezdětna, rovna rozvitému květu,</l>
+     <l n="14" met="10010001010" rhyme="5" line_length="11">zatouží po novém zas lásky vznětu</l>
+     <l n="15" met="01001001" rhyme="6" line_length="8">jak tenkráte, když on byl živ.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

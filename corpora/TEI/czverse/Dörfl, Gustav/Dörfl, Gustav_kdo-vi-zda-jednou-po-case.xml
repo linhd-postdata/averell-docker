@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kdo ví, zda jednou po čase</title>
+    <author>Dörfl, Gustav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dörfl, Gustav_kdo-vi-zda-jednou-po-case</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kdo ví, zda jednou po čase</title>
+     <author>Dörfl, Gustav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kdo ví, zda jednou po čase</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Kdo ví, zda jednou po čase </l>
+     <l n="2" met="10010100" rhyme="1" line_length="8">povídat o nás nebudou,</l>
+     <l n="3" met="01010100" line_length="8">že všecky naše naděje</l>
+     <l n="4" met="01010100" rhyme="1" line_length="8">tu někde leží pod hrudou.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">Že na těch černých kamenech</l>
+     <l n="6" met="01010101" rhyme="2" line_length="8">se zvedal jejich lásky stan</l>
+     <l n="7" met="01010001" line_length="8">a vedle něho že i ráj</l>
+     <l n="8" met="01010100" rhyme="2" line_length="8">byl z mechu pro ně uchystán.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10100100" line_length="8">A pak, že já byl smrtelník,</l>
+     <l n="10" met="10010101" rhyme="3" line_length="8">a ty žes původ měla vil –</l>
+     <l n="11" met="01010100" line_length="8">dost možná, že jsem do srdce</l>
+     <l n="12" met="01010100" rhyme="3" line_length="8">si hrad jen z kouzel postavil!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

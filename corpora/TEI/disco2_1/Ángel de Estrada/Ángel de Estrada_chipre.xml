@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Chipre</title>
+    <author>Ángel de Estrada</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ángel de Estrada_chipre</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Chipre</title>
+     <author>Ángel de Estrada</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Chipre</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+---+-">Es la aurora. No arriban las galeras;</l>
+     <l n="2" met="+-++---+-+-">Chipre no alienta a mis fervientes ruegos;</l>
+     <l n="3" met="+--+---+-+-">no arde el altar con los sagrados fuegos</l>
+     <l n="4" met="--+--+---+-">el invierno mató sus primaveras.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">Ni las danzas, aladas por ligeras,</l>
+     <l n="6" met="+--+---+-+-">mueven el ritmo de los cuerpos griegos,</l>
+     <l n="7" met="---+-+---+-">atormentando el alma de los ciegos</l>
+     <l n="8" met="-+---+---+-">que aspira, como en flor, las cabelleras.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+---+--+-">Y de la isla, que la lluvia azota,</l>
+     <l n="10" met="---+---+-+-">en vez del canto de la Grecia, brota</l>
+     <l n="11" met="-+-+---+-+-">de Otelo el grito del amor salvaje,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+---+-+-">que, llamarada de candente infierno</l>
+     <l n="13" met="--+--+---+-">dominando el furor del oleaje</l>
+     <l n="14" met="+-++---+-+-">vibra más cerca, pero más eterno.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

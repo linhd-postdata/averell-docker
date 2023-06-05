@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V HLUBINÁCH.</title>
+    <author>Klášterský, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Klášterský, Antonín_v-hlubinach</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V HLUBINÁCH.</title>
+     <author>Klášterský, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V HLUBINÁCH.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" line_length="6">Do moře mrtvý pad’,</l>
+     <l n="2" met="010001" rhyme="1" line_length="6">v ten největší všech hrob,</l>
+     <l n="3" met="01010100" line_length="8">jej vlna vlně podala</l>
+     <l n="4" met="010001" rhyme="1" line_length="6">v hloub statisíce stop.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010100" line_length="6">Jej slizký měkkýš chyt’</l>
+     <l n="6" met="010011" rhyme="2" line_length="6">a rameny kol spjal:</l>
+     <l n="7" met="01010100" line_length="8">Žes nemřel v ženy objetí,</l>
+     <l n="8" met="010101" rhyme="2" line_length="6">už neměj, mrtvý, žal!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="110000" line_length="6">Krab přissál se mu hned</l>
+     <l n="10" met="100101" rhyme="3" line_length="6">u jeho chladných úst,</l>
+     <l n="11" met="01010100" line_length="8">a korál šeptal: Ze srdce</l>
+     <l n="12" met="110101" rhyme="3" line_length="6">chci, mrtvý, tobě růst!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="010101" line_length="6">A na dně sirén rej</l>
+     <l n="14" met="010101" rhyme="4" line_length="6">ho čekal, v oku taj:</l>
+     <l n="15" met="11010100" line_length="8">Ó, mrtvý, pojď a dopověz</l>
+     <l n="16" met="010101" rhyme="4" line_length="6">nám starou lidstva báj!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

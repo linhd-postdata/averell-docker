@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>San Ignacio Mártir</title>
+    <author>Ignacio Montes de Oca y Obregón</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ignacio Montes de Oca y Obregón_san-ignacio-martir</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>San Ignacio Mártir</title>
+     <author>Ignacio Montes de Oca y Obregón</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>San Ignacio Mártir</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+---+-">A padecer en Roma, como reo</l>
+     <l n="2" met="+--+++-+-+-">de alta traición, me llevan diez sayones</l>
+     <l n="3" met="+--+-+---+-">de índole más feroz que los leones</l>
+     <l n="4" met="-+-+-+---+-">que me reserva el rojo Coliseo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+----+-">¡Romanos! Acceded a mi deseo:</l>
+     <l n="6" met="++---+---+-">no ablanden vuestras tiernas oraciones</l>
+     <l n="7" met="-+---+---+-">ni bestias, ni imperiales corazones,</l>
+     <l n="8" met="-+-+-+---+-">ni me arranquéis de mártir el trofeo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++---+---+-">Yo estaba entre los niños inocentes</l>
+     <l n="10" met="---+---+-+-">que de Jesús acarició la mano,</l>
+     <l n="11" met="-----+---+-">a despecho de apóstoles renuentes.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+-+-+-">De Cristo ahora soy maduro grano</l>
+     <l n="13" met="---+---+-+-">que de las fieras molerán los dientes</l>
+     <l n="14" met="---+-+---+-">y cocerán los hornos de Trajano.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

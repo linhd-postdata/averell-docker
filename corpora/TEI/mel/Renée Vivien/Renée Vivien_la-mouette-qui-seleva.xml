@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LA MOUETTE QUI S’ÉLEVA</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_la-mouette-qui-seleva</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LA MOUETTE QUI S’ÉLEVA</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LA MOUETTE QUI S’ÉLEVA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Ô ! soyez-moi cléments, mes espaces fidèles !</l>
+     <l n="2" rhyme="a" line_length="6+6">Car je sens remuer en moi mes grandes ailes !</l>
+     <l n="3" rhyme="b" line_length="6+6">Et je subis ici la volupté du vent,</l>
+     <l n="4" rhyme="b" line_length="6+6">Moi qui sus l’affronter et le braver souvent…</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Vent qui fais s’élever en moi mes larges ailes,</l>
+     <l n="6" rhyme="a" line_length="6+6">Vent qui sais dominer les vagues infidèles,</l>
+     <l n="7" rhyme="b" line_length="6+6">Viens vers moi ! Porte-moi, comme tu fis souvent,</l>
+     <l n="8" rhyme="b" line_length="6+6">Toi qui sais dominer la mer immense, ô vent !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

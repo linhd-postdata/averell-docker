@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PROSBA.</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_prosba</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PROSBA.</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PROSBA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000101" line_length="8">Jest ustrašena duše má,</l>
+     <l n="2" met="1000010010" rhyme="1" line_length="10">zachmuřeny jsou obzory její;</l>
+     <l n="3" met="11010100" line_length="8">ó větry, větry neznámé</l>
+     <l n="4" met="1010010" rhyme="1" line_length="7">přes ni divoce vějí.</l>
+     <l n="5" met="01010100" line_length="8">A listy s korun padají.</l>
+     <l n="6" met="1010010110" rhyme="2" line_length="10">Jaký podzim to v kraje jde moje.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="11010100" line_length="8">Ach, nechte zráti ovoce,</l>
+     <l n="8" met="1010010010" rhyme="3" line_length="10">mladé ještě jsou zahrady tyto;</l>
+     <l n="9" met="01000100" line_length="8">což nezřely jste poupata,</l>
+     <l n="10" met="0010010" rhyme="3" line_length="7">co jich v lupení skryto?</l>
+     <l n="11" met="01010100" line_length="8">V nich vůni žití stajil jsem –</l>
+     <l n="12" met="1010010010" rhyme="2" line_length="10">sílu v poslední zoufalé boje!</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="00010100" line_length="8">Jen co mi málo rozpuknou,</l>
+     <l n="14" met="0010010010" rhyme="4" line_length="10">co se otevrou lupenů kraji</l>
+     <l n="15" met="01010100" line_length="8">jak číše k pití podaná</l>
+     <l n="16" met="0010010000" rhyme="4" line_length="10">těm, již souzeni odumírají.</l>
+     <l n="17" met="01000100" line_length="8">Ji vyprázdniv se zahalím</l>
+     <l n="18" met="1010010010" rhyme="2" line_length="10">k smrti, uprostřed života stoje.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

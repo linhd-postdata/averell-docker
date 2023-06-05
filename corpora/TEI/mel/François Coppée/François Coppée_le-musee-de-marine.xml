@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Musée de marine</title>
+    <author>François Coppée</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>François Coppée_le-musee-de-marine</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Musée de marine</title>
+     <author>François Coppée</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Musée de marine</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Au Louvre, je vais voir ces délicats modèles</l>
+     <l n="2" rhyme="b" line_length="6+6">Qui montrent aux oisifs les richesses d'un port,</l>
+     <l n="3" rhyme="b" line_length="6+6">Je connais l'armement des vaisseaux de haut-bord</l>
+     <l n="4" rhyme="a" line_length="6−6">Et la voilure des avisos-hirondelles.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">J'aime cette flottille avec ses bagatelles,</l>
+     <l n="6" rhyme="b" line_length="6+6">Le carré d'Océan qui lui sert de support,</l>
+     <l n="7" rhyme="b" line_length="6+6">Ses petits canons noirs se montrant au sabord,</l>
+     <l n="8" rhyme="a" line_length="6+6">Et ses mille haubans fins comme des dentelles.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Je suis un loup de mer et sais apprécier</l>
+     <l n="10" rhyme="c" line_length="6+6">Le blindage de cuivre et les ancres d'acier :</l>
+     <l n="11" rhyme="d" line_length="6+6">Car tous ces riens de bois, de ficelle et de liège</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">M'ont souvent fait trouver les dimanches bien courts,</l>
+     <l n="13" rhyme="d" line_length="6+6">Et, forçat de Paris dès longtemps pris au piège,</l>
+     <l n="14" rhyme="e" line_length="6+6">C'est là que j'ai rêvé le voyage au long cours.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

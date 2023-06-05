@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- 11 -  Soneto </title>
+    <author>Pedro Espinosa</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pedro Espinosa_11-soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- 11 -  Soneto </title>
+     <author>Pedro Espinosa</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- 11 -  Soneto </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+---+-">Con planta incierta y paso peregrino,</l>
+     <l n="2" met="+-+--+---+-">Lesbia, muerta la luz de tus centellas,</l>
+     <l n="3" met="-+---+---+-">llegaste a la ciudad de tus querellas,</l>
+     <l n="4" met="--++-+---+-">sin dejar ni aun señal de tu camino.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+-+-+-">Ya el día, primavera y sol divino</l>
+     <l n="6" met="--+--+-+-+-">de tus ojos, tu labio y trenzas bellas,</l>
+     <l n="7" met="+--+-+---+-">dieron al agua, al campo, a las estrellas</l>
+     <l n="8" met="++-+-+-+-+-">luz clara, flores bellas, oro fino.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+-+-+-">Ya de la edad tocaste tristemente</l>
+     <l n="10" met="-+-+---+-+-">la meta, y pinta tu victoria ingrata</l>
+     <l n="11" met="-+---+-+-+-">con pálida color el tiempo airado.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+-++-+-+-">Ya oscurece, da al viento, vuelve en plata</l>
+     <l n="13" met="--+--+---+-">de los ojos, del labio, de la frente</l>
+     <l n="14" met="---+-+---+-">el resplandor, las flores, el brocado.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

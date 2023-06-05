@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Fray Pedro de Padilla por su Tesoro de poesías publicado en 1587</title>
+    <author>Fray Antonio Suárez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fray Antonio Suárez_a-fray-pedro-de-padilla-por-su</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Fray Pedro de Padilla por su Tesoro de poesías publicado en 1587</title>
+     <author>Fray Antonio Suárez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Fray Pedro de Padilla por su Tesoro de poesías publicado en 1587</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Las nueve hermanas con amargo llanto,</l>
+     <l n="2" met="-----+-+-+-">y cual las del Phaetón están en lloro,</l>
+     <l n="3" met="-+-+-++--+-">por ver perdido aquel rico tesoro,</l>
+     <l n="4" met="---+-+-+-+-">que a su sagrado monte honraba tanto.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+--++-+-+-">Mas ya se quitó el luto, y negro manto,</l>
+     <l n="6" met="++-+-+-+-+-">ya no hay tristeza en todo el cato coro,</l>
+     <l n="7" met="+-+--+-+-+-">antes puestas las Ninfas coro a coro,</l>
+     <l n="8" met="-+-+---+-+-">cantaron himnos en alegre canto.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+-+++--+-">Que si muerte hacerles pudo ofensa,</l>
+     <l n="10" met="-+-++++--+-">quitándoles un Mena, un Gracilazo,</l>
+     <l n="11" met="-+-+-+-+-+-">de tanto lustre, y bien privando el suelo.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+---+-">Dióles el cielo en larga recompensa</l>
+     <l n="13" met="-+-+-+---+-">a vos Padilla gloria del Parnaso</l>
+     <l n="14" met="-+-+-++--+-">y así mayor que el llanto, es el consuelo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

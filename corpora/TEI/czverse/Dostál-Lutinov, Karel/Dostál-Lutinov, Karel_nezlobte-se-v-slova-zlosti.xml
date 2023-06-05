@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nezlobte se, v slova zlosti</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_nezlobte-se-v-slova-zlosti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nezlobte se, v slova zlosti</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nezlobte se, v slova zlosti</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" rhyme="1" line_length="8">Nezlobte se, v slova zlosti </l>
+     <l n="2" met="00101" rhyme="2" line_length="5">že můj ústí žal:</l>
+     <l n="3" met="00101000" rhyme="1" line_length="8">Vždyť i Job, vzdor oddanosti,</l>
+     <l n="4" met="10100" rhyme="2" line_length="5">strašně proklínal.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les Étoiles</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_les-etoiles</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Les Étoiles</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Les Étoiles</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Les cieux resplendissants d'Étoiles</l>
+     <l n="2" rhyme="b" line_length="8">Aux radieux frissonnements,</l>
+     <l n="3" rhyme="b" line_length="8">Ressemblent à des flots dormants</l>
+     <l n="4" rhyme="a" line_length="8">Que sillonnent de blanches voiles.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Quand l'azur déchire ses voiles,</l>
+     <l n="6" rhyme="b" line_length="8">Nous voyons les bleus firmaments,</l>
+     <l n="7" rhyme="a" line_length="8">Les cieux resplendissants d'Étoiles</l>
+     <l n="8" rhyme="b" line_length="8">Aux radieux frissonnements.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Quel peintre mettra sur ses toiles,</l>
+     <l n="10" rhyme="b" line_length="8">O Dieu ! ces clairs fourmillements,</l>
+     <l n="11" rhyme="b" line_length="8">Ces fournaises de diamants</l>
+     <l n="12" rhyme="a" line_length="8">Qu'à mes yeux ravis tu dévoiles,</l>
+     <l n="13" rhyme="a" line_length="8">Les cieux resplendissants d'Étoiles ?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

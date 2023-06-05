@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- IX - </title>
+    <author>Lope de Vega</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lope de Vega_ix</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- IX - </title>
+     <author>Lope de Vega</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- IX - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+-+-+-">Tu ribera apacible, ingrato río,</l>
+     <l n="2" met="---+---+-+-">y las orillas que en tus ondas bañas,</l>
+     <l n="3" met="-+-+-+---+-">se vuelven peñas cóncavas y extrañas,</l>
+     <l n="4" met="-+---+-+-+-">y fuego tu licor sabroso y frío.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+++---+-+-">Abrase un rayo tu frescor sombrío,</l>
+     <l n="6" met="-+-+---+-+-">los rojos lirios y las verdes cañas,</l>
+     <l n="7" met="+--+-+---+-">niéguente el agua sierras y montañas,</l>
+     <l n="8" met="-+---+-+-+-">y sólo te acompañe el llanto mío.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+---+-+-">Hasta la arena, que al correr levantas,</l>
+     <l n="10" met="-+-+-+---+-">se vuelvan fieros áspides airados;</l>
+     <l n="11" met="--++---+-+-">mas, ¡ay cuán vana maldición esperas!</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-++--+-">Que cuando en ti mi sol baño sus plantas,</l>
+     <l n="13" met="---+-+-+-+-">con ofenderla tú, dejó sagrados</l>
+     <l n="14" met="+--+-++--+-">lirios, orilla, arena, agua y riberas.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Klamné štěstí.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_klamne-stesti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Klamné štěstí.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Klamné štěstí.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101" rhyme="1" line_length="8">Jak ránu stromu kyprý list,</l>
+     <l n="2" met="110001010" rhyme="2" line_length="9">zpěv básníkovu bolest skrývá;</l>
+     <l n="3" met="01010001" rhyme="1" line_length="8">kdož může na tváři mu číst,</l>
+     <l n="4" met="010101010" rhyme="2" line_length="9">co hloubku jeho ňader zrývá?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000100" rhyme="3" line_length="8">On písněmi jsa ovinut</l>
+     <l n="6" met="010101000" rhyme="4" line_length="9">svůj halí žal v ty nejsvěžejší –</l>
+     <l n="7" met="01000101" rhyme="3" line_length="8">a za prutem jich žene prut,</l>
+     <l n="8" met="010101010" rhyme="4" line_length="9">leč rána zeje v jejich skrejši.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101" rhyme="5" line_length="8">Tu přijde jeseň; chladně v ráz</l>
+     <l n="10" met="110101010" rhyme="6" line_length="9">list – píseň – všecko dolů mete</l>
+     <l n="11" met="01010100" rhyme="5" line_length="8">a ránu zjeví na úžas. –</l>
+     <l n="12" met="010101010" rhyme="6" line_length="9">Jest šťastným, koho pěvcem zvete?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

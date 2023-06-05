@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Napij se!</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">7</measure>
+    <measure unit="line">28</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_napij-se</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Napij se!</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Napij se!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" line_length="6">Napij se, bratříčku,</l>
+     <l n="2" met="100100" rhyme="1" line_length="6">napij se z hluboka,</l>
+     <l n="3" met="010100" line_length="6">kdo ví, co bude z nás</l>
+     <l n="4" met="100100" rhyme="1" line_length="6">do dne a do roka!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010100" line_length="6">Kdo ví, co bude z nás,</l>
+     <l n="6" met="100100" rhyme="2" line_length="6">bratříčku, po letě –</l>
+     <l n="7" met="100100" line_length="6">bez sladu, bez chmele</l>
+     <l n="8" met="000100" rhyme="2" line_length="6">co pak je po světě!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100100" line_length="6">V korbeli spojena</l>
+     <l n="10" met="101000" rhyme="3" line_length="6">hořkosť se sladkostí,</l>
+     <l n="11" met="100100" line_length="6">jako v tom životě</l>
+     <l n="12" met="100100" rhyme="3" line_length="6">rozkoše s žalostí.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100100" line_length="6">Přihni si z plna jen,</l>
+     <l n="14" met="100100" rhyme="4" line_length="6">nepřestaň na doušku.</l>
+     <l n="15" met="100100" rhyme="5" line_length="6">žízní se mořiti</l>
+     <l n="16" met="100100" rhyme="4" line_length="6">zanechej svatoušku.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="100100" line_length="6">K čemu jsme na světě,</l>
+     <l n="18" met="000100" rhyme="5" line_length="6">ne-li snad k užití?</l>
+     <l n="19" met="100100" line_length="6">K čemu nám pivo jest,</l>
+     <l n="20" met="000100" rhyme="5" line_length="6">ne-li snad ku pití?</l>
+    </lg>
+    <lg n="6">
+     <l n="21" met="100101" line_length="6">Žíti a pivo pít,</l>
+     <l n="22" met="101100" rhyme="6" line_length="6">pokud dá hospoda,</l>
+     <l n="23" met="010100" line_length="6">v tom všecka moudrost je;</l>
+     <l n="24" met="100100" rhyme="6" line_length="6">dopij jen do spoda!</l>
+    </lg>
+    <lg n="7">
+     <l n="25" met="100100" line_length="6">Do spoda, do dna jen,</l>
+     <l n="26" met="101100" rhyme="7" line_length="6">dokud máš nalito,</l>
+     <l n="27" met="100100" line_length="6">soudek až zazvoní:</l>
+     <l n="28" met="100100" rhyme="7" line_length="6">„Dopito, dožito!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

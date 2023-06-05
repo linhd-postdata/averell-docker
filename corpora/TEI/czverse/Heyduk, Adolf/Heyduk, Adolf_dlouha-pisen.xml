@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dlouhá píseň.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_dlouha-pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dlouhá píseň.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dlouhá píseň.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" line_length="8">Nesu ti píseň nepsanou:</l>
+     <l n="2" met="10010010" rhyme="1" line_length="8">myšlénka hoří k ní v oku,</l>
+     <l n="3" met="10010100" line_length="8">rýmy k ní planou na ústech,</l>
+     <l n="4" met="10010010" rhyme="1" line_length="8">rhythmus k ní buší mi v boku.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" line_length="8">Nesu ti píseň nepsanou –</l>
+     <l n="6" met="10010010" rhyme="2" line_length="8">krátká jen píseň je vděčná –</l>
+     <l n="7" met="10010100" line_length="8">bojím se, drahá, o tebe,</l>
+     <l n="8" met="10011010" rhyme="2" line_length="8">neboť ta má, ta je věčná!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

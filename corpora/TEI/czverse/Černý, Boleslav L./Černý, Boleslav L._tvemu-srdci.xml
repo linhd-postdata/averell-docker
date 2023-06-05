@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Tvému srdci.</title>
+    <author>Černý, Boleslav L.</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Černý, Boleslav L._tvemu-srdci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Tvému srdci.</title>
+     <author>Černý, Boleslav L.</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Tvému srdci.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100010100" rhyme="1" line_length="10">Jen moci blíž! Tak někde v ústraní</l>
+     <l n="2" met="0101010101" rhyme="2" line_length="10">a ze Tvých očí ssát ten božský klid,</l>
+     <l n="3" met="0101010100" rhyme="1" line_length="10">bych na Tvém srdci v sladkém dumání</l>
+     <l n="4" met="01010100" rhyme="2" line_length="8">moh’ duši svoji roztoužit.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010100" rhyme="1" line_length="10">Tvůj cítit dech a v tichém šeptání</l>
+     <l n="6" met="0101000101" rhyme="2" line_length="10">vše moje sloučit se Tvým v jeden cit –</l>
+     <l n="7" met="0101010100" rhyme="1" line_length="10">Tvé srdce tušit svojí ve dlani!</l>
+     <l n="8" met="11000100" rhyme="2" line_length="8">Ó, moci je tak pohladit!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

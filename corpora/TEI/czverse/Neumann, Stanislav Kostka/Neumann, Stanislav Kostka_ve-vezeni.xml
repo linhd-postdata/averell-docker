@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ve vězení.</title>
+    <author>Neumann, Stanislav Kostka</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neumann, Stanislav Kostka_ve-vezeni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ve vězení.</title>
+     <author>Neumann, Stanislav Kostka</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ve vězení.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100100" line_length="9">Nebesa venku tam nad střechou</l>
+     <l n="2" met="010010" rhyme="1" line_length="6">tak modrá a snivá,</l>
+     <l n="3" met="1100100" line_length="7">strom venku tam nad střechou</l>
+     <l n="4" met="10010" rhyme="1" line_length="5">větvovím kývá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010101" line_length="8">Na nebi zvon, jejž možno zřít,</l>
+     <l n="6" met="100110" rhyme="2" line_length="6">ve sladké zní tísni,</l>
+     <l n="7" met="11000101" line_length="8">pták na stromě, jejž možno zřít,</l>
+     <l n="8" met="10010" rhyme="2" line_length="5">žaluje písní.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010010100" line_length="9">Můj Bože, můj Bože, život ten</l>
+     <l n="10" met="10010" rhyme="3" line_length="5">prostý a klidný!</l>
+     <l n="11" met="01010100" line_length="8">To z města šum a hukot ten</l>
+     <l n="12" met="010010" rhyme="3" line_length="6">sem zaléhá vlídný.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01000101" line_length="8">Cos učinil ty, jenž tu dlíš</l>
+     <l n="14" met="010010" rhyme="4" line_length="6">a pláčeš tu krádí,</l>
+     <l n="15" met="010010101" line_length="9">cos učinil, rci, ty, jenž tu dlíš,</l>
+     <l n="16" met="10010" rhyme="4" line_length="5">ze svého mládí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nirvana</title>
+    <author>Louis Ménard</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Louis Ménard_nirvana</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nirvana</title>
+     <author>Louis Ménard</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nirvana</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">L'universel désir guette comme une proie</l>
+     <l n="2" rhyme="b" line_length="6+6">Le troupeau des vivants ; tous viennent tour à tour</l>
+     <l n="3" rhyme="b" line_length="6+6">À sa flamme brûler leurs ailes, comme, autour</l>
+     <l n="4" rhyme="a" line_length="6+6">D'une lampe, l'essaim des phalènes tournoie.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="b" line_length="6+6">Heureux qui sans regret, sans espoir, sans amour,</l>
+     <l n="6" rhyme="a" line_length="6+6">Tranquille et connaissant le fond de toute joie,</l>
+     <l n="7" rhyme="a" line_length="6+6">Marche en paix dans la droite et véritable voie,</l>
+     <l n="8" rhyme="b" line_length="6+6">Dédaigneux de la vie et des plaisirs d'un jour !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Néant divin, je suis plein du dégoût des choses ;</l>
+     <l n="10" rhyme="c" line_length="6+6">Las de l'illusion et des métempsycoses,</l>
+     <l n="11" rhyme="d" line_length="6+6">J'implore ton sommeil sans rêve ; absorbe-moi,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Lieu des trois mondes, source et fin des existences,</l>
+     <l n="13" rhyme="e" line_length="6+6">Seul vrai, seul immobile au sein des apparences ;</l>
+     <l n="14" rhyme="d" line_length="6+6">Tout est dans toi, tout sort de toi, tout rentre en toi !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

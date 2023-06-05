@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jsem jen práškem...</title>
+    <author>Nečas, Jan Evangelista</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nečas, Jan Evangelista_jsem-jen-praskem</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jsem jen práškem...</title>
+     <author>Nečas, Jan Evangelista</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jsem jen práškem...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="001010" line_length="6">Jsem jen práškem, bodem,</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">ale plným touhy,</l>
+     <l n="3" met="100010" line_length="6">obejmouti blankyt</l>
+     <l n="4" met="100010" rhyme="1" line_length="6">nesmírný a dlouhý;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100010" line_length="6">do měsíčných jasův</l>
+     <l n="6" met="100010" rhyme="2" line_length="6">vypnouti se hlavou,</l>
+     <l n="7" met="101010" line_length="6">plovať v slunci hmotou</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">zářivou a žhavou,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100010" line_length="6">z palčivého lesku</l>
+     <l n="10" met="100010" rhyme="3" line_length="6">do hvězdnatých bání,</l>
+     <l n="11" met="100010" line_length="6">nekonečným světem,</l>
+     <l n="12" met="101000" rhyme="3" line_length="6">chvátať bez ustání,</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="001010" line_length="6">až by samou touhou</l>
+     <l n="14" met="101010" rhyme="4" line_length="6">vyschlo srdce ve mně,</l>
+     <l n="15" met="001010" line_length="6">až bych zase práškem</l>
+     <l n="16" met="101010" rhyme="4" line_length="6">spadl v lůno země,</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="101010" line_length="6">spadl v lůno země</l>
+     <l n="18" met="100010" rhyme="5" line_length="6">na Moravu zpátky,</l>
+     <l n="19" met="001010" line_length="6">kde jsem milou matku</l>
+     <l n="20" met="101000" rhyme="5" line_length="6">líbal za pohádky;</l>
+    </lg>
+    <lg n="6">
+     <l n="21" met="100010" line_length="6">za pohádky, jimiž</l>
+     <l n="22" met="100010" rhyme="6" line_length="6">do srdéčka mého</l>
+     <l n="23" met="101010" line_length="6">kladla první kouzlo</l>
+     <l n="24" met="101000" rhyme="6" line_length="6">zvuku mateřského.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PÍSEŇ.</title>
+    <author>Lošťák, Ludvík</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lošťák, Ludvík_pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PÍSEŇ.</title>
+     <author>Lošťák, Ludvík</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PÍSEŇ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">Ach já nevím, duše moje,</l>
+     <l n="2" met="0010100" rhyme="1" line_length="7">proč tak měkce smuten jsem,</l>
+     <l n="3" met="10001010" line_length="8">obzírám-li širou zemi, –</l>
+     <l n="4" met="1010100" rhyme="1" line_length="7">jaká bolest v srdci mém!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" line_length="8">Vůně luk a vůně lesů</l>
+     <l n="6" met="1010100" rhyme="2" line_length="7">líbá smutnou duši mou,</l>
+     <l n="7" met="10001010" line_length="8">nazírám-li v srdce květům,</l>
+     <l n="8" met="0010100" rhyme="2" line_length="7">jež tak záhy povadnou.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" line_length="8">Na rtech lidských kvetou písně,</l>
+     <l n="10" met="0100100" rhyme="3" line_length="7">jak na lukách květiny,</l>
+     <l n="11" met="10101000" line_length="8">na rtech písně umírají,</l>
+     <l n="12" met="0100101" rhyme="3" line_length="7">a s písněmi vadnou sny.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10001010" line_length="8">Květiny a Sny a Písně</l>
+     <l n="14" met="1010100" rhyme="4" line_length="7">pouhou vůní Země jsou,</l>
+     <l n="15" met="00100010" line_length="8">než se nadáš již je vichry</l>
+     <l n="16" met="1000100" rhyme="4" line_length="7">za oceán zanesou...</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10101010" line_length="8">Rci mi, duše, rci mi, srdce,</l>
+     <l n="18" met="0010100" rhyme="5" line_length="7">proč tak těžce smuten jsem,</l>
+     <l n="19" met="10001010" line_length="8">vdechuji-li vůni Písní,</l>
+     <l n="20" met="0010100" rhyme="5" line_length="7">jež se rodí v nitru mém?! –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

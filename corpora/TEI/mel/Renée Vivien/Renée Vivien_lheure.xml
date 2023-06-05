@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L’HEURE</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_lheure</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L’HEURE</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L’HEURE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Voici l’inévitable et terrible moment</l>
+     <l n="2" rhyme="a" line_length="6+6">Où mon destin s’écrit inévitablement.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="6+6">Une muette horreur m’envahit et m’accable</l>
+     <l n="4" rhyme="a" line_length="6+6">Devant le calme front de l’Heure inévitable</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="6+6">Il ne me reste plus l’élan d’un jeune espoir…</l>
+     <l n="6" rhyme="a" line_length="6+6">Sans force et sans ardeur, je m’abandonne au soir.</l>
+    </lg>
+    <lg n="4">
+     <l n="7" rhyme="a" line_length="6+6">Je n’entends plus le luth ni la musicienne</l>
+     <l n="8" rhyme="a" line_length="6+6">Ni le jour glorieux… Ah ! que la fin survienne !…</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

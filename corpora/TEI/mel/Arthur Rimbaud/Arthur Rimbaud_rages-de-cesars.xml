@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Rages de Césars</title>
+    <author>Arthur Rimbaud</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Arthur Rimbaud_rages-de-cesars</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Rages de Césars</title>
+     <author>Arthur Rimbaud</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Rages de Césars</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">L’Homme pâle, le long des pelouses fleuries,</l>
+     <l n="2" rhyme="b" line_length="6+6">Chemine, en habit noir, et le cigare aux dents :</l>
+     <l n="3" rhyme="a" line_length="6+6">L’Homme pâle repense aux fleurs des Tuileries</l>
+     <l n="4" rhyme="b" line_length="6+6">− Et parfois son œil terne a des regards ardents…</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">Car l’Empereur est soûl de ses vingt ans d’orgie !</l>
+     <l n="6" rhyme="d" line_length="6+6">Il s’était dit : « Je vais souffler la Liberté</l>
+     <l n="7" rhyme="c" line_length="6+6">Bien délicatement, ainsi qu’une bougie ! »</l>
+     <l n="8" rhyme="d" line_length="6+6">La liberté revit ! Il se sent éreinté !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="6+6">Il est pris. − Oh ! quel nom sur ses lèvres muettes</l>
+     <l n="10" rhyme="f" line_length="6+6">Tressaille ? Quel regret implacable le mord ?</l>
+     <l n="11" rhyme="f" line_length="6+6">On ne le saura pas. L’Empereur a l’œil mort.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Il repense peut-être au Compère en lunettes…</l>
+     <l n="13" rhyme="g" line_length="6+6">− Et regarde filer de son cigare en feu,</l>
+     <l n="14" rhyme="g" line_length="6+6">Comme aux soirs de Saint-Cloud, un fin nuage bleu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

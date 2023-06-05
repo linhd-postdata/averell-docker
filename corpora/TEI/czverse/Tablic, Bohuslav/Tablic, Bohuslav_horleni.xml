@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Horlení.</title>
+    <author>Tablic, Bohuslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tablic, Bohuslav_horleni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Horlení.</title>
+     <author>Tablic, Bohuslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Horlení.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10011000" rhyme="1" line_length="8">Manželství y nejšťastnější,</l>
+     <l n="2" met="1010101" rhyme="2" line_length="7">Milé dívky, má svůj kříž,</l>
+     <l n="3" met="10001000" rhyme="1" line_length="8">Na manželky nejkrásnější</l>
+     <l n="4" met="1000100" rhyme="2" line_length="7">Největší se valí tíž.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00100010" rhyme="3" line_length="8">Kdo sy od růžové lásky</l>
+     <l n="6" met="1001100" rhyme="4" line_length="7">Růžové dni slibuje,</l>
+     <l n="7" met="01101010" rhyme="3" line_length="8">Zle zná její marné svazky,</l>
+     <l n="8" met="1010100" rhyme="4" line_length="7">Jež sy mladost libuje.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001000" rhyme="5" line_length="8">U pokoje svadebního</l>
+     <l n="10" met="1001100" rhyme="6" line_length="7">S fakulí bdí horlení,</l>
+     <l n="11" met="10101000" rhyme="5" line_length="8">Není soka hroznějšího,</l>
+     <l n="12" met="0010000" rhyme="6" line_length="7">Než jest nedověření.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101010" rhyme="7" line_length="8">Šalba sladké lásky mizý</l>
+     <l n="14" met="1000101" rhyme="8" line_length="7">Po veselí v krátký čas,</l>
+     <l n="15" met="10100110" rhyme="7" line_length="8">Brzo vloudí se host cyzý,</l>
+     <l n="16" met="1010101" rhyme="8" line_length="7">Potom slyšeť pláče hlas.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

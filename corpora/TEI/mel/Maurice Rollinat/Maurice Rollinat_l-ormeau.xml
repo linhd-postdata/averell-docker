@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L'Ormeau</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">11</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_l-ormeau</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L'Ormeau</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L'Ormeau</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6−6">D'un branchu semblant un grand fagot qui s'évase,</l>
+     <l n="2" rhyme="b" line_length="6+6">Il végète sa mort — à jamais défeuillé ;</l>
+     <l n="3" rhyme="b" line_length="6+6">Pourtant, sous tous les ciels, dans l'air sec et mouillé,</l>
+     <l n="4" rhyme="a" line_length="6+6">Son très étrange aspect vous met l'œil en extase !</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">C'est que, depuis l'énorme et ronde fourmilière</l>
+     <l n="6" rhyme="d" line_length="6+6">Grouillant au pied pourri de ce petit ormeau,</l>
+     <l n="7" rhyme="d" line_length="6+6">Tout son tronc est moussu comme un toit de hameau,</l>
+     <l n="8" rhyme="c" line_length="6+6">Soutaché de lichen, et festonné de lierre.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="6+6">Donc, il cumule ainsi la double vétusté</l>
+     <l n="10" rhyme="e" line_length="8">Que de neige ou de fleurs la terre soit couverte…</l>
+    </lg>
+    <lg n="4">
+     <l n="11" rhyme="g" line_length="6+6">Lui seul ne change pas ! — Seul, toujours il fait voir</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

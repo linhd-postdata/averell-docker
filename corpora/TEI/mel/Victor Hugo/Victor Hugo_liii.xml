@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LIII</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_liii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LIII</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LIII</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">La création va, sombre, et démesurée ;</l>
+     <l n="2" rhyme="a" line_length="6+6">L'étendue à jamais se meut dans la durée ;</l>
+     <l n="3" rhyme="b" line_length="8">Et l'homme, pendant l'heure où disparaît son âge,</l>
+     <l n="4" rhyme="c" line_length="6+6">Pâle, entend remuer l'effrayant engrenage</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Le peu de jour qu'on voit passe entre des vertèbres ;</l>
+     <l n="6" rhyme="a" line_length="6+6">Les blancheurs sont le deuil autant que les ténèbres ;</l>
+     <l n="7" rhyme="b" line_length="8">Le penseur, attentif aux mystères sans nombre,</l>
+     <l n="8" rhyme="c" line_length="6+6">À travers l'amas noir de ces rouages d'ombre,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

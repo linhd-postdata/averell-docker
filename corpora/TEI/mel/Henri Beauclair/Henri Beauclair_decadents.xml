@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Décadents</title>
+    <author>Henri Beauclair</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Henri Beauclair_decadents</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Décadents</title>
+     <author>Henri Beauclair</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Décadents</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Nos pères étaient forts, et leurs rêves ardents</l>
+     <l n="2" rhyme="b" line_length="6+6">S'envolaient d'un coup d'aile au pays de Lumière.</l>
+     <l n="3" rhyme="b" line_length="6+6">Nous dont la fleur dolente est la Rose Trémière,</l>
+     <l n="4" rhyme="a" line_length="6+6">Nous n'avons plus de cœur, nous n'avons plus de dents !</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Pauvres pantins avec un peu de son dedans,</l>
+     <l n="6" rhyme="b" line_length="6+6">Nous regardons, sans voir, la ferme et la fermière.</l>
+     <l n="7" rhyme="b" line_length="6+6">Nous renâclons devant la tâche coutumière,</l>
+     <l n="8" rhyme="a" line_length="6+6">Charlots trop amusés, ultimes Décadents.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Mais, ô Mort du Désir ! Inappétence exquise !</l>
+     <l n="10" rhyme="c" line_length="6+6">Nous gardons le fumet d'une antique Marquise</l>
+     <l n="11" rhyme="d" line_length="6+6">Dont un Vase de Nuit parfume les Dessous !</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Être Gâteux, c'est toute une philosophie,</l>
+     <l n="13" rhyme="d" line_length="6+6">Nos nerfs et notre sang ne valent pas deux sous,</l>
+     <l n="14" rhyme="e" line_length="6+6">Notre cervelle, au vent d'Été, se liquéfie !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

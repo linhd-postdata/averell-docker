@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La magnolia</title>
+    <author>José Santos Chocano</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Santos Chocano_la-magnolia</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La magnolia</title>
+     <author>José Santos Chocano</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La magnolia</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+--+-">En el bosque de aromas y de músicas lleno,</l>
+     <l n="2" met="--+--+---+--+-">la magnolia florece delicada y ligera,</l>
+     <l n="3" met="+-+--+---+--+-">cual vellón que en la zarzas enredado estuviera</l>
+     <l n="4" met="--+--+---+--+-">o cual copo de espuma sobre lago sereno.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+++--+-+-+--+-">Es un ánfora digna de un artífice heleno,</l>
+     <l n="6" met="+-+--+---+-+-">un marmóreo prodigio de la clásica era;</l>
+     <l n="7" met="--+--+---+--+-">y destaca su fina redondez, a manera</l>
+     <l n="8" met="+-+--+---+--+-">de una dama que luce descotado su seno.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+-++-+-+-++-">No se sabe si es perla, no se sabe si es llanto.</l>
+     <l n="10" met="+-+--+-+-+--+-">Hay entre ella y la luna cierta historia de encanto</l>
+     <l n="11" met="--+--+-+-+--+-">en la que una paloma pierde acaso la vida;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+++++-+++-">porque es pura y es blanca y es graciosa y es leve</l>
+     <l n="13" met="-++--+---+--+-">como un rayo de luna que se cuaja en la nieve</l>
+     <l n="14" met="--+--+---+--+-">o como una paloma que se queda dormida.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

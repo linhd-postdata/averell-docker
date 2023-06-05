@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KLID.</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_klid</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KLID.</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KLID.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">Vlídný večer! Klid v něm zavlál</l>
+     <l n="2" met="1010100" rhyme="1" line_length="7">křídla šírem rozepjav</l>
+     <l n="3" met="10101010" line_length="8">na svých zádech obraz luny</l>
+     <l n="4" met="1010100" rhyme="1" line_length="7">jako motýl smrtihlav.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" line_length="8">Šerem hor je vrouben v dáli,</l>
+     <l n="6" met="101000100" rhyme="2" line_length="9">všeho lehounce se dotýká;</l>
+     <l n="7" met="10101010" line_length="8">marně! Každý květ se před ním</l>
+     <l n="8" met="1000100" rhyme="2" line_length="7">uzavřel a zamyká.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" line_length="8">A já! Pozdě v konci žití</l>
+     <l n="10" met="1010101" rhyme="3" line_length="7">– slyším vlát ho křídlem – klid;</l>
+     <l n="11" met="10001010" line_length="8">nesepnu už ruce vroucně.</l>
+     <l n="12" met="001010100" rhyme="3" line_length="9">Dál! jen pevně rakev uzavřít.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Adieux à la Poésie</title>
+    <author>Louise-Victorine Ackermann</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Louise-Victorine Ackermann_adieux-a-la-poesie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Adieux à la Poésie</title>
+     <author>Louise-Victorine Ackermann</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Adieux à la Poésie</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Mes pleurs sont à moi, nul au monde</l>
+     <l n="2" rhyme="b" line_length="8">Ne les a comptés ni reçus ;</l>
+     <l n="3" rhyme="a" line_length="8">Pas un œil étranger qui sonde</l>
+     <l n="4" rhyme="b" line_length="8">Les désespoirs que j'ai conçus.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">L'être qui souffre est un mystère</l>
+     <l n="6" rhyme="b" line_length="8">Parmi ses frères ici-bas ;</l>
+     <l n="7" rhyme="a" line_length="8">Il faut qu'il aille solitaire</l>
+     <l n="8" rhyme="b" line_length="8">S'asseoir aux portes du trépas.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">J'irai seule et brisant ma lyre,</l>
+     <l n="10" rhyme="b" line_length="8">Souffrant mes maux sans les chanter ;</l>
+     <l n="11" rhyme="a" line_length="8">Car je sentirais à les dire</l>
+     <l n="12" rhyme="b" line_length="8">Plus de douleur qu'à les porter.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ta Voix</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_ta-voix</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ta Voix</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ta Voix</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">J'aime ta voix, jamais je ne m'en rassasie.</l>
+     <l n="2" rhyme="b" line_length="6+6">Ma mère, ton regard, plus doux que l'Orient</l>
+     <l n="3" rhyme="a" line_length="6+6">Tout enfant, me faisait rêver la poésie,</l>
+     <l n="4" rhyme="b" line_length="6+6">Et tu m'as entr'ouvert les cieux, en souriant !</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Si la forêt m'accueille en ses gorges hautaines,</l>
+     <l n="6" rhyme="b" line_length="6+6">Je te l'ai dû ; c'est toi, mère, qui m'as appris</l>
+     <l n="7" rhyme="a" line_length="6+6">A m'enivrer du chant rhythmique des fontaines,</l>
+     <l n="8" rhyme="b" line_length="6+6">Songeur de la nature et des cimes épris !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Je savais les doux mots que notre esprit savoure ;</l>
+     <l n="10" rhyme="b" line_length="6+6">Mais pour charmer ce peuple attentif près de nous,</l>
+     <l n="11" rhyme="a" line_length="6+6">C'est toi qui m'as donné ton âme et ta bravoure !</l>
+     <l n="12" rhyme="b" line_length="6+6">Embrasse encor ton fils qui pleure à tes genoux.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

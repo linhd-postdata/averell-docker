@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VOJANSKÁ.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_vojanska</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VOJANSKÁ.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VOJANSKÁ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" line_length="6">Před Dobem, před Dobem</l>
+     <l n="2" met="100010" rhyme="1" line_length="6">veleké je kostel,</l>
+     <l n="3" met="100100" line_length="6">za Dobem, za Dobem</l>
+     <l n="4" met="100010" rhyme="1" line_length="6">šeroká je postel.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100" line_length="6">V kostele, v kostele</l>
+     <l n="6" met="100010" rhyme="2" line_length="6">na varhane hrajó,</l>
+     <l n="7" met="100100" line_length="6">za Dobem do šachet</l>
+     <l n="8" met="101000" rhyme="2" line_length="6">mrtvy okládajó.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100100" line_length="6">S kostela, s kostela</l>
+     <l n="10" met="100010" rhyme="3" line_length="6">vezvánijó hrane,</l>
+     <l n="11" met="100100" rhyme="4" line_length="6">v šachtách só vojáce</l>
+     <l n="12" met="100010" rhyme="3" line_length="6">od oboji strane.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="101100" rhyme="4" line_length="6">Naši e Prajzáce</l>
+     <l n="14" met="100010" rhyme="5" line_length="6">pohromadě spijó,</l>
+     <l n="15" met="100100" line_length="6">ve spánko slešijó</l>
+     <l n="16" met="101000" rhyme="5" line_length="6">bóchat patálijo.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="100100" rhyme="6" line_length="6">Spijó si v pokojo</l>
+     <l n="18" met="100010" rhyme="7" line_length="6">do sódnyho rána,</l>
+     <l n="19" met="100100" rhyme="6" line_length="6">spijó si po bojo</l>
+     <l n="20" met="100010" rhyme="7" line_length="6">za cisaře pána.</l>
+    </lg>
+    <lg n="6">
+     <l n="21" met="100100" line_length="6">Dale jim na postel</l>
+     <l n="22" met="100010" rhyme="8" line_length="6">velekánské kameň –</l>
+     <l n="23" met="000100" line_length="6">Buh jim boď milostiv</l>
+     <l n="24" met="010010" rhyme="8" line_length="6">až na věky. Amen.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

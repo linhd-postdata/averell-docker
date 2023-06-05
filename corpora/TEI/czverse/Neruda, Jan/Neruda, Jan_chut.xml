@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CHUŤ</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_chut</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CHUŤ</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CHUŤ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010100" line_length="8">Bůh žehnej našim žaludkům!</l>
+     <l n="2" met="0101010" rhyme="1" line_length="7">Nás svět i nesvět hostí:</l>
+     <l n="3" met="10010100" line_length="8">kulaté jíme dušičky</l>
+     <l n="4" met="0101010" rhyme="1" line_length="7">a všechněch svatých kosti;</l>
+     <l n="5" met="01010100" line_length="8">my sníme boha samého</l>
+     <l n="6" met="1000010" rhyme="2" line_length="7">bez ostýchání všeho,</l>
+     <l n="7" met="01000100" line_length="8">a v nestrannosti svojí pak</l>
+     <l n="8" met="0101010" rhyme="2" line_length="7">též s medem zrádce jeho!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

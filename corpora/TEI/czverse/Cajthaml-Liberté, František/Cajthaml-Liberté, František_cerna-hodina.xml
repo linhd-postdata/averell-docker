@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Černá hodina.</title>
+    <author>Cajthaml-Liberté, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cajthaml-Liberté, František_cerna-hodina</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Černá hodina.</title>
+     <author>Cajthaml-Liberté, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Černá hodina.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01011010" line_length="8">Je jasná noc. Svaté ticho</l>
+     <l n="2" met="1011010" rhyme="1" line_length="7">vlévá stesk v moji duši,</l>
+     <l n="3" met="01001101" line_length="8">a chvějící lesk bledých hvězd</l>
+     <l n="4" met="1010010" rhyme="1" line_length="7">tlukot srdce mi ruší.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">A příval strastných otázek</l>
+     <l n="6" met="1000010" rhyme="2" line_length="7">za rozluštění žádá,</l>
+     <l n="7" met="10000100" line_length="8">za rozluštění tajemství,</l>
+     <l n="8" met="0101000" rhyme="2" line_length="7">jež nikdo nevybádá...</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" line_length="8">A zdrcen vidím nicotnost</l>
+     <l n="10" met="1010010" rhyme="3" line_length="7">všeho, všeho co žije,</l>
+     <l n="11" met="01001100" line_length="8">a svědomí červ bolestně</l>
+     <l n="12" met="0101010" rhyme="3" line_length="7">v mých nervů síti ryje,</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01100100" line_length="8">neb dech spícího dítěte</l>
+     <l n="14" met="1001010" rhyme="4" line_length="7">výčitku budí ve mně,</l>
+     <l n="15" met="01001010" line_length="8">že vrh‘ jsem jej v tento život,</l>
+     <l n="16" met="0101010" rhyme="4" line_length="7">v tu velkou bídu Země.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

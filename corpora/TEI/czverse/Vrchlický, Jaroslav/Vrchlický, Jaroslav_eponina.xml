@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Eponina.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_eponina</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Eponina.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Eponina.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010101010" rhyme="1" line_length="11">Děl caesar: „Mou buď!“ – „Nechci!“ ona děla.</l>
+     <l n="2" met="01010100010" rhyme="2" line_length="11">„Jsem pánem světa!“ – „Vůle své jsem paní!“ –</l>
+     <l n="3" met="01010101010" rhyme="2" line_length="11">„Tvůj choť je souzen, prchnul, nesmí ani</l>
+     <l n="4" met="01010101000" rhyme="1" line_length="11">se tajně vrátit, zvadneš osamělá!“</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101010" rhyme="1" line_length="11">– „Ať vyhnán, mrtev, pán jest mého těla</l>
+     <l n="6" met="01000101010" rhyme="2" line_length="11">i duše mé on pouze, marné přání</l>
+     <l n="7" met="01010001000" rhyme="2" line_length="11">a marné hrozby tvé i naléhání,</l>
+     <l n="8" met="10000100010" rhyme="1" line_length="11">ve věrnost já se proměnila celá!“ –</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100010" rhyme="3" line_length="11">A prchla léta – Zavolal ji zase...</l>
+     <l n="10" met="01001101010" rhyme="4" line_length="11">„Jsi těhotna, rci, snad jak v staré básni</l>
+     <l n="11" met="10000101010" rhyme="3" line_length="11">při věrnosti tvé bůh kýs v blesků jase</l>
+     <l n="12" met="0100" line_length="4">tě zastínil?“</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1101010" rhyme="5" line_length="7">– V ráz protkla dýkou sebe.</l>
+     <l n="14" met="01010100010" rhyme="5" line_length="11">„Tvůj hněv nám naše nezakalil nebe,</l>
+     <l n="15" met="01010100010" rhyme="4" line_length="11">my žili spolu pod zemí – a šťastni!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Čtverolist.</title>
+    <author>Crha, Václav Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Crha, Václav Antonín_ctverolist</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Čtverolist.</title>
+     <author>Crha, Václav Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Čtverolist.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110101010" line_length="9">Mám starou tetu a tu vídám</l>
+     <l n="2" met="10010101" rhyme="1" line_length="8">v prastaré kníze často číst;</l>
+     <l n="3" met="010100110" line_length="9">tam mezi vetchými má listy</l>
+     <l n="4" met="10010100" rhyme="1" line_length="8">sežloutlý, suchý čtverolist.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="000101000" line_length="9">Však ten, kdo čtverlist utrhl kdys</l>
+     <l n="6" met="10010100" rhyme="2" line_length="8">pro ni, je stár ne jináče:</l>
+     <l n="7" met="110100110" line_length="9">Bůh ví, proč teta, když list spatří,</l>
+     <l n="8" met="10010100" rhyme="2" line_length="8">pokaždé dá se do pláče.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

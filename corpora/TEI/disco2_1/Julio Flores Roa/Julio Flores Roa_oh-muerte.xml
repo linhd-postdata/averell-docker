@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>¡Oh muerte!</title>
+    <author>Julio Flores Roa</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Julio Flores Roa_oh-muerte</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>¡Oh muerte!</title>
+     <author>Julio Flores Roa</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>¡Oh muerte!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+++--+-">Amad la muerte, amadla... Ella procura</l>
+     <l n="2" met="--+--++-++-">el supremo descanso, ella nos guía</l>
+     <l n="3" met="---+---+++-">en el camino del silencio, es fría</l>
+     <l n="4" met="--+-+-+---+-">pero buena; ...ella mata la amargura.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++-+---+-++-">Ella es la maga de la sombra... es pura</l>
+     <l n="6" met="-+--+---+-+-">y eterna... y todos la llamáis impía.</l>
+     <l n="7" met="-+++-----+-">¿Por qué? ¿Porque nos besa en la agonía,</l>
+     <l n="8" met="++--++---+-">y un tálamo nos da en la sepultura?</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-++--+---+-">La Muerte es la ceniza de la llama;</l>
+     <l n="10" met="+-++---+-+-">es el «no ser» de lo que vibra; muda</l>
+     <l n="11" met="---+---+-+-">ante el placer o el infortunio, ama.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">El sueño, matador de los dolores;</l>
+     <l n="13" met="-+---+-+-+-">la calma, que del daño nos escuda,</l>
+     <l n="14" met="--+-++---+-">y la tierra que es madre de las flores.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

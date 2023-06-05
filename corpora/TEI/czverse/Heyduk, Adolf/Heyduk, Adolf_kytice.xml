@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kytice.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_kytice</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kytice.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kytice.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" rhyme="1" line_length="9">Ven, květy, čas už spěchá k letu,</l>
+     <l n="2" met="01000100" rhyme="2" line_length="8">ven z obalových kuklí všech,</l>
+     <l n="3" met="010100010" rhyme="1" line_length="9">ať družně do kytky vás vpletu</l>
+     <l n="4" met="01010101" rhyme="2" line_length="8">jak básník v píseň žert i vzdech.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010100010" rhyme="3" line_length="9">Ty budeš základem, má růže;</l>
+     <l n="6" met="01010100" rhyme="4" line_length="8">kol tebe, oku v milý děk,</l>
+     <l n="7" met="010100010" rhyme="3" line_length="9">vždy po dvou připoutaných úže</l>
+     <l n="8" met="11010100" rhyme="4" line_length="8">dám vínek modrých fialek.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010100010" rhyme="5" line_length="9">Sem tamo podléška buď bledá,</l>
+     <l n="10" met="01000101" rhyme="6" line_length="8">pak karafiát vrchem vnad...</l>
+     <l n="11" met="010101010" rhyme="5" line_length="9">„Proč chvat tvůj kvést, proč žít nám nedá?</l>
+     <l n="12" met="00100100" rhyme="6" line_length="8">mníš, že nemáme srdcí snad? –“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>I. Píseň.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_i-pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>I. Píseň.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>I. Píseň.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100100" rhyme="1" line_length="9">Ptáci se vzbudili na větvích</l>
+     <l n="2" met="010001010" rhyme="2" line_length="9">a opálové bylo nebe.</l>
+     <l n="3" met="01010001" rhyme="1" line_length="8">Já nespal, blažen byl a tich,</l>
+     <l n="4" met="01010010" rhyme="2" line_length="8">v svém srdci tebe, jen tebe!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010100101" rhyme="3" line_length="9">Ti ptáci v haluzích jeden ples,</l>
+     <l n="6" met="11010010" rhyme="4" line_length="8">vzduch plný něhy a vláhy,</l>
+     <l n="7" met="1000101100" rhyme="3" line_length="10">za blednoucí hvězdou zrak bloudil kdes...</l>
+     <l n="8" met="010010110" rhyme="4" line_length="9">Již uzřím tě záhy, ó záhy!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

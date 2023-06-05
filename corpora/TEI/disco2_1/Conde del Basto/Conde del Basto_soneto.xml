@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Conde del Basto</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Conde del Basto_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Conde del Basto</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Herida vais del Serafín, TERESA,</l>
+     <l n="2" met="-+-+-+-+-+-">corred al agua cierva blanca y parda,</l>
+     <l n="3" met="--+--+-+-+-">mas la fuente de vida, que os aguarda,</l>
+     <l n="4" met="-+++---+++-">también es fuego, y de abrasar no cesa.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">¿Cómo subís por la montaña espesa</l>
+     <l n="6" met="-+---+-+-+-">del rígido Carmelo tan gallarda,</l>
+     <l n="7" met="---+-++--+-">que con descalzos pies no os acobarda</l>
+     <l n="8" met="-+-+---+-+-">del alto fin la inaccesible empresa?</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+-+++-">Serafín cazador el dardo os tira,</l>
+     <l n="10" met="--++-+---+-">para que os deje estática la punta,</l>
+     <l n="11" met="--+-++---+-">y las plumas se os queden en la palma.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+-+-+-">Con razón vuestra ciencia el mundo admira,</l>
+     <l n="13" met="--+--+-+++-">si el seráfico fuego a Dios os junta,</l>
+     <l n="14" met="-+-+-+-+-+-">y cuanto veis en él traslada el alma.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

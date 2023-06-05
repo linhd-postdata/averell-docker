@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El barbián</title>
+    <author>Juan del Pueblo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan del Pueblo_el-barbian</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El barbián</title>
+     <author>Juan del Pueblo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El barbián</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+--+-+-+-">Ladeado el bonete, así... a lo pillo,</l>
+     <l n="2" met="---+---+-+-">y con su eterna sonrisita irónica,</l>
+     <l n="3" met="+++--++--+-">más le gusta que hablar de una Verónica,</l>
+     <l n="4" met="-++--+-+-+-">echar una verónica a un novillo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">Escupe sin cesar por el colmillo</l>
+     <l n="6" met="-+-+---+-+-">y guarda mal la castidad canónica,</l>
+     <l n="7" met="-------+-+-">porque, según la escandalosa crónica,</l>
+     <l n="8" met="--+--+-+-+-">Lovelace a su lado fue un chiquillo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-++++--+-">Lo mismo juega un duro a una judía,</l>
+     <l n="10" met="-++--+--++-">que coge una cristiana, porque es listo,</l>
+     <l n="11" met="+-+--++--+-">o una turca, que nunca es de Turquía;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">pues la sangre de Cristo, por lo visto,</l>
+     <l n="13" met="+-++-+---+-">tanto le gusta ya, que mataría</l>
+     <l n="14" met="+--++----+-">de una sangría suelta a Jesucristo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

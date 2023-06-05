@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dva hlasy.</title>
+    <author>Hlaváček, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hlaváček, Karel_dva-hlasy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dva hlasy.</title>
+     <author>Hlaváček, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dva hlasy.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010001000" rhyme="1" line_length="13">Dnes dvorce ani po klekání nezavřeli –</l>
+     <l n="2" met="110101000100" rhyme="2" line_length="12">dva smutné dvorce na samotách propadlých –</l>
+     <l n="3" met="1100010100010" rhyme="1" line_length="13">dva hlasy se tam o cos hádali a přeli,</l>
+     <l n="4" met="10010100100100" rhyme="2" line_length="14">při rudých stínech pochodní za vodou vzdálených.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101000101010" rhyme="3" line_length="13">Byl prvý hluboký a stále chtěl své: ano,</l>
+     <l n="6" met="010100010100" rhyme="4" line_length="12">a druhý bázlivý a stále chtěl své: ne,</l>
+     <l n="7" met="0101000101010" rhyme="3" line_length="13">až zmlkli najednou, když blízko bylo ráno,</l>
+     <l n="8" met="01010100100100" rhyme="4" line_length="14">a měsíc vyšel na chvilku nad vody vzdálené.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101010001000" rhyme="1" line_length="13">Dnes dvorce ani po klekání nezavřeli –</l>
+     <l n="10" met="110101000100" rhyme="2" line_length="12">dva smutné dvorce na samotách propadlých...</l>
+     <l n="11" met="1100010101010" rhyme="1" line_length="13">Dva hlasy se v nich dlouho mezi sebou přeli,</l>
+     <l n="12" met="010101000100" rhyme="2" line_length="12">až hlas, jenž prosil, zaúpěl a náhle stich,</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="010101010001" rhyme="2" line_length="12">a hlas, jenž chtěl své: ano: z hluboka si vzdych.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

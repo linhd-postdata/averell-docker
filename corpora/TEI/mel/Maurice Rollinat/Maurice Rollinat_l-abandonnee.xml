@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L'Abandonnée</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_l-abandonnee</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L'Abandonnée</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L'Abandonnée</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4">Et se perd sous les nénufars blancs.</l>
+    </lg>
+    <lg n="2">
+     <l n="2" rhyme="a" line_length="4">Pour mon cœur c'est ton amour encor.</l>
+    </lg>
+    <lg n="3">
+     <l n="3" rhyme="a" line_length="5">Revenant aux appels de mes yeux.</l>
+    </lg>
+    <lg n="4">
+     <l n="4" rhyme="a" line_length="5">Tu mourras en même temps que moi. »</l>
+    </lg>
+    <lg n="5">
+     <l n="5" rhyme="a" line_length="5">Devant le gouffre qui la réclame,</l>
+     <l n="6" rhyme="a" line_length="8">Que, sans lui, son corps n'avait plus d'âme !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

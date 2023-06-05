@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dedicatoria</title>
+    <author>Marcelino Menéndez Pelayo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Marcelino Menéndez Pelayo_dedicatoria</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dedicatoria</title>
+     <author>Marcelino Menéndez Pelayo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dedicatoria</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Recibe de mis versos el presente</l>
+     <l n="2" met="-----+---+-">debido a tu belleza soberana,</l>
+     <l n="3" met="--+--+-+-+-">en tus aras tal vez ofrenda vana,</l>
+     <l n="4" met="-+-+---+-+-">tal vez recuerdo de mi amor ardiente.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++-+---+-+-">Yo vi, señora, tu beldad riente</l>
+     <l n="6" met="---+-+---+-">en la sonante playa layetana,</l>
+     <l n="7" met="--+--+---+-">donde eleva Favencia la romana</l>
+     <l n="8" met="---+---+-+-">hacia las nubes su murada frente.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++++---+++-">Te vi, te amé, mi corazón fue preso</l>
+     <l n="10" met="---+---+-+-">entre los rayos de tus claros ojos,</l>
+     <l n="11" met="---+---+-+-">entre las nubes de tu crencha hermosa.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">¡Feliz quien pueda, de tus labios rojos,</l>
+     <l n="13" met="+--+---+++-">ebrio de amor, arrebatar un beso,</l>
+     <l n="14" met="-+---+-+-+-">y venga sobre mí la muerte odiosa!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

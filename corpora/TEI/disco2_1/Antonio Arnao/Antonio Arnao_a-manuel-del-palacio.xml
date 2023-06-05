@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Manuel del Palacio</title>
+    <author>Antonio Arnao</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Antonio Arnao_a-manuel-del-palacio</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Manuel del Palacio</title>
+     <author>Antonio Arnao</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Manuel del Palacio</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---++--+-">Manuel del corazón: hoy diecinueve</l>
+     <l n="2" met="--+--+-+++-">tu soneto recibo -te lo juro-</l>
+     <l n="3" met="---+++---+-">y, a la verdad, me pones en apuro,</l>
+     <l n="4" met="---+---+++-">porque mi musa contestarte debe.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+-+-+-">Te diré, por lo tanto, siendo breve,</l>
+     <l n="6" met="---+-+-+-+-">que con el Paje me pareces duro,</l>
+     <l n="7" met="-+-+---+-+-">pues es humilde y vergonzoso y puro</l>
+     <l n="8" met="-+-+---+-+-">y nada malo a cometer se atreve.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">Si ves brillar sin sombras el reflejo</l>
+     <l n="10" met="---+-+---+-">de su virtud y raras perfecciones,</l>
+     <l n="11" met="-+++--++-+-">¿por qué le ofendes con tan mal consejo?</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+---+-">¿En qué fundas tus locas prevenciones?...</l>
+     <l n="13" met="+-+--+---+-">¡Es que envidias acaso, como viejo,</l>
+     <l n="14" met="--+--+-+-+-">la fortuna de amor que le supones!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

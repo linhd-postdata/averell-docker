@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El cofrade</title>
+    <author>Heliodoro María Jalón</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heliodoro María Jalón_el-cofrade</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El cofrade</title>
+     <author>Heliodoro María Jalón</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El cofrade</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+-+-+-">De la gente de Iglesia busca el trato</l>
+     <l n="2" met="--+--+-+-+-">y profunda adhesión demuestra al clero,</l>
+     <l n="3" met="---+-+---+-">hasta que al fin, hipócrita y artero,</l>
+     <l n="4" met="--+--++--+-">la cuchara meter logra en su plato.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">De una hermandad entonces el beato</l>
+     <l n="6" met="-+---+---+-">llegando a contador o tesorero</l>
+     <l n="7" met="-+---+---+-">maneja de los fieles el dinero</l>
+     <l n="8" met="-+-+-+---+-">y triunfa, gasta y vive con boato.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+---+-+-">Mas su misión con entusiasmo llena</l>
+     <l n="10" met="--+--+++-+-">y su santo fervor no tiene oculto;</l>
+     <l n="11" met="-+---+---+-">que en misa, en el rosario, en la novena,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+-+-+-">en toda procesión haciendo bulto</l>
+     <l n="13" met="---+---+-+-">y usufructuando la piedad ajena,</l>
+     <l n="14" met="-++--+---+-">se mira a ese parásito del culto.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

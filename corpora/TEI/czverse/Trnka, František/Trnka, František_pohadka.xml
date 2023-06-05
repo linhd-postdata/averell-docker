@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pohádka.</title>
+    <author>Trnka, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Trnka, František_pohadka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pohádka.</title>
+     <author>Trnka, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pohádka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" rhyme="1" line_length="8">Z pěti písmen utvořeno</l>
+     <l n="2" met="0010" rhyme="1" line_length="4">Jest mé jméno:</l>
+     <l n="3" met="101010" rhyme="2" line_length="6">První tři když vyřknu,</l>
+     <l n="4" met="1010100" rhyme="3" line_length="7">Zočím obraz žalosti;</l>
+     <l n="5" met="10010010" rhyme="2" line_length="8">Posledních dvou když se dotknu,</l>
+     <l n="6" met="100010000" rhyme="3" line_length="9">Přichází mně k povědomosti</l>
+     <l n="7" met="1010100" rhyme="4" line_length="7">Štěbet ptactva známého;</l>
+     <l n="8" met="10101010100" rhyme="4" line_length="11">A to vesměs význam jména celého.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

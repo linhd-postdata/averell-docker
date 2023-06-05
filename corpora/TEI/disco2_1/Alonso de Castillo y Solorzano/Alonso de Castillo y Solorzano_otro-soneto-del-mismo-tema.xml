@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Otro soneto del mismo tema</title>
+    <author>Alonso de Castillo y Solorzano</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alonso de Castillo y Solorzano_otro-soneto-del-mismo-tema</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Otro soneto del mismo tema</title>
+     <author>Alonso de Castillo y Solorzano</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Otro soneto del mismo tema</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+-+-+-">O tú que en cuanto al Sol con luces gira</l>
+     <l n="2" met="--+--+---+-">admirable por único portento,</l>
+     <l n="3" met="--+--+---+-">deleitando lo grande de su acento,</l>
+     <l n="4" met="---+-+---+-">que acompañó lo dulce de su lira.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-----+-+-+-">Pues que con suspensión tu fama admira</l>
+     <l n="6" met="---+---+-+-">exagerando por el vago viento</l>
+     <l n="7" met="-+---+---+-">al Orbe tu divino entendimiento</l>
+     <l n="8" met="+--+-+-+-+-">yace inmortal en esa helada pira.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+-+-+-">Mantua (o gran Montalbán) se vista lutos,</l>
+     <l n="10" met="+--+-+---+-">que oye trocar sus cantos en clamores</l>
+     <l n="11" met="---+---+-+-">a Manzanares, y sus Ninfas bellas.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--++-+---+-">De tu ingenio han perdido sus tributos,</l>
+     <l n="13" met="---+-++--+-">pero si en vida fue cielo de flores,</l>
+     <l n="14" met="-+-+-+-+-+-">en muerte viene a ser jardín de estrellas.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

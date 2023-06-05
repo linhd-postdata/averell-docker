@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dobrá rada.</title>
+    <author>Vinařický, Karel Alois</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vinařický, Karel Alois_dobra-rada</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dobrá rada.</title>
+     <author>Vinařický, Karel Alois</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dobrá rada.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00100010" rhyme="1" line_length="8">Než co učiníš, tu dobu</l>
+     <l n="2" met="10100" rhyme="2" line_length="5">Ptej se sebe sám:</l>
+     <l n="3" met="100100" rhyme="1" line_length="6">„Zdali tím nikomu</l>
+     <l n="4" met="1001000" rhyme="2" line_length="7">Žalosti neudělám?“</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100101010" rhyme="3" line_length="9">Nevíš-li někdy, co se sluší,</l>
+     <l n="6" met="1001001010" rhyme="4" line_length="10">Rodičů ptej se, neb dobrých lidí:</l>
+     <l n="7" met="100101010" rhyme="3" line_length="9">Poslechni, hříchem nermuť duši,</l>
+     <l n="8" met="10010010" rhyme="4" line_length="8">Svévolný pozdě se stydí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1000101010" rhyme="5" line_length="10">Lépe jest, by tebe měli rádi</l>
+     <l n="10" met="10101000" rhyme="5" line_length="8">Tvoji dobří kamarádi,</l>
+     <l n="11" met="01001010" rhyme="6" line_length="8">A vesele s tebou hráli,</l>
+     <l n="12" met="01001010" rhyme="6" line_length="8">Než aby se tebe báli.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

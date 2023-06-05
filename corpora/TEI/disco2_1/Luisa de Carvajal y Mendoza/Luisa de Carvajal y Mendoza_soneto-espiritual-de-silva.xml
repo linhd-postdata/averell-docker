@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto espiritual de Silva</title>
+    <author>Luisa de Carvajal y Mendoza</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Luisa de Carvajal y Mendoza_soneto-espiritual-de-silva</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto espiritual de Silva</title>
+     <author>Luisa de Carvajal y Mendoza</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto espiritual de Silva</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+---+-">En el siniestro brazo recostada</l>
+     <l n="2" met="--+--++--+-">de su amado Pastor, Silvia dormía,</l>
+     <l n="3" met="---+-+-+-+-">y con la diestra mano la tenía</l>
+     <l n="4" met="-+-+-+-+-+-">con un estrecho abrazo a sí allegada.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--++-+---+-">Y de aquel dulce sueño recordada,</l>
+     <l n="6" met="++---+-+-+-">le dijo: «El corazón del alma mía</l>
+     <l n="7" met="+-++-+---+-">vela, y yo duermo; ¡ay, suma alegría,</l>
+     <l n="8" met="+++--++--+-">cuál me tiene tu amor tan traspasada!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-----+---+-">Ninfas del Paraíso soberanas,</l>
+     <l n="10" met="-+-++--+-+-">sabed que estoy enferma y muy herida</l>
+     <l n="11" met="+----+---+-">de unos abrasadísimos amores.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+---+-">Cercadme de odoríferas manzanas,</l>
+     <l n="13" met="-++--+---+-">pues me veis como fénix encendida;</l>
+     <l n="14" met="--++-+-+-+-">y cercadme también de amenas flores.»</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

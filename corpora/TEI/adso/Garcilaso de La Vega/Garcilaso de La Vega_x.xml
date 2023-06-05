@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>-X-</title>
+    <author>Garcilaso de La Vega</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Garcilaso de La Vega_x</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>-X-</title>
+     <author>Garcilaso de La Vega</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>-X-</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">¡Oh dulces prendas por mi mal halladas,</l>
+     <l n="2" met="+--+---+-+-">dulces y alegres, cuando Dios quería!</l>
+     <l n="3" met="+--+---+-+-">Juntas estáis en la memoria mía,</l>
+     <l n="4" met="--+--+---+-">y con ella en mi muerte conjuradas.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-----+-">¿Quién me dijera, cuando en las pasadas</l>
+     <l n="6" met="+--+-+-+-+-">horas en tanto bien por vos me vía,</l>
+     <l n="7" met="--+--+--++-">que me habiades de ser en algún día</l>
+     <l n="8" met="--+--+---+-">con tan grave dolor representadas?</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--++-+---+-">Pues en un hora junto me llevastes</l>
+     <l n="10" met="+-+--+---+-">todo el bien que por términos me distes,</l>
+     <l n="11" met="-+-+-+---+-">llevadme junto el mal que me dejastes.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">Si no, sospecharé que me pusistes</l>
+     <l n="13" met="-+-+-----+-">en tantos bienes, porque deseastes</l>
+     <l n="14" met="+--+---+-+-">verme morir entre memorias tristes.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

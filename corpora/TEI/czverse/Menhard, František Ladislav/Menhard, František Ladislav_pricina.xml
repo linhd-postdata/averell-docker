@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Příčina.</title>
+    <author>Menhard, František Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Menhard, František Ladislav_pricina</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Příčina.</title>
+     <author>Menhard, František Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Příčina.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101000" line_length="9">Proč jenom hrabě Wetterhahn</l>
+     <l n="2" met="01000100010" rhyme="1" line_length="11">sám na vysokém kozlíku vždy sedí?</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="01010101" line_length="8">To nevíš? Pyšný tento pán</l>
+     <l n="4" met="10010100110" rhyme="1" line_length="11">na lidi jiné „s vysoka“ rád hledí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

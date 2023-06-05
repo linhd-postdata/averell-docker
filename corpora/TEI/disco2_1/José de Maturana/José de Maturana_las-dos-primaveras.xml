@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Las dos primaveras</title>
+    <author>José de Maturana</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José de Maturana_las-dos-primaveras</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Las dos primaveras</title>
+     <author>José de Maturana</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Las dos primaveras</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+--+---+-">Rubia y gallarda viene, mostrando en su carruaje</l>
+     <l n="2" met="-+-+-+--+---+-">la luz de mil colores y el sol de sus jazmines,</l>
+     <l n="3" met="-+-+-+--+---+-">como una blanca Venus de rústicos jardines</l>
+     <l n="4" met="---+-+-++---+-">a quien las flores todas le rinden vasallaje.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+--+-+-+-">La mansa maravilla del campo está en su traje,</l>
+     <l n="6" met="---+-+--+---+-">y en su cantar de aurora la voz de los violines...</l>
+     <l n="7" met="+--+-+-+-+-">Tiene los hombros griegos. España va en sus crines,</l>
+     <l n="8" met="-+---+--+---+-">Italia en sus pupilas y el mundo en su homenaje.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+--+---+-">Tú eres así. Por eso mi potro de conquista</l>
+     <l n="10" met="+----+----+-+-">llega a la escalinata del pastoral palacio</l>
+     <l n="11" met="---+-+----+-+-">con la tristeza errante de mi dolor de artista.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-----+----+++-">Y tras la primavera que tu placer me arroja,</l>
+     <l n="13" met="---+-+-++---+-">con la altivez de siempre, te ofrezco su topacio</l>
+     <l n="14" met="-+---+----+-+-">como una mordedura de mi serpiente roja.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

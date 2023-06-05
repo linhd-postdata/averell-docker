@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MAECENAS ATAVIS EDITE REGIBUS!</title>
+    <author>Zavřel, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Zavřel, František_maecenas-atavis-edite-regibus</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MAECENAS ATAVIS EDITE REGIBUS!</title>
+     <author>Zavřel, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MAECENAS ATAVIS EDITE REGIBUS!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10" rhyme="1" line_length="2">Naši</l>
+     <l n="2" met="101000" rhyme="1" line_length="6">p. t. mecenáši</l>
+     <l n="3" met="10010101010" rhyme="2" line_length="11">hrnou se shora, zdola, zpředu, zadem,</l>
+     <l n="4" met="10101000" rhyme="2" line_length="8">život stal se eldoradem.</l>
+     <l n="5" met="101010010" rhyme="2" line_length="9">Nejspíš asi zemřete hladem.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

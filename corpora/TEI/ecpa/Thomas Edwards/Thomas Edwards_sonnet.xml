@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SONNET.</title>
+    <author>Thomas Edwards</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Thomas Edwards_sonnet</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Eighteenth Century Poetry Archive</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SONNET.</title>
+     <author>Thomas Edwards</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SONNET.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="pentameter">
+     <l n="1" met="-+|-+|-+|-+|-+" line_length="10">MY gracious God, whose kind conducting hand</l>
+     <l n="2" met="-+|-+|-+|-+|-+" line_length="10">Has steer'd me thro' this Life's tumultuous sea,</l>
+     <l n="3" met="-+|-+|-+|-+|-+" line_length="10">From many a rock, and many a tempest free,</l>
+     <l n="4" met="-+|-+|-+|-+|-+" line_length="10">Which prudence could not shun, nor strength withstand,</l>
+    </lg>
+    <lg n="2" stanza_type="pentameter">
+     <l n="5" met="-+|-+|-+|-+|-+" line_length="10">And brought at length almost in sight of land,</l>
+     <l n="6" met="-+|-+|-+|-+|-+" line_length="10">That quiet haven where I long to be,</l>
+     <l n="7" met="-+|-+|-+|-+|-+" line_length="10">Only the streights of Death betwixt, which we</l>
+     <l n="8" met="-+|-+|-+|-+|-+" line_length="10">Are doom'd to pass, e'er reach the heavenly strand;</l>
+    </lg>
+    <lg n="3" stanza_type="pentameter">
+     <l n="9" met="-+|-+|-+|-+|-+" line_length="10">Be this short passage boisterous, rough, and rude,</l>
+     <l n="10" met="-+|-+|-+|-+|-+" line_length="10">Or smooth, and calm — Father, thy Will be done —</l>
+     <l n="11" met="-+|-+|-+|-+|-+" line_length="10">Support me only in the troublous stour;</l>
+     <l n="12" met="-+|-+|-+|-+|-+" line_length="10">My sins all pardon'd thro' my Saviour's blood,</l>
+     <l n="13" met="-+|-+|-+|-+|-+" line_length="10">Let Faith, and Hope, and Patience still hold on</l>
+     <l n="14" met="-+|-+|-+|-+|-+" line_length="10">Unshaken, and Joy crown my latest hour!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

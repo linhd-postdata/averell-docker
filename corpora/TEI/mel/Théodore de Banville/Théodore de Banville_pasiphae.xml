@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pasiphaé</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_pasiphae</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pasiphaé</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pasiphaé</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Ainsi Pasiphaé, la fille du Soleil,</l>
+     <l n="2" rhyme="b" line_length="6+6">Cachant dans sa poitrine une fureur secrète,</l>
+     <l n="3" rhyme="b" line_length="6+6">Poursuivait à grands cris parmi les monts de Crète</l>
+     <l n="4" rhyme="a" line_length="6+6">Un taureau monstrueux au poil roux et vermeil,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Puis, sur un roc géant au Caucase pareil,</l>
+     <l n="6" rhyme="b" line_length="6+6">Lasse de le chercher de retraite en retraite,</l>
+     <l n="7" rhyme="b" line_length="6+6">Le trouvait endormi sur quelque noire crête,</l>
+     <l n="8" rhyme="a" line_length="6+6">Et, les seins palpitants, contemplait son sommeil ;</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Ainsi notre âme en feu, qui sous le désir saigne,</l>
+     <l n="10" rhyme="c" line_length="6+6">Dans son vol haletant de vertige, dédaigne</l>
+     <l n="11" rhyme="d" line_length="6+6">Les abris verdoyants, les fleuves de cristal,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Et, fuyant du vrai beau la source savoureuse,</l>
+     <l n="13" rhyme="d" line_length="6+6">Poursuit dans les déserts du sauvage Idéal</l>
+     <l n="14" rhyme="e" line_length="6+6">Quelque monstre effrayant dont elle est amoureuse.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

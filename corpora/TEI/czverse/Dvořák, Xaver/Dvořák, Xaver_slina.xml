@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SLINA</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_slina</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SLINA</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SLINA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Svatá slina, která hojí,</l>
+     <l n="2" met="1000101" rhyme="2" line_length="7">otevírá sluch i ret;</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">zlatým klíčem duši mojí</l>
+     <l n="4" met="1000101" rhyme="2" line_length="7">odemyká dvojí svět!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="3" line_length="8">Rajské hudbě tvého slova,</l>
+     <l n="6" met="1010000" rhyme="4" line_length="7">tvého evangelia,</l>
+     <l n="7" met="10101010" rhyme="3" line_length="8">které naděj pro ni chová,</l>
+     <l n="8" met="0010100" rhyme="4" line_length="7">že tě jednou uzřím já!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" rhyme="5" line_length="8">Sladké řeči, bych tě chválil,</l>
+     <l n="10" met="1010000" rhyme="6" line_length="7">Pane, velebit tě moh’;</l>
+     <l n="11" met="10001010" rhyme="5" line_length="8">kdybych pak se tebe vzdálil,</l>
+     <l n="12" met="1010100" rhyme="6" line_length="7">na tvé lásce milost zmoh’!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101000" rhyme="7" line_length="8">A tou slinou dotýkáni,</l>
+     <l n="14" met="1000101" rhyme="8" line_length="7">vkročili jsme do tvých cest,</l>
+     <l n="15" met="10100000" rhyme="7" line_length="8">navždy stigmatisováni,</l>
+     <l n="16" met="0010001" rhyme="8" line_length="7">jak nás znamenal tvůj křest!</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10101010" rhyme="9" line_length="8">Svatá slino, nad vše dražší,</l>
+     <l n="18" met="1000101" rhyme="10" line_length="7">otvírajíc sluch i ret,</l>
+     <l n="19" met="10101010" rhyme="9" line_length="8">zlatým klíčem duši naší</l>
+     <l n="20" met="1000101" rhyme="10" line_length="7">odemkla jsi věčný svět!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

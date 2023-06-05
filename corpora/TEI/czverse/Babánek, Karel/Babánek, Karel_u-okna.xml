@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>U OKNA.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_u-okna</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>U OKNA.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>U OKNA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" line_length="8">Vstala a okno otvírá,</l>
+     <l n="2" met="100010010" line_length="9">do nového, svěžího rána –</l>
+     <l n="3" met="10010100" line_length="8">lásce a touhám srdce všech</l>
+     <l n="4" met="0101000" line_length="7">jsou z jara zotvírána.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010101" line_length="8">Ranní jí vánek čechrá vlas,</l>
+     <l n="6" met="010010010" rhyme="1" line_length="9">a v zardělé líbá ji tváře,</l>
+     <l n="7" met="10110100" line_length="8">plno, hle, venku všude dnes</l>
+     <l n="8" met="010010010" rhyme="1" line_length="9">i v srdci je zlatisté záře.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010100" line_length="8">K nebi až s písní skřivánčí</l>
+     <l n="10" met="10010010" rhyme="2" line_length="8">nad pole vznést by se chtěla,</l>
+     <l n="11" met="10010100" line_length="8">lehko tak, lehko člověku,</l>
+     <l n="12" met="010010010" rhyme="2" line_length="9">že tíhy teď necítí těla.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

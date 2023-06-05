@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ADAGIO V JESENI.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_adagio-v-jeseni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ADAGIO V JESENI.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ADAGIO V JESENI.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">S listím svadlým tiše dolů,</l>
+     <l n="2" met="1000100" rhyme="2" line_length="7">s posledního motýla</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">mdlým juž letem z duše v bolu</l>
+     <l n="4" met="1010100" rhyme="2" line_length="7">skaň má písni unylá!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="3" line_length="8">Jako listí lehá k zemi,</l>
+     <l n="6" met="1010101" rhyme="4" line_length="7">motýl mizí beze stop,</l>
+     <l n="7" met="10101110" rhyme="3" line_length="8">tiše v mlhu splyň, v kraj němý...</l>
+     <l n="8" met="1000101" rhyme="4" line_length="7">zapadni tam v jeden hrob!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

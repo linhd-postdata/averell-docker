@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Alonso Cabello</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alonso Cabello_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Alonso Cabello</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Memoria viva de la causa muerta</l>
+     <l n="2" met="-+---+-+-+-">que engendra mi dolor, tristeza y llanto,</l>
+     <l n="3" met="+-++---+-+-">déjame un rato descansar, en tanto</l>
+     <l n="4" met="--+--+---+-">que mi errado sentido se concierta.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+-+-+-">En la de aquesta peña falda yerta</l>
+     <l n="6" met="-+-+---+-+-">alguna parte pagaré de cuanto</l>
+     <l n="7" met="+--+-+---+-">ha defraudado el sueño, si tu espanto</l>
+     <l n="8" met="---+-+++-+-">como acostumbra, aquí no me despierta.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--++-+-+-+-">Y pues cual loco estoy, podrás dejarme</l>
+     <l n="10" met="-+-+---+++-">tomar alivio, descansar un poco,</l>
+     <l n="11" met="-++--+---+-">si no quieres que muera en mi tristeza.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">Mas acaba, memoria, de matarme,</l>
+     <l n="13" met="--+--+---+-">que mayor argumento de firmeza</l>
+     <l n="14" met="+-+--+--++-">es morir de dolor que vivir loco.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

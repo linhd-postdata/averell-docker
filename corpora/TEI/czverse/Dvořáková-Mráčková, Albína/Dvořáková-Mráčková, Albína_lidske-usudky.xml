@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Lidské úsudky.</title>
+    <author>Dvořáková-Mráčková, Albína</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořáková-Mráčková, Albína_lidske-usudky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Lidské úsudky.</title>
+     <author>Dvořáková-Mráčková, Albína</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Lidské úsudky.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" line_length="8">V úsudků lidských zrcadle</l>
+     <l n="2" met="10010001" rhyme="1" line_length="8">těžko mi obraz můj je zřít,</l>
+     <l n="3" met="10010100" line_length="8">neboť mne jedni zbožňují –</l>
+     <l n="4" met="10101100" rhyme="1" line_length="8">druzí hanou chtí rozdrtit.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010010" line_length="8">Proto mi střežit se, bych snad</l>
+     <l n="6" met="10010100" rhyme="2" line_length="8">nezhrdla vlastní zálibou,</l>
+     <l n="7" met="01010100" line_length="8">neb sama hrůzou zděšena</l>
+     <l n="8" met="01000100" rhyme="2" line_length="8">bych nezoufala nad sebou.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

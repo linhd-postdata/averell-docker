@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Píseň v písni.</title>
+    <author>Šmilovský, Alois Vojtěch</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Šmilovský, Alois Vojtěch_pisen-v-pisni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Píseň v písni.</title>
+     <author>Šmilovský, Alois Vojtěch</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Píseň v písni.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101000" line_length="7">Když Morfej ukolébá</l>
+     <l n="2" met="1101010" rhyme="1" line_length="7">svět v mír a slastná snění,</l>
+     <l n="3" met="0101010" line_length="7">tu vstoupí k pěvci Musa</l>
+     <l n="4" met="0101000" rhyme="1" line_length="7">a zve jej ku básnění;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1101010" line_length="7">dá v ruce zlatou lyru</l>
+     <l n="6" met="0101010" rhyme="2" line_length="7">a modrým kyne okem:</l>
+     <l n="7" met="1001010" line_length="7">a již se píseň hrne</l>
+     <l n="8" met="1001010" rhyme="2" line_length="7">ze srdce mocným tokem!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1000100" line_length="7">O písni! tys památka</l>
+     <l n="10" met="1001010" rhyme="3" line_length="7">po lidstva Vesně zlaté,</l>
+     <l n="11" met="0101010" line_length="7">kdy člověk ještě v srdci</l>
+     <l n="12" met="1101010" rhyme="3" line_length="7">čil bohův dechy svaté;</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="0100010" line_length="7">kdy ve svobodě sladké</l>
+     <l n="14" met="1101010" rhyme="4" line_length="7">plul v hladkém časův toku</l>
+     <l n="15" met="0100110" line_length="7">a neznal, co bol v srdci</l>
+     <l n="16" met="0101010" rhyme="4" line_length="7">a slza viny v oku...</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="1001010" line_length="7">O písni! když tě zpívám,</l>
+     <l n="18" met="0101010" rhyme="5" line_length="7">tak má se duše cítí,</l>
+     <l n="19" met="0101010" line_length="7">jak šťastný první člověk,</l>
+     <l n="20" met="0101010" rhyme="5" line_length="7">kdy v ráji počal žíti.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

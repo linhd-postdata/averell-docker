@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Chlapec.</title>
+    <author>Trnka, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Trnka, František_chlapec</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Chlapec.</title>
+     <author>Trnka, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Chlapec.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="000100" rhyme="1" line_length="6">Jak jsem byl maličký</l>
+     <l n="2" met="100100" rhyme="2" line_length="6">Jako ta růžička,</l>
+     <l n="3" met="100100" rhyme="2" line_length="6">Říkala matička</l>
+     <l n="4" met="100100" rhyme="1" line_length="6">Moje: Tys sprostičký,</l>
+     <l n="5" met="100100" rhyme="2" line_length="6">Nevinná hrdlička!</l>
+     <l n="6" met="010100" rhyme="1" line_length="6">Teď nejsem maličký;</l>
+     <l n="7" met="010100" rhyme="3" line_length="6">Tak všecko utíká! –</l>
+     <l n="8" met="010100" rhyme="1" line_length="6">A nemám matičky,</l>
+     <l n="9" met="010100" rhyme="3" line_length="6">Mně více neříká:</l>
+     <l n="10" met="100100" rhyme="1" line_length="6">O, jak jsi sprostičký!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Slavové.</title>
+    <author>Kollár, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kollár, Jan_slavove</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Slavové.</title>
+     <author>Kollár, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Slavové.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010101010" rhyme="1" line_length="12">„Každý národ snažně k chrámu slávy běží,</l>
+     <l n="2" met="001010100010" rhyme="1" line_length="12">Jen sám Slovan ještě zahálčivě leží.</l>
+     <l n="3" met="101010100010" rhyme="2" line_length="12">Takto téměř každý Lidomil nám laje –</l>
+     <l n="4" met="101010101000" rhyme="2" line_length="12">Ale načže líti vodu do Dunaje?</l>
+     <l n="5" met="001010101010" rhyme="3" line_length="12">Jen vy spite, bratři! nač vám věnec nové</l>
+     <l n="6" met="101010101010" rhyme="3" line_length="12">Slávy, však už Slaven ode slávy slove.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

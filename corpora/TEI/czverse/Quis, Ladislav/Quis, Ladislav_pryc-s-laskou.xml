@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pryč s láskou!</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_pryc-s-laskou</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pryč s láskou!</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pryč s láskou!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100010" rhyme="1" line_length="11">Pryč s láskou, pryč! nám nenávisti třeba,</l>
+     <l n="2" met="0101010100" rhyme="2" line_length="10">my nechcem býti lidem holubů,</l>
+     <l n="3" met="0101010100" rhyme="2" line_length="10">nám cizí vrah se hnízdí ve srubu,</l>
+     <l n="4" met="01000101010" rhyme="1" line_length="11">on tyje z nás a naše krev co střebá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100010" rhyme="3" line_length="11">My hořký kalich museli jsme píti,</l>
+     <l n="6" met="0101010100" rhyme="4" line_length="10">to naším pláčem vrahů se žlučí,</l>
+     <l n="7" met="1001010100" rhyme="4" line_length="10">ó kéž ten nápoj lásku umučí</l>
+     <l n="8" met="01010100010" rhyme="3" line_length="11">a v prsou žáry nenávisti vznítí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

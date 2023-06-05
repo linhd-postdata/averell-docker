@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>O českém lvu.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_o-ceskem-lvu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>O českém lvu.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>O českém lvu.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101010" rhyme="1" line_length="10">Češi – ač jest chudák nyní běden –</l>
+     <l n="2" met="10101" rhyme="2" line_length="5">v znaku mají lva,</l>
+     <l n="3" met="01101010" rhyme="1" line_length="8">on má jazyk jenom jeden,</l>
+     <l n="4" met="10001" rhyme="2" line_length="5">ohony však dva.</l>
+     <l n="5" met="001010101" rhyme="3" line_length="9">Proč jen jazyk jeden, dvojí chvost? –</l>
+     <l n="6" met="101010000" rhyme="3" line_length="9">Jazyk, že jest jednoho mu dost;</l>
+     <l n="7" met="1001100010" rhyme="4" line_length="10">ohony dva – neškodil by třetí –</l>
+     <l n="8" met="0010101000" rhyme="4" line_length="10">by se jimi stačil oháněti.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

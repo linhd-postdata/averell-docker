@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hudba.</title>
+    <author>Krásnohorská, Eliška</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Krásnohorská, Eliška_hudba</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hudba.</title>
+     <author>Krásnohorská, Eliška</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hudba.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0010101010" rhyme="1" line_length="10">Proč ti hudba sladkosť v duši lije?</l>
+     <l n="2" met="1010001000" rhyme="1" line_length="10">trojzvuk základem jest harmonie:</l>
+     <l n="3" met="100010100" rhyme="2" line_length="9">nadšení se zove tonika,</l>
+     <l n="4" met="001000100" rhyme="2" line_length="9">jež co podstata vždy vyniká;</l>
+     <l n="5" met="1010001000" rhyme="3" line_length="10">krása lahodnou jest mediantou,</l>
+     <l n="6" met="1010101000" rhyme="3" line_length="10">láska věčnou bude dominantou.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

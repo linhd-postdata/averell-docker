@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>AMOUR</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_amour</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>AMOUR</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>AMOUR</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Mirage de la mer sous la lune, ô l’Amour !</l>
+     <l n="2" rhyme="b" line_length="6+6">Toi qui déçois, toi qui parais pour disparaître</l>
+     <l n="3" rhyme="b" line_length="6−6">Et pour mentir et pour mourir et pour renaître,</l>
+     <l n="4" rhyme="a" line_length="6+6">Toi qui crains le regard juste et sage du jour !</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Toi qu’on nourrit de songe et de mélancolie,</l>
+     <l n="6" rhyme="b" line_length="6+6">Inexplicable autant que le souffle du vent</l>
+     <l n="7" rhyme="b" line_length="6+6">Et toujours inégal, injuste trop souvent,</l>
+     <l n="8" rhyme="a" line_length="6+6">Je te crains à l’égal de ta sœur la folie !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Je te crains, je te hais et pourtant tu m’attires</l>
+     <l n="10" rhyme="b" line_length="6+6">Puisque aussi le fatal est proche du divin.</l>
+     <l n="11" rhyme="b" line_length="6+6">Voici qu’il m’est donné de te connaître enfin,</l>
+     <l n="12" rhyme="a" line_length="6+6">Et je mourrais pour l’un de tes moindres sourires !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

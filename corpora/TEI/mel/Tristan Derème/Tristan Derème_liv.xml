@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LIV</title>
+    <author>Tristan Derème</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tristan Derème_liv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LIV</title>
+     <author>Tristan Derème</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LIV</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Délaissons, s'il te plaît, Baruch de Spinoza,</l>
+     <l n="2" rhyme="a" line_length="6+6">Ses termes épineux (et verba spinosa)</l>
+     <l n="3" rhyme="b" line_length="6+6">Et partons vers les pins où l'air tiède murmure.</l>
+     <l n="4" rhyme="b" line_length="6+6">(Qu'il serait laid d'écrire ici le mot ramure</l>
+     <l n="5" rhyme="a" line_length="6+6">Pour la rime !) Je viens. Ne gronde pas. Je viens.</l>
+     <l n="6" rhyme="a" line_length="6+6">Et j'abandonne aussi les vers virgiliens,</l>
+     <l n="7" rhyme="b" line_length="6+6">Les calmes vers de qui ta tendresse est jalouse,</l>
+     <l n="8" rhyme="b" line_length="6+6">Que traduisit Clément Marot (1512quinze cent douze).</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

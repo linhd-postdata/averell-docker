@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>DOMOV (IV)</title>
+    <author>Benešová, Božena</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Benešová, Božena_domov-iv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>DOMOV (IV)</title>
+     <author>Benešová, Božena</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>DOMOV (IV)</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101000100" rhyme="1" line_length="10">Zas kvetou jabloně, zas jaro tu,</l>
+     <l n="2" met="0101010100" rhyme="2" line_length="10">a touha má se bouřně rozlétá...</l>
+     <l n="3" met="1001010100" rhyme="1" line_length="10">Ó výš a výše nad tu samotu!</l>
+     <l n="4" met="1001010100" rhyme="2" line_length="10">Ó dál a dále volně do světa!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001010100" rhyme="1" line_length="10">Ó blíž a blíže k lidem, k životu,</l>
+     <l n="6" met="0101010100" rhyme="2" line_length="10">jenž v jarním slunci rudě rozkvétá!</l>
+     <l n="7" met="0100010100" rhyme="1" line_length="10">A bez vzpomínek na tu samotu,</l>
+     <l n="8" met="0100010100" rhyme="2" line_length="10">jež hořká je a na vždy prokletá!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

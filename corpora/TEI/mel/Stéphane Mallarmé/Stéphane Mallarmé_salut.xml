@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SALUT</title>
+    <author>Stéphane Mallarmé</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Stéphane Mallarmé_salut</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SALUT</title>
+     <author>Stéphane Mallarmé</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SALUT</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Rien, cette écume, vierge vers</l>
+     <l n="2" rhyme="b" line_length="8">À ne désigner que la coupe ;</l>
+     <l n="3" rhyme="b" line_length="8">Telle loin se noie une troupe</l>
+     <l n="4" rhyme="a" line_length="8">De sirènes mainte à l'envers.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Nous naviguons, ô mes divers</l>
+     <l n="6" rhyme="b" line_length="8">Amis, moi déjà sur la poupe</l>
+     <l n="7" rhyme="b" line_length="8">Vous l'avant fastueux qui coupe</l>
+     <l n="8" rhyme="a" line_length="8">Le flot de foudres et d'hivers ;</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="8">Une ivresse belle m'engage</l>
+     <l n="10" rhyme="c" line_length="8">Sans craindre même son tangage</l>
+     <l n="11" rhyme="d" line_length="8">De porter debout ce salut</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="8">Solitude, récif, étoile</l>
+     <l n="13" rhyme="d" line_length="8">À n'importe ce qui valut</l>
+     <l n="14" rhyme="e" line_length="8">Le blanc souci de notre toile.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

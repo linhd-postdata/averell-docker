@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pozdě.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_pozde</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pozdě.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pozdě.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010010" rhyme="1" line_length="10">Smutek a lítost, zoufalství hoře –</l>
+     <l n="2" met="10010100" rhyme="2" line_length="8">nikdo už, nikdo nevěří!</l>
+     <l n="3" met="1001010010" rhyme="1" line_length="10">Propasti všude, nesmírná moře,</l>
+     <l n="4" met="10010100" rhyme="2" line_length="8">hloubku jich nikdo nezměří!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001010010" rhyme="3" line_length="10">V záhonech našich povadly květy,</l>
+     <l n="6" met="10010100" rhyme="4" line_length="8">padají mlhy do polí – – –</l>
+     <l n="7" met="1001010010" rhyme="3" line_length="10">Vzpomínky všechny v kámen jsou vklety,</l>
+     <l n="8" met="10010100" rhyme="4" line_length="8">srdce už, srdce nebolí!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1001010010" rhyme="5" line_length="10">Všechno když jednou bylo už vzato,</l>
+     <l n="10" met="10010100" rhyme="2" line_length="8">rychle se také sešeří –</l>
+     <l n="11" met="1001010010" rhyme="5" line_length="10">Leccos i kdysi bylo nám svato –</l>
+     <l n="12" met="10010100" rhyme="2" line_length="8">nikdo už, nikdo nevěří!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

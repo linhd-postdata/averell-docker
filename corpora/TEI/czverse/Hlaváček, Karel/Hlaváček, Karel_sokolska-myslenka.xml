@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sokolská myšlénka.</title>
+    <author>Hlaváček, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hlaváček, Karel_sokolska-myslenka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sokolská myšlénka.</title>
+     <author>Hlaváček, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sokolská myšlénka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100010" rhyme="1" line_length="11">Ty, jež jsi dlouho doutnala a vřela</l>
+     <l n="2" met="01010101010" rhyme="1" line_length="11">až na dně duší vůdců našich, smělá,</l>
+     <l n="3" met="01010001010" rhyme="2" line_length="11">ty trpká v začátku, však v konci sladká,</l>
+     <l n="4" met="01010001010" rhyme="2" line_length="11">ty vždycky rozhodná a nikdy vratká,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101000" rhyme="1" line_length="11">ty, jež jsi Atlant bleskem přeletěla,</l>
+     <l n="6" met="01000100010" rhyme="1" line_length="11">co vítěz jež jsi přes Vogesy hřměla,</l>
+     <l n="7" met="01010101010" rhyme="2" line_length="11">ty přísná a zas vlídná jako matka,</l>
+     <l n="8" met="01010101010" rhyme="2" line_length="11">kéž hostí tebe palác, každá chatka!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100010" rhyme="3" line_length="11">Ty svižná v našich zápasech, ty hbitá,</l>
+     <l n="10" met="01010100010" rhyme="3" line_length="11">když Tebou čepel jiskří se a kmitá,</l>
+     <l n="11" met="01010101010" rhyme="4" line_length="11">jen tebou srdce naše bouří, jásá;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="01010101010" rhyme="4" line_length="11">tys naše credo, ty jsi naše spása,</l>
+     <l n="13" met="01010001010" rhyme="5" line_length="11">tys v rtech nám modlitbou a žulou v svale:</l>
+     <l n="14" met="11010101000" rhyme="5" line_length="11">bdi při nás dnem i nocí neustále.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

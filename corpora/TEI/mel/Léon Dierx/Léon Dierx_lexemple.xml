@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L’Exemple</title>
+    <author>Léon Dierx</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Léon Dierx_lexemple</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L’Exemple</title>
+     <author>Léon Dierx</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L’Exemple</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Sous le fécond soleil des nations antiques,</l>
+     <l n="2" rhyme="b" line_length="6+6">L'homme était riche en dieux dont il savait les noms ;</l>
+     <l n="3" rhyme="a" line_length="6+6">Et des images d'or encombraient les portiques,</l>
+     <l n="4" rhyme="b" line_length="6+6">Ou, géantes, gardaient le seuil des Parthénons.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Et pourtant, jamais las d'encens ni de prières,</l>
+     <l n="6" rhyme="b" line_length="6+6">L'homme des jours sereins où riaient les dieux nus,</l>
+     <l n="7" rhyme="a" line_length="6+6">Entre le ciel et lui rêvant plus de lumières,</l>
+     <l n="8" rhyme="b" line_length="6+6">Sacrifiait encore à des dieux inconnus !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Nos cœurs ne vibrent plus aux naissances prochaines</l>
+     <l n="10" rhyme="b" line_length="6+6">De ceux que conviait le large cœur païen ;</l>
+     <l n="11" rhyme="a" line_length="6+6">Et ce n'est plus afin de ressaisir des chaînes</l>
+     <l n="12" rhyme="b" line_length="6+6">Que nous fouillons la foi de l'univers ancien.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="6+6">Aux stériles éclairs d'un soleil qui s'épuise,</l>
+     <l n="14" rhyme="b" line_length="6+6">Sur le poudreux amas des autels d'autrefois,</l>
+     <l n="15" rhyme="a" line_length="6+6">Nous regardons crouler les fûts noirs de l'église,</l>
+     <l n="16" rhyme="b" line_length="6+6">Sans que la mort d'un dieu fasse gémir les bois.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" rhyme="a" line_length="6+6">Tous les dieux sont-ils morts ? Ou, vaincus par l'exemple,</l>
+     <l n="18" rhyme="b" line_length="6+6">Ceux qui nous voient de loin livrés au sombre mal,</l>
+     <l n="19" rhyme="a" line_length="6+6">Renoncent-ils d'avance à la gloire du temple,</l>
+     <l n="20" rhyme="b" line_length="6+6">Par horreur du calvaire et du sang baptismal ?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>STARÁ POHÁDKA.</title>
+    <author>Dostal, Adolf Bohuslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">19</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostal, Adolf Bohuslav_stara-pohadka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>STARÁ POHÁDKA.</title>
+     <author>Dostal, Adolf Bohuslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>STARÁ POHÁDKA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100010" rhyme="1" line_length="7">To pohádka je stará:</l>
+     <l n="2" met="1101010" rhyme="1" line_length="7">Jel mladý rytíř z jara,</l>
+     <l n="3" met="11010101" rhyme="2" line_length="8">jel hrdě v před, a voněl les,</l>
+     <l n="4" met="010001010" rhyme="3" line_length="9">a konvalinky kvetly v háji,</l>
+     <l n="5" met="11000101" rhyme="2" line_length="8">zpěv slavíků se z křoví nes</l>
+     <l n="6" met="010101000" rhyme="3" line_length="9">a z polí píseň na šalmaji,</l>
+     <l n="7" met="1101000100" rhyme="4" line_length="10">kraj všecek ve slunci se rozepěl.</l>
+    </lg>
+    <lg n="2">
+     <l n="8" met="100101" rhyme="4" line_length="6">Do lesa rytíř vjel.</l>
+     <l n="9" met="100101010" rhyme="5" line_length="9">U vody snivá víla stála,</l>
+     <l n="10" met="100101010" rhyme="5" line_length="9">v očích jí zlatá slunce hrála,</l>
+     <l n="11" met="100101000" rhyme="5" line_length="9">vlasem jí rosa prosvítala,</l>
+     <l n="12" met="100101" rhyme="4" line_length="6">a ten se nocí tměl.</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="1000010001" rhyme="4" line_length="10">K sobě ji strh’ a rozkoší se chvěl.</l>
+     <l n="14" met="10010100" rhyme="6" line_length="8">Do hradu nežli dojel zpět,</l>
+     <l n="15" met="010100010" rhyme="7" line_length="9">ta víla v objetí mu svadla,</l>
+     <l n="16" met="10010101" rhyme="6" line_length="8">a stměl se kraj, a opad’ květ,</l>
+     <l n="17" met="010101010" rhyme="7" line_length="9">a mlha smutku na les padla,</l>
+     <l n="18" met="0101010" rhyme="8" line_length="7">kam rytíř vyjel z jara. –</l>
+     <l n="19" met="0100010" rhyme="8" line_length="7">Ta pohádka je stará.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

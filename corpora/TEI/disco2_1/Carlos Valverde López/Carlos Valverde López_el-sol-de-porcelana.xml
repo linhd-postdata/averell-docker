@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El sol de porcelana</title>
+    <author>Carlos Valverde López</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Carlos Valverde López_el-sol-de-porcelana</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El sol de porcelana</title>
+     <author>Carlos Valverde López</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El sol de porcelana</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+++---+-">Tiene mi niña un sol de porcelana,</l>
+     <l n="2" met="-+---+---+-">sujeto en la madera de su cuna,</l>
+     <l n="3" met="--++-+---+-">que mantiene un romance con la luna</l>
+     <l n="4" met="-----+---+-">a través del cristal de la ventana.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">La cuna de mi niña se engalana</l>
+     <l n="6" met="--+--+---+-">con los juegos del tuno y de la tuna</l>
+     <l n="7" met="-+-+-+-+-+-">y nada pueda haber que los desuna</l>
+     <l n="8" met="---+-+---+-">hasta el umbral azul de la mañana.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--++--+-">Y en su danza febril... polvo de estrellas,</l>
+     <l n="10" met="-+-+---+-+-">en chispas de oro carrusel de plata,</l>
+     <l n="11" met="--+--+-+-+-">purpurinas brillantes, mil centellas,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">fulgores irisados escarlata...</l>
+     <l n="13" met="--+--+-+-+-">En la piel de mi niña veo las huellas...</l>
+     <l n="14" met="---+-+---+-">cuando concluye al fin la cabalgata.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

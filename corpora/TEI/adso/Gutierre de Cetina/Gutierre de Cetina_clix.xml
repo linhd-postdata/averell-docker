@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- CLIX - </title>
+    <author>Gutierre de Cetina</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Gutierre de Cetina_clix</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- CLIX - </title>
+     <author>Gutierre de Cetina</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- CLIX - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+---+-">Amor me trae en la mar de su tormento</l>
+     <l n="2" met="--+--+---+-">al placer de la ondas de mudanzas,</l>
+     <l n="3" met="+-+-++++-+-">mil fortunas tal vez, tal vez mudanzas</l>
+     <l n="4" met="+--+-+---+-">traen acá y allá mi sentimiento.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-++--+-">Sígueme alguna vez próspero viento,</l>
+     <l n="6" met="+-+--+---+-">meten velas entonces esperanzas,</l>
+     <l n="7" met="-+---+---+-">mas salen de través desconfianzas</l>
+     <l n="8" met="--+--+---+-">y acobardan al triste pensamiento.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+-+-+-">Siéntome alguna vez alzar al cielo,</l>
+     <l n="10" met="+-+--+---+-">y otras mil abajar hasta el abismo;</l>
+     <l n="11" met="+-+-++-+-+-">ya me esfuerzo, ya temo, ya me atrevo.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++-+-+-+-+-">Ora huyo, ora espero, ora recelo,</l>
+     <l n="13" met="-+---+++++-">y en tanta variedad no sé yo mismo</l>
+     <l n="14" met="++--++--++-">qué quiero, aunque sé bien que querer debo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

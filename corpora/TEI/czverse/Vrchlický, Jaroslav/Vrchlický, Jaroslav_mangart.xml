@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MANGART.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_mangart</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MANGART.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MANGART.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010101" rhyme="1" line_length="8">Ční z řady horstva jako král.</l>
+     <l n="2" met="01000100" rhyme="2" line_length="8">Však před věky prý obr byl,</l>
+     <l n="3" met="11010000" rhyme="1" line_length="8">kraj celý zplenil v šíř i v dál</l>
+     <l n="4" met="01010101" rhyme="2" line_length="8">a v posled pěstí v blankyt bil.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000101" rhyme="3" line_length="8">Ten otevřel se v jeden ráz,</l>
+     <l n="6" met="01010101" rhyme="4" line_length="8">on ve tvář Boha na mžik zřel,</l>
+     <l n="7" met="01010101" rhyme="3" line_length="8">jen kletby postih’ děsný hlas</l>
+     <l n="8" met="10010100" rhyme="4" line_length="8">a ztuh’ a pro vždy zkameněl.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101" rhyme="5" line_length="8">Mu z ruky vypad’ meč i štít,</l>
+     <l n="10" met="01010101" rhyme="6" line_length="8">teď horstvem trčí v pozdní věk,</l>
+     <l n="11" met="10010101" rhyme="5" line_length="8">měsíce pláče nad ním svit,</l>
+     <l n="12" met="01010100" rhyme="6" line_length="8">naň růže hází červánek.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

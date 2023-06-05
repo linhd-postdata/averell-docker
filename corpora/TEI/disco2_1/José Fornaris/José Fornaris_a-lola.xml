@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Lola</title>
+    <author>José Fornaris</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Fornaris_a-lola</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Lola</title>
+     <author>José Fornaris</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Lola</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+++++--+-">Aquí fue... ¡Bien me acuerdo! Este granado</l>
+     <l n="2" met="-+---+---+-">en flor sobre su frente se mecía,</l>
+     <l n="3" met="++--+----+-">este huerto a mis plantas se extendía</l>
+     <l n="4" met="-+---+---+-">de flores y de ramas coronado.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">¡Oigo su voz!... Cual himno enamorado</l>
+     <l n="6" met="-+++-+---+-">el «yo te adoro» suena todavía,</l>
+     <l n="7" met="-+---+---+-">y aspiro palpitante la ambrosía</l>
+     <l n="8" met="--+--+---+-">de su labio oloroso y encarnado.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+-+---+-">Aún vierte aquí su lánguido suspiro,</l>
+     <l n="10" met="--+--+---+-">y contemplo su gracia y su hermosura;</l>
+     <l n="11" met="+-+--+--++-">aún alegre resuena su voz pura,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+---+-+-">y su semblante enajenado miro;</l>
+     <l n="13" met="-+-+-+++-+-">aquí el granado está, y aquí está el huerto,</l>
+     <l n="14" met="+--+---+++-">y ella también... ¡pero el amor ha muerto!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

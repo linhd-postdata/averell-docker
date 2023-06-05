@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Pompeya</title>
+    <author>Pedro Antonio de Alarcón</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pedro Antonio de Alarcón_a-pompeya</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Pompeya</title>
+     <author>Pedro Antonio de Alarcón</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Pompeya</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+---+-+-">Cuando amanezca el iracundo día</l>
+     <l n="2" met="--+--+-+-+-">que en la mente de Dios leyó el Profeta,</l>
+     <l n="3" met="-+-+---+-+-">y, al agrio son de la final trompeta,</l>
+     <l n="4" met="--+--+-+-+-">abandone de Adán la raza impía,</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+--++-+-">ora el sosiego de l ahuesa fría,</l>
+     <l n="6" met="+--+---+-+-">ora los lares de la vida inquieta,</l>
+     <l n="7" met="-+-+-+---+-">y pase el JUICIO extremo, y el del Planeta</l>
+     <l n="8" met="+--+-++--+-">quede la extensa faz muda y vacía,</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-++-+---+-">no será tan horrendo y pavoroso</l>
+     <l n="10" met="--+--++--+-">encontrar por doquier huellas del hombre</l>
+     <l n="11" met="-++--+---+-">y ni un hombre en campiñas ni ciudades,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--++-+---+-">como verte, sin vida ni reposo,</l>
+     <l n="13" met="-+---+---+-">desierta y mancillada por tu nombre,</l>
+     <l n="14" met="--+--+---+-">expiar ¡oh Pompeya! tus maldades.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

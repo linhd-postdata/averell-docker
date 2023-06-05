@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mi propósito</title>
+    <author>Miguel Teurbe Tolón</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Miguel Teurbe Tolón_mi-proposito</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mi propósito</title>
+     <author>Miguel Teurbe Tolón</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mi propósito</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Primero el corazón en que se anida</l>
+     <l n="2" met="-+-+-+-+-+-">mi inmenso amor a Cuba haré pedazos;</l>
+     <l n="3" met="-+---++-++-">primero romperé mil y mil lazos,</l>
+     <l n="4" met="-++--+---+-">que me atan al carro de la vida;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+-+-+-">primero del dolor la copa henchida</l>
+     <l n="6" met="---+-+-+-+-">apuraré hasta el fin en breves plazos;</l>
+     <l n="7" met="-+----+---+-">primero, como Scévola, mis brazos</l>
+     <l n="8" met="-+---+---+-">pondré sobre la pira enrojecida;</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+-+-+-">primero gota a gota, lentamente,</l>
+     <l n="10" met="-+-+-+---+-">proscrito, errante, el suelo americano</l>
+     <l n="11" met="--+--+-+-+-">regará sin cesar mi lloro ardiente;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+-+-+-">primero mi verdugo sea mi mano,</l>
+     <l n="13" met="---+++---+-">que merecer de un déspota insolente</l>
+     <l n="14" met="--+-++-+-+-">¡el perdón de ser libre y ser cubano!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

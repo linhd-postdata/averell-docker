@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Rozkvetlý smutek.</title>
+    <author>Hlaváček, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hlaváček, Karel_rozkvetly-smutek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Rozkvetlý smutek.</title>
+     <author>Hlaváček, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Rozkvetlý smutek.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" rhyme="1" line_length="8">Do říše mořských pralesů</l>
+     <l n="2" met="01010100" rhyme="1" line_length="8">svůj černý smutek zanesu –</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="01010100" rhyme="2" line_length="8">a sémě jeho dědičné</l>
+     <l n="4" met="10010100" rhyme="2" line_length="8">rozhodím v proudy měsíčné,</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="10011001" rhyme="3" line_length="8">ve věčný led, ve věčný sníh,</l>
+     <l n="6" met="10010100" rhyme="3" line_length="8">v nárazy větrů polárních.</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="01000100" rhyme="4" line_length="8">Ti do truchlících lilií</l>
+     <l n="8" met="01010100" rhyme="4" line_length="8">až jeho sémě zasijí,</l>
+    </lg>
+    <lg n="5">
+     <l n="9" met="01001100" rhyme="3" line_length="8">snad v lijáku slz palčivých</l>
+     <l n="10" met="01000101" rhyme="3" line_length="8">tam v sopránový vzkvete smích.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

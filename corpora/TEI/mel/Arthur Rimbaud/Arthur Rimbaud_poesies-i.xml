@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>POÉSIES I</title>
+    <author>Arthur Rimbaud</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Arthur Rimbaud_poesies-i</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>POÉSIES I</title>
+     <author>Arthur Rimbaud</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>POÉSIES I</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Morts de quatre-vingt-douze et de quatre-vingt-treize,</l>
+     <l n="2" rhyme="b" line_length="6+6">Qui, pâles du baiser fort de la liberté,</l>
+     <l n="3" rhyme="a" line_length="6+6">Calmes, sous vos sabots, brisiez le joug qui pèse</l>
+     <l n="4" rhyme="b" line_length="6+6">Sur l'âme et sur le front de toute humanité ;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">Hommes extasiés et grands dans la tourmente,</l>
+     <l n="6" rhyme="d" line_length="6+6">Vous dont les cœurs sautaient d'amour sous les haillons,</l>
+     <l n="7" rhyme="c" line_length="6+6">O Soldats que la Mort a semés, noble Amante,</l>
+     <l n="8" rhyme="d" line_length="6+6">Pour les régénérer, dans tous les vieux sillons ;</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="6+6">Vous dont le sang lavait toute grandeur salie,</l>
+     <l n="10" rhyme="e" line_length="6−6">Morts de Valmy, Morts de Fleurus, Morts d'Italie,</l>
+     <l n="11" rhyme="f" line_length="6+6">O Million de Christs aux yeux sombres et doux ;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="6+6">Nous vous laissions dormir avec la République,</l>
+     <l n="13" rhyme="g" line_length="6+6">Nous, courbés sous les rois comme sous une trique :</l>
+     <l n="14" rhyme="f" line_length="6+6">− Messieurs de Cassagnac nous reparlent de vous !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jarní píseň.</title>
+    <author>Macháček, Simeon Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Macháček, Simeon Karel_jarni-pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jarní píseň.</title>
+     <author>Macháček, Simeon Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jarní píseň.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0010010" rhyme="1" line_length="7">Coť se blaze nám děje!</l>
+     <l n="2" met="1010010" rhyme="1" line_length="7">Slunce mílo se směje</l>
+     <l n="3" met="101001" rhyme="2" line_length="6">Na zvůr, luka i háj!</l>
+     <l n="4" met="1010010" rhyme="3" line_length="7">Neboť jaro se blíží,</l>
+     <l n="5" met="1010010" rhyme="3" line_length="7">Jeho dechové svíží</l>
+     <l n="6" met="10100101" rhyme="2" line_length="8">Kraj nám promění zase v ráj!</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="0010010" rhyme="4" line_length="7">Již se potůček kroutí</l>
+     <l n="8" met="1010010" rhyme="4" line_length="7">Sumě veselou poutí,</l>
+     <l n="9" met="100100" rhyme="5" line_length="6">Šípky se vinou oň;</l>
+     <l n="10" met="1010010" rhyme="6" line_length="7">Jabloň k němu se sklání,</l>
+     <l n="11" met="1010010" rhyme="6" line_length="7">V mírném větérku vání</l>
+     <l n="12" met="10100100" rhyme="5" line_length="8">Svého sypaje květů doň.</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="1010010" rhyme="7" line_length="7">Slyšte, hoši a děvy,</l>
+     <l n="14" met="1010010" rhyme="7" line_length="7">Vábné slavíka zpěvy,</l>
+     <l n="15" met="101001" rhyme="8" line_length="6">An nás do kola zve!</l>
+     <l n="16" met="1010010" rhyme="9" line_length="7">Nuže! plésati spěšme,</l>
+     <l n="17" met="1010010" rhyme="9" line_length="7">V tanci z jara se těšme,</l>
+     <l n="18" met="10100101" rhyme="8" line_length="8">Rychle do kola dvé a dvé.</l>
+    </lg>
+    <lg n="4">
+     <l n="19" met="1010010" rhyme="10" line_length="7">Ejhle radostí skáče</l>
+     <l n="20" met="1010010" rhyme="10" line_length="7">Tady po keři ptáče,</l>
+     <l n="21" met="101001" rhyme="11" line_length="6">Čáp tam okolo řek;</l>
+     <l n="22" met="1010010" rhyme="12" line_length="7">Skáčí v rybníku rybky,</l>
+     <l n="23" met="1010010" rhyme="12" line_length="7">V lese srnky co šipky,</l>
+     <l n="24" met="10001100" rhyme="11" line_length="8">Na výsluní sta muštiček!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

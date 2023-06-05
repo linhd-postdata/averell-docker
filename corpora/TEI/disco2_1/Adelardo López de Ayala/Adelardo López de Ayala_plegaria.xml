@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Plegaria</title>
+    <author>Adelardo López de Ayala</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Adelardo López de Ayala_plegaria</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Plegaria</title>
+     <author>Adelardo López de Ayala</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Plegaria</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+-+---+-">¡Dame, Señor, la firme voluntad</l>
+     <l n="2" met="--+--+---+-">compañera y sostén de la virtud;</l>
+     <l n="3" met="--+--+-+-+-">la que sabe en el golfo hallar quietud</l>
+     <l n="4" met="-----+---+-">y en medio de las sombras claridad;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">la que trueca en tesón la veleidad</l>
+     <l n="6" met="-+---+---+-">y el ocio en perenal solicitud,</l>
+     <l n="7" met="--+--+---+-">y las ásperas fiebres en salud,</l>
+     <l n="8" met="--+--+---+-">y los torpes engaños en verdad!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+---+-">Y así conseguirá mi corazón</l>
+     <l n="10" met="---+---+-+-">que los favores que a tu amor debí</l>
+     <l n="11" met="++--++---+-">te ofrezcan algún fruto en galardón...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++-+---+-+-">y aun Tú, Señor, conseguirás así</l>
+     <l n="13" met="-++--+---+-">que no llegue a romper mi confusión</l>
+     <l n="14" met="-+-+---+-+-">la imagen tuya que pusiste en mí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

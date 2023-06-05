@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>IV.</title>
+    <author>Havlíček Borovský, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Havlíček Borovský, Karel_iv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>IV.</title>
+     <author>Havlíček Borovský, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>IV.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" rhyme="1" line_length="8">Utíkej, Windo, utíkej,</l>
+     <l n="2" met="10010100" rhyme="1" line_length="8">honí tě Košut divokej!</l>
+     <l n="3" met="10100010" rhyme="2" line_length="8">Winda utíká, co může,</l>
+     <l n="4" met="10010100" rhyme="2" line_length="8">Košut ho chytit nemůže.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" rhyme="3" line_length="8">Která je vláda poctivá,</l>
+     <l n="6" met="00101000" rhyme="3" line_length="8">ta se sněmu nevyhýbá;</l>
+     <l n="7" met="10010100" rhyme="4" line_length="8">která je vláda opice,</l>
+     <l n="8" met="10010100" rhyme="4" line_length="8">bojí se třeba čepice.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

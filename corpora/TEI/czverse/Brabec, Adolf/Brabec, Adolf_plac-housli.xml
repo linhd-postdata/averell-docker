@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PLÁČ HOUSLÍ.</title>
+    <author>Brabec, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Brabec, Adolf_plac-housli</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PLÁČ HOUSLÍ.</title>
+     <author>Brabec, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PLÁČ HOUSLÍ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110101" rhyme="1" line_length="6">Pláč houslí slýchám rád,</l>
+     <l n="2" met="010101" rhyme="1" line_length="6">když všecko šlo již spat,</l>
+     <l n="3" met="01010100" rhyme="2" line_length="8">jen noční motýl přiletí</l>
+     <l n="4" met="10010100" rhyme="2" line_length="8">přivonět k růže poupěti.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010100" rhyme="3" line_length="6">Tu housle plakají</l>
+     <l n="6" met="000100" rhyme="3" line_length="6">jak ty, tak podtají,</l>
+     <l n="7" met="01010100" rhyme="4" line_length="8">má drahá, kde jsi dneska as,</l>
+     <l n="8" met="01000101" rhyme="4" line_length="8">kde veselý tvůj smích a hlas?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010100" rhyme="5" line_length="6">Je sémě zaseto,</l>
+     <l n="10" met="100100" rhyme="5" line_length="6">nezkvete prokleto,</l>
+     <l n="11" met="110101" rhyme="6" line_length="6">pláč houslí slýchám rád,</l>
+     <l n="12" met="010101" rhyme="6" line_length="6">když všecko šlo již spat!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

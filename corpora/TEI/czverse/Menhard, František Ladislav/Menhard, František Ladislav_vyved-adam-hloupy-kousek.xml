@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vyved’ Adam hloupý kousek,</title>
+    <author>Menhard, František Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Menhard, František Ladislav_vyved-adam-hloupy-kousek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vyved’ Adam hloupý kousek,</title>
+     <author>Menhard, František Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vyved’ Adam hloupý kousek,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">Vyved’ Adam hloupý kousek, </l>
+     <l n="2" met="0010101" rhyme="1" line_length="7">že si nechal žebro vzít,</l>
+     <l n="3" met="01001010" line_length="8">a od pána boha z něho</l>
+     <l n="4" met="1010100" rhyme="1" line_length="7">ženu – Evu – utvořit.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" line_length="8">Chudák ovšem, když si zdřímnul,</l>
+     <l n="6" met="1000100" rhyme="2" line_length="7">nehody se nenadál – –</l>
+     <l n="7" met="00001010" line_length="8">kéž by si byl chvilku před tím</l>
+     <l n="8" met="1010100" rhyme="2" line_length="7">všecka žebra – polámal!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

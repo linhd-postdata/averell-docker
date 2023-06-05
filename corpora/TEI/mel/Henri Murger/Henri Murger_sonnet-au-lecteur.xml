@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SONNET AU LECTEUR</title>
+    <author>Henri Murger</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Henri Murger_sonnet-au-lecteur</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SONNET AU LECTEUR</title>
+     <author>Henri Murger</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SONNET AU LECTEUR</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Ami lecteur, qui viens d'entrer dans la boutique</l>
+     <l n="2" rhyme="b" line_length="6+6">Où l'on vend ce volume, et qui l'as acheté</l>
+     <l n="3" rhyme="a" line_length="6+6">Sans marchander d'un sou, malgré son prix modique,</l>
+     <l n="4" rhyme="b" line_length="6+6">Sois béni, bon lecteur, dans ta postérité !</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Que ton épouse reste économe et pudique ;</l>
+     <l n="6" rhyme="b" line_length="6+6">Que le fruit de son sein soit ton portrait flatté</l>
+     <l n="7" rhyme="a" line_length="6+6">Sans retouche ; — et, pareille à la matrone antique,</l>
+     <l n="8" rhyme="b" line_length="6+6">Qu'elle marque le linge et fasse bien le thé !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Que ton cellier soit plein du vin de la comète !</l>
+     <l n="10" rhyme="c" line_length="6+6">Qu'on ne t'emprunte pas d'argent, — et qu'on t'en prête !</l>
+     <l n="11" rhyme="d" line_length="6+6">Que le brelan te suive autour des tapis verts ;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Et qu'un jour sur ta tombe, en marbre de Carrare,</l>
+     <l n="13" rhyme="e" line_length="6+6">Un burin d'or inscrive — hic jacet — l'homme rare</l>
+     <l n="14" rhyme="d" line_length="6+6">Qui payait d'un écu trois cents pages de vers !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V pustině.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_v-pustine</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V pustině.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V pustině.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="001010001" rhyme="1" line_length="9">Kam jsem zapad? Jaký je to kraj?</l>
+     <l n="2" met="001010101" rhyme="1" line_length="9">Jsem to doma? – Zpátky couvnul háj,</l>
+     <l n="3" met="101010100" rhyme="2" line_length="9">a jen pustá v dálku písčina</l>
+     <l n="4" met="010100" rhyme="2" line_length="6">se vlnit začíná.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101000101" rhyme="3" line_length="9">Místy ručejemi zryta zem,</l>
+     <l n="6" met="100010100" rhyme="3" line_length="9">bez trávy a květu kolkolem</l>
+     <l n="7" met="101010100" rhyme="4" line_length="9">na mne hledí v němém ztrnutí,</l>
+     <l n="8" met="010100" rhyme="4" line_length="6">jak Věčna zívnutí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="101000101" rhyme="5" line_length="9">A přec – v ňadrech mých se začal chvít</l>
+     <l n="10" met="101010101" rhyme="5" line_length="9">k této pusté zemi zvláštní cit,</l>
+     <l n="11" met="001010100" rhyme="6" line_length="9">že bych „Sestro!“ z hloubi pozalkal,</l>
+     <l n="12" met="000100" rhyme="6" line_length="6">„zde jsem a nejdu dál!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

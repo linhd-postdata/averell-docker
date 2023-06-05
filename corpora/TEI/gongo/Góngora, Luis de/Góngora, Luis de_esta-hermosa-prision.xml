@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Esta hermosa prisión,</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_esta-hermosa-prision</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Esta hermosa prisión,</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Esta hermosa prisión,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="+-+--+-" line_length="7">Esta hermosa prisión,</l>
+     <l n="2" met="--+---+-" line_length="8">que tan dulce me lastima,</l>
+     <l n="3" met="-+--+--+-" line_length="9">limarla deseo, y la lima</l>
+     <l n="4" met="+--+--+-" line_length="8">nuevo acrecienta eslabón.</l>
+     <l n="5" met="--+---+-" line_length="8">Indignada, la razón</l>
+     <l n="6" met="---+--+-" line_length="8">mi libertad solicita,</l>
+     <l n="7" met="--+---+-" line_length="8">y los medios que ejercita</l>
+     <l n="8" met="-+-+-+-" line_length="7">(cual hizo, aleando, el ave</l>
+     <l n="9" met="--++-++-" line_length="8">el sutil lazo, más grave)</l>
+     <l n="10" met="+-----+-" line_length="8">más los imposibilita.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

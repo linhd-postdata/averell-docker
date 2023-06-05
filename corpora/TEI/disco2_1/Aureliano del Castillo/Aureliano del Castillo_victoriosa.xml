@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>¡Victoriosa!</title>
+    <author>Aureliano del Castillo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Aureliano del Castillo_victoriosa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>¡Victoriosa!</title>
+     <author>Aureliano del Castillo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>¡Victoriosa!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+-+++-">¡La Bandera en el morro! ¿No es un sueño?</l>
+     <l n="2" met="--+--+-+-+-">¡La Bandera en Palacio! ¿No es delirio?</l>
+     <l n="3" met="-+---+-+-+-">¿Cesó del corazón el cruel martirio?</l>
+     <l n="4" met="--+--+-+-+-">¿Realizóse por fin el arduo empeño?</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">¡Muestra tu rostro juvenil, risueño,</l>
+     <l n="6" met="-+-+---+-+-">enciende, ¡oh, Cuba! de tu pascua el cirio,</l>
+     <l n="7" met="-+---+--++-">que surge tu bandera como un lirio</l>
+     <l n="8" met="+----+---+-">único en los colores y el diseño!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">Sus anchos pliegues al espacio libran</l>
+     <l n="10" met="-+---+---+-">los mástiles que altivos se levantan;</l>
+     <l n="11" met="-+-+-+--++-">los niños la conocen y la adoran.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-++--+-+-">¡Y sólo al verla nuestros cuerpos vibran!</l>
+     <l n="13" met="-+-++--+-+-">¡Y sólo al verla nuestros labios cantan!</l>
+     <l n="14" met="-+-++--+-+-">¡Y sólo al verla nuestros ojos lloran!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Mademoiselle Rachel</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_a-mademoiselle-rachel</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Mademoiselle Rachel</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Mademoiselle Rachel</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Si ta bouche ne doit rien dire</l>
+     <l n="2" rhyme="b" line_length="8">De ces vers désormais sans prix ;</l>
+     <l n="3" rhyme="b" line_length="8">Si je n’ai, pour être compris,</l>
+     <l n="4" rhyme="a" line_length="8">Ni tes larmes, ni ton sourire ;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Si dans ta voix, si dans tes traits,</l>
+     <l n="6" rhyme="b" line_length="8">Ne vit plus le feu qui m’anime ;</l>
+     <l n="7" rhyme="b" line_length="8">Si le noble cœur de Monime</l>
+     <l n="8" rhyme="a" line_length="8">Ne doit plus savoir mes secrets ;</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Si ta triste lettre est signée ;</l>
+     <l n="10" rhyme="b" line_length="8">Si les gardiens d’un vieux tombeau</l>
+     <l n="11" rhyme="a" line_length="8">Laissent leur prêtresse indignée</l>
+     <l n="12" rhyme="b" line_length="8">Sortir, emportant son flambeau ;</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">Cette langue de ma pensée,</l>
+     <l n="14" rhyme="b" line_length="8">Que tu connais, que tu soutiens,</l>
+     <l n="15" rhyme="a" line_length="8">Ne sera jamais prononcée</l>
+     <l n="16" rhyme="b" line_length="8">Par d’autres accents que les tiens.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" rhyme="a" line_length="8">Périsse plutôt ma mémoire</l>
+     <l n="18" rhyme="b" line_length="8">Et mon beau rêve ambitieux !</l>
+     <l n="19" rhyme="a" line_length="8">Mon génie était dans ta gloire ;</l>
+     <l n="20" rhyme="b" line_length="8">Mon courage était dans tes yeux.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

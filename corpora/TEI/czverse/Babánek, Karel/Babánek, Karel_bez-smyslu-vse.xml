@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>BEZ SMYSLU VŠE.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_bez-smyslu-vse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>BEZ SMYSLU VŠE.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>BEZ SMYSLU VŠE.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10000101" rhyme="1" line_length="8">Bez smyslu vše a pouhý dým,</l>
+     <l n="2" met="01010101" rhyme="1" line_length="8">je život jenom špatný šprým,</l>
+     <l n="3" met="1100010" rhyme="2" line_length="7">lež z barev jež je stkána.</l>
+     <l n="4" met="10010100" rhyme="3" line_length="8">A je to všecko bez ceny,</l>
+     <l n="5" met="01001100" rhyme="3" line_length="8">jsou nakonec dny sečteny</l>
+     <l n="6" met="0101010" rhyme="2" line_length="7">a noc, jež nemá rána.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

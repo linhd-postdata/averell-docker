@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SMUTNÝ PATRON</title>
+    <author>Šimeček, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Šimeček, František_smutny-patron</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SMUTNÝ PATRON</title>
+     <author>Šimeček, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SMUTNÝ PATRON</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Že smutným bývám patronem?</l>
+     <l n="2" met="1100110" rhyme="1" line_length="7">Aj, hrajte co dech stačí,</l>
+     <l n="3" met="01000100" line_length="8">a vzdychnu-li si z hluboka,</l>
+     <l n="4" met="0001010" rhyme="1" line_length="7">vždyť mne to jenom tlačí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">Já míval děvče, veselí,</l>
+     <l n="6" met="0100010" rhyme="2" line_length="7">však scházely mi „tyto“, –</l>
+     <l n="7" met="01010100" line_length="8">mou lásku pán mi překoupil</l>
+     <l n="8" met="1001010" rhyme="2" line_length="7">a mně to podnes líto.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101" line_length="8">A podnes cítím srdce vřít</l>
+     <l n="10" met="0101010" rhyme="3" line_length="7">a horkou slzu v líci,</l>
+     <l n="11" met="01000100" line_length="8">když milostpaní v kočáře</l>
+     <l n="12" met="0101000" rhyme="3" line_length="7">mne potká na ulici.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01010100" line_length="8">Pak smutným bývám patronem –</l>
+     <l n="14" met="0101010" rhyme="4" line_length="7">však hrajte na vše stroje,</l>
+     <l n="15" met="01000100" line_length="8">a vzdychnu-li si zhluboka,</l>
+     <l n="16" met="0100010" rhyme="4" line_length="7">jest bolest to jen moje.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

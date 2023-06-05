@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>OKNO (I)</title>
+    <author>Dyk, Viktor</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dyk, Viktor_okno-i</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>OKNO (I)</title>
+     <author>Dyk, Viktor</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>OKNO (I)</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" rhyme="1" line_length="9">To není okno jiných lidí,</l>
+     <l n="2" met="01000100" rhyme="2" line_length="8">jímž někomu se hledí vstříc.</l>
+     <l n="3" met="010101010" rhyme="1" line_length="9">To není okno, jímž se vidí</l>
+     <l n="4" met="10000100" rhyme="2" line_length="8">do náměstí a do ulic.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010111010" rhyme="3" line_length="9">Tam vidíš svět, svět vidí tebe,</l>
+     <l n="6" met="10010100" rhyme="4" line_length="8">koketní postoj sluší líp.</l>
+     <l n="7" met="010101010" rhyme="3" line_length="9">Zde vidíš jenom kousek nebe,</l>
+     <l n="8" met="10000101" rhyme="4" line_length="8">zamračeného nebe cíp.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101000" rhyme="5" line_length="9">A všechno živé vzdáleno je,</l>
+     <l n="10" met="01010101" rhyme="6" line_length="8">co cítí, myslí, trpí, mře. –</l>
+     <l n="11" met="100101010" rhyme="5" line_length="9">Zavře-li osud okna tvoje,</l>
+     <l n="12" met="01010100" rhyme="6" line_length="8">tu jiné okno otevře.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

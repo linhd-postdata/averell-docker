@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Slunce v lese.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_slunce-v-lese</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Slunce v lese.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Slunce v lese.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100010" rhyme="1" line_length="11">Červánků oheň po kmenech se taví</l>
+     <l n="2" met="01010100" rhyme="2" line_length="8">a padá stromů do korun,</l>
+     <l n="3" met="11101100010" rhyme="1" line_length="11">kol tříšť skal jak proud zkamenělé lávy</l>
+     <l n="4" met="10010001" rhyme="2" line_length="8">pln ryh a výmolů a run.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010001010" rhyme="3" line_length="11">To slzy krvavé se na všem třesou,</l>
+     <l n="6" met="1101010100" rhyme="4" line_length="10">den knihu sponou stínů zavírá,</l>
+     <l n="7" met="11010101010" rhyme="3" line_length="11">chvat kroků, jež se vlhkým mechem nesou,</l>
+     <l n="8" met="0100010100" rhyme="4" line_length="10">kdes bez ohlasu v dálce umírá...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

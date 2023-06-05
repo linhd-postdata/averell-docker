@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CHANSON</title>
+    <author>Henri Murger</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Henri Murger_chanson</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CHANSON</title>
+     <author>Henri Murger</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CHANSON</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Bouche mignonne et lèvre rose,</l>
+     <l n="2" rhyme="b" line_length="4">Toujours ouverte ; voyez Rose</l>
+     <l n="3" rhyme="a" line_length="8">Alerte comme un gai pinson.</l>
+     <l n="4" rhyme="b" line_length="8">Pour en tresser une couronne,</l>
+     <l n="5" rhyme="c" line_length="8">À pleines mains dans le blé mur</l>
+     <l n="6" rhyme="d" line_length="8">À pleines mains les fleurs d'azur.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" rhyme="a" line_length="8">Cheveux blonds flottant sous le voile</l>
+     <l n="8" rhyme="b" line_length="4">À l'heure où la première étoile</l>
+     <l n="9" rhyme="a" line_length="8">Ramène le pâtre aux hameaux ;</l>
+     <l n="10" rhyme="b" line_length="8">Rose, dont le cœur bat plus vite,</l>
+     <l n="11" rhyme="c" line_length="8">Dans les prés effeuille à son tour</l>
+     <l n="12" rhyme="d" line_length="8">Qui dit les secrets de l'amour.</l>
+    </lg>
+    <lg n="3">
+     <l n="13" rhyme="a" line_length="8">Beaux bluets qu'on tresse en couronne</l>
+     <l n="14" rhyme="b" line_length="4">Belles fleurs que le printemps donne</l>
+     <l n="15" rhyme="a" line_length="8">Pour oracle aux premiers amours,</l>
+     <l n="16" rhyme="b" line_length="8">Tout se fane bien vite, Rose :</l>
+     <l n="17" rhyme="c" line_length="8">Un jour tu n'auras à cueillir</l>
+     <l n="18" rhyme="d" line_length="8">Que dans les champs du souvenir.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

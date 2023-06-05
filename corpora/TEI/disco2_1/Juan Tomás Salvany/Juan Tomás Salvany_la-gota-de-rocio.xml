@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La gota de rocío</title>
+    <author>Juan Tomás Salvany</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Tomás Salvany_la-gota-de-rocio</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La gota de rocío</title>
+     <author>Juan Tomás Salvany</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La gota de rocío</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">La cándida y risueña Filomena</l>
+     <l n="2" met="+--+-+---+-">una mañana plácida de estío,</l>
+     <l n="3" met="--++-+---+-">contemplaba una gota de rocío</l>
+     <l n="4" met="-+---++--+-">posada en el botón de una azucena.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+---+-+-">Y como en ella, al reflejar serena</l>
+     <l n="6" met="-+-+++-+-+-">la luz del sol, le daba nuevo brío,</l>
+     <l n="7" met="+--++--+-+-">quiere cogerla y con su dedo frío</l>
+     <l n="8" met="-+---+-+-+-">destruye la ilusión que le enajena.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+-+-">Baja la niña la gentil cabeza,</l>
+     <l n="10" met="-+---+---+-">diciendo con amargo desconsuelo:</l>
+     <l n="11" met="-+-++++--+-">-¿Por qué al tocarla huyó tanta belleza?</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++-+---+-+-">¿Qué habrá cual ella en el mundano suelo?-</l>
+     <l n="13" met="---+-+---+-">-La delicada flor de tu pureza-</l>
+     <l n="14" met="-+---++--+-">contesta suspirando un arroyuelo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

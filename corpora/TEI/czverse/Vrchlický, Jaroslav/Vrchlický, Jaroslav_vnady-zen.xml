@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VNADY ŽEN.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_vnady-zen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VNADY ŽEN.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VNADY ŽEN.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010100011001" rhyme="1" line_length="15">Vždycky jiné, vždycky luzné – co tu verš a co tu rým!?</l>
+     <l n="2" met="101000101010100" rhyme="1" line_length="15">Jedna v největším je malá, druhá velká v nejmenším.</l>
+     <l n="3" met="001010101000100" rhyme="2" line_length="15">Jest jich jako planých máků na souvrati na poli,</l>
+     <l n="4" met="100010101010100" rhyme="2" line_length="15">každému z všech pyšně kvetou – pouze tobě nikoli,</l>
+     <l n="5" met="101010001010100" rhyme="2" line_length="15">a to přece – Stoikem buď! – někdy hodně zabolí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

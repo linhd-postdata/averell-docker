@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Antonio Afán de Ribera</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Antonio Afán de Ribera_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Antonio Afán de Ribera</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++-+---+-+-">Fue novio Juan de la sin par María,</l>
+     <l n="2" met="--+--+---+-">y en el largo trajín de sus amores,</l>
+     <l n="3" met="+-+--+---+-">todos fueron ensueños seductores</l>
+     <l n="4" met="--+--+---+-">y proyectos de bienes y alegría.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-++--+-+-+-">Llegó el plazo, o mejor, el fausto día</l>
+     <l n="6" met="--+--++--+-">como dan en nombrarle los autores,</l>
+     <l n="7" met="---+-+---+-">de encadenar a entrambos amadores,</l>
+     <l n="8" met="---+-+---+-">en eternal unión, la Vicaría.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+++--+--+-">¡Qué gran luna de miel! ¡Qué desatino</l>
+     <l n="10" met="-+---++--+-">de amantes! pero al mes quiso el demonio</l>
+     <l n="11" met="-+-+-+---+-">que echara cada cual por su camino.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+++-+-">Y al preguntar por qué, me dijo Antonio:</l>
+     <l n="13" met="---+---+-+-">-«Como el vinagre se engendró del vino</l>
+     <l n="14" met="-+-+-+---+-">así el amor se tuerce en matrimonio».</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

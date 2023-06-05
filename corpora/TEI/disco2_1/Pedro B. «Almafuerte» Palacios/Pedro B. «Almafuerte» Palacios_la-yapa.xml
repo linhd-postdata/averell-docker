@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La yapa</title>
+    <author>Pedro B. «Almafuerte» Palacios</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pedro B. «Almafuerte» Palacios_la-yapa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La yapa</title>
+     <author>Pedro B. «Almafuerte» Palacios</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La yapa</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+-+-+-">Como una sola estrella no es el cielo,</l>
+     <l n="2" met="+-+--+---+-">ni una gota que salta, el Océano,</l>
+     <l n="3" met="+--+-+---+-">ni una falange rígida, la mano,</l>
+     <l n="4" met="+-+--+-+-+-">ni una brizna de paja, el santo suelo:</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+-+-+-">tu gimnasia de jaula no es el vuelo,</l>
+     <l n="6" met="--+--+---+-">el sublime tramonto soberano,</l>
+     <l n="7" met="-+--++-+-+-">ni nunca podrá ser anhelo humano</l>
+     <l n="8" met="---+---+-+-">tu miserable personal anhelo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++----+---+-">¿Qué saben de los eterno las esferas?</l>
+     <l n="10" met="---+---+-+-">¿de las borrascas de la mar, las gotas?</l>
+     <l n="11" met="---+---+-+-">¿de puñetazos, las falanges rotas?</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">¿de harina y pan, las pajas de las eras?...</l>
+     <l n="13" met="-+-+-+--++-">¡Detén tus pasos, Lógica, no quieras</l>
+     <l n="14" met="-+---+---+-">que se hagan pesimistas los idiotas!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

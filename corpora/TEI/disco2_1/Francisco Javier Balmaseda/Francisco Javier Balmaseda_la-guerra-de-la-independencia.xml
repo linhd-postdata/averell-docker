@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La guerra de la independencia de Cuba</title>
+    <author>Francisco Javier Balmaseda</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco Javier Balmaseda_la-guerra-de-la-independencia</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La guerra de la independencia de Cuba</title>
+     <author>Francisco Javier Balmaseda</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La guerra de la independencia de Cuba</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Si envuelta en ira la española gente</l>
+     <l n="2" met="++-+-+---+-">sigue una guerra infanda, desusada,</l>
+     <l n="3" met="-+-+---+-+-">que no respeta ni la edad cansada,</l>
+     <l n="4" met="-+---+---+-">ni al niño, ni a la virgen inocente;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">si América se muestra indiferente</l>
+     <l n="6" met="--+-+--+-+-">de su debes, y hasta de sí olvidada,</l>
+     <l n="7" met="--+--+---+-">y si viene a las lides coligada</l>
+     <l n="8" met="-----+---+-">con España la Europa prepotente;</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+-+++--+-">aun así tendré fe; no porque vea</l>
+     <l n="10" met="--+--+---+-">el valor a la par de la constancia</l>
+     <l n="11" met="-+-+---+-+-">ceñir el lauro en desigual pelea;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+---+-+-">no porque sienta del proscrito el ansia;</l>
+     <l n="13" met="-----+-+-+-">sino porque con Cuba va la idea</l>
+     <l n="14" met="-----+---+-">contra la esclavitud y la ignorancia.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

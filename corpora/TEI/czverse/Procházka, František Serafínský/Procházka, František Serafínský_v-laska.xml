@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V. Láska.</title>
+    <author>Procházka, František Serafínský</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Procházka, František Serafínský_v-laska</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V. Láska.</title>
+     <author>Procházka, František Serafínský</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V. Láska.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010" rhyme="1" line_length="6">Láska, kvítek v poli,</l>
+     <l n="2" met="001010" line_length="6">kdo ho minul jednou,</l>
+     <l n="3" met="101010" rhyme="1" line_length="6">toho srdce bolí.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="101000" rhyme="2" line_length="6">Roste na rozcestí</l>
+     <l n="5" met="100010" line_length="6">na leto i zimu,</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">málo komu k štěstí.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="100010" rhyme="3" line_length="6">Zůstane tam v suše,</l>
+     <l n="8" met="100010" line_length="6">pod kořínky jeho</l>
+     <l n="9" met="101010" rhyme="3" line_length="6">zvadne i tvá duše.</l>
+    </lg>
+    <lg n="4">
+     <l n="10" met="100010" rhyme="4" line_length="6">Po druhé – být nechej,</l>
+     <l n="11" met="101000" line_length="6">s okem přimhouřeným</l>
+     <l n="12" met="101010" rhyme="4" line_length="6">tiše mimo spěchej.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

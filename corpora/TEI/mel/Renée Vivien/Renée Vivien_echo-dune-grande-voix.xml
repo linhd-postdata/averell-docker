@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ÉCHO D’UNE GRANDE VOIX</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_echo-dune-grande-voix</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ÉCHO D’UNE GRANDE VOIX</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ÉCHO D’UNE GRANDE VOIX</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Ne vois-tu rien parmi les nuages du soir ?</l>
+     <l n="2" rhyme="a" line_length="6+6">Ouvre les yeux afin de voir et de mieux voir…</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="c" line_length="6+6">Ne vois tu rien venir de ce que tu redoutes ?</l>
+     <l n="4" rhyme="c" line_length="6+6">— Je regarde et je vois la poussière des routes</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="d" line_length="6+6">Ne vois-tu rien venir cependant ? Ah ! regarde</l>
+     <l n="6" rhyme="d" line_length="6+6">Regarde ! Penche-toi, pleure, prie et regarde !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>I. Ach! Ach! Ach!</title>
+    <author>Hajniš, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hajniš, František_i-ach-ach-ach</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>I. Ach! Ach! Ach!</title>
+     <author>Hajniš, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>I. Ach! Ach! Ach!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="111" rhyme="1" line_length="3">Ach! Ach! Ach! </l>
+     <l n="2" met="010101" rhyme="1" line_length="6">Zde leží Josef Mach:</l>
+     <l n="3" met="10001000" rhyme="2" line_length="8">Narozen byl v Lupenici,</l>
+     <l n="4" met="10101000" rhyme="2" line_length="8">U nás umřel na mrtvici;</l>
+     <l n="5" met="1011010000" rhyme="3" line_length="10">Bůh mu dej lehké odpočívání,</l>
+     <l n="6" met="0100101010" rhyme="3" line_length="10">A po smrti slavné z mrtvých vstání.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

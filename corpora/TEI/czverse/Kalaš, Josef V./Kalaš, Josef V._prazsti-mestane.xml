@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pražští měšťané.</title>
+    <author>Kalaš, Josef V.</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalaš, Josef V._prazsti-mestane</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pražští měšťané.</title>
+     <author>Kalaš, Josef V.</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pražští měšťané.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0010100" rhyme="1" line_length="7">My jsme v Praze kubíci,</l>
+     <l n="2" met="1000100" rhyme="1" line_length="7">granátníci, šorfšici.</l>
+     <l n="3" met="101010" rhyme="2" line_length="6">„Praga caput“: řekni!</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="1010100" rhyme="3" line_length="7">Nejsme jako v Paříži,</l>
+     <l n="5" met="0100100" rhyme="3" line_length="7">my toužíme po kříži:</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">Jenom někdo cekni!</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="1010100" rhyme="4" line_length="7">Vezdy budem Pražané</l>
+     <l n="8" met="1100110" rhyme="4" line_length="7">pít plzeňské, jíst slané:</l>
+     <l n="9" met="110010" rhyme="2" line_length="6">Stůj, cizinče – smekni!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

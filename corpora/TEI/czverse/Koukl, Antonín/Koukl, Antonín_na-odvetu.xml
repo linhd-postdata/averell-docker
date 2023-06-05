@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NA ODVETU.</title>
+    <author>Koukl, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Koukl, Antonín_na-odvetu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NA ODVETU.</title>
+     <author>Koukl, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NA ODVETU.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" line_length="8">O půjčku jsem, pane hrabě,</l>
+     <l n="2" met="10101000" rhyme="1" line_length="8">peněz prosil v ponížení;</l>
+     <l n="3" met="10001000" line_length="8">řekl jste mi: „Nežebrejte –</l>
+     <l n="4" met="00101010" rhyme="1" line_length="8">nic to věru platno není!“</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" line_length="8">„Zbohatl jsem vlastní silou,</l>
+     <l n="6" met="10001000" rhyme="1" line_length="8">mozolil se do umdlení:</l>
+     <l n="7" met="10101010" line_length="8">chcete, bych vám ducha půjčil?</l>
+     <l n="8" met="00101010" rhyme="1" line_length="8">Vám to pranic platno není!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

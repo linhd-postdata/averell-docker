@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Adiós</title>
+    <author>Clemente Althaus</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Clemente Althaus_adios</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Adiós</title>
+     <author>Clemente Althaus</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Adiós</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-++--+++-">¿Por qué, por qué te conocí tan tarde?</l>
+     <l n="2" met="-+-+++-+++-">¿Por qué, si ya no puedes ser tú mía,</l>
+     <l n="3" met="-+++++---+-">sentí, al verte, tan honda simpatía,</l>
+     <l n="4" met="--+--+-+-+-">y la lengua, al hablar, tembló cobarde?</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="----+-++-+-">Adiós, adiós: no será bien que aguarde</l>
+     <l n="6" met="-+---+-+--">que crezca junto a ti de día en día</l>
+     <l n="7" met="-+-+---+-+-">el crudo fuego que, si ayer nacía,</l>
+     <l n="8" met="++-+-+-+-+-">hoy ya con llamas tan intensas arde.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---++++--+-">Adiós, que amarte yo fuera delito</l>
+     <l n="10" met="---+-+---+-">y de tu gran belleza seductora</l>
+     <l n="11" met="-+-+---+-+-">el fiero riesgo con la ausencia evito:</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+-++++-+-">que un recuerdo le des tan sólo implora</l>
+     <l n="13" met="---+-+---+-">el que de ti purísimo y bendito</l>
+     <l n="14" met="-+-+-+-+-+-">eternamente lo tendrá, Señora.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

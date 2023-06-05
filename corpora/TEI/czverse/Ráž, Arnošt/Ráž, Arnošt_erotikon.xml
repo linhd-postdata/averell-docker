@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>EROTIKON.</title>
+    <author>Ráž, Arnošt</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ráž, Arnošt_erotikon</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>EROTIKON.</title>
+     <author>Ráž, Arnošt</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>EROTIKON.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" rhyme="1" line_length="8">Ty skráně moje vychladnou</l>
+     <l n="2" met="01010100" rhyme="2" line_length="8">a dozní píseň krve mé</l>
+     <l n="3" met="01010100" rhyme="1" line_length="8">a oči v důlky zapadnou,</l>
+     <l n="4" met="11001100" rhyme="1" line_length="8">v tmu záhadnou, v tmu záhadnou,</l>
+     <l n="5" met="01000100" rhyme="2" line_length="8">tak v umírání upřené.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="10010100" rhyme="3" line_length="8">Skloníš se bledá nad mrtvým,</l>
+     <l n="7" met="10010100" rhyme="4" line_length="8">zachytneš hlavu do dlaní,</l>
+     <l n="8" met="01010100" rhyme="3" line_length="8">ten mrtvý hoch kdys býval Tvým,</l>
+     <l n="9" met="10010101" rhyme="3" line_length="8">pro smutný život klidný rým</l>
+     <l n="10" met="01010100" rhyme="4" line_length="8">mu na rtech zůstal v usmání.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="10010100" rhyme="5" line_length="8">A nic se v tichu nepohne.</l>
+     <l n="12" met="10010101" rhyme="6" line_length="8">Minulost. Život, Smrt a sen. –</l>
+     <l n="13" met="01010100" rhyme="5" line_length="8">Tvá ruka vlas mi rozhrne</l>
+     <l n="14" met="01000100" rhyme="5" line_length="8">a ve vzpomínce vzdálené</l>
+     <l n="15" met="11010100" rhyme="6" line_length="8">zrak na všem utkví zarosen.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

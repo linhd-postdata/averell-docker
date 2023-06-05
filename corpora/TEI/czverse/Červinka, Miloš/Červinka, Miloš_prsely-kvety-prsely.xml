@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PRŠELY KVĚTY, PRŠELY...</title>
+    <author>Červinka, Miloš</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červinka, Miloš_prsely-kvety-prsely</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PRŠELY KVĚTY, PRŠELY...</title>
+     <author>Červinka, Miloš</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PRŠELY KVĚTY, PRŠELY...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" line_length="8">Pršely květy, pršely –</l>
+     <l n="2" met="1001010" rhyme="1" line_length="7">bylo to právě z rána.</l>
+     <l n="3" met="10010100" line_length="8">Za květy každá růžinka</l>
+     <l n="4" met="0101000" rhyme="1" line_length="7">je slzou omývána.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" line_length="8">Pršely květy, pršely –</l>
+     <l n="6" met="010100" rhyme="2" line_length="6">a bylo poledne;</l>
+     <l n="7" met="10010100" line_length="8">za květy každá růžinka</l>
+     <l n="8" met="0101010" rhyme="2" line_length="7">jen žárem slunka bledne.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010100" line_length="8">Pršely květy, pršely –</l>
+     <l n="10" met="1100010" rhyme="3" line_length="7">zář večerní se rděla,</l>
+     <l n="11" met="10010100" line_length="8">lupénky bledé spadaly –</l>
+     <l n="12" met="1001000" rhyme="3" line_length="7">srdéčka odumřela. –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

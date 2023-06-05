@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>RŮŽE</title>
+    <author>Opolský, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Opolský, Jan_ruze</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>RŮŽE</title>
+     <author>Opolský, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>RŮŽE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" line_length="9">Ty růže, které kvetly kolem,</l>
+     <l n="2" met="01000100" rhyme="1" line_length="8">jak zranil by je krutý žel,</l>
+     <l n="3" met="010001010" line_length="9">jenž k nejtemnějším trýzním srdce</l>
+     <l n="4" met="10000100" rhyme="1" line_length="8">od věčnosti by náležel.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="110101000" line_length="9">Sen mezi rty jak ochořelé</l>
+     <l n="6" met="01010101" rhyme="2" line_length="8">by vehnal parnou lidskou krev,</l>
+     <l n="7" met="100101000" line_length="9">na plátcích ohni hektickými</l>
+     <l n="8" met="01000100" rhyme="2" line_length="8">a omamnými zahořev.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101000" line_length="9">Jak nitro mušlí utajené,</l>
+     <l n="10" met="01000101" rhyme="3" line_length="8">tak damascenských růží střed</l>
+     <l n="11" met="010101000" line_length="9">se nítil mocnou vášnivostí,</l>
+     <l n="12" met="01010100" rhyme="3" line_length="8">co jejich okraj v touze bled’.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="010101000" rhyme="4" line_length="9">A ony, sluncem pukající</l>
+     <l n="14" met="01010100" rhyme="5" line_length="8">jak kněžny, které v životě</l>
+     <l n="15" met="110001010" rhyme="4" line_length="9">šly s nezbádaným rysem v líci</l>
+     <l n="16" met="01010100" rhyme="5" line_length="8">a s pýchou na rtu mimo tě.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

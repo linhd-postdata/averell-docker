@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MORS.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_mors</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MORS.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MORS.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" rhyme="1" line_length="11">Co mám zde najít, v této hrsti bláta</l>
+     <l n="2" met="11000100010" rhyme="2" line_length="11">(ptá skeptik se), kde krása jest jen maskou,</l>
+     <l n="3" met="01010001010" rhyme="2" line_length="11">a pocit nejsladší, jejž zveme láskou</l>
+     <l n="4" met="11010100010" rhyme="1" line_length="11">(dí básník, snílek), v podstatě je ztráta?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101010" rhyme="1" line_length="11">Kde každý člověk tají v sobě kata,</l>
+     <l n="6" met="10010101010" rhyme="2" line_length="11">o každou píď kde válčí s žití sázkou,</l>
+     <l n="7" met="01010001010" rhyme="1" line_length="11">kde fráze, konvence jest ona vata,</l>
+     <l n="8" met="01010101010" rhyme="2" line_length="11">jíž vycpeš svět, stkán kokot, lumpů cháskou?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101010" rhyme="3" line_length="11">Kde na dně všeho v posled Ona civí,</l>
+     <l n="10" met="01001101010" rhyme="4" line_length="11">jíž říkáme Smrt, smutný konec všeho,</l>
+     <l n="11" met="01010001010" rhyme="5" line_length="11">jak polyp storamenný všecko svírá;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="010001001010" rhyme="3" line_length="12">ta otázka, ten Ibsenův Velký křivý,</l>
+     <l n="13" met="01010101000" rhyme="4" line_length="11">ať drží sutky světa křesťanského,</l>
+     <l n="14" met="01011001010" rhyme="5" line_length="11">ať mořem dnem, očima hvězd k nám zírá!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

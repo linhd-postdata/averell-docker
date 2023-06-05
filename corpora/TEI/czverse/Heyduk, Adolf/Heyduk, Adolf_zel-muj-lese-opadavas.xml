@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Žel, můj lese, opadáváš,</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_zel-muj-lese-opadavas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Žel, můj lese, opadáváš,</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Žel, můj lese, opadáváš,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101000" line_length="8">Žel, můj lese, opadáváš, </l>
+     <l n="2" met="1010001" rhyme="1" line_length="7">jíním prokvétá ti vlas,</l>
+     <l n="3" met="10001000" rhyme="2" line_length="8">z kmenů všech i ratolestí</l>
+     <l n="4" met="10100010" rhyme="2" line_length="8">prchá zelené tvé štěstí</l>
+     <l n="5" met="0100101" rhyme="1" line_length="7">i růžový nádech kras.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="10001000" line_length="8">Vraždychtivý od severu</l>
+     <l n="7" met="1010101" rhyme="3" line_length="7">pádí ostrých větrů šik,</l>
+     <l n="8" met="10101010" rhyme="4" line_length="8">trhá listí, mrazně zlotí, –</l>
+     <l n="9" met="10001000" rhyme="4" line_length="8">také vše jen půjčeno ti</l>
+     <l n="10" met="1010100" rhyme="3" line_length="7">v krátký jara okamžik.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="10001000" line_length="8">Jako my, jsi přeubohý:</l>
+     <l n="12" met="1000101" rhyme="5" line_length="7">náhodou jsi k žití vstal,</l>
+     <l n="13" met="10001000" rhyme="6" line_length="8">náhodou jsi povypučel,</l>
+     <l n="14" met="10001010" rhyme="6" line_length="8">náhodou jsi měl snad účel,</l>
+     <l n="15" met="1000100" rhyme="5" line_length="7">náhodou jsi opadal.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

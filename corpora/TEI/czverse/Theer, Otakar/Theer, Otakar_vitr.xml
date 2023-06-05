@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VÍTR.</title>
+    <author>Theer, Otakar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Theer, Otakar_vitr</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VÍTR.</title>
+     <author>Theer, Otakar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VÍTR.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010101" line_length="8">Řič, jarní větře! Supěj, hřmi,</l>
+     <l n="2" met="1001010" rhyme="1" line_length="7">tisícem kopyt třeskni!</l>
+     <l n="3" met="10010101" line_length="8">Řič dál svůj smutek, divý bol –</l>
+     <l n="4" met="10010010" rhyme="1" line_length="8">s tebou tak dobře se teskní.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010101" line_length="8">Oblaka uštvi, zdupej les,</l>
+     <l n="6" met="1001100" rhyme="2" line_length="7">na vodu pusť se cvalem,</l>
+     <l n="7" met="10010100" line_length="8">opojně každý úder tvůj</l>
+     <l n="8" met="10010010" rhyme="2" line_length="8">každičkým vichří mi svalem.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101" line_length="8">Jsme jako bratři: šle nás žal</l>
+     <l n="10" met="1001010" rhyme="3" line_length="7">od nebes v hloubku vodní,</l>
+     <l n="11" met="10010101" line_length="8">ničíme, lámem, skok co skok,</l>
+     <l n="12" met="1001010" rhyme="3" line_length="7">pádíme – bratři rodní –</l>
+     <l n="13" met="100010" line_length="6">neznámo kam a proč.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

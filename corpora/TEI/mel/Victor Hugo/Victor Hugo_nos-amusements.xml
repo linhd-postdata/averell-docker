@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NOS AMUSEMENTS</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">7</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_nos-amusements</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NOS AMUSEMENTS</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NOS AMUSEMENTS</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Amis, j'ai vu des morts le festin mémorable,</l>
+     <l n="2" rhyme="b" line_length="6+6">Ils parlaient à grand bruit, ils mangeaient du lapin ;</l>
+     <l n="3" rhyme="b" line_length="6+6">Leur appétit s'aiguise en leur lit de sapin,</l>
+     <l n="4" rhyme="a" line_length="6+6">Leur dent s'attaque à tout, aux cuises, même au râble.</l>
+     <l n="5" rhyme="c" line_length="6+6">Mais ils parlaient ! c'était un bruit, dans le quartier !</l>
+     <l n="6" rhyme="c" line_length="6+6">Hélas, l'homme qui fait ce malheureux métier</l>
+     <l n="7" rhyme="a" line_length="6+6">De fantôme, vivant, parle peu, mais mort, hâble.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

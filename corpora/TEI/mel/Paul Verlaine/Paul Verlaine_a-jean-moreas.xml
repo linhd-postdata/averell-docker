@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A JEAN MORÉAS</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_a-jean-moreas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A JEAN MORÉAS</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A JEAN MORÉAS</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="7">C’EST le beau Jean Moréas</l>
+     <l n="2" rhyme="b" line_length="7">Qui fait dire à l’échotier</l>
+     <l n="3" rhyme="a" line_length="7">Que l’art périclite, hélas !</l>
+     <l n="4" rhyme="b" line_length="7">Aux mains d’un si tel routier.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="7">Routier de l’époque insigne,</l>
+     <l n="6" rhyme="d" line_length="7">Violant des villanelles</l>
+     <l n="7" rhyme="c" line_length="7">Comme aussi, blancheurs de cygne !</l>
+     <l n="8" rhyme="d" line_length="7">Violant des péronnelles.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="7">Va-t’en, sonnet libertin,</l>
+     <l n="10" rhyme="f" line_length="7">Fleurir de rimes gaillardes</l>
+     <l n="11" rhyme="e" line_length="7">Ce chanteur et ce hutin,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="f" line_length="7">Migrateur emmi les bardes,</l>
+     <l n="13" rhyme="g" line_length="7">Que suivent sur ses appels</l>
+     <l n="14" rhyme="g" line_length="7">Tous les cœurs des archipels.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

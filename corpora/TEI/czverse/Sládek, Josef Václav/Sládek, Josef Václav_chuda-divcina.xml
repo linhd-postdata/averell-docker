@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Chudá dívčina.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_chuda-divcina</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Chudá dívčina.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Chudá dívčina.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0010100" line_length="7">Já jsem chudá dívčina,</l>
+     <l n="2" met="100110" rhyme="1" line_length="6">sukničku mám režnou,</l>
+     <l n="3" met="1000100" line_length="7">s hochem však se líbáme</l>
+     <l n="4" met="011010" rhyme="1" line_length="6">jak pan kníže s kněžnou.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010101" line_length="7">Jako s kněžnou kníže pán,</l>
+     <l n="6" met="001010" rhyme="2" line_length="6">než je biskup oddá; –</l>
+     <l n="7" met="1000100" line_length="7">méně-li se líbají,</l>
+     <l n="8" met="001010" rhyme="2" line_length="6">je to jejich škoda.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

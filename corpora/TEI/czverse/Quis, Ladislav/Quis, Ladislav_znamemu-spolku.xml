@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Známému spolku.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_znamemu-spolku</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Známému spolku.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Známému spolku.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010101010" rhyme="1" line_length="12">Nesprávné váš spolek jméno sobě dává,</l>
+     <l n="2" met="100010101000" rhyme="1" line_length="12">očkoliv se vezme, všecko pochovává.</l>
+     <l n="3" met="001000100010" rhyme="2" line_length="12">Nač to upejpání? žabařství to, žebr!</l>
+     <l n="4" met="100010000100" rhyme="2" line_length="12">zvete jej přec: Entreprise des pompes funèbres.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JABLÍČKO</title>
+    <author>Procházka, František Serafínský</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Procházka, František Serafínský_jablicko</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JABLÍČKO</title>
+     <author>Procházka, František Serafínský</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JABLÍČKO</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11110010" rhyme="1" line_length="8">Tři sta let jablíčko zrálo,</l>
+     <l n="2" met="1010" rhyme="1" line_length="4">všecko málo.</l>
+     <l n="3" met="10000010" line_length="8">Červenobílé to jabko</l>
+     <l n="4" met="1000" rhyme="1" line_length="4">nedozrálo.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010010" line_length="8">Chránil jsi jabloňku mladou,</l>
+     <l n="6" met="1000" rhyme="2" line_length="4">zestárla ti,</l>
+     <l n="7" met="10010010" line_length="8">na světě nikdo té práce</l>
+     <l n="8" met="1000" rhyme="2" line_length="4">nezaplatí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010010" line_length="8">Zaléval’s, housenky sbíral,</l>
+     <l n="10" met="1010" rhyme="3" line_length="4">plašil kluky,</l>
+     <l n="11" met="10010010" line_length="8">modlil se, proklínal, čekal</l>
+     <l n="12" met="1010" rhyme="3" line_length="4">plný muky.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10010001" line_length="8">Všeho je, sedláčku, jak víš</l>
+     <l n="14" met="1000" rhyme="4" line_length="4">do třetice:</l>
+     <l n="15" met="00010010" line_length="8">již zrá a spadne ti krásně</l>
+     <l n="16" met="1000" rhyme="4" line_length="4">do čepice.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10010010" line_length="8">Střez je však štičími zraky</l>
+     <l n="18" met="0110" rhyme="5" line_length="4">a stůj přímo,</l>
+     <l n="19" met="01010010" line_length="8">by zralé tiše se sneslo,</l>
+     <l n="20" met="10010" rhyme="5" line_length="5">nepadlo mimo!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

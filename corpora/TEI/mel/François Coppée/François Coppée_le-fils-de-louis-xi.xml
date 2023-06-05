@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Fils de Louis XI</title>
+    <author>François Coppée</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>François Coppée_le-fils-de-louis-xi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Fils de Louis XI</title>
+     <author>François Coppée</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Fils de Louis XI</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Sur le balcon de fer du noir donjon de Loches,</l>
+     <l n="2" rhyme="b" line_length="6+6">Monseigneur le dauphin Charles de France, en deuil,</l>
+     <l n="3" rhyme="b" line_length="6+6">Dominant la Touraine immense d'un coup d'œil,</l>
+     <l n="4" rhyme="a" line_length="6+6">Écoute dans le soir mourir le son des cloches.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">L'enfant captif envie, humble cœur sans orgueil,</l>
+     <l n="6" rhyme="b" line_length="6+6">Ceux qu'il voit revenir des champs, portant leurs pioches,</l>
+     <l n="7" rhyme="b" line_length="6+6">Et, flairant l'âcre odeur des potences trop proches,</l>
+     <l n="8" rhyme="a" line_length="6+6">Songe à l'archer d'Écosse immobile à son seuil.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">L'enfant prince a douze ans et ne sait pas encore</l>
+     <l n="10" rhyme="a" line_length="6+6">Combien fiers sont les lys du blason qui décore</l>
+     <l n="11" rhyme="b" line_length="6+6">L'ogive sous laquelle il rêve, pâle et seul.</l>
+     <l n="12" rhyme="c" line_length="6+6">Il ignore Dunois, Xaintrailles et La Hire,</l>
+     <l n="13" rhyme="b" line_length="6−6">Et la Pucelle, et son victorieux aïeul.</l>
+     <l n="14" rhyme="c" line_length="6+6">Monseigneur le dauphin Charles ne sait pas lire.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

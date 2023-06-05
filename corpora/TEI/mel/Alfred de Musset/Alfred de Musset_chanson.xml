@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Chanson</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_chanson</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Chanson</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Chanson</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Bonjour, Suzon, ma fleur des bois !</l>
+     <l n="2" rhyme="b" line_length="8">Es-tu toujours la plus jolie ?</l>
+     <l n="3" rhyme="a" line_length="8">Je reviens, tel que tu me vois,</l>
+     <l n="4" rhyme="b" line_length="8">D’un grand voyage en Italie.</l>
+     <l n="5" rhyme="c" line_length="8">Du paradis j’ai fait le tour ;</l>
+     <l n="6" rhyme="c" line_length="8">J’ai fait des vers, j’ai fait l’amour.</l>
+     <l n="7" rhyme="d" line_length="4">Je passe devant ta maison ;</l>
+    </lg>
+    <lg n="2">
+     <l n="8" rhyme="a" line_length="8">Je t’ai vue au temps des lilas.</l>
+     <l n="9" rhyme="b" line_length="8">Ton cœur joyeux venait d’éclore.</l>
+     <l n="10" rhyme="a" line_length="8">Et tu disais : « Je ne veux pas,</l>
+     <l n="11" rhyme="b" line_length="8">Je ne veux pas qu’on m’aime encore. »</l>
+     <l n="12" rhyme="c" line_length="8">Qu’as-tu fait depuis mon départ ?</l>
+     <l n="13" rhyme="c" line_length="8">Qui part trop tôt revient trop tard.</l>
+     <l n="14" rhyme="d" line_length="4">Je passe devant ta maison ;</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

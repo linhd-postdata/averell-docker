@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CHANSON INDIENNE</title>
+    <author>Louis Ménard</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Louis Ménard_chanson-indienne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CHANSON INDIENNE</title>
+     <author>Louis Ménard</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CHANSON INDIENNE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="5+5">Caressez l'açoka, fraîches brises du soir.</l>
+     <l n="2" rhyme="b" line_length="6+6">Les fleurs de l'açoka naîtront, quand sous son ombre</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="5+5">Voudraient sous leurs baisers les faire épanouir :</l>
+     <l n="4" rhyme="b" line_length="6+6">Si jamais nulle vierge, hélas ! ne s'y repose,</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="5+5">Pour ouvrir son calice à la clarté du jour,</l>
+     <l n="6" rhyme="b" line_length="6+6">Il lui faut un rayon de votre ardente flamme,</l>
+    </lg>
+    <lg n="4">
+     <l n="7" rhyme="a" line_length="5+5">Sans qu'un des jours passés mérite un souvenir.</l>
+     <l n="8" rhyme="b" line_length="6+6">L'amour n'est pas venu ; mon cœur, plante inféconde,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

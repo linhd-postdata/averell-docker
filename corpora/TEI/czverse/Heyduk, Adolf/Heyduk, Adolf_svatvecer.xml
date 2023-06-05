@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Svatvečer.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_svatvecer</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Svatvečer.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Svatvečer.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" line_length="8">Zazpívaly s lávry zvony</l>
+     <l n="2" met="100010" rhyme="1" line_length="6">svatvečerní písně,</l>
+     <l n="3" met="10001010" line_length="8">vystoupily bílé hvězdy</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">z černých mraků tísně.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" line_length="8">Modlily se dumné lesy,</l>
+     <l n="6" met="100010" rhyme="2" line_length="6">modlily se skály,</l>
+     <l n="7" met="10001010" line_length="8">na osinách žluté trávy</l>
+     <l n="8" met="101010" rhyme="2" line_length="6">velké slzy stály.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101000" rhyme="2" line_length="8">Sivé mlhy vyrůstaly</l>
+     <l n="10" met="100010" rhyme="3" line_length="6">nad planinou moře:</l>
+     <l n="11" met="10001010" line_length="8">strašidla to byla němá</l>
+     <l n="12" met="101010" rhyme="3" line_length="6">z hloubky mého hoře.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

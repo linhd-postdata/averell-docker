@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Prosba k sv. Václavu.</title>
+    <author>Nevšímal, August</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nevšímal, August_prosba-k-sv-vaclavu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Prosba k sv. Václavu.</title>
+     <author>Nevšímal, August</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Prosba k sv. Václavu.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Vstaň a vrať se, kníže svatý,</l>
+     <l n="2" met="10100100" rhyme="1" line_length="8">navštiv vysoké komnaty,</l>
+     <l n="3" met="01101010" rhyme="2" line_length="8">a v mír vejde země všecka:</l>
+     <l n="4" met="10001000" rhyme="3" line_length="8">rač jen zas, jak před stalety,</l>
+     <l n="5" met="10001010" rhyme="3" line_length="8">odváděti stáda čety</l>
+     <l n="6" met="10011000" rhyme="2" line_length="8">poplatkem z Čech do Německa.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

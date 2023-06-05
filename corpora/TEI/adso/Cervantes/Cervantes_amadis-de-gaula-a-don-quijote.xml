@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Amadís de Gaula a don Quijote de La Mancha</title>
+    <author>Cervantes</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cervantes_amadis-de-gaula-a-don-quijote</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Amadís de Gaula a don Quijote de La Mancha</title>
+     <author>Cervantes</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Amadís de Gaula a don Quijote de La Mancha</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">Tú, que imitaste la llorosa vida</l>
+     <l n="2" met="-+-+---+-+-">que tuve, ausente y desdeñado, sobre</l>
+     <l n="3" met="-+-+---+-+-">el gran ribazo de la Peña Pobre.</l>
+     <l n="4" met="-+---+---+-">De alegre a penitencia reducida;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">tú, a quien los ojos dieron la bebida</l>
+     <l n="6" met="--+--+---+-">de abundante licor, aunque salobre;</l>
+     <l n="7" met="-+---+-+-+-">y alzándote la plata, estaño y cobre,</l>
+     <l n="8" met="-+-+-+---+-">te dio la tierra en tierra la comida;</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-----+-">vive seguro de que eternamente</l>
+     <l n="10" met="-+-+---+-+-">(en tanto al menos que en la cuarta esfera,</l>
+     <l n="11" met="--+--+-+-+-">sus cabellos aguije el bello Apolo)</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+---+-">Tendrás claro renombre de valiente;</l>
+     <l n="13" met="-+--++---+-">tu patria será en todas la primera,</l>
+     <l n="14" met="-+-+-++--+-">tu sabio autor al mundo único y solo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

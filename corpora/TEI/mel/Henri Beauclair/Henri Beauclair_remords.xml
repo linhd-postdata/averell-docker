@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Remords</title>
+    <author>Henri Beauclair</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Henri Beauclair_remords</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Remords</title>
+     <author>Henri Beauclair</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Remords</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="5+5">L'Église spectrale était en Gala.</l>
+     <l n="2" rhyme="b" line_length="5−5">Dans un froufrou, les femmes passaient vite.</l>
+     <l n="3" rhyme="b" line_length="5−5">Blanc sur blanc, en son étroite lévite,</l>
+     <l n="4" rhyme="a" line_length="5+5">L'enfant de chœur, doux, tintinnabula,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="5+5">Était-ce une vache avec ses sonnailles ?</l>
+     <l n="6" rhyme="b" line_length="5+5">Quand le Curé noir en vint à chanter,</l>
+     <l n="7" rhyme="b" line_length="5+5">Mes remords se sont mis à gigoter.</l>
+     <l n="8" rhyme="a" line_length="5+5">Oh ! oh ! oh ! remords ! Que tu me tenailles !!!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="5−5">C'est vrai pourtant, je suis un mécréant,</l>
+     <l n="10" rhyme="b" line_length="5+5">J'ai fait bien souvent des cochonneries,</l>
+     <l n="11" rhyme="b" line_length="5−5">Mais, ô Reine des Étoiles fleuries,</l>
+     <l n="12" rhyme="a" line_length="5+5">Chaste lys ! prends en pitié mon Néant !</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="5+5">Si tous les huit jours je te paie un Cierge,</l>
+     <l n="14" rhyme="b" line_length="5+5">Ne pourrais-je donc être pardonné ?</l>
+     <l n="15" rhyme="b" line_length="5+5">Je suis un païen, je suis un Damné,</l>
+     <l n="16" rhyme="a" line_length="5+5">Mais je t'aime tant, Canaille de Vierge !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PANTA REl</title>
+    <author>Zavřel, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">11</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Zavřel, František_panta-rel</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PANTA REl</title>
+     <author>Zavřel, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PANTA REl</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010010" rhyme="1" line_length="7">Věru, všechno se mění.</l>
+     <l n="2" met="01010010" rhyme="1" line_length="8">Co bylo včera, už není.</l>
+     <l n="3" met="001010" rhyme="1" line_length="6">Je to stálé vření</l>
+     <l n="4" met="010010" rhyme="1" line_length="6">a bdění a chtění.</l>
+     <l n="5" met="101010" rhyme="2" line_length="6">Ztracen, kdo je slabý.</l>
+     <l n="6" met="1001010" rhyme="2" line_length="7">Ztracen, kdo nechce, aby</l>
+     <l n="7" met="010010010" rhyme="1" line_length="9">sám podlehl tomuto dění.</l>
+     <l n="8" met="1010" rhyme="2" line_length="4">Poruč Labi,</l>
+     <l n="9" met="1001001000" rhyme="1" line_length="10">aby se vrátilo ku prameni!</l>
+     <l n="10" met="1010010" rhyme="1" line_length="7">Věru, všechno se mění.</l>
+     <l n="11" met="1000010" rhyme="2" line_length="7">Nemění se jen žlaby.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

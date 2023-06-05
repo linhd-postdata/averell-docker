@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Na mudrce.</title>
+    <author>Wunsch, Hugo Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Wunsch, Hugo Václav_na-mudrce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Na mudrce.</title>
+     <author>Wunsch, Hugo Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Na mudrce.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100001010" line_length="9">O počátku a konci světa</l>
+     <l n="2" met="010001010" rhyme="1" line_length="9">svou ukončte již marnou hádku;</l>
+     <l n="3" met="010000100" rhyme="2" line_length="9">neb hádáte-li se o konci,</l>
+     <l n="4" met="010001000" rhyme="1" line_length="9">tuť s rozumem jste na počátku,</l>
+     <l n="5" met="010001000" line_length="9">však po pravdě když ženete se</l>
+     <l n="6" met="010001010" rhyme="2" line_length="9">jak po zvěři tam v lese honci,</l>
+     <l n="7" met="010101010" line_length="9">když světa původ znáti chcete,</l>
+     <l n="8" met="010001010" rhyme="2" line_length="9">tu s rozumem jste zase v konci!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

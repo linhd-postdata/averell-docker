@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Préface</title>
+    <author>Charles Cros</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Charles Cros_preface</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Préface</title>
+     <author>Charles Cros</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Préface</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Bibelots d'emplois incertains,</l>
+     <l n="2" rhyme="b" line_length="8">Fleurs mortes aux seins des almées,</l>
+     <l n="3" rhyme="b" line_length="8">Cheveux, dons de vierges charmées,</l>
+     <l n="4" rhyme="a" line_length="8">Crêpons arrachés aux catins,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Tableaux sombres et bleus lointains,</l>
+     <l n="6" rhyme="b" line_length="8">Pastels effacés, durs camées,</l>
+     <l n="7" rhyme="b" line_length="8">Fioles encore parfumées,</l>
+     <l n="8" rhyme="a" line_length="8">Bijoux, chiffons, hochets, pantins,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="8">Quel encombrement dans ce coffre !</l>
+     <l n="10" rhyme="c" line_length="8">Je vends tout. Accepte mon offre,</l>
+     <l n="11" rhyme="d" line_length="8">Lecteur. Peut-être quelque émoi,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="8">Pleurs ou rire, à ces vieilles choses</l>
+     <l n="13" rhyme="d" line_length="8">Te prendra. Tu paieras, et moi</l>
+     <l n="14" rhyme="e" line_length="8">J'achèterai de fraîches roses.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

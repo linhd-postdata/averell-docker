@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Safo -- II</title>
+    <author>Ricardo del Monte</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ricardo del Monte_safo-ii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Safo -- II</title>
+     <author>Ricardo del Monte</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Safo -- II</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+++-">¡Vanos mi ruegos y mi lloro han sido!</l>
+     <l n="2" met="-+++-+---+-">A ti me acojo, Léucades bravía,</l>
+     <l n="3" met="+--+---+-+-">Safo en tu sirte milagrosa fía</l>
+     <l n="4" met="-+-+-+---+-">que le dará la muerte o el olvido.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--++---+-">¡Duélate mi pasión, diosa de Gnido!</l>
+     <l n="6" met="--+--+-+-+-">y si en hora feliz la lira mía</l>
+     <l n="7" met="+--+-+---+-">vibro en tu prez, mitiga en mi agonía</l>
+     <l n="8" met="---+---+-+-">el amargor de mi postrer gemido.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+--+--+-">¡Hijas de Lesbos! Si mi cuerpo inerte</l>
+     <l n="10" met="-+---++--+-">llevase a vuestros pies la onda traidora,</l>
+     <l n="11" met="-++--+---+-">cubridlo de verbenas y amarantos,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">y aplaque en él su cólera mi suerte,</l>
+     <l n="13" met="--+--+-+-+-">pero el fuego que el mar apague ahora,</l>
+     <l n="14" met="+--+---+-+-">rojo esplendor irradiará en mis cantos!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

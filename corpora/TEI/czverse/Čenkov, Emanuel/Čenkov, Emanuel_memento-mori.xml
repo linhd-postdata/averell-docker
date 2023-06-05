@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Memento mori!</title>
+    <author>Čenkov, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čenkov, Emanuel_memento-mori</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Memento mori!</title>
+     <author>Čenkov, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Memento mori!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000101010" rhyme="1" line_length="11">Kdes v ulici, jež těsna, plna chladu</l>
+     <l n="2" met="1001010100" rhyme="2" line_length="10">a jíž se hrnou chodců přívaly,</l>
+     <l n="3" met="01001100010" rhyme="1" line_length="11">je pochmurná skříň umrčího skladu</l>
+     <l n="4" met="10110100010" rhyme="1" line_length="11">a tam směs rakví urovnaných v řadu</l>
+     <l n="5" met="0100000100" rhyme="2" line_length="10">jak nocleháře své by čekaly.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="01010101000" rhyme="3" line_length="11">Hned vedle, při lamp pestrém osvětlení,</l>
+     <l n="7" met="1001010101" rhyme="4" line_length="10">z hlučného davu šumí vtip a smích –</l>
+     <l n="8" met="01011001000" rhyme="3" line_length="11">tam prostý lid v radostném udivení</l>
+     <l n="9" met="11010101010" rhyme="3" line_length="11">zří maškar sklad i masky, jež se cení</l>
+     <l n="10" met="0101010100" rhyme="4" line_length="10">i smějou, šklebí v rysech pitvorných.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="01010100010" rhyme="5" line_length="11">V ten divý večer masopustní vřavy,</l>
+     <l n="12" met="0100110100" rhyme="2" line_length="10">kdy kočárů kol hrčí přívaly,</l>
+     <l n="13" met="11010100010" rhyme="5" line_length="11">ó z chodců nikdo neobrátí hlavy</l>
+     <l n="14" met="11010100010" rhyme="5" line_length="11">v sklad zdobných rakví pochmurný a tmavý,</l>
+     <l n="15" met="0101000100" rhyme="2" line_length="10">jež tiše leží – jak by čekaly!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

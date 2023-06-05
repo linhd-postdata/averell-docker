@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soir de pluie</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_soir-de-pluie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soir de pluie</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soir de pluie</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Sur l'eau d'un vitreux mat, vert bouteille foncé,</l>
+     <l n="2" rhyme="b" line_length="6+6">Des ronds, comme au compas, sont tracés par la pluie,</l>
+     <l n="3" rhyme="b" line_length="6+6">Chacun d'eux, forme frêle à l'instant même enfuie,</l>
+     <l n="4" rhyme="a" line_length="6+6">Étant par un semblable aussitôt remplacé.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">Et puis, ce ne sont plus que des ombres de cercle,</l>
+     <l n="6" rhyme="d" line_length="6+6">Des fantômes de ronds toujours plus affaiblis</l>
+     <l n="7" rhyme="d" line_length="6+6">Sur le moutonnement, les plis et les replis</l>
+     <l n="8" rhyme="c" line_length="6+6">De l'eau vague où le soir met son brumeux couvercle.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="8">De lianes-serpents, d'herbes qui vous empoignent.</l>
+    </lg>
+    <lg n="4">
+     <l n="10" rhyme="g" line_length="8">Que l'on frémit, pendant que les pas s'en éloignent.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

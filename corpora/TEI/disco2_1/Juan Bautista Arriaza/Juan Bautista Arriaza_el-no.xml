@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El no</title>
+    <author>Juan Bautista Arriaza</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Bautista Arriaza_el-no</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El no</title>
+     <author>Juan Bautista Arriaza</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El no</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">¡Ay, cuántas veces a tus pies postrado,</l>
+     <l n="2" met="-+---+---+-">en lágrimas el rostro sumergido,</l>
+     <l n="3" met="---+-+-+-+-">a tus divinos labios he pedido</l>
+     <l n="4" met="+++-+-++-+-">un sí, cruel, que siempre me han negado!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+-++-+-+-">Y pensando ya ver tu pecho helado</l>
+     <l n="6" met="---+---+-+-">de mi tormento a compasión movido,</l>
+     <l n="7" met="---+-++--+-">en vez de sí, ¡ay dolor! he recibido</l>
+     <l n="8" met="++---++--+-">un no, que mi esperanza ha devorado.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-+-+-+-">Mas si mi llanto no es de algún provecho,</l>
+     <l n="10" met="---+---+-+-">si contra mí su indignación descarga,</l>
+     <l n="11" met="-+-+---+++-">y si una ley de aniquilarme has hecho,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-++-++-++-">quítame de una vez pena tan larga,</l>
+     <l n="13" met="-+-+-+-+-+-">escóndeme un puñal en este pecho,</l>
+     <l n="14" met="-+++++-+-+-">y no me des un no que tanto amarga.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

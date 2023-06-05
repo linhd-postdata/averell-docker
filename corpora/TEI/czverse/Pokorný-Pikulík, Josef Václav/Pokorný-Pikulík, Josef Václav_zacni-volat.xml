@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Začni volat...</title>
+    <author>Pokorný-Pikulík, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný-Pikulík, Josef Václav_zacni-volat</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Začni volat...</title>
+     <author>Pokorný-Pikulík, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Začni volat...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101010" rhyme="1" line_length="10">Začni volat, že to vlasti škodí,</l>
+     <l n="2" met="1010101010" rhyme="2" line_length="10">dvě že strany hází na se kalem; –</l>
+     <l n="3" met="0100100010" rhyme="2" line_length="10">snad ustanou v okamžiku malém,</l>
+     <l n="4" met="1010101010" rhyme="1" line_length="10">a ten kal pak obě na tě hodí!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

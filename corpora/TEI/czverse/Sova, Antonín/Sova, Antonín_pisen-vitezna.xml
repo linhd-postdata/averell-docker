@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PÍSEŇ VÍTĚZNÁ.</title>
+    <author>Sova, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sova, Antonín_pisen-vitezna</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PÍSEŇ VÍTĚZNÁ.</title>
+     <author>Sova, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PÍSEŇ VÍTĚZNÁ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010" rhyme="1" line_length="7">Blíží se noc a voní,</l>
+     <l n="2" met="1001001000" line_length="10">jako když z primulí rudožlutých</l>
+     <l n="3" met="1010010" rhyme="1" line_length="7">tichý smutek se roní.</l>
+     <l n="4" met="10001101" rhyme="2" line_length="8">Skonejšený žal padá s hvězd.</l>
+     <l n="5" met="1010100" rhyme="2" line_length="7">Srdcím matek hrozno jest.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="1001000" rhyme="3" line_length="7">Nevíš, co otupěle</l>
+     <l n="7" met="10010010010" line_length="11">tisíce podušek věčného spánku</l>
+     <l n="8" met="10010" rhyme="3" line_length="5">osud ti stele?</l>
+     <l n="9" met="1001010" rhyme="4" line_length="7">Z tisíců smrti prosté</l>
+     <l n="10" met="10010010" rhyme="4" line_length="8">k životu láska že roste?</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="10110" rhyme="5" line_length="5">Zmládni, ó duše,</l>
+     <l n="12" met="10010010" line_length="8">pro radost vítězství krutou!</l>
+     <l n="13" met="10010" rhyme="5" line_length="5">Pokloň se v tuše:</l>
+     <l n="14" met="100101" rhyme="6" line_length="6">Po hrůzách smrti hřej,</l>
+     <l n="15" met="1001001" rhyme="6" line_length="7">živote, rozdávej, přej!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

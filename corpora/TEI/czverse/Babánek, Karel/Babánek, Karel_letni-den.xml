@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LETNÍ DEN.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_letni-den</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LETNÍ DEN.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LETNÍ DEN.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010100" line_length="8">Vzduch žárem léta rozžhaven.</l>
+     <l n="2" met="1001010" rhyme="1" line_length="7">V zrajícím klasů moři,</l>
+     <l n="3" met="10010101" line_length="8">v chvějícím vzduchu rudý mák,</l>
+     <l n="4" met="1001010" rhyme="1" line_length="7">polibek žhavý hoří.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10000101" line_length="8">Na fialový myslím vřes,</l>
+     <l n="6" met="1001010" rhyme="2" line_length="7">na zvonce stáda v stráni,</l>
+     <l n="7" met="10010100" line_length="8">na podzim, slunce v podvečer</l>
+     <l n="8" met="1001000" rhyme="2" line_length="7">tichoučké usmívání.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LES COLOMBES</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_les-colombes</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LES COLOMBES</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LES COLOMBES</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+6">Sur le coteau, là-bas où sont les tombes,</l>
+     <l n="2" rhyme="b" line_length="4+6">Un beau palmier, comme un panache vert</l>
+     <l n="3" rhyme="a" line_length="4+6">Dresse sa tête, où le soir les colombes</l>
+     <l n="4" rhyme="b" line_length="4+6">Viennent nicher et se mettre à couvert.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="4+6">Mais le matin elles quittent les branches :</l>
+     <l n="6" rhyme="b" line_length="4+6">Comme un collier qui s'égrène, on les voit</l>
+     <l n="7" rhyme="a" line_length="4+6">S'éparpiller dans l'air bleu, toutes blanches,</l>
+     <l n="8" rhyme="b" line_length="4+6">Et se poser plus loin sur quelque toit.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="4+6">Mon âme est l'arbre où tous les soirs, comme elles,</l>
+     <l n="10" rhyme="b" line_length="4+6">De blancs essaims de folles visions</l>
+     <l n="11" rhyme="a" line_length="4+6">Tombent des cieux, en palpitant des ailes,</l>
+     <l n="12" rhyme="b" line_length="4+6">Pour s'envoler dès les premiers rayons.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

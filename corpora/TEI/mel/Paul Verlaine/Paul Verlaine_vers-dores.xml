@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VERS DORÉS</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_vers-dores</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VERS DORÉS</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VERS DORÉS</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">L'art ne veut point de pleurs et ne transige pas,</l>
+     <l n="2" rhyme="b" line_length="6+6">Voilà ma poétique en deux mots : elle est faite</l>
+     <l n="3" rhyme="a" line_length="6+6">De beaucoup de mépris pour l'homme et de combats</l>
+     <l n="4" rhyme="b" line_length="6+6">Contre l'amour criard et contre l'ennui bête.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="b" line_length="6+6">Je sais qu'il faut souffrir pour monter à ce faîte</l>
+     <l n="6" rhyme="a" line_length="6+6">Et que la côte est rude à regarder d'en bas.</l>
+     <l n="7" rhyme="b" line_length="6+6">Je le sais, et je sais aussi que maint poète</l>
+     <l n="8" rhyme="a" line_length="6+6">A trop étroits les reins ou les poumons trop gras.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Aussi ceux-là sont grands, en dépit de l'envie,</l>
+     <l n="10" rhyme="c" line_length="6+6">Qui, dans l'âpre bataille ayant vaincu la vie</l>
+     <l n="11" rhyme="d" line_length="6+6">Et s'étant affranchis du joug des passions,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Tandis que le rêveur végète comme un arbre</l>
+     <l n="13" rhyme="d" line_length="6+6">Et que s'agitent, – tas plaintif, – les nations,</l>
+     <l n="14" rhyme="e" line_length="6−6">Se recueillent dans un égoïsme de marbre.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

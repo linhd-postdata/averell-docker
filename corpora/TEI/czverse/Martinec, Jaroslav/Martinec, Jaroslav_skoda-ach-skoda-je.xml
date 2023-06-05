@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Škoda, ach škoda je!</title>
+    <author>Martinec, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Martinec, Jaroslav_skoda-ach-skoda-je</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Škoda, ach škoda je!</title>
+     <author>Martinec, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Škoda, ach škoda je!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010" rhyme="1" line_length="8">Krásná jest naděje leta,</l>
+     <l n="2" met="1001001" rhyme="2" line_length="7">krásnější naděje let;</l>
+     <l n="3" met="10010010" rhyme="1" line_length="8">svatá jest svatyně světla,</l>
+     <l n="4" met="1001001" rhyme="2" line_length="7">světější svatyně svět!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010010" rhyme="3" line_length="8">Naděje k nebi se šine,</l>
+     <l n="6" met="1001000" rhyme="2" line_length="7">splněna vrací se zpět.</l>
+     <l n="7" met="10010010" rhyme="3" line_length="8">Škoda jen, život že hyne,</l>
+     <l n="8" met="1001001" rhyme="2" line_length="7">zajde s ním na věky květ!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

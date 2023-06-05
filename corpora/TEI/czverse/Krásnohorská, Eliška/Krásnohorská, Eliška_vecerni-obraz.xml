@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Večerní obraz.</title>
+    <author>Krásnohorská, Eliška</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Krásnohorská, Eliška_vecerni-obraz</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Večerní obraz.</title>
+     <author>Krásnohorská, Eliška</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Večerní obraz.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10110010" rhyme="1" line_length="8">Zašel den za hory vzňaté,</l>
+     <l n="2" met="1010100" rhyme="2" line_length="7">s nebe prší perličky;</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">vidíš tamo ruce zlaté,</l>
+     <l n="4" met="1010100" rhyme="2" line_length="7">ježto sejí hvězdičky?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10011100" rhyme="3" line_length="8">Na nebi bdí mír, na zemi</l>
+     <l n="6" met="1010100" rhyme="4" line_length="7">k snu i bol se ukládá;</l>
+     <l n="7" met="10101010" rhyme="3" line_length="8">nitku lásky světy všemi</l>
+     <l n="8" met="1010100" rhyme="4" line_length="7">zlatá ruka upřádá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" rhyme="5" line_length="8">Ticho všude, plno blaha,</l>
+     <l n="10" met="1011000" rhyme="6" line_length="7">tuším ráj ve chvíli té;</l>
+     <l n="11" met="10101010" rhyme="5" line_length="8">slyš – jak zlatá ruka sahá</l>
+     <l n="12" met="1010100" rhyme="6" line_length="7">v duše struny napnuté.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

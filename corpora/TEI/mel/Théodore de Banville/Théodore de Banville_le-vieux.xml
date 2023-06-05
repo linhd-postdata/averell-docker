@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Vieux</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_le-vieux</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Vieux</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Vieux</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Le vieil homme exempt de remords</l>
+     <l n="2" rhyme="b" line_length="8">Que le Temps épargne, ô mystère !</l>
+     <l n="3" rhyme="a" line_length="8">Est seul, tous ses enfants sont morts ;</l>
+     <l n="4" rhyme="b" line_length="8">Nul ne le connaît sur la terre.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Il est trop vieux pour travailler.</l>
+     <l n="6" rhyme="b" line_length="8">Donc, après la vie âpre et dure,</l>
+     <l n="7" rhyme="a" line_length="8">Il a, pour se ravitailler,</l>
+     <l n="8" rhyme="b" line_length="8">Le pain ramassé dans l'ordure.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Devant ses yeux humiliés</l>
+     <l n="10" rhyme="b" line_length="8">La foule heureuse passe et joue,</l>
+     <l n="11" rhyme="a" line_length="8">Et par les trous de ses souliers</l>
+     <l n="12" rhyme="b" line_length="8">Ses pieds nus traînent dans la boue.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">Cependant son cœur est sans fiel,</l>
+     <l n="14" rhyme="b" line_length="8">Et, dans l'ombre où son vieux front penche,</l>
+     <l n="15" rhyme="a" line_length="8">La neige qui tombe du ciel</l>
+     <l n="16" rhyme="b" line_length="8">S'engouffre dans sa barbe blanche.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

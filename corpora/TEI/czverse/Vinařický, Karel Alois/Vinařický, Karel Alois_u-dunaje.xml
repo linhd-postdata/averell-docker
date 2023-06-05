@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>U Dunaje.</title>
+    <author>Vinařický, Karel Alois</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vinařický, Karel Alois_u-dunaje</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>U Dunaje.</title>
+     <author>Vinařický, Karel Alois</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>U Dunaje.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" rhyme="1" line_length="6">Dunaji, Dunaji,</l>
+     <l n="2" met="1010100" line_length="7">Pýcha tobě veliká,</l>
+     <l n="3" met="100100" line_length="6">Nepychej, nepychej,</l>
+     <l n="4" met="0010100" line_length="7">Že si voda široká;</l>
+     <l n="5" met="100100" line_length="6">Řeky a potoci,</l>
+     <l n="6" met="0100100" rhyme="1" line_length="7">Co do tebe padají,</l>
+     <l n="7" met="010100" line_length="6">Ty tebe velikou</l>
+     <l n="8" met="1001000" rhyme="1" line_length="7">Dělati pomáhají.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

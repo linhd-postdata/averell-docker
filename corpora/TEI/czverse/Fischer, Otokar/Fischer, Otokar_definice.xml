@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>DEFINICE</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_definice</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>DEFINICE</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>DEFINICE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010001" rhyme="1" line_length="8">Zda znáš tu společenskou hru,</l>
+     <l n="2" met="01000100" rhyme="1" line_length="8">kdy sotisu i poklonu</l>
+     <l n="3" met="11010101" rhyme="2" line_length="8">máš svorně v každou větu dát?</l>
+     <l n="4" met="01000100" rhyme="2" line_length="8">Toť činoherní referát.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

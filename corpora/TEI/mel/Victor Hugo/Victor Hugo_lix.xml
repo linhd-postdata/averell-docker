@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LIX</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_lix</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LIX</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LIX</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="6+6">Elle est gaie et pensive ; elle nous fait songer</l>
+     <l n="2" rhyme="a" line_length="6+6">A tout ce qui reluit malgré de sombres voiles,</l>
+     <l n="3" rhyme="a" line_length="6+6">Aux bois pleins de rayons, aux nuits pleines d'étoiles.</l>
+     <l n="4" rhyme="b" line_length="6+6">L'esprit en la voyant s'en va je ne sais où.</l>
+     <l n="5" rhyme="b" line_length="6+6">Elle a tout ce qui peut rendre un pauvre homme fou.</l>
+     <l n="6" rhyme="a" line_length="6+6">Tantôt c'est un enfant, tantôt c'est une reine.</l>
+     <l n="7" rhyme="a" line_length="6+6">Hélas ! quelle beauté radieuse et sereine !</l>
+     <l n="8" rhyme="b" line_length="6+6">Elle a de fiers dédains, de charmantes faveurs,</l>
+     <l n="9" rhyme="b" line_length="6+6">Un regard doux et bleu sous de longs cils rêveurs,</l>
+     <l n="10" rhyme="a" line_length="6+6">L'innocence, et l'amour qui sans tristesse encore</l>
+     <l n="11" rhyme="a" line_length="6+6">Flotte empreint sur son front comme une vague aurore,</l>
+     <l n="12" rhyme="b" line_length="6+6">Et puis je ne sais quoi de calme et de vainqueur !</l>
+     <l n="13" rhyme="b" line_length="6+6">Et le ciel dans ses yeux met l'enfer dans mon cœur !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

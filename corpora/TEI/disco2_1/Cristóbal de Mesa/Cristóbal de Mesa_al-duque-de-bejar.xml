@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Al Duque de Béjar</title>
+    <author>Cristóbal de Mesa</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cristóbal de Mesa_al-duque-de-bejar</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Al Duque de Béjar</title>
+     <author>Cristóbal de Mesa</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Al Duque de Béjar</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+---+-">Gustad, señor, de aquesta vuestra villa,</l>
+     <l n="2" met="---+-+-+-+-">en la cual bien se vive y bien se bebe,</l>
+     <l n="3" met="--+--+-+-+-">porque falta el calor y sobra nieve</l>
+     <l n="4" met="+--+-+---+-">y hay las mejores frutas de Castilla.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+---+-">Y si en el bosque, ameno a maravilla,</l>
+     <l n="6" met="+-++---+-+-">cansase el ocio de las musas nueve,</l>
+     <l n="7" met="---+---+++-">considerando que la vida es breve</l>
+     <l n="8" met="+++--+---+-">no está lejos la corte ni Sevilla.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Procurad la salud y la alegría</l>
+     <l n="10" met="--+--+-+++-">que la vida en el mundo no es más de una;</l>
+     <l n="11" met="---+-+-+-+-">y si dijese el vario vulgo, diga.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">Desterrad la mortal melancolía,</l>
+     <l n="13" met="--++-+-+-+-">que si está triste el ánimo, una higa</l>
+     <l n="14" met="+-+--+---+-">pasa toda la próspera fortuna.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

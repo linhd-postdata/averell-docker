@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Opuštěná.</title>
+    <author>Stašek, Antal</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Stašek, Antal_opustena</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Opuštěná.</title>
+     <author>Stašek, Antal</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Opuštěná.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">„Proudí Labe v širé moře,</l>
+     <l n="2" met="10001010" rhyme="1" line_length="8">na vlnkách se slunko chvěje;</l>
+     <l n="3" met="10101010" rhyme="2" line_length="8">spějme odtud v dálné kraje,</l>
+     <l n="4" met="00101010" rhyme="1" line_length="8">tam se na nás růže směje.“</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" line_length="8">„Šeptá Labe tajné zvěsti,</l>
+     <l n="6" met="10001010" rhyme="2" line_length="8">ve vlnách si píseň hraje,</l>
+     <l n="7" met="00101010" line_length="8">že prý moře srdce nemá,</l>
+     <l n="8" met="10001010" rhyme="2" line_length="8">mrazem dchnou prý cizé kraje.“</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001001" line_length="8">Opustil ji, do světa šel</l>
+     <l n="10" met="10101010" rhyme="3" line_length="8">hledať srdce v dálném moři,</l>
+     <l n="11" met="10001000" line_length="8">vícekrát se nenavrátil,</l>
+     <l n="12" met="10001010" rhyme="3" line_length="8">utonul tam někde v hoři.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101010" line_length="8">A zas Labe k moři plyne,</l>
+     <l n="14" met="10101010" rhyme="4" line_length="8">vlna houpá lunu ladnou;</l>
+     <l n="15" met="10101010" line_length="8">dívka béře vínek růží,</l>
+     <l n="16" met="10001010" rhyme="4" line_length="8">vrhajíc jej v náruč chladnou.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10101010" line_length="8">„Plyň ty vínku k jeho rovu,</l>
+     <l n="18" met="10001010" rhyme="5" line_length="8">pošeptej mu zvěst tu černou,</l>
+     <l n="19" met="10101010" line_length="8">svět že nezná jiných rájů,</l>
+     <l n="20" met="01101010" rhyme="5" line_length="8">než dvou srdcí lásku věrnou.“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

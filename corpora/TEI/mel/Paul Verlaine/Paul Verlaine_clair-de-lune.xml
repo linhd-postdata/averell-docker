@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Clair de lune</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_clair-de-lune</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Clair de lune</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Clair de lune</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4−6">Votre âme est un paysage choisi</l>
+     <l n="2" rhyme="b" line_length="4+6">Que vont charmant masques et bergamasques</l>
+     <l n="3" rhyme="a" line_length="4+6">Jouant du luth et dansant et quasi</l>
+     <l n="4" rhyme="b" line_length="4−6">Tristes sous leurs déguisements fantasques.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="4+6">Tout en chantant sur le mode mineur</l>
+     <l n="6" rhyme="b" line_length="4+6">L’amour vainqueur et la vie opportune</l>
+     <l n="7" rhyme="a" line_length="4+6">Ils n’ont pas l’air de croire à leur bonheur</l>
+     <l n="8" rhyme="b" line_length="4+6">Et leur chanson se mêle au clair de lune,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="4+6">Au calme clair de lune triste et beau,</l>
+     <l n="10" rhyme="b" line_length="4+6">Qui fait rêver les oiseaux dans les arbres</l>
+     <l n="11" rhyme="a" line_length="4+6">Et sangloter d’extase les jets d’eau,</l>
+     <l n="12" rhyme="b" line_length="4+6">Les grands jets d’eau sveltes parmi les marbres.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

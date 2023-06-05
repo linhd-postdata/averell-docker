@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Andromède</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_andromede</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Andromède</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Andromède</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Andromède gémit dans le désert sans voile,</l>
+     <l n="2" rhyme="b" line_length="6+6">Nue et pâle, tordant ses bras sur le rocher.</l>
+     <l n="3" rhyme="b" line_length="6+6">Rien sur le sable ardent que la mer vient lécher,</l>
+     <l n="4" rhyme="a" line_length="6+6">Rien ! pas même un chasseur dans un abri de toile.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6−6">Rien sur le sable, et sur la mer pas une voile !</l>
+     <l n="6" rhyme="b" line_length="6+6">Le soleil la déchire, impitoyable archer,</l>
+     <l n="7" rhyme="b" line_length="6+6">Et le monstre bondit comme pour s'approcher</l>
+     <l n="8" rhyme="a" line_length="6+6">De la vierge qui meurt, plus blanche qu'une étoile.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Âme enfantine et douce, elle agonise, hélas !</l>
+     <l n="10" rhyme="c" line_length="6+6">Mais Persée aux beaux yeux, le meurtrier d'Atlas,</l>
+     <l n="11" rhyme="d" line_length="6+6">Vient et fend l'air, monté sur le divin Pégase.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Il vient, échevelé, tenant son glaive d'or,</l>
+     <l n="13" rhyme="d" line_length="6+6">Et la jeune princesse, immobile d'extase,</l>
+     <l n="14" rhyme="e" line_length="6+6">Suit des yeux dans l'azur son formidable essor.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

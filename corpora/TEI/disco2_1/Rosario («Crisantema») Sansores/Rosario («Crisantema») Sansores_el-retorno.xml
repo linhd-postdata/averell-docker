@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El retorno</title>
+    <author>Rosario («Crisantema») Sansores</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Rosario («Crisantema») Sansores_el-retorno</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El retorno</title>
+     <author>Rosario («Crisantema») Sansores</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El retorno</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="++---++-++-">Yo sé que volverás. Yo sé que un día</l>
+     <l n="2" met="---+-+---+-">suspirarán unidas nuestras bocas</l>
+     <l n="3" met="+-+--+-+-+-">y otra vez en la noche quieta y fría</l>
+     <l n="4" met="---+---+-+-">se juntarán nuestras cabezas locas...</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">Sé que en tus horas de nostalgia evocas</l>
+     <l n="6" met="-+---+-+-+-">el ámbar de mi piel y sé que sueñas</l>
+     <l n="7" met="---+---+-+-">que estremecido entre tus manos tocas</l>
+     <l n="8" met="+-+--+---+-">dos palomas nevadas y sedeñas...</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+----+-+-">¡Ah! Yo también cuando la alondra canta,</l>
+     <l n="10" met="+--+---+++-">sueño en tu amor y mi tristeza es tanta</l>
+     <l n="11" met="-+-+---+-+-">que ya su peso el corazón ahoga...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">Mi vida -silenciosa pasajera-</l>
+     <l n="13" met="---+-+---+-">en el esquife azul de la quimera</l>
+     <l n="14" met="---+---+-+-">sobre las aguas del recuerdo, boga...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

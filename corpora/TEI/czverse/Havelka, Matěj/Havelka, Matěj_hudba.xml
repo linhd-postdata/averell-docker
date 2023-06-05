@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hudba.</title>
+    <author>Havelka, Matěj</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Havelka, Matěj_hudba</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hudba.</title>
+     <author>Havelka, Matěj</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hudba.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101010" rhyme="1" line_length="8">Když ta naše hudba hraje</l>
+     <l n="2" met="1000100" rhyme="2" line_length="7">Libozvučně k pochodu,</l>
+     <l n="3" met="01001010" rhyme="1" line_length="8">Tu vojácké srdce ssaje</l>
+     <l n="4" met="1000100" rhyme="2" line_length="7">Jarobujnou lahodu.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010010" rhyme="3" line_length="8">Prápor vlá ve výši, skvěle</l>
+     <l n="6" met="1000100" rhyme="4" line_length="7">Vynikaje z prostředu,</l>
+     <l n="7" met="10010010" rhyme="3" line_length="8">Hrdě my za ním a směle</l>
+     <l n="8" met="1010100" rhyme="4" line_length="7">Pevným krokem ku předu.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101000" rhyme="5" line_length="8">Hrajte hlučně, hudebníci,</l>
+     <l n="10" met="0100101" rhyme="6" line_length="7">Ať nad námi plesá svět,</l>
+     <l n="11" met="00101000" rhyme="5" line_length="8">Že jsme švární bojovníci,</l>
+     <l n="12" met="1010101" rhyme="6" line_length="7">Chrabré síly jarý květ.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="00101010" rhyme="7" line_length="8">Až však zplane boje tíseň,</l>
+     <l n="14" met="0100100" rhyme="8" line_length="7">Tu při půtky výpuku,</l>
+     <l n="15" met="10101010" rhyme="7" line_length="8">Vpleťte sladkou českou píseň</l>
+     <l n="16" met="1000100" rhyme="8" line_length="7">Do pochodních souzvuků.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="00100100" rhyme="9" line_length="8">Tím se pomnění roznítí,</l>
+     <l n="18" met="1000111" rhyme="10" line_length="7">V Rakousku že vlast má Čech,</l>
+     <l n="19" met="01010010" rhyme="9" line_length="8">A budem Rakousko krýti</l>
+     <l n="20" met="0110101" rhyme="10" line_length="7">Co lvi, pokud stačí dech.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

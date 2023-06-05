@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PSÁNO POD PSEUDONYMEM</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_psano-pod-pseudonymem</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PSÁNO POD PSEUDONYMEM</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PSÁNO POD PSEUDONYMEM</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010101" rhyme="1" line_length="10">Mé pravé jméno –? To přec poví styl!</l>
+     <l n="2" met="1101000100" rhyme="1" line_length="10">„Styl,“ jak jsem v slovníku se poučil,</l>
+     <l n="3" met="01010100110" rhyme="2" line_length="11">toť ostrý hrot a proniknout má dílem.</l>
+     <l n="4" met="0100010001" rhyme="1" line_length="10">Mé řemeslo –? Ne nadarmo jsem žil,</l>
+     <l n="5" met="01000100110" rhyme="2" line_length="11">když vyryjí mi na urnu: „Psal. Stylem!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

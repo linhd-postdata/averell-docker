@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ZÁZRAK.</title>
+    <author>Lukavský, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">17</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lukavský, Josef_zazrak</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ZÁZRAK.</title>
+     <author>Lukavský, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ZÁZRAK.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" rhyme="1" line_length="8">Jako bílý sněhuláček</l>
+     <l n="2" met="100010" rhyme="2" line_length="6">přede mnou jsi stála –</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">bílý čepec, bílý fráček</l>
+     <l n="4" met="010010" rhyme="2" line_length="6">i sukýnka malá</l>
+     <l n="5" met="01001010" line_length="8">a zdá se mi, že's mi bílé</l>
+     <l n="6" met="101000" rhyme="2" line_length="6">věty povídala.</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="10101010" rhyme="3" line_length="8">Jenom oči, zlaté oči</l>
+     <l n="8" met="101010" rhyme="4" line_length="6">rudým ohněm žhnuly</l>
+     <l n="9" met="01001010" rhyme="3" line_length="8">a jako když satan skočí</l>
+     <l n="10" met="101000" rhyme="4" line_length="6">na mně spočinuly</l>
+     <l n="11" met="01100110" line_length="8">a dvě ručky jak dva květy</l>
+     <l n="12" met="100010" rhyme="4" line_length="6">v žádosti se pnuly.</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="10001000" line_length="8">V lokty spial jsem sněhuláčka,</l>
+     <l n="14" met="100010" rhyme="5" line_length="6">v objetí ho schoval</l>
+     <l n="15" met="100010" rhyme="5" line_length="6">na klíně jen choval,</l>
+     <l n="16" met="10101010" line_length="8">který žhoucím dechem pekla</l>
+     <l n="17" met="101000" rhyme="5" line_length="6">rty mé poceloval.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

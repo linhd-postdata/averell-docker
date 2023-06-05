@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CREDO</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_credo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CREDO</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CREDO</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+6">Je crois ce que l’Église catholique</l>
+     <l n="2" rhyme="b" line_length="4−6">M’enseigna dès l’âge d’entendement :</l>
+     <l n="3" rhyme="a" line_length="4+6">Que Dieu le Père est le fauteur unique</l>
+     <l n="4" rhyme="b" line_length="6+4">Et le régulateur absolument</l>
+     <l n="5" rhyme="c" line_length="4+6">De toute chose invisible et visible,</l>
+     <l n="6" rhyme="c" line_length="6+4">Et que, par un mystère indéfectible,</l>
+    </lg>
+    <lg n="2">
+     <l n="7" rhyme="a" line_length="4+6">Il engendra, ne fit pas Jésus-Christ</l>
+     <l n="8" rhyme="b" line_length="4+6">Son Fils unique avant que la lumière</l>
+     <l n="9" rhyme="a" line_length="4+6">Ne fût créée, et qu’il était écrit</l>
+     <l n="10" rhyme="b" line_length="4+6">Que celui-ci mourrait de mort amère,</l>
+     <l n="11" rhyme="c" line_length="4+6">Pour nous sauver du malheur immortel,</l>
+     <l n="12" rhyme="c" line_length="4+6">Sur le Calvaire et, depuis, sur l’Autel ;</l>
+    </lg>
+    <lg n="3">
+     <l n="13" rhyme="a" line_length="6+4">Enfin que l’Esprit saint, lequel procède</l>
+     <l n="14" rhyme="b" line_length="4+6">Et du Père et du Fils et qui parlait</l>
+     <l n="15" rhyme="a" line_length="6+4">Par les prophètes, et ma foi qui s’aide</l>
+     <l n="16" rhyme="b" line_length="4+6">De charité croit le dogme complet</l>
+     <l n="17" rhyme="c" line_length="6+4">De l’Église de Rome, au saint baptême,</l>
+     <l n="18" line_length="6+4">En la vie éternelle.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El amor</title>
+    <author>José Jacinto Milanés</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Jacinto Milanés_el-amor</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El amor</title>
+     <author>José Jacinto Milanés</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El amor</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+---+-">Cuando al salir el mundo de la nada</l>
+     <l n="2" met="---+---+-+-">en espantosa oscuridad yacía</l>
+     <l n="3" met="-+-+-+-+-+-">natura inmóvil, muda, y no infundía</l>
+     <l n="4" met="+--+---+-+-">vida el calor en la materia helada:</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">Del seno de los cielos inflamada</l>
+     <l n="6" met="+-+--+-+-+-">una voz se lanzó que «Amor» decía,</l>
+     <l n="7" met="-+-+-+---+-">y Amor, Amor, alegre repetía</l>
+     <l n="8" met="--+-+----+-">la creación de súbito animada.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+----+-+-+-">Lleno de majestad el sol primero</l>
+     <l n="10" met="-+---+---+-">la tierra fecundó con sus ardores</l>
+     <l n="11" met="-+-+---+-+-">a luz sacando el universo entero.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--++---+-+-">Y entre mil seres y fragantes flores,</l>
+     <l n="13" met="--+--+---+-">arrullada del aire placentero,</l>
+     <l n="14" met="--+--++--+-">la belleza nació, reina de Amores.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

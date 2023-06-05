@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NÁRODNÍ</title>
+    <author>Dyk, Viktor</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dyk, Viktor_narodni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NÁRODNÍ</title>
+     <author>Dyk, Viktor</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NÁRODNÍ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0010100" rhyme="1" line_length="7">Co ta sova zahouká</l>
+     <l n="2" met="100010" rhyme="2" line_length="6">ve vysokém hvozdě?</l>
+     <l n="3" met="1000100" rhyme="1" line_length="7">Nejkrásnější myšlenka</l>
+     <l n="4" met="100010" rhyme="2" line_length="6">přicházívá pozdě.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010101" rhyme="1" line_length="7">Dvakrát dá, kdo rychle dá,</l>
+     <l n="6" met="101010" rhyme="3" line_length="6">sova hlas svůj zvedá.</l>
+     <l n="7" met="1000101" rhyme="1" line_length="7">Ale ten, kdo pozdě dá,</l>
+     <l n="8" met="100010" rhyme="3" line_length="6">jako když nic nedá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010100" line_length="7">Sova ještě houkala.</l>
+     <l n="10" met="100010" rhyme="4" line_length="6">Naslouchal jsem klidně.</l>
+     <l n="11" met="1010100" line_length="7">Ale vedle bylo zle</l>
+     <l n="12" met="100010" rhyme="4" line_length="6">panáčkovi z Vídně.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

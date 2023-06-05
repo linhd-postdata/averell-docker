@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CX</title>
+    <author>Tristan Derème</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tristan Derème_cx</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CX</title>
+     <author>Tristan Derème</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CX</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+4+4">Jean Pellerin, j'ai revêtu la houppelande</l>
+     <l n="2" rhyme="a" line_length="6+6">Grise. C'est l'hôpital. Qu'un rosier enguirlande</l>
+     <l n="3" rhyme="b" line_length="6+6">Vos tuiles et fleurisse à la neuve saison</l>
+     <l n="4" rhyme="b" line_length="6+6">Afin que vous viviez parmi les roses ! On</l>
+     <l n="5" rhyme="a" line_length="6+6">Le cherche et le bonheur est sous les branches ; elles</l>
+     <l n="6" rhyme="a" line_length="6+6">Frémissent quand un geai les touche de ses ailes…</l>
+     <l n="7" rhyme="b" line_length="6+6">Mais où sont les oiseaux et les feuilles ? Je n'ai</l>
+     <l n="8" rhyme="b" line_length="6−6">Que des flacons et un œillet jaune et fané</l>
+     <l n="9" rhyme="a" line_length="6+6">Dans un verre ; et le soir, lorsque les notes grêles</l>
+     <l n="10" rhyme="a" line_length="6+6">S'envolent des clochers comme des tourterelles,</l>
+     <l n="11" rhyme="b" line_length="6+6">Je regarde, perdu dans ce lit d'hôpital,</l>
+     <l n="12" rhyme="b" line_length="6+6">Glisser sur les carreaux la lune de cristal.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

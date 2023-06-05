@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JEŘABINY.</title>
+    <author>Haasz, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Haasz, Jaroslav_jerabiny</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JEŘABINY.</title>
+     <author>Haasz, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JEŘABINY.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010100010" rhyme="1" line_length="9">Když les je nevlídný a němý,</l>
+     <l n="2" met="010011010" rhyme="2" line_length="9">a poutníka mha vlhká mámí,</l>
+     <l n="3" met="010101000" rhyme="1" line_length="9">když slzy kanou pod větvemi,</l>
+     <l n="4" met="010100010" rhyme="2" line_length="9">vy, trpké, dozráváte samy.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="110101000" rhyme="3" line_length="9">Strom šedý toužil po ovoci</l>
+     <l n="6" met="010101000" rhyme="4" line_length="9">a v chladnu zvolna vykrvácí,</l>
+     <l n="7" met="010100010" rhyme="4" line_length="9">z vás jedna po druhé se ztrácí,</l>
+     <l n="8" met="010001010" rhyme="3" line_length="9">vás rozšlapou snad cizí chodci,</l>
+     <l n="9" met="010001010" rhyme="4" line_length="9">a rozklovají tažní ptáci.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

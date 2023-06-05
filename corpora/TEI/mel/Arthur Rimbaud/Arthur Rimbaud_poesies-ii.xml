@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>POÉSIES II</title>
+    <author>Arthur Rimbaud</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Arthur Rimbaud_poesies-ii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>POÉSIES II</title>
+     <author>Arthur Rimbaud</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>POÉSIES II</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">L’étoile a pleuré rose au cœur de tes oreilles,</l>
+     <l n="2" rhyme="b" line_length="6+6">L’infini roulé blanc de ta nuque à tes reins</l>
+     <l n="3" rhyme="a" line_length="6+6">La mer a perlé rousse à tes mammes vermeilles</l>
+     <l n="4" rhyme="b" line_length="6+6">Et l’Homme saigné noir à ton flanc souverain.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

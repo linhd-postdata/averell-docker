@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto al lector</title>
+    <author>Francisco Crespi de Valldaura</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco Crespi de Valldaura_soneto-al-lector</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto al lector</title>
+     <author>Francisco Crespi de Valldaura</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto al lector</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+---+-">Con voz llorosa y triste melodía</l>
+     <l n="2" met="+--+-+---+-">canta el Girón la muerte y el tormento</l>
+     <l n="3" met="-+---+---+-">de aquel, en cuyo alegre nacimiento</l>
+     <l n="4" met="-+-+-+---+-">cantaba el cielo gloria y alegría.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">Sientan las almas áspera agonía,</l>
+     <l n="6" met="+--+-+---+-">y hagan los ojos grave sentimiento</l>
+     <l n="7" met="-++--+-+-+-">de ver tan afrentado y tan sangriento</l>
+     <l n="8" met="-+---+---+-">el Hijo poderoso de María.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-++--+---+-">Y tú, pío lector, después de visto</l>
+     <l n="10" met="-+---+-+-+-">el orden, el primor, destreza y gala</l>
+     <l n="11" met="-+---++--+-">del canto que a llorar ha de moverte.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+----+---+-">Llora de compasión de Jesu-Cristo</l>
+     <l n="13" met="---+-+-+-+-">y de dolor de ver la vida mala</l>
+     <l n="14" met="---+-+---+-">de los que fueron libres con su muerte.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

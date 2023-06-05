@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El envidioso</title>
+    <author>Juan del Pueblo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan del Pueblo_el-envidioso</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El envidioso</title>
+     <author>Juan del Pueblo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El envidioso</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+--++-+-+-">-Confieso, señor cura, que he pecado</l>
+     <l n="2" met="---+---+-+-">por codiciar a la mujer ajena...</l>
+     <l n="3" met="-+---+---+-">-¿Tal vez a Magdalena? -A Magdalena.</l>
+     <l n="4" met="+--+++--+-">-¡Guapa mujer!... Lo había imaginado.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+-+-+-">-Acúsome también de que ha cruzado</l>
+     <l n="6" met="-+-+-+-+-+-">por mí una idea atroz que me condena</l>
+     <l n="7" met="-----+-+++-">respecto a Salomé... ¡Pues esa es buena!</l>
+     <l n="8" met="-+-+-----+-">-¿Mi ama? -Sí, señor. -¡Desventurado!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+---+-+-">-¿Es grave crimen?... De la raya pasa.</l>
+     <l n="10" met="+----+-+-+-">-Hoy el remordimiento me devora.</l>
+     <l n="11" met="-+-+---+-+-">-Pues no será la penitencia escasa...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+-+-+-">No has de salir del templo en una hora.</l>
+     <l n="13" met="+----++--+-">(Qué es lo que tardaré yendo a su casa</l>
+     <l n="14" met="---+-+---+-">en donde me ha citado su señora.)</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

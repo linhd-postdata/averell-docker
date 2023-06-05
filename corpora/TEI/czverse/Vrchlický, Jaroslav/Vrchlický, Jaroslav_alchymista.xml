@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Alchymista.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_alchymista</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Alchymista.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Alchymista.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101000" rhyme="1" line_length="10">Alchymista staré na rytině</l>
+     <l n="2" met="1010100010" rhyme="2" line_length="10">stále míchá, přelévá a vaří,</l>
+     <l n="3" met="1010101010" rhyme="2" line_length="10">stále doufá, že se práce zdaří,</l>
+     <l n="4" met="1010101010" rhyme="1" line_length="10">zlato cinkne brzy v jeho klíně,</l>
+     <l n="5" met="1000101010" rhyme="2" line_length="10">odbojné dál prvky žhne a páří.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="1000101000" rhyme="2" line_length="10">Myslitelé, pěvci, samotáři!</l>
+     <l n="7" met="1000100010" rhyme="1" line_length="10">poustevníci při myšlenky víně,</l>
+     <l n="8" met="1010101010" rhyme="2" line_length="10">každý s žalem v duši, s vráskou v tváři,</l>
+     <l n="9" met="1000" line_length="4">alchymista,</l>
+    </lg>
+    <lg n="3">
+     <l n="10" met="1010100110" rhyme="1" line_length="10">stále čeká – vleče se čas líně,</l>
+     <l n="11" met="1010001010" rhyme="2" line_length="10">s formou idea se stokrát zmaří;</l>
+     <l n="12" met="1010100010" rhyme="2" line_length="10">pravda uhel, illuse jen září,</l>
+     <l n="13" met="1010101000" rhyme="1" line_length="10">aby splála, zhasla ve vteřině.</l>
+     <l n="14" met="1010101000" rhyme="2" line_length="10">Směšným svatým v lidstva kalendáři</l>
+     <l n="15" met="1000" line_length="4">alchymista.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PÍSEŇ.</title>
+    <author>Frída, Vladimír</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Frída, Vladimír_pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PÍSEŇ.</title>
+     <author>Frída, Vladimír</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PÍSEŇ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001001010" rhyme="1" line_length="10">Pnuly se perutě touhy bílé,</l>
+     <l n="2" met="1001001010" rhyme="1" line_length="10">nemohly doletět svého cíle.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="1001001010" rhyme="2" line_length="10">Nemohly doletět, kam by chtěly,</l>
+     <l n="4" met="0101001010" rhyme="2" line_length="10">i kdyby letěly život celý.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="1001001010" rhyme="1" line_length="10">Pnuly se perutě touhy bílé,</l>
+     <l n="6" met="1001001010" rhyme="1" line_length="10">nemohly doletět svého cíle.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

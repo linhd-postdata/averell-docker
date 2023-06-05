@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SEMANÍNSKÁ</title>
+    <author>Holý, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Holý, Josef_semaninska</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SEMANÍNSKÁ</title>
+     <author>Holý, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SEMANÍNSKÁ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" rhyme="1" line_length="6">V semanínském lese</l>
+     <l n="2" met="101000" rhyme="1" line_length="6">lístek nepohne se,</l>
+     <l n="3" met="10001010" line_length="8">nad námi jen v dálné dáli</l>
+     <l n="4" met="100010" rhyme="1" line_length="6">hvězdička se třese.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101010" rhyme="2" line_length="6">Šíro modro kamsi</l>
+     <l n="6" met="101000" rhyme="2" line_length="6">oči vydívám si,</l>
+     <l n="7" met="10101010" line_length="8">hlavu k hlavě, ňadro k ňadru,</l>
+     <l n="8" met="101000" rhyme="2" line_length="6">k nebi zazpívám si.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="101010" rhyme="3" line_length="6">Pane Bože milý,</l>
+     <l n="10" met="101010" rhyme="3" line_length="6">chvilku ještě, chvíli,</l>
+     <l n="11" met="10101000" line_length="8">rádi bychom do věků se</l>
+     <l n="12" met="101000" rhyme="3" line_length="6">spolu potěšili.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100010" rhyme="4" line_length="6">V semanínském lese</l>
+     <l n="14" met="101000" rhyme="4" line_length="6">lístek nepohne se,</l>
+     <l n="15" met="10001010" line_length="8">pode mnou jen v blahu blízko</l>
+     <l n="16" met="100010" rhyme="4" line_length="6">beruška se třese.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

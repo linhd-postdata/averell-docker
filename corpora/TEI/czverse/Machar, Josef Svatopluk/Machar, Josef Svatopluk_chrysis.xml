@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CHRYSIS.</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_chrysis</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CHRYSIS.</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CHRYSIS.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010100010" line_length="14">K nebesům ráda se díváš, běloloktá Chrysis,</l>
+     <l n="2" met="010101001010010" line_length="15">(co oči moje líbají vlas tvůj, čelo i tváře)</l>
+     <l n="3" met="01010100101010" line_length="14">když bílá světla jiskří se temně modrou plání</l>
+     <l n="4" met="10010" line_length="5">nad spící zemí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010010100010" line_length="14">Chtěl bych být nebem tím hvězdným, běloloktá Chrysis,</l>
+     <l n="6" met="100101001010010" line_length="15">abych ti mohl líbati vlasy, čelo i tváře</l>
+     <l n="7" met="10110100000010" line_length="14">sty a sty očí jiskřivých – co ty bys tak s touhou</l>
+     <l n="8" met="10010" line_length="5">patřila na mě!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

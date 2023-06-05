@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vlasti.</title>
+    <author>Cajthaml-Liberté, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cajthaml-Liberté, František_vlasti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vlasti.</title>
+     <author>Cajthaml-Liberté, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vlasti.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010100" rhyme="1" line_length="10">O vlasti krásná, matko veliká,</l>
+     <l n="2" met="100101010" rhyme="2" line_length="9">pro všechny děti nemáš chleba,</l>
+     <l n="3" met="0101010100" rhyme="1" line_length="10">neb havěť z tebe tyje všeliká,</l>
+     <l n="4" met="010011010" rhyme="2" line_length="9">tvé mléko a med lačně střebá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010100" rhyme="3" line_length="10">Brat bratu podá tvrdou pravici</l>
+     <l n="6" met="011101010" rhyme="4" line_length="9">a chléb jdou hledat k cizím prahům –</l>
+     <l n="7" met="0101010100" rhyme="3" line_length="10">a jiní beze studu na líci</l>
+     <l n="8" met="110001010" rhyme="4" line_length="9">jdou za pochopy ku tvým vrahům.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1000010100" rhyme="5" line_length="10">Na loktech tvých já nikdy nedřímal,</l>
+     <l n="10" met="010101010" rhyme="6" line_length="9">co dítě poznal bídy dosti,</l>
+     <l n="11" met="0110110100" rhyme="5" line_length="10">co muž mimo krov teplý přebýval</l>
+     <l n="12" met="011001010" rhyme="6" line_length="9">a zřel na tvoje žravé hosti.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="0100010100" rhyme="7" line_length="10">Já nelhal jsem ti lásku do očí,</l>
+     <l n="14" met="010101010" rhyme="8" line_length="9">ni jako Jidáš tebe laskal –</l>
+     <l n="15" met="0101000100" rhyme="7" line_length="10">však často zachmuřil jsem obočí</l>
+     <l n="16" met="010001010" rhyme="8" line_length="9">a do havěti drzé práskal.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

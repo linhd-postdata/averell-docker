@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mé šero tiše zpívá,</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_me-sero-tise-zpiva</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mé šero tiše zpívá,</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mé šero tiše zpívá,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010" rhyme="1" line_length="7">Mé šero tiše zpívá, </l>
+     <l n="2" met="0111000" rhyme="1" line_length="7">mou noc jas prohořívá,</l>
+     <l n="3" met="0100010" rhyme="2" line_length="7">a srdce mé se modlí!</l>
+     <l n="4" met="0101010" rhyme="2" line_length="7">s mou duší Bůh se shodli.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010" rhyme="1" line_length="7">Ta chvíle smíru tklivá,</l>
+     <l n="6" met="0101010" rhyme="1" line_length="7">když Bůh v mou náruč splývá</l>
+     <l n="7" met="0101010" rhyme="2" line_length="7">a ruce, které zbodli,</l>
+     <l n="8" met="0101010" rhyme="2" line_length="7">když na mé šíji prodlí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1101010" rhyme="3" line_length="7">Bok jeho na můj lehá,</l>
+     <l n="10" met="1101010" rhyme="3" line_length="7">krev jeho do cév šlehá,</l>
+     <l n="11" met="00010" rhyme="4" line_length="5">a s mou se mísí;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="1001010" rhyme="5" line_length="7">a jak se v údy snuje,</l>
+     <l n="13" met="0101000" rhyme="5" line_length="7">mě k věčnu vykupuje</l>
+     <l n="14" met="01010" rhyme="4" line_length="5">a v život křísí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

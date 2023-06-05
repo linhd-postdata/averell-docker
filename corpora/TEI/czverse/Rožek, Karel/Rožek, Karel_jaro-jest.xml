@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jaro jest!</title>
+    <author>Rožek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Rožek, Karel_jaro-jest</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jaro jest!</title>
+     <author>Rožek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jaro jest!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101010" line_length="9">Jaro jest! – – Ale smutné jaro!</l>
+    </lg>
+    <lg n="2">
+     <l n="2" met="01001001010100010" line_length="17">Již slunce jsem viděl i květy bílé v bažinách se chvící,</l>
+     <l n="3" met="01001000100010" line_length="14">a ptáky jsem poslouchal, jak křičeli mi do snů.</l>
+     <l n="4" met="01001010010010" line_length="14">Jen červené listí na cestě, po které kráčím,</l>
+     <l n="5" met="10101010010" line_length="11">a má duše stále předstírá podzim...</l>
+    </lg>
+    <lg n="3">
+     <l n="6" met="0101001010" line_length="10">Jak byla krásnější jara druhdy!</l>
+     <l n="7" met="0100010010010" line_length="13">– Dnes, bez illusí šťastného zrození tepla,</l>
+     <l n="8" met="1000100010" line_length="10">bez illusí poetické lásky,</l>
+     <l n="9" met="010010" line_length="6">když nevidím v ničem,</l>
+     <l n="10" met="101001010" line_length="9">ani ve květech, ani v slunci,</l>
+     <l n="11" met="1010010101010" line_length="13">ani ve zpěvu ptáků, ani v lidském srdci</l>
+     <l n="12" met="1000100100100" line_length="13">ničeho, než naprosté, zákonné Nutnosti,</l>
+     <l n="13" met="010100010" line_length="9">dnes nechci vzpomínat než toho,</l>
+     <l n="14" met="01010010000" line_length="11">co dávno v slzách a melancholii,</l>
+     <l n="15" met="010100010" line_length="9">co dávno skončilo v mé duši.</l>
+    </lg>
+    <lg n="4">
+     <l n="16" met="1001010010" line_length="10">Byla to smutná pohádka mládí,</l>
+     <l n="17" met="101001001000" line_length="12">mládí, jehož jsem nikdy snad nepochopil,</l>
+     <l n="18" met="10010010" line_length="8">které jsem nikdy snad nežil.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

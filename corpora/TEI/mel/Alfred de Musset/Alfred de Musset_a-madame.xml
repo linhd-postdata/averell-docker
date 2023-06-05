@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Madame ***</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_a-madame</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Madame ***</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Madame ***</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Ne me parlez jamais d’une vieille amitié,</l>
+     <l n="2" rhyme="b" line_length="6+6">Dans vos cheveux dorés quand le printemps se joue</l>
+     <l n="3" rhyme="a" line_length="6+6">Lui, qui vous a laissé — lui, si vite oublié ! —</l>
+     <l n="4" rhyme="b" line_length="6+6">Sa fraîcheur dans l’esprit et sa fleur sur la joue !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

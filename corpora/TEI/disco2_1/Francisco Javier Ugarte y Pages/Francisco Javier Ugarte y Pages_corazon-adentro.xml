@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Corazón adentro</title>
+    <author>Francisco Javier Ugarte y Pages</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco Javier Ugarte y Pages_corazon-adentro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Corazón adentro</title>
+     <author>Francisco Javier Ugarte y Pages</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Corazón adentro</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++--+-+--+-">¡Cuán solo estoy, Señor! Huyo aterrado</l>
+     <l n="2" met="--+--+---+-">del vaivén de la inquieta muchedumbre,</l>
+     <l n="3" met="--+--+---+-">que, gimiendo en perenne servidumbre,</l>
+     <l n="4" met="---+-+---+-">la libertad pregona del pecado...</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">Y ¡qué espantosa soledad!... Cegado</l>
+     <l n="6" met="--+--+---+-">por el vaho de la ambiente podredumbre,</l>
+     <l n="7" met="+-+--+--++-">giro errante, sin faro que me alumbre,</l>
+     <l n="8" met="--+--+---+-">como rojo batel desarbolado...</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+++-+-+-">Pero ¿estará tan sola el alma mía</l>
+     <l n="10" met="-+-+---+-+-">si en Ti mi amor y mi dolor concentro,</l>
+     <l n="11" met="--+--+---+-">y feliz en tu dulce compañía</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">tu auxilio busco y tu piedad encuentro?</l>
+     <l n="13" met="+--+---+-+-">-¡Triste, Señor, mi condición sería</l>
+     <l n="14" met="-+++---+--">si no te hallara corazón adentro!...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

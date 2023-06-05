@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sonnet 73</title>
+    <author>William Shakespeare</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>William Shakespeare_sonnet-73</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>For Better For Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sonnet 73</title>
+     <author>William Shakespeare</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sonnet 73</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="quatrain">
+     <l n="1" met="-+-+-+-+-+">That time of year thou mayst in me behold</l>
+     <l n="2" met="-+-+-+-+-+">When yellow leaves, or none, or few, do hang</l>
+     <l n="3" met="-+-+-+-+-+">Upon those boughs which shake against the cold,</l>
+     <l n="4" met="++-+-+-+++">Bare ruined choirs, where late the sweet birds sang</l>
+    </lg>
+    <lg n="2" stanza_type="quatrain">
+     <l n="5" met="-+-+-+--++">In me thou seest the twilight of such day</l>
+     <l n="6" met="-+-+-+-+-+">As after sunset fadeth in the west;</l>
+     <l n="7" met="-+-+++-+-+">Which by and by black night doth take away,</l>
+     <l n="8" met="++-+-+-+-+">Death's second self, that seals up all in rest.</l>
+    </lg>
+    <lg n="3" stanza_type="quatrain">
+     <l n="9" met="-+-+-+--++">In me thou seest the glowing of such fire,</l>
+     <l n="10" met="-+-+-+-+-+">That on the ashes of his youth doth lie,</l>
+     <l n="11" met="--++-+-+-+">As the deathbed whereon it must expire,</l>
+     <l n="12" met="-+-+-+-+-+">Consumed with that which it was nourished by.</l>
+    </lg>
+    <lg n="4" stanza_type="couplet">
+     <l n="13" met="+--+-+-+-+">This thou perceiv'st, which makes thy love more strong,</l>
+     <l n="14" met="-+-+-+-+-+">To love that well which thou must leave ere long.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

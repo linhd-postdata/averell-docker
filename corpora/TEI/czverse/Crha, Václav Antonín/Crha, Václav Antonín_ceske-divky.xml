@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>České dívky.</title>
+    <author>Crha, Václav Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Crha, Václav Antonín_ceske-divky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>České dívky.</title>
+     <author>Crha, Václav Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>České dívky.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" rhyme="1" line_length="8">Heslem mým jsou české děvy,</l>
+     <l n="2" met="1010100" rhyme="2" line_length="7">Češky hravé, milené:</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">samý smích a samé zpěvy,</l>
+     <l n="4" met="1010100" rhyme="2" line_length="7">ano písně vtělené.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10100010" rhyme="3" line_length="8">Češek mysl vždy je čistá,</l>
+     <l n="6" met="0010101" rhyme="4" line_length="7">jen když mají písní chrám,</l>
+     <l n="7" met="10101010" rhyme="3" line_length="8">k skočné polce kousek místa</l>
+     <l n="8" met="1010100" rhyme="4" line_length="7">a své hochy – k hubinkám.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

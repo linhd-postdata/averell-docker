@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Toledo</title>
+    <author>J. Goy de Silva</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>J. Goy de Silva_toledo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Toledo</title>
+     <author>J. Goy de Silva</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Toledo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+---+--+-">Tu egregia testa elevas, ¡oh!, Toledo inmortal,</l>
+     <l n="2" met="--+--+--+---+-">coronada de fuertes murallas almenadas,</l>
+     <l n="3" met="--+--+---+--+-">donde lucen florones de grandezas pasadas</l>
+     <l n="4" met="-+---+------+-">las torres de tu Alcázar y de tu Catedral.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+++--+---+-">Carlos V te impuso la púrpura imperial.</l>
+     <l n="6" met="--+--+-+----+-">El acero en tu sangre, templo, de sus espadas</l>
+     <l n="7" met="--+--+--+--+-">el ejército hispano. Sus victorias ganadas</l>
+     <l n="8" met="++---+--+---+-">te hicieron soberana del mundo, sin rival.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++--+-+-+--+-">Hoy eres como una vieja reina olvidada,</l>
+     <l n="10" met="-+---+--+---+-">sin corte, sin dominios, guardando tu tesoro</l>
+     <l n="11" met="--+--+---+--+-">en tu vasto palacio solitario y gigante.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+-+----+-">Y en las noches de luna sales engalanada</l>
+     <l n="13" met="---+-+---+--+-">a tu jardín desierto donde el Tajo sonoro</l>
+     <l n="14" met="+--+-+--+-+-+-">canta a tus pies rendido, como un antiguo amante.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

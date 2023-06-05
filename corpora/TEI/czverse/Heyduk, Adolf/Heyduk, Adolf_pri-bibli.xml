@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Při bibli.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_pri-bibli</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Při bibli.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Při bibli.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101000" rhyme="1" line_length="11">V pohorské síňce, matném při kahánku,</l>
+     <l n="2" met="11010100" rhyme="2" line_length="8">dvě stará srdce pospolu:</l>
+     <l n="3" met="10010100110" rhyme="1" line_length="11">babička v bibli poslední čte stránku,</l>
+     <l n="4" met="10010100" rhyme="2" line_length="8">dědeček skloněn ke stolu.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11010101010" rhyme="3" line_length="11">Půl věku četli z oné svaté knihy,</l>
+     <l n="6" met="10010101" rhyme="4" line_length="8">Pánbůh jim chránil chudý práh,</l>
+     <l n="7" met="10010100010" rhyme="3" line_length="11">na starých hlavách necítili tíhy</l>
+     <l n="8" met="10010100" rhyme="4" line_length="8">bílé, jak sněhy na horách.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101010" rhyme="5" line_length="11">Ta svatá kniha celým jejich světem...</l>
+     <l n="10" met="10010100" rhyme="6" line_length="8">Dočetli, hlavy sklonili,</l>
+     <l n="11" met="10010101010" rhyme="5" line_length="11">jediné amen znělo dvojím retem –</l>
+     <l n="12" met="10010100" rhyme="6" line_length="8">ráno jim hranu zvonili.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

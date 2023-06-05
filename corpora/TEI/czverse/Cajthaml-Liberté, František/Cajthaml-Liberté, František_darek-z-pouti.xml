@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>DÁREK Z POUTI</title>
+    <author>Cajthaml-Liberté, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cajthaml-Liberté, František_darek-z-pouti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>DÁREK Z POUTI</title>
+     <author>Cajthaml-Liberté, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>DÁREK Z POUTI</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" rhyme="1" line_length="8">Jen ctnostné chodí družičky</l>
+     <l n="2" met="1000010" rhyme="2" line_length="7">na svatohorské poutě</l>
+     <l n="3" met="01001100" rhyme="1" line_length="8">a za třikrát tři měsíčky</l>
+     <l n="4" met="1001010" rhyme="2" line_length="7">naříká mnohá v koutě,</l>
+     <l n="5" met="0100100" rhyme="3" line_length="7">což na cestě přes Brdy</l>
+     <l n="6" met="1101010" rhyme="3" line_length="7">hlas věštil vrány tvrdý.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

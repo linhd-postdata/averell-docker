@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les Clochettes</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_les-clochettes</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Les Clochettes</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Les Clochettes</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Maintenant, je suis malheureux</l>
+     <l n="2" rhyme="b" line_length="8">De rencontrer ces fleurs clochettes</l>
+     <l n="3" rhyme="b" line_length="8">À bords dentelés, violettes,</l>
+     <l n="4" rhyme="a" line_length="8">Sur les talus des chemins creux.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="b" line_length="8">Et pourtant ces douces fluettes</l>
+     <l n="6" rhyme="a" line_length="8">Sont encor dans leur coin frileux,</l>
+     <l n="7" rhyme="a" line_length="8">Le perchoir des papillons bleus</l>
+     <l n="8" rhyme="b" line_length="8">Qui s'en font des escarpolettes.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="8">Mais qu'importe ! La canicule</l>
+     <l n="10" rhyme="c" line_length="8">Tire à sa fin. L'été recule…</l>
+     <l n="11" rhyme="d" line_length="8">Et, pour l'oreille de mon cœur</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="d" line_length="8">Inquiet et pronostiqueur,</l>
+     <l n="13" rhyme="e" line_length="8">À petits tintements moroses</l>
+     <l n="14" rhyme="e" line_length="8">Ces fleurs sonnent le glas des choses.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

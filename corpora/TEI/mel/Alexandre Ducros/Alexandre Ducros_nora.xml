@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nora</title>
+    <author>Alexandre Ducros</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alexandre Ducros_nora</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nora</title>
+     <author>Alexandre Ducros</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nora</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Nous allions doucement sous le couvert ombreux</l>
+     <l n="2" rhyme="b" line_length="6+6">Plein de molles senteurs, de troublantes haleines,</l>
+     <l n="3" rhyme="b" line_length="6+6">Et les tendres ramiers qui revenaient des plaines</l>
+     <l n="4" rhyme="a" line_length="6+6">Emplissaient les vieux nids de soupirs langoureux.</l>
+     <l n="5" rhyme="c" line_length="6+6">Les tièdes zéphyrs avec des chansons douces</l>
+     <l n="6" rhyme="d" line_length="6+6">Berçaient ou réveillaient les divines ardeurs</l>
+     <l n="7" rhyme="c" line_length="6+6">Des couples amoureux foulant les vertes mousses,</l>
+     <l n="8" rhyme="d" line_length="6+6">Où les acacias faisaient neiger leurs fleurs.</l>
+    </lg>
+    <lg n="2">
+     <l n="9" rhyme="a" line_length="6+6">Mais Nora ne vient plus sur la neige odorante</l>
+     <l n="10" rhyme="b" line_length="6+6">Des blancs acacias poser ses pieds mignons ;</l>
+     <l n="11" rhyme="b" line_length="6+6">Sous le couvert ombreux où tous deux nous allions,</l>
+     <l n="12" rhyme="a" line_length="6+6">Pleine d'un triste émoi ma pensée est errante.</l>
+    </lg>
+    <lg n="3">
+     <l n="13" rhyme="a" line_length="6+6">Ne la caches-tu point, ô bois silencieux ?</l>
+     <l n="14" rhyme="b" line_length="6+6">Vous, ramiers, qui veniez sur son épaule nue</l>
+     <l n="15" rhyme="a" line_length="6+6">Reposer votre vol ; vous, zéphyrs amoureux,</l>
+     <l n="16" rhyme="a" line_length="6+6">Qui baisiez en passant l'or de ses blonds cheveux,</l>
+     <l n="17" rhyme="b" line_length="6+6">Dans la plaine ou le val ne l'avez-vous point vue ?</l>
+     <l n="18" rhyme="b" line_length="6+6">Répondez à mes cris. — Qu'est-elle devenue ?…</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

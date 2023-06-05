@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Co vy, páni, stále máte,</title>
+    <author>Menhard, František Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Menhard, František Ladislav_co-vy-pani-stale-mate</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Co vy, páni, stále máte,</title>
+     <author>Menhard, František Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Co vy, páni, stále máte,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101010" rhyme="1" line_length="8">Co vy, páni, stále máte, </l>
+     <l n="2" met="01001000" rhyme="1" line_length="8">že na vlečky naříkáte?</l>
+     <l n="3" met="0010001" rhyme="2" line_length="7">Nechť již zmlkne ten váš křik –</l>
+     <l n="4" met="0010001" rhyme="2" line_length="7">vždyť to chvalitebný zvyk!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00101010" rhyme="3" line_length="8">Jen ať naše dámy všecky</l>
+     <l n="6" met="10100010" rhyme="3" line_length="8">nosí sáhodlouhé vlečky:</l>
+     <l n="7" met="1000100" rhyme="4" line_length="7">ušetří tím magistrát</l>
+     <l n="8" met="1010011" rhyme="4" line_length="7">plat, jejž metařům má dát!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

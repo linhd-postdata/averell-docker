@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NÁLADA</title>
+    <author>z Wojkowicz, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>z Wojkowicz, Jan_nalada</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NÁLADA</title>
+     <author>z Wojkowicz, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NÁLADA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010100" rhyme="1" line_length="10">Je Duše jako tichá hladina,</l>
+     <l n="2" met="01000101010" rhyme="2" line_length="11">vše odráží se na ní měkce, snivě,</l>
+     <l n="3" met="1100010100" rhyme="1" line_length="10">pár labutí si na ní usíná</l>
+     <l n="4" met="10010101000" rhyme="2" line_length="11">s útlými krky, snících zádumčivě.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0001010100" rhyme="3" line_length="10">Jak že je krásné z dálky naslouchat</l>
+     <l n="6" met="1101000101000" rhyme="4" line_length="13">sen zvuků violy, v němž labuť pousíná,</l>
+     <l n="7" met="0101010101" rhyme="3" line_length="10">kdy tichý vánek řekou počne vát –</l>
+     <l n="8" met="00010101000" rhyme="4" line_length="11">jak že je sladké čísti Lamartina!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101000100010" rhyme="5" line_length="13">V té tvarů čistotě, v té exaltaci tiché,</l>
+     <l n="10" met="01000100010" rhyme="6" line_length="11">jak krásné je, co, milováno, nyje –</l>
+     <l n="11" met="01000101010" rhyme="5" line_length="11">tak malována útlým štětcem Psyché,</l>
+     <l n="12" met="01010001000" rhyme="6" line_length="11">je sama diskretnost a harmonie.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

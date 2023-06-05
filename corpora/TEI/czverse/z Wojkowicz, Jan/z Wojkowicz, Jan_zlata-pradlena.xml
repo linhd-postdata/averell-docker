@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ZLATÁ PŘADLENA.</title>
+    <author>z Wojkowicz, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>z Wojkowicz, Jan_zlata-pradlena</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ZLATÁ PŘADLENA.</title>
+     <author>z Wojkowicz, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ZLATÁ PŘADLENA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100010101" rhyme="1" line_length="14">Má duše delší dobu již v tak krásném žije snu:</l>
+     <l n="2" met="11010100010100" rhyme="1" line_length="14">Mám v hloubi lesa ukrytu svou Zlatou Přadlenu.</l>
+     <l n="3" met="10010101100100" rhyme="2" line_length="14">Pro tu si, až jen přijde čas, do lesa pojedu,</l>
+     <l n="4" met="01000101010100" rhyme="2" line_length="14">tu z chaloupky v svůj krásný hrad si slavně uvedu.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101100100" rhyme="3" line_length="14">To bude velký, slavný den, šťastný a krásný tak!</l>
+     <l n="6" met="00010100010101" rhyme="3" line_length="14">To vše si řekne v ložnici nás obou šťastný zrak!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

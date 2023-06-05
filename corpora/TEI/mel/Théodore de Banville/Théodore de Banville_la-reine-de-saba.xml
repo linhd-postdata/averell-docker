@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Reine de Saba</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_la-reine-de-saba</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Reine de Saba</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Reine de Saba</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">La Reine Nicosis, portant des pierreries,</l>
+     <l n="2" rhyme="b" line_length="6+6">A pour parure un calme et merveilleux concert</l>
+     <l n="3" rhyme="b" line_length="6+6">D'étoffes, où l'éclair d'un flot d'astres se perd</l>
+     <l n="4" rhyme="a" line_length="6+6">Dans les lacs de lumière et les flammes fleuries.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Son vêtement tremblant chargé d'orfévreries</l>
+     <l n="6" rhyme="b" line_length="6+6">Est fait d'un tissu rare et sur la pourpre ouvert,</l>
+     <l n="7" rhyme="b" line_length="6+6">Où l'or éblouissant, tour à tour rouge et vert,</l>
+     <l n="8" rhyme="a" line_length="6+6">Sert de fond méprisable aux riches broderies.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Elle a de lourds pendants d'oreilles, copiés</l>
+     <l n="10" rhyme="c" line_length="6+6">Sur les feux des soleils du ciel, et sur ses pieds</l>
+     <l n="11" rhyme="d" line_length="6+6">Mille escarboucles font pâlir le jour livide.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Et, fière sous l'éclat vermeil de ses habits,</l>
+     <l n="13" rhyme="d" line_length="6+6">Sur les genoux du roi Salomon elle vide</l>
+     <l n="14" rhyme="e" line_length="6+6">Un vase de saphir d'où tombent des rubis.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La pereza</title>
+    <author>José Selgas y Carrasco</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Selgas y Carrasco_la-pereza</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La pereza</title>
+     <author>José Selgas y Carrasco</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La pereza</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">La escarcha fría en el cristal blanquea,</l>
+     <l n="2" met="-++--+-+-+-">y me ofrecen al par en toma y daca</l>
+     <l n="3" met="---+-+---+-">sus generosos brazos la butaca,</l>
+     <l n="4" met="-+-+-+---+-">su casto amor la ardiente chimenea.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--++-++-">¡Qué el espíritu es fuerte! Que lo sea;</l>
+     <l n="6" met="-+-+---+++-">también sabemos que la carne es flaca,</l>
+     <l n="7" met="---+---+-+-">y si el reposo la inquietud aplaca,</l>
+     <l n="8" met="-+-+---+-+-">ociosa vague la indolente idea.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+++-">Puesto que dicen que la vida es corta,</l>
+     <l n="10" met="++---+--++-">me entrego al abandono que me inunda,</l>
+     <l n="11" met="-+-+++-+-+-">porque este no hacer nada me conforta.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---++--+-">El mundo y la ambición ¡Qué barahúnda!</l>
+     <l n="13" met="+---+-++-+-">Gloria, deber, virtud. ¡Nada me importa!</l>
+     <l n="14" met="--+--+---+-">y si el cielo se hunde que se hunda.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

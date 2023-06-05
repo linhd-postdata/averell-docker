@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SOUVENIR</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_souvenir</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SOUVENIR</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SOUVENIR</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">D'elle que reste-t-il aujourd'hui ? Ce qui reste,</l>
+     <l n="2" rhyme="a" line_length="6+6">Au réveil d'un beau rêve, illusion céleste ;</l>
+     <l n="3" rhyme="b" line_length="6+6">Ce qui reste l'hiver des parfums du printemps,</l>
+     <l n="4" rhyme="b" line_length="6+6">De l'émail velouté du gazon ; au beau temps,</l>
+     <l n="5" rhyme="a" line_length="6+6">Des frimats de l'hiver et des neiges fondues ;</l>
+     <l n="6" rhyme="a" line_length="6+6">Ce qui reste le soir des larmes répandues</l>
+     <l n="7" rhyme="b" line_length="6+6">Le matin par l'enfant, des chansons de l'oiseau,</l>
+     <l n="8" rhyme="b" line_length="6+6">Du murmure léger des ondes du ruisseau,</l>
+     <l n="9" rhyme="a" line_length="6+6">Des soupirs argentins de la cloche, et des ombres</l>
+     <l n="10" rhyme="a" line_length="6+6">Quand l'aube de la nuit perce les voiles sombres.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

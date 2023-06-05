@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>BÁSNÍK A MOŘE.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_basnik-a-more</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>BÁSNÍK A MOŘE.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>BÁSNÍK A MOŘE.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0110101010" rhyme="1" line_length="10">Co chceš, pěvče, se svou bouřnou hymnou?</l>
+     <l n="2" met="1000100010" rhyme="1" line_length="10">Myslíš snad, že lidé si jí všimnou?</l>
+     <l n="3" met="1010100110" rhyme="2" line_length="10">Moře viz! To vidí-li den ke dni,</l>
+     <l n="4" met="1010100010" rhyme="2" line_length="10">s divy všemi stejně jest jim všední.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010010010" rhyme="3" line_length="10">V slunce jasu i ve větrů šlehu</l>
+     <l n="6" met="1001001010" rhyme="3" line_length="10">lhostejní po jeho chodí břehu.</l>
+     <l n="7" met="0010101000" rhyme="4" line_length="10">Ty a moře! – Jedno vlnobití!</l>
+     <l n="8" met="0110101010" rhyme="4" line_length="10">Ty pět musíš, ono musí hřmíti!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>S KNIHOU.</title>
+    <author>Leger, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">3</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Leger, Karel_s-knihou</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>S KNIHOU.</title>
+     <author>Leger, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>S KNIHOU.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000110001" rhyme="1" line_length="10">Čtenáři můj, plač anebo se směj,</l>
+     <l n="2" met="1010101010101" rhyme="1" line_length="13">trhej knihu nebo vlasy (máš-li), nebo klej,</l>
+     <l n="3" met="01001010100" rhyme="1" line_length="11">jen v „klassickém klidu“ nad ní nedřímej!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

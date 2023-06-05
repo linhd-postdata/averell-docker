@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>POPLETENÝ EPIGRAM</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_popleteny-epigram</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>POPLETENÝ EPIGRAM</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>POPLETENÝ EPIGRAM</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0001010010" line_length="10">Byl-li by býval, nebyl by býval;</l>
+     <l n="2" met="1000101010" line_length="10">nebyl-li by býval, byl by býval –</l>
+     <l n="3" met="00101" rhyme="1" line_length="5">jak to pěkně zní!</l>
+     <l n="4" met="10101010" line_length="8">Sved jsem těžce tuhle vazbu</l>
+     <l n="5" met="01000" rhyme="1" line_length="5">a nevím, co s ní.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

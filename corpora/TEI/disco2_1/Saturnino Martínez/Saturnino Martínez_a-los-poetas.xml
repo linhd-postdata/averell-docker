@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A los poetas</title>
+    <author>Saturnino Martínez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Saturnino Martínez_a-los-poetas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A los poetas</title>
+     <author>Saturnino Martínez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A los poetas</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Decid: ¿en dónde la sonante lira</l>
+     <l n="2" met="-+---+---+-">colgada permanece, cuando truena</l>
+     <l n="3" met="-+-+---+-+-">en ronco son que los espacios llena,</l>
+     <l n="4" met="---+---+-+-">la tempestad que se desborda en ira?</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++-+---+-+-">¿Qué, solo, ¡oh Dios!, al trovador inspira</l>
+     <l n="6" met="-+-+---+-+-">el mar bullendo en la rojiza arena,</l>
+     <l n="7" met="-+-+-+---+-">o allá en la tarde plácida y serena</l>
+     <l n="8" met="-+-+---+-+-">la clara ninfa que al pasar suspira?</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-++---+-+-">¡Bardos!... ¡Qué el estro sin cesar depure</l>
+     <l n="10" met="-+-+---+-+-">cantares dignos de obtener la palma</l>
+     <l n="11" met="-+-+---+-+-">que siempre el mundo bendecir procure:</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---++--+-">Pedid que al huracán siga la calma,</l>
+     <l n="13" met="---+---+-+-">y que tras noche de dolor fulgure</l>
+     <l n="14" met="---+---+-+-">el sonrosado porvenir del alma.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

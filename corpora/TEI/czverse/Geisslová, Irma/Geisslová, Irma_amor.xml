@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>AMOR.</title>
+    <author>Geisslová, Irma</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Geisslová, Irma_amor</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>AMOR.</title>
+     <author>Geisslová, Irma</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>AMOR.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Spřádal Amor v sličné hlavě</l>
+     <l n="2" met="100100" rhyme="2" line_length="6">se zlatou kadeří,</l>
+     <l n="3" met="00101010" rhyme="1" line_length="8">jak svým šípem pružně, hravě</l>
+     <l n="4" met="100100" rhyme="2" line_length="6">do srdce zaměří.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101000" rhyme="3" line_length="8">Mhouřil očka v usmívání,</l>
+     <l n="6" met="101101" rhyme="4" line_length="6">špoulil ret jako květ –</l>
+     <l n="7" met="00001000" rhyme="3" line_length="8">že prý se mu neubrání</l>
+     <l n="8" met="101101" rhyme="4" line_length="6">ani kněz, ani kmet.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

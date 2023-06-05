@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vínculo</title>
+    <author>Juana Borrero</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juana Borrero_vinculo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vínculo</title>
+     <author>Juana Borrero</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vínculo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">Escuchando tu acento cariñoso</l>
+     <l n="2" met="---+-+---+-">mi corazón sensible se enternece</l>
+     <l n="3" met="--+-++-+-+-">y la vida más grata me parece</l>
+     <l n="4" met="---+++---+-">y el porvenir más amplio y luminoso.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-----+---+-">Al calor de tu pecho generoso</l>
+     <l n="6" met="--+--+---+-">como niebla sutil se desvanece</l>
+     <l n="7" met="-+---+-+-+-">el tedio funeral que me entristece,</l>
+     <l n="8" met="--+--+---+-">devolviendo a mi espíritu el reposo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">Pues me alcanzaste la perdida calma</l>
+     <l n="10" met="--++-+---+-">y al abrirme el santuario de tu alma</l>
+     <l n="11" met="-+---+---+-">calmaste los rigores de mi suerte,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+-++---+-">¡déjame que me arroje entre tus brazos</l>
+     <l n="13" met="-+-+-+-+-+-">uniéndote a mi ser con unos lazos</l>
+     <l n="14" met="-++--+---+-">que no pueda romper sino la muerte!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

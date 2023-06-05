@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kosa polská. (III.)</title>
+    <author>Furch, Vincenc</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Furch, Vincenc_kosa-polska-iii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kosa polská. (III.)</title>
+     <author>Furch, Vincenc</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kosa polská. (III.)</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101000" line_length="6">Bitev krvavých se</l>
+     <l n="2" met="100010" rhyme="1" line_length="6">Nebojejí Polky:</l>
+     <l n="3" met="100010" line_length="6">Na koně si sedly –</l>
+     <l n="4" met="100110" rhyme="1" line_length="6">Do boje šly holky:</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100" line_length="6">Hraběnka Platerka</l>
+     <l n="6" met="101100" rhyme="2" line_length="6">Vedla pluk ulánů – –</l>
+     <l n="7" met="101010" line_length="6">Kéžby byla Polsce</l>
+     <l n="8" met="101000" rhyme="2" line_length="6">Pannou z Orleánu!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

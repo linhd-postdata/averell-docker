@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nechť rozmrzelý člověk se</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_necht-rozmrzely-clovek-se</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nechť rozmrzelý člověk se</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nechť rozmrzelý člověk se</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100" line_length="8">Nechť rozmrzelý člověk se </l>
+     <l n="2" met="1001010" rhyme="1" line_length="7">ve lázních senních koupá,</l>
+     <l n="3" met="01010100" line_length="8">a vody klamně léčivé</l>
+     <l n="4" met="0101010" rhyme="1" line_length="7">nechť pije chasa skoupá –</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000100" line_length="8">my zdrávi jsme a někdy jen</l>
+     <l n="6" met="0101000" rhyme="2" line_length="7">nám jazyk ochuraví,</l>
+     <l n="7" met="01010100" line_length="8">však krátkou koupel z vína jen –</l>
+     <l n="8" met="0100010" rhyme="2" line_length="7">a jazyk je zas zdravý!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="101010" line_length="6">Koho ještě něco</l>
+     <l n="10" met="101010" rhyme="3" line_length="6">v tomto světě hněte,</l>
+     <l n="11" met="101010" line_length="6">pij jen víno, víno,</l>
+     <l n="12" met="101010" rhyme="3" line_length="6">všechnu starost zhněte.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

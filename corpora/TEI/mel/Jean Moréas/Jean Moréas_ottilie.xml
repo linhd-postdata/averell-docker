@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>OTTILIE</title>
+    <author>Jean Moréas</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jean Moréas_ottilie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>OTTILIE</title>
+     <author>Jean Moréas</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>OTTILIE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Des lèvres de bacchide et des yeux de madone,</l>
+     <l n="2" rhyme="b" line_length="6+6">Des sourcils bifurqués où le diable a son pleige ;</l>
+     <l n="3" rhyme="a" line_length="6+6">Ses cheveux vaporeux que le peigne abandonne</l>
+     <l n="4" rhyme="b" line_length="6+6">Sont couronnés de fleurs plus froides que la neige.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Vient-elle de l'alcôve ou bien de l'ossuaire,</l>
+     <l n="6" rhyme="b" line_length="6+6">Lorsque ses mules d'or frôlent les dalles grises ?</l>
+     <l n="7" rhyme="a" line_length="6+6">Est-ce voile d'hymen ou funèbre suaire,</l>
+     <l n="8" rhyme="b" line_length="6+6">La gaze qui palpite aux vespérales brises ?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Autour du burg, la lune, aux nécromants fidèle,</l>
+     <l n="10" rhyme="b" line_length="6+6">Filtre en gouttes d'argent à travers les ramures.</l>
+     <l n="11" rhyme="a" line_length="6+6">Et l'on entend frémir, ainsi que des coups d'aile,</l>
+     <l n="12" rhyme="b" line_length="6+6">Des harpes, dans la salle où rêvent les armures.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

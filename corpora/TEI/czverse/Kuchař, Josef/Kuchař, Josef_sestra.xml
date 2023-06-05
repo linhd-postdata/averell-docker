@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sestra.</title>
+    <author>Kuchař, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kuchař, Josef_sestra</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sestra.</title>
+     <author>Kuchař, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sestra.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001000" line_length="8">V okně se mi sešeřilo,</l>
+     <l n="2" met="1010101" rhyme="1" line_length="7">každý kout mé jizby spal,</l>
+     <l n="3" met="10100010" line_length="8">a já o starých jsem časech</l>
+     <l n="4" met="1000100" rhyme="1" line_length="7">v mlčení tom přemítal.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" line_length="8">Drahé hlavy, milé tváře</l>
+     <l n="6" met="1000100" rhyme="2" line_length="7">loudily se myslí mou...</l>
+     <l n="7" met="10101000" line_length="8">Všecko mrtvo – na sestru až</l>
+     <l n="8" met="1010100" rhyme="2" line_length="7">někde v dáli jedinou.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001010" line_length="8">Nezřel jsem jí dvacet roků,</l>
+     <l n="10" met="1110000" rhyme="3" line_length="7">Bůh ví, poznal bych ji dnes? –</l>
+     <l n="11" met="10101010" line_length="8">Náhle venku hlas se ozve,</l>
+     <l n="12" met="1010101" rhyme="3" line_length="7">a já v srdce cítím řez.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="00100010" line_length="8">V tom již rozlétnou se dvéře,</l>
+     <l n="14" met="1001100" rhyme="4" line_length="7">výkřik, – a mám sestru zas...</l>
+     <l n="15" met="10101010" line_length="8">Mžik jen stačil, vzbudit po tmě</l>
+     <l n="16" met="1010001" rhyme="4" line_length="7">dávnou podobu i hlas.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

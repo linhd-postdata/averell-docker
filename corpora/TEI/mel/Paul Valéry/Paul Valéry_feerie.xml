@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Féerie</title>
+    <author>Paul Valéry</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Valéry_feerie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Féerie</title>
+     <author>Paul Valéry</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Féerie</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">La lune mince verse une lueur sacrée,</l>
+     <l n="2" rhyme="b" line_length="6+6">Toute une jupe d’un tissu d’argent léger,</l>
+     <l n="3" rhyme="b" line_length="6+6">Sur les bases de marbre où vient l’Ombre songer</l>
+     <l n="4" rhyme="a" line_length="6+6">Que suit d’un char de perle une gaze nacrée.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">Pour les cygnes soyeux qui frôlent les roseaux</l>
+     <l n="6" rhyme="d" line_length="6+6">De carènes de plume à demi lumineuse,</l>
+     <l n="7" rhyme="d" line_length="6+6">Elle effeuille infinie une rose neigeuse</l>
+     <l n="8" rhyme="c" line_length="6+6">Dont les pétales font des cercles sur les eaux…</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="6+6">Est-ce vivre ?… Ô désert de volupté pâmée</l>
+     <l n="10" rhyme="e" line_length="6+6">Où meurt le battement faible de l’eau lamée,</l>
+     <l n="11" rhyme="f" line_length="6+6">Usant le seuil secret des échos de cristal…</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="6−6">La chair confuse des molles roses commence</l>
+     <l n="13" rhyme="f" line_length="6+6">À frémir, si d’un cri le diamant fatal</l>
+     <l n="14" rhyme="g" line_length="6+6">Fêle d’un fil de jour toute la fable immense.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

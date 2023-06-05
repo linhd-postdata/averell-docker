@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La melindrosa</title>
+    <author>Félix María de Samaniego</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Félix María de Samaniego_la-melindrosa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La melindrosa</title>
+     <author>Félix María de Samaniego</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La melindrosa</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+--++-">Señor don Juan, quedito, que me enfado.</l>
+     <l n="2" met="-+-+-+---+-">¿Besar la cara? Es mucho atrevimiento.</l>
+     <l n="3" met="-+--+++--+-">¿Abrazos? ¡Ay Jesús!, no lo consiento.</l>
+     <l n="4" met="-+-++-+-+-">¿Cosquillas? No las hay por ese lado.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--++-+---+-">¿Remangarme? ¡Ay, Juanito!, ¿y el pecado?</l>
+     <l n="6" met="++-+-+-+-+-">¡Qué malos sois los hombres!... Pasos siento.</l>
+     <l n="7" met="++-++--+-+-">¿No es nadie? Pues, bien, vaya en un momento;</l>
+     <l n="8" met="----++--++-">mas ¡cuidado!, no venga algún criado.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-++-+-">¡Jesús!, que loca soy! ¡Quién lo diría</l>
+     <l n="10" met="--++-++--+-">que con un hombre yo!... ¿Cómo cristiana?,</l>
+     <l n="11" met="-+-+-+-+-+-">que ya de puro gusto... ¡Ay, alma mía!</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++-++-++-+-">¡Traidor, déjame, vete...!, ¿aún tienes gana?</l>
+     <l n="13" met="---+++-+-+-">Pues cuando tú lo logres otro día...</l>
+     <l n="14" met="---+---+-+-">Pero, Juanito, ¿volverás mañana?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

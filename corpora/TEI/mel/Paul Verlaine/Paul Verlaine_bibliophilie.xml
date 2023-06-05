@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>BIBLIOPHILIE</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_bibliophilie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>BIBLIOPHILIE</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>BIBLIOPHILIE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Le vieux livre qu’on a lu, relu tant de fois !</l>
+     <l n="2" rhyme="b" line_length="6+6">Brisé, navré, navrant, fait hideux par l'usage,</l>
+     <l n="3" rhyme="b" line_length="6+6">Soudain le voici frais, pimpant, jeune visage</l>
+     <l n="4" rhyme="a" line_length="6+6">Et fin toucher, délice et des yeux et des doigts.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Ce livre cru bien mort, chose d'ombre et d'effrois,</l>
+     <l n="6" rhyme="b" line_length="6+6">Sa résurrection « ne surprend pas le sage ».</l>
+     <l n="7" rhyme="b" line_length="6+6">Qui sait, ô Relieur, artiste ensemble et mage,</l>
+     <l n="8" rhyme="a" line_length="4+4+4">Combien tu fais encore mieux que tu ne dois.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">On le reprend, ce livre en sa toute jeunesse,</l>
+     <l n="10" rhyme="c" line_length="6+6">Comme l’on reprendrait une ancienne maîtresse</l>
+     <l n="11" rhyme="d" line_length="6+6">Que quelque fée aurait revirginée au point ;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6−6">On le relit comme on écouterait la Muse</l>
+     <l n="13" rhyme="d" line_length="4+4+4">D'antan, voix d'or qu'éraillait l'âge qui nous point :</l>
+     <l n="14" rhyme="e" line_length="4+4+4">Claire à nouveau, la revoici qui nous amuse.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

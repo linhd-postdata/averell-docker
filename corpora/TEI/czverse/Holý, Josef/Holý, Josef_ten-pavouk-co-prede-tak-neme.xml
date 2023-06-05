@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ten pavouk! Co přede tak němě?</title>
+    <author>Holý, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Holý, Josef_ten-pavouk-co-prede-tak-neme</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ten pavouk! Co přede tak němě?</title>
+     <author>Holý, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ten pavouk! Co přede tak němě?</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010010010" rhyme="1" line_length="9">Ten pavouk! Co přede tak němě? </l>
+     <l n="2" met="10010101" rhyme="2" line_length="8">Nahoru, dolů – svit a tma;</l>
+     <l n="3" met="0100101010" rhyme="1" line_length="10">ty vlasy, co přede, co tak jemné?</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="10010010" line_length="8">Vlasy, ne, nejsou to Její,</l>
+     <l n="5" met="0001000" rhyme="1" line_length="7">ja Jí je nerval, ne, ne!</l>
+     <l n="6" met="1010101" rhyme="2" line_length="7">A ta rosa třpytná, ha!</l>
+     <l n="7" met="01001010100" line_length="11">ne, není to slza Její poslední!</l>
+    </lg>
+    <lg n="3">
+     <l n="8" met="010110010" rhyme="2" line_length="9">Ten černý bod, uštvaná moucha,</l>
+     <l n="9" met="10010010" rhyme="2" line_length="8">bože, ne, není to Ona!</l>
+     <l n="10" met="1010111" rhyme="2" line_length="7">Pavouk dolů sjel, tma, tma!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

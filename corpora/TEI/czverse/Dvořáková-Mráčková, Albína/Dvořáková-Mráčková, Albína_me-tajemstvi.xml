@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mé tajemství.</title>
+    <author>Dvořáková-Mráčková, Albína</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořáková-Mráčková, Albína_me-tajemstvi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mé tajemství.</title>
+     <author>Dvořáková-Mráčková, Albína</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mé tajemství.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100100" line_length="7">Až fiala z omladlé</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">vzpučí země hrudi,</l>
+     <l n="3" met="1100100" line_length="7">dvé očinek modravých</l>
+     <l n="4" met="100010" rhyme="1" line_length="6">k životu se vzbudí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0110100" line_length="7">Až ples ptactva rozzvučí</l>
+     <l n="6" met="101000" rhyme="2" line_length="6">nivy smaragdové,</l>
+     <l n="7" met="1010100" line_length="7">prvým mladí úsměchem</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">pozdraví mne rtové.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0100100" line_length="7">Až stromoví v slavnostní</l>
+     <l n="10" met="110010" rhyme="3" line_length="6">háv odí se květu,</l>
+     <l n="11" met="1000100" line_length="7">sladké mé se tajemství</l>
+     <l n="12" met="101010" rhyme="3" line_length="6">všemu zradí světu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

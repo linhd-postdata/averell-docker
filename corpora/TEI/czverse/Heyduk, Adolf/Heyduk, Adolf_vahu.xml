@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VÁHU.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_vahu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VÁHU.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VÁHU.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010" rhyme="1" line_length="6">Váhu, milý Váhu,</l>
+     <l n="2" met="011010" rhyme="1" line_length="6">ty máš tisíc práhů,</l>
+     <l n="3" met="100010" rhyme="2" line_length="6">ale já jsem běden,</l>
+     <l n="4" met="111010" rhyme="2" line_length="6">mám práh jenom jeden.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101010" rhyme="3" line_length="6">Jdu-li přes něj domů,</l>
+     <l n="6" met="010010" rhyme="3" line_length="6">hned stotisíc hromů</l>
+     <l n="7" met="101010" rhyme="4" line_length="6">ze své hněvu strže</l>
+     <l n="8" met="100010" rhyme="4" line_length="6">žena vstříc mi vrže.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="101000" rhyme="5" line_length="6">Všecka rozkvašena</l>
+     <l n="10" met="001010" rhyme="5" line_length="6">je ta mrcha žena,</l>
+     <l n="11" met="001010" rhyme="6" line_length="6">kdo mě od ní zbaví?</l>
+     <l n="12" met="001100" rhyme="6" line_length="6">Kéž ji vlk udáví!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="101000" rhyme="6" line_length="6">Vlk ji neudáví,</l>
+     <l n="14" met="101000" rhyme="7" line_length="6">ona neumlká,</l>
+     <l n="15" met="001010" line_length="6">než by vlk ji polkl,</l>
+     <l n="16" met="001010" rhyme="7" line_length="6">spíš by polkla vlka!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

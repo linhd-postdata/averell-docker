@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Guardia</title>
+    <author>José de Espronceda</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José de Espronceda_a-guardia</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Guardia</title>
+     <author>José de Espronceda</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Guardia</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+----++--+-">Astro de libertad brilla en el cielo</l>
+     <l n="2" met="-+-+---+-+-">y aumenta el lustre a la española gloria,</l>
+     <l n="3" met="+-+--+---+-">tú que de esta morada transitoria</l>
+     <l n="4" met="--+--+-+-+-">a morada mejor alzaste el vuelo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">Los ojos vuelve a nuestro amargo duelo,</l>
+     <l n="6" met="-+---+---+-">tributo merecido a tu memoria,</l>
+     <l n="7" met="+--+---+-+-">tú, cuyo nombre vivirá en la historia,</l>
+     <l n="8" met="+--+---+-+-">timbre y honor del madrileño suelo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">Descansa, ¡Oh, Guardia!, en paz,; la tiranía</l>
+     <l n="10" met="-+-+---+-+-">cayó vencida en la inmortal refriega,</l>
+     <l n="11" met="--+--+-+-+-">e imitar tus valor ansiamos fieles;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">Descansa, y tiemble la caterva impía,</l>
+     <l n="13" met="---+-+---+-">que en los sagrados túmulos que riega</l>
+     <l n="14" met="-+---++--+-">el llanto popular, crecen laureles.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

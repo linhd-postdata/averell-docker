@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CXLV</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_cxlv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CXLV</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CXLV</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Je t'aime, avec ton œil candide et ton air mâle,</l>
+     <l n="2" rhyme="a" line_length="6+6">Ton fichu de siamoise et ton cou brun de hâle,</l>
+     <l n="3" rhyme="b" line_length="8">Entre la Liberté, reine aux fières prunelles,</l>
+     <l n="4" rhyme="c" line_length="6+6">Et la Fraternité, doux ange ouvrant ses ailes,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

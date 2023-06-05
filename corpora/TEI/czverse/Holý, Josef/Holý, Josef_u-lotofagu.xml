@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>U LOTOFAGŮ</title>
+    <author>Holý, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Holý, Josef_u-lotofagu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>U LOTOFAGŮ</title>
+     <author>Holý, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>U LOTOFAGŮ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001000" line_length="8">Sluníčko se vykulilo</l>
+     <l n="2" met="1000100" rhyme="1" line_length="7">nad hory a nad zmoly,</l>
+     <l n="3" met="10101010" line_length="8">čumí přes plot, hejno dětí</l>
+     <l n="4" met="1000100" rhyme="1" line_length="7">v písku se tam batolí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10100010" line_length="8">Jarka s kopečka se koulí</l>
+     <l n="6" met="1010100" rhyme="2" line_length="7">vedle oblé Pepičky,</l>
+     <l n="7" met="10101010" line_length="8">Slávek staví dlouhé chodby,</l>
+     <l n="8" met="1010100" rhyme="2" line_length="7">Lidka dělá rybníčky.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001010" line_length="8">Na vrcholu stojí vážně</l>
+     <l n="10" met="1010001" rhyme="3" line_length="7">Ivan, sukýnkový kluk,</l>
+     <l n="11" met="10101001" line_length="8">ruku k slunci: „Světýlko, he!“</l>
+     <l n="12" met="1010100" rhyme="3" line_length="7">fouká na ně: fukfukfuk!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

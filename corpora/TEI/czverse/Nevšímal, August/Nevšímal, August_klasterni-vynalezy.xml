@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Klášterní vynálezy.</title>
+    <author>Nevšímal, August</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nevšímal, August_klasterni-vynalezy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Klášterní vynálezy.</title>
+     <author>Nevšímal, August</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Klášterní vynálezy.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Schwarzův prach když vyšel z celi,</l>
+     <l n="2" met="10101010" rhyme="1" line_length="8">velkou mniši radost měli,</l>
+     <l n="3" met="0010100" rhyme="2" line_length="7">jak je slaví při boji:</l>
+     <l n="4" met="01101010" rhyme="3" line_length="8">pak prach zase jiný vzali</l>
+     <l n="5" met="10101000" rhyme="3" line_length="8">a tím – vědu spokrývali,</l>
+     <l n="6" met="1010100" rhyme="2" line_length="7">aby spala v pokoji.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

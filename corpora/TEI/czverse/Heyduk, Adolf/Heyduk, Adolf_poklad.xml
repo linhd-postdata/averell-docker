@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poklad.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_poklad</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Poklad.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Poklad.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Kde velké leží poklady</l>
+     <l n="2" met="010100010" rhyme="1" line_length="9">a půda pod nohou se boří,</l>
+     <l n="3" met="01010100" line_length="8">tam zlato, stříbro, drahokam</l>
+     <l n="4" met="100101010" rhyme="1" line_length="9">čarovným, modrým ohněm hoří.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11010100" line_length="8">Má duše drahá, v srdci tvém</l>
+     <l n="6" met="010101010" rhyme="2" line_length="9">jest zlato, stříbro, drahý kámen,</l>
+     <l n="7" met="01010100" line_length="8">vždyť čarný, jasný, nebeský</l>
+     <l n="8" met="110101010" rhyme="2" line_length="9">zřím plát tvých modrých oček plamen.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" line_length="8">A oči tvoje nebeské</l>
+     <l n="10" met="010101010" rhyme="1" line_length="9">tak cudným, jasným světlem hoří,</l>
+     <l n="11" met="11010100" line_length="8">leč, chci-li poklad vyzvednout,</l>
+     <l n="12" met="010100010" rhyme="1" line_length="9">tu půda naděje se boří.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

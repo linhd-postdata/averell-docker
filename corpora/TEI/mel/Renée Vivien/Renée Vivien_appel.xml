@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>APPEL</title>
+    <author>Renée Vivien</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Renée Vivien_appel</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>APPEL</title>
+     <author>Renée Vivien</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>APPEL</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">En proie à l’existence, à ce mal très cruel,</l>
+     <l n="2" rhyme="a" line_length="6+6">Je lance à l’infini mon douloureux appel…</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="6+6">À cette heure terrible et trouble de silence</l>
+     <l n="4" rhyme="a" line_length="6+6">Je ressens tout le mal aigu… Le soir encense.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="6+6">Que dans ce crépuscule où s’enlise l’effroi</l>
+     <l n="6" rhyme="a" line_length="6+6">Quelqu’une vienne enfin pour me sauver… À moi !…</l>
+    </lg>
+    <lg n="4">
+     <l n="7" rhyme="a" line_length="6+6">Lasse des faux baisers et des paroles creuses,</l>
+     <l n="8" rhyme="a" line_length="6+6">Que surviennent pour moi des heures moins fiévreuses !</l>
+    </lg>
+    <lg n="5">
+     <l n="9" rhyme="a" line_length="6+6">Lasse de tous ces jours qui ne sont pas meilleurs,</l>
+     <l n="10" rhyme="a" line_length="6+6">Que je m’en aille enfin n’importe où, mais ailleurs !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

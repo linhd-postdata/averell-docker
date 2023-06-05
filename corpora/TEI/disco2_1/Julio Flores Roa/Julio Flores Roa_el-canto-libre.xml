@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El canto libre</title>
+    <author>Julio Flores Roa</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Julio Flores Roa_el-canto-libre</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El canto libre</title>
+     <author>Julio Flores Roa</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El canto libre</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="++--+--+-+-">Soy el pájaro lírico; yo estuve</l>
+     <l n="2" met="-+-+---+++-">en una jaula; la ciudad; hoy vuelo</l>
+     <l n="3" met="-+---+---+-">sin trabas, como el cóndor y la nube,</l>
+     <l n="4" met="--+--+---+-">por el mar, por la tierra y por el cielo.</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="-+---+-+-+-">Ayer en mi prisión ruidosa y basta</l>
+     <l n="6" met="+-+--+-+-+-">hondamente canté mis propias penas,</l>
+     <l n="7" met="---+---+-+-">mis decepciones y mis iras, y hasta</l>
+     <l n="8" met="-+---+---+-">mis otras desventuras: las ajenas.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+++-+-">Entonces fue mi canto un gran gemido;</l>
+     <l n="10" met="-+-+---+-+-">mas hoy, que libre el firmamento sondo,</l>
+     <l n="11" met="---+---+-+-">lejos del fausto y del odioso ruido,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+---+++-">a las miradas del burgués me escondo</l>
+     <l n="13" met="++--++-+-+-">de un monte en lo más hondo, y cuelgo el nido</l>
+     <l n="14" met="-+---++-++-">al aire, porque así canto más hondo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

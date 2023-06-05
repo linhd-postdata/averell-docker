@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Este soneto va por el mismo camino que el pasado </title>
+    <author>Quevedo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quevedo_este-soneto-va-por-el-mismo-ca</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Este soneto va por el mismo camino que el pasado </title>
+     <author>Quevedo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Este soneto va por el mismo camino que el pasado </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Estábase Teresa de Locía</l>
+     <l n="2" met="-+---+-+-+-">atando el cenojil, la pierna alzada,</l>
+     <l n="3" met="+----+---+-">toda patitendida y destapada,</l>
+     <l n="4" met="-+---+---+-">pensándose que nadie la veía.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+---+-">Lucas Gil la miraba y pretendía</l>
+     <l n="6" met="-+---+---+-">y, viendo la ocasión aparejada,</l>
+     <l n="7" met="---+---+-+-">arremetiola sin decirla nada,</l>
+     <l n="8" met="-+-+-+-+-+-">por no guardar lo de hoy para otro día.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-++--+---+-">El mozo era pujante de natura</l>
+     <l n="10" met="--+--+-+-+-">y, mostrándole el basto, dijo: «Envido»,</l>
+     <l n="11" met="+--+-+---+-">y ella responde: «El diablo te trasquile.»</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--++--+-">Ganó el juego con sola esta figura;</l>
+     <l n="13" met="-+-+-++--+-">Teresa grita, y Gil la ha respondido:</l>
+     <l n="14" met="---+-+-+-+-">«Si le parece gordo, no lo hile.»</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jiskry.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">7</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_jiskry</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jiskry.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jiskry.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010101" rhyme="1" line_length="9">Z popela a troudů jisker změť</l>
+     <l n="2" met="1010001010" rhyme="2" line_length="10">vzlétá naposledy, co jen s nimi?</l>
+     <l n="3" met="100010100" rhyme="1" line_length="9">A jsou přec jen pravá odpověď</l>
+     <l n="4" met="011010101" rhyme="3" line_length="9">a zvěst žití, které pod vším vře,</l>
+     <l n="5" met="101010011" rhyme="1" line_length="9">sestry hvězd jsou, letí výš, ó hleď!</l>
+     <l n="6" met="001010101" rhyme="3" line_length="9">Vždy jest věčné, co se k světlu tře.</l>
+     <l n="7" met="1010100010" rhyme="2" line_length="10">Jisker horší nejsou snad mé rýmy.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

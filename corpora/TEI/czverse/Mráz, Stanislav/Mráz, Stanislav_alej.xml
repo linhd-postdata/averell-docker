@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ALEJ.</title>
+    <author>Mráz, Stanislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mráz, Stanislav_alej</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ALEJ.</title>
+     <author>Mráz, Stanislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ALEJ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Celá alej bíle kvetla,</l>
+     <l n="2" met="00101010" rhyme="1" line_length="8">když se naše srdce střetla,</l>
+     <l n="3" met="10101000" line_length="8">duše k duši holubice</l>
+     <l n="4" met="10101010" rhyme="1" line_length="8">sladká, plachá v něze slétla.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="2" line_length="8">A zas alej bíle kvete.</l>
+     <l n="6" met="01000010" rhyme="3" line_length="8">My nežďáme víc si k sudbě.</l>
+     <l n="7" met="10101010" rhyme="3" line_length="8">Každá snítka v krásy hudbě,</l>
+     <l n="8" met="10001000" rhyme="2" line_length="8">srdce nic juž nerozplete!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001010" rhyme="4" line_length="8">Chaloupka se za mnou dívá</l>
+     <l n="10" met="10011000" rhyme="5" line_length="8">pod bělí v kmen přichýlena.</l>
+     <l n="11" met="10101000" rhyme="5" line_length="8">Cesta pravá, neproměnná,</l>
+     <l n="12" met="10101000" rhyme="5" line_length="8">celá květy potřísněna.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101010" rhyme="4" line_length="8">A mé srdce výská, zpívá!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dělnicím!</title>
+    <author>Cajthaml-Liberté, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cajthaml-Liberté, František_delnicim</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dělnicím!</title>
+     <author>Cajthaml-Liberté, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dělnicím!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" line_length="8">Ženy, dívky proletářů!</l>
+     <l n="2" met="1000100" rhyme="1" line_length="7">Vzchopte se přec k životu</l>
+     <l n="3" met="01001010" line_length="8">a setřeste s šíjí robství</l>
+     <l n="4" met="1000100" rhyme="1" line_length="7">nečestnou tu dřímotu.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000100" line_length="8">Jste v dvojnásobném poddanství;</l>
+     <l n="6" met="1010100" rhyme="2" line_length="7">pán váš: muž a kapitál;</l>
+     <l n="7" met="10010010" line_length="8">každý vám po drahně věků</l>
+     <l n="8" met="1010010" rhyme="2" line_length="7">věnec otrocký splítal.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010010" line_length="8">A pouze mužové práce</l>
+     <l n="10" met="1000100" rhyme="3" line_length="7">pod korouhví volnosti</l>
+     <l n="11" met="10001000" line_length="8">hájí vás, by dosáhly jste</l>
+     <l n="12" met="1010000" rhyme="3" line_length="7">s muži rovnoprávnosti.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01000100" line_length="8">Nuž, ku pomoci spěchejte</l>
+     <l n="14" met="0100010" rhyme="4" line_length="7">a stavte se jim k boku:</l>
+     <l n="15" met="01000010" line_length="8">neb emancipace vaše</l>
+     <l n="16" met="1000100" rhyme="4" line_length="7">závisí jen v pokroku.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

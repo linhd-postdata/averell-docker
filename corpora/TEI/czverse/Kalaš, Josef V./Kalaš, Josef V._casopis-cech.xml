@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Časopis Čech.</title>
+    <author>Kalaš, Josef V.</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalaš, Josef V._casopis-cech</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Časopis Čech.</title>
+     <author>Kalaš, Josef V.</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Časopis Čech.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100" line_length="7">Dí kdes Polák Szajnocha:</l>
+     <l n="2" met="1010100" line_length="7">Čech že vlastně značí „skág“.</l>
+     <l n="3" met="10001010" line_length="8">Jistě že to vyčet z tebe:</l>
+     <l n="4" met="0010100" line_length="7">co je lotras, darebák.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

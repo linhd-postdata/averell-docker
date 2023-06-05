@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Au Bois dormant</title>
+    <author>Paul Valéry</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Valéry_au-bois-dormant</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Au Bois dormant</title>
+     <author>Paul Valéry</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Au Bois dormant</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6−6">La princesse, dans un palais de rose pure,</l>
+     <l n="2" rhyme="b" line_length="6−6">Sous les murmures, sous la mobile ombre dort,</l>
+     <l n="3" rhyme="a" line_length="6+6">Et de corail ébauche une parole obscure</l>
+     <l n="4" rhyme="b" line_length="6+6">Quand les oiseaux perdus mordent ses bagues d’or.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">Elle n’écoute ni les gouttes, dans leurs chutes,</l>
+     <l n="6" rhyme="d" line_length="6+6">Tinter d’un siècle vide au lointain le trésor,</l>
+     <l n="7" rhyme="c" line_length="6+6">Ni, sur la forêt vague, un vent fondu de flûtes</l>
+     <l n="8" rhyme="d" line_length="6+6">Déchirer la rumeur d’une phrase de cor.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="6+6">Laisse, longue, l’écho rendormir la diane,</l>
+     <l n="10" rhyme="e" line_length="6+6">Ô toujours plus égale à la molle liane</l>
+     <l n="11" rhyme="f" line_length="6+6">Qui se balance et bat tes yeux ensevelis.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="6+6">Si proche de ta joue et si lente la rose</l>
+     <l n="13" rhyme="f" line_length="6+6">Ne va pas dissiper ce délice de plis</l>
+     <l n="14" rhyme="g" line_length="6+6">Secrètement sensible au rayon qui s’y pose.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

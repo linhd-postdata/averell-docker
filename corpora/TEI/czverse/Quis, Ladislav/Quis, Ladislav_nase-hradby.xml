@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Naše hradby.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_nase-hradby</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Naše hradby.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Naše hradby.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010100" rhyme="1" line_length="9">Ve škole nám klukům praeceptor</l>
+     <l n="2" met="101010101" rhyme="1" line_length="9">s chloubou hlásal: „Čechy pásmo hor</l>
+     <l n="3" met="10001010100" rhyme="2" line_length="11">obkličuje jako hradby ochranné.“ –</l>
+     <l n="4" met="101010100" rhyme="3" line_length="9">Nyní, když jsem moudrost školní střás’,</l>
+     <l n="5" met="101000000" rhyme="3" line_length="9">dím: Kéž obkličovali by nás</l>
+     <l n="6" met="1010100" rhyme="2" line_length="7">místo hor těch – Slované.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

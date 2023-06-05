@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Enluminures</title>
+    <author>Max Elskamp</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Max Elskamp_enluminures</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Enluminures</title>
+     <author>Max Elskamp</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Enluminures</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="5+5">Ici c’est un vieil homme de cent ans</l>
+     <l n="2" line_length="5−5">qui dit, selon la chair, Flandre et le sang :</l>
+     <l n="3" line_length="5+5">souvenez-vous-en, souvenez-vous-en,</l>
+     <l n="4" line_length="5+5">en ouvrant son cœur de ses doigts tremblants</l>
+    </lg>
+    <lg n="2">
+     <l n="5" line_length="5+5">pour montrer à tous sa vie comme un livre,</l>
+     <l n="6" line_length="5+5">et, dans sa joie comme en ses oraisons,</l>
+     <l n="7" line_length="5+5">tout un genre humain occupé à vivre</l>
+     <l n="8" line_length="5+5">en ses villes pies d’hommes et d’enfants.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" line_length="5+5">Or à tous ici, ses pleurs et ses fêtes,</l>
+     <l n="10" line_length="5+5">et, suivant le ciel peint à ses couleurs,</l>
+     <l n="11" line_length="5+5">voici sa maison, ses fruits et ses fleurs,</l>
+     <l n="12" line_length="5+5">en ses horizons d’hommes et de bêtes ;</l>
+    </lg>
+    <lg n="4">
+     <l n="13" line_length="10">et lors ses heures d’hiver et printemps</l>
+     <l n="14" line_length="5+5">venues en musique ainsi qu’en prières,</l>
+     <l n="15" line_length="5+5">sous, des Christs en croix, des saints, des calvaires,</l>
+     <l n="16" line_length="5+5">puis sa Foi aussi bonne en tous les temps,</l>
+    </lg>
+    <lg n="5">
+     <l n="17" line_length="5−5">pour la paix de sa vie trop à l’attache</l>
+     <l n="18" line_length="5+5">dans les jours, les mois, des quatre saisons,</l>
+     <l n="19" line_length="5+5">et le réconfort de ses mains qui tâchent</l>
+     <l n="20" line_length="5+5">ici de leur mieux et très simplement.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

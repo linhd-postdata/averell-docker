@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mráz.</title>
+    <author>Dvořák, Xaver</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořák, Xaver_mraz</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mráz.</title>
+     <author>Dvořák, Xaver</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mráz.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110101010" rhyme="1" line_length="9">Mráz dýchá venku a zde z kamen</l>
+     <l n="2" met="1100010100" rhyme="2" line_length="10">žár milounký mě tiše ovívá,</l>
+     <l n="3" met="010011010" rhyme="1" line_length="9">jak cítil bych dvé drahých ramen,</l>
+     <l n="4" met="1100010100" rhyme="2" line_length="10">dvé očí jak se na mě usmívá –</l>
+     <l n="5" met="010101010" rhyme="1" line_length="9">až v nitro šlehnul touhy plamen;</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="0101110100" rhyme="2" line_length="10">tak v strže skal proud z jara bouřívá,</l>
+     <l n="7" met="010101010" rhyme="1" line_length="9">v mé srdce snů se řine pramen;</l>
+     <l n="8" met="0101000100" rhyme="2" line_length="10">jak v slunce žáru v něm se rozplývá</l>
+     <l n="9" met="1" line_length="1">mráz...</l>
+    </lg>
+    <lg n="3">
+     <l n="10" met="0100010100" rhyme="2" line_length="10">Nechť minulosti hrob vás ukrývá,</l>
+     <l n="11" met="010101010" rhyme="1" line_length="9">a věčnosť klade na vás kámen,</l>
+     <l n="12" met="1101010100" rhyme="2" line_length="10">ó snové, mládí druži zářivá,</l>
+     <l n="13" met="010101010" rhyme="1" line_length="9">přec člověk cítí, vámi zmámen</l>
+     <l n="14" met="1101010100" rhyme="2" line_length="10">vlát Vesnu, kde už teskně zachvívá</l>
+     <l n="15" met="1" line_length="1">mráz!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

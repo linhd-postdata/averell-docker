@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Vítězství.</title>
+    <author>Brabec, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">11</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Brabec, Adolf_vitezstvi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Vítězství.</title>
+     <author>Brabec, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Vítězství.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" rhyme="1" line_length="8">Svých květů vesna oceán</l>
+     <l n="2" met="10010100" rhyme="2" line_length="8">po širé zemi rozlila</l>
+     <l n="3" met="01010100" rhyme="1" line_length="8">a země jako Titeán</l>
+     <l n="4" met="10010100" rhyme="2" line_length="8">se květy těmi opila.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" rhyme="3" line_length="8">Můž’ býti sladší rozchvětí,</l>
+     <l n="6" met="0101010" rhyme="4" line_length="7">než zváti květy svými,</l>
+     <l n="7" met="10010100" rhyme="3" line_length="8">ve volném cítit rozpětí,</l>
+     <l n="8" met="0101000" rhyme="4" line_length="7">vše květy líbeznými.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101" rhyme="5" line_length="8">přec každým rokem naše zem,</l>
+     <l n="10" met="01010100" line_length="8">ta štěstí sebou odnáší,</l>
+     <l n="11" met="01010100" rhyme="5" line_length="8">a hlásá, kdo je vítězem!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PUVIS DE CHAVANNES</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_puvis-de-chavannes</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PUVIS DE CHAVANNES</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PUVIS DE CHAVANNES</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Victor Hugo, soleil dont tous sont le Memnon,</l>
+     <l n="2" rhyme="b" line_length="6+6">Donnant à nous sa lyre étoilée et fleurie,</l>
+     <l n="3" rhyme="b" line_length="6+6">Extase du poète, orgueil de la patrie,</l>
+     <l n="4" rhyme="a" line_length="6+6">Honneur du genre humain qui se lève à son nom ;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">Picardia mater, compagne courageuse,</l>
+     <l n="6" rhyme="d" line_length="6+6">Race blonde aux corps blancs brunis par le grand air;</l>
+     <l n="7" rhyme="d" line_length="6+6">Ludus pro patria, beaux éphèbes, sang fier</l>
+     <l n="8" rhyme="c" line_length="6+6">Et chair forte et des yeux où rit la mort songeuse ;</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="6+6">Geneviève qui paît ses ouailles, tandis</l>
+     <l n="10" rhyme="f" line_length="6+6">Que l’oignent de douceur tel saint et tel évêque,</l>
+     <l n="11" rhyme="e" line_length="6+6">Et, le Hun éloigné, rêve de paradis :</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="f" line_length="6+6">Autant, Gloire, de droits et de titres avecque</l>
+     <l n="13" rhyme="g" line_length="6+6">Tant d’autres pour ton temple ouvert de son vivant</l>
+     <l n="14" rhyme="g" line_length="6+6">A l’artiste impeccable, au maître triomphant.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

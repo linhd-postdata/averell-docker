@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Probuď se!</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_probud-se</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Probuď se!</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Probuď se!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1100010101" line_length="10">Ó, nedřímej už v prsou, písni má,</l>
+     <l n="2" met="0100110101" rhyme="1" line_length="10">mně teskno tak, má písni, zbuď se, zbuď,</l>
+     <l n="3" met="0101010101" line_length="10">již strhej pouta, rozkyp moji krev,</l>
+     <l n="4" met="0101010100" rhyme="1" line_length="10">a jasno zase v moji duši buď.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1101100100" line_length="10">Ó písni má, rozepni perutě,</l>
+     <l n="6" met="1101010001" rhyme="2" line_length="10">v klid jimi zašum tížící mé dny,</l>
+     <l n="7" met="0101010101" line_length="10">již k výši vzleť a s tebou duše má</l>
+     <l n="8" met="010100010101" rhyme="2" line_length="12">a s tebou srdce mé a jeho krásné sny.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0100010100" line_length="10">Tam ozáří vás slunce paprsky,</l>
+     <l n="10" met="1101010100" rhyme="3" line_length="10">žár jeho ve vás život rozhřeje,</l>
+     <l n="11" met="0101010100" line_length="10">vám jasný blankyt sdělí barvu svou,</l>
+     <l n="12" met="1100010100" rhyme="3" line_length="10">vzduch volný pak vás světem rozvěje.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="0101000101" line_length="10">Však potom vraťte se zas v prsa má,</l>
+     <l n="14" met="0101000100" rhyme="4" line_length="10">svou dejte sílu jim a snažení,</l>
+     <l n="15" met="0100010100" line_length="10">pak tělo mé se vzchopí ku činu</l>
+     <l n="16" met="0101010100" rhyme="4" line_length="10">a budem všichni, všichni blažení.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

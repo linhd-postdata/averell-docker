@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SONNET</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_sonnet</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SONNET</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SONNET</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Pour veiner de son front la pâleur délicate,</l>
+     <l n="2" rhyme="b" line_length="6+6">Le Japon a donné son plus limpide azur ;</l>
+     <l n="3" rhyme="b" line_length="6+6">La blanche porcelaine est d'un blanc bien moins pur</l>
+     <l n="4" rhyme="a" line_length="6+6">Que son col transparent et ses tempes d'agate.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Dans sa prunelle humide un doux rayon éclate ;</l>
+     <l n="6" rhyme="b" line_length="6+6">Le chant du rossignol près de sa voix est dur,</l>
+     <l n="7" rhyme="b" line_length="6+6">Et, quand elle se lève à notre ciel obscur,</l>
+     <l n="8" rhyme="a" line_length="6+6">On dirait de la lune en sa robe d'ouate.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Ses yeux d'argent bruni roulent moelleusement ;</l>
+     <l n="10" rhyme="c" line_length="6+6">Le caprice a taillé son petit nez charmant ;</l>
+     <l n="11" rhyme="d" line_length="6+6">Sa bouche a des rougeurs de pêche et de framboise ;</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="d" line_length="6+6">Ses mouvements sont pleins d'une grâce chinoise,</l>
+     <l n="13" rhyme="e" line_length="6+6">Et près d'elle on respire autour de sa beauté</l>
+     <l n="14" rhyme="e" line_length="6+6">Quelque chose de doux comme l'odeur du thé.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

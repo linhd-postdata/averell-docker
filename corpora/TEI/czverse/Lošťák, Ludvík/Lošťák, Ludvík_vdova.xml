@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VDOVA.</title>
+    <author>Lošťák, Ludvík</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lošťák, Ludvík_vdova</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VDOVA.</title>
+     <author>Lošťák, Ludvík</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VDOVA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" line_length="9">Jak skučno venku, pusto, mrazno,</l>
+     <l n="2" met="100101010" line_length="9">a ty zde, v síni šeré, chladné,</l>
+     <l n="3" met="10010000" line_length="8">od světa opuštěna jsi!</l>
+     <l n="4" met="110101010" rhyme="1" line_length="9">Ó chápu, ženo, tvoje hoře,</l>
+     <l n="5" met="01000100" line_length="8">i osud tvůj i život tvůj,</l>
+     <l n="6" met="01000101010" rhyme="1" line_length="11">jenž připadá mi jako mrtvé moře...</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="110100010" line_length="9">Ó rci, co v nitru tvém se děje,</l>
+     <l n="8" met="010101010" line_length="9">když myslíš na čas jarní lásky,</l>
+     <l n="9" met="01010100" line_length="8">kdy prvně v blahém obětí</l>
+     <l n="10" met="01010101000" rhyme="2" line_length="11">ti na rty spělo žhavé políbení? –</l>
+     <l n="11" met="01010100" line_length="8">A nyní, když se rozhlédneš,</l>
+     <l n="12" met="010101010" rhyme="2" line_length="9">a zříš, že rtů těch více není!...</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="010001010" line_length="9">Co srdce tvé as, ženo, cítí,</l>
+     <l n="14" met="010000010" line_length="9">když zamyslíš se zpět v ty kraje,</l>
+     <l n="15" met="01000100" line_length="8">kde bloudili jste samotni</l>
+     <l n="16" met="010001010" rhyme="3" line_length="9">a o štěstí a lásce snili? –</l>
+     <l n="17" met="10010100" line_length="8">A dnes, když kraj ten obzíráš,</l>
+     <l n="18" met="01010100110" rhyme="3" line_length="11">a zříš jen hrob, jejž pokrývá sníh bílý!...</l>
+    </lg>
+    <lg n="4">
+     <l n="19" met="010101000" line_length="9">Ty mlčíš, váháš s odpovědí,</l>
+     <l n="20" met="010001010" line_length="9">či slze tvé jsou slova tvoje,</l>
+     <l n="21" met="01001100" line_length="8">a nitro tvé hrob vzpomínek?...</l>
+     <l n="22" met="100101010" rhyme="4" line_length="9">Uťěš se, ženo, čas vše změní,</l>
+     <l n="23" met="01010100" line_length="8">a změní také žaly tvé...</l>
+     <l n="24" met="0100010101000" rhyme="4" line_length="13">Jest za životem věčná sláva –: Zapomnění! – – –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

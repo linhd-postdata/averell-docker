@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KOCOVINA</title>
+    <author>Cajthaml-Liberté, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cajthaml-Liberté, František_kocovina</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KOCOVINA</title>
+     <author>Cajthaml-Liberté, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KOCOVINA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100" rhyme="1" line_length="7">Žádný neví, jak je mně,</l>
+     <l n="2" met="0110100" rhyme="1" line_length="7">když zřím v noci tajemně</l>
+     <l n="3" met="10001000" rhyme="2" line_length="8">kazatele o mravnosti,</l>
+     <l n="4" met="10001000" rhyme="2" line_length="8">o obrodu společnosti,</l>
+     <l n="5" met="10011010" rhyme="3" line_length="8">tátu as půl tuctu dětí</l>
+     <l n="6" met="10001000" rhyme="3" line_length="8">z nevěstince vycházeti.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

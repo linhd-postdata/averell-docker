@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Z duše.</title>
+    <author>Mokrý, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mokrý, Otokar_z-duse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Z duše.</title>
+     <author>Mokrý, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Z duše.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" line_length="11">V mé duši bylo jako v celi mnicha,</l>
+     <l n="2" met="0101010100" rhyme="1" line_length="10">již hustý břečtan mříží oplítal,</l>
+     <l n="3" met="01000101000" line_length="11">kam k libodechům vůně hyacintů</l>
+     <l n="4" met="1001010100" rhyme="1" line_length="10">smuteční motýl zmaten zavítal.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010101000" line_length="11">V dumavých písních v teskných elegiích</l>
+     <l n="6" met="0101010101" rhyme="2" line_length="10">jsem črtal věrně každý plachý sen,</l>
+     <l n="7" met="01100101000" line_length="11">jak mnich klášterní příběh starodávný</l>
+     <l n="8" met="1001010100" rhyme="2" line_length="10">na kronik bílý píše pergamén.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010101010" line_length="11">A když jsem zaslech’ snivý cinkot zvonců</l>
+     <l n="10" met="1001010100" rhyme="3" line_length="10">mladistvé lásky dálnou ozvěnu,</l>
+     <l n="11" met="10010100010" line_length="11">kreslil jsem rukou třesoucí se bolem</l>
+     <l n="12" met="1001000100" rhyme="3" line_length="10">růžovou počáteční písmenu.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01010101000" line_length="11">Až přijde večer, duch můj k odpočinku</l>
+     <l n="14" met="1001010100" rhyme="4" line_length="10">ustele sobě v dumách truchlivých,</l>
+     <l n="15" met="01010101000" line_length="11">jak v šedé vížce zbožně po klekání</l>
+     <l n="16" met="0101010001" rhyme="4" line_length="10">si k spánku rakev odestýlá mnich.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

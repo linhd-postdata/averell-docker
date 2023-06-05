@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Co na nebi je hvězdiček.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_co-na-nebi-je-hvezdicek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Co na nebi je hvězdiček.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Co na nebi je hvězdiček.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100" rhyme="1" line_length="8">CO na nebi je hvězdiček,</l>
+     <l n="2" met="01000100" rhyme="1" line_length="8">co na lipách je včeliček,</l>
+     <l n="3" met="10101010" line_length="8">vzal jsem, vzal jsem, vzal jsem tobě</l>
+     <l n="4" met="100" rhyme="1" line_length="3">hubiček.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" rhyme="2" line_length="8">Však proto lípy nesvadly,</l>
+     <l n="6" met="01010100" rhyme="2" line_length="8">však proto hvězdy nespadly,</l>
+     <l n="7" met="00101010" line_length="8">že už nemáš, nechceš, nedáš,</l>
+     <l n="8" met="100" rhyme="2" line_length="3">neškádli!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" rhyme="3" line_length="8">Jsou proto doma neradi,</l>
+     <l n="10" met="11010100" rhyme="3" line_length="8">slyš ptáčka zpívat v kapradí,</l>
+     <l n="11" met="10101000" line_length="8">ví to, ví to, nepoví to,</l>
+     <l n="12" met="100" rhyme="3" line_length="3">nezradí!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

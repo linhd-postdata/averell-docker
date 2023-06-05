@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Vagabond</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_le-vagabond</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Vagabond</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Vagabond</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="6+6">Tombé, le vagabond qui rampe avec effort,</l>
+     <l n="2" line_length="8">Voilà ce qu'il marmotte avant sa triste mort :</l>
+    </lg>
+    <lg n="2">
+     <l n="3" line_length="6−6">« À jeun, des heurʼ, puis des heurʼ, pieds nus, j'ai marché</l>
+     <l n="4" line_length="8">À travers les ajoncs, la ronce et le rocher.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" line_length="6+6">Je n'peux pas plus appʼler que fairʼ signʼ de ma main,</l>
+     <l n="6" line_length="8">I' n'ya donc plus q'la mort qui passʼra dans mon chʼmin !</l>
+    </lg>
+    <lg n="4">
+     <l n="7" line_length="6+6">Je luttʼ contʼ le trépas, tel que l'jour à sa fin.</l>
+     <l n="8" line_length="8">— Et la nuit, dans les trous, le pauvre est mort de faim.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

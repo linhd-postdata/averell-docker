@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- CLIV - </title>
+    <author>Gutierre de Cetina</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Gutierre de Cetina_cliv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- CLIV - </title>
+     <author>Gutierre de Cetina</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- CLIV - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+-+-+-">Cuando pienso me da dolor doblado;</l>
+     <l n="2" met="-+-+-+---+-">ningún pensar me da contentamiento;</l>
+     <l n="3" met="-+---+-+-+-">si fuera de pensar deleite siento,</l>
+     <l n="4" met="-+-+-+---+-">ni sé entenderme a mí ni a mi cuidado.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-++--+-">Entre mi mal el bien viene mezclado;</l>
+     <l n="6" met="--+--+--++-">ni lo sé conocer ni tomar tiento:</l>
+     <l n="7" met="--+--+---+-">que en gustando del bien el sentimiento,</l>
+     <l n="8" met="---+-+-+-+-">o se convierte en mal o ya es pasado.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---+-+-+-">En medio del deleite llega luego</l>
+     <l n="10" met="--+--+---+-">el recelo del mal, considerando</l>
+     <l n="11" met="++++++-+-+-">que es un tal bien un poco de agua al fuego.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+-+-+-">Así el monstruo marino está llorando</l>
+     <l n="13" met="+-+--++--+-">mientra el cielo y el mar muestran sosiego,</l>
+     <l n="14" met="--+--+---+-">de futura tormenta recelando.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

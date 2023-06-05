@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XXX</title>
+    <author>Tristan Derème</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tristan Derème_xxx</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XXX</title>
+     <author>Tristan Derème</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XXX</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="6+6">Ce sera la maison blanche avec un arbuste</l>
+     <l n="2" line_length="6+6">En fleurs sur le perron, et quand d'un geste brusque</l>
+     <l n="3" rhyme="a" line_length="4+4+4">Tu ouvriras les volets jaunes, le jardin</l>
+     <l n="4" rhyme="a" line_length="6+6">Mêlera, pour fêter ton rire et le matin,</l>
+     <l n="5" rhyme="b" line_length="6+6">L'odeur des seringats au parfum des framboises,</l>
+     <l n="6" rhyme="b" line_length="6+6">Et les paons fastueux crieront sur les ardoises.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

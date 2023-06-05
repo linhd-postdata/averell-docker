@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>K. H.</title>
+    <author>Zavřel, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Zavřel, František_k-h</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>K. H.</title>
+     <author>Zavřel, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>K. H.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010" rhyme="1" line_length="5">Před krátkou chvílí</l>
+     <l n="2" met="1101010010" rhyme="2" line_length="10">sjel Čapka gestem starého rváče</l>
+     <l n="3" met="100010" rhyme="2" line_length="6">(KČ je prý Kč).</l>
+     <l n="4" met="010101000" rhyme="1" line_length="9">Teď roní slzy krokodýlí</l>
+     <l n="5" met="01010" rhyme="2" line_length="5">a štká a pláče.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

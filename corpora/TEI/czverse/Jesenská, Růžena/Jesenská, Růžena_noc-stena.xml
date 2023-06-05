@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Noc stená...</title>
+    <author>Jesenská, Růžena</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jesenská, Růžena_noc-stena</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Noc stená...</title>
+     <author>Jesenská, Růžena</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Noc stená...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110010010" line_length="9">Noc stená a pláče tam něco,</l>
+     <l n="2" met="010010010" rhyme="1" line_length="9">jak přes jezy mrtvý by spěchal,</l>
+     <l n="3" met="010010010" rhyme="2" line_length="9">a růže, ty krvavé růže</l>
+     <l n="4" met="010010010" rhyme="1" line_length="9">kdos na břehu odkvésti nechal.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010010010" line_length="9">Já dívám se do záclon smutně</l>
+     <l n="6" met="010010010" rhyme="3" line_length="9">v ty kosatců průsvitné zvony.</l>
+     <l n="7" met="010110010" line_length="9">A růže? Což nekvetou pro nás?</l>
+     <l n="8" met="010010010" rhyme="3" line_length="9">Jsou na březích svadlé jak ony?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010010010" line_length="9">Kdes ve tmě tam krvácí láska</l>
+     <l n="10" met="11010010" rhyme="2" line_length="8">z dvou srdcí – ženy a muže,</l>
+     <l n="11" met="110010010" line_length="9">ó, po nás též na břehu zbudou</l>
+     <l n="12" met="010010010" rhyme="2" line_length="9">ty růže, ty krvavé růže.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

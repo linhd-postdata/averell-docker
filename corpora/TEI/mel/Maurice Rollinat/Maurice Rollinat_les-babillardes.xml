@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LES BABILLARDES</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_les-babillardes</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LES BABILLARDES</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LES BABILLARDES</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Bavardes comme des perruches,</l>
+     <l n="2" rhyme="b" line_length="8">Elles cheminent vers le puits</l>
+     <l n="3" rhyme="b" line_length="8">Qui bâille au milieu des grands buis,</l>
+     <l n="4" rhyme="a" line_length="8">— Les abeilles rentrent aux ruches,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">En grignotant le pain des huches,</l>
+     <l n="6" rhyme="b" line_length="8">Elles font des haltes, et puis,</l>
+     <l n="7" rhyme="a" line_length="8">Bavardes comme des perruches,</l>
+     <l n="8" rhyme="b" line_length="8">Elles cheminent vers le puits.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Elles vont balançant leurs cruches,</l>
+     <l n="10" rhyme="b" line_length="8">Et moi, des yeux, tant que je puis,</l>
+     <l n="11" rhyme="b" line_length="8">Dans le crépuscule je suis</l>
+     <l n="12" rhyme="a" line_length="8">Ces diseuses de fanfreluches,</l>
+     <l n="13" rhyme="a" line_length="8">Bavardes comme des perruches.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

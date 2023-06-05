@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>En la partida</title>
+    <author>Carlos Póo Urbach</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Carlos Póo Urbach_en-la-partida</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>En la partida</title>
+     <author>Carlos Póo Urbach</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>En la partida</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+---+-">Cuando la inquieta nave, refractaria</l>
+     <l n="2" met="--+--+--++-">a indolentes perezas, dejó el puerto,</l>
+     <l n="3" met="--+--+---+-">e internóse en el náutico desierto</l>
+     <l n="4" met="+----+---+-">ávida de región hospitalaria;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+----+---+-">ella junto a la borda solitaria,</l>
+     <l n="6" met="+--++--+-+-">viendo esfumarse el horizonte incierto,</l>
+     <l n="7" met="--+--+---+-">la frialdad homicida de lo yerto</l>
+     <l n="8" met="-+-+-+---+-">sintió invadir su dicha visionaria.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+---++--+-">Y entonces ¡del amor loca sublime!</l>
+     <l n="10" met="-+-+-+---+-">asiéndose al anhelo que redime</l>
+     <l n="11" met="-+---+---+-">con un desbordamiento de alegría,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+---+-">forjóse una quimera misteriosa:</l>
+     <l n="13" met="-+---+---+-">¡que su alma se quedaba venturosa...</l>
+     <l n="14" met="--+--+---+-">en las patrias riberas con la mía!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

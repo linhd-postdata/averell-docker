@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ukládám já v písně svoje</title>
+    <author>Šimeček, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Šimeček, František_ukladam-ja-v-pisne-svoje</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ukládám já v písně svoje</title>
+     <author>Šimeček, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ukládám já v písně svoje</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" line_length="8">Ukládám já v písně svoje </l>
+     <l n="2" met="10001010" rhyme="1" line_length="8">lásku svou i svoje žaly,</l>
+     <l n="3" met="10101000" line_length="8">růže květ když rozvíjí se</l>
+     <l n="4" met="10101000" rhyme="1" line_length="8">i když květy opadaly.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" line_length="8">Puká-li kde lidské srdce,</l>
+     <l n="6" met="00101010" rhyme="2" line_length="8">též když choré zmírá ptáče,</l>
+     <l n="7" met="10101000" line_length="8">srdce moje pocítí to,</l>
+     <l n="8" met="10101000" rhyme="2" line_length="8">píseň nad tím pozapláče.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

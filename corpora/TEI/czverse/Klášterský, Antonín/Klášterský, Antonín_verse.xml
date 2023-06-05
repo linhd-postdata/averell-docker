@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Verše.</title>
+    <author>Klášterský, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Klášterský, Antonín_verse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Verše.</title>
+     <author>Klášterský, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Verše.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110101" rhyme="1" line_length="6">Mám jarní deštík rád,</l>
+     <l n="2" met="0100010" rhyme="2" line_length="7">ať padá jen, ať padá</l>
+     <l n="3" met="100101" rhyme="1" line_length="6">na trávník, stromů řad,</l>
+     <l n="4" met="0101010" rhyme="2" line_length="7">ať padá také v lada;</l>
+     <l n="5" met="010100" rhyme="3" line_length="6">ať padá na hřbitov</l>
+     <l n="6" met="100101" rhyme="3" line_length="6">na nízký malý rov,</l>
+     <l n="7" met="0101010" rhyme="2" line_length="7">kde spí má láska mladá.</l>
+    </lg>
+    <lg n="2">
+     <l n="8" met="010100" rhyme="4" line_length="6">Já zatím poslouchám,</l>
+     <l n="9" met="0100010" rhyme="5" line_length="7">jak o dlažbu to zvoní,</l>
+     <l n="10" met="010100" rhyme="4" line_length="6">když jako drahokam,</l>
+     <l n="11" met="0101010" rhyme="5" line_length="7">se krůpěj tříští o ni,</l>
+     <l n="12" met="010100" rhyme="6" line_length="6">a cítím květy v něm,</l>
+     <l n="13" met="010101" rhyme="6" line_length="6">jež zítra skryjí zem,</l>
+     <l n="14" met="0101010" rhyme="5" line_length="7">jichž dechem napřed voní.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

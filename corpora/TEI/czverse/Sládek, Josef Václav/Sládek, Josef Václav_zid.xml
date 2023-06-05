@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Žid.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_zid</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Žid.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Žid.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" line_length="8">Sliboval mi velké věci</l>
+     <l n="2" met="10101" rhyme="1" line_length="5">žid, – ba, vem ho ďas! –</l>
+     <l n="3" met="00101000" line_length="8">že už muži nenaleje,</l>
+     <l n="4" met="00101" rhyme="1" line_length="5">když mu prodám klas.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00101000" line_length="8">Já mu žita vyprodala,</l>
+     <l n="6" met="10101" rhyme="2" line_length="5">ozim i tu jař,</l>
+     <l n="7" met="10001000" line_length="8">nakoupila kanafasu,</l>
+     <l n="8" met="10101" rhyme="2" line_length="5">a ten žid byl lhář.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101000" line_length="8">Muž mi nových do podušek</l>
+     <l n="10" met="01001" rhyme="3" line_length="5">přec nechodí spat,</l>
+     <l n="11" met="10001000" line_length="8">prodáváme, kupujeme.</l>
+     <l n="12" met="11101" rhyme="3" line_length="5">Ben má na vše sklad.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101010" line_length="8">Muž se krade vrátky domů,</l>
+     <l n="14" met="10100" rhyme="4" line_length="5">a já oknem ven,</l>
+     <l n="15" met="10001010" line_length="8">do dvora nám čtyřmi koni</l>
+     <l n="16" met="10101" rhyme="4" line_length="5">Saru veze Ben!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

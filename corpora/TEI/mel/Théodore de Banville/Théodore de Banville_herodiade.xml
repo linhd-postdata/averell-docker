@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hérodiade</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_herodiade</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hérodiade</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hérodiade</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Ses yeux sont transparents comme l'eau du Jourdain.</l>
+     <l n="2" rhyme="b" line_length="6+6">Elle a de lourds colliers et des pendants d'oreilles ;</l>
+     <l n="3" rhyme="b" line_length="6+6">Elle est plus douce à voir que le raisin des treilles,</l>
+     <l n="4" rhyme="a" line_length="6+6">Et la rose des bois a peur de son dédain.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Elle rit et folâtre avec un air badin,</l>
+     <l n="6" rhyme="b" line_length="6+6">Laissant de sa jeunesse éclater les merveilles.</l>
+     <l n="7" rhyme="b" line_length="6+6">Sa lèvre est écarlate, et ses dents sont pareilles</l>
+     <l n="8" rhyme="a" line_length="6+6">Pour la blancheur aux lys orgueilleux du jardin.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Voyez-la, voyez-la venir, la jeune reine !</l>
+     <l n="10" rhyme="c" line_length="6+6">Un petit page noir tient sa robe qui traîne</l>
+     <l n="11" rhyme="d" line_length="6+6">En flots voluptueux le long du corridor.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Sur ses doigts le rubis, le saphir, l'améthyste</l>
+     <l n="13" rhyme="d" line_length="6+6">Font resplendir leurs feux charmants : dans un plat d'or</l>
+     <l n="14" rhyme="e" line_length="6+6">Elle porte le chef sanglant de Jean-Baptiste.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

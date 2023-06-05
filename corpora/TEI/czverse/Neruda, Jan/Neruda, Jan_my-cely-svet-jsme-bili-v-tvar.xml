@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>My celý svět jsme bili v tvář</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_my-cely-svet-jsme-bili-v-tvar</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>My celý svět jsme bili v tvář</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>My celý svět jsme bili v tvář</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101" line_length="8">My celý svět jsme bili v tvář </l>
+     <l n="2" met="01010100" rhyme="1" line_length="8">a celý svět tlouk’ v lebky nás,</l>
+     <l n="3" met="01000100" line_length="8">my pohřbili jsme mnohého</l>
+     <l n="4" met="01000100" rhyme="1" line_length="8">a mnohý moh’ už pohřbit nás;</l>
+     <l n="5" met="01010101" rhyme="1" line_length="8">my sklesli choři – přišel čas</l>
+     <l n="6" met="01000100" rhyme="1" line_length="8">a zdrávi jsme a silni zas –</l>
+     <l n="7" met="1010001010" rhyme="2" line_length="10">urá, šuhajci, my ještě žijem</l>
+     <l n="8" met="01001001000" rhyme="2" line_length="11">a dlouho a dlouho se nevybijem!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

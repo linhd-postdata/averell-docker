@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LE PETIT COQ</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_le-petit-coq</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LE PETIT COQ</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LE PETIT COQ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Mon âme veuve les jalouse</l>
+     <l n="2" rhyme="b" line_length="8">La poulette et le petit coq.</l>
+     <l n="3" rhyme="b" line_length="8">— En plein soleil, près d'un vieux soc,</l>
+     <l n="4" rhyme="a" line_length="8">Tous deux vont picotant la bouse,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">En vain je vis avec la blouse,</l>
+     <l n="6" rhyme="b" line_length="8">Avec le chêne, avec le roc :</l>
+     <l n="7" rhyme="a" line_length="8">Mon âme veuve les jalouse</l>
+     <l n="8" rhyme="b" line_length="8">La poulette et le petit coq.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">— Chemin faisant, sur la pelouse.</l>
+     <l n="10" rhyme="b" line_length="8">Que de fois, avec l'air ad hoc,</l>
+     <l n="11" rhyme="b" line_length="8">Le petit mari — toc toc toc —</l>
+     <l n="12" rhyme="a" line_length="8">Caresse la petite épouse !</l>
+     <l n="13" rhyme="a" line_length="8">Mon âme veuve les jalouse.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

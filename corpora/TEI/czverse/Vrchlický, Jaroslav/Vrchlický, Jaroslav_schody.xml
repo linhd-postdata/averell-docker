@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Schody.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_schody</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Schody.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Schody.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010100010" rhyme="1" line_length="9">Ty jedny do paláců vedou,</l>
+     <l n="2" met="01010001" line_length="8">jsou plny koberců a soch</l>
+     <l n="3" met="100100010" rhyme="1" line_length="9">z mramoru s balustradou šedou.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="010100010" rhyme="2" line_length="9">Ty druhé v měšťanském jsou domě;</l>
+     <l n="5" met="01000100" line_length="8">jen z pískovce a bez ozdob</l>
+     <l n="6" met="100101010" rhyme="2" line_length="9">spiralou k výši tíhnou skromně.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="010101000" rhyme="3" line_length="9">A jiné bídně vyšlapané</l>
+     <l n="8" met="01000100" line_length="8">a vysoké a neschůdné;</l>
+     <l n="9" met="100101010" rhyme="3" line_length="9">nad nimi se zdí vlhkost kane.</l>
+    </lg>
+    <lg n="4">
+     <l n="10" met="010001000" rhyme="4" line_length="9">Však myšlénka, ať kterékoli</l>
+     <l n="11" met="01010100" line_length="8">z nich šlapu v městě náhodou,</l>
+     <l n="12" met="100100010" rhyme="4" line_length="9">myšlénka jedna vždy mne bolí:</l>
+    </lg>
+    <lg n="5">
+     <l n="13" met="010101010" rhyme="5" line_length="9">Že po všech s hořem drahých duší</l>
+     <l n="14" met="01000100" line_length="8">a s lítostí a slzami,</l>
+     <l n="15" met="010101000" rhyme="5" line_length="9">jež často život nevysuší,</l>
+    </lg>
+    <lg n="6">
+     <l n="16" met="010101000" rhyme="6" line_length="9">že po všech, ať svíc ve plápolu,</l>
+     <l n="17" met="01000100" line_length="8">ať v polotmě, se odnáší</l>
+     <l n="18" met="100101010" rhyme="6" line_length="9">s mrtvými rakev stejně dolů.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

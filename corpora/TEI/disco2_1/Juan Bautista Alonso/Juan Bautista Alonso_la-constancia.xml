@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La constancia</title>
+    <author>Juan Bautista Alonso</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Bautista Alonso_la-constancia</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La constancia</title>
+     <author>Juan Bautista Alonso</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La constancia</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Mi humilde ruego despreciaste esquiva,</l>
+     <l n="2" met="---++--+-+-">cuando, ¡infeliz!, te requerí de amores</l>
+     <l n="3" met="+-++-+---+-">y aun de hablarte en mi pena y mis dolores,</l>
+     <l n="4" met="+--+---+++-">cierto o fingido, tu desdén me priva.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+---+-+-">Pero el ardor de mi pasión se aviva</l>
+     <l n="6" met="--+--+---+-">y destrozan volcánicos temblores</l>
+     <l n="7" met="-+---+---+-">mi tierno corazón, como a las flores</l>
+     <l n="8" met="-+-+---+-+-">nacientes, fiero el vendaval derriba.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-----+---+-">Porque a pesar del triste apartamiento</l>
+     <l n="10" met="--++-+---+-">a que me tienes, Laura, condenado</l>
+     <l n="11" met="---+---+++-">y del puñal que traspasarme siento,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++-+---+-+-">te ven mis ojos de virtud dechado:</l>
+     <l n="13" met="-++--+---+-">y no sirve la voz del escarmiento</l>
+     <l n="14" met="---+-+---+-">a quien de veras gime enamorado.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

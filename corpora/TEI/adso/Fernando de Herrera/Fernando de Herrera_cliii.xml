@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- CLIII - </title>
+    <author>Fernando de Herrera</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fernando de Herrera_cliii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- CLIII - </title>
+     <author>Fernando de Herrera</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- CLIII - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+-+-+-">Cubre en oscuro cerco y sombra fría</l>
+     <l n="2" met="-+-+---+-+-">del cielo puro el resplandor sereno</l>
+     <l n="3" met="+--+-+--++-">la húmeda noche, y yo, de dolor lleno,</l>
+     <l n="4" met="+--+-+---+-">lloro mi bien perdido y mi alegría.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+---+-+-">Ningún alivio en la miseria mía</l>
+     <l n="6" met="+---++-+-+-">hallo, de ningún mal estoy ajeno;</l>
+     <l n="7" met="+----+-+-+-">cuanto en la confusión nublosa peno</l>
+     <l n="8" met="-+---+-+-+-">padezco en la rosada luz del día.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">En otro nuevo Caúcaso enclavado,</l>
+     <l n="10" met="--+--+---+-">mi cuidado mortal y mi deseo</l>
+     <l n="11" met="---+-+---+-">el corazón me comen renovado,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++-+---+-+-">do no pudiera el sucesor de Alceo</l>
+     <l n="13" met="-+---+-+-+-">librarme del tormento, no cansado,</l>
+     <l n="14" met="-+---+---+-">que excede al del antiguo Prometeo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

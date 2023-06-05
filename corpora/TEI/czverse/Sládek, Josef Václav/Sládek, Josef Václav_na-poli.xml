@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Na poli.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_na-poli</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Na poli.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Na poli.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" line_length="6">Na poli, na roli,</l>
+     <l n="2" met="100100" rhyme="1" line_length="6">na louce zelené,</l>
+     <l n="3" met="000100" line_length="6">co je tu klopoty,</l>
+     <l n="4" met="100100" rhyme="1" line_length="6">srdečko milené!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100" line_length="6">Od rána do noci,</l>
+     <l n="6" met="100100" rhyme="2" line_length="6">od jara v závěje</l>
+     <l n="7" met="100100" line_length="6">patří mi na čele</l>
+     <l n="8" met="100100" rhyme="2" line_length="6">jenom ty krůpěje.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010100" line_length="6">Já orám na cizím,</l>
+     <l n="10" met="010100" rhyme="3" line_length="6">ty sloužíš u lidí,</l>
+     <l n="11" met="100100" line_length="6">jednoho našeho</l>
+     <l n="12" met="100100" rhyme="3" line_length="6">stébla se nesklidí.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100100" line_length="6">Na poli, na roli</l>
+     <l n="14" met="000100" rhyme="4" line_length="6">když ty se usměješ,</l>
+     <l n="15" met="100100" line_length="6">zoře se, požne se,</l>
+     <l n="16" met="100100" rhyme="4" line_length="6">nežli se naděješ.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="110100" line_length="6">A i ty krůpěje</l>
+     <l n="18" met="100010" rhyme="5" line_length="6">setřeš mi se tváře</l>
+     <l n="19" met="100100" line_length="6">jako to slunečko</l>
+     <l n="20" met="100100" rhyme="5" line_length="6">rosičku na jaře</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

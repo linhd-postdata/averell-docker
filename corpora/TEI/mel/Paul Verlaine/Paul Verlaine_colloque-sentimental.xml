@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Colloque sentimental</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">8</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_colloque-sentimental</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Colloque sentimental</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Colloque sentimental</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+6">Dans le vieux parc solitaire et glacé</l>
+     <l n="2" rhyme="a" line_length="4+6">Deux formes ont tout à l’heure passé.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="4+6">Leurs yeux sont morts et leurs lèvres sont molles,</l>
+     <l n="4" rhyme="a" line_length="4+6">Et l’on entend à peine leurs paroles.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="4+6">Dans le vieux parc solitaire et glacé</l>
+     <l n="6" rhyme="a" line_length="4+6">Deux spectres ont évoqué le passé.</l>
+    </lg>
+    <lg n="4">
+     <l n="7" rhyme="a" line_length="4+6">— Te souvient-il de notre extase ancienne ?</l>
+     <l n="8" rhyme="a" line_length="4−6">— Pourquoi voulez-vous donc qu’il m’en souvienne ?</l>
+    </lg>
+    <lg n="5">
+     <l n="9" rhyme="a" line_length="4+6">— Ton cœur bat-il toujours à mon seul nom ?</l>
+     <l n="10" rhyme="a" line_length="4+6">Toujours vois-tu mon âme en rêve ? — Non.</l>
+    </lg>
+    <lg n="6">
+     <l n="11" rhyme="a" line_length="4+6">— Ah ! les beaux jours de bonheur indicible</l>
+     <l n="12" rhyme="a" line_length="4+6">Où nous joignions nos bouches ! — C’est possible.*</l>
+    </lg>
+    <lg n="7">
+     <l n="13" rhyme="a" line_length="4+6">Qu’il était bleu, le ciel, et grand l’espoir !</l>
+     <l n="14" rhyme="a" line_length="4+6">— L’espoir a fui, vaincu, vers le ciel noir.</l>
+    </lg>
+    <lg n="8">
+     <l n="15" rhyme="a" line_length="4+6">Tels ils marchaient dans les avoines folles,</l>
+     <l n="16" rhyme="a" line_length="4+6">Et la nuit seule entendit leurs paroles.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

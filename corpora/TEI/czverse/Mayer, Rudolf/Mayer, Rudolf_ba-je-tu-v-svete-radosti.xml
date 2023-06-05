@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ba je tu v světě radostí,</title>
+    <author>Mayer, Rudolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mayer, Rudolf_ba-je-tu-v-svete-radosti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ba je tu v světě radostí,</title>
+     <author>Mayer, Rudolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ba je tu v světě radostí,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00010100" line_length="8">Ba je tu v světě radostí, </l>
+     <l n="2" met="100100" rhyme="1" line_length="6">Pusť jen se do toho.</l>
+     <l n="3" met="10010100" line_length="8">Krásných zde květů na tisíc</l>
+     <l n="4" met="010100" rhyme="1" line_length="6">A lásky přemnoho.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000100" line_length="8">A srdce-li tě zabolí,</l>
+     <l n="6" met="100001" rhyme="2" line_length="6">Zazpívej jak ten pták –</l>
+     <l n="7" met="01000100" line_length="8">A srdce-li ti puká už,</l>
+     <l n="8" met="100100" rhyme="2" line_length="6">Vejskni a umři pak.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

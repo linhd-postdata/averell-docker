@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Rychlá jízda.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_rychla-jizda</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Rychlá jízda.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Rychlá jízda.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101010" rhyme="1" line_length="10">Mladé jaro pyšně sobě vede,</l>
+     <l n="2" met="1000100010" rhyme="1" line_length="10">pro květnatou pohodu si jede,</l>
+     <l n="3" met="1000101010" rhyme="2" line_length="10">o tisíci bujných bílých koní</l>
+     <l n="4" met="1100101010" rhyme="2" line_length="10">vůz blankytný siným mořem honí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010101010" rhyme="3" line_length="10">Slunce s jarem stejnou koná cestu;</l>
+     <l n="6" met="1010101000" rhyme="3" line_length="10">skvostné dary nese pro nevěstu,</l>
+     <l n="7" met="1010001010" rhyme="4" line_length="10">a co z pokladů těch drahých ztratí,</l>
+     <l n="8" met="0010100010" rhyme="4" line_length="10">tím si vlny hřebeny své zlatí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

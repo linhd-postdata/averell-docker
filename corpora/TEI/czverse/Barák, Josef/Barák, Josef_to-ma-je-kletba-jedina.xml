@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>To má je kletba jediná</title>
+    <author>Barák, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Barák, Josef_to-ma-je-kletba-jedina</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>To má je kletba jediná</title>
+     <author>Barák, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>To má je kletba jediná</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">To má je kletba jediná </l>
+     <l n="2" met="0101010" rhyme="1" line_length="7">a klam to mého žití,</l>
+     <l n="3" met="01010100" line_length="8">že žádám povždy od přátel</l>
+     <l n="4" met="0111010" rhyme="1" line_length="7">sám Bůh ví! jaké city.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000100" line_length="8">Že srdce mé pak v příteli</l>
+     <l n="6" met="0100010" rhyme="1" line_length="7">vždy cizince jen vidí,</l>
+     <l n="7" met="01010101" line_length="8">a oko vlhne, srdce mře</l>
+     <l n="8" met="0101010" rhyme="1" line_length="7">a ret se vyznat stydí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

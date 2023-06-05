@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Krátce a dobře.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_kratce-a-dobre</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Krátce a dobře.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Krátce a dobře.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00100010101000" rhyme="1" line_length="14">Co se nahádali páni o tu politiku!</l>
+     <l n="2" met="001010100" rhyme="2" line_length="9">To náš Honza na to kápl hned:</l>
+     <l n="3" met="001000" rhyme="1" line_length="6">On tu politiku,</l>
+     <l n="4" met="001000" rhyme="1" line_length="6">on ji bez caviků,</l>
+     <l n="5" met="0010001" rhyme="2" line_length="7">on tu politiku sněd.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

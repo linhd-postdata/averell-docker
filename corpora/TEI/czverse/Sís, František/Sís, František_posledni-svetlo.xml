@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Poslední světlo.</title>
+    <author>Sís, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sís, František_posledni-svetlo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Poslední světlo.</title>
+     <author>Sís, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Poslední světlo.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101000" rhyme="1" line_length="6">Duše zatemnila.</l>
+     <l n="2" met="1001010" rhyme="2" line_length="7">Poslední světlo shaslo,</l>
+     <l n="3" met="10010101" rhyme="3" line_length="8">poslední zmrtven nitra cit.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="101010" rhyme="1" line_length="6">Z duše kostra zbyla.</l>
+     <l n="5" met="1001010" rhyme="2" line_length="7">Lhostejně kráčí v peklo,</l>
+     <l n="6" met="10001101" rhyme="3" line_length="8">lhostejně, kdy má bolem výt.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

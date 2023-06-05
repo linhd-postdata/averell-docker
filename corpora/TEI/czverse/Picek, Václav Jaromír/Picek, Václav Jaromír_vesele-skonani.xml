@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Veselé skonání.</title>
+    <author>Picek, Václav Jaromír</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Picek, Václav Jaromír_vesele-skonani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Veselé skonání.</title>
+     <author>Picek, Václav Jaromír</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Veselé skonání.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101010" line_length="8">Mně se bude někdy v hrobě</l>
+     <l n="2" met="10101010" rhyme="1" line_length="8">Velmi libě, libě spáti;</l>
+     <l n="3" met="10100100" line_length="8">Proto anděl až zakývá,</l>
+     <l n="4" met="10001010" rhyme="1" line_length="8">Budu se mu v oči smáti.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10100100" line_length="8">Smutně jenom ten umírá,</l>
+     <l n="6" met="10101000" rhyme="2" line_length="8">Pro nějž žádný nezapláče,</l>
+     <l n="7" met="00101010" line_length="8">Jenž v tom velkém světě bloudil</l>
+     <l n="8" met="01001010" rhyme="2" line_length="8">Jak na poušti siré ptáče.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" line_length="8">Pro mne ale budou plakat</l>
+     <l n="10" met="10110010" rhyme="3" line_length="8">Oči dvě nebeské, jemné,</l>
+     <l n="11" met="10101010" line_length="8">Na mém hrobě bude klekat</l>
+     <l n="12" met="10101010" rhyme="3" line_length="8">Duše drahá v noci temné.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10001010" line_length="8">Kolikrát ten anděl něžný</l>
+     <l n="14" met="10001010" rhyme="4" line_length="8">Na pahrbku bude dlíti,</l>
+     <l n="15" met="10001010" line_length="8">Tolikrát mé srdce puklé</l>
+     <l n="16" met="10101010" rhyme="4" line_length="8">Počne v hrobě znova bíti,</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10001010" line_length="8">Tolikrát se oči zhaslé</l>
+     <l n="18" met="10001010" rhyme="5" line_length="8">Pootevrou světla záři,</l>
+     <l n="19" met="10001010" line_length="8">A tak i v tom hrobě uzřím</l>
+     <l n="20" met="10101010" rhyme="5" line_length="8">Duši drahou v krásné tváři.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

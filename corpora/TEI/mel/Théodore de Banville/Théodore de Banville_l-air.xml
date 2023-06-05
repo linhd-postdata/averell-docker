@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L'Air</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_l-air</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L'Air</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L'Air</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6">Dans l'Air s'en vont les ailes,</l>
+     <l n="2" rhyme="b" line_length="6">Par le vent caressées ;</l>
+     <l n="3" rhyme="b" line_length="6">Mes errantes pensées</l>
+     <l n="4" rhyme="a" line_length="6">S'envolent avec elles.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6">Aux cieux pleins d'étincelles,</l>
+     <l n="6" rhyme="b" line_length="6">Vers la nue élancées,</l>
+     <l n="7" rhyme="a" line_length="6">Dans l'Air s'en vont les ailes</l>
+     <l n="8" rhyme="b" line_length="6">Par le vent caressées.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6">Vers des terres nouvelles,</l>
+     <l n="10" rhyme="b" line_length="6">Sur les rayons bercées,</l>
+     <l n="11" rhyme="b" line_length="6">Vous fuyez, dispersées,</l>
+     <l n="12" rhyme="a" line_length="6">O blanches colombelles ;</l>
+     <l n="13" rhyme="a" line_length="6">Dans l'Air s'en vont les ailes !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

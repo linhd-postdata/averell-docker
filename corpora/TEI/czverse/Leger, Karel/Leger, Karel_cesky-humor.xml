@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ČESKÝ HUMOR.</title>
+    <author>Leger, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Leger, Karel_cesky-humor</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ČESKÝ HUMOR.</title>
+     <author>Leger, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ČESKÝ HUMOR.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100" rhyme="1" line_length="7">Málo nasel humoru</l>
+     <l n="2" met="101010" rhyme="2" line_length="6">Pánbůh v naši líchu,</l>
+     <l n="3" met="1000100" rhyme="1" line_length="7">nutíme se ze vzdoru</l>
+     <l n="4" met="100010" rhyme="2" line_length="6">do hořkého smíchu.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010100" rhyme="3" line_length="7">Jako vinný hrozen kdes</l>
+     <l n="6" met="100010" rhyme="4" line_length="6">v nehostinném kraji,</l>
+     <l n="7" met="0110100" rhyme="3" line_length="7">kde mhy visí z pod nebes,</l>
+     <l n="8" met="101000" rhyme="4" line_length="6">slunko zakrývají,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1000100" rhyme="5" line_length="7">nesládne, však trpkne jen</l>
+     <l n="10" met="101000" rhyme="6" line_length="6">hořce na jazyku,</l>
+     <l n="11" met="0010100" rhyme="5" line_length="7">tak náš humor neslazen,</l>
+     <l n="12" met="001010" rhyme="6" line_length="6">vždy v něm trochu vzlyku.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="0010100" rhyme="7" line_length="7">Až snad slunko jasněji</l>
+     <l n="14" met="101010" rhyme="8" line_length="6">Čechům svítit bude,</l>
+     <l n="15" met="1010100" rhyme="7" line_length="7">jarým smíchem okřejí</l>
+     <l n="16" met="101010" rhyme="8" line_length="6">naše líchy chudé!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

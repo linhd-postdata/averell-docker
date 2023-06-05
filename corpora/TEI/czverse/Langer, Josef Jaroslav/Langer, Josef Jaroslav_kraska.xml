@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kráska.</title>
+    <author>Langer, Josef Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Langer, Josef Jaroslav_kraska</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kráska.</title>
+     <author>Langer, Josef Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kráska.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Proč oko modré mutíš své,</l>
+     <l n="2" met="10100100" line_length="8">Krásko milostná? Naříkáš,</l>
+     <l n="3" met="10001000" line_length="8">Lépotě žeť neklaní tvé</l>
+     <l n="4" met="100" line_length="3">Se nikdo? –</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101100" line_length="8">Krásu, děvo, zdob ctnotou si!</l>
+     <l n="6" met="10011101" line_length="8">Jistě že – Bůh ví! junů sbor</l>
+     <l n="7" met="10000100" line_length="8">Krásomilovných potom vždy</l>
+     <l n="8" met="100" line_length="3">Polítne</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000100" line_length="8">Tam za tebou, kam kročíš jen –</l>
+     <l n="10" met="00101001" line_length="8">Byť i o vaz hnedky tu šlo!</l>
+     <l n="11" met="00101000" line_length="8">Pak – snad i já nezdržím se</l>
+     <l n="12" met="100" line_length="3">Za kamny!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

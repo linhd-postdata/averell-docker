@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>En la sala de juego</title>
+    <author>José de Maturana</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José de Maturana_en-la-sala-de-juego</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>En la sala de juego</title>
+     <author>José de Maturana</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>En la sala de juego</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+--+---+-">Rodeada está la mesa de atentos jugadores</l>
+     <l n="2" met="---+-+--+-+-+-">sobre el tapete oscuro la luz discreta baja;</l>
+     <l n="3" met="++-+--+---+-">cien ponen toda su vida en la baraja</l>
+     <l n="4" met="+++-+--+---+-">y ella es laca suerte que brinda sus amores.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++-+-+-+---+-">Hay un silencio extraño. Los graves talladores</l>
+     <l n="6" met="-+---+----+-+-">revuelven de su mazo la pintoresca faja;</l>
+     <l n="7" met="-+-+-+---+--+-">las manos dan posturas, el cerebro trabaja,</l>
+     <l n="8" met="-+---+--+---+-">y suenan las monedas y fichas de colores.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+-+--+---+-">Ya así, la muda reina, Fortuna la inconstante,</l>
+     <l n="10" met="-+-+----+---+-">girando se halla en torno de cada concurrente</l>
+     <l n="11" met="-----+----+-+-">como en torno a las luces la mariposa errante.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+--+-+-+-">Y entre monedas, fichas, baraja y suerte loca,</l>
+     <l n="13" met="-+-+-+--+---+-">el hombre allí clavado, cual bestia impenitente,</l>
+     <l n="14" met="++-+-+----+-+-">¡no sabe alzar al triunfo la voluntad de roca!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

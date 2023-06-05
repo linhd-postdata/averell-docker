@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Chanson de bateau</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_chanson-de-bateau</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Chanson de bateau</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Chanson de bateau</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="7">Le canal endort ses flots,</l>
+    </lg>
+    <lg n="2">
+     <l n="2" rhyme="a" line_length="7">Les voix emplissent les airs</l>
+    </lg>
+    <lg n="3">
+     <l n="3" rhyme="a" line_length="7">En vain ton époux caduc,</l>
+    </lg>
+    <lg n="4">
+     <l n="4" rhyme="a" line_length="7">Ah ! que les cieux étoilés</l>
+    </lg>
+    <lg n="5">
+     <l n="5" rhyme="a" line_length="7">Qu'importe si, dans la nuit</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

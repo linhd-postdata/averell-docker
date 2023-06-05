@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- X - </title>
+    <author>Lope de Vega</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lope de Vega_x</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- X - </title>
+     <author>Lope de Vega</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- X - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+---+-+-">Cuando pensé que mi tormento esquivo</l>
+     <l n="2" met="-+-+-+---+-">hiciera fin, comienza mi tormento,</l>
+     <l n="3" met="-+---+-+-+-">y allí donde pensé tener contento,</l>
+     <l n="4" met="-+-+---+-+-">allí sin él desesperado vivo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+---+-+-">Donde enviaba por el verde olivo,</l>
+     <l n="6" met="-+-+-+---+-">me trujo sangre el triste pensamiento;</l>
+     <l n="7" met="-+---+-+-+-">los bienes que pensé gozar de asiento</l>
+     <l n="8" met="-+-+-+---+-">huyeron más que el aire fugitivo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">Cuitado yo, que la enemiga mía,</l>
+     <l n="10" met="+--+-+---+-">ya de tibieza en hielo se deshace,</l>
+     <l n="11" met="+--+---+-+-">ya de mi fuego se consume y arde.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+-+-+-">Yo he de morir, y ya se acerca el día,</l>
+     <l n="13" met="-+---+-+-+-">que el mal en mi salud su curso hace</l>
+     <l n="14" met="---+-+++-+-">y, cuando llega el bien, es poco y tarde.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

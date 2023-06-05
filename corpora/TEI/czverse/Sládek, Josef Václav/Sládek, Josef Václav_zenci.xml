@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ŽENCI.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_zenci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ŽENCI.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ŽENCI.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010100" line_length="8">Jdou ženci s pole k domovu</l>
+     <l n="2" met="01010010" rhyme="1" line_length="8">a šednou role a lada,</l>
+     <l n="3" met="10010100" line_length="8">měsíčný srpek stříbrný</l>
+     <l n="4" met="10010010" rhyme="1" line_length="8">za tmavé lesiny padá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101" line_length="8">Tam dole od luk vane chlad</l>
+     <l n="6" met="10010010" rhyme="2" line_length="8">do horkých, znavených tváří,</l>
+     <l n="7" met="10010100" line_length="8">po hvězdě hvězda vychází,</l>
+     <l n="8" met="10110010" rhyme="2" line_length="8">ode vsi světélka září.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="11010100" line_length="8">Jdou ženci, každý k domovu</l>
+     <l n="10" met="01010010" rhyme="3" line_length="8">a s žatých polí to dýše,</l>
+     <l n="11" met="01000100" line_length="8">jak po bolestech rodička</l>
+     <l n="12" met="01010010" rhyme="3" line_length="8">když nejprv usnula tiše.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

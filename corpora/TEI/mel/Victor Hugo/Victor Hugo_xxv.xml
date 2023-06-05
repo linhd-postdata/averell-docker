@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XXV</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_xxv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XXV</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XXV</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Ô terre, dans ta course immense et magnifique,</l>
+     <l n="2" rhyme="a" line_length="6+6">L'Amérique, et l'Europe, et l'Asie, et l'Afrique</l>
+     <l n="3" rhyme="b" line_length="6+6">Se présentent aux feux du Soleil tour à tour ;</l>
+     <l n="4" rhyme="b" line_length="6+6">Telles, l'une après l'autre, à l'heure où naît le jour,</l>
+     <l n="5" rhyme="c" line_length="6+6">Quatre filles, l'amour d'une maison prospère,</l>
+     <l n="6" rhyme="c" line_length="6+6">Viennent offrir leur front au baiser de leur père.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

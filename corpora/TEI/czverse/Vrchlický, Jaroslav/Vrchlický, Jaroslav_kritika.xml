@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KRITIKA</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_kritika</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KRITIKA</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KRITIKA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101100" rhyme="1" line_length="7">Jest dvojí druh kritiků:</l>
+     <l n="2" met="0010010" rhyme="2" line_length="7">buď jsou mouchy, buď voli.</l>
+     <l n="3" met="11010100" rhyme="1" line_length="8">Vůl dělá trochu povyku,</l>
+     <l n="4" met="10010010" rhyme="2" line_length="8">po mouše trochu to bolí,</l>
+     <l n="5" met="100100100" rhyme="3" line_length="9">na mouchu plácačka vezme se,</l>
+     <l n="6" met="10010010" rhyme="4" line_length="8">a ta jí moresům učí,</l>
+     <l n="7" met="010010100" rhyme="3" line_length="9">však horší jest vůl, ten nehne se</l>
+     <l n="8" met="01010" rhyme="4" line_length="5">a pořád – bučí!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

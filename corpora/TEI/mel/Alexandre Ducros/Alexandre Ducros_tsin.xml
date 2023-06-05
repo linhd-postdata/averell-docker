@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Tsin</title>
+    <author>Alexandre Ducros</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alexandre Ducros_tsin</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Tsin</title>
+     <author>Alexandre Ducros</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Tsin</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Du jour où je te vis, — comme la fleur qui tremble</l>
+     <l n="2" rhyme="b" line_length="6+6">Devant l'abeille d'or, — ô Tsin ! depuis ce jour,</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="6+6">Voici cinq nuits ; pour moi la lune est prisonnière,</l>
+     <l n="4" rhyme="b" line_length="6+6">Le nuage dérobe à mes yeux sa clarté,</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="6+6">Car je suis fait pour toi comme l'eau pour la rive</l>
+     <l n="6" rhyme="b" line_length="6+6">Que son baiser caresse ! oui, je suis fait pour toi,</l>
+    </lg>
+    <lg n="4">
+     <l n="7" rhyme="a" line_length="6+6">Mais, hélas ! nos deux cœurs sont bien loin l'un de l'autre !</l>
+     <l n="8" rhyme="b" line_length="6+6">Si l'Occident pouvait se joindre à l'Orient !</l>
+    </lg>
+    <lg n="5">
+     <l n="9" rhyme="a" line_length="6+6">Mais, adieu les jours noirs ! je vole sur ta trace ;</l>
+     <l n="10" rhyme="b" line_length="6+6">Ne faut-il pas unir la grâce avec l'amour !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

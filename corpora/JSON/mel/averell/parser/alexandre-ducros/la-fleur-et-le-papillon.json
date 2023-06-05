@@ -1,0 +1,45 @@
+{
+    "poem_title": "LA FLEUR ET LE PAPILLON",
+    "author": "Alexandre Ducros",
+    "structure": "forme RegExp (appariements)",
+    "year": "1854",
+    "manually_checked": false,
+    "stanzas": [
+        {
+            "stanza_number": 1,
+            "stanza_type": null,
+            "lines": [
+                {
+                    "line_number": 1,
+                    "line_text": "— « C'est pour toi mon parfum et ma riche couleur ; »",
+                    "metrical_pattern": null,
+                    "line_length": "6",
+                    "rhyme": "a"
+                },
+                {
+                    "line_number": 2,
+                    "line_text": "Sur mon calice d'or le bonheur se butine :",
+                    "metrical_pattern": null,
+                    "line_length": "6",
+                    "rhyme": "b"
+                }
+            ],
+            "stanza_text": "— « C'est pour toi mon parfum et ma riche couleur ; »\nSur mon calice d'or le bonheur se butine :"
+        },
+        {
+            "stanza_number": 2,
+            "stanza_type": null,
+            "lines": [
+                {
+                    "line_number": 3,
+                    "line_text": "Le pauvre papillon s'envola confondu :",
+                    "metrical_pattern": null,
+                    "line_length": "6+6",
+                    "rhyme": "b"
+                }
+            ],
+            "stanza_text": "Le pauvre papillon s'envola confondu :"
+        }
+    ],
+    "corpus": "mel"
+}

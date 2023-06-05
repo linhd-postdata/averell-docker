@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ŽALOMIL ZPÍVÁ:</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_zalomil-zpiva</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ŽALOMIL ZPÍVÁ:</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ŽALOMIL ZPÍVÁ:</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100101000" line_length="10">Již na třetí měsíc o lásce své</l>
+     <l n="2" met="010010010" rhyme="1" line_length="9">ti překrásné písničky zpívám;</l>
+     <l n="3" met="0000100100" line_length="10">teď jsem však už mrzut a schlíplý tak,</l>
+     <l n="4" met="010010010" rhyme="1" line_length="9">že sotva už na svět se dívám.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0010100100" line_length="10">Jsem jak tamten kohout, jenž smutně tak</l>
+     <l n="6" met="010010010" rhyme="2" line_length="9">se krčí a otvírá klapky:</l>
+     <l n="7" met="010010100" line_length="9">již přes týden na déšť kokrhá</l>
+     <l n="8" met="101010010" rhyme="2" line_length="9">a přec dosud nepadá kapky.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

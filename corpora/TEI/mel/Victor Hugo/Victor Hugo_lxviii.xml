@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LXVIII</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_lxviii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LXVIII</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LXVIII</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Vent du soir ! dont le vol nous courbe tous ensemble,</l>
+     <l n="2" rhyme="b" line_length="6+6">Respecte le blé d'or plein des rayons du jour,</l>
+     <l n="3" rhyme="a" line_length="6+6">Respecte tous les cœurs où quelque flamme tremble,</l>
+     <l n="4" rhyme="a" line_length="6+6">Mais jette où tu voudras, emporte où bon te semble</l>
+     <l n="5" rhyme="b" line_length="6+6">La paille sans épi, la femme sans amour !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

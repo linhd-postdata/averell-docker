@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kvítek z hor.</title>
+    <author>Crha, Václav Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Crha, Václav Antonín_kvitek-z-hor</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kvítek z hor.</title>
+     <author>Crha, Václav Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kvítek z hor.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" rhyme="1" line_length="8">Na horách se kvítek rdívá,</l>
+     <l n="2" met="1010100" rhyme="2" line_length="7">máj ho budí k životu,</l>
+     <l n="3" met="10000010" rhyme="1" line_length="8">usměvavě tam se dívá</l>
+     <l n="4" met="1000100" rhyme="2" line_length="7">k nebeskému blankytu.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101000" rhyme="3" line_length="8">Jeho ňadro, prochvívané</l>
+     <l n="6" met="1001100" rhyme="4" line_length="7">blahými sny o ráji,</l>
+     <l n="7" met="10001010" rhyme="3" line_length="8">rosou jen, co s nebe kane</l>
+     <l n="8" met="1000100" rhyme="4" line_length="7">za jitra se napájí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10011010" rhyme="5" line_length="8">Na horách znám dívku drahou</l>
+     <l n="10" met="1001100" rhyme="4" line_length="7">poprvé sní o ráji,</l>
+     <l n="11" met="10001010" rhyme="5" line_length="8">protože ji nebe vláhou</l>
+     <l n="12" met="1010100" rhyme="4" line_length="7">vláhou lásky napájí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

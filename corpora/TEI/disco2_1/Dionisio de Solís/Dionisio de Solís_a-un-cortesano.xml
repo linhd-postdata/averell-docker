@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A un cortesano</title>
+    <author>Dionisio de Solís</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dionisio de Solís_a-un-cortesano</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A un cortesano</title>
+     <author>Dionisio de Solís</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A un cortesano</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+---+-">Dicen que eres mudable, don Pepito,</l>
+     <l n="2" met="-+---+---+-">que fuiste de Manolo cortesano,</l>
+     <l n="3" met="---+---+-+-">soneteruelo del francés tirano</l>
+     <l n="4" met="---+---+-+-">y de sus odres perennal mosquito;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+-+-+-">que mudando de altar, de culto y rito</l>
+     <l n="6" met="+--+---+-+-">fuiste, tras esto, muratista insano</l>
+     <l n="7" met="---+---+-+-">y, para postres, del Nerón hispano</l>
+     <l n="8" met="--++---+-+-">semanalmente adorador contrito.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--++-+-+-+-">Pero no dicen bien; el pueblo miente,</l>
+     <l n="10" met="-+-+-+---+-">ni menos hay razón por que afrentando</l>
+     <l n="11" met="++-+-+--++-">te esté, y traidor y apóstata te llame.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+---+-">Antes en eso mismo que insolente</l>
+     <l n="13" met="+--+-+-+-+-">te echa Madrid en cara, estás mostrando</l>
+     <l n="14" met="++++-+-+-+-">cuán firme has sido siempre en ser infame.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

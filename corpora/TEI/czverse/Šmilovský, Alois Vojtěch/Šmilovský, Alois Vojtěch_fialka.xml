@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Fialka.</title>
+    <author>Šmilovský, Alois Vojtěch</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">17</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Šmilovský, Alois Vojtěch_fialka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Fialka.</title>
+     <author>Šmilovský, Alois Vojtěch</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Fialka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" line_length="6">Vyrostši v křovině</l>
+     <l n="2" met="10010" rhyme="1" line_length="5">fialka malá</l>
+     <l n="3" met="100100" line_length="6">modroučkým očkem svým</l>
+     <l n="4" met="10010" rhyme="1" line_length="5">dívat se jala,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010100" line_length="6">jak s nebe sluníčko</l>
+     <l n="6" met="10010" rhyme="2" line_length="5">radostně svítí,</l>
+     <l n="7" met="010100" line_length="6">a kolem ve trávě</l>
+     <l n="8" met="10010" rhyme="2" line_length="5">rozkvétá kvítí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100100" line_length="6">V radosti nečila,</l>
+     <l n="10" met="01010" rhyme="3" line_length="5">že sama chřadne,</l>
+     <l n="11" met="010100" line_length="6">že lístek po lístku</l>
+     <l n="12" met="10010" rhyme="3" line_length="5">pomalu vadne.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="010100" line_length="6">A v sladkém dívání</l>
+     <l n="14" met="01010" rhyme="4" line_length="5">a v sladkém snění</l>
+     <l n="15" met="100100" line_length="6">zavzdychla, umřela.</l>
+     <l n="16" met="100101" line_length="6">Po také smrti, ach!</l>
+     <l n="17" met="10010" rhyme="4" line_length="5">prahne mé chtění!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

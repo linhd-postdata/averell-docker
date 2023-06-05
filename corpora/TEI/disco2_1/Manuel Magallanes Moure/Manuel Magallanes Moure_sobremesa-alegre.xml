@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sobremesa alegre</title>
+    <author>Manuel Magallanes Moure</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel Magallanes Moure_sobremesa-alegre</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sobremesa alegre</title>
+     <author>Manuel Magallanes Moure</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sobremesa alegre</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+-+---+-">La viejecita ríe como una muchachuela</l>
+     <l n="2" met="-+-+-+---+++-">contándonos la historia de sus días más bellos.</l>
+     <l n="3" met="+----+-++--+-">Dice la viejecita: «¡Oh, qué tiempos aquellos,</l>
+     <l n="4" met="--+--+-+---+-">cuando yo enamoraba a ocultas de la abuela!»</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+-+---+-">La viejecita ríe como una picaruela</l>
+     <l n="6" met="---+-+---+--+-">y en sus ojillos brincan maliciosos destellos.</l>
+     <l n="7" met="+++--+---+--+-">¡Qué bien luce la plata de sus blancos cabellos</l>
+     <l n="8" met="---+-+---+--+-">sobre su tez rugosa de color de canela!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-+-+---++-">La viejecita olvida todo cuanto la agobia,</l>
+     <l n="10" met="-+--+---+--+-">y ríen las arrugas de su cara bendita</l>
+     <l n="11" met="-+---+---+--+-">y corren por su cuerpo deliciosos temblores.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+++-++--+-">Y mi novia me mira y yo miro a mi novia</l>
+     <l n="13" met="-+-+------+-">y reímos, reímos... mientras la viejecita</l>
+     <l n="14" met="+-+--+-+----+-">nos refiere la historia blanca de sus amores.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

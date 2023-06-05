@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XVII</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_xvii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XVII</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XVII</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Grâce à toi je me vois de dos</l>
+     <l n="2" rhyme="b" line_length="6">Dans ton croquis, à pas lourdauds,</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="8">Moi qui, pour la postérité,</l>
+     <l n="4" rhyme="b" line_length="6">Croyais m’envoler, révolté,</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="8">– Je m’achemine doucement,</l>
+     <l n="6" rhyme="b" line_length="6">Attiré par un double aimant,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

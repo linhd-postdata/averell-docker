@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Signe</title>
+    <author>Guillaume Apollinaire</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Guillaume Apollinaire_signe</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Signe</title>
+     <author>Guillaume Apollinaire</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Signe</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Je suis soumis au Chef du Signe de l'Automne</l>
+     <l n="2" rhyme="b" line_length="6+6">Partant j'aime les fruits je déteste les fleurs</l>
+     <l n="3" rhyme="a" line_length="6+6">Je regrette chacun des baisers que je donne</l>
+     <l n="4" rhyme="b" line_length="6+6">Tel un noyer gaulé dit au vent ses douleurs</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Mon Automne éternelle ô ma saison mentale</l>
+     <l n="6" rhyme="b" line_length="8+4">Les mains des amantes d'antan jonchent ton sol</l>
+     <l n="7" rhyme="a" line_length="6+6">Une épouse me suit c'est mon ombre fatale</l>
+     <l n="8" rhyme="b" line_length="6+6">Les colombes ce soir prennent leur dernier vol</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

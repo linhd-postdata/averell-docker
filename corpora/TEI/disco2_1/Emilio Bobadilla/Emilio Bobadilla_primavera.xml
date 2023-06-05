@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Primavera</title>
+    <author>Emilio Bobadilla</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Emilio Bobadilla_primavera</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Primavera</title>
+     <author>Emilio Bobadilla</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Primavera</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="+-+--+---+-">Nieves, lluvias, heladas, ventoleras...</l>
+     <l n="2" met="+--+-+--++-">y hoy reverdece el campo hasta ayer seco;</l>
+     <l n="3" met="-+-+-+---+-">las ramas son ruidosas pasajeras</l>
+     <l n="4" met="-+-+-+---+-">y nidos hay del árbol en el hueco.</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="++-+-+---+-">Luz que es cristal de miel delicuescente,</l>
+     <l n="6" met="--+--+---+-">abrillanta el contorno de las cosas;</l>
+     <l n="7" met="+-+--+---+-">canta el gallo y escuchan de la fuente</l>
+     <l n="8" met="--+--+-+-+-">el rumor, entreabriéndose, las rosas.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-++++--+-+-">Turquesa es hoy el cielo ayer plomizo,</l>
+     <l n="10" met="-+---+---+-">y en brisa y en rocío se revuelve</l>
+     <l n="11" met="--++-+---+-">lo que ayer era ráfaga y granizo.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-------+-+-">-¡Aleluya, aleluya!- todo grita;</l>
+     <l n="13" met="---+---+-+-">pero al tumulto del vivir que vuelve</l>
+     <l n="14" met="+----++--+-">sólo mi juventud no resucita.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

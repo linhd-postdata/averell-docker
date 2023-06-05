@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>The Swifts</title>
+    <author>Edward Thomas</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Edward Thomas_the-swifts</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>For Better For Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>The Swifts</title>
+     <author>Edward Thomas</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>The Swifts</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="stanza">
+     <l n="1" met="+-+--+">How at once should I know</l>
+     <l n="2" met="-+--+-+">When stretched in the harvest blue</l>
+     <l n="3" met="-+-+++">I saw the swift's black bow,</l>
+     <l n="4" met="--+-+-+">That I would not have that view</l>
+     <l n="5" met="-+-+">Another day</l>
+     <l n="6" met="-+++">Until next May</l>
+     <l n="7" met="-+--+">Again it is due?</l>
+    </lg>
+    <lg n="2" stanza_type="stanza">
+     <l n="8" met="-++--+">The same year after year--</l>
+     <l n="9" met="-+-+-+">But with the swift alone.</l>
+     <l n="10" met="-+-+--+">With other things I but fear</l>
+     <l n="11" met="-+--+--+">That they will be over and done</l>
+     <l n="12" met="+-+">Suddenly</l>
+     <l n="13" met="--+-+">And I only see</l>
+     <l n="14" met="--+-+">Them to know them gone.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

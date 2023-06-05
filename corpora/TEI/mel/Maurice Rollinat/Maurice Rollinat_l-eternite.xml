@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L'Éternité</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_l-eternite</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L'Éternité</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L'Éternité</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">On guette dans la multitude</l>
+     <l n="2" rhyme="b" line_length="8">La fuite de tous ses instants.</l>
+     <l n="3" rhyme="b" line_length="8">Au contraire, on fige le temps</l>
+     <l n="4" rhyme="a" line_length="8">En pratiquant la solitude.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="8">À constamment voir le tableau</l>
+     <l n="6" rhyme="d" line_length="8">Du monotone impérissable,</l>
+     <l n="7" rhyme="d" line_length="8">On vit l'herbe, le grain de sable,</l>
+     <l n="8" rhyme="c" line_length="8">Le rocher, le nuage et l'eau.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="8">L'âge vient à si petits pas</l>
+     <l n="10" rhyme="e" line_length="8">Qu'il semble qu'on n'assiste pas</l>
+     <l n="11" rhyme="f" line_length="8">À ses lentes métamorphoses :</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="8">Et l'on a pleinement goûté</l>
+     <l n="13" rhyme="g" line_length="8">La saveur de l'Éternité</l>
+     <l n="14" rhyme="f" line_length="8">Lorsque l'on rentre dans les choses.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

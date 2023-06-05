@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sokolu.</title>
+    <author>Hlaváček, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hlaváček, Karel_sokolu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sokolu.</title>
+     <author>Hlaváček, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sokolu.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" rhyme="1" line_length="11">Ty, svatý ptáku, znaku naší síly,</l>
+     <l n="2" met="0101010001" rhyme="2" line_length="10">v svůj ostrý zob a nepodajný spár</l>
+     <l n="3" met="1101010101" rhyme="2" line_length="10">chop těchto mojich chabých veršů pár</l>
+     <l n="4" met="01010101010" rhyme="1" line_length="11">a zakruž s nimi k slunci nad mrak bílý.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000101010" rhyme="1" line_length="11">Ač chabé jsou, přec mají tep mé žíly,</l>
+     <l n="6" met="0100010001" rhyme="2" line_length="10">je štěstí v nich, však také v nich náš zmar;</l>
+     <l n="7" met="0101010101" rhyme="2" line_length="10">ty kdybys dal jim síly, ohně dar,</l>
+     <l n="8" met="01010101000" rhyme="1" line_length="11">tož možná, že by potom působily!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1100010101" rhyme="3" line_length="10">Ó působit! Být bratrům maják, stráž,</l>
+     <l n="10" met="01010101010" rhyme="4" line_length="11">jim na rtech jásat, truchlit v jejich bídě,</l>
+     <l n="11" met="11010101010" rhyme="4" line_length="11">jít první v boj, být slední v puklé přídě,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="0101110101" rhyme="3" line_length="10">když vstává vrah, hřmít: Sta se paží vzpaž!</l>
+     <l n="13" met="01010001110" rhyme="5" line_length="11">a za Vlast s Viktoria! v rtech mřít v boji –</l>
+     <l n="14" met="01000100010" rhyme="5" line_length="11">viď, sonete, to touhou tvou i mojí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

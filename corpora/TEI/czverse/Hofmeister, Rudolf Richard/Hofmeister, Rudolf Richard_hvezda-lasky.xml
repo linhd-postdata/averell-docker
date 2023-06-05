@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hvězda lásky.</title>
+    <author>Hofmeister, Rudolf Richard</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hofmeister, Rudolf Richard_hvezda-lasky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hvězda lásky.</title>
+     <author>Hofmeister, Rudolf Richard</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hvězda lásky.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" line_length="8">Zazářila hvězda lásky</l>
+     <l n="2" met="1010100" rhyme="1" line_length="7">v pusté srdce hříšníka –</l>
+     <l n="3" met="10101010" line_length="8">oj, ten úžas, jak se duše</l>
+     <l n="4" met="1001100" rhyme="1" line_length="7">z okovů tmy vymyká!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10011010" line_length="8">Oslněn jde za tou září</l>
+     <l n="6" met="1010101" rhyme="2" line_length="7">v oku blesk a v srdci slast</l>
+     <l n="7" met="10101010" line_length="8">a když hvězda shasne náhle,</l>
+     <l n="8" met="1010100" rhyme="2" line_length="7">klesne opět ve propast.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

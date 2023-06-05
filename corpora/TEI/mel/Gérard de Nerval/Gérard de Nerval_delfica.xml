@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Delfica</title>
+    <author>Gérard de Nerval</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Gérard de Nerval_delfica</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Delfica</title>
+     <author>Gérard de Nerval</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Delfica</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">La connais-tu, DAFNÉ, cette ancienne romance,</l>
+     <l n="2" rhyme="b" line_length="6+6">Au pied du sycomore, ou sous les lauriers blancs,</l>
+     <l n="3" rhyme="b" line_length="6+6">Sous l'olivier, le myrthe ou les saules tremblants,</l>
+     <l n="4" rhyme="a" line_length="6+6">Cette chanson d'amour… qui toujours recommence !</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Reconnais-tu le TEMPLE, au péristyle immense,</l>
+     <l n="6" rhyme="b" line_length="6+6">Et les citrons amers où s'imprimaient tes dents ?</l>
+     <l n="7" rhyme="b" line_length="6+6">Et la grotte, fatale aux hôtes imprudents,</l>
+     <l n="8" rhyme="a" line_length="6+6">Où du dragon vaincu dort l'antique semence.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Ils reviendront, ces dieux que tu pleures toujours !</l>
+     <l n="10" rhyme="c" line_length="6+6">Le temps va ramener l'ordre des anciens jours;</l>
+     <l n="11" rhyme="d" line_length="6+6">La terre a tressailli d'un souffle prophétique…</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Cependant la sibylle au visage latin</l>
+     <l n="13" rhyme="e" line_length="6+6">Est endormie encor sous l'arc de Constantin :</l>
+     <l n="14" rhyme="d" line_length="6+6">— Et rien n'a dérangé le sévère portique.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

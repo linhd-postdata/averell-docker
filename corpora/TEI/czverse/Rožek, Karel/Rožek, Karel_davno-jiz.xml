@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dávno již...</title>
+    <author>Rožek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Rožek, Karel_davno-jiz</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dávno již...</title>
+     <author>Rožek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dávno již...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001001001" rhyme="1" line_length="10">Dávno již zemřela slova v mých rtech,</l>
+     <l n="2" met="10010010010" rhyme="2" line_length="11">dávno již poklesly před činem ruce.</l>
+     <l n="3" met="01001001001" rhyme="1" line_length="11">Jak asketa řeholník žiju v svých zdech,</l>
+     <l n="4" met="10010010010" rhyme="2" line_length="11">duši svou přibíjím na pranýř Muce.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001001001" rhyme="1" line_length="10">Jestliže zaplanu chvilenku v snech,</l>
+     <l n="6" met="10010010010" rhyme="3" line_length="11">vzpomínky do dálek zaletí maně,</l>
+     <l n="7" met="1011001001" rhyme="1" line_length="10">tisíc dnů kaju se v samoty zdech.</l>
+     <l n="8" met="11010010110" rhyme="3" line_length="11">Snů žár a vzpomínky? – Bolest dám za ně.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nic.*)</title>
+    <author>Čech, Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čech, Svatopluk_nic</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nic.*)</title>
+     <author>Čech, Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nic.*)</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" rhyme="1" line_length="11">Byť celý svět se v úděl dostal tobě,</l>
+     <l n="2" met="1100000100" line_length="10">jdi bez radosti dál – toť pouhé nic!</l>
+     <l n="3" met="01010101010" rhyme="1" line_length="11">Byť celý svět jsi ztratil v sudby zlobě,</l>
+     <l n="4" met="1100000100" line_length="10">jdi bez žalosti dál – toť pouhé nic!</l>
+     <l n="5" met="01010101010" rhyme="1" line_length="11">I žal i radost minou, zajdou v hrobě,</l>
+     <l n="6" met="1101010100" line_length="10">miň klidně tento svět – onť pouhé nic!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jindy – nyní.</title>
+    <author>Grunert, Hynek</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Grunert, Hynek_jindy-nyni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jindy – nyní.</title>
+     <author>Grunert, Hynek</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jindy – nyní.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101000" rhyme="1" line_length="7">Jen sedm mudrců prý</l>
+     <l n="2" met="1001010" rhyme="2" line_length="7">staré to Řecko mělo;</l>
+     <l n="3" met="0001000" rhyme="3" line_length="7">jak by se podivilo,</l>
+     <l n="4" met="1001000" rhyme="3" line_length="7">kdyby teď navštivilo</l>
+     <l n="5" met="100100" rhyme="1" line_length="6">Pražské ty kavárny,</l>
+     <l n="6" met="1001010" rhyme="2" line_length="7">mudrců našich zřelo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

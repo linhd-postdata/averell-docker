@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Retrato</title>
+    <author>E. de Gurruchaga</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>E. de Gurruchaga_retrato</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Retrato</title>
+     <author>E. de Gurruchaga</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Retrato</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+-+-+-">Levántase a las diez lo más temprano,</l>
+     <l n="2" met="-----++--+-">y después de almorzar, bien chocolate</l>
+     <l n="3" met="---+-+---+-">o bien jamón gallego con tomate,</l>
+     <l n="4" met="--+--+-+-+-">se dirige a la iglesia muy ufano.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+---+-">Salúdale cortés el aldeano</l>
+     <l n="6" met="--+--+-+-+-">que en el campo con brío el pico bate</l>
+     <l n="7" met="-+--++---+-">y suda la gran gota el botarate</l>
+     <l n="8" met="---+-+---+-">para pagar los diezmos en verano.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+-+++-">En la iglesia (quizá alguien no me crea)</l>
+     <l n="10" met="+-+++++--+-">dice misa, esto es, un cuarto de hora</l>
+     <l n="11" met="--+--+---+-">a lo sumo de mística tarea.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+-++---+-">Come y duerme, claro es que sin señora;</l>
+     <l n="13" met="+-+++-+--+-">vive sano, y es cura de una aldea,</l>
+     <l n="14" met="-++--+---+-">y tiene una señora encantadora.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

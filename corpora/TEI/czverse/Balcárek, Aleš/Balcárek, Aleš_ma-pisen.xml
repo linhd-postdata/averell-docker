@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Má píseň.</title>
+    <author>Balcárek, Aleš</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Balcárek, Aleš_ma-pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Má píseň.</title>
+     <author>Balcárek, Aleš</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Má píseň.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000100" line_length="7">Kdykoliv se píseň mi</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">z hrudi moji vine,</l>
+     <l n="3" met="0100101" line_length="7">vždy, o vždy, jen krve proud</l>
+     <l n="4" met="100010" rhyme="1" line_length="6">za ní ven se line.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0010100" line_length="7">Kéž mne, písni, žalem svým</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">uspíš ve hrob chladný,</l>
+     <l n="7" met="0010100" line_length="7">vždyť tu pro mne mrtvo vše,</l>
+     <l n="8" met="101010" rhyme="2" line_length="6">a tvůj úkon snadný.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010100" line_length="7">Zni jen, písni moje, dál; –</l>
+     <l n="10" met="001010" rhyme="3" line_length="6">až pak ztichneš jednou:</l>
+     <l n="11" met="1010100" line_length="7">krve proud se zastaví,</l>
+     <l n="12" met="101010" rhyme="3" line_length="6">a mé tváře zblednou!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ubohý!</title>
+    <author>Klášterský, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Klášterský, Antonín_ubohy</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ubohý!</title>
+     <author>Klášterský, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ubohý!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000101000" rhyme="1" line_length="11">Je nemocen a leží ve přístěnku,</l>
+     <l n="2" met="0101010000" rhyme="2" line_length="10">to šerá jizba a on sám tak v ní,</l>
+     <l n="3" met="01010100010" rhyme="1" line_length="11">teď jaro teplé musí být už venku</l>
+     <l n="4" met="0101000101" rhyme="2" line_length="10">a stromy kvetou – co on o tom ví?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100110" rhyme="3" line_length="11">Kéž aspoň strom by před okny stál jeden,</l>
+     <l n="6" met="0100010011" rhyme="4" line_length="10">jenž do oken by zelenou hnal sněť,</l>
+     <l n="7" met="01010101010" rhyme="3" line_length="11">by viděl, že již dávno není leden,</l>
+     <l n="8" met="0000010010" rhyme="4" line_length="10">tak jak se mu to v samotě zdá teď.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101010" rhyme="5" line_length="11">A doušek vůně z květů, co jich v měkký</l>
+     <l n="10" met="0101010100" rhyme="6" line_length="10">teď pažit asi vlažný duben střás’,</l>
+     <l n="11" met="01000101010" rhyme="5" line_length="11">by pro něho byl nade všecky léky</l>
+     <l n="12" met="0101010100" rhyme="6" line_length="10">a sílu novou vlil by v údy zas.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01010100010" rhyme="7" line_length="11">Však okna jdou jen do smutného dvora</l>
+     <l n="14" met="0100010101" rhyme="8" line_length="10">a před nimi je dlouhá, šedá zeď –</l>
+     <l n="15" met="01010100010" rhyme="7" line_length="11">tak duše starce usměje se chorá,</l>
+     <l n="16" met="1001010100" rhyme="8" line_length="10">i když jen paprsk může uviděť.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

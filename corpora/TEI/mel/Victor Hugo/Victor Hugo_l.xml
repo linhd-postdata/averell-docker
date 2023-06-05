@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_l</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Est-ce que vous croyez que les roses vermeilles</l>
+     <l n="2" rhyme="a" line_length="6+6">Ne trouvent pas moyen de suivre les abeilles,</l>
+     <l n="3" rhyme="b" line_length="6+6">Et que les papillons, errant dans les benjoins,</l>
+     <l n="4" rhyme="b" line_length="6+6">Ne sont pas dans l'azur par les parfums rejoints ?</l>
+     <l n="5" rhyme="a" line_length="6+6">La mémoire est un souffle envoyé dans la tombe ;</l>
+     <l n="6" rhyme="a" line_length="6+6">C'est la colombe allant s'unir à-la colombe.</l>
+     <l n="7" rhyme="b" line_length="6+6">Non !il n'est pas d'absence, il n'est pas de tombeau ;</l>
+     <l n="8" rhyme="b" line_length="6+6">Le pâle survivant, rallumant le flambeau,</l>
+     <l n="9" rhyme="a" line_length="6+6">Fait envoler son âme au delà de la terre</l>
+     <l n="10" rhyme="a" line_length="6+6">A la suite du mort entré dans le mystère ;</l>
+     <l n="11" rhyme="b" line_length="6+6">L'âme revoit l'autre âme à force d'y rêver,</l>
+     <l n="12" rhyme="b" line_length="6+6">Et dans le ciel profond sait où la retrouver.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

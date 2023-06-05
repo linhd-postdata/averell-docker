@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Blanchisseuse</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_la-blanchisseuse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Blanchisseuse</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Blanchisseuse</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Parmi des Nymphes, clair et souriant essaim,</l>
+     <l n="2" rhyme="b" line_length="6+6">Près du bel Eurotas, où glisse quelque voile,</l>
+     <l n="3" rhyme="b" line_length="6+6">Déesse, elle eût jadis régné, nue et sans voile,</l>
+     <l n="4" rhyme="a" line_length="6+6">Laissant le vent mêler ses cheveux à dessein.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Robuste, elle a des bras d'amazone, et son sein</l>
+     <l n="6" rhyme="b" line_length="6+6">Aigu, son jeune sein brillant comme une étoile,</l>
+     <l n="7" rhyme="b" line_length="6+6">Dessine un point saillant sur la robe de toile</l>
+     <l n="8" rhyme="a" line_length="6+6">Qui moule de son corps le ferme et pur dessin.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Un vieillard libertin, que sa grâce émerveille,</l>
+     <l n="10" rhyme="c" line_length="6+6">Lui murmure des mots ignobles à l'oreille ;</l>
+     <l n="11" rhyme="d" line_length="6+6">Mais, sans avoir souci de ce piteux Lindor</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Qui la suit et la lorgne avec des airs de singe,</l>
+     <l n="13" rhyme="d" line_length="6+6">Elle va d'un pas libre et sur ses tresses d'or</l>
+     <l n="14" rhyme="e" line_length="6+6">Superbes — elle porte un grand paquet de linge.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

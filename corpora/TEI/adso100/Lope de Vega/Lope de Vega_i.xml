@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>-I-</title>
+    <author>Lope de Vega</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lope de Vega_i</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>ADSO 100 poems corpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>-I-</title>
+     <author>Lope de Vega</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>-I-</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---+-">Versos de amor, conceptos esparcidos,</l>
+     <l n="2" met="--+--+---+-">engendrados del alma en mis cuidados,</l>
+     <l n="3" met="+----+---+-">partos de mis sentidos abrasados,</l>
+     <l n="4" met="-+-+---+-+-">con más dolor que libertad nacidos:</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">Expósitos al mundo, en que perdidos,</l>
+     <l n="6" met="-+---+---+-">tan rotos anduvisteis y trocados,</l>
+     <l n="7" met="-+---+---+-">que sólo donde fuisteis engendrados</l>
+     <l n="8" met="+----+---+-">fuéranse por la sangre conocidos.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+---+-+-">Pues que le hurtáis el laberinto a Creta,</l>
+     <l n="10" met="-+---+---+-">a Dédalo los altos pensamientos,</l>
+     <l n="11" met="-+-+-+---+-">la furia al mar, las llamas al abismo,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++--+-+-+-">si aquel áspid hermoso no os aceta,</l>
+     <l n="13" met="-+-+---+-+-">dejad la tierra, entretener los vientos:</l>
+     <l n="14" met="---+---+-+-">descansaréis en vuestro centro mismo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

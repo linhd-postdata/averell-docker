@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Le Dormeur du val</title>
+    <author>Arthur Rimbaud</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Arthur Rimbaud_le-dormeur-du-val</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Le Dormeur du val</title>
+     <author>Arthur Rimbaud</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Le Dormeur du val</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">C’est un trou de verdure où chante une rivière</l>
+     <l n="2" rhyme="b" line_length="6+6">Accrochant follement aux herbes des haillons</l>
+     <l n="3" rhyme="a" line_length="6+6">D’argent ; où le soleil, de la montagne fière,</l>
+     <l n="4" rhyme="b" line_length="6+6">Luit : c’est un petit val qui mousse de rayons.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">Un soldat jeune, bouche ouverte, tête nue,</l>
+     <l n="6" rhyme="d" line_length="6+6">Et la nuque baignant dans le frais cresson bleu,</l>
+     <l n="7" rhyme="c" line_length="6+6">Dort ; il est étendu dans l’herbe, sous la nue,</l>
+     <l n="8" rhyme="d" line_length="6+6">Pâle dans son lit vert où la lumière pleut.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="6+6">Les pieds dans les glaïeuls, il dort. Souriant comme</l>
+     <l n="10" rhyme="e" line_length="6+6">Sourirait un enfant malade, il fait un somme :</l>
+     <l n="11" rhyme="f" line_length="6+6">Nature, berce-le chaudement : il a froid.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="6+6">Les parfums ne font pas frissonner sa narine ;</l>
+     <l n="13" rhyme="g" line_length="6+6">Il dort dans le soleil, la main sur sa poitrine</l>
+     <l n="14" rhyme="f" line_length="6+6">Tranquille. Il a deux trous rouges au côté droit.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

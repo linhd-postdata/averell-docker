@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CE QUE J'AIME</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_ce-que-j-aime</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CE QUE J'AIME</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CE QUE J'AIME</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="7">D'attraits ravissants pourvue,</l>
+     <l n="2" rhyme="b" line_length="7">Seule, elle réunit tout ;</l>
+     <l n="3" rhyme="a" line_length="7">Ses appas charment la vue,</l>
+     <l n="4" rhyme="b" line_length="7">Et chacun vante son goût.</l>
+     <l n="5" rhyme="c" line_length="7">Sa peau, veloutée et fraîche,</l>
+     <l n="6" rhyme="d" line_length="7">Joint toujours la rose au lis :</l>
+     <l n="7" rhyme="d" line_length="7">Ce pourrait être Phyllis,</l>
+     <l n="8" rhyme="c" line_length="7">Si ce n'était une pêche.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

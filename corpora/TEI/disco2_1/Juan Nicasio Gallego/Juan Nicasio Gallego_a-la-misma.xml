@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A la misma</title>
+    <author>Juan Nicasio Gallego</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Nicasio Gallego_a-la-misma</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A la misma</title>
+     <author>Juan Nicasio Gallego</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A la misma</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+---+-">Cuando mi bien el campo hermoseaba</l>
+     <l n="2" met="--+--+---+-">que del Órbigo baña la corriente,</l>
+     <l n="3" met="+--+---+-+-">yo de su vista celestial ausente</l>
+     <l n="4" met="--+--+-+-+-">solitario y lloroso me quejaba.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-++++---+-">Hoy, que la veo al fin; hoy que esperaba</l>
+     <l n="6" met="-+-+---+-+-">el dulce premio de mi amor ardiente,</l>
+     <l n="7" met="+----++--+-">hállola sin piedad, dura, inclemente,</l>
+     <l n="8" met="-+-+---+-+-">y más mi angustia y mi dolor se agrava.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+-+-">Pues bien, Pradina: si al afecto mío</l>
+     <l n="10" met="-+-+---+++-">perpetuo llanto y desamor le espera,</l>
+     <l n="11" met="+--+---+-+-">culpa de ausencia o del olvido impío;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+---+-">goce yo tu sonrisa placentera,</l>
+     <l n="13" met="-+-+---+-+-">y más que en fuerza de tu infiel desvío</l>
+     <l n="14" met="-+-+---+-+-">gimiendo viva, y suspirando muera.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

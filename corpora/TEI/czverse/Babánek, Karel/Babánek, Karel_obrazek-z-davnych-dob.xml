@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>OBRÁZEK Z DÁVNÝCH DOB.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_obrazek-z-davnych-dob</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>OBRÁZEK Z DÁVNÝCH DOB.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>OBRÁZEK Z DÁVNÝCH DOB.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010" line_length="7">S tlumokem, holí v ruce,</l>
+     <l n="2" met="100100" rhyme="1" line_length="6">se srdcem stísněným,</l>
+     <l n="3" met="1001001" line_length="7">z domova do světa jde</l>
+     <l n="4" met="100100" rhyme="1" line_length="6">za cílem vysněným.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001010" line_length="7">V srdci si z domu nese</l>
+     <l n="6" met="110100" rhyme="2" line_length="6">sny krásné o štěstí,</l>
+     <l n="7" met="1001010" line_length="7">městečka obraz milý,</l>
+     <l n="8" met="101000" rhyme="2" line_length="6">s kašnou na náměstí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1100010" line_length="7">Jdou vzpomínky s ním cestou</l>
+     <l n="10" met="010100" rhyme="3" line_length="6">a teskná nálada,</l>
+     <l n="11" met="1000110" line_length="7">na obrázek zří milé</l>
+     <l n="12" met="010100" rhyme="3" line_length="6">a slunce zapadá.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

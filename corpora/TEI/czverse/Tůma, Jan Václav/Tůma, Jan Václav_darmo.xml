@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Darmo!</title>
+    <author>Tůma, Jan Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Tůma, Jan Václav_darmo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Darmo!</title>
+     <author>Tůma, Jan Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Darmo!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010010" line_length="6">Můj bože, můj bože,</l>
+     <l n="2" met="000101" line_length="6">což je mi smutný svět,</l>
+     <l n="3" met="101100" line_length="6">tíži mám na srdci,</l>
+     <l n="4" met="010100" line_length="6">a nesmím povědět.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100" line_length="6">Hledal jsem přítele,</l>
+     <l n="6" met="000100" line_length="6">bych mu to pověděl,</l>
+     <l n="7" met="000100" line_length="6">snad by té bolesti</l>
+     <l n="8" met="000100" line_length="6">líp než já rozuměl –</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010100" line_length="6">a zase milenky,</l>
+     <l n="10" met="100100" line_length="6">abych se potěšil,</l>
+     <l n="11" met="010100" line_length="6">a tajné bolesti</l>
+     <l n="12" met="010100" line_length="6">sám v srdci nenosil:</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100100" line_length="6">Přítele nenašel,</l>
+     <l n="14" met="100100" line_length="6">lásky se nedoždal,</l>
+     <l n="15" met="010100" line_length="6">můj bože, co jsem se</l>
+     <l n="16" met="100100" line_length="6">v samotě naplakal!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

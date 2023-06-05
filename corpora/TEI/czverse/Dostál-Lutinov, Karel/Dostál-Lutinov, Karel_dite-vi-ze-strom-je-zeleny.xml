@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dítě ví, že strom je zelený,</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_dite-vi-ze-strom-je-zeleny</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dítě ví, že strom je zelený,</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dítě ví, že strom je zelený,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010100" line_length="9">Dítě ví, že strom je zelený, </l>
+     <l n="2" met="1010111010" rhyme="1" line_length="10">stařec ví, že strom má barev tisíc.</l>
+     <l n="3" met="10100110" line_length="8">Dítě myslí, že ví všechno,</l>
+     <l n="4" met="1010100" rhyme="1" line_length="7">stařec ví, že neví nic.</l>
+     <l n="5" met="101010101" rhyme="1" line_length="9">Ale není starcem každý strýc!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

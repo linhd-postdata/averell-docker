@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>JINÁ PÍSEŇ.</title>
+    <author>Sova, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sova, Antonín_jina-pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>JINÁ PÍSEŇ.</title>
+     <author>Sova, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>JINÁ PÍSEŇ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0100100100" rhyme="1" line_length="10">Když bez slz jsou oči a šustíme</l>
+     <l n="2" met="110000010" rhyme="2" line_length="9">dny bezradostnými jak listí,</l>
+     <l n="3" met="0100100100" rhyme="1" line_length="10">mrou chvíle, jež nemají lásky mé</l>
+     <l n="4" met="01000" rhyme="2" line_length="5">ni nenávisti,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="110010000" rhyme="3" line_length="9">klid bez mraku znepokojivý</l>
+     <l n="6" met="01001010" rhyme="4" line_length="8">když sluncem vše na prach suší,</l>
+     <l n="7" met="1101100100" rhyme="3" line_length="10">mrak čekám, den neklidný, bouřlivý,</l>
+     <l n="8" met="1100010" rhyme="4" line_length="7">blesk prožehnouti duší.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010010100" rhyme="5" line_length="9">Ten osvítí všecko do dáli,</l>
+     <l n="10" met="01010010" rhyme="6" line_length="8">že uzřím z mlhy a deště</l>
+     <l n="11" met="0100100100" rhyme="5" line_length="10">kdož láskami mými se zklamali,</l>
+     <l n="12" met="010010010" rhyme="6" line_length="9">se naposled ohlédnout ještě.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- V - </title>
+    <author>Juan Boscan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Boscan_v</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- V - </title>
+     <author>Juan Boscan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- V - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Antigua llaga que en mis ojos cría,</l>
+     <l n="2" met="++---+-+-+-">no deja resillar el buen deseo.</l>
+     <l n="3" met="+--+-+---+-">Yo por caminos ásperos rodeo,</l>
+     <l n="4" met="--+--+-+-+-">por llegar a sosiego el alma mía.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-++-----+-">Hurto algún gusto, mas mi fantasía</l>
+     <l n="6" met="---+-----+-">me le embaraza cuando le poseo;</l>
+     <l n="7" met="-+++-+---+-">medrar no puede aquello que granjeo</l>
+     <l n="8" met="-+---++--+-">que en tierra se sembró cruda y sombría.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">El bien que el seso ofrece al sentimiento,</l>
+     <l n="10" met="+--+-+---+-">hace que amor me ponga diligencia,</l>
+     <l n="11" met="---+-+---+-">para cerrar mis ojos al tormento.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--++++---+-">Porque bien sé que un blando pensamiento</l>
+     <l n="13" met="++---++--+-">da causa de tener menos paciencia,</l>
+     <l n="14" met="-+-+-+-+-+-">y a veces es peligro estar contento.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

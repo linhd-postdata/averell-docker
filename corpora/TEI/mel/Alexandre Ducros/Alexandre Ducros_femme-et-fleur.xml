@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>FEMME ET FLEUR</title>
+    <author>Alexandre Ducros</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alexandre Ducros_femme-et-fleur</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>FEMME ET FLEUR</title>
+     <author>Alexandre Ducros</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>FEMME ET FLEUR</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="7">La femme dit à la rose :</l>
+     <l n="2" rhyme="a" line_length="7">— « Il te faut, pour être éclose, »</l>
+     <l n="3" rhyme="b" line_length="7">De cet horizon vermeil</l>
+     <l n="4" rhyme="c" line_length="7">« Attendre, ô ma bien-aimée !</l>
+     <l n="5" rhyme="c" line_length="7">« Sur ta tige parfumée,</l>
+     <l n="6" rhyme="b" line_length="7">« Un doux rayon de soleil. »</l>
+    </lg>
+    <lg n="2">
+     <l n="7" rhyme="a" line_length="7">La rose dit à la femme :</l>
+     <l n="8" rhyme="a" line_length="7">— « Il te faut, pour que ton âme</l>
+     <l n="9" rhyme="b" line_length="7">» S'entr'ouvre au bonheur d'un jour, »</l>
+     <l n="10" rhyme="c" line_length="7">Attendre comme la rose, »</l>
+     <l n="11" rhyme="c" line_length="7">Ma sœur, et c'est autre chose :</l>
+     <l n="12" rhyme="b" line_length="7">« C'est un doux rayon d'amour.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

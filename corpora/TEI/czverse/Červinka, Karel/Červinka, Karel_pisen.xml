@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PÍSEŇ.</title>
+    <author>Červinka, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červinka, Karel_pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PÍSEŇ.</title>
+     <author>Červinka, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PÍSEŇ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0010010" rhyme="1" line_length="7">Jak tak ležím sám a sám,</l>
+     <l n="2" met="0010100" rhyme="1" line_length="7">jak tu tiše vzpomínám,</l>
+     <l n="3" met="00001010" rhyme="2" line_length="8">jak mi je tak divně, blaze,</l>
+     <l n="4" met="0010100" line_length="7">když se zase rozlévá</l>
+     <l n="5" met="10011000" rhyme="2" line_length="8">měsíční zář po podlaze...</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="1010100" rhyme="3" line_length="7">Možno, možno, někde teď</l>
+     <l n="7" met="1001101" rhyme="3" line_length="7">děvče, jež má bledou pleť,</l>
+     <l n="8" met="10101010" rhyme="4" line_length="8">cítí, jak mu touha úží</l>
+     <l n="9" met="1010100" line_length="7">bílé hrdlo, že by hned</l>
+     <l n="10" met="10001010" rhyme="4" line_length="8">do náruče sklouzlo muži...</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="1010010" rhyme="5" line_length="7">A já ležím sám a sám,</l>
+     <l n="12" met="1010101" rhyme="5" line_length="7">stejnou touhu v hrudi mám,</l>
+     <l n="13" met="10101010" rhyme="6" line_length="8">sladkou lásku v sobě rdouse...</l>
+     <l n="14" met="1000100" rhyme="3" line_length="7">A jak my, snad také teď</l>
+     <l n="15" met="10101000" line_length="8">dva jsou, kteří padli by si</l>
+     <l n="16" met="10101000" rhyme="6" line_length="8">v náruč, avšak – nesejdou se...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

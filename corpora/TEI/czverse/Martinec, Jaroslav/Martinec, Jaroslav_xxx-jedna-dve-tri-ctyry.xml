@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XXX. Jedna, dvě, tři, čtyry</title>
+    <author>Martinec, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Martinec, Jaroslav_xxx-jedna-dve-tri-ctyry</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XXX. Jedna, dvě, tři, čtyry</title>
+     <author>Martinec, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XXX. Jedna, dvě, tři, čtyry</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101110" line_length="6">Jedna, dvě, tři, čtyry </l>
+     <l n="2" met="100010" rhyme="1" line_length="6">v protokolu kaňky...</l>
+     <l n="3" met="000010" line_length="6">proč pak jste nám chtěli</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">na nos sázet baňky?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101010" line_length="6">Těžko psáti, věřím,</l>
+     <l n="6" met="001010" rhyme="2" line_length="6">když se ruka třese.</l>
+     <l n="7" met="101010" line_length="6">Pište: „Kdo si hověl,</l>
+     <l n="8" met="001010" rhyme="2" line_length="6">ten ať nejvíc nese!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

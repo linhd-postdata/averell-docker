@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SMUTNÝ MADRIGAL</title>
+    <author>Frída, Vladimír</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">11</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Frída, Vladimír_smutny-madrigal</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SMUTNÝ MADRIGAL</title>
+     <author>Frída, Vladimír</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SMUTNÝ MADRIGAL</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Staré sny se mihnou v hlavě,</l>
+     <l n="2" met="10101000" rhyme="1" line_length="8">paprsk stínů ve záplavě,</l>
+     <l n="3" met="101010" rhyme="1" line_length="6">lesklí brouci hravě</l>
+     <l n="4" met="1010" rhyme="1" line_length="4">v suché trávě.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="2" line_length="8">Staré touhy zazní duší,</l>
+     <l n="6" met="10101010101010" rhyme="2" line_length="14">kroky, jež se stěží tuší, mrtvou letní hluší,</l>
+     <l n="7" met="1010" rhyme="2" line_length="4">hudba muší.</l>
+    </lg>
+    <lg n="3">
+     <l n="8" met="10101010" rhyme="3" line_length="8">Staré boje zahřmí hrudí.</l>
+     <l n="9" met="10001010" rhyme="3" line_length="8">Chvějeme se láskou chudí,</l>
+     <l n="10" met="100010" rhyme="3" line_length="6">s nimi vše, co trudí,</l>
+     <l n="11" met="0010" rhyme="3" line_length="4">se zas vzbudí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

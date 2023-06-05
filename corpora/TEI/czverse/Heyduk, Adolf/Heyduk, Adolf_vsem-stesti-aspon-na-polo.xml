@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Všem štěstí aspoň na polo...</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_vsem-stesti-aspon-na-polo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Všem štěstí aspoň na polo...</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Všem štěstí aspoň na polo...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" rhyme="1" line_length="8">Všem štěstí aspoň na polo</l>
+     <l n="2" met="10010010" rhyme="2" line_length="8">květnatý věneček svilo –</l>
+     <l n="3" met="10110100" rhyme="1" line_length="8">u mne šlo jenom okolo,</l>
+     <l n="4" met="1001000" rhyme="2" line_length="7">u mne se nestavilo.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" rhyme="3" line_length="8">Jenom hrsť rosy květinné</l>
+     <l n="6" met="10010010" rhyme="4" line_length="8">v úprku vrhlo mi v oči –</l>
+     <l n="7" met="10010100" rhyme="3" line_length="8">srdce mé v touze dětinné</l>
+     <l n="8" met="1001010" rhyme="4" line_length="7">posud je za ním točí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

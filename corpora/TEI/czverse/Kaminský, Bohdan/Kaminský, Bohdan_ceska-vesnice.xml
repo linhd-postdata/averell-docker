@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Česká vesnice.</title>
+    <author>Kaminský, Bohdan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kaminský, Bohdan_ceska-vesnice</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Česká vesnice.</title>
+     <author>Kaminský, Bohdan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Česká vesnice.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11000100010" rhyme="1" line_length="11">Den podzimní je, obloha tak nízka.</l>
+     <l n="2" met="1001010100" rhyme="2" line_length="10">Pláň. V dál se řadou táhnou topoly,</l>
+     <l n="3" met="11010100010" rhyme="1" line_length="11">tmou jejich kmenů zabělá se víska</l>
+     <l n="4" met="0001010100" rhyme="2" line_length="10">a v dál se tratí cesta do polí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101000" rhyme="3" line_length="11">A dřevo kříže rudě obarvené</l>
+     <l n="6" met="0100010101" rhyme="4" line_length="10">tu na kraji, kde řídne chudý les,</l>
+     <l n="7" met="01000101010" rhyme="3" line_length="11">a ztrnule ten kříž se ze tmy klene</l>
+     <l n="8" met="0100010100" rhyme="4" line_length="10">a někdo se tam dívá do nebes.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01001101010" rhyme="5" line_length="11">A hluboký klid svatý na všem leží,</l>
+     <l n="10" met="0101010100" rhyme="6" line_length="10">ni strom se nehne, kraj si zvolna zdřím’,</l>
+     <l n="11" met="10010101010" rhyme="5" line_length="11">s chatrčí nízkých, na něž lehce sněží,</l>
+     <l n="12" met="0100010101" rhyme="6" line_length="10">jen po zemi se plouží bílý dým.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01010100010" rhyme="7" line_length="11">A bílý kouř ten nedoletí vzhůru,</l>
+     <l n="14" met="0001010001" rhyme="8" line_length="10">to je ten těžký, utajený vzdech,</l>
+     <l n="15" met="01010101000" rhyme="7" line_length="11">by onen Velký kdesi na azuru</l>
+     <l n="16" met="0101010100" rhyme="8" line_length="10">ten výkřik zdola ani nezaslech’.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

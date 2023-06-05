@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Máj byl...</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_maj-byl</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Máj byl...</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Máj byl...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" line_length="8">Pohádkové oči měla,</l>
+     <l n="2" met="101" rhyme="1" line_length="3">hebký vlas –</l>
+     <l n="3" met="10101000" line_length="8">Na rtech úsměv dovádivý,</l>
+     <l n="4" met="101" rhyme="1" line_length="3">sladký hlas.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101000" line_length="8">Máj byl, večer, neznámý ji</l>
+     <l n="6" met="101" rhyme="2" line_length="3">zlákal zpěv –</l>
+     <l n="7" met="10001010" line_length="8">Roztouženou zažeh její</l>
+     <l n="8" met="101" rhyme="2" line_length="3">mladou krev.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001000" line_length="8">Za písní tou rozběhla se –</l>
+     <l n="10" met="100" rhyme="3" line_length="3">V měsíce</l>
+     <l n="11" met="10101010" line_length="8">světle snivém květy stály</l>
+     <l n="12" met="100" rhyme="3" line_length="3">mlčíce.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10001010" line_length="8">Naslouchala písni, krev ji</l>
+     <l n="14" met="101" rhyme="4" line_length="3">bila v skráň –</l>
+     <l n="15" met="10101010" line_length="8">Oči vlhly, k srdci tiskla</l>
+     <l n="16" met="101" rhyme="4" line_length="3">drobnou dlaň.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10101010" line_length="8">Sladký zmatek v duši měla</l>
+     <l n="18" met="101" rhyme="5" line_length="3">v srdci stesk –</l>
+     <l n="19" met="10001010" line_length="8">V roztoužených očích měla</l>
+     <l n="20" met="101" rhyme="5" line_length="3">vlhký lesk.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

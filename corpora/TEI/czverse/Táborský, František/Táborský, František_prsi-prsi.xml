@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Prší, prší.</title>
+    <author>Táborský, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Táborský, František_prsi-prsi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Prší, prší.</title>
+     <author>Táborský, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Prší, prší.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">Prší, prší zticha, hustě,</l>
+     <l n="2" met="1010101" rhyme="1" line_length="7">sedlák bohu vzdává dík –</l>
+     <l n="3" met="10101010" line_length="8">milý bože, takým deštěm</l>
+     <l n="4" met="1010100" rhyme="1" line_length="7">chtěl bych býti okamžik.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10000010" line_length="8">Nad postýlku bych se spustil,</l>
+     <l n="6" met="0010100" rhyme="2" line_length="7">byl by ze mne hospodář! –</l>
+     <l n="7" met="10101010" line_length="8">zticha – sladce, hustě – žhavě</l>
+     <l n="8" met="1000101" rhyme="2" line_length="7">milé své bych líbal tvář.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01001000" line_length="8">A ona by šepotala</l>
+     <l n="10" met="1010100" rhyme="3" line_length="7">jako růže povesní:</l>
+     <l n="11" met="10101010" line_length="8">Ševel, ševel, dešti drobný,</l>
+     <l n="12" met="0010101" rhyme="3" line_length="7">vždyť se při tom dobře sní!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

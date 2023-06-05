@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>*** Roky táhnou, roky mizí</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_roky-tahnou-roky-mizi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>*** Roky táhnou, roky mizí</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>*** Roky táhnou, roky mizí</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Roky táhnou, roky mizí </l>
+     <l n="2" met="1000001010" rhyme="1" line_length="10">a my jsme si víc a více cizí. –</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="10101010" rhyme="2" line_length="8">Roky táhnou, roky bolí;</l>
+     <l n="4" met="00101010" line_length="8">už mi ani na tvém hrobě</l>
+     <l n="5" met="101000" rhyme="2" line_length="6">plakat nedovolí. –</l>
+    </lg>
+    <lg n="3">
+     <l n="6" met="10001010" rhyme="3" line_length="8">Od východu vítr táhne</l>
+     <l n="7" met="10001010" rhyme="4" line_length="8">a mně je tak bolno, bolno –</l>
+     <l n="8" met="10001010" rhyme="3" line_length="8">po něčem to srdce práhne –</l>
+     <l n="9" met="01100010" rhyme="4" line_length="8">Spíš? – ach tobě je tak volno!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

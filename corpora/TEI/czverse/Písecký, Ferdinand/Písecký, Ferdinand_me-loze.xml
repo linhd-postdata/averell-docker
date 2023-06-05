@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mé lože.</title>
+    <author>Písecký, Ferdinand</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Písecký, Ferdinand_me-loze</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mé lože.</title>
+     <author>Písecký, Ferdinand</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mé lože.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010001010" rhyme="1" line_length="11">Mé lože železné a cizí, chladné</l>
+     <l n="2" met="01010101010" rhyme="2" line_length="11">tu stojí v řadě vedle jiných loží...</l>
+     <l n="3" met="01010101010" rhyme="1" line_length="11">A smutek těžký na mne večer padne,</l>
+     <l n="4" met="01000101010" rhyme="2" line_length="11">než tělo mé se na ně k spánku složí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100010" rhyme="3" line_length="11">Než usnu, bolest kolébavku pěje –</l>
+     <l n="6" met="01010101010" rhyme="4" line_length="11">a marně ruku ženy hledám ráno</l>
+     <l n="7" met="01010101000" rhyme="3" line_length="11">a marně hledám, tílko teplé kde je</l>
+     <l n="8" met="0101001001000" rhyme="4" line_length="13">z mých dětí kteréhos v pokrývce zahrabáno.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

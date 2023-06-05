@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sonetos -- I</title>
+    <author>Ventura de la Vega</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ventura de la Vega_sonetos-i</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sonetos -- I</title>
+     <author>Ventura de la Vega</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sonetos -- I</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">«Cruza sin mí los espumosos mares;</l>
+     <l n="2" met="-+-+---+-+-">saluda, ¡oh nave!, de mi patria el muro,</l>
+     <l n="3" met="-+-+-++--+-">y déjame vagar triste y oscuro</l>
+     <l n="4" met="--+--+---+-">por la orilla del lento Manzanares.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">Si osa turbar la paz de tus hogares</l>
+     <l n="6" met="--+--+-+-+-">de soberbio extranjero el soplo impuro,</l>
+     <l n="7" met="+--+---+-+-">otra defienda con el hierro duro</l>
+     <l n="8" met="---+---+-+-">su libertad y mis nativos lares.»</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+---+-">Esto decía yo cuando las olas</l>
+     <l n="10" met="-+-+---+-+-">surcó la nave en que partir debía,</l>
+     <l n="11" met="---+-+---+-">y abandonó las costas españolas.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+---+-">Ella al impulso plácido del aura</l>
+     <l n="13" met="-+-+---+-">voló a la orilla de la patria mía...</l>
+     <l n="14" met="-+-+---+-+-">y yo en los brazos me volví de Laura.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

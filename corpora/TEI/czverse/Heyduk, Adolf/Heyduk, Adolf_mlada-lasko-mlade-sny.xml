@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mladá lásko, mladé sny...</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_mlada-lasko-mlade-sny</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mladá lásko, mladé sny...</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mladá lásko, mladé sny...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101" line_length="7">Mladá. lásko, mladé sny,</l>
+     <l n="2" met="100010" rhyme="1" line_length="6">poklady a báje,</l>
+     <l n="3" met="0010100" line_length="7">těm, kdo po vás zatouží,</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">bolesť v oku taje.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001100" line_length="7">Před rájem snů ztracených</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">jako poutník klečí,</l>
+     <l n="7" met="1010100" line_length="7">bránu chrání anděl však</l>
+     <l n="8" met="101010" rhyme="2" line_length="6">s blesky v rudém meči! –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Molienda en días de esclavitud</title>
+    <author>Francisco Sisto Piedra</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco Sisto Piedra_la-molienda-en-dias-de-esclavi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Molienda en días de esclavitud</title>
+     <author>Francisco Sisto Piedra</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Molienda en días de esclavitud</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">Raudo y sonoro los espacios hiende</l>
+     <l n="2" met="-+-+---+-+-">del ronco pito el imperioso acento,</l>
+     <l n="3" met="--+--+---+-">y al chasquido del látigo sangriento</l>
+     <l n="4" met="-+-+--+--+-">la humilde tribu su faena emprende.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+---+-">El húmedo bagazo se desprende</l>
+     <l n="6" met="---+-+-+-+-">del conductor pautado al giro lento,</l>
+     <l n="7" met="-+-+---+-+-">y el pobre siervo a su labor atento</l>
+     <l n="8" met="--+--+++-+-">por el ancho batey al sol lo extiende.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-+---+-">Entre las férreas mazas comprimida</l>
+     <l n="10" met="+--+---+-+-">cruje la caña; la gigante torre</l>
+     <l n="11" met="--+--+-+-+-">como humeante volcán se ostenta erguida,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+---+-+-">dulce guarapo en los canales corre,</l>
+     <l n="13" met="--+--+++-+-">y en su oleada de miel no logra al cabo</l>
+     <l n="14" met="--+--+---+-">endulzar la amargura del esclavo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

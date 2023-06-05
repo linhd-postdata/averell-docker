@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NECHÁPU...</title>
+    <author>Nečas, Jan Evangelista</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nečas, Jan Evangelista_nechapu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NECHÁPU...</title>
+     <author>Nečas, Jan Evangelista</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NECHÁPU...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001000" line_length="8">Nechápu a nepochopím:</l>
+     <l n="2" met="10101010" rhyme="1" line_length="8">Malý zločin táhne k trestu,</l>
+     <l n="3" met="10001010" line_length="8">gigantický k žezlu, na trůn</l>
+     <l n="4" met="10001010" rhyme="1" line_length="8">právotvornou tvořil cestu!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" line_length="8">Divoši jsme posud duchem.</l>
+     <l n="6" met="10001010" rhyme="2" line_length="8">Uznáváme přemoc podlou:</l>
+     <l n="7" met="10100010" line_length="8">Mars, jenž pohanům byl bohem,</l>
+     <l n="8" met="00101010" rhyme="2" line_length="8">jest až podnes naší modlou!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" line_length="8">V krvi tone výkřik práva.</l>
+     <l n="10" met="10101010" rhyme="3" line_length="8">Vítěz klidí čest a chválu –</l>
+     <l n="11" met="10001000" line_length="8">Spravedlnost utekla až –</l>
+     <l n="12" met="10001000" rhyme="3" line_length="8">na nebesa k ideálu!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

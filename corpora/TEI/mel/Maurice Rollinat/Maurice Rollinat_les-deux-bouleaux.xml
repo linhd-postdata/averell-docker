@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les deux Bouleaux</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_les-deux-bouleaux</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Les deux Bouleaux</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Les deux Bouleaux</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">L'été, ces deux bouleaux qui se font vis-à-vis,</l>
+     <l n="2" rhyme="b" line_length="6+6">Avec ce délicat et mystique feuillage</l>
+     <l n="3" rhyme="b" line_length="6+6">D'un vert si vaporeux sur un si fin branchage,</l>
+     <l n="4" rhyme="a" line_length="6+6">Ont l'air extasié devant les yeux ravis.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">Ceints d'un lierre imitant un grand serpent inerte,</l>
+     <l n="6" rhyme="d" line_length="6+6">Pommés sur leurs troncs droits, tout lamés d'argent blanc,</l>
+     <l n="7" rhyme="d" line_length="6+6">Ils charment ce pacage où leur froufrou tremblant</l>
+     <l n="8" rhyme="c" line_length="6+6">Traîne le bercement de sa musique verte.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="6+6">Mais, vient l'hiver qui rend par ses déluges froids</l>
+     <l n="10" rhyme="e" line_length="6+6">La figure du ciel, des rochers et des bois,</l>
+    </lg>
+    <lg n="4">
+     <l n="11" rhyme="g" line_length="6+6">Morfondus, noirs, alors les bouleaux désolés</l>
+     <l n="12" rhyme="g" line_length="6+6">Sont deux grands spectres nus, hideux, échevelés,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

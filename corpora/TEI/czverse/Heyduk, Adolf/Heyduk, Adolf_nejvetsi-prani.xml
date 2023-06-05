@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Největší přání.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_nejvetsi-prani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Největší přání.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Největší přání.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100010" rhyme="1" line_length="11">Já vykonal, co určilo mi žití</l>
+     <l n="2" met="0100010001" rhyme="2" line_length="10">a připraven jsem několik už let</l>
+     <l n="3" met="10010001010" rhyme="1" line_length="11">do černé Cháronovy loďky jíti</l>
+     <l n="4" met="0101000101" rhyme="2" line_length="10">a klidně na onen v ní odplout svět.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010101010" rhyme="3" line_length="11">A přec mi ňadry vroucí přání letí,</l>
+     <l n="6" met="0100010101" rhyme="4" line_length="10">všech krásnější a dražší všakých zdob:</l>
+     <l n="7" met="01010101000" rhyme="3" line_length="11">svou vlast bych šťastnou přál si uviděti,</l>
+     <l n="8" met="0101010001" rhyme="4" line_length="10">než za mnou svět se uzavře i hrob.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

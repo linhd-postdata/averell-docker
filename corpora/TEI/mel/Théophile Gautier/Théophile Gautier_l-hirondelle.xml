@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L'HIRONDELLE</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_l-hirondelle</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L'HIRONDELLE</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L'HIRONDELLE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Je suis une hirondelle et non une colombe,</l>
+     <l n="2" rhyme="b" line_length="6+6">Ma nature me force à voltiger toujours.</l>
+     <l n="3" rhyme="b" line_length="6+6">Le nid où des ramiers s'abritent les amours,</l>
+     <l n="4" rhyme="a" line_length="6+6">S'il y fallait couver, serait bientôt ma tombe.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Pour quelques mois, j'habite un créneau qui surplombe,</l>
+     <l n="6" rhyme="b" line_length="6+6">Et vole, quand l'automne a raccourci les jours,</l>
+     <l n="7" rhyme="b" line_length="6+6">Pour les blancs minarets quittant les noires tours,</l>
+     <l n="8" rhyme="a" line_length="6+6">Vers l'immuable azur d'où jamais pleur ne tombe.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Aucun ciel ne m'arrête, aucun lieu ne me tient,</l>
+     <l n="10" rhyme="d" line_length="6+6">Et dans tous les pays je demeure étrangère ;</l>
+     <l n="11" rhyme="c" line_length="6+6">Mais partout de l'absent mon âme se souvient.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="d" line_length="6+6">Mon amour est constant, si mon aile est légère,</l>
+     <l n="13" rhyme="d" line_length="6+6">Et sans craindre l'oubli, la folle passagère</l>
+     <l n="14" rhyme="c" line_length="6+6">D'un bout du monde à l'autre au même cœur revient.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

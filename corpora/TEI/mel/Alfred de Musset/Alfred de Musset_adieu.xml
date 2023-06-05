@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ADIEU</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_adieu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ADIEU</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ADIEU</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">En te perdant, je sens que je t'aimais.</l>
+    </lg>
+    <lg n="2">
+     <l n="2" rhyme="a" line_length="8">En souriant je la verrai partir.</l>
+    </lg>
+    <lg n="3">
+     <l n="3" rhyme="a" line_length="8">Mais ceux qui vont souffrir de ton absence,</l>
+    </lg>
+    <lg n="4">
+     <l n="4" rhyme="a" line_length="8">Et ('enivrer d'un plaisir dangereux ;</l>
+     <l n="5" rhyme="b" line_length="4+6">Sur ton chemin l'étoile qui se lève</l>
+     <l n="6" rhyme="a" line_length="4+6">Longtemps encore éblouira tes yeux.</l>
+    </lg>
+    <lg n="5" />
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>En Roma</title>
+    <author>Marcelino Menéndez Pelayo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Marcelino Menéndez Pelayo_en-roma</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>En Roma</title>
+     <author>Marcelino Menéndez Pelayo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>En Roma</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+-+-+-">¡Y nada respetó la edad avara...</l>
+     <l n="2" met="-+-+---+-+-">ni regio pueblo ni sagradas leyes!</l>
+     <l n="3" met="-+-+---+-+-">En paz yacieron extranjeras greyes</l>
+     <l n="4" met="+-+--+---+-">do la voz del tribuno resonara.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++---+-+-+-">No ya del triunfador por gloria rara</l>
+     <l n="6" met="+--+---+-+-">siguen el carro domeñados reyes,</l>
+     <l n="7" met="---+---+-+-">ni de Clitumno los hermoso bueyes</l>
+     <l n="8" met="--+--++--+-">en la pompa triunfal marchan al ara.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Como nubes, cual sombras, como naves</l>
+     <l n="10" met="-+-+-+---+-">pasaron ley, ejércitos, grandeza...</l>
+     <l n="11" met="++-+-+--++-">Sólo una cruz se alzó sobre tal ruina.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++++---+-+-">Dime tú, oh Cruz, que sus destinos sabes:</l>
+     <l n="13" met="-+-+---+-+-">¿Será de Roma la futura alteza</l>
+     <l n="14" met="-+-+---+-+-">humana gloria o majestad divina?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

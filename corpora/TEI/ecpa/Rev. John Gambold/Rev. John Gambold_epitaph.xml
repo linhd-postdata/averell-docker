@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>EPITAPH.</title>
+    <author>Rev. John Gambold</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Rev. John Gambold_epitaph</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Eighteenth Century Poetry Archive</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>EPITAPH.</title>
+     <author>Rev. John Gambold</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>EPITAPH.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="couplet">
+     <l n="1" met="-+|-+|-+|-+" line_length="8">ASK not, who ended here his Span?</l>
+     <l n="2" met="-+|-+|-+|-+" line_length="8">His Name, Reproach and Praise, was Man.</l>
+     <l n="3" met="-+|-+|-+|-+" line_length="8">Did no great Deeds adorn his Course?</l>
+     <l n="4" met="-+|-+|-+|-+" line_length="8">No Deed of His, but shew'd him worse:</l>
+     <l n="5" met="-+|-+|-+|-+" line_length="8">One Thing was great, which GOD supply'd,</l>
+     <l n="6" met="-+|-+|-+|-+" line_length="8">He suffer'd Human Life — and Dy'd.</l>
+     <l n="7" met="-+|-+|-+|-+" line_length="8">What Points of Knowledge did he gain?</l>
+     <l n="8" met="-+|-+|-+|-+" line_length="8">That Life was sacred all — and Vain:</l>
+     <l n="9" met="-+|-+|-+|-+" line_length="8">Sacred how high, and vain how low?</l>
+     <l n="10" met="-+|-+|-+|-+" line_length="8">He knew not here, but dy'd to know.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

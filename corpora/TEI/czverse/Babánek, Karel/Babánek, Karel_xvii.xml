@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XVII.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_xvii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XVII.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XVII.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101" line_length="8">Byl jednou jeden mladý hoch,</l>
+     <l n="2" met="010101" rhyme="1" line_length="6">ten loutnu svoji vzal,</l>
+     <l n="3" met="10010101" rhyme="2" line_length="8">potulný zpěvák světem šel,</l>
+     <l n="4" met="010100" rhyme="1" line_length="6">by lásku vyhledal.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101" rhyme="2" line_length="8">Svou lásku, jak ji ve snu zřel</l>
+     <l n="6" met="010100" rhyme="1" line_length="6">a po ní toužíval,</l>
+     <l n="7" met="10010101" rhyme="2" line_length="8">pod okny toužné písně pěl,</l>
+     <l n="8" met="010100" rhyme="1" line_length="6">a světem chodil dál.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" line_length="8">A ona marně čekala</l>
+     <l n="10" met="010100" rhyme="3" line_length="6">a touhou chřadla pak;</l>
+     <l n="11" met="10010100" line_length="8">potulný zpěvák lásku svou</l>
+     <l n="12" met="100100" rhyme="3" line_length="6">nespatřil nikdy však.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ČIKOŠ.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_cikos</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ČIKOŠ.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ČIKOŠ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101011" rhyme="1" line_length="9">V pustě jsem zrozen, v pustě mám byt,</l>
+     <l n="2" met="000101001" rhyme="1" line_length="9">sám jsem, mně v odpor všetečný lid.</l>
+     <l n="3" met="100101110" rhyme="2" line_length="9">Pohorské houští, skrýš má – a huň</l>
+     <l n="4" met="000101001" rhyme="2" line_length="9">to je můj oblek, přítel mi kůň!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="110101001" rhyme="3" line_length="9">Kůň prostý sedla, bez uzdy, ej,</l>
+     <l n="6" met="1001001001" rhyme="3" line_length="10">přes pustu v nejprudčí dává se rej,</l>
+     <l n="7" met="1001000101" rhyme="4" line_length="10">nad sedlo turecké jest jeho srst,</l>
+     <l n="8" met="0101000011" rhyme="4" line_length="10">jen sena odměnou když mu dám hrst.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1001001001" rhyme="5" line_length="10">Na pustě vesel jsem, v pustě jsem vzrost,</l>
+     <l n="10" met="1001001000" rhyme="5" line_length="10">před sluncem, před deštěm širák mi dost,</l>
+     <l n="11" met="1001001000" rhyme="6" line_length="10">vesele pohlížím přes Dunaj v dál...</l>
+     <l n="12" met="1101001001" rhyme="6" line_length="10">hej, kdo je šťastnější, čikoš či král?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

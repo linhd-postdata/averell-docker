@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Musím!</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_musim</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Musím!</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Musím!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1101000100010" rhyme="1" line_length="13">Sta poupat z duše mé zas ku světlu se dere,</l>
+     <l n="2" met="1101001101010" rhyme="1" line_length="13">sta hvězd zas prokmitá v noc mojí dumy šeré,</l>
+     <l n="3" met="1101000101010" rhyme="2" line_length="13">sta trylků slavičích v mém mrtvém srdci zpívá,</l>
+     <l n="4" met="1101000101010" rhyme="2" line_length="13">sta rosných lilijí tam plným květem kývá</l>
+     <l n="5" met="1001011001010" rhyme="3" line_length="13">nad močál snů a tuch, a nechť vše v sobě dusím,</l>
+     <l n="6" met="0100010" rhyme="3" line_length="7">já vyzpívat je musím;</l>
+     <l n="7" met="0101001001010" rhyme="4" line_length="13">vše duše poupata rozdechnout musím v růže,</l>
+     <l n="8" met="0101001001010" rhyme="4" line_length="13">vše hvězdy shrnouti v glorii k sobě úže,</l>
+     <l n="9" met="0101000101000" rhyme="5" line_length="13">vše trylky v akkord stkát a jednu harmonii,</l>
+     <l n="10" met="0101011011000" rhyme="5" line_length="13">vše lilje v kytku vplést... A to zvu poesii.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

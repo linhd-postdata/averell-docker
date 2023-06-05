@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La lechera</title>
+    <author>José Tabares Barlett</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Tabares Barlett_la-lechera</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La lechera</title>
+     <author>José Tabares Barlett</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La lechera</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+---+-">Ojos negros, castaña cabellera;</l>
+     <l n="2" met="--+--+---+-">las mejillas de nieve y escarlata;</l>
+     <l n="3" met="-+---+++-+-">las pomas del amor, ¡cuán bien retrata</l>
+     <l n="4" met="--+--+---+-">su turgente y temblante delantera!</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-++--+---+-">Miradla, por la alegre carretera,</l>
+     <l n="6" met="---+-+-+-+-">cuando el naciente sol su luz dilata,</l>
+     <l n="7" met="--+--+---+-">y a sus rayos el cántaro de lata</l>
+     <l n="8" met="--+--+---+-">salpicado de helechos reverbera.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+---+-">Dibujando graciosas redondeces,</l>
+     <l n="10" met="--+--+-+-+-">el percal a sus formas ciñe a veces</l>
+     <l n="11" met="-+---+---+-">el viento caprichoso, jugueteando...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">Desnudo el pie, la pantorrilla al aire,</l>
+     <l n="13" met="--+--+---+-">y moviendo su cuerpo con donaire,</l>
+     <l n="14" met="-+---++--+-">oliendo al retamal pasa cantando.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Májová vzpomínka.</title>
+    <author>Šmilovský, Alois Vojtěch</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Šmilovský, Alois Vojtěch_majova-vzpominka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Májová vzpomínka.</title>
+     <author>Šmilovský, Alois Vojtěch</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Májová vzpomínka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100" line_length="7">Nevím, proč mi připadá</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">máj tak jako dítě</l>
+     <l n="3" met="1000100" line_length="7">švitořící na klíně:</l>
+     <l n="4" met="101000" rhyme="1" line_length="6">„Máti, miluji tě!“</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010100" line_length="7">V máji aspoň vzpomínám,</l>
+     <l n="6" met="001010" rhyme="2" line_length="6">jak as matce bylo,</l>
+     <l n="7" met="00101010" line_length="8">když se její dobré oko</l>
+     <l n="8" met="101000" rhyme="2" line_length="6">v moje potopilo,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010101" line_length="7">a já vztáhna ručky, děl:</l>
+     <l n="10" met="001110" rhyme="3" line_length="6">„Jak tě mám rád, máti!“...</l>
+     <l n="11" met="1000100" line_length="7">Muž jsem však tu zpomínku</l>
+     <l n="12" met="101010" rhyme="3" line_length="6">za svět nechci dáti.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

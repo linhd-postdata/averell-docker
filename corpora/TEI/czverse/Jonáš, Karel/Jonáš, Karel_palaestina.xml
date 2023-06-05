@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Palaestina.</title>
+    <author>Jonáš, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jonáš, Karel_palaestina</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Palaestina.</title>
+     <author>Jonáš, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Palaestina.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101000" line_length="11">Jej smečka Švédů k stromu přivázala</l>
+     <l n="2" met="01010100010" rhyme="1" line_length="11">a v tvář mu plili, vztekali se, smáli...</l>
+     <l n="3" met="01010101010" line_length="11">Pak buben starý s vozu jeden shodil</l>
+     <l n="4" met="01010100010" rhyme="1" line_length="11">a v kostky na něm o démanty hráli.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101000" line_length="11">A schlíplý žoldnéř s vousem nekonečným, –</l>
+     <l n="6" met="01010001010" rhyme="2" line_length="11">jenž samá plíseň byl a bahno, špína, –</l>
+     <l n="7" met="11000101010" line_length="11">děl posměšně: „Ta česká, celá země</l>
+     <l n="8" met="01010101000" rhyme="2" line_length="11">již brzy schudne jako Palaestina...</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="00100101010" line_length="11">Co my necháme po své svaté pouti,</l>
+     <l n="10" met="01010011010" rhyme="2" line_length="11">to káně urve a smeť ještě jiná...</l>
+     <l n="11" met="11010010010" rhyme="1" line_length="11">He, není pravda?” – A ostatní řvali</l>
+     <l n="12" met="10010101000" rhyme="2" line_length="11">ve smíchu hrozném: „Česká Palaestina.“</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01100101000" line_length="11">Jen muž ke stromu pevně přivázaný</l>
+     <l n="14" met="01010101010" rhyme="3" line_length="11">své oči mhouří a své rety svírá...</l>
+     <l n="15" met="01010100010" line_length="11">Jej srdce pálí, vzpomínka se mnohá</l>
+     <l n="16" met="01010101010" rhyme="3" line_length="11">svým krutým bodcem v jeho ňadro vtírá...</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="01000101010" line_length="11">A po výsměchu šelem vínem zpitých,</l>
+     <l n="18" met="01000100010" rhyme="4" line_length="11">jichž slova jej až do hlubiny mrazí,</l>
+     <l n="19" met="01010101000" line_length="11">on zašept k sobě: „Má vlasť Palaestina, –</l>
+     <l n="20" met="01000100010" rhyme="4" line_length="11">však škoda jen, že spasitel jí schází.” –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ZLE, MATIČKO, ZLE!</title>
+    <author>Havlíček Borovský, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Havlíček Borovský, Karel_zle-maticko-zle</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ZLE, MATIČKO, ZLE!</title>
+     <author>Havlíček Borovský, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ZLE, MATIČKO, ZLE!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010101" rhyme="1" line_length="9">Poctivému hrozí jenom hlad,</l>
+     <l n="2" met="1000101000" rhyme="2" line_length="10">zloději zas jenom šibenice;</l>
+     <l n="3" met="10100" rhyme="1" line_length="5">český literát</l>
+     <l n="4" met="11010" rhyme="2" line_length="5">má trampot více;</l>
+     <l n="5" met="10101" rhyme="1" line_length="5">jemu hrozí hlad</l>
+     <l n="6" met="01000" rhyme="2" line_length="5">i šibenice.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

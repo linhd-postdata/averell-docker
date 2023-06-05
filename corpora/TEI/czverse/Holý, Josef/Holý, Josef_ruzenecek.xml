@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>RŮŽENEČEK</title>
+    <author>Holý, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Holý, Josef_ruzenecek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>RŮŽENEČEK</title>
+     <author>Holý, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>RŮŽENEČEK</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1000101000" rhyme="1" line_length="10">Chodili jsme spolu na procházky,</l>
+     <l n="2" met="1000100010" rhyme="1" line_length="10">říkali jsme růženeček lásky.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="1000101010" rhyme="2" line_length="10">Na začátku místo kříže v snění</l>
+     <l n="4" met="1000101000" rhyme="2" line_length="10">dali jsme si třikrát políbení.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="1010001010" rhyme="3" line_length="10">V sedmi radostech se spolu smáli,</l>
+     <l n="6" met="1000001000" rhyme="3" line_length="10">po otčenášku vždy tancovali.</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="1000100010" rhyme="4" line_length="10">Po zdrávasu k utvrzení slova</l>
+     <l n="8" met="1000001010" rhyme="4" line_length="10">políbili jsme se spolu znova.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

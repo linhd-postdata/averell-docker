@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LE PIVERT</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_le-pivert</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LE PIVERT</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LE PIVERT</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Dans la grande chênaie, à l'ombre du coteau,</l>
+     <l n="2" rhyme="b" line_length="6+6">Je m'en vais en fumant, seul, à pas de tortue,</l>
+     <l n="3" rhyme="b" line_length="6+6">Par la petite route âpre et si peu battue,</l>
+     <l n="4" rhyme="a" line_length="6+6">Quand un pivert criard arrive d'un plateau.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">— Son long bec, lui servant de vrille et de couteau.</l>
+     <l n="6" rhyme="b" line_length="6+6">Déloge les fourmis d'une branche tortue.</l>
+     <l n="7" rhyme="a" line_length="6+6">Dans la grande chênaie, à l'ombre du coteau,</l>
+     <l n="8" rhyme="b" line_length="6+6">Je m'en vais en fumant, seul, à pas de tortue.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Et gai, puisque mon crâne échappe à son étau,</l>
+     <l n="10" rhyme="b" line_length="6+6">J'admire sur un tronc, que la vieillesse tue,</l>
+     <l n="11" rhyme="b" line_length="6+6">Le joli perforeur dont la tête pointue</l>
+     <l n="12" rhyme="a" line_length="6+6">Se relève et s'abat comme un petit marteau,</l>
+     <l n="13" rhyme="a" line_length="6+6">Dans la grande chênaie, à l'ombre du coteau.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

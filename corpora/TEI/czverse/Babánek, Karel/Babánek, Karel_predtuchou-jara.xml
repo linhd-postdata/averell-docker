@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PŘEDTUCHOU JARA...</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_predtuchou-jara</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PŘEDTUCHOU JARA...</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PŘEDTUCHOU JARA...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010010" line_length="11">Předtuchou jara se zachvěla země,</l>
+     <l n="2" met="10010010010" rhyme="1" line_length="11">životů nových kdos rozžíhal světla,</l>
+     <l n="3" met="10010010010" line_length="11">aby se rozhořel, stravoval plamen,</l>
+     <l n="4" met="10110010010" rhyme="1" line_length="11">ruka čís tvrdá jich osudy hnětla.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010010010" line_length="11">Plameny životů v bouři se chvěly,</l>
+     <l n="6" met="10010110010" rhyme="2" line_length="11">rudý jak v poli mák žhnuly a plály.</l>
+     <l n="7" met="10010010010" line_length="11">Životy lidské jak na poli klasy</l>
+     <l n="8" met="10010010010" rhyme="2" line_length="11">pro srp jen smrti tu rostly a zrály.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

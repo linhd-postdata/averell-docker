@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Boudoir</title>
+    <author>Nieves Xenes</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nieves Xenes_boudoir</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Boudoir</title>
+     <author>Nieves Xenes</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Boudoir</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Del arte y la riqueza los primores,</l>
+     <l n="2" met="+--+---+-+-">blancas cortinas de ligero encaje,</l>
+     <l n="3" met="--+--+---+-">caprichoso y magnífico mueblaje</l>
+     <l n="4" met="+-+--+---+-">de oro y seda de vívidos colores.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-++--+-+-+-">En un óleo se besan dos pastores</l>
+     <l n="6" met="--+-++---+-">escondidos de un bosque entre el ramaje;</l>
+     <l n="7" met="-+-+---+-+-">y airados luchan con igual coraje</l>
+     <l n="8" met="-++--+-+-+-">en un grupo de mármol dos Amores.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+---+-">Una ninfa gentil de porcelana</l>
+     <l n="10" met="-+-+---+-+-">al viento esparce su cabello suelto</l>
+     <l n="11" met="-+-+---+-+-">arqueando el talle en actitud graciosa.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+-+-+-+-">Yacen en un diván dorado y grana</l>
+     <l n="13" met="+++-++---+-">un libro, y un corsé blanco y esbelto,</l>
+     <l n="14" met="-++--+++-+-">y en un búcaro azul, muere una rosa.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

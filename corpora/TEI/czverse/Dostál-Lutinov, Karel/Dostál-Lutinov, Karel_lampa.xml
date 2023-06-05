@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LAMPA.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_lampa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LAMPA.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LAMPA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010010" rhyme="1" line_length="8">Jen ticho s němýma rtoma.</l>
+     <l n="2" met="100100" rhyme="2" line_length="6">Prázdná je komnata.</l>
+     <l n="3" met="01001010" rhyme="1" line_length="8">A nikdo tu není doma,</l>
+     <l n="4" met="010100" rhyme="2" line_length="6">jen lampa rozžatá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010" rhyme="3" line_length="7">A lampa lká a zpívá</l>
+     <l n="6" met="100100" rhyme="4" line_length="6">na stole v palmoví,</l>
+     <l n="7" met="0100010" rhyme="3" line_length="7">v hloub komnaty se dívá</l>
+     <l n="8" met="010100" rhyme="4" line_length="6">a pranic nepoví.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101010" rhyme="5" line_length="7">Ten, kdo tu snil a toužil,</l>
+     <l n="10" met="010100" rhyme="6" line_length="6">ten navždy obešel –</l>
+     <l n="11" met="0101010" rhyme="5" line_length="7">a bílou můrou kroužil</l>
+     <l n="12" met="000101" rhyme="6" line_length="6">kol ní jen tichý žel.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

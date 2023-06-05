@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>POKROK V DĚJINÁCH LIDSTVA</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_pokrok-v-dejinach-lidstva</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>POKROK V DĚJINÁCH LIDSTVA</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>POKROK V DĚJINÁCH LIDSTVA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010" line_length="6">Ano, jde to k výši,</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">tvrdí mudrc mnohý –</l>
+     <l n="3" met="010010" line_length="6">Dřív bolela záda,</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">potom zase nohy. –</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="101010" line_length="6">Ano, jde to k výši,</l>
+     <l n="6" met="100010" rhyme="2" line_length="6">pokroku buď sláva –</l>
+     <l n="7" met="101010" line_length="6">záda, nohy zdrávy,</l>
+     <l n="8" met="001010" rhyme="2" line_length="6">teď zas bolí hlava.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

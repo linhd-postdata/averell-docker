@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El toro</title>
+    <author>Antonio Fernández Grilo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Antonio Fernández Grilo_el-toro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El toro</title>
+     <author>Antonio Fernández Grilo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El toro</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-++--+-">Tiene la paz del mar, noble y sereno</l>
+     <l n="2" met="--+--+---+-">tras la cerca del blanco caserío,</l>
+     <l n="3" met="+-+--+---+-">ya bajando las márgenes del río,</l>
+     <l n="4" met="++-+---+-+-">ya echado y dócil en el prado ameno.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+---+-+-">Como del mar el apacible seno</l>
+     <l n="6" met="+--+---+-+-">cambia en galerna el huracán bravío,</l>
+     <l n="7" met="-+-+---+-+-">así, acosado en su indomable brío,</l>
+     <l n="8" met="+--+-+---+-">no reconoce límites ni freno.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++-+-++--+-">¿Quién no prefiere a verle ensangrentado</l>
+     <l n="10" met="-+---+---+-">del circo ante la fiera muchedumbre</l>
+     <l n="11" met="--+--+---+-">batallar y morir desesperado,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++-+---+-+-">verle del sol a la postrer vislumbre</l>
+     <l n="13" met="---+-+---+-">en la serena paz del despoblado</l>
+     <l n="14" met="--+--+---+-">cuando asoma la luna por la cumbre?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

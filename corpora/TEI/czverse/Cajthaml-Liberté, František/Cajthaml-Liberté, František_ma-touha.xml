@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Má touha.</title>
+    <author>Cajthaml-Liberté, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cajthaml-Liberté, František_ma-touha</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Má touha.</title>
+     <author>Cajthaml-Liberté, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Má touha.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110100100" line_length="9">V poušť smutnou života kyne mi</l>
+     <l n="2" met="10010010" rhyme="1" line_length="8">zdaleka oasy kvítí,</l>
+     <l n="3" met="100100100" line_length="9">zdaleka paprsek červený</l>
+     <l n="4" met="10010010" rhyme="1" line_length="8">na cestu trnitou svítí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100100" line_length="9">Nechtěl bych světem se plahočit,</l>
+     <l n="6" met="10010010" rhyme="2" line_length="8">život můj vrak byl by pouhý,</l>
+     <l n="7" met="100100100" line_length="9">kdyby mne nehnala do boje</l>
+     <l n="8" met="10010010" rhyme="2" line_length="8">myšlenka blažené touhy.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010100100" line_length="9">Já toužím po modrém blankytu,</l>
+     <l n="10" met="01010010" rhyme="3" line_length="8">když hynu ve bídné kobě,</l>
+     <l n="11" met="010100100" line_length="9">já toužím po chrámu sbratření,</l>
+     <l n="12" met="01010010" rhyme="3" line_length="8">jejž lidstvo postaví sobě.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

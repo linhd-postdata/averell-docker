@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>An EPIGRAM.</title>
+    <author>Stephen Duck</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Stephen Duck_an-epigram</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Eighteenth Century Poetry Archive</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>An EPIGRAM.</title>
+     <author>Stephen Duck</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>An EPIGRAM.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="quatrain">
+     <l n="1" met="-+|-+|-+|-+" line_length="8">IF Words are Wind, as some allow,</l>
+     <l n="2" met="-+|-+|-+" line_length="6">No Promises can bind;</l>
+     <l n="3" met="-+|-+|-+|-+" line_length="8">Since breaking of the strictest Vow,</l>
+     <l n="4" met="-+|-+|-+" line_length="6">Is only breaking Wind.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

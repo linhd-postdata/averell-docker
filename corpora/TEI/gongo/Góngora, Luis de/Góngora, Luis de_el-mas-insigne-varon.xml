@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El más insigne varón</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_el-mas-insigne-varon</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El más insigne varón</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El más insigne varón</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="-+-+--+-" line_length="8">El más insigne varón</l>
+     <l n="2" met="-+---+-" line_length="7">de su orden, el que ya</l>
+     <l n="3" met="-+-+-+-" line_length="7">a san Jerónimo ha</l>
+     <l n="4" met="-+---+-" line_length="7">dejado por el León,</l>
+     <l n="5" met="-+----+-" line_length="8">su celo, su devoción</l>
+     <l n="6" met="---+--+-" line_length="8">ni a la cogulla ni al manto</l>
+     <l n="7" met="-+--+-+-" line_length="8">perdonan, y no me espanto</l>
+     <l n="8" met="---++++-" line_length="8">que su modestia hoy no quiera</l>
+     <l n="9" met="-+-+--+-" line_length="8">vestir la piel de la fiera</l>
+     <l n="10" met="--+---+-" line_length="8">sobre el hábito del santo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

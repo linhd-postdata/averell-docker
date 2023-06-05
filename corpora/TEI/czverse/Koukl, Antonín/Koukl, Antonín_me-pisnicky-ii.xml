@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mé písničky. (II.)</title>
+    <author>Koukl, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Koukl, Antonín_me-pisnicky-ii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mé písničky. (II.)</title>
+     <author>Koukl, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mé písničky. (II.)</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Že někdy chodím za jinou,</l>
+     <l n="2" met="01000100" rhyme="1" line_length="8">mi vyčítáváš, drahoušku!</l>
+     <l n="3" met="00010100" line_length="8">Leč vše to dělám pro Tebe</l>
+     <l n="4" met="01010100" rhyme="1" line_length="8">a jenom jaksi na zkoušku.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">Vždyť proto k jiné chodívám,</l>
+     <l n="6" met="01010100" rhyme="2" line_length="8">bych uměl líbat na čílku,</l>
+     <l n="7" met="10010100" line_length="8">a když to skvěle dovedu –</l>
+     <l n="8" met="01010100" rhyme="2" line_length="8">pak zlíbám Tebe, andílku!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

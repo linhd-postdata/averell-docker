@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A mi hijo, León Julio</title>
+    <author>Julio Flores Roa</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Julio Flores Roa_a-mi-hijo-leon-julio</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A mi hijo, León Julio</title>
+     <author>Julio Flores Roa</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A mi hijo, León Julio</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="++-+---+++-">¿Ves ese roble que abatir no pudo</l>
+     <l n="2" met="-+---+--++-">ayer el huracán que asoló el monte</l>
+     <l n="3" met="--+--+++-+-">y que finge en el monte un alto y rudo</l>
+     <l n="4" met="--+--+---+-">centinela que mira el horizonte?</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="-+-+-+-+-+-">El rayo apenas lo agrietó; sereno</l>
+     <l n="6" met="---+-+---+-">sobre su vieja alfombra de hojarasca</l>
+     <l n="7" met="-++---+--+-">se yergue aún como retando al trueno</l>
+     <l n="8" met="--+--+---+-">que la furia azuzó de la borrasca.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">Se tú como ese roble: que la herida</l>
+     <l n="10" met="+--+-+---+-">que abra en tu pecho el dardo de la suerte</l>
+     <l n="11" met="--++-++--+-">sin causarte escozor sane enseguida.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">Labora y triunfa como sano y fuerte</l>
+     <l n="13" met="---+--++-+-">para que el lauro que te da la vida</l>
+     <l n="14" met="+----+---+-">flote sobre el remanso de la muerte.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

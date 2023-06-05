@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Duma o Meluzině.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_duma-o-meluzine</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Duma o Meluzině.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Duma o Meluzině.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110001010" rhyme="1" line_length="9">V les zajíněný padá vrána,</l>
+     <l n="2" met="10010011" rhyme="2" line_length="8">studánka křišťalný má lem;</l>
+     <l n="3" met="110101000" rhyme="1" line_length="9">snů zimních křídly ovívána</l>
+     <l n="4" met="11010100" rhyme="2" line_length="8">spí stará lípa pod oknem.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101010" rhyme="3" line_length="9">Kam oko hledí, prázdno všudy,</l>
+     <l n="6" met="10010001" rhyme="4" line_length="8">ve smutek zahalen je luh,</l>
+     <l n="7" met="110100010" rhyme="3" line_length="9">list v brázdách poletuje rudý</l>
+     <l n="8" met="01010011" rhyme="4" line_length="8">dál větrem nesen, kam – ví Bůh!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010001010" rhyme="5" line_length="9">A Meluzina hledá chotě,</l>
+     <l n="10" met="01000101" rhyme="6" line_length="8">leč nenachází kolem kol,</l>
+     <l n="11" met="010101000" rhyme="5" line_length="9">ač věky bloudí o samotě...</l>
+     <l n="12" met="01010101" rhyme="6" line_length="8">Kdo zmírní bludných duší bol?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>BEZ NÁZVU</title>
+    <author>Dyk, Viktor</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dyk, Viktor_bez-nazvu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>BEZ NÁZVU</title>
+     <author>Dyk, Viktor</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>BEZ NÁZVU</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101000" rhyme="1" line_length="9">Někdy tak zvláštně, měkce je ti,</l>
+     <l n="2" met="01010100" rhyme="2" line_length="8">Dost není dálka vzdálená,</l>
+     <l n="3" met="010101000" rhyme="1" line_length="9">bys touže jejím po objetí</l>
+     <l n="4" met="01000100" rhyme="2" line_length="8">svá nerozevřel ramena.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010100010" rhyme="3" line_length="9">Je k všemu otevřená brána.</l>
+     <l n="6" met="01010101" rhyme="4" line_length="8">Je hračkou pravdě potřít lež.</l>
+     <l n="7" met="100000010" rhyme="3" line_length="9">Nejnebezpečnější je rána,</l>
+     <l n="8" met="01010100" rhyme="4" line_length="8">když vůbec sebe nekryješ.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

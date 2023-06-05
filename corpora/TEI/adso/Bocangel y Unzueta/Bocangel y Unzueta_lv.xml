@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- LV - </title>
+    <author>Bocangel y Unzueta</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Bocangel y Unzueta_lv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- LV - </title>
+     <author>Bocangel y Unzueta</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- LV - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+-+++-">Ya de puro dolor, dolor no siento,</l>
+     <l n="2" met="++---+---+-">que es ya naturaleza mi cuidado,</l>
+     <l n="3" met="--+--++--+-">y a los males estoy tan enseñado</l>
+     <l n="4" met="-+-+-+---+-">que temo más la dicha que el tormento.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">Sobra el desdén y basta el pensamiento</l>
+     <l n="6" met="---+++---+-">para acabar un pecho enamorado,</l>
+     <l n="7" met="--+--+---+-">que el que aguarda a morir de desdeñado</l>
+     <l n="8" met="-+-+-+---+-">piadoso tiene el propio sentimiento.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+-+-+-">Muere y renace amor en unos ojos</l>
+     <l n="10" met="++---+-+-+-">más veces que su luz el sol advierte,</l>
+     <l n="11" met="++-+-+-+-+-">ya viva en oro, en sombra ya teñida.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+---+-">Mas, ¡ay amor!, disculpo tus enojos;</l>
+     <l n="13" met="-----+-+-+-">que, si para vivir me das la muerte,</l>
+     <l n="14" met="-+---+-+-+-">¡pregunto para qué has de darme vida!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

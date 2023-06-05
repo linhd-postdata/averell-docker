@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PROPADLINY</title>
+    <author>Cajthaml-Liberté, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cajthaml-Liberté, František_propadliny</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PROPADLINY</title>
+     <author>Cajthaml-Liberté, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PROPADLINY</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010100" rhyme="1" line_length="9">Za městem – tam haldy hořely,</l>
+     <l n="2" met="11010110" rhyme="2" line_length="8">dech jejich, hrozný dech moru,</l>
+     <l n="3" met="100101000" rhyme="1" line_length="9">za městem haldy dohořely</l>
+     <l n="4" met="01010010" rhyme="2" line_length="8">a dešť jim rozbrázdil koru.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100100" line_length="9">Zůstalo plno jen močálů,</l>
+     <l n="6" met="10010010" rhyme="3" line_length="8">vroubí je popelné břehy,</l>
+     <l n="7" met="100100101" line_length="9">v rákosí žlutém je trochu žab,</l>
+     <l n="8" met="01010010" rhyme="3" line_length="8">když slunko roztaví sněhy.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010100100" line_length="9">A do štol, pustých již před lety,</l>
+     <l n="10" met="10010010" rhyme="4" line_length="8">mrtvá se propadá půda,</l>
+     <l n="11" met="010110100" line_length="9">tu a tam trs mechu vyráží</l>
+     <l n="12" met="01010010" rhyme="4" line_length="8">a plevel živoří chudá.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100101100" line_length="9">Skřivan tu dvacet let nezpíval</l>
+     <l n="14" met="01010010" rhyme="5" line_length="8">a zajíc neběžel líchou –</l>
+     <l n="15" met="010100100" line_length="9">když člověk někdy sem zabloudí,</l>
+     <l n="16" met="10010010" rhyme="5" line_length="8">s bázní tu utíká tichou.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

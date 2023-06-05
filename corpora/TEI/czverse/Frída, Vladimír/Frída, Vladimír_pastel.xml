@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PASTEL</title>
+    <author>Frída, Vladimír</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Frída, Vladimír_pastel</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PASTEL</title>
+     <author>Frída, Vladimír</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PASTEL</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101010" rhyme="1" line_length="11">Na horách leží mraky těžké, šedé,</l>
+     <l n="2" met="0101001001" rhyme="2" line_length="10">kol sebe cítím přec slunečný den.</l>
+     <l n="3" met="01000101010" rhyme="1" line_length="11">Ať po lesích svůj závoj jeseň přede,</l>
+     <l n="4" met="1101010100" rhyme="2" line_length="10">kout každý v duši Tebou vyzlacen.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101010" rhyme="3" line_length="11">A jedno šeptám tiché, vroucí přání,</l>
+     <l n="6" met="0101010100" rhyme="2" line_length="10">jímž celý žiji, jsem a dýchám jen:</l>
+     <l n="7" met="01000101010" rhyme="3" line_length="11">ať jako dnes se vždycky ke mně sklání</l>
+     <l n="8" met="0101010100" rhyme="2" line_length="10">Tvůj zrak tak sladkou něhou zarosen.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

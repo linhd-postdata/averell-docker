@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>EPISODKA.</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_episodka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>EPISODKA.</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>EPISODKA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100010" rhyme="1" line_length="11">Já nesoudil tě... Tančili jsme chvíli</l>
+     <l n="2" met="1001000101" rhyme="2" line_length="10">na plesu maškarním. A tvoji líc</l>
+     <l n="3" met="10010100010" rhyme="1" line_length="11">škraboška kryla. Zjařeni jsme byli.</l>
+     <l n="4" met="1100010100" rhyme="2" line_length="10">Řeč pádila nám divě skotačíc.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010001010" rhyme="3" line_length="11">Pak k stolu sedli jsme a sňali masky.</l>
+     <l n="6" met="0100010001" rhyme="4" line_length="10">A rozhovor hned střízlivým se stal –</l>
+     <l n="7" met="10011100010" rhyme="3" line_length="11">drahota... zlý čas... ztřeštilosti lásky...</l>
+     <l n="8" met="0100010100" rhyme="4" line_length="10">Já nesoudil tě... Já jen odsed dál.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

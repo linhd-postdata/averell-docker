@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Naše svornosť.</title>
+    <author>Wunsch, Hugo Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Wunsch, Hugo Václav_nase-svornost</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Naše svornosť.</title>
+     <author>Wunsch, Hugo Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Naše svornosť.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100010" rhyme="1" line_length="11">V národě českém nesvornosť že žije,</l>
+     <l n="2" met="01010001010" rhyme="2" line_length="11">jež dávno pronikla tu všechny vrstvy?</l>
+     <l n="3" met="01010010010" rhyme="1" line_length="11">To pravdou není, neb při „osmé“ pije</l>
+     <l n="4" met="01010101000" rhyme="2" line_length="11">již „starý“ s „mladým“ často na bratrství.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

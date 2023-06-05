@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Medioeval</title>
+    <author>Juana Borrero</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juana Borrero_medioeval</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Medioeval</title>
+     <author>Juana Borrero</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Medioeval</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+----+-+-">Junto a la negra mole de la muralla altiva</l>
+     <l n="2" met="-+---+--+-+-+-">que alumbran las estrellas con tenue luz de plata</l>
+     <l n="3" met="---+-+--+---+-">el trovador insomne de frente pensativa</l>
+     <l n="4" met="-+---+--+---+-">preludia conmovido su triste serenata.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---+--+---+-">El aura de la noche voluble y fugitiva</l>
+     <l n="6" met="+--+-+--+---+-">besa los largos pliegues del manto de escarlata,</l>
+     <l n="7" met="-+---+--+---+-">y extiende la armoniosa cadencia persuasiva</l>
+     <l n="8" met="-+---+--+---+-">que el plácido reposo perturba de la ingrata.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+--+-+-+-">Al pie del alto foso destácase la airosa</l>
+     <l n="10" met="-+---+--+---+-">romántica figura del rubio menestrello,</l>
+     <l n="11" met="---+-+----+-+-">que al agitar la mano sobre el cordaje de oro</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+--+---+-">entristecido exhala su queja dolorosa</l>
+     <l n="13" met="---+-+---+---+">en la cadencia rítmica del dulce ritornello,</l>
+     <l n="14" met="---+-+----+-+-">y en sus mejillas siente que se desborda el lloro.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

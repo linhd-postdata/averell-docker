@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Aulo Gelio</title>
+    <author>Martina Pierra de Poo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Martina Pierra de Poo_aulo-gelio</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Aulo Gelio</title>
+     <author>Martina Pierra de Poo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Aulo Gelio</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+-++---+-">Por caprichos de un César insolente,</l>
+     <l n="2" met="-+-+++---+-">que humilde acata un pueblo corrompido,</l>
+     <l n="3" met="-----+---+-">en el Circo de Roma, envilecido,</l>
+     <l n="4" met="-+---++--+-">la inmensa multitud ruge impaciente.</l>
+    </lg>
+    <lg n="2" stanza_type="unknown">
+     <l n="5" met="+-+---+--+-">Salta el león sobre la arena ardiente:</l>
+     <l n="6" met="-+---+---+-">sacude su melena enfurecida,</l>
+     <l n="7" met="-+-+-+---+-">arrójase a su víctima atrevido,</l>
+     <l n="8" met="--+--+---+-">y al llegar retrocede de repente.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+-+-+-">El esclavo infeliz, Androcles era...</l>
+     <l n="10" met="+-+--++--+-">le conoce el león, lame su mano</l>
+     <l n="11" met="-+-+---+-+-">en prueba fiel de gratitud sincera:</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">Acción hermosa que enseñó al Romano</l>
+     <l n="13" met="+++--+---+-">que es más noble el instinto de la fiera</l>
+     <l n="14" met="-+---+-+-+-">que el alma despreciable de un tirano.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

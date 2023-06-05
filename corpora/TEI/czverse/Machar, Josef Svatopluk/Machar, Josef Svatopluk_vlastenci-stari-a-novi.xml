@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VLASTENCI STAŘÍ A NOVÍ</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_vlastenci-stari-a-novi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VLASTENCI STAŘÍ A NOVÍ</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VLASTENCI STAŘÍ A NOVÍ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100110" rhyme="1" line_length="11">Vlastenci staří na slovo „vlast“ znali</l>
+     <l n="2" met="1100010001" rhyme="2" line_length="10">rým jediný, dnes vysmívaný: „slast“ –</l>
+     <l n="3" met="10010101000" rhyme="1" line_length="11">vlastenci noví, kdyby rýmovali –</l>
+     <l n="4" met="0101000101" rhyme="2" line_length="10">tu rým by moderní byl a vždy: „pást“.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

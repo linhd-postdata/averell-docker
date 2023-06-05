@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Píseň harfenisty.</title>
+    <author>Brabec, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Brabec, Adolf_pisen-harfenisty</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Píseň harfenisty.</title>
+     <author>Brabec, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Píseň harfenisty.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" rhyme="1" line_length="8">Svou harfu mám tu jedinou,</l>
+     <l n="2" met="01010101" rhyme="2" line_length="8">jíž svěřím žal a všechen bol,</l>
+     <l n="3" met="01001100" rhyme="1" line_length="8">když smuten dál jdu dědinou,</l>
+     <l n="4" met="01000101" rhyme="2" line_length="8">vše bezcitno je ke mně kol.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000101" rhyme="3" line_length="8">Jak těžko je ten život vést,</l>
+     <l n="6" met="01010101" rhyme="4" line_length="8">se rtů se vine jenom vzdech,</l>
+     <l n="7" met="01000101" rhyme="3" line_length="8">však do písně jej nesmím plést,</l>
+     <l n="8" met="01010101" rhyme="4" line_length="8">z těch vane jenom štěstí dech.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="11010101" rhyme="5" line_length="8">Pouť má je bludná, kde je cíl,</l>
+     <l n="10" met="01010100" rhyme="6" line_length="8">tak ptám se harfy ozvěnou,</l>
+     <l n="11" met="01010100" rhyme="5" line_length="8">kde hrob si kolem kvítka svil,</l>
+     <l n="12" met="11010100" rhyme="6" line_length="8">znít harfu slyším milenou!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

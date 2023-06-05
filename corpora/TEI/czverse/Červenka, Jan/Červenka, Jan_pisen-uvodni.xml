@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Píseň úvodní.</title>
+    <author>Červenka, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červenka, Jan_pisen-uvodni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Píseň úvodní.</title>
+     <author>Červenka, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Píseň úvodní.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110101010" line_length="9">Ach ano, již je dávno tomu,</l>
+     <l n="2" met="01010100" rhyme="1" line_length="8">vše jako sen mi připadá!</l>
+     <l n="3" met="000101010" line_length="9">Dnes je má duše jako smutná</l>
+     <l n="4" met="01000100" rhyme="1" line_length="8">a opuštěná zahrada.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="110001010" line_length="9">Stín leží tam a paprsk světla</l>
+     <l n="6" met="01010100" rhyme="2" line_length="8">se na dno sotva prodere,</l>
+     <l n="7" met="010001000" line_length="9">kde neznámy a pošlapány</l>
+     <l n="8" met="11010100" rhyme="2" line_length="8">tlí květy z mládí veškeré.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010101010" line_length="9">Ty velké sny a touhy smělé,</l>
+     <l n="10" met="00010100" rhyme="3" line_length="8">jež kdys mi žitím svítily,</l>
+     <l n="11" met="010001000" line_length="9">ty otřásly se do základů</l>
+     <l n="12" met="01000100" rhyme="3" line_length="8">a do cesty se sřítily.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100101010" line_length="9">Ach již je dávno, dávno tomu,</l>
+     <l n="14" met="10010100" rhyme="4" line_length="8">o štěstí dnech kdy zpíval jsem,</l>
+     <l n="15" met="010101010" line_length="9">dnes myslím na to s trpkým srdcem</l>
+     <l n="16" met="01010100" rhyme="4" line_length="8">a s trpčím ještě úsměvem.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="010100010" line_length="9">Dnes všemi zapomenut čekám,</l>
+     <l n="18" met="01010100" rhyme="5" line_length="8">kdy čas mou stopu zarovná,</l>
+     <l n="19" met="110101000" line_length="9">jdu na smrt Záviš málomocný: –</l>
+     <l n="20" met="01010100" rhyme="5" line_length="8">Buď zdráva moje královna!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

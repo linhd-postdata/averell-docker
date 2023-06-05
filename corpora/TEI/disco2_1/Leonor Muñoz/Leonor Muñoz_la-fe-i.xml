@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Fe -- I</title>
+    <author>Leonor Muñoz</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Leonor Muñoz_la-fe-i</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Fe -- I</title>
+     <author>Leonor Muñoz</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Fe -- I</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+---+-">Por la empinada cuesta del camino,</l>
+     <l n="2" met="---+-+---+-">como la imagen viva del pasado,</l>
+     <l n="3" met="--+--+-+-+-">andrajoso, descalzo, mal tapado,</l>
+     <l n="4" met="+-++-+---+-">va marchando un anciano peregrino.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+-+-+---+-">Su rostro lleva impreso del destino</l>
+     <l n="6" met="-+---+---+-">el sello con que marca al condenado,</l>
+     <l n="7" met="--+--+-+-+-">y la pena continua le ha dejado</l>
+     <l n="8" met="-+---+---+-">el rostro cadavérico y cetrino.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">La boca en una mueca contraída</l>
+     <l n="10" met="-++--+-+++-">expresa un doloroso no sé qué...</l>
+     <l n="11" met="-+-+-+-+-+-">Sus ojos van perdiendo ya la vida,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++-+-++--+-">no sabe qué será n lo que fue,</l>
+     <l n="13" met="-+-+++---+-">y va gritando: «Es grande mi caída,</l>
+     <l n="14" met="+-++-+-+-+-">un gusano es mi igual, perdí la fe.»</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

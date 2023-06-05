@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mé Muse.</title>
+    <author>Züngel, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Züngel, Emanuel_me-muse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mé Muse.</title>
+     <author>Züngel, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mé Muse.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Ty Muso moje milená,</l>
+     <l n="2" met="0100010" rhyme="1" line_length="7">jak lituji já Tebe,</l>
+     <l n="3" met="00100100" line_length="8">že Tě takému chuďasu</l>
+     <l n="4" met="1001010" rhyme="1" line_length="7">za družku dalo nebe.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">Ty šepceš písně nadšené</l>
+     <l n="6" met="1001010" rhyme="2" line_length="7">v churavou duši moji</l>
+     <l n="7" met="01010100" line_length="8">a ona s hněvem odseká:</l>
+     <l n="8" met="1101000" rhyme="2" line_length="7">„jdi – nech mne na pokoji!“</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000100" line_length="8">A péro mé když píseň Tvou</l>
+     <l n="10" met="1001010" rhyme="3" line_length="7">na bledou blánu píše,</l>
+     <l n="11" met="01010100" line_length="8">tuť místo Tvého nadšení</l>
+     <l n="12" met="0101010" rhyme="3" line_length="7">z ní hlad a bída dýše.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01010101" line_length="8">Ni lad, ni sklad, ni citů vzlet</l>
+     <l n="14" met="1001010" rhyme="4" line_length="7">nedlí víc v písni chudé,</l>
+     <l n="15" met="01000100" line_length="8">a někdo-li ji zapěje,</l>
+     <l n="16" met="0101010" rhyme="4" line_length="7">jen prázné „ach“ z ní zbude.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="01010100" line_length="8">Již odpusť, Muso, brkům těm,</l>
+     <l n="18" met="0101010" rhyme="5" line_length="7">jež kazí píseň Tvoji;</l>
+     <l n="19" met="01000101" line_length="8">jsouť z perutí, jež zpěvu bůh</l>
+     <l n="20" met="1100010" rhyme="5" line_length="7">dal Rosinantě mojí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

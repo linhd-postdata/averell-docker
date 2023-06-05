@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Píseň.</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_pisen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Píseň.</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Píseň.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010101" rhyme="1" line_length="8">Hoj, nemá člověk skláněť šíj,</l>
+     <l n="2" met="11010101" rhyme="2" line_length="8">má přímo hlavu vzhůru nést!</l>
+     <l n="3" met="11001101" rhyme="2" line_length="8">Bůh nevelí, pán sluncí, hvězd:</l>
+     <l n="4" met="01010001" rhyme="1" line_length="8">V svá prsa pokorně se bij!</l>
+     <l n="5" met="01010100" rhyme="2" line_length="8">Leč věčná vůle jeho jest:</l>
+     <l n="6" met="10010001" rhyme="1" line_length="8">Neskláněj otrocky svou šíj!</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="01010001" rhyme="3" line_length="8">A proto bouří se mi krev,</l>
+     <l n="8" met="01000101" rhyme="4" line_length="8">když v porobě si hoví lid.</l>
+     <l n="9" met="01000101" rhyme="4" line_length="8">Leč myslím tak: Toť moře klid,</l>
+     <l n="10" met="01010101" rhyme="3" line_length="8">je náhle zryje bouře hněv,</l>
+     <l n="11" met="01010100" rhyme="4" line_length="8">ty pyšné lodě pohrobit</l>
+     <l n="12" met="01010001" rhyme="3" line_length="8">můž’ lidu rozbouřená krev!</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="11010101" rhyme="5" line_length="8">Hoj, nemá člověk skláněť šíj,</l>
+     <l n="14" met="11010101" rhyme="6" line_length="8">má přímo hlavu vzhůru nést!</l>
+     <l n="15" met="11001101" rhyme="6" line_length="8">Bůh nevelí, pán sluncí, hvězd:</l>
+     <l n="16" met="01010001" rhyme="5" line_length="8">V svá prsa otrocky se bij!</l>
+     <l n="17" met="01010100" rhyme="6" line_length="8">Leč věčná jeho vůle jest:</l>
+     <l n="18" met="10010001" rhyme="5" line_length="8">Neskláněj otrocky svou šíj!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

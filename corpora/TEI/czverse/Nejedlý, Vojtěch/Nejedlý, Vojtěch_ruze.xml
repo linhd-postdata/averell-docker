@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Růže.</title>
+    <author>Nejedlý, Vojtěch</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nejedlý, Vojtěch_ruze</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Růže.</title>
+     <author>Nejedlý, Vojtěch</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Růže.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" rhyme="1" line_length="8">Do zahrady panny poďte,</l>
+     <l n="2" met="10001010" rhyme="1" line_length="8">Milostivým okem hoďte</l>
+     <l n="3" met="0110100" rhyme="2" line_length="7">Jak máj sličné dívčinky</l>
+     <l n="4" met="1000100" rhyme="2" line_length="7">Na rozkošné květinky!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="3" line_length="8">Hle! co kněžna v květin lůně</l>
+     <l n="6" met="10100010" rhyme="3" line_length="8">Růže na zeleném trůně</l>
+     <l n="7" met="1010100" rhyme="4" line_length="7">Pěkné srdce odkrývá,</l>
+     <l n="8" met="1010100" rhyme="4" line_length="7">Zdravou vůni vylívá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" rhyme="5" line_length="8">Jako ptácy spolek dětí</l>
+     <l n="10" met="10001010" rhyme="5" line_length="8">K ušlechtilé růži letí,</l>
+     <l n="11" met="1000100" rhyme="6" line_length="7">Nevěsty kde mladnoucý</l>
+     <l n="12" met="1010100" rhyme="6" line_length="7">Jeví cyty horoucý.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="00101000" rhyme="7" line_length="8">Než ta krása v rozvinutí</l>
+     <l n="14" met="10101000" rhyme="7" line_length="8">Chvátá parnem k zahynutí,</l>
+     <l n="15" met="0010100" rhyme="8" line_length="7">Kdo se u ni zastaví,</l>
+     <l n="16" met="1010100" rhyme="8" line_length="7">Svadlé listí oslaví?</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10101000" rhyme="9" line_length="8">Hleďte ctnosti milostenky,</l>
+     <l n="18" met="10100010" rhyme="9" line_length="8">Aby milovaly ženky</l>
+     <l n="19" met="1010100" rhyme="10" line_length="7">Duše ctné a nevinné,</l>
+     <l n="20" met="1010100" rhyme="10" line_length="7">Y když krása pomine!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

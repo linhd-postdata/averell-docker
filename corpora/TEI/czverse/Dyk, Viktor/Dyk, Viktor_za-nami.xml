@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ZA NÁMI...</title>
+    <author>Dyk, Viktor</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dyk, Viktor_za-nami</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ZA NÁMI...</title>
+     <author>Dyk, Viktor</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ZA NÁMI...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101" rhyme="1" line_length="8">Za námi domy venku ční,</l>
+     <l n="2" met="01010101010" rhyme="2" line_length="11">kde mladí hoši hlavu k nebi vzpiali,</l>
+     <l n="3" met="10000100" rhyme="1" line_length="8">melancholičtí ponocní,</l>
+     <l n="4" met="01001001000" rhyme="2" line_length="11">již ospale hodiny pískávali.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" rhyme="3" line_length="8">Zdlouhavé tóny harmonik.</l>
+     <l n="6" met="100101010" rhyme="4" line_length="9">Netopýr, jenž se světla bojí.</l>
+     <l n="7" met="10011001" rhyme="3" line_length="8">Do noci vzlyk, do kosmu vzlyk:</l>
+     <l n="8" met="010001010" rhyme="4" line_length="9">kam soustřediti touhu svoji?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10011001" rhyme="5" line_length="8">Hodiny jdou, hodiny jdou,</l>
+     <l n="10" met="100101010" rhyme="6" line_length="9">lichotnou jakous mluví řečí.</l>
+     <l n="11" met="11010100" rhyme="5" line_length="8">Hoch zvedá – bože – hlavu svou.</l>
+     <l n="12" met="010101010" rhyme="6" line_length="9">I měsíc zdá se dneska bledší.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

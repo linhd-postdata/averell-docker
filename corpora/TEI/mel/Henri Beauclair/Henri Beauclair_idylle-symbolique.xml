@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Idylle symbolique</title>
+    <author>Henri Beauclair</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Henri Beauclair_idylle-symbolique</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Idylle symbolique</title>
+     <author>Henri Beauclair</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Idylle symbolique</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Amoureuses Hypnotisées</l>
+     <l n="2" rhyme="b" line_length="8">Par l'Indolence des Espoirs,</l>
+     <l n="3" rhyme="b" line_length="8">Éphèbes doux, aux reflets noirs,</l>
+     <l n="4" rhyme="a" line_length="8">Avec des impudeurs rosées,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Par le murmure d'un Ave,</l>
+     <l n="6" rhyme="b" line_length="8">Disparus ! O miracle Étrange !</l>
+     <l n="7" rhyme="b" line_length="8">Le démon suppléé par l'Ange,</l>
+     <l n="8" rhyme="a" line_length="8">Le vil Hyperbole sauvé !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Ils parlent, avec des nuances,</l>
+     <l n="10" rhyme="b" line_length="8">Comme, au cœur vert des boulingrins,</l>
+     <l n="11" rhyme="b" line_length="8">Les Bengalis et les serins,</l>
+     <l n="12" rhyme="a" line_length="8">Et ceux qui portent des créances.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">Mais ils disent le mot : Chouchou,</l>
+     <l n="14" rhyme="b" line_length="8">— Né pour du papier de Hollande, —</l>
+     <l n="15" rhyme="b" line_length="8">Et les voilà seuls, dans la lande,</l>
+     <l n="16" rhyme="a" line_length="8">Sous le trop petit caoutchouc !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

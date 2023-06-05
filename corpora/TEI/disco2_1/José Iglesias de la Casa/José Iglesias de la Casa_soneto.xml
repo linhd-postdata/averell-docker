@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>José Iglesias de la Casa</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Iglesias de la Casa_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>José Iglesias de la Casa</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+---+-">Era invierno, y las horas del sosiego,</l>
+     <l n="2" met="--+--+---+-">cuando Fabio, durmiendo descuidado,</l>
+     <l n="3" met="-+-+-+---+-">soñaba que era estío y que abrasado</l>
+     <l n="4" met="-+---+---+-">se vio de la canícula y del fuego.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-++-+--++-">Sueña que a un limpio estanque se va luego,</l>
+     <l n="6" met="---+-+---+-">y de enojosa ropa despojado,</l>
+     <l n="7" met="+--+-+---+-">se entra en el baño dulce y regalado,</l>
+     <l n="8" met="-+---+-+-+-">que le refrigeró con blando riego.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-+---+-">La frialdad del agua placentera</l>
+     <l n="10" met="-+---+---+-">conoce que del pecho enardecido,</l>
+     <l n="11" met="--+--+++-+-">poco a poco el calor le echaba fuera.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">Despierta en esto, torna a su sentido,</l>
+     <l n="13" met="-+-------+-">y ve que a efecto de su borrachera,</l>
+     <l n="14" met="-++--++--+-">en un gran lodazal se halla tendido.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

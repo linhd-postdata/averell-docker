@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pavouk.</title>
+    <author>Breska, Alfons</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Breska, Alfons_pavouk</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pavouk.</title>
+     <author>Breska, Alfons</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pavouk.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" rhyme="1" line_length="8">Spřádám jemné pavučiny</l>
+     <l n="2" met="1010" rhyme="1" line_length="4">v síně stíny,</l>
+     <l n="3" met="1010101" rhyme="2" line_length="7">celou noc a celý den</l>
+     <l n="4" met="1010101" rhyme="2" line_length="7">tkám své duše šerý sen.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101000" rhyme="3" line_length="8">Spřádám vlákna kruhovitě</l>
+     <l n="6" met="1010" rhyme="3" line_length="4">v hebké sítě</l>
+     <l n="7" met="1000100" rhyme="4" line_length="7">nejraději na večer,</l>
+     <l n="8" met="0010101" rhyme="4" line_length="7">když se okny vkrádá šer.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" rhyme="5" line_length="8">Neboť všechno, co je hlasné,</l>
+     <l n="10" met="1010" rhyme="5" line_length="4">světlo jasné,</l>
+     <l n="11" met="1010101" rhyme="6" line_length="7">žití ruch a denní šum</l>
+     <l n="12" met="1010101" rhyme="6" line_length="7">trhá hebkou přízi dum.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101010" rhyme="3" line_length="8">Tiše hledím ze své sítě,</l>
+     <l n="14" met="1000" rhyme="3" line_length="4">neurčitě</l>
+     <l n="15" met="1010101" rhyme="7" line_length="7">celý svět jak bledý stín</l>
+     <l n="16" met="1000100" rhyme="7" line_length="7">jeví se mi z pavučin.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

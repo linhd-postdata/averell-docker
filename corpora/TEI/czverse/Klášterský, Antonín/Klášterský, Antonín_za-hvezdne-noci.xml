@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Za hvězdné noci.</title>
+    <author>Klášterský, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Klášterský, Antonín_za-hvezdne-noci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Za hvězdné noci.</title>
+     <author>Klášterský, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Za hvězdné noci.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110010010" rhyme="1" line_length="9">Noc dlouhá a hluboká, zimní,</l>
+     <l n="2" met="01001011" rhyme="2" line_length="8">a na nebi září sta hvězd,</l>
+     <l n="3" met="110010010" rhyme="1" line_length="9">má země, ty nešťastná, zdřímni,</l>
+     <l n="4" met="01000101" rhyme="2" line_length="8">vše zapomeň, co musíš nést!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010010010" rhyme="3" line_length="9">Ty rány, tu hanbu, ty hřeby</l>
+     <l n="6" met="01001001" rhyme="4" line_length="8">a rouhání horší těch ran,</l>
+     <l n="7" met="01010010" rhyme="3" line_length="8">co trnů pálí tě v lebi,</l>
+     <l n="8" met="01011001" rhyme="4" line_length="8">co krve vpil český ten lán!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010010010" rhyme="5" line_length="9">Snad ve snu se bude ti zdáti,</l>
+     <l n="10" met="01001000" rhyme="6" line_length="8">že úsměv ti po tváři šleh’,</l>
+     <l n="11" met="010010010" rhyme="5" line_length="9">jak slyšela’s ze zdálí váti</l>
+     <l n="12" met="01001001" rhyme="6" line_length="8">zas jarní a hojivý dech.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="010110010" rhyme="7" line_length="9">A země má k nebi se dívá,</l>
+     <l n="14" met="01001000" rhyme="8" line_length="8">jež modré a hvězdnaté tak –</l>
+     <l n="15" met="01010010" rhyme="7" line_length="8">jak prapor nad hlavou splývá</l>
+     <l n="16" met="01001001" rhyme="8" line_length="8">ten hvězdný, ten svobody znak...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Králíčkové.</title>
+    <author>Štulc, Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Štulc, Václav_kralickove</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Králíčkové.</title>
+     <author>Štulc, Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Králíčkové.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00100100010" rhyme="1" line_length="11">Proč tu sedíte, králíčkové milí,</l>
+     <l n="2" met="10010010100" rhyme="1" line_length="11">A jste mi všickni tak hezky veselí,</l>
+     <l n="3" met="100000010100" rhyme="2" line_length="12">Oblizujete si ty vaše hubičky,</l>
+     <l n="4" met="100100010100" rhyme="2" line_length="12">Blýští se radostí ty vaše očičky?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001001010" rhyme="3" line_length="10">Proto že dobrého pána máme,</l>
+     <l n="6" met="1001001000" rhyme="3" line_length="10">Tady tak vesele sedáváme,</l>
+     <l n="7" met="0010100100" rhyme="4" line_length="10">On k nám za den čtyrykrát chodívá,</l>
+     <l n="8" met="1100010100" rhyme="4" line_length="10">Chrást přináší nám i nás hladívá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101010010" rhyme="5" line_length="10">V tom něco šustlo, někdo se blíží,</l>
+     <l n="10" met="1001010010" rhyme="5" line_length="10">Úškama stříhá králík i zhlíží;</l>
+     <l n="11" met="1000010100" rhyme="6" line_length="10">U vrátek již je vidět hlavičku,</l>
+     <l n="12" met="0101010100" rhyme="6" line_length="10">I strká přes ně dobrou ručičku:</l>
+     <l n="13" met="100100100100" rhyme="7" line_length="12">A ta jim hodila chrástíčku čerstvého,</l>
+     <l n="14" met="100100100000" rhyme="7" line_length="12">Oni pak vesele našupali se ho.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

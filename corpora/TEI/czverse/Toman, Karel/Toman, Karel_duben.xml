@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>DUBEN</title>
+    <author>Toman, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Toman, Karel_duben</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>DUBEN</title>
+     <author>Toman, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>DUBEN</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" line_length="8">Veselé jarní přeháňky</l>
+     <l n="2" met="01010101000" line_length="11">a první boží duha nad krajinou!</l>
+     <l n="3" met="10010100" line_length="8">Rozsívku složil hospodář</l>
+     <l n="4" met="01000" line_length="5">a důvěřivě</l>
+     <l n="5" met="10010101" line_length="8">obchází půdu, do níž sil.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="01010101010" line_length="11">Snad přijdou mrazy. Ale setba svatá</l>
+     <l n="7" met="01000" line_length="5">se neporuší.</l>
+     <l n="8" met="010100010001" line_length="12">Neb zákon jediný jest klíčiti a růst,</l>
+     <l n="9" met="110001000" line_length="9">růst za bouří a nepohody</l>
+     <l n="10" met="10100" line_length="5">všemu navzdory.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="100100010100" line_length="12">Rozšafní dědové se hřejí u kamen</l>
+     <l n="12" met="0100010101010" line_length="13">a přemílají starou moudrost, staré zvyky</l>
+     <l n="13" met="0101000" line_length="7">a staré pranostyky.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

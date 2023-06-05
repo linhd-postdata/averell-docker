@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>APOLLONIE</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_apollonie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>APOLLONIE</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>APOLLONIE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">J'aime ton nom d'Apollonie,</l>
+     <l n="2" rhyme="b" line_length="8">Écho grec du sacré vallon,</l>
+     <l n="3" rhyme="a" line_length="8">Qui, dans sa robuste harmonie,</l>
+     <l n="4" rhyme="b" line_length="8">Te baptise sœur d'Apollon.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Sur la lyre au plectre d'ivoire,</l>
+     <l n="6" rhyme="b" line_length="8">Ce nom splendide et souverain,</l>
+     <l n="7" rhyme="a" line_length="8">Beau comme l'amour et la gloire</l>
+     <l n="8" rhyme="b" line_length="8">Prend des résonnances d'airain.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Classique, il fait plonger les Elfes</l>
+     <l n="10" rhyme="b" line_length="8">Au fond de leur lac allemand,</l>
+     <l n="11" rhyme="a" line_length="8">Et seule la Pythie à Delphes</l>
+     <l n="12" rhyme="b" line_length="8">Pourrait le porter dignement,</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">Quand relevant sa robe antique</l>
+     <l n="14" rhyme="b" line_length="8">Elle s'assoit au trépied d'or,</l>
+     <l n="15" rhyme="a" line_length="8">Et dans sa pose fatidique</l>
+     <l n="16" rhyme="b" line_length="8">Attend le dieu qui tarde encor.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

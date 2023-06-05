@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les Trois Toc Toc</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_les-trois-toc-toc</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Les Trois Toc Toc</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Les Trois Toc Toc</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Toc toc ! — L'homme prêtant l'oreille,</l>
+     <l n="2" rhyme="b" line_length="8">Hache en main, guettant scélérat,</l>
+     <l n="3" rhyme="b" line_length="8">Dit : « Qu'est là ? — Moi ! » La vieille entra…</l>
+     <l n="4" rhyme="a" line_length="8">D'un coup, il abattit la vieille.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Depuis, hanté par les alarmes,</l>
+     <l n="6" rhyme="b" line_length="8">Il s'enfermait dans sa maison.</l>
+     <l n="7" rhyme="b" line_length="8">Toc toc ! — L'homme, avec un frisson,</l>
+     <l n="8" rhyme="a" line_length="8">Demanda : « Qu'est là ? » — Les gendarmes !</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">Un peu plus tard, à l'aube fine,</l>
+     <l n="10" rhyme="b" line_length="8">Toc toc ! — Il se tut, sachant trop</l>
+     <l n="11" rhyme="b" line_length="8">Qu'alors, c'était bien le bourreau</l>
+     <l n="12" rhyme="a" line_length="8">Qui venait pour la guillotine.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

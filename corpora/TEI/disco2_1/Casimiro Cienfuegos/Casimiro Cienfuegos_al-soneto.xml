@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Al soneto</title>
+    <author>Casimiro Cienfuegos</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Casimiro Cienfuegos_al-soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Al soneto</title>
+     <author>Casimiro Cienfuegos</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Al soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--++--+-">«...Donde el sueño gentil cúpole a Dante,</l>
+     <l n="2" met="--+--+-+-+-">donde el luso Marón grabó su estela,</l>
+     <l n="3" met="-+---+-+-+-">y el cisne del Avón cantando vuela</l>
+     <l n="4" met="--+--+---+-">con el que hizo el soneto a Violante.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++--++---+-">Hoy un vate andaluz, docto y brillante,</l>
+     <l n="6" met="-+-+-+---+-">la copa de oro artística cincela,</l>
+     <l n="7" met="+-+--++--+-">dándonos a gustar clavo y canela,</l>
+     <l n="8" met="-+-+---+-+-">y vino y miel, entre dulzor picante.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+---++---+-">Carmen a quien da el genio la armonía,</l>
+     <l n="10" met="--+--+---+-">la quimera del alma luminosa,</l>
+     <l n="11" met="--+--+---+-">la pasión, el desdén y la ironía.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">Y así la esencia espiritual rebosa</l>
+     <l n="13" met="-+-+-----+-">del cáliz áureo de la Poesía,</l>
+     <l n="14" met="--+--+---+-">como el fresco perfume de la rosa.»</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

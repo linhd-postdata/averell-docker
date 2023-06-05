@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ŠAMPAŇSKÉ.</title>
+    <author>Kubelka, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kubelka, Josef_sampanske</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ŠAMPAŇSKÉ.</title>
+     <author>Kubelka, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ŠAMPAŇSKÉ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110010100" line_length="9">Hoj, šampaňské, božský nápoji,</l>
+     <l n="2" met="010010010" rhyme="1" line_length="9">ty nadšení obraze sladký,</l>
+     <l n="3" met="0100100101" rhyme="2" line_length="10">kéž mohu ten nadšení chabý vznět,</l>
+     <l n="4" met="010010101" rhyme="2" line_length="9">jímž za doby naší hárá svět,</l>
+     <l n="5" met="010010010" rhyme="1" line_length="9">též uzavřít v láhve a zátky.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="010010100" line_length="9">Pak starý jen zázrak učiním,</l>
+     <l n="7" met="010010010" rhyme="3" line_length="9">jímž ve víno změní se voda. – –</l>
+     <l n="8" met="010010100" rhyme="4" line_length="9">Až ke stropu zátka vyletí,</l>
+     <l n="9" met="110010100" rhyme="4" line_length="9">hej! nastavte číše, poeti,</l>
+     <l n="10" met="01001010" rhyme="3" line_length="8">jeť každičké kapky škoda...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

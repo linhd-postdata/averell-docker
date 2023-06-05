@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mé dílo.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_me-dilo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mé dílo.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mé dílo.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010001010" rhyme="1" line_length="9">Když do kola se všecko tříští</l>
+     <l n="2" met="01001001" rhyme="2" line_length="8">v té zoufalé o život hře,</l>
+     <l n="3" met="010011010" rhyme="1" line_length="9">mé dílo vstříc jde době příští</l>
+     <l n="4" met="10000101" rhyme="2" line_length="8">na osamělé, jedné kře;</l>
+     <l n="5" met="010100010" rhyme="3" line_length="9">já na ní stojím, já s ní pluji,</l>
+     <l n="6" met="010100110" rhyme="3" line_length="9">ať sporné větry, jak chtí, dují,</l>
+     <l n="7" met="01010101" rhyme="2" line_length="8">ať kol to praská, vře a mře.</l>
+    </lg>
+    <lg n="2">
+     <l n="8" met="110011000" rhyme="4" line_length="9">Vím, o mne též proud otírá se,</l>
+     <l n="9" met="01010101" rhyme="5" line_length="8">tu nechuť, závist, všední dým,</l>
+     <l n="10" met="110001010" rhyme="4" line_length="9">ryk jizlivosti v hadím hlase,</l>
+     <l n="11" met="11010100" rhyme="5" line_length="8">poušť, kam jen oko pohroužím.</l>
+     <l n="12" met="110011010" rhyme="6" line_length="9">Jdu, vydrží kra rány tyto?</l>
+     <l n="13" met="010001010" rhyme="6" line_length="9">Mně námahy mé není líto,</l>
+     <l n="14" met="00010100" rhyme="5" line_length="8">já přec jen žil – víc netoužím!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

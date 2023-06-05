@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Puerta del Sol</title>
+    <author>Carlos Rodríguez Díaz</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Carlos Rodríguez Díaz_la-puerta-del-sol</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Puerta del Sol</title>
+     <author>Carlos Rodríguez Díaz</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Puerta del Sol</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+---+-">Un horrible y estúpido vaivén</l>
+     <l n="2" met="-++--+---+-">donde un tipo descuella, el holgazán:</l>
+     <l n="3" met="+-+--+-+-+-">diez tranvías que vienen, seis que van,</l>
+     <l n="4" met="+-+--+-+-+-">treinta coches de punto y puntos cien.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">Un ministerio en que los tontos ven</l>
+     <l n="6" met="-+-+---+-+-">bajar la bola si las doce dan,</l>
+     <l n="7" met="--+--+---+-">y bastantes comercios donde están</l>
+     <l n="8" met="--+--+-+-+-">tentaciones que pocos vencen bien.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+--+---+-">Una nube de golfos donde vi</l>
+     <l n="10" met="--+--+---+-">reflejado el espíritu español;</l>
+     <l n="11" met="+--+-+---+-">un horizonte ñoño y baladí</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--++-+---+-">que jamás se ha teñido de arrebol;</l>
+     <l n="13" met="+-+-+----+-">y un paseo de niñas que hasta allí...</l>
+     <l n="14" met="++---+---+-">¡Esta es, la sin igual Puerta del Sol!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

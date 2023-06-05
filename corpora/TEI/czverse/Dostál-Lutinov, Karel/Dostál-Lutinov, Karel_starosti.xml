@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>STAROSTI.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_starosti</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>STAROSTI.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>STAROSTI.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001000101010" rhyme="1" line_length="13">Bohyně Historie, zastav svoji chůzi!</l>
+     <l n="2" met="11000100010" rhyme="1" line_length="11">Ó naslouchejte Sudičky i Muzy:</l>
+     <l n="3" met="11010101010" rhyme="1" line_length="11">Aj, výbor Družstva Vlasti konal schůzi,</l>
+     <l n="4" met="0101010100" rhyme="2" line_length="10">v níž kolik hodin pilně rokoval,</l>
+     <l n="5" met="0101001101" rhyme="2" line_length="10">jak slavit muže, jenž sto korun dal.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

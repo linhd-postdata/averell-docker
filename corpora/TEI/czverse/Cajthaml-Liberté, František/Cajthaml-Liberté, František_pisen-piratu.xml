@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>PÍSEŇ PIRÁTŮ</title>
+    <author>Cajthaml-Liberté, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cajthaml-Liberté, František_pisen-piratu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>PÍSEŇ PIRÁTŮ</title>
+     <author>Cajthaml-Liberté, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>PÍSEŇ PIRÁTŮ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100100" line_length="9">Pluli jsme v soumraku úžinou,</l>
+     <l n="2" met="11010010" rhyme="1" line_length="8">v bok lodi vlny zle bily,</l>
+     <l n="3" met="100100100" line_length="9">paluba sotva nám stačila,</l>
+     <l n="4" met="01010010" rhyme="1" line_length="8">a všichni psanci jsme byli.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100100" line_length="9">Kapitán mrtev. Dnes do moře</l>
+     <l n="6" met="10010010" rhyme="2" line_length="8">vrhli jsme zabité tělo;</l>
+     <l n="7" met="100100100" line_length="9">na můstek velící vstoupiti</l>
+     <l n="8" met="10000010" rhyme="2" line_length="8">v souhlasu všech se jen smělo.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100100100" line_length="9">Pluli jsme v mělčinách, v úskalí</l>
+     <l n="10" met="10010010" rhyme="1" line_length="8">(hladoví vlci tam vyli),</l>
+     <l n="11" met="100100100" line_length="9">vpluli jsme do moře širého</l>
+     <l n="12" met="01010010" rhyme="1" line_length="8">a doušky volnosti pili.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100100100" line_length="9">Bylo nás bez počtu na lodi,</l>
+     <l n="14" met="01011010" rhyme="2" line_length="8">však jeden duch, jedno tělo:</l>
+     <l n="15" met="010100100" line_length="9">a touhou po světech dalekých</l>
+     <l n="16" met="10010010" rhyme="2" line_length="8">každému srdce se chvělo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Un rizo</title>
+    <author>Antonio F. Grilo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Antonio F. Grilo_un-rizo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Un rizo</title>
+     <author>Antonio F. Grilo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Un rizo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">Bucle dorado, que gentil y airoso</l>
+     <l n="2" met="-+-+---+-+-">ceñiste ayer su alabastrina frente;</l>
+     <l n="3" met="+--+---+-+-">tú, que a los besos de aromado ambiente</l>
+     <l n="4" met="--+--+---+-">por su espalda ondulaste caprichoso.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-++---+-+-">Tú, que me viste resbalar ansioso</l>
+     <l n="6" met="---+---+-+-">tras los hechizos de su faz riente;</l>
+     <l n="7" met="+--+---+-+-">tú, que escuchaste de su labio ardiente</l>
+     <l n="8" met="---+-+---+-">el juramento ahogado y misterioso.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-++---+-+-">Tú, que la viste cual gentil paloma</l>
+     <l n="10" met="-+-+---+-+-">correr alegre en ademán travieso</l>
+     <l n="11" met="---+-----+-">por los vergeles donde Mayo asoma,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--+---+-">déjame que en dulcísimo embeleso</l>
+     <l n="13" met="-+---+---+-">aspire de sus hebras el aroma</l>
+     <l n="14" met="-++--+--++-">y le entregue mi alma con un beso.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

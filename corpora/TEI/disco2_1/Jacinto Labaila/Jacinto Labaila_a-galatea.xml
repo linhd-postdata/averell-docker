@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Galatea</title>
+    <author>Jacinto Labaila</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jacinto Labaila_a-galatea</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Galatea</title>
+     <author>Jacinto Labaila</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Galatea</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+----+---+-">Llena mi corazón de tus amores</l>
+     <l n="2" met="-+---+---+-">la imagen inmortal y en mi cabeza</l>
+     <l n="3" met="--+--+---+-">de la gloria la fúlgida belleza</l>
+     <l n="4" met="-+---+---+-">levanta pensamientos bullidores.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+-+-+-">El amor y la gloria son las flores</l>
+     <l n="6" met="++---+---+-">más lindas que creó naturaleza,</l>
+     <l n="7" met="--+--+-+-+-">y el mortal que a aspirar su aroma empieza,</l>
+     <l n="8" met="+-+--+---+-">vive siempre aspirando sus olores.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+-+--+-+-">Por la gloria poética me afano;</l>
+     <l n="10" met="+-+--+---+-">ella en mil ilusiones eslabona</l>
+     <l n="11" met="--+--+---+-">las ideas que asaltan en mi mente...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--++-+-">¡Si alcanzara el laurel!... ¡Ah, fuera en vano!</l>
+     <l n="13" met="++---++--+-">¡Qué importa alcanzar una corona</l>
+     <l n="14" met="-+-+-+-+-+-">si el mundo nunca la verá en tu frente!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

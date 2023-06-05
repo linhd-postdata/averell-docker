@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>LA TULIPE</title>
+    <author>Théophile Gautier</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théophile Gautier_la-tulipe</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>LA TULIPE</title>
+     <author>Théophile Gautier</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>LA TULIPE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Moi, je suis la tulipe, une fleur de Hollande,</l>
+     <l n="2" rhyme="b" line_length="6+6">Et telle est ma beauté, que l'avare flamand</l>
+     <l n="3" rhyme="b" line_length="6+6">Paye un de mes oignons plus cher qu'un diamant,</l>
+     <l n="4" rhyme="a" line_length="6+6">Si mes fonds sont bien purs, si je suis droite et grande.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Mon air est féodal, et comme une Yolande</l>
+     <l n="6" rhyme="b" line_length="6+6">Dans sa jupe à longs plis étoffée amplement,</l>
+     <l n="7" rhyme="b" line_length="6+6">Je porte des blasons peints sur mon vêtement,</l>
+     <l n="8" rhyme="a" line_length="6+6">Gueules fascé d'argent, or avec pourpre en bande.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Le jardinier divin a filé de ses doigts</l>
+     <l n="10" rhyme="c" line_length="6+6">Les rayons du soleil et la pourpre des rois</l>
+     <l n="11" rhyme="d" line_length="6+6">Pour me faire une robe à trame douce et fine.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Nulle fleur du jardin n'égale ma splendeur,</l>
+     <l n="13" rhyme="e" line_length="6+6">Mais la nature, hélas ! n'a pas versé d'odeur</l>
+     <l n="14" rhyme="d" line_length="6+6">Dans mon calice fait comme un vase de Chine.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

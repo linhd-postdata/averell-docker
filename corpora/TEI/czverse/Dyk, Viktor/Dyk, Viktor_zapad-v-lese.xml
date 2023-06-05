@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ZÁPAD V LESE</title>
+    <author>Dyk, Viktor</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dyk, Viktor_zapad-v-lese</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ZÁPAD V LESE</title>
+     <author>Dyk, Viktor</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ZÁPAD V LESE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001010100" rhyme="1" line_length="10">Zelenou klenbou lesa prokmitá</l>
+     <l n="2" met="100101010" rhyme="2" line_length="9">v úseku úzkém rudý západ.</l>
+     <l n="3" met="1001010100" rhyme="1" line_length="10">Neronská scéna, krutě barvitá.</l>
+     <l n="4" met="10110001010" rhyme="2" line_length="11">„Jaký mře umělec to...“ Možno chápat.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1001010101" rhyme="3" line_length="10">Hýřivé barvy, po nichž přijde stín.</l>
+     <l n="6" met="11000101010" rhyme="4" line_length="11">Zříš očarován do té krásy zrádné.</l>
+     <l n="7" met="1001010100" rhyme="3" line_length="10">Nad hrobem mládí, v stínu zřícenin,</l>
+     <l n="8" met="11010011010" rhyme="4" line_length="11">krev mroucí pozdrav, než tma na kraj padne!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

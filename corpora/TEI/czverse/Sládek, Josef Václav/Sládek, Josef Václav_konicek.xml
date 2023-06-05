@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Koníček.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">10</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_konicek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Koníček.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Koníček.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1001001010" rhyme="1" line_length="10">Jaký to koníček, třeba vraný,</l>
+     <l n="2" met="0101001000" rhyme="1" line_length="10">když není osedlán, okovaný! –</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="1001001010" rhyme="2" line_length="10">Honem se, kováři, k dílu mějte</l>
+     <l n="4" met="0101001000" rhyme="2" line_length="10">a toho koně nám okovejte.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="1001001000" rhyme="3" line_length="10">Kovář se postavil za kovadlo,</l>
+     <l n="6" met="1001001000" rhyme="3" line_length="10">přikoval koníčka na houpadlo.</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="1001001010" rhyme="4" line_length="10">Přikoval, zakoval nohy obě</l>
+     <l n="8" met="1001001010" rhyme="4" line_length="10">na pravo, na levo, po dvou k sobě.</l>
+    </lg>
+    <lg n="5">
+     <l n="9" met="1001001010" rhyme="5" line_length="10">Potom ho osedlal sedlář hebce,</l>
+     <l n="10" met="1001001000" rhyme="5" line_length="10">sedí se na něm jak na kolébce.</l>
+    </lg>
+    <lg n="6">
+     <l n="11" met="1001001000" rhyme="6" line_length="10">A teď tě, bratříčku, posadíme,</l>
+     <l n="12" met="1001001000" rhyme="6" line_length="10">v daleké kraje se vypravíme.</l>
+    </lg>
+    <lg n="7">
+     <l n="13" met="0101001010" rhyme="7" line_length="10">Já sednu, bratříčku, podle tebe,</l>
+     <l n="14" met="1001000100" rhyme="7" line_length="10">budem se houpati až do nebe.</l>
+    </lg>
+    <lg n="8">
+     <l n="15" met="1001001010" rhyme="8" line_length="10">Za hory, za lesy, bystré vody,</l>
+     <l n="16" met="1001001000" rhyme="8" line_length="10">s větrem se rozletíš o závody.</l>
+    </lg>
+    <lg n="9">
+     <l n="17" met="0101001010" rhyme="9" line_length="10">A potom pozvolna, zlehka, tiše</l>
+     <l n="18" met="1001001010" rhyme="9" line_length="10">koník tě donese do snů říše.</l>
+    </lg>
+    <lg n="10">
+     <l n="19" met="0101001010" rhyme="10" line_length="10">Tam na tom nejlepším světa koni</l>
+     <l n="20" met="1001001000" rhyme="10" line_length="10">nikdo tě, bratříčku, nedohoní!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

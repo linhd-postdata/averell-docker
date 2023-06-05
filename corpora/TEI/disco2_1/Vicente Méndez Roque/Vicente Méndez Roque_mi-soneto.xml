@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mi soneto</title>
+    <author>Vicente Méndez Roque</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vicente Méndez Roque_mi-soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mi soneto</title>
+     <author>Vicente Méndez Roque</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mi soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+-----+-">Mi triste compañera, la Santa Poesía,</l>
+     <l n="2" met="+--+-+---+--+-">esa madrina trágica y terrible y funesta,</l>
+     <l n="3" met="+-++-+--+---+-">me ha enseñado hace tiempo las lágrimas que cuesta</l>
+     <l n="4" met="--++-+--+---+-">el tener un instante de olvido y de alegría.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+----------+-">Llevado de la mano de la Melancolía,</l>
+     <l n="6" met="+-+--+----+-+-">he subido del mundo por la empinada cuesta,</l>
+     <l n="7" met="-++--+----+-+-">mas siempre he caminado con mi oriflama enhiesta</l>
+     <l n="8" met="--+--+--++-+-">aunque el triunfo se aleje y jamás me sonría.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+-++-+-+--+-">Las espinas han sido siempre más que las rosas;</l>
+     <l n="10" met="--+--+---+--+-">pero me han deslumbrado las auroras radiosas</l>
+     <l n="11" met="---+-+---+--+-">y el traicionero encanto del lejano laurel.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+++---+--+-">Y al cabo, ¿qué me importan las envidias mezquinas?</l>
+     <l n="13" met="++---+---+--+-">¿No tuvo Jesucristo su corona de espinas</l>
+     <l n="14" met="-+-+----+--+-">su amargo vía-crucis y su esponja con hiel?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

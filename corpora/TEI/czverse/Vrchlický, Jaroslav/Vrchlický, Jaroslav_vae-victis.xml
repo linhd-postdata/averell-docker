@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VAE VICTIS!</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_vae-victis</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VAE VICTIS!</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VAE VICTIS!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010011010" rhyme="1" line_length="11">Když Brennus do váhy meč hodil pádný,</l>
+     <l n="2" met="01010100010" rhyme="2" line_length="11">„vae victis“ děsným ústa se mu chvěla.</l>
+     <l n="3" met="10010011000" rhyme="1" line_length="11">Ó což tu zachvěl se Řím světovládný,</l>
+     <l n="4" met="10010101000" rhyme="2" line_length="11">ó což tu váha vzhůru vyletěla!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100010" rhyme="3" line_length="11">Leč sotva barbar na útěku plachém,</l>
+     <l n="6" met="01010101010" rhyme="4" line_length="11">juž ze slov jeho děsné símě pučí,</l>
+     <l n="7" met="01010101010" rhyme="3" line_length="11">tím heslem Říman plní světy strachem –</l>
+     <l n="8" met="01010100010" rhyme="4" line_length="11">„vae victis!“ světem užasnutým hučí.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010001010" rhyme="5" line_length="11">Tím heslem gladiátor v slunce žehu</l>
+     <l n="10" met="10010100010" rhyme="6" line_length="11">v areně sprahlé padá dřív než mečem,</l>
+     <l n="11" met="01001100010" rhyme="5" line_length="11">tím vyhnanec mře na Sibiřském sněhu,</l>
+     <l n="12" met="01000101010" rhyme="6" line_length="11">tím také my svá těžká pouta vlečem.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="11000101010" rhyme="7" line_length="11">Balt neslyšíš, jak pláče vlnou chmurnou?</l>
+     <l n="14" met="11010101010" rhyme="8" line_length="11">Hoď v soudu váhu vlastní srdce svoje,</l>
+     <l n="15" met="11010001010" rhyme="7" line_length="11">meč Brennův váží víc s tou větou spurnou,</l>
+     <l n="16" met="01010101010" rhyme="8" line_length="11">a lidstvu pouze zbudou – boje, boje!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

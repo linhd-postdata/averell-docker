@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A mi amiga</title>
+    <author>Merced Valdés Mendoza</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Merced Valdés Mendoza_a-mi-amiga</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A mi amiga</title>
+     <author>Merced Valdés Mendoza</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A mi amiga</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+-+-+-">Bellas las flores son, Dorila mía,</l>
+     <l n="2" met="--+--+---+-">de la dulce y alegre primavera,</l>
+     <l n="3" met="+-+--+---+-">bella ostenta la rosa placentera</l>
+     <l n="4" met="-+-+-+---+-">su verde pompa y grata lozanía.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">Vierte el clavel suavísima ambrosía</l>
+     <l n="6" met="---+-+---+-">en la esmaltada América pradera,</l>
+     <l n="7" met="--+--+---+-">y la brisa murmura en su carrera</l>
+     <l n="8" met="--+--+---+-">inocentes canciones de alegría.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">Mas solo miran mis amantes ojos</l>
+     <l n="10" met="---+---+-+-">en el color de la encendida rosa</l>
+     <l n="11" met="---+-+---+-">de tu candor los púdicos sonrojos.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+---+-+-">Veo en la azucena tu mejilla hermosa,</l>
+     <l n="13" met="--+--+---+-">y en el dulce murmullo de la brisa</l>
+     <l n="14" met="+--+-+---+-">oigo tu voz y adoro tu sonrisa.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Růžičky vy světlé,</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_ruzicky-vy-svetle</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Růžičky vy světlé,</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Růžičky vy světlé,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" line_length="6">Růžičky vy světlé, </l>
+     <l n="2" met="101010" rhyme="1" line_length="6">rcete pravdu zdali:</l>
+     <l n="3" met="01101010" line_length="8">kam krev s kříže na zem kápla,</l>
+     <l n="4" met="001000" rhyme="1" line_length="6">že jste vykvétaly?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100010" line_length="6">„Odpověď svou každá</l>
+     <l n="6" met="100010" rhyme="2" line_length="6">po korunce nosí:</l>
+     <l n="7" met="10011010" line_length="8">s úsvitem přijď a pak ptej se</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">slzavé té rosy.“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- V - </title>
+    <author>Lope de Vega</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lope de Vega_v</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- V - </title>
+     <author>Lope de Vega</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- V - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+-+-+-">Sirvió Jacob los siete largos años,</l>
+     <l n="2" met="+--+---+-+-">breves, si el fin cual la esperanza fuera;</l>
+     <l n="3" met="-+-+---+-+-">a Lía goza y a Raquel espera</l>
+     <l n="4" met="+-+--+-+-+-">otros siete después, llorando engaños.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-++--+---+-">Así guardan palabra los extraños:</l>
+     <l n="6" met="---+-+---+-">pero en efecto vive, y considera</l>
+     <l n="7" met="---+-++--+-">que la podré gozar antes que muera</l>
+     <l n="8" met="---+-+---+-">y que tuvieron término sus daños.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+---+-">Triste de mí, sin límite que mida</l>
+     <l n="10" met="-+-+---+-+-">lo que un engaño al sufrimiento cuesta,</l>
+     <l n="11" met="---+---+-+-">y sin remedio que el agravio pida.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--++---+-+-">Ay de aquel alma a padecer dispuesta,</l>
+     <l n="13" met="-+---+-+-+-">que espera su Raquel en la otra vida,</l>
+     <l n="14" met="-+-+---+-+-">y tiene a Lía para siempre en esta.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

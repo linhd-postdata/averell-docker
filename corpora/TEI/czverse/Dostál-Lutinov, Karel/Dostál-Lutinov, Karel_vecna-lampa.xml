@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>VĚČNÁ LAMPA</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_vecna-lampa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>VĚČNÁ LAMPA</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>VĚČNÁ LAMPA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010010" line_length="7">Věčná lampa se zmítá</l>
+     <l n="2" met="100" rhyme="1" line_length="3">pochybou</l>
+     <l n="3" met="101001" rhyme="1" line_length="6">mezi světlem a tmou.</l>
+     <l n="4" met="1010010" rhyme="2" line_length="7">Klečím v chrámě sám a sám,</l>
+     <l n="5" met="1000101" rhyme="2" line_length="7">v svatostánku oči mám:</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="1010" rhyme="2" line_length="4">Kriste, jsi tam?</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="1010100" line_length="7">Oko Tebe nevidí,</l>
+     <l n="8" met="1010100" line_length="7">ucho Tebe neslyší,</l>
+     <l n="9" met="10100010" line_length="8">srdce nevěřit se bojí...</l>
+     <l n="10" met="1010010" rhyme="3" line_length="7">Věčné světlo se zmítá</l>
+     <l n="11" met="100" rhyme="4" line_length="3">pochybou,</l>
+     <l n="12" met="1001010" rhyme="3" line_length="7">hasne a zase svítá</l>
+     <l n="13" met="100" rhyme="4" line_length="3">s duší mou!...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

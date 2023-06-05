@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jaro.</title>
+    <author>Lošťák, Ludvík</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">18</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lošťák, Ludvík_jaro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jaro.</title>
+     <author>Lošťák, Ludvík</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jaro.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010" line_length="9">Ty dobo písní, snův a lásky,</l>
+     <l n="2" met="01000100" rhyme="1" line_length="8">jež z neznáma k nám přilétáš,</l>
+     <l n="3" met="110101010" line_length="9">rci, proč tak brzy z našich krajin</l>
+     <l n="4" met="10010101" rhyme="1" line_length="8">v neznámý svět se opět dáš?</l>
+     <l n="5" met="010001010" rhyme="2" line_length="9">proč opouštíš to nitro chudé,</l>
+     <l n="6" met="01000101010" rhyme="2" line_length="11">v němž bez tebe jen věčný smutek bude?!</l>
+    </lg>
+    <lg n="2">
+     <l n="7" met="100010110" line_length="9">O rci mně jen, proč se rtů tvojích</l>
+     <l n="8" met="10010101" rhyme="3" line_length="8">na všechno klesá bílý květ,</l>
+     <l n="9" met="010101010" line_length="9">když v brzkém čase z květu všeho</l>
+     <l n="10" met="01010100" rhyme="3" line_length="8">jen zbude smutná, mrtvá snět?</l>
+     <l n="11" met="010101010" rhyme="4" line_length="9">Proč budíš z nitra lásky vzdechy,</l>
+     <l n="12" met="01000101000" rhyme="4" line_length="11">když srdce pak je věčně bez útěchy?!</l>
+    </lg>
+    <lg n="3">
+     <l n="13" met="010101010" line_length="9">Však marně myslit, marně ptát se,</l>
+     <l n="14" met="10010100" rhyme="5" line_length="8">skutečnost slova nezmění,</l>
+     <l n="15" met="010001010" line_length="9">zpět nepřivábí prchlé doby,</l>
+     <l n="16" met="10010100" rhyme="5" line_length="8">neztiší srdce rozchvění, –</l>
+     <l n="17" met="100101010" rhyme="6" line_length="9">a proč si jarem trpčit chvíle? –</l>
+     <l n="18" met="01010101010" rhyme="6" line_length="11">Vždyť, jako květ, jsou také sněhy bílé!...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

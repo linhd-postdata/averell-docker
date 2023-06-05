@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les Syrtes</title>
+    <author>Jean Moréas</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jean Moréas_les-syrtes</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Les Syrtes</title>
+     <author>Jean Moréas</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Les Syrtes</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Être serein ainsi qu'un roc inaccessible,</l>
+     <l n="2" rhyme="b" line_length="6+6">Sans souci de chercher l'oubli de ses pensées ;</l>
+     <l n="3" rhyme="b" line_length="6+6">L'âme close aux sanglots des lyres cadencées,</l>
+     <l n="4" rhyme="a" line_length="6+6">Aux rêves hasardeux ne pas servir de cible.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Aux ors incandescents des trésors des Palmyres,</l>
+     <l n="6" rhyme="b" line_length="6+6">Aux perles des Ophirs — aveugles ses prunelles ;</l>
+     <l n="7" rhyme="b" line_length="6+6">La vertèbre rétive aux visions charnelles</l>
+     <l n="8" rhyme="a" line_length="6+6">Éparses dans l'odeur énervante des myrrhes.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">Le temps pétrifié sur les feuillets du livre ;</l>
+     <l n="10" rhyme="b" line_length="6+6">Le ciel du cœur uni comme un métal ; sans rides,</l>
+     <l n="11" rhyme="b" line_length="6+6">Ô sensibilité, tes surfaces virides ;</l>
+     <l n="12" rhyme="a" line_length="4+4+4">L'aube pareille au crépuscule : ô ne pas vivre !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

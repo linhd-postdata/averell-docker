@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Říjen.</title>
+    <author>Čech, Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čech, Svatopluk_rijen</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Říjen.</title>
+     <author>Čech, Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Říjen.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010" line_length="8">Žlutí a rumělkou říjen</l>
+     <l n="2" met="10010010" rhyme="1" line_length="8">maluje pustnoucí lesy –</l>
+     <l n="3" met="10010110" line_length="8">s paletou květnou, ó jaro,</l>
+     <l n="4" met="10110010" rhyme="1" line_length="8">s duhou snů, mladosti, kde jsi?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

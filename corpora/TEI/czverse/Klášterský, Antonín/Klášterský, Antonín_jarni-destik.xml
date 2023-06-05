@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jarní deštík.</title>
+    <author>Klášterský, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Klášterský, Antonín_jarni-destik</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jarní deštík.</title>
+     <author>Klášterský, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jarní deštík.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" rhyme="1" line_length="11">Ne klidný deštík z jara s nebe padá,</l>
+     <l n="2" met="01010100110" rhyme="1" line_length="11">by zkypřil drn, a rozkvetla sněť mladá.</l>
+    </lg>
+    <lg n="2">
+     <l n="3" met="01000100010" rhyme="2" line_length="11">Víc klesá tam, kde cypřiš jest a akat:</l>
+     <l n="4" met="01001101010" rhyme="2" line_length="11">to na hroby jde samo nebe plakat.</l>
+    </lg>
+    <lg n="3">
+     <l n="5" met="11010101010" rhyme="3" line_length="11">Jde na hrob starců, dětí na rov malý,</l>
+     <l n="6" met="10010101000" rhyme="3" line_length="11">pro něž se žádné oko nezakalí;</l>
+    </lg>
+    <lg n="4">
+     <l n="7" met="01010101000" rhyme="4" line_length="11">jimž nikdo nedá slz ni modlitbičky,</l>
+     <l n="8" met="01010001000" rhyme="4" line_length="11">již sami, sami vždy i o dušičky.</l>
+    </lg>
+    <lg n="5">
+     <l n="9" met="11000100010" rhyme="5" line_length="11">Jde na hrob těch, již ku zídce se tulí,</l>
+     <l n="10" met="01010101010" rhyme="5" line_length="11">již klesli jedem, dykou, lanem, kulí.</l>
+    </lg>
+    <lg n="6">
+     <l n="11" met="01010101000" rhyme="6" line_length="11">A kolik v světě širém v rovu je jich,</l>
+     <l n="12" met="01000101000" rhyme="6" line_length="11">to spočítej si deštných na krůpějích!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

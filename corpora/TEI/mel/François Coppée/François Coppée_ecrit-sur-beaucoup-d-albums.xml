@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Écrit sur beaucoup d'Albums</title>
+    <author>François Coppée</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>François Coppée_ecrit-sur-beaucoup-d-albums</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Écrit sur beaucoup d'Albums</title>
+     <author>François Coppée</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Écrit sur beaucoup d'Albums</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">Donnez, l'homme est presque divin</l>
+     <l n="2" rhyme="b" line_length="8">Qui, n'ayant dit non à personne,</l>
+     <l n="3" rhyme="b" line_length="8">A froid, quand le pauvre frissonne,</l>
+     <l n="4" rhyme="a" line_length="8">Et défaille, quand il a faim.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">Donnez sans espoir qu'on vous rende,</l>
+     <l n="6" rhyme="b" line_length="8">Donnez sans savoir qui reçoit.</l>
+     <l n="7" rhyme="b" line_length="8">Le plus noble geste qui soit,</l>
+     <l n="8" rhyme="a" line_length="8">C'est d'ouvrir la main toute grande.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

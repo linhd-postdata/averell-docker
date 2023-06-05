@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mé písně.</title>
+    <author>Crha, Václav Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Crha, Václav Antonín_me-pisne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mé písně.</title>
+     <author>Crha, Václav Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mé písně.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101010" line_length="8">Když mi v lůně drahé vlasti</l>
+     <l n="2" met="1010100" rhyme="1" line_length="7">blahé jitro svítalo,</l>
+     <l n="3" met="10100010" line_length="8">kouzlo vlastenských mne písní</l>
+     <l n="4" met="1000100" rhyme="1" line_length="7">do života vítalo.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10011010" line_length="8">Údolem zněl nápěv touhy</l>
+     <l n="6" met="0100101" rhyme="2" line_length="7">a na stráních písně děv,</l>
+     <l n="7" met="10001010" line_length="8">z útroby pak mužů českých</l>
+     <l n="8" met="1010101" rhyme="2" line_length="7">mnohý mocný slávy zpěv.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101000" line_length="8">Proto cítím v útrobě své</l>
+     <l n="10" met="1010100" rhyme="3" line_length="7">touhu jakous zděděnou:</l>
+     <l n="11" met="10100010" line_length="8">proto písně mé jsou tichou</l>
+     <l n="12" met="1010100" rhyme="3" line_length="7">písní vlasti ozvěnou.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

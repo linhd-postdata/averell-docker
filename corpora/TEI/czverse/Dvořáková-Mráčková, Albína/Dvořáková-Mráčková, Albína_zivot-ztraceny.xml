@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Život ztracený.</title>
+    <author>Dvořáková-Mráčková, Albína</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dvořáková-Mráčková, Albína_zivot-ztraceny</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Život ztracený.</title>
+     <author>Dvořáková-Mráčková, Albína</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Život ztracený.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010100" rhyme="1" line_length="8">Zanikl zdroj mi slzí již,</l>
+     <l n="2" met="01000100" rhyme="2" line_length="8">jen suchý pal mi ve očích,</l>
+     <l n="3" met="01000100" rhyme="1" line_length="8">a na prsou mých dusná tíž,</l>
+     <l n="4" met="01010101" rhyme="2" line_length="8">a kolem rtů mi trpký smích.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010100" rhyme="3" line_length="8">Obrazů divných, míhavých</l>
+     <l n="6" met="10001100" rhyme="4" line_length="8">ve mysli mé roj zmatený,</l>
+     <l n="7" met="01000100" rhyme="3" line_length="8">a z vidin mi těch mlhavých</l>
+     <l n="8" met="01010100" rhyme="4" line_length="8">jen jasno – život ztracený.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

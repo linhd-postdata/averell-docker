@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>O králi můj!</title>
+    <author>Kalus, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kalus, Josef_o-krali-muj</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>O králi můj!</title>
+     <author>Kalus, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>O králi můj!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10000100" rhyme="1" line_length="8">O králi můj, tys otrokem,</l>
+     <l n="2" met="01000100" rhyme="2" line_length="8">ač oděli tě v zlatoháv,</l>
+     <l n="3" met="01000100" rhyme="1" line_length="8">a na trůnu svém vysokém</l>
+     <l n="4" met="10010011" rhyme="2" line_length="8">za podnož na tisíc máš hlav,</l>
+     <l n="5" met="10010100" rhyme="3" line_length="8">vojskem a děly chráněny,</l>
+     <l n="6" met="01010100" rhyme="3" line_length="8">ač hněvu svého plameny</l>
+     <l n="7" met="01010100" rhyme="1" line_length="8">hned hasíš krve potokem –</l>
+     <l n="8" met="01010100" rhyme="1" line_length="8">můj králi, tys přec otrokem!</l>
+    </lg>
+    <lg n="2">
+     <l n="9" met="10000100" rhyme="4" line_length="8">Pod korunou a v šarlatě</l>
+     <l n="10" met="01010100" rhyme="5" line_length="8">se nikdy štěstí neskrývá,</l>
+     <l n="11" met="01000100" rhyme="4" line_length="8">jen v chuďasově komnatě</l>
+     <l n="12" met="10010100" rhyme="5" line_length="8">od věků slavně trůnívá,</l>
+     <l n="13" met="01010100" rhyme="6" line_length="8">a v plný květ se rozvije;</l>
+     <l n="14" met="11010100" rhyme="6" line_length="8">hle, tam tvůj otrok šťastný je,</l>
+     <l n="15" met="10010100" rhyme="4" line_length="8">přioděn hadry bohatě –</l>
+     <l n="16" met="01000100" rhyme="4" line_length="8">Ty žebrákem jsi v šarlatě!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

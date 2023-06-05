@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CVII</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_cvii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CVII</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CVII</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="7">Je suis comme dans un cloître ;</l>
+     <l n="2" rhyme="b" line_length="7">On dit de moi : « D'où vient-il ? »</l>
+     <l n="3" rhyme="a" line_length="7">Je sens à chaque heure croître</l>
+     <l n="4" rhyme="b" line_length="7">Le froid profond de l'exil ;</l>
+     <l n="5" rhyme="c" line_length="7">Je ne vois plus ma patrie ;</l>
+     <l n="6" rhyme="c" line_length="7">Toute ma joie est flétrie ;</l>
+     <l n="7" rhyme="d" line_length="7">J'ai blanchi, vieil affligé ;</l>
+     <l n="8" rhyme="e" line_length="7">La tombe, amis, me réclame ;</l>
+     <l n="9" rhyme="e" line_length="7">Comme il gelait dans mon âme,</l>
+     <l n="10" rhyme="d" line_length="7">Sur ma tête il a neigé.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

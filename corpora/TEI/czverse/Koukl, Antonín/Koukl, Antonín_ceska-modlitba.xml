@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Česká modlitba.</title>
+    <author>Koukl, Antonín</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Koukl, Antonín_ceska-modlitba</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Česká modlitba.</title>
+     <author>Koukl, Antonín</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Česká modlitba.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000101010" line_length="11">Jen nedejte mi, bozi, vodou Lethe</l>
+     <l n="2" met="1001010" rhyme="1" line_length="7">po smrti paměť zmásti:</l>
+     <l n="3" met="11010100" rhyme="2" line_length="8">Čech, byť i stínem v podsvětí,</l>
+     <l n="4" met="1100010" rhyme="1" line_length="7">chce nepřátele vlasti</l>
+     <l n="5" met="11010100" rhyme="2" line_length="8">mít pořád v dobré paměti!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

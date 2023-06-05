@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XLIII</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_xliii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XLIII</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XLIII</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">L'épée est une fauve et sinistre, lionne ;</l>
+     <l n="2" rhyme="a" line_length="6+6">La tiare flamboie et la mitre rayonne,</l>
+     <l n="3" rhyme="b" line_length="8">Luit ; mais Dieu qui dans l'ombre ouvre et ferme les fosses,</l>
+     <l n="4" rhyme="c" line_length="6+6">Fait saisir et broyer toutes ces grandeurs fausses</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

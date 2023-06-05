@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ČÁPI.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_capi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ČÁPI.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ČÁPI.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">ČÁPI mají dlouhé nohy</l>
+     <l n="2" met="100010" rhyme="1" line_length="6">a to se jim hodí,</l>
+     <l n="3" met="10101000" line_length="8">aspoň sobě na močálech</l>
+     <l n="4" met="101000" rhyme="1" line_length="6">šaty neubrodí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01001000" line_length="8">A kdyby až ubrodili,</l>
+     <l n="6" met="100010" rhyme="2" line_length="6">spraví se to lehce,</l>
+     <l n="7" met="10001010" line_length="8">švadlena a švec a krejčí</l>
+     <l n="8" met="101010" rhyme="2" line_length="6">pranic od nich nechce.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="00101000" line_length="8">Však by čápi pro čapata</l>
+     <l n="10" met="100010" rhyme="3" line_length="6">také už to dali,</l>
+     <l n="11" met="10101000" line_length="8">ale v blátech na močálech</l>
+     <l n="12" met="000010" rhyme="3" line_length="6">kdež pak by co vzali!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

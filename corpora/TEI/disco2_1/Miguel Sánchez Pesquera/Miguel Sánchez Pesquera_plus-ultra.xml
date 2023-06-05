@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Plus ultra</title>
+    <author>Miguel Sánchez Pesquera</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Miguel Sánchez Pesquera_plus-ultra</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Plus ultra</title>
+     <author>Miguel Sánchez Pesquera</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Plus ultra</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-----+-+-+-">Cuando la inspiración fecunda y crea,</l>
+     <l n="2" met="-+-+-+---+-">y viste forma y ritmo al pensamiento,</l>
+     <l n="3" met="---+---+-+-">enamorada de su propio aliento,</l>
+     <l n="4" met="---+-+---+-">en su labor celeste se recrea.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+-+-+-">Mas el tiempo destruye la alta idea</l>
+     <l n="6" met="--++---+-+-">de su amor propio y de su vano intento;</l>
+     <l n="7" met="-++--+-+-+-">que no puede expresar humano acento</l>
+     <l n="8" met="+--+-+---+-">cuanto la mente indómita desea.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+-+++-">Desgana el verso inspírame y no encanto,</l>
+     <l n="10" met="-+-+---+-+-">y tedio ya, del corazón prescrito,</l>
+     <l n="11" met="--+-+--+-+-">el soñado ideal que amara tanto;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+---+-">y con desgana y tedio de lo escrito,</l>
+     <l n="13" met="-+-+---+-+-">el alma llena de mortal quebranto</l>
+     <l n="14" met="-+---+---+-">la sed de lo perfecto y infinito.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

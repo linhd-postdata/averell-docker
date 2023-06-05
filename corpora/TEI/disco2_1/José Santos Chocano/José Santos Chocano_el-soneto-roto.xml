@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El soneto roto</title>
+    <author>José Santos Chocano</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Santos Chocano_el-soneto-roto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El soneto roto</title>
+     <author>José Santos Chocano</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El soneto roto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+----+-+-">Parto yo este soneto para decir la pena</l>
+     <l n="2" met="-++-+---+--+-">que me trae tu muerte de cacique sonoro,</l>
+     <l n="3" met="--+--+---+-+-">cuya maza de roble, cuya flecha de oro</l>
+     <l n="4" met="+-+--+---+--+-">una voz despertaron que en mi lira resuena.</l>
+    </lg>
+    <lg n="2" stanza_type="unknown">
+     <l n="5" met="+-+--+----+-+-">Parto yo este soneto como ante sacra pira</l>
+     <l n="6" met="+--+-+----+-+-">una nerviosa rama, que, en la doliente escena,</l>
+     <l n="7" met="-+--+--+-++-">se arquea hasta que cruje rompiéndose de ira.</l>
+     <l n="8" met="-+---+----+-+-">Y así es como el soneto por el dolor partido</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+--+--++-">hace pensar que, en este momento que me inspira</l>
+     <l n="10" met="+----+----+-+-">pongo bajo la tuya mi septicorde lira,</l>
+     <l n="11" met="----++-++---+-">para que los dos tengan un único sonido.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-----+--+---+-">Nuestras dos liras juntan sus cánticos diversos</l>
+     <l n="13" met="+----+++--+-+-">y hacen que, al confundirse, pasen como un rugido</l>
+     <l n="14" met="---+-+-+--+-+-">por las catorce cuerdas de estos catorce versos.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mrtvoly.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_mrtvoly</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mrtvoly.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mrtvoly.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010100" rhyme="1" line_length="7">S bílým zima příkrovem</l>
+     <l n="2" met="101010" rhyme="2" line_length="6">k mrtvé zemi pílí,</l>
+     <l n="3" met="1010100" rhyme="1" line_length="7">a já v duchu domovem</l>
+     <l n="4" met="001010" rhyme="2" line_length="6">v té se toulám chvíli.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010101" rhyme="3" line_length="7">Smutné žalmy větrů sbor</l>
+     <l n="6" met="100010" rhyme="4" line_length="6">u mrtvoly zpívá,</l>
+     <l n="7" met="1010101" rhyme="3" line_length="7">jako u nás pokraj hor</l>
+     <l n="8" met="100010" rhyme="4" line_length="6">po vesnicích bývá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1010100" rhyme="5" line_length="7">Země, ty se probudíš</l>
+     <l n="10" met="101010" rhyme="6" line_length="6">s květy v klíně záhy!</l>
+     <l n="11" met="0000100" rhyme="5" line_length="7">Ne však ten, kdo nesen již</l>
+     <l n="12" met="100010" rhyme="6" line_length="6">přes domovské prahy.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1000101" rhyme="7" line_length="7">Přes takový rodný práh –</l>
+     <l n="14" met="101010" rhyme="8" line_length="6">ó té kruté zvěsti!</l>
+     <l n="15" met="1000100" rhyme="7" line_length="7">neseno je na horách</l>
+     <l n="16" met="001010" rhyme="8" line_length="6">též mé dětské štěstí! –</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

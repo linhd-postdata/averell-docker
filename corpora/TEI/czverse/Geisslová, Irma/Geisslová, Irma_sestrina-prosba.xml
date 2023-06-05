@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sestřina prosba.</title>
+    <author>Geisslová, Irma</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Geisslová, Irma_sestrina-prosba</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sestřina prosba.</title>
+     <author>Geisslová, Irma</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sestřina prosba.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">První hvězdy v modru planou,</l>
+     <l n="2" met="10101010" rhyme="1" line_length="8">rosné kapky v trávu kanou,</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">zvuky tklivé krajem vanou –</l>
+     <l n="4" met="10100" line_length="5">Ave Maria!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="2" line_length="8">Opět s vírou duše splývá –</l>
+     <l n="6" met="00101010" rhyme="2" line_length="8">že se Pánbůh na svět dívá,</l>
+     <l n="7" met="10101010" rhyme="2" line_length="8">opět duše Pannu vzývá:</l>
+     <l n="8" met="10100" line_length="5">Ave Maria!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" rhyme="3" line_length="8">Sestro, duch můj konec tuší,</l>
+     <l n="10" met="00101010" rhyme="3" line_length="8">smrť až moje žití zruší –</l>
+     <l n="11" met="10001010" rhyme="3" line_length="8">pomodli se za mou duši</l>
+     <l n="12" met="10100" line_length="5">Ave Maria!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

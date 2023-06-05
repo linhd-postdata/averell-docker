@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L'Aurore et Céphale</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_l-aurore-et-cephale</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L'Aurore et Céphale</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L'Aurore et Céphale</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Il s'est enfui, le doux, le bienfaisant sommeil.</l>
+     <l n="2" rhyme="b" line_length="6+6">C'est l'heure où la rosée en larmes s'évapore,</l>
+     <l n="3" rhyme="b" line_length="6+6">Et, frémissants du jour qui ne naît pas encore,</l>
+     <l n="4" rhyme="a" line_length="6+6">Hennissent au lointain les chevaux du Soleil.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">La Déesse frissonne, à son brillant réveil.</l>
+     <l n="6" rhyme="b" line_length="6+6">Comme une fleur de pourpre on voit sa lèvre éclore,</l>
+     <l n="7" rhyme="b" line_length="6+6">Et Céphale, à genoux, s'enivre de l'Aurore</l>
+     <l n="8" rhyme="a" line_length="6+6">Et de sa bouche en flamme et de son front vermeil.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Lentement embrasés par leurs apothéoses,</l>
+     <l n="10" rhyme="c" line_length="6+6">Les cieux d'or sont jonchés d'opales et de roses,</l>
+     <l n="11" rhyme="d" line_length="6+6">Et de sanglants rubis et de clairs diamants.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Et l'Aurore superbe, heureuse, triomphale,</l>
+     <l n="13" rhyme="d" line_length="6+6">Nue et rose parmi les éblouissements,</l>
+     <l n="14" rhyme="e" line_length="6+6">Se regarde rougir dans les yeux de Céphale.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

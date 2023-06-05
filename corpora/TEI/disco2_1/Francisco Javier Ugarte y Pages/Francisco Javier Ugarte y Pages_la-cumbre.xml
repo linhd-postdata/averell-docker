@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La cumbre</title>
+    <author>Francisco Javier Ugarte y Pages</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco Javier Ugarte y Pages_la-cumbre</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La cumbre</title>
+     <author>Francisco Javier Ugarte y Pages</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La cumbre</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">A triunfar de continuo acostumbrado,</l>
+     <l n="2" met="-++--+-+-+-">decía un luchador jamás vencido,</l>
+     <l n="3" met="+-+--+++-+-">aun la causa explicarme no he podido</l>
+     <l n="4" met="---+-+---+-">de mi primer desastre inesperado.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">Nada abatió mi espíritu esforzado</l>
+     <l n="6" met="--+--+---+-">por la envidia y la injuria combatido...</l>
+     <l n="7" met="-+--+--+-+-">Y al fin, para caer como he caído,</l>
+     <l n="8" met="++--+-++-+-">un mohín de la suerte me ha bastado.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">-Eleva, le repuse, la mirada</l>
+     <l n="10" met="-+-+---+-+-">a la alta cumbre, en el azul perdida</l>
+     <l n="11" met="--+--+---+-">de la etérea región inexplorada...</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+---+-+-">Y advertirás, al restañar la herida,</l>
+     <l n="13" met="+++--+---+-">que es tan rápida y fácil la bajada,</l>
+     <l n="14" met="--+--+---+-">como lenta y penosa la subida.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

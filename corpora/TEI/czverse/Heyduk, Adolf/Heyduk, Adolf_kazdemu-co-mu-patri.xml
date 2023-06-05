@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Každému, co mu patří.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_kazdemu-co-mu-patri</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Každému, co mu patří.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Každému, co mu patří.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010011010" rhyme="1" line_length="12">Plné růže v sadě a mák v poli rudý</l>
+     <l n="2" met="100010101010" rhyme="1" line_length="12">pro děvčata jenom rostou vůkol všudy;</l>
+     <l n="3" met="1000100010" rhyme="2" line_length="10">pro hochy, již po krčmách se hostí,</l>
+     <l n="4" met="1000100010" rhyme="2" line_length="10">blatouchův a hluchavek je dosti.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1000100010" rhyme="3" line_length="10">Hospodské kdo vymetá jen kouty,</l>
+     <l n="6" met="1010001010" rhyme="3" line_length="10">neměj rozmaríny ani routy;</l>
+     <l n="7" met="1010001010" rhyme="4" line_length="10">komu dýmka víc než kvítí voní,</l>
+     <l n="8" met="1001101000" rhyme="4" line_length="10">pro toho slz dívka neuroní.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

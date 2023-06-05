@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Marguerite d'Écosse</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_marguerite-d-ecosse</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Marguerite d'Écosse</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Marguerite d'Écosse</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Marguerite d'Écosse, aux yeux pleins de lumière,</l>
+     <l n="2" rhyme="b" line_length="6+6">A de douces lueurs sur son visage altier ;</l>
+     <l n="3" rhyme="b" line_length="6+6">Bien souvent on la voit tendre vers l'argentier</l>
+     <l n="4" rhyme="a" line_length="6+6">Sa blanche main, de tous les bienfaits coutumière.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Avec toute la cour et marchant la première,</l>
+     <l n="6" rhyme="b" line_length="6+6">La Dauphine, qui sait l'honneur du gai métier,</l>
+     <l n="7" rhyme="b" line_length="6+6">Passe par une salle où dort Alain Chartier</l>
+     <l n="8" rhyme="a" line_length="6+6">Comme un bon paysan ferait dans sa chaumière.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Alors d'une charmante et gracieuse humeur,</l>
+     <l n="10" rhyme="c" line_length="6+6">Voilà qu'elle se penche et baise le rhythmeur,</l>
+     <l n="11" rhyme="d" line_length="6+6">Encor qu'il soit d'un air fantastique et bizarre</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="6+6">Et quelque peu tortu comme les vieux lauriers,</l>
+     <l n="13" rhyme="d" line_length="6+6">Car il messiérait fort de se montrer avare</l>
+     <l n="14" rhyme="e" line_length="6+6">Pour payer l'art subtil de tels bons ouvriers.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

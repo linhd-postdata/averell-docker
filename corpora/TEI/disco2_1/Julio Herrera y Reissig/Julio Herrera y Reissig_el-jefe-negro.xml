@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>El jefe negro</title>
+    <author>Julio Herrera y Reissig</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Julio Herrera y Reissig_el-jefe-negro</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>El jefe negro</title>
+     <author>Julio Herrera y Reissig</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>El jefe negro</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="--+--+-+---+-">Temerario y agudo y diestro entre los diestros,</l>
+     <l n="2" met="-+-+-+--+---+-">el jefe negro empuña su indómita mesnada;</l>
+     <l n="3" met="-----+--+---+-">y en pos de bendiciones o al son de padrenuestros,</l>
+     <l n="4" met="-+---+--+---+-">desata las guerrillas y asorda la emboscada.</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="-+---+---+--+-">Comulgan en alforjas con los bandos siniestros</l>
+     <l n="6" met="-+---+------+-">el cáliz, y con chumbos la Custodia Sagrada.</l>
+     <l n="7" met="+-+------+--+-">Cantan misas en medio de los bosques ancestros,</l>
+     <l n="8" met="--+--+-+----+-">y del santo respondo pasa a la cuchillada.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+---+----+-+">Espeluznan en su neutra virilidad de eunuco...</l>
+     <l n="10" met="--+--+-+-+--+-">el rosario enroscado y un enorme trabuco...</l>
+     <l n="11" met="-+++-+---+--++">¡Oh, buen león! Apenas bate el hierro inhumano,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+--+-">para orar por el alma del vencido se vuelve:</l>
+     <l n="13" met="---+-+---+--+-">el enemigo pronto se convierte en hermano,</l>
+     <l n="14" met="--+--++-+--+-">¡y la mano que mata es la mano que absuelve!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ALLÉGORIE</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_allegorie</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ALLÉGORIE</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ALLÉGORIE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+6">UN très vieux temple antique s’écroulant</l>
+     <l n="2" rhyme="b" line_length="4+6">Sur le sommet indécis d’un mont jaune,</l>
+     <l n="3" rhyme="b" line_length="4+6">Ainsi qu’un roi déchu pleurant son trône ;</l>
+     <l n="4" rhyme="a" line_length="4+6">Se mire, pâle, au tain d’un fleuve lent ;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="4+6">Grâce endormie et regard somnolent,</l>
+     <l n="6" rhyme="b" line_length="4+6">Une naïde âgée, auprès d’une aulne,</l>
+     <l n="7" rhyme="b" line_length="4+6">Avec un brin de saule agace un faune</l>
+     <l n="8" rhyme="a" line_length="4+6">Qui lui sourit, bucolique et, galant.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="4+6">Sujet naïf et fade qui m’attristes,</l>
+     <l n="10" rhyme="c" line_length="4+6">Dis, quel poète entre tous les artistes,</l>
+     <l n="11" rhyme="d" line_length="4+6">Quel ouvrier morose t’opéra,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="e" line_length="4+6">Tapisserie usée et surannée,</l>
+     <l n="13" rhyme="d" line_length="4+6">Banale comme un décor d’opéra,</l>
+     <l n="14" rhyme="e" line_length="4+6">Factice, hélas ! comme ma destinée ?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Mlle EVELINE</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_a-mlle-eveline</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Mlle EVELINE</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Mlle EVELINE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="0" line_length="7">ÉVELINE , mais c’est Ève</l>
+     <l n="2" rhyme="1" line_length="7">En miniature et c’est</l>
+     <l n="3" rhyme="0" line_length="7">Tout le charme et tout le rêve</l>
+     <l n="4" rhyme="2" line_length="7">Que notre esprit caressait</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="2" line_length="7">Quand naguère il s’agissait</l>
+     <l n="6" rhyme="0" line_length="7">Encore d’enfance brève</l>
+     <l n="7" rhyme="2" line_length="7">Qui grandit et grandissait</l>
+     <l n="8" rhyme="0" line_length="7">Dans la femme qui s’achève.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="2" line_length="7">Mais où va donc mon Sonnet ?</l>
+     <l n="10" rhyme="3" line_length="7">Vous êtes toute mignonne</l>
+     <l n="11" rhyme="3" line_length="7">Et l’âge en fleurs vous couronne.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="2" line_length="7">Votre âge gai ne connaît</l>
+     <l n="13" rhyme="4" line_length="7">Que l’innocence divine…</l>
+     <l n="14" rhyme="4" line_length="7">Riez, petite Éveline !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

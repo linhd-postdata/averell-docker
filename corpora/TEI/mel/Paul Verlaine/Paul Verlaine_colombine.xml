@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Colombine</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">6</measure>
+    <measure unit="line">24</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_colombine</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Colombine</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Colombine</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="5">Léandre le sot,</l>
+     <l n="2" rhyme="a" line_length="5">Pierrot qui d’un saut</l>
+     <l n="3" rhyme="b" line_length="2">Franchit le buisson,</l>
+     <l n="4" rhyme="c" line_length="5">Cassandre sous son</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="5">Arlequin aussi,</l>
+     <l n="6" rhyme="a" line_length="5">Cet aigrefin si</l>
+     <l n="7" rhyme="b" line_length="2">Aux costumes fous,</l>
+     <l n="8" rhyme="c" line_length="5">Ses yeux luisants sous</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="5">— Do, mi, sol, mi, fa, —</l>
+     <l n="10" rhyme="a" line_length="5">Tout ce monde va,</l>
+     <l n="11" rhyme="b" line_length="2">Et danse devant</l>
+     <l n="12" rhyme="c" line_length="5">Une belle enfant</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="5">Dont les yeux pervers</l>
+     <l n="14" rhyme="a" line_length="5">Comme les yeux verts</l>
+     <l n="15" rhyme="b" line_length="2">Gardent ses appas</l>
+     <l n="16" rhyme="c" line_length="5">Et disent : « A bas</l>
+    </lg>
+    <lg n="5">
+     <l n="17" rhyme="a" line_length="5">— Eux ils vont toujours ! —</l>
+     <l n="18" rhyme="a" line_length="5">Fatidique cours</l>
+     <l n="19" rhyme="b" line_length="2">Oh ! dis-moi vers quels</l>
+     <l n="20" rhyme="c" line_length="5">Mornes ou cruels</l>
+    </lg>
+    <lg n="6">
+     <l n="21" rhyme="a" line_length="5">L’implacable enfant,</l>
+     <l n="22" rhyme="a" line_length="5">Preste et relevant</l>
+     <l n="23" rhyme="b" line_length="2">La rose au chapeau,</l>
+     <l n="24" rhyme="c" line_length="5">Conduit son troupeau</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

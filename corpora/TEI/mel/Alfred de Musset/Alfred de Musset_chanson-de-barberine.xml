@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CHANSON DE BARBERINE</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_chanson-de-barberine</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CHANSON DE BARBERINE</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CHANSON DE BARBERINE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="4+6">Beau chevalier qui parlez pour la guerre,</l>
+     <l n="2" rhyme="a" line_length="4">Voyez-vous pas que la nuit est profonde,</l>
+    </lg>
+    <lg n="2">
+     <l n="3" rhyme="a" line_length="4+6">Vous qui croyez qu'une amour délaissée</l>
+     <l n="4" rhyme="a" line_length="4">Hélas ! hélas ! chercheurs de renommée,</l>
+    </lg>
+    <lg n="3">
+     <l n="5" rhyme="a" line_length="4+6">Beau chevalier qui partez pour la guerre,</l>
+     <l n="6" rhyme="a" line_length="4">J'en vais pleurer, moi qui me laissais dire</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

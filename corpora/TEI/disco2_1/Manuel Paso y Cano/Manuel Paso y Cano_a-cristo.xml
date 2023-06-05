@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A Cristo</title>
+    <author>Manuel Paso y Cano</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel Paso y Cano_a-cristo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A Cristo</title>
+     <author>Manuel Paso y Cano</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A Cristo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="++---+---+-">Te llaman la miseria y los pesares,</l>
+     <l n="2" met="+--+-+---+-">hambre que gime, cólera que estalla,</l>
+     <l n="3" met="--+--+---+-">y en el fiero trajín de la batalla</l>
+     <l n="4" met="-+---+---+-">tus hijos que se matan a millares.</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="-+---+---+-">Oficia la mentira en tus altares</l>
+     <l n="6" met="--+--+---+-">y gobierna a tu pueblo la canalla;</l>
+     <l n="7" met="-+---+---+-">rugiendo por las tierras y los mares,</l>
+     <l n="8" met="+--+-+---+-">oye, si no, la voz de la metralla.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-+-+-+-">La dinamita a gritos te ha llamado.</l>
+     <l n="10" met="+-+--++--+-">¡Nada hiciste al morir! grita iracundo,</l>
+     <l n="11" met="+-+--+---+-">este mundo irredente y desquiciado,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+--+---+-+-">quiere tu sangre, manantial fecundo,</l>
+     <l n="13" met="++-+-+---+-">baja otra vez a ser crucificado,</l>
+     <l n="14" met="+--+---+-+-">¡vuelve, Señor, a redimir el mundo.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

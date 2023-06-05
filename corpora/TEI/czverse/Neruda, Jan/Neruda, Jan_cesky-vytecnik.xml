@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ČESKÝ VÝTEČNÍK</title>
+    <author>Neruda, Jan</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neruda, Jan_cesky-vytecnik</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ČESKÝ VÝTEČNÍK</title>
+     <author>Neruda, Jan</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ČESKÝ VÝTEČNÍK</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11000101010" rhyme="1" line_length="11">Hle – přemýšlí! A kývá klidně hlavou.</l>
+     <l n="2" met="01000010010" rhyme="1" line_length="11">Je spokojen s tou svou po Čechách slávou.</l>
+     <l n="3" met="01010101010" rhyme="2" line_length="11">Však jedna věc ho přece druhdy hněte,</l>
+     <l n="4" met="0100010" rhyme="3" line_length="7">ba chytá ho až křečí:</l>
+     <l n="5" met="0100010101010" rhyme="2" line_length="13">že Bileamův osel proslul v celém světě,</l>
+     <l n="6" met="0101010" rhyme="3" line_length="7">a také jenom řečí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

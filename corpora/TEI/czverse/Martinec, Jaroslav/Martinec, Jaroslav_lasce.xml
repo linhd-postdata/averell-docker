@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Lásce.</title>
+    <author>Martinec, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Martinec, Jaroslav_lasce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Lásce.</title>
+     <author>Martinec, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Lásce.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">V klamu často více blaha,</l>
+     <l n="2" met="0010100" rhyme="2" line_length="7">než-li v pravdě spočívá;</l>
+     <l n="3" met="10001000" rhyme="1" line_length="8">a kdo tím se zapřísahá,</l>
+     <l n="4" met="1010100" rhyme="2" line_length="7">špatnou píseň nezpívá.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="3" line_length="8">Lásko! klame velkých duší,</l>
+     <l n="6" met="1010100" rhyme="4" line_length="7">zpěvných věštců přelude!</l>
+     <l n="7" met="10100010" rhyme="3" line_length="8">Tvoje chrámy až se zruší,</l>
+     <l n="8" met="1010100" rhyme="4" line_length="7">žádné víry nebude!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

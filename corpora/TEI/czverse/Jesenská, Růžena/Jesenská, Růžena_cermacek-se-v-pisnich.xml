@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Čermáček se v písních...</title>
+    <author>Jesenská, Růžena</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jesenská, Růžena_cermacek-se-v-pisnich</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Čermáček se v písních...</title>
+     <author>Jesenská, Růžena</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Čermáček se v písních...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" line_length="6">Čermáček se v písních</l>
+     <l n="2" met="101010" rhyme="1" line_length="6">nad mou hlavou směje,</l>
+     <l n="3" met="100110" line_length="6">neví, jak má duše</l>
+     <l n="4" met="100010" rhyme="1" line_length="6">o tebe se chvěje.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100010" line_length="6">Slunéčko tak vlídně</l>
+     <l n="6" met="101010" rhyme="2" line_length="6">okem po mně blýská,</l>
+     <l n="7" met="101010" line_length="6">neví, jak mé duši –</l>
+     <l n="8" met="100010" rhyme="2" line_length="6">po tobě se stýská.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="101010" line_length="6">S větve bledý kvítek</l>
+     <l n="10" met="101010" rhyme="3" line_length="6">dolů ke mně padá,</l>
+     <l n="11" met="100110" line_length="6">neví, jak má duše</l>
+     <l n="12" met="101010" rhyme="3" line_length="6">k tobě letí ráda.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="101000" line_length="6">Jaro posílá mi</l>
+     <l n="14" met="100010" rhyme="4" line_length="6">pozdravy své vonné,</l>
+     <l n="15" met="100110" line_length="6">neví, že má duše</l>
+     <l n="16" met="101010" rhyme="4" line_length="6">jenom ve tvé tone!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

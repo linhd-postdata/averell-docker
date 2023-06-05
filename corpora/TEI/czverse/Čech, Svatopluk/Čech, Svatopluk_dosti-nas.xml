@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Dosti nás.</title>
+    <author>Čech, Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Čech, Svatopluk_dosti-nas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Dosti nás.</title>
+     <author>Čech, Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Dosti nás.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" rhyme="1" line_length="11">Jsme slabí, malí – Dosti těchto řečí!</l>
+     <l n="2" met="0101010100" rhyme="2" line_length="10">Jen, kdo tak zoufá, sláb a malý jest.</l>
+     <l n="3" met="01010101010" rhyme="1" line_length="11">Oč byla Hellas, byla Róma větší,</l>
+     <l n="4" met="0101000101" rhyme="2" line_length="10">než skrání nesmrtnou se dotkla hvězd?</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010101010" rhyme="3" line_length="11">Jak směšné byly našich předků cepy,</l>
+     <l n="6" met="0101010100" rhyme="4" line_length="10">když celý svět se zdvihl proti nim,</l>
+     <l n="7" met="01110101010" rhyme="3" line_length="11">a hle! svět celý zdrtil vůdce slepý</l>
+     <l n="8" met="0100010101" rhyme="4" line_length="10">a Táboru se klonil věčný Řím.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010101000" rhyme="5" line_length="11">Jen v srdce zápal, chrabrost bohatýrů</l>
+     <l n="10" met="0101010001" rhyme="6" line_length="10">a budem vojsko netušených sil!</l>
+     <l n="11" met="11000101010" rhyme="5" line_length="11">Sláb jenom ten, kdo ztratil v sebe víru,</l>
+     <l n="12" met="0100010101" rhyme="6" line_length="10">a malým ten, kdo zná jen malý cíl.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

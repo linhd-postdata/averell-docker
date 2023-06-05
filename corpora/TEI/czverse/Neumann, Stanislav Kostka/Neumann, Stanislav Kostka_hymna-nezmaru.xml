@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>HYMNA NEZMARŮ</title>
+    <author>Neumann, Stanislav Kostka</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neumann, Stanislav Kostka_hymna-nezmaru</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>HYMNA NEZMARŮ</title>
+     <author>Neumann, Stanislav Kostka</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>HYMNA NEZMARŮ</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10000010010" rhyme="1" line_length="11">Nepotřebujeme cizího bejlí,</l>
+     <l n="2" met="10000100" rhyme="2" line_length="8">Mussoliniho, Hitlera.</l>
+     <l n="3" met="1001000010" rhyme="1" line_length="10">Pro naše československé hejly</l>
+     <l n="4" met="10010100" rhyme="2" line_length="8">není tu žádná mezera.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100001000" rhyme="3" line_length="9">Bez povyku a revoluce</l>
+     <l n="6" met="10010100" rhyme="4" line_length="8">kráčíme s duchem doby vpřed</l>
+     <l n="7" met="010101010" rhyme="3" line_length="9">a naše vezdy čisté ruce</l>
+     <l n="8" met="100100100" rhyme="4" line_length="9">nebudou ani teď zahálet.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="1001010010" rhyme="5" line_length="10">Není už levých, není už pravých,</l>
+     <l n="10" met="10010100" rhyme="6" line_length="8">hlásá nám Václav na houni.</l>
+     <l n="11" met="1001001010" rhyme="5" line_length="10">Není už bezzubých ani dravých.</l>
+     <l n="12" met="00010100" rhyme="6" line_length="8">Jsou už jen nársoc fašouni.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

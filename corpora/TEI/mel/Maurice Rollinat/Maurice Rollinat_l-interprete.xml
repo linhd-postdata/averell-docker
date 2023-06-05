@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>L'Interprète</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_l-interprete</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>L'Interprète</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>L'Interprète</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">L'inclinaison de ce vieux saule</l>
+     <l n="2" rhyme="b" line_length="8">Sur le vieil étang soucieux</l>
+     <l n="3" rhyme="a" line_length="8">Que pas une brise ne frôle,</l>
+     <l n="4" rhyme="b" line_length="8">A quelque chose de pieux.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="8">Et l'on dirait que chaque feuille,</l>
+     <l n="6" rhyme="d" line_length="8">Ayant cessé son trémolo,</l>
+     <l n="7" rhyme="d" line_length="8">Pompe le mystère de l'eau</l>
+     <l n="8" rhyme="c" line_length="8">Et dévotement se recueille.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="e" line_length="8">Or, soudain, y perchant son vol,</l>
+     <l n="10" rhyme="e" line_length="8">Voici qu'un petit rossignol,</l>
+     <l n="11" rhyme="f" line_length="8">Tendre interprète d'aventure,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="g" line_length="8">Pour l'arbre adresse à l'Inconnu,</l>
+     <l n="13" rhyme="g" line_length="8">Dans un lamento soutenu,</l>
+     <l n="14" rhyme="f" line_length="8">La prière de la Nature !</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

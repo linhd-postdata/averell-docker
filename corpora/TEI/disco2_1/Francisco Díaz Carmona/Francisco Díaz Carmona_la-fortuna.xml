@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La fortuna</title>
+    <author>Francisco Díaz Carmona</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Francisco Díaz Carmona_la-fortuna</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La fortuna</title>
+     <author>Francisco Díaz Carmona</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La fortuna</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--++--+-">Jugadora de azar es la fortuna</l>
+     <l n="2" met="--+--+-+-+-">que con mil veleidades nos engaña:</l>
+     <l n="3" met="+-+--+-+-+-">tira el dado primero, y vil cabaña</l>
+     <l n="4" met="++---+-+-+-">nos da para nacer o regia cuna.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">Vuele a tirar, y amable o importuna</l>
+     <l n="6" met="+-+--+---+-">nos prodiga favores, o con saña</l>
+     <l n="7" met="+--+---+-+-">gloria y riqueza, cual ligera caña</l>
+     <l n="8" met="+-+---++-+-">va tronchando al pasar una por una.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-+---+-">De sus caprichos víctimas vivimos;</l>
+     <l n="10" met="+--+---+-+-">ora perdiendo lo que ayer ganamos,</l>
+     <l n="11" met="---+-+---+-">o recobrando ya lo que tuvimos.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">Y en este afán perpetuo en que giramos</l>
+     <l n="13" met="-++--+---+-">¡ay! tan sólo la vida que perdimos</l>
+     <l n="14" met="+--+---+-+-">es la que nunca a recobrar llegamos.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Kritika.</title>
+    <author>Pokorný-Pikulík, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">4</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pokorný-Pikulík, Josef Václav_kritika</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Kritika.</title>
+     <author>Pokorný-Pikulík, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Kritika.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101001100110" rhyme="1" line_length="12">Takto kritiky zněl výrok všech tří stolic:</l>
+     <l n="2" met="101010100" rhyme="2" line_length="9">„Tento spis je přímo výtečný!“</l>
+     <l n="3" met="101010100" rhyme="2" line_length="9">„Tento spis jest zcela zbytečný!“</l>
+     <l n="4" met="100010001000" rhyme="1" line_length="12">„Výtečný i zbytečný jest napolovic!“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

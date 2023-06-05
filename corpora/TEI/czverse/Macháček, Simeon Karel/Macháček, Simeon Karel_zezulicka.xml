@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Zezulička.</title>
+    <author>Macháček, Simeon Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Macháček, Simeon Karel_zezulicka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Zezulička.</title>
+     <author>Macháček, Simeon Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Zezulička.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001000" line_length="8">Přiletěla zezulička</l>
+     <l n="2" met="100010" rhyme="1" line_length="6">Ze tmavého borku,</l>
+     <l n="3" met="10001000" rhyme="2" line_length="8">Sedla si a zakukala</l>
+     <l n="4" met="100010" rhyme="1" line_length="6">U bílého dvorku.</l>
+     <l n="5" met="10101000" line_length="8">Hnedle vyšla Marušenka</l>
+     <l n="6" met="010010" rhyme="2" line_length="6">Ven a jí se ptala:</l>
+     <l n="7" met="10101000" line_length="8">Pověz, budu, zezuličko,</l>
+     <l n="8" met="101010" rhyme="3" line_length="6">Dlouho doma otci? –</l>
+     <l n="9" met="10101000" line_length="8">Do dne, milá Marušenko,</l>
+     <l n="10" met="100010" rhyme="3" line_length="6">Do dne jen a noci! – –</l>
+     <l n="11" met="10101010" line_length="8">Bodejž bysi sedm roků</l>
+     <l n="12" met="101000" rhyme="2" line_length="6">Němá nekukala,</l>
+     <l n="13" met="10001000" line_length="8">Proto žes mně nebožátku,</l>
+     <l n="14" met="100010" rhyme="2" line_length="6">Zezuličko, lhala!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

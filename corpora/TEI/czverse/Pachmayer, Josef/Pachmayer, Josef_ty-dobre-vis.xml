@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Ty dobře víš...</title>
+    <author>Pachmayer, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Pachmayer, Josef_ty-dobre-vis</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Ty dobře víš...</title>
+     <author>Pachmayer, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Ty dobře víš...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010101010" line_length="13">Ty dobře víš, jak hořkne každá skýva chleba,</l>
+     <l n="2" met="010101100100" line_length="12">Ty víš, proč ve snu zrak se slzou zalévá.</l>
+     <l n="3" met="01010101000" line_length="11">Ty dobře víš, proč s touhou nekonečnou</l>
+     <l n="4" met="010100010" line_length="9">jen bolesť veliká a věčná</l>
+     <l n="5" met="0100010100" line_length="10">se bytostí mou celou rozlévá – –</l>
+     <l n="6" met="0101" line_length="4">Ty dobře víš...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

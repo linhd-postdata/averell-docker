@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Adiós</title>
+    <author>Joaquín Lorenzo Luaces</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Joaquín Lorenzo Luaces_adios</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Adiós</title>
+     <author>Joaquín Lorenzo Luaces</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Adiós</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+------+++-">¡Virgen adiós! Si arrebatado un día</l>
+     <l n="2" met="-+-+---+-+-">juzgué en tu seno reclinar la frente,</l>
+     <l n="3" met="--+--+---+-">al mirar tu pupila refulgente</l>
+     <l n="4" met="-+---+---+-">que el fuego del amor humedecía;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+---+-+-">cuerdo a la voz de la conciencia fría</l>
+     <l n="6" met="-+-+---+-+-">la flecha arranco de mi pecho ardiente,</l>
+     <l n="7" met="-++--+---+-">al verte en el festín, indiferente</l>
+     <l n="8" met="-+-+---+-+-">al mudo amor y la constancia mía.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">Jamás mi lengua murmuró turbada</l>
+     <l n="10" met="-+-+---+-+-">¡piedad de mí que delirando muero!</l>
+     <l n="11" met="-++--+---+-">Mas hoy parto... Y escucha, desgraciada:</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+---+-+-">El beso grave de mi amor postrero</l>
+     <l n="13" met="+-+--+---+-">era digno, en tu frente avergonzada,</l>
+     <l n="14" met="-+-+---+-+-">del casto beso de tu amor primero.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

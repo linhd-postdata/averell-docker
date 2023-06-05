@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A mi esposa</title>
+    <author>José Fornaris</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Fornaris_a-mi-esposa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A mi esposa</title>
+     <author>José Fornaris</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A mi esposa</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+---+-+-">Del ancho Cauto en la riscosa orilla</l>
+     <l n="2" met="-+-+---+-+-">sentado lloro mi perdida gloria;</l>
+     <l n="3" met="---+---+-+-">sobre sus aguas se desliza y brilla</l>
+     <l n="4" met="+-+--+---+-">una lágrima fiel de mi memoria.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="--+--+---+-">Del Bayamo entre mirto y maravilla,</l>
+     <l n="6" met="+--+---+-+-">lloran también mi deplorable historia</l>
+     <l n="7" met="-+-+-+---+-">y bañan una cándida mejilla,</l>
+     <l n="8" met="+--+---+-+-">lágrimas tristes, del amor victoria.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+---+-+-">Cuando confundan su corriente pura</l>
+     <l n="10" met="-+-+-+---+-">y mezclen ambas lágrimas los ríos,</l>
+     <l n="11" met="--++-+---+-">correrán a una misma sepultura;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-----+-+-">así, ojalá que los despojos míos,</l>
+     <l n="13" met="-+---+---+-">se mezclen en la tumba silenciosa,</l>
+     <l n="14" met="---+---+-+-">con los despojos de mi dulce esposa.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

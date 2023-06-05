@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Tichá láska.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_ticha-laska</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Tichá láska.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Tichá láska.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" line_length="8">Nikdy slovem nevyzradím,</l>
+     <l n="2" met="01101000" rhyme="1" line_length="8">co spí v srdci přehluboko,</l>
+     <l n="3" met="01001010" line_length="8">dost na tom, když v chvíli štěstí</l>
+     <l n="4" met="10101010" rhyme="1" line_length="8">mluví tvář a mluví oko.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" line_length="8">S divým jekem prázdné škeble</l>
+     <l n="6" met="10101000" rhyme="2" line_length="8">vlna hází na pobřeží,</l>
+     <l n="7" met="10101010" line_length="8">ale v srdci jako v moři</l>
+     <l n="8" met="10101010" rhyme="2" line_length="8">pravé perly na dně leží.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>MLÁDÍ, MOJE MLÁDÍ.</title>
+    <author>Zeyer, Julius</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Zeyer, Julius_mladi-moje-mladi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>MLÁDÍ, MOJE MLÁDÍ.</title>
+     <author>Zeyer, Julius</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>MLÁDÍ, MOJE MLÁDÍ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010" line_length="6">Mládí, moje mládí,</l>
+     <l n="2" met="100010" rhyme="1" line_length="6">zahozené žití,</l>
+     <l n="3" met="001010" line_length="6">kéž tě nehty mohu</l>
+     <l n="4" met="100100" rhyme="1" line_length="6">z rumu zpět vyrýti.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100010" line_length="6">Zapadlo’s, mé mládí,</l>
+     <l n="6" met="100010" rhyme="1" line_length="6">propadlo’s, mé žití,</l>
+     <l n="7" met="101010" line_length="6">dejž mi Bůh tvou paměť</l>
+     <l n="8" met="101010" rhyme="1" line_length="6">dlouhým pláčem smýti.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="101010" line_length="6">Pláčem, krví srdce,</l>
+     <l n="10" met="100010" rhyme="1" line_length="6">ztracené ty žití,</l>
+     <l n="11" met="101010" line_length="6">aby z hrobu tvého</l>
+     <l n="12" met="101010" rhyme="1" line_length="6">smíru vzrostlo kvítí!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

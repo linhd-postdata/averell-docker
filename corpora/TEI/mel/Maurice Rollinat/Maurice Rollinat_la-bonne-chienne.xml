@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La bonne Chienne</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">11</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_la-bonne-chienne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La bonne Chienne</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La bonne Chienne</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Les deux petits jouaient au fond du grand pacage ;</l>
+     <l n="2" rhyme="b" line_length="6+6">La nuit les a surpris, une nuit d'un tel noir</l>
+     <l n="3" rhyme="b" line_length="6+6">Qu'ils se tiennent tous deux par la main sans se voir :</l>
+     <l n="4" rhyme="a" line_length="6+6">L'opaque obscurité les enclôt dans sa cage.</l>
+     <l n="5" rhyme="a" line_length="6+6">Que faire ? les brebis qui paissaient en bon nombre,</l>
+     <l n="6" rhyme="b" line_length="6+6">Les chèvres, les cochons, la vache, la jument,</l>
+     <l n="7" rhyme="b" line_length="6+6">Sont égarés ou bien muets pour le moment,</l>
+     <l n="8" rhyme="a" line_length="6+6">Ils ne trahissent plus leur présence dans l'ombre.</l>
+     <l n="9" rhyme="a" line_length="6+6">Puis, la vague rumeur des mauvaises tempêtes</l>
+     <l n="10" rhyme="b" line_length="8">Du grand troupeau… si bien que, derrière les bêtes,</l>
+     <l n="11" rhyme="b" line_length="8">Chacun des deux petits lui tenant une oreille,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Růže.</title>
+    <author>Chládek, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Chládek, František_ruze</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Růže.</title>
+     <author>Chládek, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Růže.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010" line_length="8">Skvétala u cesty růže,</l>
+     <l n="2" met="100" rhyme="1" line_length="3">skvétala,</l>
+     <l n="3" met="10101010" line_length="8">mnoho poupat drsná ruka</l>
+     <l n="4" met="100" rhyme="1" line_length="3">strhala.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="11001010" line_length="8">Šla panenka kolem růže,</l>
+     <l n="6" met="100" rhyme="1" line_length="3">zpívala,</l>
+     <l n="7" met="10001010" line_length="8">oloupená růže hořce</l>
+     <l n="8" met="100" rhyme="1" line_length="3">plakala.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" line_length="8">Hle ta růže podle cesty</l>
+     <l n="10" met="101" rhyme="1" line_length="3">láska má,</l>
+     <l n="11" met="10101010" line_length="8">o své květy příliš záhy</l>
+     <l n="12" met="100" rhyme="1" line_length="3">zloupená.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

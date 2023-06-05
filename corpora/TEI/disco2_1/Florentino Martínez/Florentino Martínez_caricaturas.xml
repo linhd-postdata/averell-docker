@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Caricaturas</title>
+    <author>Florentino Martínez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Florentino Martínez_caricaturas</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Caricaturas</title>
+     <author>Florentino Martínez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Caricaturas</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-----+++-+-">Lorenzo Farragut, un buen sujeto</l>
+     <l n="2" met="-+--++-+-+-">que cree que hacer versos es sencillo,</l>
+     <l n="3" met="--+--++--+-">se propuso contar de un pajarillo</l>
+     <l n="4" met="---+-+-+-+-">la pintoresca historia de un soneto.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="----++-+-+-">Al cabo de dos meses un cuarteto</l>
+     <l n="6" met="+-+--+++-+-">pudo al fin componer, más tan malillo,</l>
+     <l n="7" met="-+-+-+++++-">que inútil fue pulirlo y darle brillo:</l>
+     <l n="8" met="+-++++---+-">más que estrofa era un bloque de concreto.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+++-+-">Creo que al año le dio fin. Y ahora,</l>
+     <l n="10" met="-----+---+-">cuando en el semanario «La Rasqueta»</l>
+     <l n="11" met="+----+-+-+-">se habla de Farragut, -que nadie ignora</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+---++-+-+-">que es para escribir versos, un maleta-</l>
+     <l n="13" met="-++--+---+-">se le llama con frase altisonora:</l>
+     <l n="14" met="---+-+---+-">«el inspirado y clásico poeta».</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

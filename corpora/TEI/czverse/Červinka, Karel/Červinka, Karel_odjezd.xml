@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ODJEZD.</title>
+    <author>Červinka, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červinka, Karel_odjezd</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ODJEZD.</title>
+     <author>Červinka, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ODJEZD.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101" rhyme="1" line_length="8">Tak chtěl to osud! Jak on chtěl,</l>
+     <l n="2" met="1100100100" rhyme="1" line_length="10">vlak zase mě přes Alpy unášel,</l>
+     <l n="3" met="11000101" rhyme="2" line_length="8">v jih dolů byl mé cesty směr,</l>
+     <l n="4" met="1000100100" rhyme="2" line_length="10">o, daleko, daleko za Brener.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" rhyme="3" line_length="8">Teď bludný poutník severu</l>
+     <l n="6" met="0101100100" rhyme="3" line_length="10">zde piji dech zamžených večerů,</l>
+     <l n="7" met="11001000" rhyme="4" line_length="8">ó, Adiže, nad břehy tvé</l>
+     <l n="8" met="0100100100" rhyme="4" line_length="10">zde vodí mě myšlenky tesklivé!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010000" rhyme="5" line_length="8">V ten směr, kde Bressanone jest,</l>
+     <l n="10" met="11010101" rhyme="5" line_length="8">zřím teskně v noci plné hvězd,</l>
+     <l n="11" met="01010100" rhyme="6" line_length="8">když touha má mě udolá...</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="01010101" rhyme="7" line_length="8">Mně rudá světla zamží zrak,</l>
+     <l n="13" met="01001001" rhyme="7" line_length="8">když zahučí po trati vlak</l>
+     <l n="14" met="11000100" rhyme="6" line_length="8">v jih jedoucí sem z Gardola.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

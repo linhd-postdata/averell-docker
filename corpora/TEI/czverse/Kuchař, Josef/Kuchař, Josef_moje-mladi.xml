@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Moje mládí.</title>
+    <author>Kuchař, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kuchař, Josef_moje-mladi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Moje mládí.</title>
+     <author>Kuchař, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Moje mládí.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" rhyme="1" line_length="8">Tesklivě to duší hárá:</l>
+     <l n="2" met="10001010" line_length="8">ratolestmi mlžně hledí</l>
+     <l n="3" met="01111000" rhyme="2" line_length="8">jak mdlý zrak pln nepokoje</l>
+     <l n="4" met="1010100" rhyme="3" line_length="7">luny svit mně do oken.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="2" line_length="8">Zašlo tiše mládí moje</l>
+     <l n="6" met="10001010" rhyme="1" line_length="8">oblaku jak zlatá pára,</l>
+     <l n="7" met="1010101" rhyme="3" line_length="7">jako luzný, sladký sen...</l>
+    </lg>
+    <lg n="3">
+     <l n="8" met="10001010" rhyme="1" line_length="8">Tesklivě to duší hárá:</l>
+     <l n="9" met="1010100" rhyme="3" line_length="7">podzim zří mně do oken.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

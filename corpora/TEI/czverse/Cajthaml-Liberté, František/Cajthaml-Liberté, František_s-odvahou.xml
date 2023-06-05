@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>S odvahou!</title>
+    <author>Cajthaml-Liberté, František</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Cajthaml-Liberté, František_s-odvahou</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>S odvahou!</title>
+     <author>Cajthaml-Liberté, František</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>S odvahou!</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010100" line_length="8">Nechť, bratři, třeba tisíckrát</l>
+     <l n="2" met="1001010" rhyme="1" line_length="7">nepřátel davy lají!</l>
+     <l n="3" met="01000100" line_length="8">Ať ku prostředkům sáhnou všem,</l>
+     <l n="4" met="0100100" rhyme="1" line_length="7">nás žalářům vydají!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100" line_length="8">Nechť jako psanci vyštváni</l>
+     <l n="6" met="1001000" rhyme="2" line_length="7">Kainovým se znamením</l>
+     <l n="7" met="10100100" line_length="8">světem bloudíme nevlídném,</l>
+     <l n="8" met="0110000" rhyme="2" line_length="7">jenž lká před obrozením:</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101000" line_length="8">Toho všímat nesmíme si,</l>
+     <l n="10" met="0010100" rhyme="3" line_length="7">leč svým spěti za cílem,</l>
+     <l n="11" met="01010100" line_length="8">a děti žehnat budou nám</l>
+     <l n="12" met="1000010" rhyme="3" line_length="7">nad vykopaným dílem.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101000" line_length="8">Velíť naše přesvědčení</l>
+     <l n="14" met="1000110" rhyme="4" line_length="7">myšlénku vždy ctít svoji,</l>
+     <l n="15" met="10100100" line_length="8">od těch která jest stíhána,</l>
+     <l n="16" met="0100010" rhyme="4" line_length="7">již vzletu jí se bojí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

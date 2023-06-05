@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Une Promenade au Jardin des Plantes</title>
+    <author>Alfred de Musset</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Alfred de Musset_une-promenade-au-jardin-des-pl</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Une Promenade au Jardin des Plantes</title>
+     <author>Alfred de Musset</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Une Promenade au Jardin des Plantes</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Sous ces arbres chéris, où j’allais à mon tour</l>
+     <l n="2" rhyme="b" line_length="6+6">Pour cueillir, en passant, seul, un brin de verveine,</l>
+     <l n="3" rhyme="b" line_length="6+6">Sous ces arbres charmants où votre fraîche haleine</l>
+     <l n="4" rhyme="a" line_length="6+6">Disputait au printemps tous les parfums du jour ;</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Des enfants étaient là qui jouaient alentour ;</l>
+     <l n="6" rhyme="b" line_length="6+6">Et moi, pensant à vous, j’allais traînant ma peine ;</l>
+     <l n="7" rhyme="b" line_length="6+6">Et si de mon chagrin vous êtes incertaine</l>
+     <l n="8" rhyme="a" line_length="6+6">Vous ne pouvez pas l’être au moins de mon amour.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Mais qui saura jamais le mal qui me tourmente ?</l>
+     <l n="10" rhyme="d" line_length="6+6">Les fleurs des bois, dit-on, jadis ont deviné !</l>
+     <l n="11" rhyme="c" line_length="6+6">Antilope aux yeux noirs, dis, quelle est mon amante ?</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="d" line_length="6+6">O lion, tu le sais, toi, mon noble enchaîné ;</l>
+     <l n="13" rhyme="c" line_length="6+6">Toi qui m’as vu pâlir lorsque sa main charmante</l>
+     <l n="14" rhyme="d" line_length="6+6">Se baissa doucement sur ton front incliné.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

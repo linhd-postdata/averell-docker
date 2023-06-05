@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La Tache blanche</title>
+    <author>Maurice Rollinat</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Maurice Rollinat_la-tache-blanche</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La Tache blanche</title>
+     <author>Maurice Rollinat</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La Tache blanche</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Dure au mordant soleil, longtemps épanouie</l>
+     <l n="2" rhyme="b" line_length="6+6">Aux grands effluves lourds et tièdes du vent plat,</l>
+     <l n="3" rhyme="b" line_length="6+6">La neige, ayant enfin fléchi, perdu l'éclat,</l>
+     <l n="4" rhyme="a" line_length="6+6">Venait de consommer sa fonte sous la pluie.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="c" line_length="6+6">L'espace détendu ! le bruit désemmuré !</l>
+     <l n="6" rhyme="d" line_length="6+6">Et les cieux bleus, enfin ! pour mes regards moroses,</l>
+     <l n="7" rhyme="d" line_length="6+6">Avides de revoir le vieil aspect des choses,</l>
+     <l n="8" rhyme="c" line_length="6+6">Tout surgissait nouveau du sol désengouffré.</l>
+    </lg>
+    <lg n="3" />
+    <lg n="4" />
+   </lg>
+  </body>
+ </text>
+</TEI>

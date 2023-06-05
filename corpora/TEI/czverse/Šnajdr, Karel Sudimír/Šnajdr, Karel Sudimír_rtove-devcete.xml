@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Rtové děvčete.</title>
+    <author>Šnajdr, Karel Sudimír</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Šnajdr, Karel Sudimír_rtove-devcete</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Rtové děvčete.</title>
+     <author>Šnajdr, Karel Sudimír</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Rtové děvčete.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101010" line_length="8">Co se na mne květní rtové,</l>
+     <l n="2" met="0010100" rhyme="1" line_length="7">Co se na mne smějete?</l>
+     <l n="3" met="00100010" line_length="8">Že jen zpívám již a piji:</l>
+     <l n="4" met="0010100" rhyme="1" line_length="7">To mně věřit nechcete?</l>
+     <l n="5" met="10001000" line_length="8">Ovšem když tak roztomile</l>
+     <l n="6" met="1001000" rhyme="2" line_length="7">Ke mně sy zamíříte,</l>
+     <l n="7" met="00101010" line_length="8">Tak, byť y byl básník starý,</l>
+     <l n="8" met="1001000" rhyme="2" line_length="7">Předce jej rozblázníte.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

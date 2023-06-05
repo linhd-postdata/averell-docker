@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La aparición del cometa</title>
+    <author>Manuel de Zequeira y Arango</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Manuel de Zequeira y Arango_la-aparicion-del-cometa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La aparición del cometa</title>
+     <author>Manuel de Zequeira y Arango</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La aparición del cometa</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+++--+-+-+-">No le envidio la pluma al gran Cervantes,</l>
+     <l n="2" met="---+---+-+-">ni del Argivo la sonora trompa,</l>
+     <l n="3" met="-+---+-+-+-">ni el lauro de Colón por más que rompa</l>
+     <l n="4" met="+--+-----+-">nuevos caminos a los navegantes.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+---+-">No codicio pinceles de Timantes</l>
+     <l n="6" met="--+--+-+-+-">aunque el tiempo sus tintes no corrompa,</l>
+     <l n="7" met="---+---+-+-">ni de Alejandro la triunfante pompa,</l>
+     <l n="8" met="---+-+---+-">ni el distinguido empleo de almirantes.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+-+-+-+--+-">No apetezco ver los muros de China,</l>
+     <l n="10" met="---+---+++-">ni conocer a Napoleón me inquieta</l>
+     <l n="11" met="-+-+---+-+-">por más que suene en la inmortal bocina.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="+-+--++--+-">Otra cosa mi fe anhela discreta,</l>
+     <l n="13" met="+-+-++---+-">y es que siempre me viera mi Corina</l>
+     <l n="14" met="---+-+-+-+-">con la atención que el vulgo ve al cometa.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

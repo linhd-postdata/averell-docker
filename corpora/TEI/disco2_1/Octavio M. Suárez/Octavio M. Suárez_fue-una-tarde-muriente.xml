@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Fue una tarde muriente...</title>
+    <author>Octavio M. Suárez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Octavio M. Suárez_fue-una-tarde-muriente</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Fue una tarde muriente...</title>
+     <author>Octavio M. Suárez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Fue una tarde muriente...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="+-+--+--+-+-+-">Fue una tarde muriente, que el tiempo no ha podido</l>
+     <l n="2" met="-+---+---+--+-">borrar de mi memoria, cuando hablamos de amor...</l>
+     <l n="3" met="+-+--+-++---+-">Fue una tarde muriente... ¡Yo estaba conmovido</l>
+     <l n="4" met="-+---+--+---+-">borracho de ilusiones, de ensueño y de dulzor!</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="+-+--+--+---+-">Tú, ocultabas tu hermoso semblante, embellecido</l>
+     <l n="6" met="++-++--+--+-">más aun por un casto e infinito rubor</l>
+     <l n="7" met="---+-+---+--+-">entre tus manos blancas; y tu pecho oprimido</l>
+     <l n="8" met="-+---+--++--+-">temblaban asustados tus dos senos en flor...!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="---+-+---+--+-">Mas, cuando lentamente principió la agonía</l>
+     <l n="10" met="-+---+--+---+-">del Sol que en el radiante crepúsculo se hundía,</l>
+     <l n="11" met="-++--+-+-+--+-">cediendo a un imperioso, loco anhelo sensual,</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+--+---+-">se unieron nuestros labios -ansiosos de ternura-,</l>
+     <l n="13" met="-++-++---+--+-">en un beso más dulce que la misma Dulzura</l>
+     <l n="14" met="-----+---+-+-">y en nuestros corazones floreció el Ideal...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

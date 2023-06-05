@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Exvotos...</title>
+    <author>Margarita del Valle</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Margarita del Valle_exvotos</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Exvotos...</title>
+     <author>Margarita del Valle</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Exvotos...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="+--+---+-+-">Alma que marchas disipando enojos:</l>
+     <l n="2" met="-++--+---+-">igual que una mañana del estío,</l>
+     <l n="3" met="+-++-+---+-">deja verme en las niñas de tus ojos</l>
+     <l n="4" met="---+---+++-">como si fuera en el cristal de un río.</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="+--++-+--+-">Quiero mirarme en ti. A mis antojos</l>
+     <l n="6" met="-++--+-+-+-">mirarte atravesar algún plantío...</l>
+     <l n="7" met="-+-+---+-+-">La tarde luce sus pendones rojos</l>
+     <l n="8" met="-+-+---+-+-">y quiero unir tu pensamiento al mío.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="++---+---+-">Sé fresca como el agua cristalina</l>
+     <l n="10" met="-+---+---+-">que vine de la olímpica montaña</l>
+     <l n="11" met="--+--+---+-">y se arrastra, como una Mesalina</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">que desciende a la paz de la cabaña,</l>
+     <l n="13" met="---+-+---+-">bajo la dulce tarde zafirina</l>
+     <l n="14" met="---+-+---+-">que en su precioso líquido se baña.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

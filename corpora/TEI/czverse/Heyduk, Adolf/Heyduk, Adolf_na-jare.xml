@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Na jaře.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_na-jare</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Na jaře.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Na jaře.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" line_length="8">Na jaře to bylo, děvče,</l>
+     <l n="2" met="10001010" rhyme="1" line_length="8">v jaru se z nás staly děti,</l>
+     <l n="3" met="10101010" line_length="8">ach to jaro, ach to jaro,</l>
+     <l n="4" met="10001000" rhyme="1" line_length="8">nemohu je zapomněti.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" line_length="8">V háji ptáče i mé srdce</l>
+     <l n="6" met="10001000" rhyme="1" line_length="8">muselo se rozepěti,</l>
+     <l n="7" met="00101010" line_length="8">vždyť to bylo v jaru, děvče,</l>
+     <l n="8" met="00101000" rhyme="1" line_length="8">jež mně nelze zapomněti.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

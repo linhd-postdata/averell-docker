@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Souvenir</title>
+    <author>Anatole France</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Anatole France_souvenir</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Souvenir</title>
+     <author>Anatole France</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Souvenir</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Une fois seulement elle m’est apparue,</l>
+     <l n="2" rhyme="a" line_length="6+6">Sous un doux ciel d’avril, dans une calme rue,</l>
+     <l n="3" rhyme="b" line_length="6+6">Où l’odeur des lilas descendait des vieux murs.</l>
+     <l n="4" rhyme="b" line_length="6+6">Le jour, en la touchant prenait des tons si purs</l>
+     <l n="5" rhyme="a" line_length="6+6">Qu’il semblait émaner de sa propre personne.</l>
+     <l n="6" rhyme="a" line_length="6+6">Sur un cheval anglais, pâle et svelte amazone,</l>
+     <l n="7" rhyme="b" line_length="6+6">Elle pliait avec une fière douceur</l>
+     <l n="8" rhyme="b" line_length="6+6">Sa taille au rythme égal du trot lent et berceur ;</l>
+     <l n="9" rhyme="a" line_length="6+6">Puis elle déroba sa forme et sa lumière</l>
+     <l n="10" rhyme="a" line_length="6+6">Sous la porte où veillaient deux grands lions de pierre.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

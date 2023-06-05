@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>POŽÁRY SLUNCE...</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_pozary-slunce</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>POŽÁRY SLUNCE...</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>POŽÁRY SLUNCE...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101" rhyme="1" line_length="8">Požáry slunce plane zem,</l>
+     <l n="2" met="01010101" rhyme="1" line_length="8">vše jakýms’ žhavým žije snem.</l>
+     <l n="3" met="1101010" rhyme="2" line_length="7">Klas zraje v žlutém moři.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="11010100" rhyme="3" line_length="8">Slyš, skřivan stoupá do oblak.</l>
+     <l n="5" met="11000101" rhyme="3" line_length="8">Vzduch chvěje se, a v poli mák,</l>
+     <l n="6" met="1001010" rhyme="2" line_length="7">polibek rudý hoří.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

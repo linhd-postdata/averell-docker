@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Entre las hojas cinco generosa,</title>
+    <author>Góngora, Luis de</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Góngora, Luis de_entre-las-hojas-cinco-generosa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Gongocorpus</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Entre las hojas cinco generosa,</title>
+     <author>Góngora, Luis de</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Entre las hojas cinco generosa,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="---+-+---+-" line_length="11">Entre las hojas cinco generosa,</l>
+     <l n="2" met="-+-+-+++-+-" line_length="11">si verde pompa no de un campo de oro,</l>
+     <l n="3" met="+--+---+-+-" line_length="11">prendas sin pluma a ruiseñor canoro</l>
+     <l n="4" met="--++-+---+-" line_length="11">degolló mudas sierpe venenosa.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="-+-+-+-+-+-" line_length="11">Al culto padre no con voz piadosa,</l>
+     <l n="6" met="---+-+-+-+-" line_length="11">mas con gemido alterno y dulce lloro</l>
+     <l n="7" met="---+-+---+-" line_length="11">armonïosas lágrimas al coro</l>
+     <l n="8" met="--+--+-+-+-" line_length="11">de las aves oyó, la selva umbrosa.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="-++--+---+-" line_length="11">Lloró el Tajo cristal, a cuya espuma</l>
+     <l n="10" met="++-+-+-+-+-" line_length="11">dio poca sangre el mal logrado terno,</l>
+     <l n="11" met="+--+-+--+-" line_length="10">terno de aladas cítaras süaves,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="-+-+-+---+-" line_length="11">que rayos hoy sus cuerdas, y su pluma</l>
+     <l n="13" met="-+-+-+++-+-" line_length="11">brillante siempre luz de un Sol eterno,</l>
+     <l n="14" met="+-+--+--++-" line_length="11">dulcemente dejaron de ser aves.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

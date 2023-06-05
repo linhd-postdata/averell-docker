@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- LV - </title>
+    <author>Gutierre de Cetina</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Gutierre de Cetina_lv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- LV - </title>
+     <author>Gutierre de Cetina</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- LV - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="---+-+---+-">Como se turba el sol y se oscurece</l>
+     <l n="2" met="-+---+-+-+-">si nube se interpone o turbio el cielo,</l>
+     <l n="3" met="-+-+-+-+-+-">dejando oscuro y triste acá en el suelo</l>
+     <l n="4" met="+-+--++--+-">todo cuanto con él claro parece;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+-+---+-">y como estando así nos aparece</l>
+     <l n="6" met="+--+-+--++-">fuera de aquella nube y de aquel velo,</l>
+     <l n="7" met="--+--+-+-+-">y llevando lo oscuro el aire a vuelo,</l>
+     <l n="8" met="---+-++--+-">la claridad del sol más resplandece;</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+---+-">tales me son a mí vuestros enojos,</l>
+     <l n="10" met="--+--+---+-">que mirándoos airada o descontenta</l>
+     <l n="11" met="-+-+-+-+-+-">se torna oscura noche el claro día;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="--+--+---+-">mas, en viendo la luz de vuestros ojos,</l>
+     <l n="13" met="-+-+-+---+-">alegre luego el alma os me presenta,</l>
+     <l n="14" met="++-+-+---+-">mil veces más hermosa que solía.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

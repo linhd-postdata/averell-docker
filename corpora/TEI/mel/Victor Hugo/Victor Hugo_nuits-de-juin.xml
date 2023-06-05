@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NUITS DE JUIN</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_nuits-de-juin</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NUITS DE JUIN</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NUITS DE JUIN</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">L'été, lorsque le jour a fui, de fleurs couverte</l>
+     <l n="2" rhyme="b" line_length="6+6">La plaine verse au loin un parfum enivrant ;</l>
+     <l n="3" rhyme="a" line_length="6+6">Les yeux fermés, l'oreille aux rumeurs entrouverte,</l>
+     <l n="4" rhyme="b" line_length="6+6">On ne dort qu'à demi d'un sommeil transparent.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Les astres sont plus purs, l'ombre paraît meilleure ;</l>
+     <l n="6" rhyme="b" line_length="6+6">Un vague demi-jour teint le dôme éternel ;</l>
+     <l n="7" rhyme="a" line_length="6+6">Et l'aube douce et pâle, en attendant son heure,</l>
+     <l n="8" rhyme="b" line_length="6+6">Semble toute la nuit errer au bas du ciel.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

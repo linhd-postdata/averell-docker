@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Na lapačky přišli páni...</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_na-lapacky-prisli-pani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Na lapačky přišli páni...</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Na lapačky přišli páni...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" rhyme="1" line_length="8">Na lapačky přišli páni,</l>
+     <l n="2" met="10001010" rhyme="1" line_length="8">ukryju se ruče v stráni;</l>
+     <l n="3" met="01001000" rhyme="2" line_length="8">však cigána za vojáka</l>
+     <l n="4" met="10101000" rhyme="2" line_length="8">zlaťák s vínem nevyláká.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10111000" rhyme="3" line_length="8">Volné rád mám živobytí,</l>
+     <l n="6" met="10001010" rhyme="3" line_length="8">za svobodu toužím mříti,</l>
+     <l n="7" met="01001010" rhyme="4" line_length="8">ne za vůdce, jenž se skrývá,</l>
+     <l n="8" met="00101100" rhyme="4" line_length="8">když zaň žebrák krev vylívá.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01101010" rhyme="5" line_length="8">Ať jde jenom vůdce s pány,</l>
+     <l n="10" met="10001000" rhyme="5" line_length="8">kabátek-li premovaný,</l>
+     <l n="11" met="01101010" rhyme="6" line_length="8">a zář hvězdná z porty zlatné</l>
+     <l n="12" met="10001010" rhyme="6" line_length="8">nepřátelům žíly zatne.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

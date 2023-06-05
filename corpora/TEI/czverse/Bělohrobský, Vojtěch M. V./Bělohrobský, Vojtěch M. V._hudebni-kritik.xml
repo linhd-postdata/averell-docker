@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hudební kritik.</title>
+    <author>Bělohrobský, Vojtěch M. V.</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">5</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Bělohrobský, Vojtěch M. V._hudebni-kritik</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hudební kritik.</title>
+     <author>Bělohrobský, Vojtěch M. V.</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hudební kritik.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01001101" rhyme="1" line_length="8">On pro hudbu má měkký cit,</l>
+     <l n="2" met="01000100" rhyme="2" line_length="8">jenž časně se v něm pěstoval.</l>
+     <l n="3" met="01010001" rhyme="2" line_length="8">On v mládí na housle už hrál</l>
+     <l n="4" met="01010101" rhyme="1" line_length="8">a býval často – smyčcem bit:</l>
+     <l n="5" met="01000101" rhyme="1" line_length="8">tak vštípen jest mu k hudbě cit.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

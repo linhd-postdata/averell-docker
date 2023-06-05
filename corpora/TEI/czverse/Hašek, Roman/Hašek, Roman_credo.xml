@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>CREDO.</title>
+    <author>Hašek, Roman</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hašek, Roman_credo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>CREDO.</title>
+     <author>Hašek, Roman</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>CREDO.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="010101010101010" rhyme="1" line_length="15">Je starý Pánbůh ještě živ a celá jeho sláva,</l>
+     <l n="2" met="010101000101010" rhyme="1" line_length="15">on živí ptactvo nebeské a chudým pokrm dává:</l>
+     <l n="3" met="110101000101010" rhyme="1" line_length="15">Jde všecko starým pořádkem a všecko podle práva.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="010001000100010" rhyme="2" line_length="15">Vše ostatní ti necháno, co nepohltí daně,</l>
+     <l n="5" met="110101000101010" rhyme="2" line_length="15">měj v svaté úctě zákony a zbožné sluhy Páně,</l>
+     <l n="6" met="010101000111000" rhyme="2" line_length="15">a podle starých tradicí svůj kříž nes odhodlaně!</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="010101000101010" rhyme="3" line_length="15">By člověk ráj si zasloužil, tak málo třeba k tomu:</l>
+     <l n="8" met="010101011100010" rhyme="3" line_length="15">své denní pivo v klidu pít, jít před půlnocí domů</l>
+     <l n="9" met="010011010101000" rhyme="3" line_length="15">a v paměti mít oheň zlý, jenž padal na Sodomu.</l>
+    </lg>
+    <lg n="4">
+     <l n="10" met="110101001100010" rhyme="4" line_length="15">V snech cudných možno blaženě spát na prohřátých ložích –</l>
+     <l n="11" met="010101000101010" rhyme="4" line_length="15">jen spěte, dobří křesťané, jsme všichni v rukou božích!</l>
+     <l n="12" met="010001000100010" rhyme="4" line_length="15">Ta slova jsou má naděje, má ochrana – můj kožich.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

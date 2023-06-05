@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Srpeček.</title>
+    <author>Jesenská, Růžena</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jesenská, Růžena_srpecek</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Srpeček.</title>
+     <author>Jesenská, Růžena</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Srpeček.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="00101000" line_length="8">Když jsem oči otevřela,</l>
+     <l n="2" met="00101" rhyme="1" line_length="5">byl již bílý den,</l>
+     <l n="3" met="10001010" line_length="8">srpeček se ke mně díval</l>
+     <l n="4" met="10100" rhyme="1" line_length="5">ještě do oken.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" line_length="8">Opozdilec! Já jsem snila,</l>
+     <l n="6" met="10101" rhyme="2" line_length="5">a on – za mne bděl,</l>
+     <l n="7" met="00101010" line_length="8">až se jásot křídel venku</l>
+     <l n="8" met="10100" rhyme="2" line_length="5">vzduchem rozletěl.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001000" line_length="8">Hleděla jsem s podivením</l>
+     <l n="10" met="10101" rhyme="3" line_length="5">v jeho zlatý svit,</l>
+     <l n="11" met="10101000" line_length="8">a on ke mně tázaje se:</l>
+     <l n="12" met="00101" rhyme="3" line_length="5">„Ty již nechceš snít?“</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="00101010" line_length="8">„Dost, můj milý, mám již snění,</l>
+     <l n="14" met="10100" rhyme="4" line_length="5">díky na stokrát;“ – –</l>
+     <l n="15" met="10001010" line_length="8">pobledl a zmizel v modru,</l>
+     <l n="16" met="10011" rhyme="4" line_length="5">srpeček šel spat!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

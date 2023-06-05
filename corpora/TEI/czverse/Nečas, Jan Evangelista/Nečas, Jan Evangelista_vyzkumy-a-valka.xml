@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Výzkumy a válka.</title>
+    <author>Nečas, Jan Evangelista</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nečas, Jan Evangelista_vyzkumy-a-valka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Výzkumy a válka.</title>
+     <author>Nečas, Jan Evangelista</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Výzkumy a válka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11000100010" rhyme="1" line_length="11">Mars pohanům byl válečnickým bohem,</l>
+     <l n="2" met="11010100" rhyme="2" line_length="8">měl meč a pěst – a na tom dost;</l>
+     <l n="3" met="01000101010" rhyme="1" line_length="11">nám křesťanům je válka horší mnohem</l>
+     <l n="4" met="10100" rhyme="2" line_length="5">pro svou zchytralost.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="1010001000" rhyme="3" line_length="10">Duchu Marconiho s Edisonem!</l>
+     <l n="6" met="1010001010" rhyme="3" line_length="10">Válka do služeb vás chytla honem.</l>
+     <l n="7" met="1000101010" rhyme="4" line_length="10">Pospěšte si zkoumat, pátrat, čítat,</l>
+     <l n="8" met="0010101010" rhyme="4" line_length="10">jak by vojska vzduchem mohla lítat,</l>
+     <l n="9" met="101010001" rhyme="5" line_length="9">bít se v mracích nad temeny hor –</l>
+     <l n="10" met="10101010001" rhyme="5" line_length="11">prahne po tom člověk, nejdravější tvor!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

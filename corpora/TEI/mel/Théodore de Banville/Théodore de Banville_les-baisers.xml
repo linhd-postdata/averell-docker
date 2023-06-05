@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Les Baisers</title>
+    <author>Théodore de Banville</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Théodore de Banville_les-baisers</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Les Baisers</title>
+     <author>Théodore de Banville</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Les Baisers</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Écartez mes cheveux comme vous le faisiez</l>
+     <l n="2" rhyme="a" line_length="6+6">Lorsque ce front livide était plein de rosiers,</l>
+     <l n="3" rhyme="b" line_length="6+6">Et que ma pâle joue était encor fleurie ;</l>
+     <l n="4" rhyme="b" line_length="6+6">Et venez y poser votre lèvre chérie.</l>
+     <l n="5" rhyme="a" line_length="6+6">Car bien qu'ils soient déjà flétris, nos cheveux d'or,</l>
+     <l n="6" rhyme="a" line_length="6+6">Nos mères de leurs doigts les caressent encor,</l>
+     <l n="7" rhyme="b" line_length="6+6">Et toujours les baisers célestes de leurs lèvres</l>
+     <l n="8" rhyme="b" line_length="6+6">Savent guérir nos fronts brûlés par mille fièvres.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

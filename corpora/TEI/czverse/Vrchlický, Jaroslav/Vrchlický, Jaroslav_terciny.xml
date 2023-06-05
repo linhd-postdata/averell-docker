@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Terciny.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_terciny</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Terciny.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Terciny.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" rhyme="1" line_length="11">Jak, lásko, jsme to řekli? Půjdem dále</l>
+     <l n="2" met="10010101010" rhyme="2" line_length="11">přes trny, hloží, močál, štěrk a tůně,</l>
+     <l n="3" met="01010100010" rhyme="1" line_length="11">až k oné nikým nedobyté skále.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="01010100010" rhyme="2" line_length="11">Ta sluje Smrt. V dál asfodelů vůně</l>
+     <l n="5" met="01010001010" rhyme="3" line_length="11">se táhne loukami, tam pávi křičí,</l>
+     <l n="6" met="01010101010" rhyme="2" line_length="11">a lidské srdce věčnou touhou stůně.</l>
+    </lg>
+    <lg n="3">
+     <l n="7" met="01010101000" rhyme="3" line_length="11">Tam zmlkne zášť a zloba trpasličí.</l>
+     <l n="8" met="11010101010" rhyme="4" line_length="11">Mít budem’ jednou pokoj – totiž sebe,</l>
+     <l n="9" met="01000100010" rhyme="3" line_length="11">ať nad námi pak hyacinty klíčí.</l>
+    </lg>
+    <lg n="4">
+     <l n="10" met="01000001010" rhyme="4" line_length="11">My našli se – a v tom je celé nebe...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

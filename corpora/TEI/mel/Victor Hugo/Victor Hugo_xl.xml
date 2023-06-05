@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XL</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_xl</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XL</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XL</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">L'épanouissement, c'est la loi du Seigneur.</l>
+     <l n="2" rhyme="a" line_length="6+6">Il a fait la beauté, l'amour et le bonheur,</l>
+     <l n="3" rhyme="b" line_length="8">Son âme immense, à qui l'aube sert de clairon,</l>
+     <l n="4" rhyme="c" line_length="6+6">Vibre à l'anxiété du moindre moucheron.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Quand on lie un oiseau, Dieu souffre dans le nœud.</l>
+     <l n="6" rhyme="a" line_length="6+6">Dieu, tout objet froissé vous touche et vous émeut</l>
+     <l n="7" rhyme="b" line_length="8">Couché sur l'univers qu'emplit votre rayon,</l>
+     <l n="8" rhyme="c" line_length="6+6">Vous sentez, vous aussi, dans la création,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

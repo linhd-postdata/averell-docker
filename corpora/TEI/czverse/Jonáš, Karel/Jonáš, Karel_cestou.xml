@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Cestou.</title>
+    <author>Jonáš, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jonáš, Karel_cestou</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Cestou.</title>
+     <author>Jonáš, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Cestou.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010001010" line_length="11">Kol bahno zelené jest, žlutý rákos</l>
+     <l n="2" met="01010101010" rhyme="1" line_length="11">a tady cesta těžkým běží pískem...</l>
+     <l n="3" met="01010101000" line_length="11">My v staré pryčce oba zadumáni, –</l>
+     <l n="4" met="11010101010" rhyme="1" line_length="11">dvě vrásky září na tvém čele nízkém...</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100010" line_length="11">Ta cesta nudná, jako ten náš život,</l>
+     <l n="6" met="10000101010" rhyme="2" line_length="11">od doby té, kdy stín se vkradl tmavý</l>
+     <l n="7" met="01010101000" line_length="11">v tvou duši, – v moji. Oba zadumáni</l>
+     <l n="8" met="01000101010" rhyme="2" line_length="11">své tiskneme si rukou těžké hlavy...</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01000101000" line_length="11">Co ztratili jsme, nikdo nenalezne,</l>
+     <l n="10" met="01010001010" rhyme="1" line_length="11">když cestou života jsme jeli tryskem,</l>
+     <l n="11" met="11010000010" line_length="11">kol bahno zelené jest teď a rákos</l>
+     <l n="12" met="01010101010" rhyme="1" line_length="11">a tady cesta těžkým běží pískem.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="11001100010" line_length="11">Chřest rolniček mdlý kolébá mne ve sny,</l>
+     <l n="14" met="11010101000" rhyme="3" line_length="11">zřím líně s okna pláně na bezmezné...</l>
+     <l n="15" met="01000101010" line_length="11">Jsem unavený. Konec všemu, všemu...</l>
+     <l n="16" met="01000101000" rhyme="3" line_length="11">Co ztratili jsme, nikdo nenalezne...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

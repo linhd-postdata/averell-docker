@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>IV.</title>
+    <author>Sabina, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sabina, Karel_iv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>IV.</title>
+     <author>Sabina, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>IV.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001000" line_length="8">Pod lesíkem na palouce</l>
+     <l n="2" met="1010100" rhyme="1" line_length="7">Růže zvadla červená,</l>
+     <l n="3" met="11000100" line_length="8">List po listu pryč odnáší</l>
+     <l n="4" met="1010100" rhyme="1" line_length="7">Vlna v toku zpěněná.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01001010" line_length="8">Proč, ach proč, vy vlny, v toku</l>
+     <l n="6" met="1000100" rhyme="2" line_length="7">Lučinou se třesete?</l>
+     <l n="7" met="01001010" line_length="8">Kam milené růže květy</l>
+     <l n="8" met="1010100" rhyme="2" line_length="7">V prudkém běhu nesete?</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" line_length="8">„Nesem kvítky, by se růže</l>
+     <l n="10" met="1001000" rhyme="3" line_length="7">V lůně nám rozplynula,</l>
+     <l n="11" met="10100010" line_length="8">S proudem sjednocená, mlhou</l>
+     <l n="12" met="1000100" rhyme="3" line_length="7">K nebi pak se vinula.“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

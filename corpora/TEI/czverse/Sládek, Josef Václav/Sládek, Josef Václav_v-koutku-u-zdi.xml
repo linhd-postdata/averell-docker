@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V koutku u zdi.</title>
+    <author>Sládek, Josef Václav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Sládek, Josef Václav_v-koutku-u-zdi</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V koutku u zdi.</title>
+     <author>Sládek, Josef Václav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V koutku u zdi.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101000" line_length="8">V koutku u zdi bez pomníku</l>
+     <l n="2" met="101" rhyme="1" line_length="3">pustý rov;</l>
+     <l n="3" met="10001010" line_length="8">přivedlo sem děcko malé</l>
+     <l n="4" met="1010100" rhyme="1" line_length="7">slepou ženu na hřbitov.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10001010" line_length="8">Po hřbitově dítě skáče</l>
+     <l n="6" met="101" rhyme="2" line_length="3">jako pták, –</l>
+     <l n="7" met="10101010" line_length="8">a ty slepé oči pláčou</l>
+     <l n="8" met="100" rhyme="2" line_length="3">hořce tak.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

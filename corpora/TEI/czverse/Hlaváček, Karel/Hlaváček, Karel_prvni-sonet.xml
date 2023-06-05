@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>První sonet</title>
+    <author>Hlaváček, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hlaváček, Karel_prvni-sonet</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>První sonet</title>
+     <author>Hlaváček, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>První sonet</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010101000" rhyme="1" line_length="13">Když první sonet v jambu volném, kolébavém,</l>
+     <l n="2" met="110100010100" rhyme="2" line_length="12">jde v čelo kolegům svým krůčkem nesmělým,</l>
+     <l n="3" met="0101000101010" rhyme="1" line_length="13">je ptáku podoben, jenž v olší nade splavem</l>
+     <l n="4" met="100100010100" rhyme="2" line_length="12">se prvně rozezpívá tichým hláskem svým.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101001101000" rhyme="1" line_length="13">A není divu – dřív pár přátel v shovívavém</l>
+     <l n="6" met="010100100100" rhyme="2" line_length="12">mu tlesklo úsměvu s autorem nadšeným –</l>
+     <l n="7" met="0101001000010" rhyme="1" line_length="13">teď náhle ocit se před veřejnosti davem,</l>
+     <l n="8" met="010100010101" rhyme="2" line_length="12">jak k rýmu nesměle tu cinká nový rým!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101010101000" rhyme="3" line_length="13">Však brzy zvykne, bude pěkně deklamovat</l>
+     <l n="10" met="01000010101000" rhyme="3" line_length="14">a vyznačená pak místa slibně akcentovat</l>
+     <l n="11" met="0101010100" rhyme="2" line_length="10">jak onen pták s tím zpěvem nesmělým,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="1101010101010" rhyme="4" line_length="13">hlas jemuž zvolna sílí, zvučí jasným kovem,</l>
+     <l n="13" met="0101000101000" rhyme="4" line_length="13">a peruť mohutní, že v moři červánkovém</l>
+     <l n="14" met="010100010100" rhyme="2" line_length="12">svá křídla pozlacuje sluncem zapadlým.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

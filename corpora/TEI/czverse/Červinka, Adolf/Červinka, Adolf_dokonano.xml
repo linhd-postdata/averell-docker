@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>DOKONÁNO.</title>
+    <author>Červinka, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Červinka, Adolf_dokonano</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>DOKONÁNO.</title>
+     <author>Červinka, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>DOKONÁNO.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101" rhyme="1" line_length="8">Někdy mou duší bloudí žal,</l>
+     <l n="2" met="00010100" rhyme="1" line_length="8">že jsem své lány nedožal,</l>
+     <l n="3" met="010010100" rhyme="2" line_length="9">až poslední zavzní zvonění,</l>
+     <l n="4" met="010100100" rhyme="2" line_length="9">má ruka při práci zkamení.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010101" rhyme="3" line_length="8">Vzpomínky se mnou půjdou spat</l>
+     <l n="6" met="10010101" rhyme="3" line_length="8">na jeden květů plný sad</l>
+     <l n="7" met="010010100" rhyme="4" line_length="9">a na jedno jitro zářné dost,</l>
+     <l n="8" met="010000100" rhyme="4" line_length="9">by svítilo mně až na věčnost!</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10010100" rhyme="5" line_length="8">Vzpomínky v pestré směsici</l>
+     <l n="10" met="10010100" rhyme="5" line_length="8">z hlavy mé vzlétnou mlčící,</l>
+     <l n="11" met="010010100" rhyme="6" line_length="9">až lásku mou najdou, řeknou k ní,</l>
+     <l n="12" met="010010100" rhyme="6" line_length="9">že kletby jí nesou poslední!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ARNOŠT DVOŘÁK.</title>
+    <author>Mahen, Jiří</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mahen, Jiří_arnost-dvorak</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ARNOŠT DVOŘÁK.</title>
+     <author>Mahen, Jiří</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ARNOŠT DVOŘÁK.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01100101" line_length="8">Já Pán Bůh sám ten píšu list:</l>
+     <l n="2" met="0101010" rhyme="1" line_length="7">ať všechněm lidem poví,</l>
+     <l n="3" met="01010100" line_length="8">že včera vládu předal jsem</l>
+     <l n="4" met="1001000" rhyme="1" line_length="7">Arnoštu Dvořákovi.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000100" line_length="8">Kdo ptá se proč a ptá se, nač –</l>
+     <l n="6" met="0101010" rhyme="2" line_length="7">zle při tom hubu špule –</l>
+     <l n="7" met="01100100" line_length="8">ať ví, že je to rozmarná,</l>
+     <l n="8" met="0100110" rhyme="2" line_length="7">však přesvatá má vůle.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="00010100" line_length="8">Nač dál s tím světem nevděčným</l>
+     <l n="10" met="0100010" rhyme="3" line_length="7">bych věru já se mořil?</l>
+     <l n="11" met="01011000" line_length="8">A Arnošt nos má výš než já,</l>
+     <l n="12" met="0011010" rhyme="3" line_length="7">ač jen pár čertů stvořil!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

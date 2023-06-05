@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Hody červů.</title>
+    <author>Nečas, Jan Evangelista</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nečas, Jan Evangelista_hody-cervu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Hody červů.</title>
+     <author>Nečas, Jan Evangelista</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Hody červů.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100100" line_length="9">Po bitvě mukdenské kopáno</l>
+     <l n="2" met="10010010" rhyme="1" line_length="8">přemnoho velikých dolů;</l>
+     <l n="3" met="100100100" line_length="9">v některém Rusové s Japonci</l>
+     <l n="4" met="10010010" rhyme="1" line_length="8">pokojně ulehli spolu.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100100" line_length="9">Přítel i nepřítel! – Rozdíl ten</l>
+     <l n="6" met="10010010" rhyme="2" line_length="8">po smrti neplatí pranic:</l>
+     <l n="7" met="100100100" line_length="9">Mrtví se nebijí o kusy</l>
+     <l n="8" met="10010010" rhyme="2" line_length="8">mandžurských polí a hranic. –</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100101100" line_length="9">Potrava z lidských těl pomátla</l>
+     <l n="10" met="10010010" rhyme="3" line_length="8">červům i červíkům hlavy:</l>
+     <l n="11" met="100100101" line_length="9">nemohli pochopit, kdo jim dal</l>
+     <l n="12" met="10010010" rhyme="3" line_length="8">tolik tak podivné stravy.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10010100" line_length="8">Mandžurští červi tučněli</l>
+     <l n="14" met="10010010" rhyme="4" line_length="8">na rusko-japonské směsi –</l>
+     <l n="15" met="100100101" line_length="9">nemohli pochopit, kdo jim dal</l>
+     <l n="16" met="10010000" rhyme="4" line_length="8">mozkové delikatessy?!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

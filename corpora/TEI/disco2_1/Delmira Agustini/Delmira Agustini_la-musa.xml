@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La musa</title>
+    <author>Delmira Agustini</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Delmira Agustini_la-musa</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La musa</title>
+     <author>Delmira Agustini</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La musa</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="serventesio">
+     <l n="1" met="+++--+---+--+-">Yo la quiero cambiante, misteriosa y compleja;</l>
+     <l n="2" met="-++--+---+--+-">con dos ojos de abismos que se vuelvan fanales;</l>
+     <l n="3" met="--++-+---+--+-">en su boca una fruta perfumada y bermeja</l>
+     <l n="4" met="--+-++--+--+-">que destile más miel que los rubios panales.</l>
+    </lg>
+    <lg n="2" stanza_type="serventesio">
+     <l n="5" met="-+-+-++--+-+-">A veces nos asalte un aguijón de abeja;</l>
+     <l n="6" met="+-+--+--+---+-">unos raptos feroces a gestos imperiales</l>
+     <l n="7" met="--+--+--++-+-">y sorprenda en su risa el dolor de una queja;</l>
+     <l n="8" met="--+--+--+---+-">¡en sus manos asombren caricias y puñales!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="--+--+-+-+-+-">Y que vibre, y desmaye, y llore, y ruja, y cante,</l>
+     <l n="10" met="-+--+--+-+-+-">y sea águila, tigre, paloma en un instante.</l>
+     <l n="11" met="---+-+--+--+-">Que el Universo quepa en sus ansias divinas;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++-++---+--+-">tenga una voz que hiele, que suspenda, que inflame,</l>
+     <l n="13" met="+-+--+---+--+-">y una frente que erguida su corona reclame</l>
+     <l n="14" met="-+---+--+---+-">de rosas, de diamantes, de estrellas o de espinas!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

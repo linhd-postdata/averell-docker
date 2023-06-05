@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Podzim.</title>
+    <author>Černý, Boleslav L.</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">13</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Černý, Boleslav L._podzim</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Podzim.</title>
+     <author>Černý, Boleslav L.</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Podzim.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="110101000" rhyme="1" line_length="9">Jde podzim, listí otrhává</l>
+     <l n="2" met="010100010" rhyme="2" line_length="9">a chladem dívá se v mou duši.</l>
+     <l n="3" met="010101010" rhyme="2" line_length="9">Snad v bílém jíní bolest tuší,</l>
+     <l n="4" met="010001010" rhyme="1" line_length="9">jíž uklání se moje hlava.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100100010" rhyme="1" line_length="9">Po letech života se vzdává</l>
+     <l n="6" met="010101010" rhyme="2" line_length="9">ten dlouhý vzdor a usne v hluši.</l>
+     <l n="7" met="110101000" rhyme="1" line_length="9">Jde podzim – listí odtrhává</l>
+     <l n="8" met="010100010" rhyme="2" line_length="9">a chladem dívá se v mou duši.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100101000" rhyme="1" line_length="9">Koruna snů již opadává,</l>
+     <l n="10" met="110101000" rhyme="2" line_length="9">pták písní ticha neporuší.</l>
+     <l n="11" met="110100010" rhyme="2" line_length="9">Smrt pěstí kostnatou už buší,</l>
+     <l n="12" met="100101010" rhyme="1" line_length="9">a to je celá lidská sláva!</l>
+     <l n="13" met="110101000" rhyme="1" line_length="9">Jde podzim – listí otrhává....</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

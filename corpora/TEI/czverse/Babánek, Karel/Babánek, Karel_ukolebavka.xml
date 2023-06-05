@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>UKOLÉBAVKA.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">9</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_ukolebavka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>UKOLÉBAVKA.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>UKOLÉBAVKA.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010010" line_length="8">V zahradě šumění stromů,</l>
+     <l n="2" met="1001001" rhyme="1" line_length="7">ticho a večerní čas.</l>
+     <l n="3" met="10010010" line_length="8">Jaro a rozkvetlé bezy.</l>
+     <l n="4" met="1001001" rhyme="1" line_length="7">Klavír a altový hlas.</l>
+     <l n="5" met="1001001" line_length="7">– Princi můj malinký, spi!</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="10010010" rhyme="2" line_length="8">Večerem v oknech se stmívá.</l>
+     <l n="7" met="1001001" line_length="7">Ruce jsou složeny v klín.</l>
+     <l n="8" met="10010010" rhyme="2" line_length="8">Srdce si tichoučce zpívá.</l>
+     <l n="9" met="1001001" line_length="7">– Princi můj malinký, spi!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

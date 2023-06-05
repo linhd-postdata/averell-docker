@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Zvuky zvonu.</title>
+    <author>Kuchař, Josef</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Kuchař, Josef_zvuky-zvonu</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Zvuky zvonu.</title>
+     <author>Kuchař, Josef</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Zvuky zvonu.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10001010" line_length="8">Posvátné jsou zvuky zvonu,</l>
+     <l n="2" met="1010101" rhyme="1" line_length="7">Svatý kovu vážný hlas,</l>
+     <l n="3" met="10101010" line_length="8">Jenžto věští osud lidský,</l>
+     <l n="4" met="1010101" rhyme="1" line_length="7">Budí k spáse, měří čas.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" line_length="8">Zvuky zvonu slabé dítko</l>
+     <l n="6" met="1010110" rhyme="2" line_length="7">Volaj’ v světa bol a slasť,</l>
+     <l n="7" met="10010010" line_length="8">Jinocha, by znát’ se učil</l>
+     <l n="8" met="1000100" rhyme="2" line_length="7">Nad hvězdami novou vlasť.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001010" line_length="8">S večerem když den se snoubí,</l>
+     <l n="10" met="10101010" rhyme="3" line_length="8">V sen se kloní sad i stráně,</l>
+     <l n="11" met="01101010" rhyme="4" line_length="8">Tu zvon v svatém šeru pějě</l>
+     <l n="12" met="10101010" rhyme="3" line_length="8">Zbožně tiché: „Anděl páně.“</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10001010" rhyme="4" line_length="8">Po nebi když zář se leje,</l>
+     <l n="14" met="1010101" rhyme="5" line_length="7">Bitvy zařve divý hluk,</l>
+     <l n="15" met="10101010" line_length="8">Za zdar vlasti, spásu země</l>
+     <l n="16" met="1010101" rhyme="5" line_length="7">Prosí zvonu smutný zvuk.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10101010" line_length="8">A když svadly tváří růže,</l>
+     <l n="18" met="1010101" rhyme="6" line_length="7">Člověk v úzké rakvi sní,</l>
+     <l n="19" met="00101010" line_length="8">Tu mu tiché „s bohem“ k hrobu</l>
+     <l n="20" met="1010101" rhyme="6" line_length="7">Smutné hrany zvonu zní.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

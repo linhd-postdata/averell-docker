@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Los ríos</title>
+    <author>José Santos Chocano</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>José Santos Chocano_los-rios</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Los ríos</title>
+     <author>José Santos Chocano</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Los ríos</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+-+---+-">Lloran las cumbres lágrimas de hielo,</l>
+     <l n="2" met="-+---+---+-">que corren por las trágicas pendientes,</l>
+     <l n="3" met="-+-+---+-+-">y van formando en su camino fuentes,</l>
+     <l n="4" met="---+---+-+-">enamoradas del azul del cielo.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="---+---+-+-">Entre las grietas del musgoso suelo,</l>
+     <l n="6" met="--+--+---+-">aprisionan sus linfas los torrentes,</l>
+     <l n="7" met="-----+---+-">a manera de alhajas refulgentes</l>
+     <l n="8" met="--+--+---+-">entre estuches de verde terciopelo.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+-+-">Súbito ensanchan sus ruidosas quejas;</l>
+     <l n="10" met="---+---+-+-">y, dibujando monacales tocas,</l>
+     <l n="11" met="-+---+-+-+-">envuelven su cristal en densas brumas.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-++---+--+-">Y el río nace, cual tropel de ovejas</l>
+     <l n="13" met="-+-+---+-+-">que va dejando en las filudas rocas</l>
+     <l n="14" met="--+--+---+-">enredado el vellón de su espumas...</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

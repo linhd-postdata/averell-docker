@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Jabberwocky</title>
+    <author>Lewis Carroll</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">7</measure>
+    <measure unit="line">28</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Lewis Carroll_jabberwocky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>For Better For Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Jabberwocky</title>
+     <author>Lewis Carroll</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Jabberwocky</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="stanza">
+     <l n="1" met="-+-+-+-+">'Twas brillig, and the slithy toves</l>
+     <l n="2" met="-+-+-+-+">Did gyre and gimble in the wabe;</l>
+     <l n="3" met="++-+-+-+">All mimsy were the borogoves,</l>
+     <l n="4" met="--++-+">And the mome raths outgrabe.</l>
+    </lg>
+    <lg n="2" stanza_type="stanza">
+     <l n="5" met="-+-+-+-+">Beware the Jabberwock, my son !</l>
+     <l n="6" met="-+-+-+-+">The jaws that bite, the claws that catch !</l>
+     <l n="7" met="-+-+-+-+">Beware the Jubjub bird, and shun</l>
+     <l n="8" met="-+--+-+">The frumious Bandersnatch!"</l>
+    </lg>
+    <lg n="3" stanza_type="stanza">
+     <l n="9" met="-+-+-+-+">He took his vorpal sword in hand:</l>
+     <l n="10" met="++-+-+-+">Long time the manxome foe he sought -</l>
+     <l n="11" met="-+-+--+-+">So rested he by the Tumtum tree,</l>
+     <l n="12" met="-+-+-+">And stood awhile in thought .</l>
+    </lg>
+    <lg n="4" stanza_type="stanza">
+     <l n="13" met="-+-+-+-+">And as in uffish thought he stood,</l>
+     <l n="14" met="-+-+-+-+">The Jabberwock, with eyes of flame,</l>
+     <l n="15" met="-+-+-+-+">Came whiffling through the tulgey wood.</l>
+     <l n="16" met="-+-+-+">And burbled as it came!</l>
+    </lg>
+    <lg n="5" stanza_type="stanza">
+     <l n="17" met="-+-+-+-+">One, two! One, two! And through and through</l>
+     <l n="18" met="-+-+-+-+">The vorpal blade went snicker-snack!</l>
+     <l n="19" met="-+-+-+-+">He left it dead, and with its head</l>
+     <l n="20" met="-+-+-+">He went galumphing back.</l>
+    </lg>
+    <lg n="6" stanza_type="stanza">
+     <l n="21" met="-+-+-+-+">And hast thou slain the Jabberwock?</l>
+     <l n="22" met="+--+-+-+">Come to my arms, my beamish boy!</l>
+     <l n="23" met="-+-+-+-+">O frabjous day! Callooh! Callay!"</l>
+     <l n="24" met="-+-+-+">He chortled in his joy.</l>
+    </lg>
+    <lg n="7" stanza_type="stanza">
+     <l n="25" met="-+-+-+-+">Twas brillig, and the slithy toves</l>
+     <l n="26" met="-+-+-+-+">Did gyre and gimble in the wabe;</l>
+     <l n="27" met="++-+-+-+">All mimsy were the borogoves,</l>
+     <l n="28" met="--++-+">And the mome raths outgrabe.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

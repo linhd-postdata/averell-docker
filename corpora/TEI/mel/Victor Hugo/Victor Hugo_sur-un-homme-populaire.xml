@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>SUR UN HOMME POPULAIRE</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_sur-un-homme-populaire</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>SUR UN HOMME POPULAIRE</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>SUR UN HOMME POPULAIRE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Ô peuple ! sous ce crâne où rien n'a pénétré,</l>
+     <l n="2" rhyme="a" line_length="6+6">Sous l'auguste sourcil morose et vénéré</l>
+     <l n="3" rhyme="b" line_length="8">Sous ce front dont un jour les révolutions</l>
+     <l n="4" rhyme="c" line_length="6+6">Feront en l'entr'ouvrant sortir les visions,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Dans l'Inde ainsi parfois le passant curieux</l>
+     <l n="6" rhyme="a" line_length="6+6">Contemple avec respect un mont mystérieux,</l>
+     <l n="7" rhyme="b" line_length="8">Rêve et croit respirer, sans approcher trop près,</l>
+     <l n="8" rhyme="c" line_length="6+6">Dans ces rocs, dans ces eaux, dans ces mornes forêts,</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="6+6">L'intérieur du mont en pagode est sculpté.</l>
+     <l n="10" rhyme="a" line_length="6+6">Puis vient enfin le jour de la solennité.</l>
+     <l n="11" rhyme="b" line_length="8">Le peuple accourt poussant des cris tumultueux ; —</l>
+     <l n="12" rhyme="c" line_length="6+6">L'idole alors, fœtus aveugle et monstrueux,</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

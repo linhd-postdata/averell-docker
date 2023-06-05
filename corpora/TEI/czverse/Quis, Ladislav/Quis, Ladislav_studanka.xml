@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Studánka.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">10</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_studanka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Studánka.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Studánka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101010" rhyme="1" line_length="11">Ve vřídle krásy voda křišťál byla,</l>
+     <l n="2" met="01000101010" rhyme="1" line_length="11">tu pokolení celá s chutí pila.</l>
+     <l n="3" met="01010010010" rhyme="2" line_length="11">Však přišli noví. Jak! že to je krása?</l>
+     <l n="4" met="01010110010" rhyme="2" line_length="11">Kde barva, vůně, chuť? – A hned ta chasa</l>
+     <l n="5" met="1101010100" rhyme="3" line_length="10">v zdroj hází kal, v něm míchá sochorem,</l>
+     <l n="6" met="0011000100" rhyme="3" line_length="10">až vše rmut páchnoucí. – Byť s odporem,</l>
+     <l n="7" met="01000101010" rhyme="4" line_length="11">ti polykají mok, již kráčí s časem</l>
+     <l n="8" met="01000101010" rhyme="4" line_length="11">a šklebíce se křičí velkým hlasem:</l>
+     <l n="9" met="0100010101" rhyme="5" line_length="10">„Sem, mroucího jež tíží věku znoj,</l>
+     <l n="10" met="0101010101" rhyme="5" line_length="10">zde lék, zde spása, zde jen krásy zdroj.“</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

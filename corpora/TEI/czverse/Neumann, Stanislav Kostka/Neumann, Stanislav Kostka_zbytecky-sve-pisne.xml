@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>zbytečky své písně</title>
+    <author>Neumann, Stanislav Kostka</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Neumann, Stanislav Kostka_zbytecky-sve-pisne</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>zbytečky své písně</title>
+     <author>Neumann, Stanislav Kostka</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>zbytečky své písně</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010" rhyme="1" line_length="6">zbytečky své písně</l>
+     <l n="2" met="100010" rhyme="2" line_length="6">pro sebe si broukám,</l>
+     <l n="3" met="001000" rhyme="1" line_length="6">když se neúlisně</l>
+     <l n="4" met="101010" rhyme="2" line_length="6">svěřím lesům, loukám.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="100010" rhyme="3" line_length="6">pro sebe si zpívám,</l>
+     <l n="6" met="100010" rhyme="4" line_length="6">se všemi co cítím,</l>
+     <l n="7" met="101010" rhyme="3" line_length="6">s větví rvanou jívám,</l>
+     <l n="8" met="100010" rhyme="4" line_length="6">s pokoseným kvítím.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="100010" rhyme="5" line_length="6">pro sebe si brumlám,</l>
+     <l n="10" met="100010" rhyme="6" line_length="6">vteřiny to chtějí.</l>
+     <l n="11" met="101010" rhyme="5" line_length="6">žitné stéblo dumlám.</l>
+     <l n="12" met="101000" rhyme="6" line_length="6">ptáci vyzvánějí.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="100010" rhyme="7" line_length="6">vyzvánějí ptáci</l>
+     <l n="14" met="101000" rhyme="8" line_length="6">jako na vzkříšení.</l>
+     <l n="15" met="101000" rhyme="7" line_length="6">vědí, darebáci,</l>
+     <l n="16" met="001010" rhyme="8" line_length="6">že nic věčné není.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="001010" rhyme="9" line_length="6">až já z mrtvých vstanu,</l>
+     <l n="18" met="101010" rhyme="10" line_length="6">živý nebo z prachu,</l>
+     <l n="19" met="101010" rhyme="9" line_length="6">věrnou písní skanu</l>
+     <l n="20" met="100010" rhyme="10" line_length="6">do jitřního nachu.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

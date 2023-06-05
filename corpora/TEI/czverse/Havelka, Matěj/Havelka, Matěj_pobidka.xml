@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Pobídka.</title>
+    <author>Havelka, Matěj</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Havelka, Matěj_pobidka</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Pobídka.</title>
+     <author>Havelka, Matěj</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Pobídka.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" rhyme="1" line_length="8">Shoďme s sebe závoj smutku,</l>
+     <l n="2" met="1000100" rhyme="2" line_length="7">Užívejme veselí,</l>
+     <l n="3" met="01010010" rhyme="1" line_length="8">Kdo ví, jak kratičkou lhůtku</l>
+     <l n="4" met="1010100" rhyme="2" line_length="7">Osud k žití udělí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10000010" rhyme="3" line_length="8">Kostlivec snad již si brousí</l>
+     <l n="6" met="1010100" rhyme="4" line_length="7">Kosu na nás smrtivou,</l>
+     <l n="7" met="01001100" rhyme="3" line_length="8">Snad nejbližší mžik zardousí</l>
+     <l n="8" met="0100100" rhyme="4" line_length="7">Slasť života blaživou.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" rhyme="5" line_length="8">Růže, co dnes mile květe,</l>
+     <l n="10" met="1000100" rhyme="6" line_length="7">Opadá již zítra snad,</l>
+     <l n="11" met="01001000" rhyme="5" line_length="8">Co nevidět do poupěte</l>
+     <l n="12" met="1010101" rhyme="6" line_length="7">Dá se červ a mrazu chlad.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101010" rhyme="7" line_length="8">Sladká rozkoš nemá stání,</l>
+     <l n="14" met="0100100" rhyme="8" line_length="7">Jak ozvěna po lese,</l>
+     <l n="15" met="10010100" rhyme="7" line_length="8">Ozve se a pryč uhání,</l>
+     <l n="16" met="1010100" rhyme="8" line_length="7">Zbrklý mžik ji odnese.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10101010" rhyme="9" line_length="8">Proto, bratří! čile k světu,</l>
+     <l n="18" met="1010100" rhyme="10" line_length="7">Honem sáhněm po kvítí.</l>
+     <l n="19" met="10001010" rhyme="9" line_length="8">Blažený, kdo v plachém letu</l>
+     <l n="20" met="1100100" rhyme="10" line_length="7">Ples za křídlo zachytí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

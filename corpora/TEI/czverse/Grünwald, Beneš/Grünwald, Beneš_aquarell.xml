@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Aquarell.</title>
+    <author>Grünwald, Beneš</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Grünwald, Beneš_aquarell</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Aquarell.</title>
+     <author>Grünwald, Beneš</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Aquarell.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010111010" rhyme="1" line_length="10">Jaro mladé květ má v plavém vlase,</l>
+     <l n="2" met="100010100" rhyme="2" line_length="9">lučinou se, děcko, prohání,</l>
+     <l n="3" met="1000101010" rhyme="1" line_length="10">potůčkem se šplouchá v teplém jase,</l>
+     <l n="4" met="101010100" rhyme="2" line_length="9">lechy seje hájů po pláni,</l>
+     <l n="5" met="1000100010" rhyme="1" line_length="10">schovává se ve vlnícím klase.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="1000101000" rhyme="1" line_length="10">Myslivec když v lesy zahybá se,</l>
+     <l n="7" met="100010100" rhyme="2" line_length="9">do prstů naň hvízdne se strání</l>
+     <l n="8" met="1010101010" rhyme="1" line_length="10">kosím kvikem všude, v každém čase</l>
+     <l n="9" met="1010" line_length="4">jaro mladé.</l>
+    </lg>
+    <lg n="3">
+     <l n="10" met="1000101010" rhyme="1" line_length="10">Stařence, jež v hájku lámat zdá se</l>
+     <l n="11" met="100110100" rhyme="2" line_length="9">se stromů klest suchou v ústraní,</l>
+     <l n="12" met="1010101010" rhyme="1" line_length="10">z každé kory, po níž žena pase,</l>
+     <l n="13" met="1010100010" rhyme="1" line_length="10">kouzlí květy v neskonalé kráse</l>
+     <l n="14" met="1010" line_length="4">jaro mladé.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

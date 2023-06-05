@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ŽIVOT.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_zivot</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ŽIVOT.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ŽIVOT.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000100" rhyme="1" line_length="8">Já neklidným jsem poutníkem,</l>
+     <l n="2" met="1000010" rhyme="2" line_length="7">daleká je má cesta –</l>
+     <l n="3" met="01000100" rhyme="1" line_length="8">jen náhodou jsem zbloudil sem –</l>
+     <l n="4" met="1101010" rhyme="2" line_length="7">v zad letí vísky, města.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10010101" rhyme="3" line_length="8">Jdu dál a dále – ruky stisk</l>
+     <l n="6" met="0101000" rhyme="4" line_length="7">a rychlé rozloučení –</l>
+     <l n="7" met="01010100" rhyme="3" line_length="8">už vítr fučí ze strnisk</l>
+     <l n="8" met="0101010" rhyme="4" line_length="7">a času mnoho není.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10100100" rhyme="5" line_length="8">Jdu dál a dál – jak zakletý –</l>
+     <l n="10" met="1001010" rhyme="6" line_length="7">křídla mi rostou k letům –</l>
+     <l n="11" met="10010100" rhyme="5" line_length="8">odletím s této planety</l>
+     <l n="12" met="1001010" rhyme="6" line_length="7">ku větším, žhavým světům.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

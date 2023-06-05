@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>V ranním slunci.</title>
+    <author>Babánek, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">2</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Babánek, Karel_v-rannim-slunci</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>V ranním slunci.</title>
+     <author>Babánek, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>V ranním slunci.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="1010101010" line_length="10">S křídel ptáků jarní slunce kane,</l>
+     <l n="2" met="1000101010" line_length="10">na poduškách, v rusém hraje vlase...</l>
+     <l n="3" met="1010101010" line_length="10">Z modrých očí bílá duše hledí.</l>
+    </lg>
+    <lg n="2">
+     <l n="4" met="1010101010" line_length="10">Bledých rtů se úsměv dotek lehce,</l>
+     <l n="5" met="1010101010" line_length="10">bílé ruce první květy stiskly...</l>
+     <l n="6" met="1010101000" line_length="10">Duše bílá z těla odletěla.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Rytířský národ.</title>
+    <author>Quis, Ladislav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Quis, Ladislav_rytirsky-narod</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Rytířský národ.</title>
+     <author>Quis, Ladislav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Rytířský národ.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100010100" rhyme="1" line_length="9">Rytířský jsou národ Maďaři,</l>
+     <l n="2" met="0010100010" line_length="10">kdo se troufá pochybovat o tom?</l>
+     <l n="3" met="101001100" rhyme="1" line_length="9">Oni prací svůj čas nemaří,</l>
+     <l n="4" met="0110101010" line_length="10">co chtí míti, směle sáhnou po tom,</l>
+     <l n="5" met="001000100010" rhyme="2" line_length="12">ať to slovácké jsou pokladny neb děti,</l>
+     <l n="6" met="100010101010" rhyme="2" line_length="12">pro křivdu jim vždycky meče z pochev letí.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

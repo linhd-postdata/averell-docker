@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- CV - </title>
+    <author>Fernando de Herrera</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fernando de Herrera_cv</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- CV - </title>
+     <author>Fernando de Herrera</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- CV - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+-+-+---+-">La fría falda y cumbre de Pierene,</l>
+     <l n="2" met="-+-+---+-+-">que parte al franco y al osado ibero,</l>
+     <l n="3" met="--+--+--++-">cuando hiela desierto Aquilón fiero</l>
+     <l n="4" met="+-+--+-+-+-">tanta copia de nieve no sostiene,</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+--+--++-">cuanto hielo en mi pecho el temor tiene</l>
+     <l n="6" met="--+--+---+-">cuando aparta sus rayos mi lucero,</l>
+     <l n="7" met="---+---+-+-">y retraído su esplendor primero,</l>
+     <l n="8" met="--+--+-+-+-">de avivarme en su bella luz se abstiene.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+---+-+-">Libia arenosa, aunque el ardor presente</l>
+     <l n="10" met="-+-+---+-+-">del sol te abrasa, ni del hielo mío</l>
+     <l n="11" met="--++---+-+-">el rigor sientes, perderás la fama;</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+---+-+-">que mayo fuego me encendió este ausente</l>
+     <l n="13" met="--+--+++-+-">corazón; mas en mí ya acaba el frío</l>
+     <l n="14" met="--+--+---+-">el vigor, y deshace de su llama.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

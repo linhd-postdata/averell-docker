@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Modrý večer.</title>
+    <author>Breska, Alfons</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Breska, Alfons_modry-vecer</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Modrý večer.</title>
+     <author>Breska, Alfons</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Modrý večer.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10100010" rhyme="1" line_length="8">Letní večer níž se chýlí,</l>
+     <l n="2" met="1010100" rhyme="2" line_length="7">modrý soumrak v údolí,</l>
+     <l n="3" met="10101010" rhyme="1" line_length="8">kudy bílá cesta pílí,</l>
+     <l n="4" met="1000100" rhyme="2" line_length="7">lemována topoly.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101010" rhyme="3" line_length="8">Kdesi v dáli zvoní zvony,</l>
+     <l n="6" met="1000101" rhyme="4" line_length="7">za horami tiše zní,</l>
+     <l n="7" met="10100010" rhyme="3" line_length="8">jejich zádumčivé tóny</l>
+     <l n="8" met="1010100" rhyme="4" line_length="7">nese vítr večerní.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10101010" rhyme="5" line_length="8">Zlaté zvuky, zlatá znění</l>
+     <l n="10" met="1010100" rhyme="6" line_length="7">vanou modrým večerem,</l>
+     <l n="11" met="10001010" rhyme="5" line_length="8">upomínky, dávná snění</l>
+     <l n="12" met="1000100" rhyme="6" line_length="7">procítají v srdci mém.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10101010" rhyme="7" line_length="8">Šerem vzchází měsíc bílý,</l>
+     <l n="14" met="1010100" rhyme="8" line_length="7">mlknou zvonů hlaholy,</l>
+     <l n="15" met="10101010" rhyme="7" line_length="8">moje touha v dálku pílí</l>
+     <l n="16" met="1010100" rhyme="8" line_length="7">jako cesta topoly.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

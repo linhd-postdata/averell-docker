@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>XXXIII</title>
+    <author>Victor Hugo</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">7</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Victor Hugo_xxxiii</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>XXXIII</title>
+     <author>Victor Hugo</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>XXXIII</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" line_length="6+6">Ombre où Brutus médite, où saigne Jésus-Christ ;</l>
+     <l n="2" rhyme="a" line_length="6+6">Les Salomés sont là regardant les Électres ;</l>
+     <l n="3" rhyme="a" line_length="6+6">Là, pleine de clairons, de tumultes, de spectres,</l>
+     <l n="4" rhyme="b" line_length="6+6">De squelettes, de rois hideux, d'hommes hagards,</l>
+     <l n="5" rhyme="b" line_length="6+6">De corps sans bras, de bras sans mains, d'yeux sans regards,</l>
+     <l n="6" rhyme="c" line_length="6+6">Sous un ciel monstrueux hennit, gronde et se cabre</l>
+     <l n="7" rhyme="c" line_length="6+6">La guerre, tourbillon hurlant, danse macabre.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

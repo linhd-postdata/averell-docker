@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>...., vím já, vím,</title>
+    <author>Nečas, Jan Evangelista</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Nečas, Jan Evangelista_vim-ja-vim</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>...., vím já, vím,</title>
+     <author>Nečas, Jan Evangelista</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>...., vím já, vím,</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101" rhyme="1" line_length="3">...., vím já, vím, </l>
+     <l n="2" met="0010000" rhyme="1" line_length="7">čím jste povinna všem svým</l>
+     <l n="3" met="10001010" rhyme="2" line_length="8">i že – když Vám chvilka zbývá,</l>
+     <l n="4" met="01001000" rhyme="2" line_length="8">i duch můj z ní kořistívá. –</l>
+     <l n="5" met="10100010" line_length="8">Abych unesl své břímě,</l>
+     <l n="6" met="10001010" rhyme="3" line_length="8">potřebuju síly obra;</l>
+     <l n="7" met="10001010" line_length="8">ulehčují vlídná slova,</l>
+     <l n="8" met="10101010" rhyme="3" line_length="8">která mluví duše dobrá!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

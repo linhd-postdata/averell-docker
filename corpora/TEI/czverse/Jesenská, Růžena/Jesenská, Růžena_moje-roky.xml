@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Moje roky...</title>
+    <author>Jesenská, Růžena</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Jesenská, Růžena_moje-roky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Moje roky...</title>
+     <author>Jesenská, Růžena</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Moje roky...</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10101010" line_length="8">Moje roky jakby mračna</l>
+     <l n="2" met="10101010" rhyme="1" line_length="8">plná světel v dálku létla –</l>
+     <l n="3" met="10100010" line_length="8">vidím někdy jen ta mračna,</l>
+     <l n="4" met="10001010" rhyme="1" line_length="8">jindy jen ta drahá světla.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="00101010" line_length="8">Dnes ty zašlé ráje rostou</l>
+     <l n="6" met="10001010" rhyme="2" line_length="8">nádherně v mé smutné snění,</l>
+     <l n="7" met="01001010" line_length="8">a zítra se hrůzou svíjím</l>
+     <l n="8" met="10101000" rhyme="2" line_length="8">věčné živých utrpení.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10001010" line_length="8">Vzdalují se roky moje –</l>
+     <l n="10" met="10101010" rhyme="3" line_length="8">nevím, jestli větší byly</l>
+     <l n="11" met="10101010" line_length="8">blahem nebo žalem, vím jen:</l>
+     <l n="12" met="10101000" rhyme="3" line_length="8">nechci, by se navrátily!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

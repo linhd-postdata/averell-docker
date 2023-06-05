@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Sloky</title>
+    <author>Fischer, Otokar</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fischer, Otokar_sloky</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Sloky</title>
+     <author>Fischer, Otokar</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Sloky</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010001010" rhyme="1" line_length="11">Jdu – nejdu, nežiju, jsem nesen žitím,</l>
+     <l n="2" met="1101000100" rhyme="2" line_length="10">jdu – nejdu, vznáším se jak somnambul.</l>
+     <l n="3" met="01010001010" rhyme="1" line_length="11">Jak hvězda Lucifer vám dolů svítím,</l>
+     <l n="4" met="0100010101" rhyme="2" line_length="10">můj osud jest, bych stoupal, trpěl, žhnul.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000100010" rhyme="3" line_length="11">A v prázdno-li se rozstřiknu, co na tom!</l>
+     <l n="6" met="0101010101" rhyme="4" line_length="10">Víc nežli život znal jsem v toku chvil.</l>
+     <l n="7" met="01010101010" rhyme="3" line_length="11">Jsem popel, hlína, prach – leč jeden atom</l>
+     <l n="8" met="0100010100" rhyme="4" line_length="10">je z mraků, v nichž sám tvůrce hovořil.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100010" rhyme="5" line_length="11">A proto nebe do prsou mi svítí,</l>
+     <l n="10" met="0101010100" rhyme="6" line_length="10">když vlna temna dolů kane k vám,</l>
+     <l n="11" met="01010101010" rhyme="5" line_length="11">a proto vím, že budu v tobě žíti,</l>
+     <l n="12" met="0101000100" rhyme="6" line_length="10">až „s bohem“ poslední ti pošeptám.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

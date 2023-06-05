@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>X.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">6</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_x</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>X.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>X.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01000101010" rhyme="1" line_length="11">Vy jasnější jste, nežli voda v zdroji,</l>
+     <l n="2" met="01000101000" rhyme="2" line_length="11">vy sladší jste, než víno zlatoskvělé,</l>
+     <l n="3" met="10010100010" rhyme="1" line_length="11">pohleďte, slunce na špičkách již stojí,</l>
+     <l n="4" met="01010001010" rhyme="2" line_length="11">by mohlo ve vašem se zhlížet čele;</l>
+     <l n="5" met="01000001010" rhyme="1" line_length="11">ba miluju vás víc než matku svoji,</l>
+     <l n="6" met="01010110010" rhyme="2" line_length="11">kdy zřím to slunce plát na vašem čele.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

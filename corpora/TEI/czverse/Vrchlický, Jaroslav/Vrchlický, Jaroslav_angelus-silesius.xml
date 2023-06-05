@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Angelus Silesius.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_angelus-silesius</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Angelus Silesius.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Angelus Silesius.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="01010101010" rhyme="1" line_length="11">Jsou květy, které rostou pouze v stínu</l>
+     <l n="2" met="01000101010" rhyme="2" line_length="11">a z vlhkosti svůj celý život pijí,</l>
+     <l n="3" met="01010001010" rhyme="2" line_length="11">pak v sebe vnoří se a tiše žijí</l>
+     <l n="4" met="01000101000" rhyme="1" line_length="11">se sklánějíce v tmu a prohlubinu.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100010" rhyme="1" line_length="11">Však v květů jejich monotonním klínu</l>
+     <l n="6" met="01010101000" rhyme="2" line_length="11">se vždycky rosa stkví, jež nepomíjí,</l>
+     <l n="7" met="01000101010" rhyme="2" line_length="11">jak perla by se smekla s vlasů, šíjí</l>
+     <l n="8" met="10010001000" rhyme="1" line_length="11">nad nimi přeletěvších cherubínů.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01001011010" rhyme="3" line_length="11">To láska jest. Ty jak chceš v světa shonu</l>
+     <l n="10" met="01010101010" rhyme="4" line_length="11">ji nazvi, láskou k tvoru nebo k Bohu,</l>
+     <l n="11" met="01000101010" rhyme="3" line_length="11">jen míti ji, tvé srdce rovno zvonu.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="01000101010" rhyme="5" line_length="11">Jí v ústraní svém prostým ptákem tikej,</l>
+     <l n="13" met="10000100010" rhyme="5" line_length="11">na foru kaž ji, orkanem ji vzlykej,</l>
+     <l n="14" met="00010101010" rhyme="4" line_length="11">byl’s vše, když řekneš, dám, co dáti mohu!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

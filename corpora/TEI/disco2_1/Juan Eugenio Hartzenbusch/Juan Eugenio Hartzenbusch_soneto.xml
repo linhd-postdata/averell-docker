@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Soneto</title>
+    <author>Juan Eugenio Hartzenbusch</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Juan Eugenio Hartzenbusch_soneto</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Soneto</title>
+     <author>Juan Eugenio Hartzenbusch</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Soneto</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+--+---+-">Canta, blanco palomo, y de la aurora</l>
+     <l n="2" met="-+-+---+-+-">el róseo carro con tu acento llama;</l>
+     <l n="3" met="-+-+---+-+-">que atenta escucha en la mullida cama</l>
+     <l n="4" met="-+---+---+-">la esposa a quien tu cántico enamora.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+-+----+-+-">Canta y anuncia la estación de Flora</l>
+     <l n="6" met="---+-+--++-">y el delicioso incendio que te inflama,</l>
+     <l n="7" met="+--+---+-+-">mientras sentado en la frontera rama</l>
+     <l n="8" met="+--+---+-+-">otro palomo solitario llora.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">¡Felice tú que puedes con tu canto</l>
+     <l n="10" met="-+---+---+-">al alma penetrar por el oído</l>
+     <l n="11" met="-+-+---+-+-">del ave amante en que tu bien se funda!</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+-+-+-">Y ¡mísero de mí, que el triste llanto</l>
+     <l n="13" met="--+-++---+-">en que a solas me miras consumido,</l>
+     <l n="14" met="-+-+---+++-">sin fruto el rostro y sin cesar me inunda!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

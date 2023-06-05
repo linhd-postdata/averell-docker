@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Transformación</title>
+    <author>Mercedes Matamoros</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mercedes Matamoros_transformacion</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Transformación</title>
+     <author>Mercedes Matamoros</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Transformación</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+--+---+-+-">Mira volando en el pensil ameno</l>
+     <l n="2" met="-+---+---+-">la oruga transformada en mariposa;</l>
+     <l n="3" met="+--+---+-+-">cómo el capullo se despierta en rosa,</l>
+     <l n="4" met="---+---+-+-">como la rosa se convierte en cieno.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-+---++--+-">Al rostro juvenil, dulce y sereno,</l>
+     <l n="6" met="+--+---+-+-">triste sucede el de vejez llorosa;</l>
+     <l n="7" met="+-++---+-+-">tórnase arrugas la mejilla hermosa,</l>
+     <l n="8" met="-+-+---+-+-">en mármol frío el palpitante seno.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">Y yo, sujeta a la eternal mudanza,</l>
+     <l n="10" met="--+--+---+-">en los ritmos del arpa estremecida</l>
+     <l n="11" met="-+---+---+-">-fluctuando entre la duda y la esperanza-</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++---+-+-+-">ya canto a la tristeza, ya al contento,</l>
+     <l n="13" met="--+--+---+-">porque en cada minuto de la vida</l>
+     <l n="14" met="+----+---+-">cambian el corazón y el pensamiento.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

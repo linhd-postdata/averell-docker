@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Mickiewicz.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_mickiewicz</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Mickiewicz.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Mickiewicz.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010101010" rhyme="1" line_length="11">Do moře, v kterém vlny věky slovou,</l>
+     <l n="2" met="10010101000" rhyme="2" line_length="11">do tmy, v níž lidstvo bádá ve zápasu,</l>
+     <l n="3" met="01010101010" rhyme="2" line_length="11">by mohlo blíže k sobě strhnout krásu,</l>
+     <l n="4" met="11010101000" rhyme="1" line_length="11">bůh vpustil velkou skálu granitovou.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01010100010" rhyme="1" line_length="11">A mračna, která ku východu plovou,</l>
+     <l n="6" met="01000101010" rhyme="2" line_length="11">a vlasatice s rudou změtí vlasů</l>
+     <l n="7" met="10010001010" rhyme="2" line_length="11">na pouti do věčnosti stanou v žasu,</l>
+     <l n="8" met="11010001000" rhyme="1" line_length="11">leb její obletují titanovou.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100010" rhyme="3" line_length="11">Ta skála tvrdá vzdorující věkům</l>
+     <l n="10" met="11010100010" rhyme="4" line_length="11">má ryzí zlato v hlubokém svém nitru,</l>
+     <l n="11" met="01010110110" rhyme="5" line_length="11">ji plavec zná, k ní rád řídí běh lodě.</l>
+    </lg>
+    <lg n="4">
+     <l n="12" met="01010101010" rhyme="3" line_length="11">Neb vždycky proti moře tmě a vztekům</l>
+     <l n="13" met="11010100010" rhyme="4" line_length="11">skráň její přísná obrácená k jitru</l>
+     <l n="14" met="01010101000" rhyme="5" line_length="11">mu v srdci vzbouzí tuchu o svobodě.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

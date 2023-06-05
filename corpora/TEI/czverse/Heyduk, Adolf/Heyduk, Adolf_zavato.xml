@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Zaváto.</title>
+    <author>Heyduk, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Heyduk, Adolf_zavato</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Zaváto.</title>
+     <author>Heyduk, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Zaváto.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100101010" rhyme="1" line_length="9">Ve žlutém listí teskliv kvílí</l>
+     <l n="2" met="01010101" rhyme="2" line_length="8">své trudné žaly bouřný den,</l>
+     <l n="3" met="010001010" rhyme="1" line_length="9">a rozchvěnými ňadry pílí</l>
+     <l n="4" met="11000100" rhyme="2" line_length="8">cit úzkostlivě rozželen.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="010101010" rhyme="3" line_length="9">Proč truchlí? – V lesa půdě vřesné</l>
+     <l n="6" met="01010101" rhyme="4" line_length="8">se znova zrodí květná zvěst,</l>
+     <l n="7" met="010101010" rhyme="3" line_length="9">až jaro v zlaté ruce plesne</l>
+     <l n="8" met="01010100" rhyme="4" line_length="8">a zlíbá stromů ratolest.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="010011010" rhyme="5" line_length="9">Ne srdci tak... Ó žití klamy!</l>
+     <l n="10" met="11000101" rhyme="6" line_length="8">Hruď chvěje se a vzdychá ret...</l>
+     <l n="11" met="100001000" rhyme="5" line_length="9">Pod zavátými vzpomínkami</l>
+     <l n="12" met="01010101" rhyme="6" line_length="8">zda vzchází život v plný květ?</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

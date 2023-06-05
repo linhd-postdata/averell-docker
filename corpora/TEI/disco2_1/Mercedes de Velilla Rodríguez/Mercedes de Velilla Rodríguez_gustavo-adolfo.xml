@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Gustavo Adolfo</title>
+    <author>Mercedes de Velilla Rodríguez</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Mercedes de Velilla Rodríguez_gustavo-adolfo</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Gustavo Adolfo</title>
+     <author>Mercedes de Velilla Rodríguez</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Gustavo Adolfo</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+---+-">En la margen del Betis murmurante,</l>
+     <l n="2" met="--+--+-+-+-">donde expira, entre flores, la onda inquieta,</l>
+     <l n="3" met="---+-+---+-">en monumento digno del poeta,</l>
+     <l n="4" met="-+-+---+-+-">su hermosa estatua se alzará triunfante.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="-++--++--+-">El sol le ofrecerá nimbo radiante;</l>
+     <l n="6" met="--+--+---+-">sus perfumes, la rosa y la violeta;</l>
+     <l n="7" met="-+-+---+-+-">la aurora, el beso de su luz discreta;</l>
+     <l n="8" met="--+--+---+-">el crepúsculo, brisa refrescante.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">Traerá la noche espíritus y hadas,</l>
+     <l n="10" met="-+---+---+-">visiones de Leyendas peregrinas</l>
+     <l n="11" met="---+-+---+-">que poblarán las verdes enramadas.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+---+---+-">La alondra y las oscuras golondrinas</l>
+     <l n="13" met="--+--+---+-">cantarán, al lucir las alboradas,</l>
+     <l n="14" met="-+---+---+-">las Rimas inmortales y divinas.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

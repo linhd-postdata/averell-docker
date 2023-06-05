@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ANECDOTE</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">15</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_anecdote</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ANECDOTE</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ANECDOTE</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="8">LE poète, mourant de faim</l>
+     <l n="2" rhyme="b" line_length="8">Suivant l’immuable légende,</l>
+     <l n="3" rhyme="a" line_length="8">S’en alla frapper à la fin</l>
+     <l n="4" rhyme="b" line_length="8">Chez un éditeur de sa bande,</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="8">— Sa bande, car ce sont bandits</l>
+     <l n="6" rhyme="b" line_length="8">Que tels éditeurs et poètes —</l>
+     <l n="7" rhyme="a" line_length="8">A l’effet d’un maravédis</l>
+     <l n="8" rhyme="b" line_length="8">Ou deux, pour rompre ses diètes.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="a" line_length="8">L’éditeur qui venait de ne</l>
+     <l n="10" rhyme="b" line_length="8">Vendre… qu’une édition toute,</l>
+     <l n="11" rhyme="a" line_length="8">Bref, répondit : « Mon vieux, vous me</l>
+     <l n="12" rhyme="b" line_length="8">Volez comme sur la grand’route. »</l>
+    </lg>
+    <lg n="4">
+     <l n="13" rhyme="a" line_length="8">Le poète, toujours serein,</l>
+     <l n="14" rhyme="b" line_length="8">Et toujours serin, lui réplique :</l>
+     <l n="15" rhyme="a" line_length="8">« Des voleurs comme moi, je crain</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

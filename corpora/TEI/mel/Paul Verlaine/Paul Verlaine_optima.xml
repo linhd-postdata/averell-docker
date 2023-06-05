@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>OPTIMA</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">12</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_optima</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>OPTIMA</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>OPTIMA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="10">Oui, la calme répudiation</l>
+     <l n="2" rhyme="a" line_length="6+4">D'un jadis coupable et la passion</l>
+     <l n="3" rhyme="a" line_length="10">Vers cette réconciliation ;</l>
+    </lg>
+    <lg n="2">
+     <l n="4" rhyme="a" line_length="10">La simplicité dans la vérité ;</l>
+     <l n="5" rhyme="a" line_length="10">La sincérité dans l'humilité ;</l>
+     <l n="6" rhyme="a" line_length="10">L'humble austérité dans l'obscurité ;</l>
+    </lg>
+    <lg n="3">
+     <l n="7" rhyme="a" line_length="4+6">L'obscurité dans le simple devoir ;</l>
+     <l n="8" rhyme="a" line_length="4+6">Le tort d'autrui, prier, ne pas le voir ;</l>
+     <l n="9" rhyme="a" line_length="6+4">Le sien propre, prier pour le savoir ;</l>
+    </lg>
+    <lg n="4">
+     <l n="10" rhyme="a" line_length="4+6">En tout donner l'exemple si l'on peut ;</l>
+     <l n="11" rhyme="a" line_length="4+6">En rien ne pas faire ce que l'on veut,</l>
+     <l n="12" rhyme="a" line_length="4+6">Qu'aimer Dieu d'un cœur qui veut et qui peut.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

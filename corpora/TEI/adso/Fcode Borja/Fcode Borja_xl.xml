@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>- XL - </title>
+    <author>Fcode Borja</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Fcode Borja_xl</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Sonetos Siglo de Oro</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>- XL - </title>
+     <author>Fcode Borja</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>- XL - </head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="-+---+---+-">Del orbe los segundos pobladores,</l>
+     <l n="2" met="-+---+---+-">familia del antiguo Patriarca,</l>
+     <l n="3" met="--++---+-+-">dejarán libre la prisión del arca,</l>
+     <l n="4" met="-+---+---+-">sagrado de sus riesgos, y temores.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+--+-+---+-">Ya de la inculta tierra moradores,</l>
+     <l n="6" met="-+-+---+-+-">en cuanto el Sol con su fatiga abarca,</l>
+     <l n="7" met="-+-+---+-+-">alegres miran su animosa barca</l>
+     <l n="8" met="+--+---+-+-">surta del monte en las hermosas flores.</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+---+-+-">Y advierten mudos la pasada risa</l>
+     <l n="10" met="-+---+---+-">de aquellos que juzgaron por locura</l>
+     <l n="11" met="-+-+---+++-">la nueva industria, que libró a tan pocos.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="-+-+-+---+-">Si vivo ejemplo, Fabio, nos avisa,</l>
+     <l n="13" met="-+---+---+-">que al hombre la estrecheza le asegura,</l>
+     <l n="14" met="++-+---+-+-">que hay pocos cuerdos, entre muchos locos.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>A mi propio retrato</title>
+    <author>Álvaro Cubillo de Aragón</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Álvaro Cubillo de Aragón_a-mi-propio-retrato</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>A mi propio retrato</title>
+     <author>Álvaro Cubillo de Aragón</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>A mi propio retrato</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="--+--+-+-+-">Agradece al pincel ¡oh sombra vana!</l>
+     <l n="2" met="+--+-+-+-+-">tanto esplendor, que a breve lienzo fía,</l>
+     <l n="3" met="-+---+---+-">exento a la cobarde valentía</l>
+     <l n="4" met="-+-+---+-+-">de aquel que huyendo mi verdor profana.</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="++-+-+-+-+-">Hoy me parezco a ti, mas no mañana.</l>
+     <l n="6" met="-+-+-+-+-+-">¡Dichoso tú que naces cada día</l>
+     <l n="7" met="-+-+-+---+-">y el tiempo no podrá con su porfía</l>
+     <l n="8" met="-+-+-+-+-+-">poner en ti una arruga ni una cana!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="-+-+-+---+-">Dichoso tú que el curso fugitivo</l>
+     <l n="10" met="---+-+---+-">de su veloz carrera, despreciando,</l>
+     <l n="11" met="+--+---+++-">siglos apuestas a vivir no vivo.</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="---+-+-+-+-">Y sin ventura yo, que siempre dando</l>
+     <l n="13" met="+-+--+-+-+-">cada paso a la muerte, soy cautivo</l>
+     <l n="14" met="-+++-+-+++-">que sé no vivo, y muero no sé cuando.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Přípitek moderní.</title>
+    <author>Vrchlický, Jaroslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">16</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Vrchlický, Jaroslav_pripitek-moderni</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Přípitek moderní.</title>
+     <author>Vrchlický, Jaroslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Přípitek moderní.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="0101010010" rhyme="1" line_length="10">Co věků přešlo! – Vichřice divá!</l>
+     <l n="2" met="0101010010" rhyme="1" line_length="10">Leč v ňadrech píseň posud je živá,</l>
+     <l n="3" met="1001010010" rhyme="2" line_length="10">Homera slunce s úsměvem jara</l>
+     <l n="4" met="10010" rhyme="2" line_length="5">v číši nám hárá!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="0101010010" rhyme="3" line_length="10">Co časů přejde, odvěké žití!</l>
+     <l n="6" met="1001010010" rhyme="3" line_length="10">A jak my pijem, budou zas píti</l>
+     <l n="7" met="1001010010" rhyme="4" line_length="10">s jinými plesy, s jinými zpěvy</l>
+     <l n="8" met="10110" rhyme="4" line_length="5">stejnou krev révy.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="0101010010" rhyme="5" line_length="10">Nechť proto číše pukne nám v kusy!</l>
+     <l n="10" met="1001010010" rhyme="5" line_length="10">Mysleme, tak že býti to musí;</l>
+     <l n="11" met="1001010010" rhyme="6" line_length="10">někdo si na nás na Hadu řece</l>
+     <l n="12" met="10010" rhyme="6" line_length="5">vzpomene přece!</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="1001010010" rhyme="7" line_length="10">A ne-li, dobrá, usneme taky!</l>
+     <l n="14" met="0101010010" rhyme="7" line_length="10">Dost, že jsme krásné líbali zraky,</l>
+     <l n="15" met="1000010010" rhyme="8" line_length="10">v pochmurné že jsme bouřlivé chvíli</l>
+     <l n="16" met="10010" rhyme="8" line_length="5">vesele žili!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

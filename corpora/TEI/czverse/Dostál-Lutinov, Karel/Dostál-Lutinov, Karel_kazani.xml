@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>KÁZANI.</title>
+    <author>Dostál-Lutinov, Karel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Dostál-Lutinov, Karel_kazani</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>KÁZANI.</title>
+     <author>Dostál-Lutinov, Karel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>KÁZANI.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10010000" line_length="8">Hanáko, nezapominé,</l>
+     <l n="2" met="011010" rhyme="1" line_length="6">že máš zostat svojim,</l>
+     <l n="3" met="10001000" line_length="8">neopič se po cezině,</l>
+     <l n="4" met="101010" rhyme="1" line_length="6">nekrm koně chvojim!</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="10101000" line_length="8">Néni všecko pokročely,</l>
+     <l n="6" met="001010" rhyme="2" line_length="6">co si pokrok řiká,</l>
+     <l n="7" met="10101010" line_length="8">často taky pokrok svádi</l>
+     <l n="8" met="101000" rhyme="2" line_length="6">z lože do rebnika.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="10011000" line_length="8">Tatiček bel starosvěcké,</l>
+     <l n="10" met="100100" rhyme="3" line_length="6">stavěl gront bez křeko,</l>
+     <l n="11" met="10101010" line_length="8">sen – sám „pokrok“ – stavi taky-</l>
+     <l n="12" met="100010" rhyme="3" line_length="6">s dacanama štreko.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="10011010" line_length="8">V hospodě měl svoje pole,</l>
+     <l n="14" met="101010" rhyme="4" line_length="6">nechtěl „dělat drába“ –</l>
+     <l n="15" met="01001000" line_length="8">ja, kdo se moc nafokoje,</l>
+     <l n="16" met="101010" rhyme="4" line_length="6">pokne tajak žaba.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10010100" line_length="8">Hospoda néni záložná,</l>
+     <l n="18" met="101010" rhyme="5" line_length="6">chábi néni obrok,</l>
+     <l n="19" met="10001000" line_length="8">nevěra je žedovina,</l>
+     <l n="20" met="101010" rhyme="5" line_length="6">ale žádné pokrok.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

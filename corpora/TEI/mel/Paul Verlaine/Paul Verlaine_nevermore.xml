@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Nevermore</title>
+    <author>Paul Verlaine</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Paul Verlaine_nevermore</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Nevermore</title>
+     <author>Paul Verlaine</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Nevermore</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Allons, mon pauvre cœur, allons, mon vieux complice,</l>
+     <l n="2" rhyme="b" line_length="6+6">Redresse et peins à neuf tous tes arcs triomphaux ;</l>
+     <l n="3" rhyme="b" line_length="6+6">Brûle un encens ranci sur tes autels d'or faux ;</l>
+     <l n="4" rhyme="a" line_length="6+6">Sème de fleurs les bords béants du précipice ;</l>
+     <l n="5" rhyme="a" line_length="6+6">Allons, mon pauvre cœur, allons, mon vieux complice !</l>
+    </lg>
+    <lg n="2">
+     <l n="6" rhyme="a" line_length="6+6">Pousse à Dieu ton cantique, ô chantre rajeuni ;</l>
+     <l n="7" rhyme="b" line_length="6+6">Entonne, orgue enroué, des Te Deum splendides ;</l>
+     <l n="8" rhyme="b" line_length="6+6">Vieillard prématuré, mets du fard sur tes rides ;</l>
+     <l n="9" rhyme="a" line_length="6+6">Couvre-toi de tapis mordorés, mur jauni ;</l>
+     <l n="10" rhyme="a" line_length="6+6">Pousse à Dieu ton cantique, ô chantre rajeuni.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" rhyme="a" line_length="6+6">Sonnez, grelots; sonnez, clochettes; sonnez, cloches !</l>
+     <l n="12" rhyme="b" line_length="6+6">Car mon rêve impossible a pris corps, et je l'ai</l>
+     <l n="13" rhyme="b" line_length="6+6">Entre mes bras pressé : le Bonheur, cet ailé</l>
+     <l n="14" rhyme="a" line_length="6+6">Voyageur qui de l'Homme évite les approches,</l>
+     <l n="15" rhyme="a" line_length="6+6">– Sonnez, grelots ; sonnez, clochettes ; sonnez, cloches !</l>
+    </lg>
+    <lg n="4">
+     <l n="16" rhyme="a" line_length="6+6">Le Bonheur a marché côte à côte avec moi.</l>
+     <l n="17" rhyme="b" line_length="6+6">Mais la Fatalité ne connaît point de trêve :</l>
+     <l n="18" rhyme="b" line_length="6+6">Le ver est dans le fruit, le réveil dans le rêve,</l>
+     <l n="19" rhyme="a" line_length="6−6">Et le remords est dans l'amour : telle est la loi.</l>
+     <l n="20" rhyme="a" line_length="6+6">– Le Bonheur a marché côte à côte avec moi.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

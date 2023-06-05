@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>NÁŠ ZPĚV.</title>
+    <author>Hálek, Vítězslav</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">5</measure>
+    <measure unit="line">20</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Hálek, Vítězslav_nas-zpev</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>NÁŠ ZPĚV.</title>
+     <author>Hálek, Vítězslav</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>NÁŠ ZPĚV.</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="11010101" line_length="8">Zem Čechů velký krásný hvozd,</l>
+     <l n="2" met="0101010" rhyme="1" line_length="7">jenž zpěvem mocně zvučí,</l>
+     <l n="3" met="01010100" line_length="8">že srdce mile okřívá</l>
+     <l n="4" met="0100010" rhyme="1" line_length="7">a srdcem být se učí.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" met="01000100" line_length="8">A venku tam ať jakkoliv</l>
+     <l n="6" met="0101010" rhyme="2" line_length="7">se na nás chtějí dívat:</l>
+     <l n="7" met="01010100" line_length="8">tu přednost máme před světem –</l>
+     <l n="8" met="0100010" rhyme="2" line_length="7">my dovedeme zpívat.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" met="01010100" line_length="8">My máme pěvců knížata</l>
+     <l n="10" met="0101010" rhyme="3" line_length="7">a zpěvu statné reky,</l>
+     <l n="11" met="01010100" line_length="8">nám šumí háje písněmi</l>
+     <l n="12" met="0100010" rhyme="3" line_length="7">a zpívají nám řeky.</l>
+    </lg>
+    <lg n="4">
+     <l n="13" met="01010100" line_length="8">Nás matky kojí písněmi,</l>
+     <l n="14" met="1101010" rhyme="4" line_length="7">hoch zpívat učí děvu,</l>
+     <l n="15" met="01010100" line_length="8">my máme po všech končinách</l>
+     <l n="16" met="0100010" rhyme="4" line_length="7">své apoštoly zpěvu.</l>
+    </lg>
+    <lg n="5">
+     <l n="17" met="10110100" line_length="8">Protož nech jiný dobývá</l>
+     <l n="18" met="1001010" rhyme="5" line_length="7">blesku a hromu řevem:</l>
+     <l n="19" met="00100100" line_length="8">my též umíme královat,</l>
+     <l n="20" met="0100010" rhyme="5" line_length="7">leč vítězíme zpěvem.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

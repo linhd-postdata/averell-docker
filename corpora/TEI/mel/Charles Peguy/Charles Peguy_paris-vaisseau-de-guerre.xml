@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Paris vaisseau de guerre</title>
+    <author>Charles Peguy</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Charles Peguy_paris-vaisseau-de-guerre</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Métrique en Ligne</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Paris vaisseau de guerre</title>
+     <author>Charles Peguy</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Paris vaisseau de guerre</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" rhyme="a" line_length="6+6">Double vaisseau de ligne au long des colonnades,</l>
+     <l n="2" rhyme="b" line_length="6+6">Autrefois bâtiment au centuple sabord,</l>
+     <l n="3" rhyme="b" line_length="6+6">Aujourd'hui lourde usine, énorme coffre-fort</l>
+     <l n="4" rhyme="a" line_length="6+6">Fermé sur le secret des sourdes canonnades.</l>
+    </lg>
+    <lg n="2">
+     <l n="5" rhyme="a" line_length="6+6">Nos pères t'ont dansé de chaudes sérénades,</l>
+     <l n="6" rhyme="b" line_length="6+6">Ils t'ont fleuri du sang de la plus belle mort,</l>
+     <l n="7" rhyme="b" line_length="6+6">Quand au gaillard d'avant vers l'un et l'autre bord</l>
+     <l n="8" rhyme="a" line_length="6+6">Bondissait le troupeau des graves caronades.</l>
+    </lg>
+    <lg n="3">
+     <l n="9" rhyme="c" line_length="6+6">Mais nous apporterons à tes destins géants</l>
+     <l n="10" rhyme="d" line_length="6+6">Un cœur si sérieux et si brûlé de flamme,</l>
+     <l n="11" rhyme="c" line_length="6+6">Un cœur si curieux de tous les océans,</l>
+    </lg>
+    <lg n="4">
+     <l n="12" rhyme="d" line_length="6+6">Soldats fils de soldats sous la même oriflamme,</l>
+     <l n="13" rhyme="c" line_length="6+6">Qu'on nous mettra valets de tes canons béants,</l>
+     <l n="14" rhyme="d" line_length="6+6">Monstres verts accroupis aux pieds de Notre Dame.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

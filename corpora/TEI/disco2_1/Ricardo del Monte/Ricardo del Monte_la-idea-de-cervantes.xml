@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>La idea de Cervantes</title>
+    <author>Ricardo del Monte</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">4</measure>
+    <measure unit="line">14</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Ricardo del Monte_la-idea-de-cervantes</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Disco V2.1</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>La idea de Cervantes</title>
+     <author>Ricardo del Monte</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>La idea de Cervantes</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1" stanza_type="cuarteto">
+     <l n="1" met="+-+-+-+--+-">Me entristezco riéndome, y demando:</l>
+     <l n="2" met="+-+--+---+-">¿no erais locos, también, aventureros,</l>
+     <l n="3" met="-+---+---+-">de Arturo inmaculados caballeros,</l>
+     <l n="4" met="+----+---+-">pares de Carlomagno y de Rolando;</l>
+    </lg>
+    <lg n="2" stanza_type="cuarteto">
+     <l n="5" met="+----+---+-">mártires voluntarios en nefando</l>
+     <l n="6" met="+--+---+-+-">circo inmolados con suplicios fieros;</l>
+     <l n="7" met="--+--+---+-">paladines andantes y palmeros,</l>
+     <l n="8" met="-+-+-+---+-">cruzando el pecho, el Asia ensangrentado!</l>
+    </lg>
+    <lg n="3" stanza_type="terceto">
+     <l n="9" met="+--+-+---+-">¡Almas sublimes, rica florescencia</l>
+     <l n="10" met="-+---+---+-">de heroica Juventud, cuando rendía</l>
+     <l n="11" met="-+-+---+-+-">Cervantes culto a la Razón, su mente</l>
+    </lg>
+    <lg n="4" stanza_type="terceto">
+     <l n="12" met="++-+---+-+-">no fue apodar vuestra virtud demencia!</l>
+     <l n="13" met="-+-+-+---+-">Amó el Honor, la Fe, la Poesía,</l>
+     <l n="14" met="-+-+---+-+-">¡¡Y quién dijere lo contrario, miente!!</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

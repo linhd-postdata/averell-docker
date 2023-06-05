@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>ÚKOL BÁSNÍKA</title>
+    <author>Machar, Josef Svatopluk</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Machar, Josef Svatopluk_ukol-basnika</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>ÚKOL BÁSNÍKA</title>
+     <author>Machar, Josef Svatopluk</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>ÚKOL BÁSNÍKA</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="10100010" line_length="8">V cifrách, cynismu a kšeftu</l>
+     <l n="2" met="00101010" rhyme="1" line_length="8">se to milé lidstvo válí,</l>
+     <l n="3" met="10101010" line_length="8">zatím má mu básník střežit</l>
+     <l n="4" met="10101000" rhyme="1" line_length="8">jeho „svaté ideály“:</l>
+     <l n="5" met="00101010" line_length="8">tu je trochu ohněm hřáti,</l>
+     <l n="6" met="101000" rhyme="2" line_length="6">aby nevychladly,</l>
+     <l n="7" met="00101010" line_length="8">tu zas trochu k ledu držet,</l>
+     <l n="8" met="101000" rhyme="2" line_length="6">aby nezasmrádly.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

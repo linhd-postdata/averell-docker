@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Z úskalí rozvalin</title>
+    <author>Racek, Adolf</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">3</measure>
+    <measure unit="line">17</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Racek, Adolf_z-uskali-rozvalin</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Z úskalí rozvalin</title>
+     <author>Racek, Adolf</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Z úskalí rozvalin</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="100100" rhyme="1" line_length="6">Z úskalí rozvalin </l>
+     <l n="2" met="100100" rhyme="2" line_length="6">tryskaje opály,</l>
+     <l n="3" met="100100" rhyme="2" line_length="6">klenoty, krystaly</l>
+     <l n="4" met="100100" rhyme="1" line_length="6">hladiny do hlubin</l>
+     <l n="5" met="10010" line_length="5">VODOTRYSK chrlí.</l>
+    </lg>
+    <lg n="2">
+     <l n="6" met="100101" rhyme="1" line_length="6">V lastur a škeblí klín</l>
+     <l n="7" met="100101" rhyme="3" line_length="6">blankytný, sklenný stvol</l>
+     <l n="8" met="1001001" rhyme="3" line_length="7">z leknínů, lilií kol</l>
+     <l n="9" met="100100" rhyme="1" line_length="6">lákavých ve vln splyn</l>
+     <l n="10" met="10010" line_length="5">kalichy perlí.</l>
+    </lg>
+    <lg n="3">
+     <l n="11" met="0100100" rhyme="4" line_length="7">To k zrcadlu pokleká</l>
+     <l n="12" met="100100" rhyme="4" line_length="6">královská milenka</l>
+     <l n="13" met="100100" rhyme="5" line_length="6">na hrdlo z úběle,</l>
+     <l n="14" met="100100" rhyme="5" line_length="6">na lokty unylé,</l>
+     <l n="15" met="100100" rhyme="4" line_length="6">korály navléká,</l>
+     <l n="16" met="100101" rhyme="4" line_length="6">v oblaka láskou lká –</l>
+     <l n="17" met="100" line_length="3">vodotrysk.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>

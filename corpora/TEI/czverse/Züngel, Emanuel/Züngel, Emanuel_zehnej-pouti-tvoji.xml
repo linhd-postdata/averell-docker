@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Žehnej pouti Tvojí</title>
+    <author>Züngel, Emanuel</author>
+   </titleStmt>
+   <extent>
+    <measure unit="stanza">1</measure>
+    <measure unit="line">8</measure>
+   </extent>
+   <publicationStmt>
+    <publisher>UNED University</publisher>
+    <idno>Züngel, Emanuel_zehnej-pouti-tvoji</idno>
+    <availability status="free">
+     <p>The text is freely available.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title>Corpus of Czech Verse</title>
+   </seriesStmt>
+   <sourceDesc>
+    <bibl>
+     <title>Žehnej pouti Tvojí</title>
+     <author>Züngel, Emanuel</author>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <head>Žehnej pouti Tvojí</head>
+  </front>
+  <body>
+   <lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">
+    <lg n="1">
+     <l n="1" met="101010" line_length="6">Žehnej pouti Tvojí </l>
+     <l n="2" met="101010" rhyme="1" line_length="6">onen Pán všech světů,</l>
+     <l n="3" met="010010" line_length="6">jenž nad žitím blahým</l>
+     <l n="4" met="1010" rhyme="2" line_length="4">tvorů bdívá!</l>
+     <l n="5" met="101010" line_length="6">Sladce žij, jak rosa</l>
+     <l n="6" met="101010" rhyme="1" line_length="6">v růže vonném květu;</l>
+     <l n="7" met="101010" line_length="6">mír a zdar nechť po Tvém</l>
+     <l n="8" met="1010" rhyme="2" line_length="4">boku bývá.</l>
+    </lg>
+   </lg>
+  </body>
+ </text>
+</TEI>
