@@ -1,2 +1,2 @@
 # averell-docker
-Repositopry for the Averell docker
+Repository for the Averell docker
