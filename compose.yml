@@ -1,0 +1,9 @@
+name: averell
+services:
+  averell:
+    image: linhd-postdata/averell-docker
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5741:5741"
