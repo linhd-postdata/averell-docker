@@ -46,7 +46,7 @@ with gr.Blocks() as app_averell:
         # Export to TEI
         if output_format == "TEI":
             generate_tei(corpora_list, output_path, True)
-            return {out_file: gr.File.update(value=f"corpus/{output_format}.zip",
+            return {out_file: gr.File.update(value=f"corpora/{output_format}.zip",
                                              label=output_format)}
         # Export to JSON
         if output_granularity == "poem":
@@ -66,7 +66,7 @@ with gr.Blocks() as app_averell:
         else:
             json_l, filename = export_corpora(get_ids(corpora_list),
                                                  output_granularity,
-                                                 "corpus/JSON",
+                                                 "corpora/JSON",
                                                  None,
                                                  no_download=False,
                                                  ui_mode=True)
